@@ -24426,5 +24426,106 @@
       "insider_score": 80.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "market": "Will the 2026 State of the Union address last 100 minutes or longer?",
+    "market_slug": "will-the-2026-state-of-the-union-address-last-100-minutes-or-longer",
+    "wallet": "0x2ede67fcc8d39a8b8ccd9941bd63cdd730ae3a1d",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (1d old)",
+        "Large bet ($1,447)",
+        "Low activity (2 txns)"
+      ],
+      "amount": 1446.8799989999998,
+      "odds": 0.5549711176000726,
+      "raw_price": 0.5549711176000726,
+      "outcome": "Yes",
+      "potential_pnl": 1160.246666,
+      "pnl_multiplier": 0.8018955730965219,
+      "wallet_age_days": 1,
+      "total_activities": 2
+    },
+    "timestamp": "2026-02-24T19:32:41.041638",
+    "trade_hash": "0x4f352f0f3fbdab20860bd7e162f4de04b9f29488c4034cf752f9ec12c13a1dcd",
+    "trade_timestamp": 1771961416,
+    "latency": null,
+    "wallet_stats": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "side": "BUY",
+      "price": 0.5549711176000726,
+      "effective_price": 0.5549711176000726,
+      "size": 2607.126665,
+      "amount": 1446.8799989999998,
+      "potential_pnl": 1160.246666,
+      "pnl_multiplier": 0.8018955730965219,
+      "is_no": false
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+30.4%)"
+      ],
+      "category": "politics_near",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.02,
+        "min_edge": 0.03
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.2509942235200145,
+      "market_price": 0.5549711176000726,
+      "edge": 0.30397689408005807,
+      "edge_percent": 30.397689408005807,
+      "min_edge_required": 0.03,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "The President's speechwriting team decides to include more detailed policy discussions.",
+          "The political climate necessitates a longer address to cover pressing issues.",
+          "The President's speaking style tends to be more elaborate and lengthy."
+        ],
+        "weakest_link": "The political climate necessitates a longer address to cover pressing issues."
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Increased focus on domestic issues leading to longer speeches.",
+        "Historical trends of State of the Union addresses becoming longer over time."
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.30397689408005807,
+      "edge_percent": 30.397689408005807
+    },
+    "financial_analyst": {
+      "signal_quality": 46.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 30.4,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
