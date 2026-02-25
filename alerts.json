@@ -24639,5 +24639,115 @@
       "insider_score": 110.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "market": "US strikes Iran by February 28, 2026?",
+    "market_slug": "us-strikes-iran-by-february-28-2026-227-967-547-688-589-491-592-418-452-924-384-915-464-672-196-157-993-596-269-535-381-391-471-256-988-997-296-225-762-973-292-827-345-182-558-215-794-879",
+    "wallet": "0xd3a6e523c440f94f9259398fbcf7b5cc5ccffd55",
+    "analysis": {
+      "score": 85,
+      "flags": [
+        "Against trend (10.0% effective odds)",
+        "Large bet ($1,500)",
+        "Pre-event latency: 2999m"
+      ],
+      "amount": 1499.9929999999997,
+      "odds": 0.09999999999999998,
+      "raw_price": 0.9,
+      "outcome": "No",
+      "potential_pnl": 13499.937,
+      "pnl_multiplier": 9.000000000000002,
+      "wallet_age_days": 538,
+      "total_activities": 100
+    },
+    "timestamp": "2026-02-25T22:02:58.938802",
+    "trade_hash": "0xb9027ef7ba26401a4b22cd5b6fc1d532c6238654daa21fc25740c32bac00cc3e",
+    "trade_timestamp": 1772056868,
+    "latency": {
+      "latency_seconds": 179932.0,
+      "latency_minutes": 2998.866666666667,
+      "is_pre_event": true,
+      "severity": "CRITICAL",
+      "trade_time": "2026-02-25T22:01:08+00:00",
+      "event_time": "2026-02-28T00:00:00+00:00"
+    },
+    "wallet_stats": null,
+    "trade_data": {
+      "outcome": "No",
+      "side": "SELL",
+      "price": 0.9,
+      "effective_price": 0.09999999999999998,
+      "size": 14999.93,
+      "amount": 1499.9929999999997,
+      "potential_pnl": 13499.937,
+      "pnl_multiplier": 9.000000000000002,
+      "is_no": true
+    },
+    "irrationality": {
+      "irrationality_score": 50,
+      "flags": [
+        "Category structurally prone to longshot bias",
+        "Crisis keyword detected ('strike')",
+        "Large mispricing edge (+69.6%)"
+      ],
+      "category": "geopolitics",
+      "category_info": {
+        "strength": "high",
+        "typical_overpricing": 0.05,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.20400000000000001,
+      "market_price": 0.9,
+      "edge": 0.696,
+      "edge_percent": 69.6,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "rare",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "rare",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Escalation of tensions between the US and Iran",
+          "Political support within the US government for military action",
+          "Public sentiment favoring intervention"
+        ],
+        "weakest_link": "Public sentiment favoring intervention"
+      },
+      "category": "geopolitics",
+      "narrative_drivers": [
+        "Rising geopolitical tensions in the Middle East",
+        "Influence of domestic politics on foreign policy decisions"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 135,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 85,
+      "insider_position": "NO",
+      "irrationality_score": 50,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.696,
+      "edge_percent": 69.6
+    },
+    "financial_analyst": {
+      "signal_quality": 87.0,
+      "stance": "HIGH_CONVICTION",
+      "edge_percent": 69.6,
+      "signal_strength": 135.0,
+      "insider_score": 85.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
