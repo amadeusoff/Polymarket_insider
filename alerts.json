@@ -24850,5 +24850,106 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "market": "Will Lens win the 2025\u201326 French Ligue 1?",
+    "market_slug": "will-lens-win-the-202526-french-ligue-1",
+    "wallet": "0x83b9801cb7b58fdedba42d96fd313a7c2ac2e9bf",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,087)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 1087.2549999999999,
+      "odds": 0.12198530236732862,
+      "raw_price": 0.12198530236732862,
+      "outcome": "Yes",
+      "potential_pnl": 7825.744999999999,
+      "pnl_multiplier": 7.197708909133552,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-02-26T11:11:09.923762",
+    "trade_hash": "0x5c7dd0dd44f72d39af3e0f7bc4706b89015abfd9d051d88c9cdd67cc1f6d732a",
+    "trade_timestamp": 1772104126,
+    "latency": null,
+    "wallet_stats": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "side": "BUY",
+      "price": 0.12198530236732862,
+      "effective_price": 0.12198530236732862,
+      "size": 8913.0,
+      "amount": 1087.2549999999999,
+      "potential_pnl": 7825.744999999999,
+      "pnl_multiplier": 7.197708909133552,
+      "is_no": false
+    },
+    "irrationality": {
+      "irrationality_score": 25,
+      "flags": [
+        "Longshot (12%) in medium bias category (politics_near)"
+      ],
+      "category": "politics_near",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.02,
+        "min_edge": 0.03
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.08439706047346572,
+      "market_price": 0.12198530236732862,
+      "edge": 0.037588241893862895,
+      "edge_percent": 3.7588241893862895,
+      "min_edge_required": 0.05,
+      "is_mispriced": false,
+      "edge_quality": "WEAK",
+      "base_rate_class": "occasional",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "occasional",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Lens maintains a strong squad with minimal injuries",
+          "Key rivals underperform throughout the season",
+          "Effective management and tactical execution by coaching staff"
+        ],
+        "weakest_link": "Key rivals underperform throughout the season"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Lens' recent performance trends in Ligue 1",
+        "Potential transfers and squad improvements"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 25,
+      "is_irrational": false,
+      "is_mispriced": false,
+      "edge": 0.037588241893862895,
+      "edge_percent": 3.7588241893862895
+    },
+    "financial_analyst": {
+      "signal_quality": 29.6,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 3.76,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
