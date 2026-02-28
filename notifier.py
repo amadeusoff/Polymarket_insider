@@ -229,13 +229,11 @@ def generate_ai_summary(alert):
 
 def format_institutional_alert(alert):
     """
-    Format alert in institutional-grade style with irrationality analysis.
-    
-    Signal types:
-    - 🔥 ALPHA: Insider NO + mispricing confirmed
-    - ⚠️ CONFLICT: Insider YES + market overpriced
-    - 🚨 INSIDER_CONFIRMED: Insider YES + market underpriced
-    - 👁️ INSIDER_ONLY: Insider activity without clear mispricing
+    Format alert with clear visual hierarchy:
+    1. Market state + Edge (key decision number)
+    2. Insider context
+    3. Risk interpretation
+    4. Action recommendation
     """
     from datetime import datetime, timezone
     
@@ -244,134 +242,147 @@ def format_institutional_alert(alert):
     wallet_stats = alert.get('wallet_stats')
     latency = alert.get('latency')
     
-    # Get irrationality data (new)
     combined_signal = alert.get('combined_signal', {})
     irrationality = alert.get('irrationality', {})
     mispricing = alert.get('mispricing', {})
     
     signal_type = combined_signal.get('signal_type', 'INSIDER_ONLY')
     signal_emoji = combined_signal.get('signal_emoji', '👁️')
-    signal_strength = combined_signal.get('signal_strength', analysis.get('score', 0))
     
-    # Determine header based on signal type
-    if signal_type == "ALPHA":
-        header = f"{signal_emoji} ALPHA SIGNAL — Insider + Mispricing Aligned"
-    elif signal_type == "CONFLICT":
-        header = f"{signal_emoji} CONFLICT — Insider vs Statistics"
-    elif signal_type == "INSIDER_CONFIRMED":
-        header = f"{signal_emoji} INSIDER CONFIRMED — Real Information Likely"
-    elif signal_type == "CONTRARIAN_INSIDER":
-        header = f"{signal_emoji} CONTRARIAN — Unusual Insider Behavior"
-    else:
-        header = f"{signal_emoji} INSIDER ACTIVITY"
+    # === HEADER ===
+    header_map = {
+        "ALPHA": f"{signal_emoji} ALPHA — Insider + Statistics Aligned",
+        "CONFLICT": f"{signal_emoji} CONFLICT — Insider vs Statistics",
+        "INSIDER_CONFIRMED": f"{signal_emoji} INSIDER CONFIRMED",
+        "CONTRARIAN_INSIDER": f"{signal_emoji} CONTRARIAN INSIDER",
+        "INSIDER_ONLY": f"{signal_emoji} INSIDER ACTIVITY"
+    }
+    header = header_map.get(signal_type, f"{signal_emoji} SIGNAL")
     
-    # Market category
-    category = irrationality.get('category', 'other')
-    category_display = category.replace('_', ' ').title()
-    
-    # Get YES price for display
+    # === MARKET STATE (Primary focus) ===
     yes_price = alert.get('trade_data', {}).get('price', 0)
     no_price = 1 - yes_price
-    
-    # Wallet classification
-    if wallet_stats and wallet_stats.get('classification'):
-        classification = wallet_stats['classification']
-        insider_score = wallet_stats.get('insider_score', 0)
-        profile = f"{classification} ({insider_score:.0f}/100)"
-    else:
-        profile = "New Participant"
-    
-    # Lead time
-    if latency and latency.get('is_pre_event'):
-        lead_time_min = int(latency['latency_minutes'])
-        if lead_time_min < 120:
-            lead_time = f"{lead_time_min}m"
-        elif lead_time_min < 1440:
-            lead_time = f"{lead_time_min/60:.0f}h"
-        else:
-            lead_time = f"{lead_time_min/1440:.1f}d"
-    else:
-        lead_time = "N/A"
-    
-    # Build message
-    message = f"""{header}
-Category: {category_display}
-
-Market: {alert['market']}
-YES: {yes_price*100:.0f}¢ | NO: {no_price*100:.0f}¢
-
-INSIDER ACTIVITY
-Wallet: {alert['wallet'][:10]}...{alert['wallet'][-8:]}
-Bet: {trade_info['amount']} {trade_info['position']}
-Lead Time: {lead_time}
-Profile: {profile}"""
-    
-    # Historical performance
-    if wallet_stats and wallet_stats.get('total_trades', 0) >= 1:
-        total = wallet_stats['total_trades']
-        pre_event = wallet_stats.get('pre_event_trades', 0)
-        message += f"\nHistory: {total} trades | {pre_event} pre-event"
-    
-    # Irrationality analysis section
-    irr_score = irrationality.get('irrationality_score', 0)
-    irr_flags = irrationality.get('flags', [])
-    
-    message += f"\n\nIRRATIONALITY ANALYSIS"
-    message += f"\nScore: {irr_score}/100"
-    
-    for flag in irr_flags[:3]:  # Max 3 flags
-        message += f"\n• {flag}"
-    
-    # Mispricing analysis section  
     edge = mispricing.get('edge_percent', 0)
     rational_est = mispricing.get('rational_estimate', 0)
     edge_quality = mispricing.get('edge_quality', 'NONE')
-    is_mispriced = mispricing.get('is_mispriced', False)
     
-    message += f"\n\nMISPRICING ANALYSIS"
-    
-    if is_mispriced:
-        message += f"\n✅ CONFIRMED"
+    # Determine EV direction
+    if edge > 0:
+        ev_direction = "NO" if yes_price > rational_est else "YES"
+        overpriced_side = "YES" if yes_price > rational_est else "NO"
     else:
-        message += f"\n❌ NOT CONFIRMED"
+        ev_direction = None
+        overpriced_side = None
     
-    message += f"\nRational estimate: ~{rational_est*100:.0f}%"
-    message += f"\nMarket price: {yes_price*100:.0f}%"
-    message += f"\nEdge: {edge:+.1f}% ({edge_quality})"
+    message = f"""{header}
+
+📊 MARKET
+{alert['market']}
+YES {yes_price*100:.0f}% | NO {no_price*100:.0f}%"""
     
-    # Combined signal interpretation
-    interpretation = combined_signal.get('interpretation', '')
-    action = combined_signal.get('action_suggestion', '')
+    # === EDGE (Key decision number) ===
+    if edge > 0 and overpriced_side:
+        message += f"""
+
+📈 EDGE
+Rational estimate: {rational_est*100:.0f}%
+Mispricing: {edge:+.1f}% ({overpriced_side} overpriced)
+→ EV favors {ev_direction}"""
     
-    message += f"\n\nSIGNAL"
-    message += f"\nType: {signal_type}"
-    message += f"\nStrength: {signal_strength}/250"
-    message += f"\n{interpretation}"
+    # === INSIDER ACTIVITY ===
+    wallet = alert['wallet']
+    amount = float(analysis.get('amount', 0))
     
-    if action:
-        message += f"\n\n💡 {action}"
+    # Wallet age description
+    if wallet_stats:
+        classification = wallet_stats.get('classification', 'Unknown')
+        total_trades = wallet_stats.get('total_trades', 0)
+        wallet_desc = f"{classification} ({total_trades} trades)"
+    else:
+        wallet_desc = "New wallet"
     
-    # Suspicion factors from insider analysis
-    flags = analysis.get('flags', [])[:3]
-    if flags:
-        message += f"\n\nINSIDER FLAGS"
-        for flag in flags:
-            message += f"\n• {flag}"
+    # Lead time
+    if latency and latency.get('is_pre_event'):
+        lead_min = int(latency['latency_minutes'])
+        if lead_min < 60:
+            lead_time = f"{lead_min}m before event"
+        elif lead_min < 1440:
+            lead_time = f"{lead_min/60:.1f}h before event"
+        else:
+            lead_time = f"{lead_min/1440:.1f}d before event"
+    else:
+        lead_time = None
     
-    # Footer
+    message += f"""
+
+👤 INSIDER
+Wallet: {wallet}
+Bet: ${amount:,.0f} {trade_info['position']}
+Profile: {wallet_desc}"""
+    
+    if lead_time:
+        message += f"\n⏰ {lead_time}"
+    
+    # === RISK ASSESSMENT ===
+    risks = []
+    
+    # Wallet risks
+    if not wallet_stats or wallet_stats.get('total_trades', 0) < 3:
+        risks.append("New wallet (low credibility)")
+    
+    # Size risks
+    if amount < 5000:
+        risks.append("Small notional (not structural)")
+    elif amount > 50000:
+        risks.append("Large notional (whale activity)")
+    
+    # Signal conflict
+    if signal_type == "CONFLICT":
+        risks.append("Insider opposes statistical model")
+    
+    # Irrationality flags
+    irr_flags = irrationality.get('flags', [])
+    for flag in irr_flags[:2]:
+        if len(flag) < 50:
+            risks.append(flag)
+    
+    if risks:
+        message += f"\n\n⚠️ RISK"
+        for risk in risks[:4]:
+            message += f"\n• {risk}"
+    
+    # === ACTION RECOMMENDATION ===
+    fa = alert.get('financial_analyst', {})
+    stance = fa.get('stance', 'WATCH_ONLY')
+    quality = fa.get('signal_quality', 0)
+    
+    action_map = {
+        "HIGH_CONVICTION": f"✅ ACTION: Consider {ev_direction} position (3-5% sizing)" if ev_direction else "✅ ACTION: Follow insider direction",
+        "SELECTIVE": f"🔶 SELECTIVE: Small {ev_direction} position (1-2% sizing)" if ev_direction else "🔶 SELECTIVE: Monitor closely",
+        "WATCH_ONLY": "👁️ WATCH: No immediate action, monitor for confirmation"
+    }
+    
+    action_text = action_map.get(stance, "👁️ WATCH: Evaluate manually")
+    
+    # Override for CONFLICT
+    if signal_type == "CONFLICT":
+        action_text = f"⚠️ MANUAL REVIEW: Insider betting {trade_info['position'].split()[0]} but statistics favor opposite"
+    
+    message += f"\n\n{action_text}"
+    message += f"\nSignal quality: {quality:.0f}/100"
+    
+    # === FOOTER ===
     market_slug = alert.get('market_slug', '')
     timestamp = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M')
     
-    message += f"\n\nSource: https://polymarket.com/event/{market_slug}"
-    message += f"\nRadar | {timestamp} UTC"
+    message += f"\n\n🔗 https://polymarket.com/event/{market_slug}"
+    message += f"\n📍 Radar | {timestamp} UTC"
     
-    # Estimation warning
     if trade_info.get('is_estimated'):
-        message += f"\n\n⚠️ Position estimated from odds"
+        message += f"\n⚠️ Position estimated from odds"
     
-    # Truncate if needed
     if len(message) > 4000:
-        message = message[:4000] + "\n\n[Truncated]"
+        message = message[:4000] + "\n[...]"
     
     return message
 
