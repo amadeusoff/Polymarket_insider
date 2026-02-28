@@ -62,6 +62,85 @@ def get_active_markets(limit: int = 50) -> List[Dict]:
         print(f"[{datetime.now()}] ❌ Error fetching markets: {e}")
         return []
 
+
+def get_geopolitical_markets(limit: int = 50) -> List[Dict]:
+    """
+    Fetch markets with geopolitical/political keywords.
+    These are often insider targets but may not be top volume.
+    
+    Strategy: Fetch more markets and filter by keywords in question text.
+    """
+    url = f"{GAMMA_API_URL}/markets"
+    
+    # Keywords that indicate high-value insider targets
+    geo_keywords = ['iran', 'russia', 'ukraine', 'china', 'taiwan', 'war', 'strike', 
+                    'attack', 'military', 'missile', 'bomb', 'invasion', 'ceasefire',
+                    'trump', 'biden', 'election', 'congress', 'senate', 'impeach',
+                    'fed', 'tariff', 'sanction', 'nuclear']
+    
+    # Fetch a larger batch and filter
+    params = {
+        "limit": 200,
+        "active": "true",
+        "closed": "false",
+    }
+    
+    try:
+        time.sleep(REQUEST_DELAY)
+        response = make_request_with_retry(url, params)
+        if not response:
+            return []
+        
+        all_markets = response.json()
+        
+        # Filter by keywords in question
+        geo_markets = []
+        for m in all_markets:
+            question = m.get('question', '').lower()
+            if any(kw in question for kw in geo_keywords):
+                geo_markets.append(m)
+        
+        print(f"[{datetime.now()}] ✓ Found {len(geo_markets)} geopolitical markets (from {len(all_markets)} total)")
+        return geo_markets[:limit]
+        
+    except Exception as e:
+        print(f"[{datetime.now()}] ❌ Error fetching geopolitical markets: {e}")
+        return []
+
+
+def get_all_priority_markets() -> List[Dict]:
+    """
+    Combined market fetch with priority for geopolitical events.
+    
+    1. Fetch top 150 by volume (mainstream coverage)
+    2. Also fetch and prioritize geopolitical markets
+    
+    Deduplicates by conditionId.
+    """
+    seen_ids = set()
+    combined = []
+    
+    # 1. Volume-based (mainstream) - expanded from 50 to 150
+    volume_markets = get_active_markets(limit=150)
+    for m in volume_markets:
+        cid = m.get('conditionId')
+        if cid and cid not in seen_ids:
+            seen_ids.add(cid)
+            combined.append(m)
+    
+    # 2. Geopolitical (catches markets missed by volume sort)
+    geo_markets = get_geopolitical_markets(limit=100)
+    geo_added = 0
+    for m in geo_markets:
+        cid = m.get('conditionId')
+        if cid and cid not in seen_ids:
+            seen_ids.add(cid)
+            combined.append(m)
+            geo_added += 1
+    
+    print(f"[{datetime.now()}] 📊 Total markets: {len(combined)} ({geo_added} geopolitical added)")
+    return combined
+
 def is_trade_suspicious(trade: Dict, market: Dict) -> bool:
     """
     Smart filter to reduce noise - check if trade is worth analyzing

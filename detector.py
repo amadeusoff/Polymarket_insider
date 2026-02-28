@@ -1,6 +1,6 @@
 from datetime import datetime, timezone
 import re
-from collector import get_active_markets, get_recent_trades_paginated, get_wallet_activity, get_market_by_condition_id
+from collector import get_active_markets, get_all_priority_markets, get_recent_trades_paginated, get_wallet_activity, get_market_by_condition_id
 from analyzer import calculate_score, should_skip_alert
 from event_detector_fixed import detect_pre_event_trade, calculate_latency_score, get_latency_insight
 from database_fixed import (
@@ -30,8 +30,8 @@ def detect_insider_trades():
     execution_start = datetime.now()
     
     try:
-        # Fetch markets
-        markets = get_active_markets(limit=50)
+        # Fetch markets - expanded coverage for geopolitical events
+        markets = get_all_priority_markets()
         if not markets:
             print(f"[{datetime.now()}] ⚠️  WARNING: No markets fetched, aborting")
             return []
