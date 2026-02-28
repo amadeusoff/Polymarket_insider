@@ -1,0 +1,76 @@
+name: Backtest Validation
+
+on:
+  workflow_dispatch:
+    inputs:
+      days_back:
+        description: 'Days of historical data to collect'
+        required: false
+        default: '90'
+        type: string
+  
+  # Weekly run for monitoring
+  schedule:
+    - cron: '0 6 * * 1'  # Every Monday 6 AM UTC
+
+jobs:
+  backtest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      CI: true
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      
+      - name: Audit methodology
+        run: |
+          echo "═══════════════════════════════════════════════════════════════"
+          echo "METHODOLOGY AUDIT"
+          echo "═══════════════════════════════════════════════════════════════"
+          python backtest.py audit
+      
+      - name: Collect data
+        run: |
+          DAYS="${{ inputs.days_back }}"
+          DAYS="${DAYS:-90}"
+          echo "═══════════════════════════════════════════════════════════════"
+          echo "COLLECTING DATA (${DAYS} days)"
+          echo "═══════════════════════════════════════════════════════════════"
+          python backtest.py collect ${DAYS}
+      
+      - name: Run backtest
+        id: backtest
+        run: |
+          echo "═══════════════════════════════════════════════════════════════"
+          echo "RUNNING HARDENED BACKTEST"
+          echo "═══════════════════════════════════════════════════════════════"
+          python backtest.py run 2>&1 | tee backtest_output.txt
+      
+      - name: Upload results
+        uses: actions/upload-artifact@v4
+        with:
+          name: backtest-results
+          path: |
+            backtest_output.txt
+            backtest.db
+            config_hash.json
+          retention-days: 30
+      
+      - name: Post summary
+        run: |
+          echo "## Backtest Results" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo '```' >> $GITHUB_STEP_SUMMARY
+          cat backtest_output.txt >> $GITHUB_STEP_SUMMARY
+          echo '```' >> $GITHUB_STEP_SUMMARY
