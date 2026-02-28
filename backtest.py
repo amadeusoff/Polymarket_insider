@@ -216,15 +216,24 @@ def fetch_resolved_markets(days_back: int = 90, limit: int = 500) -> List[Dict]:
     url = f"{GAMMA_API_URL}/markets"
     params = {"limit": limit, "closed": "true", "order": "endDate", "_sort": "endDate:desc"}
     
+    print(f"[API] GET {url}")
+    print(f"[API] Params: {params}")
+    
     try:
         time.sleep(REQUEST_DELAY)
         response = requests.get(url, params=params, timeout=30)
+        print(f"[API] Status: {response.status_code}")
         response.raise_for_status()
         markets = response.json()
+        print(f"[API] Received {len(markets)} markets from API")
         
         resolved = []
+        skipped_no_resolution = 0
+        skipped_no_outcome = 0
+        
         for m in markets:
             if not m.get('resolutionSource'):
+                skipped_no_resolution += 1
                 continue
             
             outcomes = m.get('outcomes', [])
@@ -232,23 +241,31 @@ def fetch_resolved_markets(days_back: int = 90, limit: int = 500) -> List[Dict]:
             
             winning = None
             for i, p in enumerate(outcome_prices):
-                if float(p) > 0.95 and i < len(outcomes):
-                    winning = outcomes[i]
-                    break
+                try:
+                    if float(p) > 0.95 and i < len(outcomes):
+                        winning = outcomes[i]
+                        break
+                except:
+                    pass
             
-            if winning:
-                resolved.append({
-                    'condition_id': m.get('conditionId', ''),
-                    'question': m.get('question', ''),
-                    'outcome': winning,
-                    'end_date': m.get('endDate', ''),
-                    'volume': float(m.get('volume', 0) or 0),
-                    'category': classify_category(m.get('question', ''))
-                })
+            if not winning:
+                skipped_no_outcome += 1
+                continue
+            
+            resolved.append({
+                'condition_id': m.get('conditionId', ''),
+                'question': m.get('question', ''),
+                'outcome': winning,
+                'end_date': m.get('endDate', ''),
+                'volume': float(m.get('volume', 0) or 0),
+                'category': classify_category(m.get('question', ''))
+            })
         
+        print(f"[API] Resolved: {len(resolved)}, Skipped (no resolution): {skipped_no_resolution}, Skipped (no outcome): {skipped_no_outcome}")
         return resolved
+        
     except Exception as e:
-        print(f"Error: {e}")
+        print(f"[API ERROR] {type(e).__name__}: {e}")
         return []
 
 
@@ -272,6 +289,10 @@ def fetch_trades_for_market(condition_id: str, min_amount: float = 1000) -> List
                 "conditionId": condition_id, "limit": 500, "offset": offset,
                 "sortBy": "TIMESTAMP", "sortDirection": "ASC"
             }, timeout=30)
+            
+            if r.status_code != 200:
+                print(f"[TRADES] Error {r.status_code} for {condition_id[:12]}...")
+                break
             
             batch = r.json()
             if not batch:
@@ -297,7 +318,8 @@ def fetch_trades_for_market(condition_id: str, min_amount: float = 1000) -> List
             
             if len(batch) < 500:
                 break
-        except:
+        except Exception as e:
+            print(f"[TRADES] Exception for {condition_id[:12]}...: {e}")
             break
     
     return trades
@@ -308,10 +330,29 @@ def collect_data(days_back: int = 90):
     conn = sqlite3.connect(DB_PATH)
     c = conn.cursor()
     
+    print(f"[INFO] Fetching resolved markets (last {days_back} days)...")
     markets = fetch_resolved_markets(days_back)
-    markets = [m for m in markets if m['volume'] >= 10000]
+    print(f"[INFO] API returned {len(markets)} resolved markets")
     
-    print(f"Collecting {len(markets)} markets...")
+    if not markets:
+        print("[ERROR] No markets returned from API!")
+        print("[DEBUG] Check if gamma-api.polymarket.com is accessible")
+        conn.close()
+        return
+    
+    # Show sample before filtering
+    print(f"[INFO] Sample market volumes: {[m['volume'] for m in markets[:10]]}")
+    
+    markets = [m for m in markets if m['volume'] >= 10000]
+    print(f"[INFO] After volume filter (>=$10K): {len(markets)} markets")
+    
+    if not markets:
+        print("[ERROR] All markets filtered out by volume!")
+        conn.close()
+        return
+    
+    print(f"[INFO] Collecting trades for {len(markets)} markets...")
+    total_trades = 0
     
     for idx, m in enumerate(markets):
         c.execute('INSERT OR REPLACE INTO markets VALUES (?,?,?,?,?,?,?)',
@@ -324,13 +365,15 @@ def collect_data(days_back: int = 90):
                 (t['trade_hash'], t['wallet'], t['condition_id'], t['timestamp'],
                  t['outcome'], t['price'], t['size'], t['amount']))
         
+        total_trades += len(trades)
+        
         if (idx + 1) % 10 == 0:
-            print(f"  {idx+1}/{len(markets)}")
+            print(f"[INFO] {idx+1}/{len(markets)} markets, {total_trades} trades so far")
             conn.commit()
     
     conn.commit()
     conn.close()
-    print("Done.")
+    print(f"[DONE] Collected {len(markets)} markets, {total_trades} trades (>=$1000)")
 
 
 # ══════════════════════════════════════════════════════════════════
