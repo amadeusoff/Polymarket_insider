@@ -25896,5 +25896,114 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "market": "Will the price of Bitcoin be above $66,000 on March 10?",
+    "market_slug": "bitcoin-above-66k-on-march-10",
+    "wallet": "0xde17f7144fbd0eddb2679132c10ff5e74b120988",
+    "analysis": {
+      "score": 80,
+      "flags": [
+        "New wallet (4d old)",
+        "Large bet ($1,500)",
+        "Pre-event latency: 6304m"
+      ],
+      "amount": 1500.3,
+      "odds": 0.9,
+      "raw_price": 0.9,
+      "outcome": "Yes",
+      "potential_pnl": 166.69999999999993,
+      "pnl_multiplier": 0.11111111111111108,
+      "wallet_age_days": 4,
+      "total_activities": 100
+    },
+    "timestamp": "2026-03-05T15:00:49.525014",
+    "trade_hash": "0xae1c0b51cd6199b95c09edbd653bbc9e2bdb65510e660c3b635fc61d6503b318",
+    "trade_timestamp": 1772722563,
+    "latency": {
+      "latency_seconds": 378237.0,
+      "latency_minutes": 6303.95,
+      "is_pre_event": true,
+      "severity": "CRITICAL",
+      "trade_time": "2026-03-05T14:56:03+00:00",
+      "event_time": "2026-03-10T00:00:00+00:00"
+    },
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "side": "BUY",
+      "price": 0.9,
+      "effective_price": 0.9,
+      "size": 1667.0,
+      "amount": 1500.3,
+      "potential_pnl": 166.69999999999993,
+      "pnl_multiplier": 0.11111111111111108,
+      "is_no": false
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+66.0%)"
+      ],
+      "category": "crypto",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.24000000000000002,
+      "market_price": 0.9,
+      "edge": 0.66,
+      "edge_percent": 66.0,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "occasional",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "occasional",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Increased institutional adoption of Bitcoin",
+          "Positive regulatory developments in major markets",
+          "Significant macroeconomic factors favoring cryptocurrency investments"
+        ],
+        "weakest_link": "Positive regulatory developments in major markets"
+      },
+      "category": "crypto",
+      "narrative_drivers": [
+        "Market sentiment driven by technological advancements in blockchain",
+        "Speculation around Bitcoin as a hedge against inflation"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 80,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 80,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.66,
+      "edge_percent": 66.0
+    },
+    "financial_analyst": {
+      "signal_quality": 48.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 66.0,
+      "signal_strength": 80.0,
+      "insider_score": 80.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
