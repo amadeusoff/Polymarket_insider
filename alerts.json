@@ -26005,5 +26005,114 @@
       "insider_score": 80.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "market": "Will the price of Solana be above $80 on March 10?",
+    "market_slug": "solana-above-80-on-march-10",
+    "wallet": "0xa82afc3751a2e58ec985989eb7d51b3f0f179055",
+    "analysis": {
+      "score": 80,
+      "flags": [
+        "New wallet (4d old)",
+        "Large bet ($1,865)",
+        "Pre-event latency: 5313m"
+      ],
+      "amount": 1865.34,
+      "odds": 0.86,
+      "raw_price": 0.86,
+      "outcome": "Yes",
+      "potential_pnl": 303.66,
+      "pnl_multiplier": 0.16279069767441862,
+      "wallet_age_days": 4,
+      "total_activities": 100
+    },
+    "timestamp": "2026-03-06T07:31:12.619614",
+    "trade_hash": "0x918964cda42c7d13673e0309f92663a869ff4aee52f6d31a5c5e528f5632cefe",
+    "trade_timestamp": 1772782001,
+    "latency": {
+      "latency_seconds": 318799.0,
+      "latency_minutes": 5313.316666666667,
+      "is_pre_event": true,
+      "severity": "CRITICAL",
+      "trade_time": "2026-03-06T07:26:41+00:00",
+      "event_time": "2026-03-10T00:00:00+00:00"
+    },
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "side": "BUY",
+      "price": 0.86,
+      "effective_price": 0.86,
+      "size": 2169.0,
+      "amount": 1865.34,
+      "potential_pnl": 303.66,
+      "pnl_multiplier": 0.16279069767441862,
+      "is_no": false
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+54.8%)"
+      ],
+      "category": "crypto",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.312,
+      "market_price": 0.86,
+      "edge": 0.548,
+      "edge_percent": 54.800000000000004,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Increased adoption of Solana for decentralized applications",
+          "Positive market sentiment towards cryptocurrencies",
+          "Regulatory clarity and favorable policies for crypto assets"
+        ],
+        "weakest_link": "Regulatory clarity and favorable policies for crypto assets"
+      },
+      "category": "crypto",
+      "narrative_drivers": [
+        "Technological advancements in Solana's ecosystem",
+        "Market trends indicating a bullish sentiment for altcoins"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 80,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 80,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.548,
+      "edge_percent": 54.800000000000004
+    },
+    "financial_analyst": {
+      "signal_quality": 48.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 54.8,
+      "signal_strength": 80.0,
+      "insider_score": 80.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
