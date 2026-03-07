@@ -26930,5 +26930,107 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "market": "Will Jesus Christ return before GTA VI?",
+    "market_slug": "will-jesus-christ-return-before-gta-vi-665",
+    "wallet": "0x20d63920177ae7e3996d397f5d3c5a1dc38abb8e",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($2,025)",
+        "Low activity (2 txns)"
+      ],
+      "amount": 2025.259388,
+      "odds": 0.4800000000758421,
+      "raw_price": 0.5199999999241579,
+      "outcome": "No",
+      "potential_pnl": 2194.0310030000005,
+      "pnl_multiplier": 1.0833333330041577,
+      "wallet_age_days": 0,
+      "total_activities": 2
+    },
+    "timestamp": "2026-03-07T19:19:29.528151",
+    "trade_hash": "0xb66b5d34a5e860e6fb96310b59c6b7f0b6a1ab621d7f26cf173c80142d292ca0",
+    "trade_timestamp": 1772910981,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "No",
+      "side": "BUY",
+      "price": 0.5199999999241579,
+      "effective_price": 0.4800000000758421,
+      "size": 4219.290391,
+      "amount": 2025.259388,
+      "potential_pnl": 2194.0310030000005,
+      "pnl_multiplier": 1.0833333330041577,
+      "is_no": true
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+41.2%)"
+      ],
+      "category": "other",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.10799999998483159,
+      "market_price": 0.5199999999241579,
+      "edge": 0.41199999993932634,
+      "edge_percent": 41.199999993932636,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "historically_near_zero",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "historically_near_zero",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Widespread belief in the imminent return of Jesus Christ",
+          "Significant global events interpreted as signs of the end times",
+          "Cultural or religious shifts prompting renewed interest in eschatology"
+        ],
+        "weakest_link": "Widespread belief in the imminent return of Jesus Christ"
+      },
+      "category": "other",
+      "narrative_drivers": [
+        "Cultural fascination with religious prophecies",
+        "Anticipation of major video game releases and their cultural impact"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 105,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 70,
+      "insider_position": "NO",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.41199999993932634,
+      "edge_percent": 41.199999993932636
+    },
+    "financial_analyst": {
+      "signal_quality": 81.0,
+      "stance": "HIGH_CONVICTION",
+      "edge_percent": 41.2,
+      "signal_strength": 105.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
