@@ -26420,5 +26420,107 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "market": "Clippers vs. Grizzlies",
+    "market_slug": "nba-lac-mem-2026",
+    "wallet": "0x598606a7179c2a9b3747340022a17194bb2843c5",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,207)",
+        "Low activity (3 txns)"
+      ],
+      "amount": 1207.259998,
+      "odds": 0.6999844519796053,
+      "raw_price": 0.6999844519796053,
+      "outcome": "Clippers",
+      "potential_pnl": 517.4354500000001,
+      "pnl_multiplier": 0.42860315993009496,
+      "wallet_age_days": 0,
+      "total_activities": 3
+    },
+    "timestamp": "2026-03-07T07:35:56.306053",
+    "trade_hash": "0x2bfa1687fcd0b3dd0a89084af413460186112b5e8a95b1c76eb7327ccb156e9d",
+    "trade_timestamp": 1772868823,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Clippers",
+      "side": "BUY",
+      "price": 0.6999844519796053,
+      "effective_price": 0.6999844519796053,
+      "size": 1724.695448,
+      "amount": 1207.259998,
+      "potential_pnl": 517.4354500000001,
+      "pnl_multiplier": 0.42860315993009496,
+      "is_no": false
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+42.0%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.27999689039592107,
+      "market_price": 0.6999844519796053,
+      "edge": 0.4199875615836843,
+      "edge_percent": 41.99875615836843,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Clippers maintain key player health",
+          "Grizzlies struggle with team cohesion",
+          "External factors like trades or injuries affect performance"
+        ],
+        "weakest_link": "Grizzlies struggle with team cohesion"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Clippers' recent performance trends",
+        "Injury reports affecting key players"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "CLIPPERS",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.4199875615836843,
+      "edge_percent": 41.99875615836843
+    },
+    "financial_analyst": {
+      "signal_quality": 51.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 42.0,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
