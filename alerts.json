@@ -27654,5 +27654,210 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "market": "Will L\u00ea Minh H\u01b0ng be the next Prime Minister of Vietnam?",
+    "market_slug": "will-l-minh-hng-be-the-next-prime-minister-of-vietnam",
+    "wallet": "0x24819a90bd0199170504166d823f3b7547d64ae4",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,684)",
+        "Low activity (4 txns)"
+      ],
+      "amount": 1684.152,
+      "odds": 0.904,
+      "raw_price": 0.096,
+      "outcome": "No",
+      "potential_pnl": 178.848,
+      "pnl_multiplier": 0.10619469026548672,
+      "wallet_age_days": 0,
+      "total_activities": 4
+    },
+    "timestamp": "2026-03-08T14:40:35.841183",
+    "trade_hash": "0xe8eebf7b4200b9ea0921db37e1e66ae6451927715b81b200e94c83c8058425a1",
+    "trade_timestamp": 1772980739,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "No",
+      "side": "SELL",
+      "price": 0.096,
+      "effective_price": 0.904,
+      "size": 1863.0,
+      "amount": 1684.152,
+      "potential_pnl": 178.848,
+      "pnl_multiplier": 0.10619469026548672,
+      "is_no": true
+    },
+    "irrationality": {
+      "irrationality_score": 33,
+      "flags": [
+        "Longshot (10%) in medium bias category (other)",
+        "Moderate mispricing edge (+5.7%)"
+      ],
+      "category": "other",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.039200000000000006,
+      "market_price": 0.096,
+      "edge": 0.056799999999999996,
+      "edge_percent": 5.68,
+      "min_edge_required": 0.03,
+      "is_mispriced": true,
+      "edge_quality": "MODERATE",
+      "base_rate_class": "rare",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "rare",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "L\u00ea Minh H\u01b0ng gains significant political support within the ruling party",
+          "Current Prime Minister steps down or is removed",
+          "Public sentiment shifts favorably towards L\u00ea Minh H\u01b0ng"
+        ],
+        "weakest_link": "Public sentiment shifts favorably towards L\u00ea Minh H\u01b0ng"
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Internal party dynamics",
+        "Public opinion and media portrayal"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 103,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 70,
+      "insider_position": "NO",
+      "irrationality_score": 33,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.056799999999999996,
+      "edge_percent": 5.68
+    },
+    "financial_analyst": {
+      "signal_quality": 64.1,
+      "stance": "SELECTIVE",
+      "edge_percent": 5.68,
+      "signal_strength": 103.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Will L\u00ea Minh H\u01b0ng be the next Prime Minister of Vietnam?",
+    "market_slug": "will-l-minh-hng-be-the-next-prime-minister-of-vietnam",
+    "wallet": "0x3507ba25957a1c75f1a76153d84f839ef6bd0cb4",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,543)",
+        "Low activity (4 txns)"
+      ],
+      "amount": 1543.1280000000002,
+      "odds": 0.904,
+      "raw_price": 0.904,
+      "outcome": "Yes",
+      "potential_pnl": 163.87199999999999,
+      "pnl_multiplier": 0.1061946902654867,
+      "wallet_age_days": 0,
+      "total_activities": 4
+    },
+    "timestamp": "2026-03-08T14:40:46.524763",
+    "trade_hash": "0x552e37b6c5c88cba527682d8637b7847791240db272f630dcd7e94bc67f17e08",
+    "trade_timestamp": 1772980739,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "side": "SELL",
+      "price": 0.904,
+      "effective_price": 0.904,
+      "size": 1707.0,
+      "amount": 1543.1280000000002,
+      "potential_pnl": 163.87199999999999,
+      "pnl_multiplier": 0.1061946902654867,
+      "is_no": false
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+70.3%)"
+      ],
+      "category": "other",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.20080000000000003,
+      "market_price": 0.904,
+      "edge": 0.7032,
+      "edge_percent": 70.32000000000001,
+      "min_edge_required": 0.03,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "rare",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "rare",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "L\u00ea Minh H\u01b0ng gains significant political support within the ruling party",
+          "Current Prime Minister resigns or is removed",
+          "Public sentiment shifts favorably towards L\u00ea Minh H\u01b0ng"
+        ],
+        "weakest_link": "Public sentiment shifts favorably towards L\u00ea Minh H\u01b0ng"
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Political maneuvering within the Communist Party",
+        "Public perception of leadership qualities"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.7032,
+      "edge_percent": 70.32000000000001
+    },
+    "financial_analyst": {
+      "signal_quality": 46.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 70.32,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
