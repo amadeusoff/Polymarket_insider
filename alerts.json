@@ -28879,5 +28879,107 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "market": "Knicks vs. Jazz: O/U 229.5",
+    "market_slug": "nba-nyk-uta-2026-03-11-total-229pt5",
+    "wallet": "0xbe30ca541dc580f921f2a6ca8903825d2c519b00",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,873)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 1872.78,
+      "odds": 0.49,
+      "raw_price": 0.49,
+      "outcome": "Under",
+      "potential_pnl": 1949.22,
+      "pnl_multiplier": 1.0408163265306123,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-03-11T16:41:50.157931",
+    "trade_hash": "0xb862c9b0c349147048021a503f1486a928f5ed7fd739dd0c61f3c94828be029b",
+    "trade_timestamp": 1773247271,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Under",
+      "side": "BUY",
+      "price": 0.49,
+      "effective_price": 0.49,
+      "size": 3822.0,
+      "amount": 1872.78,
+      "potential_pnl": 1949.22,
+      "pnl_multiplier": 1.0408163265306123,
+      "is_no": false
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+25.2%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.238,
+      "market_price": 0.49,
+      "edge": 0.252,
+      "edge_percent": 25.2,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Both teams have high-scoring offenses",
+          "Defensive strategies are less effective than usual",
+          "Game pace is faster than average"
+        ],
+        "weakest_link": "Defensive strategies are less effective than usual"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Recent performance of both teams suggests offensive strength",
+        "Injuries or absences affecting defensive players"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "UNDER",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.252,
+      "edge_percent": 25.2
+    },
+    "financial_analyst": {
+      "signal_quality": 51.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 25.2,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
