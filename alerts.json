@@ -29398,5 +29398,107 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "market": "76ers vs. Pistons: O/U 220.5",
+    "market_slug": "nba-phi-det-2026-03-12-total-220pt5",
+    "wallet": "0x2e2cd607c6c6309801823cc17c11162b3d195992",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,229)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 1229.0700000000002,
+      "odds": 0.53,
+      "raw_price": 0.53,
+      "outcome": "Over",
+      "potential_pnl": 1089.93,
+      "pnl_multiplier": 0.8867924528301886,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-03-12T13:40:36.178573",
+    "trade_hash": "0xbe376341892f28f62507ee6af45e77bbcca7ffb45ce80bfe4ac04a9a78893a79",
+    "trade_timestamp": 1773322575,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Over",
+      "side": "BUY",
+      "price": 0.53,
+      "effective_price": 0.53,
+      "size": 2319.0,
+      "amount": 1229.0700000000002,
+      "potential_pnl": 1089.93,
+      "pnl_multiplier": 0.8867924528301886,
+      "is_no": false
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+28.4%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.246,
+      "market_price": 0.53,
+      "edge": 0.28400000000000003,
+      "edge_percent": 28.400000000000002,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Both teams have high-scoring offenses",
+          "Defensive lapses from both teams",
+          "Injury status of key players"
+        ],
+        "weakest_link": "Injury status of key players"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Recent performance trends of both teams",
+        "Public sentiment on team matchups"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "OVER",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.28400000000000003,
+      "edge_percent": 28.400000000000002
+    },
+    "financial_analyst": {
+      "signal_quality": 51.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 28.4,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
