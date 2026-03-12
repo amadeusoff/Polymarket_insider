@@ -445,3 +445,93 @@ def send_telegram_alert(alert):
     except Exception as e:
         print(f"❌ Unexpected error sending alert: {e}")
         return False
+
+
+def format_top_trader_alert(alert: Dict) -> str:
+    """
+    Format alert for top trader activity.
+    Clean, actionable format focused on copy-trading decision.
+    """
+    from datetime import datetime, timezone
+    
+    trader = alert.get('trader', {})
+    trade = alert.get('trade', {})
+    
+    rank = trader.get('rank', '?')
+    username = trader.get('username', '') or f"Trader #{rank}"
+    profit = trader.get('profit', 0)
+    win_rate = trader.get('win_rate', 0)
+    volume = trader.get('volume', 0)
+    
+    # Trade details
+    size = float(trade.get('size', 0))
+    price = float(trade.get('price', 0))
+    outcome = trade.get('outcome', 'Yes')
+    
+    if outcome.lower() == 'no':
+        amount = size * (1 - price)
+        position = f"NO @ {(1-price)*100:.0f}%"
+    else:
+        amount = size * price
+        position = f"YES @ {price*100:.0f}%"
+    
+    market = alert.get('market', 'Unknown market')
+    market_slug = alert.get('market_slug', '')
+    wallet = alert.get('wallet', '')
+    
+    # Determine action recommendation based on track record
+    if win_rate >= 0.65 and profit >= 100000:
+        action = "✅ STRONG COPY: Elite trader with proven edge"
+        sizing = "3-5%"
+    elif win_rate >= 0.58 and profit >= 50000:
+        action = "🔶 CONSIDER: Solid track record"
+        sizing = "1-3%"
+    else:
+        action = "👁️ MONITOR: Track before copying"
+        sizing = "0.5-1%"
+    
+    message = f"""👑 TOP TRADER SIGNAL
+
+📊 MARKET
+{market}
+
+👤 TRADER: {username}
+Rank: #{rank} on leaderboard
+Profit: ${profit:,.0f} lifetime
+Win rate: {win_rate*100:.1f}%
+Volume: ${volume:,.0f}
+
+💰 POSITION
+{position}
+Size: ${amount:,.0f}
+
+{action}
+Suggested sizing: {sizing} of bankroll
+
+Wallet: {wallet}
+
+🔗 https://polymarket.com/event/{market_slug}
+📍 Radar | {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M')} UTC"""
+    
+    return message
+
+
+def send_top_trader_alert(alert: Dict) -> bool:
+    """Send top trader alert to Telegram."""
+    try:
+        message = format_top_trader_alert(alert)
+        url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
+        payload = {
+            "chat_id": TELEGRAM_CHAT_ID,
+            "text": message,
+            "disable_web_page_preview": False,
+        }
+        
+        response = requests.post(url, json=payload, timeout=10)
+        response.raise_for_status()
+        print(f"✓ Top trader alert sent")
+        return True
+        
+    except Exception as e:
+        print(f"❌ Error sending top trader alert: {e}")
+        return False

@@ -4,7 +4,8 @@ from datetime import datetime
 from typing import Dict, List, Tuple
 
 from detector import detect_insider_trades
-from notifier import send_telegram_alert
+from notifier import send_telegram_alert, send_top_trader_alert
+from top_traders import get_tracked_wallets, fetch_trader_recent_trades
 
 
 def load_tracked_wallets():
@@ -162,6 +163,58 @@ def _print_goal_summary(insiders: List[Dict], irrational_copy_candidates: List[D
             )
 
 
+def scan_top_traders(tracked_hashes: set) -> List[Dict]:
+    """
+    Scan top traders for recent activity.
+    Returns list of alerts for new positions from top traders.
+    """
+    print(f"[{datetime.now()}] 👑 Scanning top traders...")
+    
+    try:
+        top_wallets = get_tracked_wallets()
+        if not top_wallets:
+            print(f"[{datetime.now()}] No top traders meet criteria")
+            return []
+        
+        print(f"[{datetime.now()}] Tracking {len(top_wallets)} top traders")
+        
+        alerts = []
+        for address, trader_info in list(top_wallets.items())[:20]:  # Limit to top 20 to avoid rate limits
+            trades = fetch_trader_recent_trades(address, minutes_back=30)
+            
+            for trade in trades:
+                trade_hash = trade.get('transactionHash', '')
+                
+                # Skip if already alerted
+                if trade_hash in tracked_hashes:
+                    continue
+                
+                # Build alert
+                amount = float(trade.get('size', 0)) * float(trade.get('price', 0))
+                if amount < 500:  # Skip small trades
+                    continue
+                
+                alert = {
+                    'type': 'TOP_TRADER',
+                    'trade_hash': trade_hash,
+                    'wallet': address,
+                    'trader': trader_info,
+                    'trade': trade,
+                    'market': trade.get('market', {}).get('question', 'Unknown market'),
+                    'market_slug': trade.get('market', {}).get('slug', ''),
+                    'amount': amount,
+                }
+                alerts.append(alert)
+                print(f"[{datetime.now()}] 👑 Top trader #{trader_info['rank']} trade: ${amount:,.0f}")
+        
+        print(f"[{datetime.now()}] 🎯 Goal #3 (top traders): {len(alerts)} new trades")
+        return alerts
+        
+    except Exception as e:
+        print(f"[{datetime.now()}] ❌ Error scanning top traders: {e}")
+        return []
+
+
 def main():
     print(f"[{datetime.now()}] Starting Polymarket insider detector...")
 
@@ -170,6 +223,7 @@ def main():
     tracked_wallets = set(tracked_data.get("wallets", []))  # keep for stats
     existing_alerts = load_alerts()
 
+    # === GOAL 1 & 2: Insider detection + Irrational trades ===
     new_alerts = detect_insider_trades()
     insiders, irrational_copy_candidates = _split_by_goals(new_alerts)
     _print_goal_summary(insiders, irrational_copy_candidates)
@@ -194,6 +248,25 @@ def main():
         else:
             print(f"[{datetime.now()}] ❌ Failed to send alert for {wallet[:8]}...")
 
+    # === GOAL 3: Top Traders ===
+    top_trader_alerts = scan_top_traders(tracked_hashes)
+    top_trader_sent = 0
+    
+    for alert in top_trader_alerts:
+        trade_hash = alert.get("trade_hash", "")
+        
+        if trade_hash and trade_hash in tracked_hashes:
+            continue
+        
+        if send_top_trader_alert(alert):
+            if trade_hash:
+                tracked_hashes.add(trade_hash)
+            existing_alerts.append(alert)
+            top_trader_sent += 1
+            print(f"[{datetime.now()}] ✅ Top trader alert sent: #{alert['trader']['rank']}")
+        else:
+            print(f"[{datetime.now()}] ❌ Failed to send top trader alert")
+
     tracked_data = {
         "wallets": list(tracked_wallets),
         "trade_hashes": list(tracked_hashes),
@@ -204,7 +277,7 @@ def main():
     print(
         f"[{datetime.now()}] Completed. "
         f"Insider signals: {len(insiders)}, copy candidates: {len(irrational_copy_candidates)}, "
-        f"alerts sent: {sent_count}"
+        f"insider alerts sent: {sent_count}, top trader alerts: {top_trader_sent}"
     )
 
 

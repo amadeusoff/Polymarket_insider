@@ -151,6 +151,77 @@ def fetch_trader_recent_positions(address: str, hours: int = 24) -> List[Dict]:
         return []
 
 
+def fetch_trader_recent_trades(address: str, minutes_back: int = 30) -> List[Dict]:
+    """
+    Fetch recent trades for a specific trader.
+    Returns list of trades with market info.
+    """
+    from config import DATA_API_URL
+    
+    url = f"{DATA_API_URL}/trades"
+    params = {
+        "maker": address,
+        "limit": 50,
+        "sortBy": "TIMESTAMP",
+        "sortDirection": "DESC"
+    }
+    
+    try:
+        time.sleep(REQUEST_DELAY)
+        response = requests.get(url, params=params, timeout=30)
+        
+        if response.status_code != 200:
+            # Try with 'user' param instead
+            params = {
+                "user": address,
+                "limit": 50,
+            }
+            response = requests.get(url, params=params, timeout=30)
+        
+        if response.status_code != 200:
+            return []
+        
+        trades = response.json()
+        cutoff = datetime.now(timezone.utc) - timedelta(minutes=minutes_back)
+        cutoff_ts = cutoff.timestamp()
+        
+        recent = []
+        for trade in trades:
+            ts = trade.get('timestamp', 0)
+            if ts > 10000000000:
+                ts = ts // 1000
+            
+            if ts >= cutoff_ts:
+                # Fetch market info if not present
+                if not trade.get('market'):
+                    condition_id = trade.get('conditionId', '')
+                    if condition_id:
+                        market_info = fetch_market_info(condition_id)
+                        trade['market'] = market_info
+                recent.append(trade)
+        
+        return recent
+        
+    except Exception as e:
+        print(f"[{datetime.now()}] ❌ Error fetching trades for {address[:10]}...: {e}")
+        return []
+
+
+def fetch_market_info(condition_id: str) -> Dict:
+    """Fetch market info by condition ID."""
+    url = f"{GAMMA_API_URL}/markets/{condition_id}"
+    
+    try:
+        time.sleep(REQUEST_DELAY)
+        response = requests.get(url, timeout=30)
+        if response.status_code == 200:
+            return response.json()
+    except:
+        pass
+    
+    return {'question': 'Unknown market', 'slug': ''}
+
+
 def detect_top_trader_signals(trades: List[Dict]) -> List[Dict]:
     """
     Scan trades for top trader activity.
