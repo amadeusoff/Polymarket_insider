@@ -146,7 +146,7 @@ def fetch_active_markets(limit: int = 200) -> List[Dict]:
         return []
 
 
-def fetch_recently_resolved(limit: int = 100) -> List[Dict]:
+def fetch_recently_resolved(limit: int = 200) -> List[Dict]:
     """Fetch recently resolved markets to capture outcomes."""
     url = f"{GAMMA_API_URL}/markets"
     params = {
@@ -162,9 +162,15 @@ def fetch_recently_resolved(limit: int = 100) -> List[Dict]:
         response.raise_for_status()
         markets = response.json()
         
+        print(f"      [DEBUG] API returned {len(markets)} closed markets")
+        
         result = []
+        skipped_no_resolution = 0
+        skipped_no_winner = 0
+        
         for m in markets:
             if not m.get('resolutionSource'):
+                skipped_no_resolution += 1
                 continue
             
             # Parse outcomes
@@ -182,23 +188,38 @@ def fetch_recently_resolved(limit: int = 100) -> List[Dict]:
                 except:
                     outcome_prices = []
             
-            # Find winning outcome
+            # Find winning outcome - RELAXED threshold from 0.99 to 0.95
             winning = None
             for i, p in enumerate(outcome_prices):
                 try:
-                    if float(p) >= 0.99 and i < len(outcomes):
+                    price = float(p)
+                    if price >= 0.95 and i < len(outcomes):
                         winning = outcomes[i]
                         break
                 except:
                     pass
             
-            if winning:
-                result.append({
-                    'condition_id': m.get('conditionId', ''),
-                    'resolved_outcome': winning,
-                    'volume': float(m.get('volume', 0) or 0)
-                })
+            # Fallback: if no clear winner, use highest price
+            if not winning and outcome_prices and outcomes:
+                try:
+                    prices = [float(p) for p in outcome_prices]
+                    max_idx = max(range(len(prices)), key=lambda i: prices[i])
+                    if prices[max_idx] > 0.9:
+                        winning = outcomes[max_idx]
+                except:
+                    pass
+            
+            if not winning:
+                skipped_no_winner += 1
+                continue
+            
+            result.append({
+                'condition_id': m.get('conditionId', ''),
+                'resolved_outcome': winning,
+                'volume': float(m.get('volume', 0) or 0)
+            })
         
+        print(f"      [DEBUG] Found {len(result)} resolved, skipped: {skipped_no_resolution} no resolution, {skipped_no_winner} no winner")
         return result
     
     except Exception as e:
@@ -379,6 +400,7 @@ def run_collection():
     print("\n[3/3] Checking for resolutions...")
     resolved = fetch_recently_resolved()
     
+    matched = 0
     for r in resolved:
         # Check if we have this market and it's not yet marked resolved
         c.execute('''
@@ -394,7 +416,10 @@ def run_collection():
                 WHERE condition_id = ?
             ''', (r['resolved_outcome'], now, r['volume'], r['condition_id']))
             stats['resolutions_found'] += 1
+            matched += 1
             print(f"      ✓ Resolved: {r['condition_id'][:12]}... → {r['resolved_outcome']}")
+    
+    print(f"      [DEBUG] Matched {matched}/{len(resolved)} resolved markets with our database")
     
     conn.commit()
     
