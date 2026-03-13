@@ -515,10 +515,15 @@ def run_collection():
     print(f"      Total unresolved: {len(unresolved)}, checking: {len(to_check)} (past end_date or sports)")
     
     checked = 0
+    not_closed = 0
+    no_resolution_source = 0
+    no_winner = 0
+    api_errors = 0
+    
     for condition_id, question in to_check:
         checked += 1
         if checked % 20 == 0:
-            print(f"      Checked {checked}/{len(to_check)}...")
+            print(f"      Checked {checked}/{len(to_check)}... (closed:{stats['resolutions_found']}, not_closed:{not_closed}, no_source:{no_resolution_source})")
         
         # Query this specific market
         try:
@@ -527,14 +532,21 @@ def run_collection():
             response = requests.get(url, timeout=15)
             
             if response.status_code != 200:
+                api_errors += 1
                 continue
             
             market = response.json()
             
+            # Debug: show first few markets
+            if checked <= 3:
+                print(f"      [DEBUG] Market {checked}: closed={market.get('closed')}, resolutionSource={market.get('resolutionSource')}, q={question[:40]}...")
+            
             # Check if resolved
             if not market.get('closed'):
+                not_closed += 1
                 continue
             if not market.get('resolutionSource'):
+                no_resolution_source += 1
                 continue
             
             # Parse outcomes
@@ -573,6 +585,7 @@ def run_collection():
                     pass
             
             if not winning:
+                no_winner += 1
                 continue
             
             # Mark as resolved!
@@ -586,9 +599,11 @@ def run_collection():
             print(f"      ✓ Resolved: {question[:50]}... → {winning}")
             
         except Exception as e:
+            api_errors += 1
             continue
     
-    print(f"      [RESULT] Found {stats['resolutions_found']} newly resolved markets")
+    print(f"      [RESULT] Checked: {checked}, Resolved: {stats['resolutions_found']}")
+    print(f"      [BREAKDOWN] not_closed: {not_closed}, no_resolution_source: {no_resolution_source}, no_winner: {no_winner}, api_errors: {api_errors}")
     
     conn.commit()
     
