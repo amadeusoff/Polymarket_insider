@@ -232,11 +232,18 @@ def fetch_recently_resolved(limit: int = 200) -> List[Dict]:
         
         result.append({
             'condition_id': cid,
+            'question': m.get('question', ''),
             'resolved_outcome': winning,
             'volume': float(m.get('volume', 0) or 0)
         })
     
     print(f"      [DEBUG] Found {len(result)} resolved, skipped: {skipped_no_resolution} no resolution, {skipped_no_winner} no winner")
+    
+    # Show sample for debugging
+    if result:
+        sample = result[0]
+        print(f"      [DEBUG] Sample resolved: id={sample['condition_id'][:20]}..., q={sample['question'][:50]}...")
+    
     return result
 
 
@@ -413,33 +420,88 @@ def run_collection():
     print("\n[3/3] Checking for resolutions...")
     resolved = fetch_recently_resolved()
     
-    # DEBUG: Check overlap
+    # Build lookup by question (normalized)
+    c.execute('SELECT condition_id, question, is_resolved FROM markets WHERE is_resolved = 0')
+    tracked_markets = {}
+    for row in c.fetchall():
+        cid, question, _ = row
+        # Normalize question for matching
+        q_normalized = question.lower().strip() if question else ''
+        tracked_markets[q_normalized] = cid
+    
+    # Also try matching by condition_id directly
     c.execute('SELECT condition_id FROM markets WHERE is_resolved = 0')
     tracked_ids = set(row[0] for row in c.fetchall())
+    
     resolved_ids = set(r['condition_id'] for r in resolved)
-    overlap = tracked_ids & resolved_ids
-    print(f"      [DEBUG] Tracked (unresolved): {len(tracked_ids)}, API resolved: {len(resolved_ids)}, Overlap: {len(overlap)}")
+    overlap_by_id = tracked_ids & resolved_ids
+    
+    print(f"      [DEBUG] Tracked (unresolved): {len(tracked_ids)}")
+    print(f"      [DEBUG] API resolved: {len(resolved)}")
+    print(f"      [DEBUG] Overlap by condition_id: {len(overlap_by_id)}")
+    print(f"      [DEBUG] Tracked questions available for matching: {len(tracked_markets)}")
+    
+    # Show sample for debugging
+    if tracked_markets:
+        sample_q = list(tracked_markets.keys())[0]
+        sample_id = tracked_markets[sample_q]
+        print(f"      [DEBUG] Sample tracked: id={sample_id[:20]}..., q={sample_q[:50]}...")
+        # Show a few more
+        print(f"      [DEBUG] Sample tracked questions:")
+        for i, q in enumerate(list(tracked_markets.keys())[:3]):
+            print(f"        {i+1}. {q[:70]}...")
+    
+    if resolved:
+        sample_r = resolved[0]
+        print(f"      [DEBUG] Sample resolved: id={sample_r['condition_id'][:20]}..., q={sample_r.get('question', '')[:50]}...")
+        # Show a few more
+        print(f"      [DEBUG] Sample resolved questions:")
+        for i, r in enumerate(resolved[:3]):
+            print(f"        {i+1}. {r.get('question', '')[:70]}...")
     
     matched = 0
+    matched_by_question = 0
+    matched_by_partial = 0
+    
     for r in resolved:
-        # Check if we have this market and it's not yet marked resolved
-        c.execute('''
-            SELECT condition_id, is_resolved FROM markets 
-            WHERE condition_id = ? AND is_resolved = 0
-        ''', (r['condition_id'],))
+        matched_cid = None
         
-        row = c.fetchone()
-        if row:
+        # Try 1: Direct condition_id match
+        if r['condition_id'] in tracked_ids:
+            matched_cid = r['condition_id']
+        
+        # Try 2: Exact match by question
+        if not matched_cid:
+            r_question = r.get('question', '').lower().strip()
+            if r_question and r_question in tracked_markets:
+                matched_cid = tracked_markets[r_question]
+                matched_by_question += 1
+        
+        # Try 3: Partial match (question contains)
+        if not matched_cid:
+            r_question = r.get('question', '').lower().strip()
+            if r_question:
+                # Check if resolved question is contained in any tracked question or vice versa
+                for tracked_q, tracked_cid in tracked_markets.items():
+                    if len(r_question) > 20 and len(tracked_q) > 20:
+                        # Use first 50 chars for matching
+                        if r_question[:50] == tracked_q[:50]:
+                            matched_cid = tracked_cid
+                            matched_by_partial += 1
+                            break
+        
+        if matched_cid:
             c.execute('''
                 UPDATE markets 
                 SET is_resolved = 1, resolved_outcome = ?, resolved_at = ?, final_volume = ?
                 WHERE condition_id = ?
-            ''', (r['resolved_outcome'], now, r['volume'], r['condition_id']))
+            ''', (r['resolved_outcome'], now, r['volume'], matched_cid))
             stats['resolutions_found'] += 1
             matched += 1
-            print(f"      ✓ Resolved: {r['condition_id'][:12]}... → {r['resolved_outcome']}")
+            if matched <= 5:  # Only print first 5
+                print(f"      ✓ Resolved: {matched_cid[:12]}... → {r['resolved_outcome']}")
     
-    print(f"      [DEBUG] Matched {matched}/{len(resolved)} resolved markets with our database")
+    print(f"      [DEBUG] Matched: {matched} (exact_q: {matched_by_question}, partial: {matched_by_partial})")
     
     conn.commit()
     
