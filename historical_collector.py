@@ -151,19 +151,20 @@ def fetch_recently_resolved(limit: int = 200) -> List[Dict]:
     
     all_resolved = {}
     
-    # Try multiple sort orders to catch recent resolutions
-    sort_options = [
-        {"order": "endDate", "_sort": "endDate:desc"},      # By end date
-        {"order": "volume", "_sort": "volume:desc"},        # By volume (catches big markets)
+    # Calculate cutoff date - only markets that ended after we started collecting
+    # We started on 2026-02-28, so look for markets ending after 2026-02-25
+    cutoff_date = "2026-02-25"
+    
+    # Try multiple API queries to catch recent resolutions
+    queries = [
+        # Most recent by endDate
+        {"closed": "true", "order": "endDate", "_sort": "endDate:desc", "limit": limit},
+        # High volume closed markets
+        {"closed": "true", "order": "volume", "_sort": "volume:desc", "limit": limit},
     ]
     
-    for sort_params in sort_options:
+    for params in queries:
         url = f"{GAMMA_API_URL}/markets"
-        params = {
-            "limit": limit,
-            "closed": "true",
-            **sort_params
-        }
         
         try:
             time.sleep(REQUEST_DELAY)
@@ -173,13 +174,17 @@ def fetch_recently_resolved(limit: int = 200) -> List[Dict]:
             
             for m in markets:
                 cid = m.get('conditionId', '')
-                if cid and cid not in all_resolved:
-                    all_resolved[cid] = m
+                end_date = m.get('endDate', '')
+                
+                # Filter: only include markets that ended recently
+                if end_date and end_date >= cutoff_date:
+                    if cid and cid not in all_resolved:
+                        all_resolved[cid] = m
                     
         except Exception as e:
             print(f"[ERROR] Fetching resolved markets: {e}")
     
-    print(f"      [DEBUG] Fetched {len(all_resolved)} unique closed markets from API")
+    print(f"      [DEBUG] Fetched {len(all_resolved)} closed markets after {cutoff_date}")
     
     result = []
     skipped_no_resolution = 0
@@ -234,7 +239,8 @@ def fetch_recently_resolved(limit: int = 200) -> List[Dict]:
             'condition_id': cid,
             'question': m.get('question', ''),
             'resolved_outcome': winning,
-            'volume': float(m.get('volume', 0) or 0)
+            'volume': float(m.get('volume', 0) or 0),
+            'end_date': m.get('endDate', '')
         })
     
     print(f"      [DEBUG] Found {len(result)} resolved, skipped: {skipped_no_resolution} no resolution, {skipped_no_winner} no winner")
@@ -242,7 +248,7 @@ def fetch_recently_resolved(limit: int = 200) -> List[Dict]:
     # Show sample for debugging
     if result:
         sample = result[0]
-        print(f"      [DEBUG] Sample resolved: id={sample['condition_id'][:20]}..., q={sample['question'][:50]}...")
+        print(f"      [DEBUG] Sample resolved: end={sample.get('end_date', '')}, q={sample['question'][:50]}...")
     
     return result
 
@@ -436,20 +442,63 @@ def run_collection():
     resolved_ids = set(r['condition_id'] for r in resolved)
     overlap_by_id = tracked_ids & resolved_ids
     
-    print(f"      [DEBUG] Tracked (unresolved): {len(tracked_ids)}")
+    # Check how many tracked markets should have already resolved
+    from datetime import datetime
+    today = datetime.now().strftime('%Y-%m-%d')
+    
+    c.execute('SELECT condition_id, question, end_date, category FROM markets WHERE is_resolved = 0')
+    past_end = 0
+    future_end = 0
+    no_end = 0
+    past_sports = []
+    
+    for row in c.fetchall():
+        cid, question, end_date, category = row
+        if not end_date:
+            no_end += 1
+        elif end_date < today:
+            past_end += 1
+            if category == 'sports':
+                past_sports.append((cid, question[:50], end_date))
+        else:
+            future_end += 1
+    
+    print(f"      [DEBUG] Tracked markets end_date analysis:")
+    print(f"        Past (should be resolved): {past_end}")
+    print(f"        Future (still active): {future_end}")
+    print(f"        No end_date: {no_end}")
+    
+    if past_sports:
+        print(f"      [DEBUG] Sports markets that should have resolved ({len(past_sports)}):")
+        for cid, q, ed in past_sports[:5]:
+            print(f"        - {ed}: {q}... (id: {cid[:16]}...)")
     print(f"      [DEBUG] API resolved: {len(resolved)}")
     print(f"      [DEBUG] Overlap by condition_id: {len(overlap_by_id)}")
     print(f"      [DEBUG] Tracked questions available for matching: {len(tracked_markets)}")
     
-    # Show sample for debugging
+    # Show sample for debugging - include sports
     if tracked_markets:
-        sample_q = list(tracked_markets.keys())[0]
-        sample_id = tracked_markets[sample_q]
-        print(f"      [DEBUG] Sample tracked: id={sample_id[:20]}..., q={sample_q[:50]}...")
-        # Show a few more
-        print(f"      [DEBUG] Sample tracked questions:")
-        for i, q in enumerate(list(tracked_markets.keys())[:3]):
-            print(f"        {i+1}. {q[:70]}...")
+        print(f"      [DEBUG] Sample tracked questions (by category):")
+        
+        # Group by finding sports keywords
+        sports_samples = []
+        politics_samples = []
+        other_samples = []
+        
+        for q in tracked_markets.keys():
+            if any(w in q for w in ['nba', 'nfl', 'mlb', 'nhl', 'vs', 'game', 'win the', 'beat']):
+                sports_samples.append(q)
+            elif any(w in q for w in ['trump', 'biden', 'election', 'president']):
+                politics_samples.append(q)
+            else:
+                other_samples.append(q)
+        
+        print(f"        Sports ({len(sports_samples)}):")
+        for q in sports_samples[:3]:
+            print(f"          - {q[:70]}...")
+        print(f"        Politics ({len(politics_samples)}):")
+        for q in politics_samples[:2]:
+            print(f"          - {q[:70]}...")
     
     if resolved:
         sample_r = resolved[0]
