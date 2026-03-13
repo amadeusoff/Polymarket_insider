@@ -514,6 +514,12 @@ def run_collection():
     
     print(f"      Total unresolved: {len(unresolved)}, checking: {len(to_check)} (past end_date or sports)")
     
+    # Debug: show sample condition_id format
+    if to_check:
+        sample_cid, sample_q = to_check[0]
+        print(f"      [DEBUG] Sample condition_id: {sample_cid}")
+        print(f"      [DEBUG] Sample question: {sample_q[:60]}...")
+    
     checked = 0
     not_closed = 0
     no_resolution_source = 0
@@ -525,17 +531,40 @@ def run_collection():
         if checked % 20 == 0:
             print(f"      Checked {checked}/{len(to_check)}... (closed:{stats['resolutions_found']}, not_closed:{not_closed}, no_source:{no_resolution_source})")
         
-        # Query this specific market
+        # Query this specific market - try different endpoint formats
         try:
             time.sleep(REQUEST_DELAY * 0.3)
-            url = f"{GAMMA_API_URL}/markets/{condition_id}"
-            response = requests.get(url, timeout=15)
+            
+            # Try 1: Query param format (most likely)
+            url = f"{GAMMA_API_URL}/markets"
+            response = requests.get(url, params={"id": condition_id}, timeout=15)
+            
+            # Try 2: If that fails, try conditionId param
+            if response.status_code != 200 or not response.json():
+                response = requests.get(url, params={"conditionId": condition_id}, timeout=15)
             
             if response.status_code != 200:
                 api_errors += 1
+                if api_errors <= 3:
+                    print(f"      [API ERROR] Status {response.status_code} for {condition_id[:30]}...")
                 continue
             
-            market = response.json()
+            data = response.json()
+            
+            # Response might be a list
+            if isinstance(data, list):
+                if not data:
+                    api_errors += 1
+                    if api_errors <= 3:
+                        print(f"      [API ERROR] Empty response for {condition_id[:30]}...")
+                    continue
+                market = data[0]
+            else:
+                market = data
+            
+            # Debug: show first successful market lookup
+            if checked == 1 or stats['resolutions_found'] == 1:
+                print(f"      [DEBUG] Market lookup success: closed={market.get('closed')}, q={market.get('question', '')[:40]}...")
             
             # Debug: show first few markets
             if checked <= 3:
