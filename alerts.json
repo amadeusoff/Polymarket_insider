@@ -33497,5 +33497,49 @@
     "market": "Will Elche CF win on 2026-03-14?",
     "market_slug": "lal-rea-elc-2026-03-14",
     "amount": 3183.1072000000004
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x05759f941c54183d12c4371b4ac5666ac7452418ed740c6caabc98e1e1530e87",
+    "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
+    "trader": {
+      "rank": 14,
+      "address": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
+      "username": "mikatrade77",
+      "profit": 5147998.544602999,
+      "volume": 10884765.388775,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x21f333307ac6d2e65ac82f014b3dd2b64cbc35e3",
+      "side": "BUY",
+      "asset": "44550673687211281434399813121338070566237772850887125134101981336514063288449",
+      "conditionId": "0xc26bb33bbcab925e550545e584e292e43d65bce9d8342fb6736c081219c898bb",
+      "size": 1446.76,
+      "price": 0.48,
+      "timestamp": 1773522147,
+      "title": "Spread: Celtics (-20.5)",
+      "slug": "nba-was-bos-2026-03-14-spread-home-20pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-was-bos-2026-03-14",
+      "outcome": "Celtics",
+      "outcomeIndex": 0,
+      "name": "hi774c",
+      "pseudonym": "Stylish-Jiffy",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x05759f941c54183d12c4371b4ac5666ac7452418ed740c6caabc98e1e1530e87",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spread: Celtics (-20.5)",
+    "market_slug": "nba-was-bos-2026-03-14",
+    "amount": 694.4448
   }
 ]
