@@ -33321,5 +33321,137 @@
     "market": "Will the Utah Jazz win the 2026 NBA Finals?",
     "market_slug": "2026-nba-champion",
     "amount": 2758.28238
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x598a9ac3240900c50043b66c48c26aa8b26a9fbe7e529f0f177fefa60107fd42",
+    "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+    "trader": {
+      "rank": 10,
+      "address": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+      "username": "KeyTransporter",
+      "profit": 5711459.802519929,
+      "volume": 20086062.154324997,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x4133bcbad1d9c41de776646696f41c34d0a65e70",
+      "side": "BUY",
+      "asset": "82800638025904309087579734586058289663668396199701874902606714160037753969982",
+      "conditionId": "0xfb2502ea04ff6b3f5dda76a6777beffe58557b1690dfebed0c3dae96588b62e8",
+      "size": 1822.84,
+      "price": 0.78,
+      "timestamp": 1773518247,
+      "title": "Will West Ham United FC vs. Manchester City FC end in a draw?",
+      "slug": "epl-wes-mac-2026-03-14-draw",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/premier+league.jpg",
+      "eventSlug": "epl-wes-mac-2026-03-14",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "EF203F2IPFC2ICP20W-CP3",
+      "pseudonym": "Bogus-Fix",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x598a9ac3240900c50043b66c48c26aa8b26a9fbe7e529f0f177fefa60107fd42",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will West Ham United FC vs. Manchester City FC end in a draw?",
+    "market_slug": "epl-wes-mac-2026-03-14",
+    "amount": 1421.8152
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xe4018a59b56c89c131c7cd1cd4fb3696894b4e18df0999154a539371c7ffc6aa",
+    "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+    "trader": {
+      "rank": 10,
+      "address": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+      "username": "KeyTransporter",
+      "profit": 5711459.802519929,
+      "volume": 20086062.154324997,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x83b985ca1e92d9acdb406d38796a8bf776f1b664",
+      "side": "BUY",
+      "asset": "114507466536734360808195115190160357255467689128176113085692265197019898971527",
+      "conditionId": "0x29283b56d3eec6d1d89fff51793d9d2e01579d2379b1d3e9ebda175d3561e809",
+      "size": 1177.676766,
+      "price": 0.989999999711296,
+      "timestamp": 1773518247,
+      "title": "Will Phil Murphy win the 2028 Democratic presidential nomination?",
+      "slug": "will-phil-murphy-win-the-2028-democratic-presidential-nomination-611",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-phil-murphy-win-the-2028-democratic-presidential-nomination-611-TSpDwU2ocX34.png",
+      "eventSlug": "democratic-presidential-nominee-2028",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "dub46",
+      "pseudonym": "Failing-Chalk",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xe4018a59b56c89c131c7cd1cd4fb3696894b4e18df0999154a539371c7ffc6aa",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Phil Murphy win the 2028 Democratic presidential nomination?",
+    "market_slug": "democratic-presidential-nominee-2028",
+    "amount": 1165.899998
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x62778ec3455f1df81a3917b92952878938b76777db8ea72da5001e0d82b33ad3",
+    "wallet": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
+    "trader": {
+      "rank": 19,
+      "address": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
+      "username": "GamblingIsAllYouNeed",
+      "profit": 4292586.197710635,
+      "volume": 259930551.75703698,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "62233081945229542959312590495352867487240970876170774788121008465910294870644",
+      "conditionId": "0x27af71087e96b58cddb51303a40caed06e2dfd366dff3733ac8cb7a350e5fc89",
+      "size": 3462,
+      "price": 0.24,
+      "timestamp": 1773518547,
+      "title": "Will Real Madrid CF win on 2026-03-14?",
+      "slug": "lal-rea-elc-2026-03-14-rea",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-lal.png",
+      "eventSlug": "lal-rea-elc-2026-03-14",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "loincloth chic",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x62778ec3455f1df81a3917b92952878938b76777db8ea72da5001e0d82b33ad3",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Real Madrid CF win on 2026-03-14?",
+    "market_slug": "lal-rea-elc-2026-03-14",
+    "amount": 830.88
   }
 ]
