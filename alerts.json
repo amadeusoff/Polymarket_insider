@@ -30934,5 +30934,108 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "market": "Counter-Strike: EYEBALLERS vs Liquid (BO3) - Roman Imperium Cup Playoffs",
+    "market_slug": "cs2-eye-tl1-2026",
+    "wallet": "0x697821bebfdd65cc472da1e302b90b430dd09897",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($2,794)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 2794.39,
+      "odds": 0.636015104388566,
+      "raw_price": 0.636015104388566,
+      "outcome": "Liquid",
+      "potential_pnl": 1599.2006250000002,
+      "pnl_multiplier": 0.5722897036562542,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-03-14T10:50:55.261158",
+    "trade_hash": "0xcc008e0534692be39c32ec621d5312187ff0c4e8d113ff8d112c0037555fb320",
+    "trade_timestamp": 1773485185,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Liquid",
+      "side": "BUY",
+      "price": 0.636015104388566,
+      "effective_price": 0.636015104388566,
+      "size": 4393.590625,
+      "amount": 2794.39,
+      "potential_pnl": 1599.2006250000002,
+      "pnl_multiplier": 0.5722897036562542,
+      "is_no": false
+    },
+    "irrationality": {
+      "irrationality_score": 45,
+      "flags": [
+        "Crisis keyword detected ('strike')",
+        "Large mispricing edge (+36.9%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.2672030208777132,
+      "market_price": 0.636015104388566,
+      "edge": 0.3688120835108528,
+      "edge_percent": 36.881208351085284,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "EYEBALLERS perform exceptionally well in the match",
+          "Liquid underperform due to internal issues",
+          "External factors such as player injuries or unexpected events"
+        ],
+        "weakest_link": "Liquid underperform due to internal issues"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Recent performance trends of both teams",
+        "Fan sentiment and support for EYEBALLERS"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "LIQUID",
+      "irrationality_score": 45,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.3688120835108528,
+      "edge_percent": 36.881208351085284
+    },
+    "financial_analyst": {
+      "signal_quality": 53.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 36.88,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
