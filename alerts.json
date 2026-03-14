@@ -33541,5 +33541,49 @@
     "market": "Spread: Celtics (-20.5)",
     "market_slug": "nba-was-bos-2026-03-14",
     "amount": 694.4448
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x66952f7d70ad7eff0dadf6da538e9c22435a53669e0c6d90ac29b430c360fbac",
+    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+    "trader": {
+      "rank": 11,
+      "address": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+      "username": "BetTom42",
+      "profit": 5642135.735356,
+      "volume": 11212839.523403002,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xafbacaeeda63f31202759eff7f8126e49adfe61b",
+      "side": "BUY",
+      "asset": "48875513370398749474044426577707295656374048483033898724290076722147339568829",
+      "conditionId": "0xd03c87c0b03680386aacb28a19e47f9243c0c0933be3d934d322325cc35e921f",
+      "size": 9010.04,
+      "price": 0.3,
+      "timestamp": 1773523351,
+      "title": "UFC Fight Night: SuYoung You vs. Elijah Smith (Bantamweight, Prelims)",
+      "slug": "ufc-suy-eli9-2026-03-14",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ufc-logo-37bbbd28e6.png",
+      "eventSlug": "ufc-suy-eli9-2026-03-14",
+      "outcome": "SuYoung You",
+      "outcomeIndex": 0,
+      "name": "SammySledge",
+      "pseudonym": "Elated-Bee",
+      "bio": "Man, money aint got no owners. Only spenders",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x66952f7d70ad7eff0dadf6da538e9c22435a53669e0c6d90ac29b430c360fbac",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "UFC Fight Night: SuYoung You vs. Elijah Smith (Bantamweight, Prelims)",
+    "market_slug": "ufc-suy-eli9-2026-03-14",
+    "amount": 2703.012
   }
 ]
