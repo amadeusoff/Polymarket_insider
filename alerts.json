@@ -33453,5 +33453,49 @@
     "market": "Will Real Madrid CF win on 2026-03-14?",
     "market_slug": "lal-rea-elc-2026-03-14",
     "amount": 830.88
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x4b0fa9c52e838870d404b61ed4bc0d263061a4ec045ee0cf8fbed72b99cb18aa",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xf0539f60c737e58ebdebd1b56ba9474f912e3939",
+      "side": "BUY",
+      "asset": "81736251650478859583744521687304624464914588466905965631299493107495824037594",
+      "conditionId": "0x8de6484aa16780433434f2b184f2dbbcdf332fbad31b42b11d7e64140462967d",
+      "size": 3497.92,
+      "price": 0.91,
+      "timestamp": 1773520345,
+      "title": "Will Elche CF win on 2026-03-14?",
+      "slug": "lal-rea-elc-2026-03-14-elc",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-lal.png",
+      "eventSlug": "lal-rea-elc-2026-03-14",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "lvcn",
+      "pseudonym": "Ringed-Makeup",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x4b0fa9c52e838870d404b61ed4bc0d263061a4ec045ee0cf8fbed72b99cb18aa",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Elche CF win on 2026-03-14?",
+    "market_slug": "lal-rea-elc-2026-03-14",
+    "amount": 3183.1072000000004
   }
 ]
