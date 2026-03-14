@@ -33145,5 +33145,181 @@
     "market": "LoL: Team Phantasma vs BOMBA Team - Game 2 Winner",
     "market_slug": "lol-tp2-bombat-2026-03-14",
     "amount": 659.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x728db180ea1d36cd50c10eccf6e68760a7fe97e5da65f1f739e858f749c16aff",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xefbb277c49e92bf109425fdd636156050954d067",
+      "side": "SELL",
+      "asset": "34220741429594258097073024559653293456941151791855242282623448356444769966538",
+      "conditionId": "0x0d7df475442dc327a13f0f5e8e46bebb22b1814b9707aa08b1188265616cc37c",
+      "size": 1354.6,
+      "price": 0.999,
+      "timestamp": 1773516747,
+      "title": "Will Chelsea FC win on 2026-03-14?",
+      "slug": "epl-che-new-2026-03-14-che",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/premier+league.jpg",
+      "eventSlug": "epl-che-new-2026-03-14",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "Canadaaa",
+      "pseudonym": "Empty-Sky",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x728db180ea1d36cd50c10eccf6e68760a7fe97e5da65f1f739e858f749c16aff",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Chelsea FC win on 2026-03-14?",
+    "market_slug": "epl-che-new-2026-03-14",
+    "amount": 1353.2454
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xeb735741ec4051d34416295d364ccff3096e94ccb75e9a23a1120dd5c71ed209",
+    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+    "trader": {
+      "rank": 11,
+      "address": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+      "username": "BetTom42",
+      "profit": 5642135.735356,
+      "volume": 11212839.523403,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x64db84746e703cc03e24b31d0ff248e36cc189bb",
+      "side": "BUY",
+      "asset": "38397507750621893057346880033441136112987238933685677349709401910643842844855",
+      "conditionId": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+      "size": 3151.333332,
+      "price": 0.26999999979691136,
+      "timestamp": 1773517345,
+      "title": "Will the Iranian regime fall by June 30?",
+      "slug": "will-the-iranian-regime-fall-by-june-30",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-the-iranian-regime-fall-in-2025-YLXIniTmQs4q.png",
+      "eventSlug": "will-the-iranian-regime-fall-by-june-30",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "TrumpFollower752x",
+      "pseudonym": "Flickering-Value",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-5156028-487599af-6102-4be2-9f3b-71c9ed581614.jpg",
+      "profileImageOptimized": "",
+      "transactionHash": "0xeb735741ec4051d34416295d364ccff3096e94ccb75e9a23a1120dd5c71ed209",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will the Iranian regime fall by June 30?",
+    "market_slug": "will-the-iranian-regime-fall-by-june-30",
+    "amount": 850.859999
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xbbab0b7bc806193ade6e94a5e4b7fcdb9c18396b7d3969fbf4765c833ffef10e",
+    "wallet": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
+    "trader": {
+      "rank": 20,
+      "address": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
+      "username": "Jenzigo",
+      "profit": 4049827.0941029997,
+      "volume": 9457725.03433801,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
+      "side": "BUY",
+      "asset": "41812155496900816044824504754141171010671068079781007506998777856072250533281",
+      "conditionId": "0xcd84d6e0058f2c83f5f9b560163504fbe37ca9367511ca44d76aa64b3845f545",
+      "size": 2487.36,
+      "price": 0.38,
+      "timestamp": 1773517647,
+      "title": "Avalanche vs. Jets",
+      "slug": "nhl-col-wpg-2026-03-14",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nhl.png",
+      "eventSlug": "nhl-col-wpg-2026-03-14",
+      "outcome": "Jets",
+      "outcomeIndex": 1,
+      "name": "tutedefore",
+      "pseudonym": "Corrupt-Poisoning",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-2123373-2afb1873-478c-4079-9d7b-229444e83c4c.webp",
+      "profileImageOptimized": "",
+      "transactionHash": "0xbbab0b7bc806193ade6e94a5e4b7fcdb9c18396b7d3969fbf4765c833ffef10e",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Avalanche vs. Jets",
+    "market_slug": "nhl-col-wpg-2026-03-14",
+    "amount": 945.1968
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x9226f3ab4555bf0c174af3f430d719745f1277e8e07eeacfa1b19a6bd3c557d6",
+    "wallet": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
+    "trader": {
+      "rank": 20,
+      "address": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
+      "username": "Jenzigo",
+      "profit": 4049827.0941029997,
+      "volume": 9457725.03433801,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x92cf7a97f6b7183d705d8884313e9de3488ade6b",
+      "side": "SELL",
+      "asset": "33955781353214392337231265891840750509546891570180968521335335401684072357362",
+      "conditionId": "0x298157e618b5729dafd742eec9b21e040a13da0bb09ff1fa4492360c347e3824",
+      "size": 2763.81,
+      "price": 0.998,
+      "timestamp": 1773517647,
+      "title": "Will the Utah Jazz win the 2026 NBA Finals?",
+      "slug": "will-the-utah-jazz-win-the-2026-nba-finals",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nba-finals-points-leader-7g2ZEZvMXxLb.jpg",
+      "eventSlug": "2026-nba-champion",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "circuitChoctaw",
+      "pseudonym": "French-Making",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x9226f3ab4555bf0c174af3f430d719745f1277e8e07eeacfa1b19a6bd3c557d6",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will the Utah Jazz win the 2026 NBA Finals?",
+    "market_slug": "2026-nba-champion",
+    "amount": 2758.28238
   }
 ]
