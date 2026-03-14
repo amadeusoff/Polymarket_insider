@@ -24,15 +24,15 @@ jobs:
   detect-insiders:
     runs-on: ubuntu-latest
     
-    # Maximum execution time: 10 minutes (should complete in 20-30s)
-    timeout-minutes: 10
+    # Maximum execution time: 15 minutes (typical run: 30-90s)
+    timeout-minutes: 15
     
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
       
       - name: Set up Python 3.11
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
           cache: 'pip'

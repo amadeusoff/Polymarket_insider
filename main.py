@@ -226,6 +226,10 @@ def scan_top_traders(tracked_hashes: set) -> List[Dict]:
 
 def main():
     print(f"[{datetime.now()}] Starting Polymarket insider detector...")
+    
+    # Preload leaderboard cache once to avoid repeated API calls
+    print(f"[{datetime.now()}] Preloading top traders leaderboard...")
+    _ = get_tracked_wallets()  # This caches the result for the entire run
 
     tracked_data = load_tracked_wallets()
     tracked_hashes = set(tracked_data.get("trade_hashes", []))

@@ -110,6 +110,9 @@ def fetch_leaderboard(limit: int = 50) -> List[Dict]:
         
     except Exception as e:
         print(f"[{datetime.now()}] ❌ Error fetching leaderboard: {e}")
+        # Cache empty result to prevent repeated failing requests
+        _leaderboard_cache = {'traders': [], 'error': str(e)}
+        _cache_timestamp = datetime.now()
         return []
 
 
