@@ -2,7 +2,7 @@
 Top Traders Module — Copy trades from Polymarket leaderboard winners.
 
 Data source: https://polymarket.com/leaderboard
-API endpoint: https://gamma-api.polymarket.com/leaderboard
+API endpoint: https://data-api.polymarket.com/leaderboard
 
 Strategy: Track top 50 profitable wallets, alert on their new positions.
 """
@@ -11,7 +11,7 @@ import requests
 import time
 from datetime import datetime, timezone, timedelta
 from typing import Dict, List, Optional
-from config import GAMMA_API_URL, REQUEST_DELAY
+from config import DATA_API_URL, GAMMA_API_URL, REQUEST_DELAY
 
 # Minimum criteria for tracking
 MIN_PROFIT_ALL_TIME = 50000      # $50K lifetime profit
@@ -37,10 +37,12 @@ def fetch_leaderboard(limit: int = 50) -> List[Dict]:
         if _leaderboard_cache:
             return _leaderboard_cache.get('traders', [])
     
-    url = f"{GAMMA_API_URL}/leaderboard"
+    # Use DATA API for leaderboard (not Gamma API!)
+    url = f"{DATA_API_URL}/leaderboard"
     params = {
         "limit": limit,
-        "window": "all"  # all-time stats
+        "period": "all",    # all-time stats
+        "orderBy": "pnl"    # order by profit/loss
     }
     
     try:
@@ -49,18 +51,43 @@ def fetch_leaderboard(limit: int = 50) -> List[Dict]:
         response.raise_for_status()
         
         data = response.json()
+        
+        # Debug: show response structure
+        if data:
+            if isinstance(data, list) and len(data) > 0:
+                print(f"[{datetime.now()}] [DEBUG] Leaderboard response: list with {len(data)} entries")
+                print(f"[{datetime.now()}] [DEBUG] First entry keys: {list(data[0].keys())[:10]}")
+            elif isinstance(data, dict):
+                print(f"[{datetime.now()}] [DEBUG] Leaderboard response: dict with keys {list(data.keys())[:10]}")
+                # Check if data is nested
+                if 'data' in data:
+                    data = data['data']
+                elif 'leaderboard' in data:
+                    data = data['leaderboard']
+                elif 'traders' in data:
+                    data = data['traders']
+        
         traders = []
         
         for idx, entry in enumerate(data, start=1):
+            # Try different field names that API might use
+            address = entry.get('address') or entry.get('proxyWallet') or entry.get('wallet') or ''
+            profit = float(entry.get('pnl') or entry.get('profit') or entry.get('totalPnl') or 0)
+            volume = float(entry.get('volume') or entry.get('totalVolume') or 0)
+            username = entry.get('username') or entry.get('name') or entry.get('pseudonym') or ''
+            
+            positions_won = int(entry.get('positionsWon') or entry.get('marketsWon') or 0)
+            positions_lost = int(entry.get('positionsLost') or entry.get('marketsLost') or 0)
+            
             trader = {
                 'rank': idx,
-                'address': entry.get('address', ''),
-                'username': entry.get('username', ''),
-                'profit': float(entry.get('pnl', 0) or 0),
-                'volume': float(entry.get('volume', 0) or 0),
-                'positions': int(entry.get('positionsWon', 0) or 0) + int(entry.get('positionsLost', 0) or 0),
-                'positions_won': int(entry.get('positionsWon', 0) or 0),
-                'positions_lost': int(entry.get('positionsLost', 0) or 0),
+                'address': address,
+                'username': username,
+                'profit': profit,
+                'volume': volume,
+                'positions': positions_won + positions_lost,
+                'positions_won': positions_won,
+                'positions_lost': positions_lost,
             }
             
             total = trader['positions_won'] + trader['positions_lost']
