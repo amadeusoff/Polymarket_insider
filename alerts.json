@@ -32793,5 +32793,137 @@
     "market": "Will Arsenal FC win on 2026-03-14?",
     "market_slug": "epl-ars-eve-2026-03-14",
     "amount": 821.0514000000001
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x32aa6345f169e0820abd39f697f62239fec9b30b98da58989f8e6fbd2cf23296",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x2b9bc671f53325d5dc95884a1877fcf30ad80a88",
+      "side": "BUY",
+      "asset": "67257241906349232705880054817671247803154024437556078414309396160231441958063",
+      "conditionId": "0x4d4bceee5f59f75230c6438f69fc913a6da7afa4098ce0734655045c02a730fc",
+      "size": 517.006,
+      "price": 0.992,
+      "timestamp": 1773513745,
+      "title": "Will Josh Hawley win the 2028 Republican presidential nomination?",
+      "slug": "will-josh-hawley-win-the-2028-republican-presidential-nomination",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Josh_Hawley.png",
+      "eventSlug": "republican-presidential-nominee-2028",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "XiliX",
+      "pseudonym": "Ashamed-Surgeon",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x32aa6345f169e0820abd39f697f62239fec9b30b98da58989f8e6fbd2cf23296",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Josh Hawley win the 2028 Republican presidential nomination?",
+    "market_slug": "republican-presidential-nominee-2028",
+    "amount": 512.869952
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xfb087e5372ebfb24bf75f1e6e183dfa8ffc7356791c43554c345983f40f53b98",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x0c84d454825e9f42619497f6158b4753cd43a8ed",
+      "side": "BUY",
+      "asset": "49245549336290031579679695778378824875023636927679960174066912313036743279237",
+      "conditionId": "0x4de57496404e5e63c2d1d16a4875d7b18a40e2004990003dc6ea1c35e9912002",
+      "size": 2380.952379,
+      "price": 0.4199999999244,
+      "timestamp": 1773513743,
+      "title": "Will Manchester City FC win on 2026-03-14?",
+      "slug": "epl-wes-mac-2026-03-14-mac",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/premier+league.jpg",
+      "eventSlug": "epl-wes-mac-2026-03-14",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "ff3364",
+      "pseudonym": "Flimsy-Horizon",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xfb087e5372ebfb24bf75f1e6e183dfa8ffc7356791c43554c345983f40f53b98",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Manchester City FC win on 2026-03-14?",
+    "market_slug": "epl-wes-mac-2026-03-14",
+    "amount": 999.999999
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x4ccadffdd72e1e292822b5a5d3f5f968711ff7c76fc14d657700c9dab4d5b6a7",
+    "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
+    "trader": {
+      "rank": 18,
+      "address": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
+      "username": "432614799197",
+      "profit": 4544164.198078621,
+      "volume": 185485956.8620829,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x3e5b23e9f71b2a2edcd5629d3f948f12f591073b",
+      "side": "BUY",
+      "asset": "72656506786460378316387284276713856836841708169262528054985577978493419440428",
+      "conditionId": "0xce9a5fa30fe74e323b4a8f15afbb0b7a41a537aa880779ddf7dee22223b2f34a",
+      "size": 709.82,
+      "price": 0.978,
+      "timestamp": 1773514343,
+      "title": "Will Donald Trump win the 2028 US Presidential Election?",
+      "slug": "will-donald-trump-win-the-2028-us-presidential-election",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-donald-trump-win-the-2028-us-presidential-election-4gVusUQRi_GG.png",
+      "eventSlug": "presidential-election-winner-2028",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "beenraping",
+      "pseudonym": "",
+      "bio": "make money sometimes",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-110893-a602433b-e536-4d68-a24c-aea69b03bc4e.gif",
+      "profileImageOptimized": "",
+      "transactionHash": "0x4ccadffdd72e1e292822b5a5d3f5f968711ff7c76fc14d657700c9dab4d5b6a7",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Donald Trump win the 2028 US Presidential Election?",
+    "market_slug": "presidential-election-winner-2028",
+    "amount": 694.20396
   }
 ]
