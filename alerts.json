@@ -31037,5 +31037,49 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x41e833aaf15ad9587ba43d971959ca75e43433fe03560bd3661bb759bd0ab70b",
+    "wallet": "0xdb27bf2ac5d428a9c63dbc914611036855a6c56e",
+    "trader": {
+      "rank": 9,
+      "address": "0xdb27bf2ac5d428a9c63dbc914611036855a6c56e",
+      "username": "DrPufferfish",
+      "profit": 5930657.142345107,
+      "volume": 207370505.65727097,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x797255f4701331610041687268d246071343594f",
+      "side": "BUY",
+      "asset": "61918351525266368144491942093593650711768658828622730755963270233988351275979",
+      "conditionId": "0x056e5327893e1488134b69ef7bff7c600219227939211974645e1f6ac1da0735",
+      "size": 2408.679022,
+      "price": 0.8095723756421705,
+      "timestamp": 1773500539,
+      "title": "Counter-Strike: Natus Vincere vs FUT Esports (BO3) - ESL Pro League Playoffs",
+      "slug": "cs2-navi-fut-2026-03-14",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/counter-strike-image-16c415c538.png",
+      "eventSlug": "cs2-navi-fut-2026-03-14",
+      "outcome": "Natus Vincere",
+      "outcomeIndex": 0,
+      "name": "1337zzz1337",
+      "pseudonym": "Guilty-Aide",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x41e833aaf15ad9587ba43d971959ca75e43433fe03560bd3661bb759bd0ab70b",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Unknown market",
+    "market_slug": "",
+    "amount": 1949.9999979999998
   }
 ]
