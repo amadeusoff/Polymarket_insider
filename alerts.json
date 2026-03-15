@@ -34516,5 +34516,49 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xea91beed77056c8b6255ae2cf9881f9f0fc825f67c3f0c5e44f1823e24b278f1",
+    "wallet": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+    "trader": {
+      "rank": 7,
+      "address": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+      "username": "PrincessCaro",
+      "profit": 6083643.099591745,
+      "volume": 23520809.95286701,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xde17f7144fbd0eddb2679132c10ff5e74b120988",
+      "side": "BUY",
+      "asset": "53871780365151386629226515608960369445542635482908110928489429430123093522377",
+      "conditionId": "0xd32f73b7d90cd18287e48b11ff855bee97543ad87ab38ef3fffde06504e5c2bd",
+      "size": 4130.71,
+      "price": 0.64,
+      "timestamp": 1773597171,
+      "title": "Will Bitcoin reach $75,000 in March?",
+      "slug": "will-bitcoin-reach-75k-in-march-2026",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "eventSlug": "what-price-will-bitcoin-hit-in-march-2026",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "0xdE17f7144fbD0eddb2679132C10ff5e74B120988-1772205225932",
+      "pseudonym": "Attentive-Silica",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xea91beed77056c8b6255ae2cf9881f9f0fc825f67c3f0c5e44f1823e24b278f1",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Bitcoin reach $75,000 in March?",
+    "market_slug": "what-price-will-bitcoin-hit-in-march-2026",
+    "amount": 2643.6544
   }
 ]
