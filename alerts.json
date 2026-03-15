@@ -34604,5 +34604,110 @@
     "market": "Jazz vs. Kings",
     "market_slug": "nba-uta-sac-2026-03-15",
     "amount": 7118.6455
+  },
+  {
+    "market": "Pacers vs. Bucks",
+    "market_slug": "nba-ind-mil-2026",
+    "event_slug": "nba-ind-mil-2026",
+    "wallet": "0xf191cd550623fac328501e75dee7eea4f1de5b58",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,650)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 1650.0,
+      "odds": 0.66,
+      "raw_price": 0.66,
+      "outcome": "Bucks",
+      "potential_pnl": 849.9999999999998,
+      "pnl_multiplier": 0.515151515151515,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-03-15T20:49:29.081382",
+    "trade_hash": "0xa6c2288e831f192300aa6d222e29a598e9910d3703f6b219a133918e97f5e734",
+    "trade_timestamp": 1773607419,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Bucks",
+      "side": "BUY",
+      "price": 0.66,
+      "effective_price": 0.66,
+      "size": 2500.0,
+      "amount": 1650.0,
+      "potential_pnl": 849.9999999999998,
+      "pnl_multiplier": 0.515151515151515,
+      "is_no": false,
+      "slug": "nba-ind-mil-2026",
+      "eventSlug": "nba-ind-mil-2026-03-15"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+38.8%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.272,
+      "market_price": 0.66,
+      "edge": 0.388,
+      "edge_percent": 38.800000000000004,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Pacers maintain key player health",
+          "Bucks perform consistently well",
+          "External factors (e.g., injuries to other teams) favor the Pacers"
+        ],
+        "weakest_link": "External factors (e.g., injuries to other teams) favor the Pacers"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Team performance trends",
+        "Injury reports and player availability"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "BUCKS",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.388,
+      "edge_percent": 38.800000000000004
+    },
+    "financial_analyst": {
+      "signal_quality": 51.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 38.8,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
