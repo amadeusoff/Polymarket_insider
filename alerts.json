@@ -34357,5 +34357,49 @@
     "market": "Will Manchester United FC win on 2026-03-15?",
     "market_slug": "epl-mun-ast-2026-03-15",
     "amount": 4166.9964
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x27077fc0c06bced726f03c48cdd09e1e548e461319d2e349efa17f2ddcf44c7f",
+    "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
+    "trader": {
+      "rank": 6,
+      "address": "0x863134d00841b2e200492805a01e1e2f5defaa53",
+      "username": "RepTrump",
+      "profit": 7532409.671579,
+      "volume": 13983231.103425002,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "60203334973257272102706335341054306862744031971487285043273692886903476022862",
+      "conditionId": "0xfcf1bbdfebe8a787f165e324b06706bf6cf55d9fc65f025d9fd532911eb14ec3",
+      "size": 2465,
+      "price": 0.83,
+      "timestamp": 1773589671,
+      "title": "Will RC Strasbourg Alsace vs. Paris FC end in a draw?",
+      "slug": "fl1-str-pfc-2026-03-15-draw",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-fl1.png",
+      "eventSlug": "fl1-str-pfc-2026-03-15",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "loincloth chic",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x27077fc0c06bced726f03c48cdd09e1e548e461319d2e349efa17f2ddcf44c7f",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will RC Strasbourg Alsace vs. Paris FC end in a draw?",
+    "market_slug": "fl1-str-pfc-2026-03-15",
+    "amount": 2045.9499999999998
   }
 ]
