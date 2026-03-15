@@ -34858,5 +34858,49 @@
     "market": "Mavericks vs. Cavaliers",
     "market_slug": "nba-dal-cle-2026-03-15",
     "amount": 1615.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xeea83f630c393fe8e32c204b5025ac1779290eb1cf654389aabca05edafb1245",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "trader": {
+      "rank": 13,
+      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "username": "swisstony",
+      "profit": 5504796.126363945,
+      "volume": 542071869.665497,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "90071801684636083398271715498223621894709449110269798531671548679991177475234",
+      "conditionId": "0xd4c218c12c05c564c13afc72a3e99b52529aff64c3f55175b98d5501b704076c",
+      "size": 6155,
+      "price": 0.84,
+      "timestamp": 1773616081,
+      "title": "Will Coritiba FBC win on 2026-03-15?",
+      "slug": "bra-cor-cre-2026-03-15-cor",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/brasilerirao-image-52ef283574.png",
+      "eventSlug": "bra-cor-cre-2026-03-15",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "loincloth chic",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xeea83f630c393fe8e32c204b5025ac1779290eb1cf654389aabca05edafb1245",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Coritiba FBC win on 2026-03-15?",
+    "market_slug": "bra-cor-cre-2026-03-15",
+    "amount": 5170.2
   }
 ]
