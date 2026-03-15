@@ -34560,5 +34560,49 @@
     "market": "Will Bitcoin reach $75,000 in March?",
     "market_slug": "what-price-will-bitcoin-hit-in-march-2026",
     "amount": 2643.6544
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x9fdcbe86dcb4bd8ad610f2335fc063a21cef9d5acf55e50158cf93e01dcefb56",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "trader": {
+      "rank": 12,
+      "address": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+      "username": "RN1",
+      "profit": 5563718.1300163055,
+      "volume": 263669701.18810004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xb45a797faa52b0fd8adc56d30382022b7b12192c",
+      "side": "BUY",
+      "asset": "29938514184970414348155694778671980817991099472183324339505529775105034074937",
+      "conditionId": "0x81672be3a86cb59edbdf292fa223d2a74703eb4e3f0bf570587bcae830928822",
+      "size": 17362.55,
+      "price": 0.41,
+      "timestamp": 1773606479,
+      "title": "Jazz vs. Kings",
+      "slug": "nba-uta-sac-2026-03-15",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-uta-sac-2026-03-15",
+      "outcome": "Jazz",
+      "outcomeIndex": 0,
+      "name": "bcda",
+      "pseudonym": "Pesky-Fedora",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x9fdcbe86dcb4bd8ad610f2335fc063a21cef9d5acf55e50158cf93e01dcefb56",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Jazz vs. Kings",
+    "market_slug": "nba-uta-sac-2026-03-15",
+    "amount": 7118.6455
   }
 ]
