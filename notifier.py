@@ -325,7 +325,6 @@ def format_top_trader_alert(alert: Dict) -> str:
     rank = trader.get('rank', '?')
     username = trader.get('username', '') or f"Trader #{rank}"
     profit = trader.get('profit', 0)
-    win_rate = trader.get('win_rate', 0)
     volume = trader.get('volume', 0)
     
     # Trade details
@@ -351,11 +350,11 @@ def format_top_trader_alert(alert: Dict) -> str:
     # Build correct URL
     url = build_polymarket_url(trade, alert)
     
-    # Determine verdict based on track record
-    if win_rate >= 0.65 and profit >= 100000:
+    # Determine verdict based on profit and rank (win_rate not available from API)
+    if profit >= 1000000:
         verdict = "🟢 STRONG COPY"
-        verdict_note = f"Elite trader (${profit/1000000:.1f}M profit, {win_rate*100:.0f}% win)"
-    elif win_rate >= 0.58 and profit >= 50000:
+        verdict_note = f"Elite trader (${profit/1000000:.1f}M lifetime profit)"
+    elif profit >= 100000:
         verdict = "🟡 CONSIDER"
         verdict_note = f"Solid track record (${profit/1000:.0f}K profit)"
     else:
@@ -371,7 +370,7 @@ MARKET
 
 TRADER PROFILE
 {username} · Rank #{rank}
-P&L: ${profit:,.0f} · Win: {win_rate*100:.0f}% · Vol: ${volume/1000000:.1f}M
+P&L: ${profit:,.0f} · Vol: ${volume/1000000:.1f}M
 
 MOVE
 {position} · ${amount:,.0f}
