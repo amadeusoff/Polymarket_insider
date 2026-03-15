@@ -34225,5 +34225,137 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xc08ef1a28eb5157a46338218fe0df351c316f7183d3e6d37a32f330dc6cfb049",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x479e330b07822ee28e20bac5e504f1b7c6b591c3",
+      "side": "BUY",
+      "asset": "49199458578674299280518325446666793632087135647583739482099632115201280158865",
+      "conditionId": "0xa6e7b22c7450fbccf515ac7da064b6b6d1c76f187a626a6e6be5126e04c64e67",
+      "size": 3846.839868,
+      "price": 0.77986089880048,
+      "timestamp": 1773587573,
+      "title": "Will Manchester United FC win on 2026-03-15?",
+      "slug": "epl-mun-ast-2026-03-15-mun",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/premier+league.jpg",
+      "eventSlug": "epl-mun-ast-2026-03-15",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "0x479E330b07822EE28e20bAC5e504f1b7c6B591C3-1768820092692",
+      "pseudonym": "Exalted-Evocation",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xc08ef1a28eb5157a46338218fe0df351c316f7183d3e6d37a32f330dc6cfb049",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Manchester United FC win on 2026-03-15?",
+    "market_slug": "epl-mun-ast-2026-03-15",
+    "amount": 2999.999997
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x0a1a289f2a59e566080835ffccd4fcaeff29ed08547a1a131c35e393ec528efe",
+    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
+    "trader": {
+      "rank": 5,
+      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
+      "username": "zxgngl",
+      "profit": 7807265.589240883,
+      "volume": 40551790.62184699,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x4d3079bd4c73bc0e8f7d9f64a9f64fadbd17a42d",
+      "side": "BUY",
+      "asset": "50947979716330774820484087653326950609056789630398194284446965277750862971707",
+      "conditionId": "0xa05263ffc69a0f2aeac881f727c3b691ca0d3d6e51831176f9068de838c6dcd7",
+      "size": 28000,
+      "price": 0.49,
+      "timestamp": 1773587871,
+      "title": "Will V\u00e5lerenga Fotball win on 2026-03-15?",
+      "slug": "nor-vif-san-2026-03-15-vif",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/norwegian-elite-2078e62a98.jpg",
+      "eventSlug": "nor-vif-san-2026-03-15",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "gransaaa",
+      "pseudonym": "Feisty-Mention",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x0a1a289f2a59e566080835ffccd4fcaeff29ed08547a1a131c35e393ec528efe",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will V\u00e5lerenga Fotball win on 2026-03-15?",
+    "market_slug": "nor-vif-san-2026-03-15",
+    "amount": 13720.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x517aa7fd0d60cf876563de019e344c7ee4e824a5619f0eebbf4376695c81d236",
+    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
+    "trader": {
+      "rank": 5,
+      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
+      "username": "zxgngl",
+      "profit": 7807265.589240883,
+      "volume": 40551790.62184699,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x4133bcbad1d9c41de776646696f41c34d0a65e70",
+      "side": "BUY",
+      "asset": "49199458578674299280518325446666793632087135647583739482099632115201280158865",
+      "conditionId": "0xa6e7b22c7450fbccf515ac7da064b6b6d1c76f187a626a6e6be5126e04c64e67",
+      "size": 5482.89,
+      "price": 0.76,
+      "timestamp": 1773587871,
+      "title": "Will Manchester United FC win on 2026-03-15?",
+      "slug": "epl-mun-ast-2026-03-15-mun",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/premier+league.jpg",
+      "eventSlug": "epl-mun-ast-2026-03-15",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "EF203F2IPFC2ICP20W-CP3",
+      "pseudonym": "Bogus-Fix",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x517aa7fd0d60cf876563de019e344c7ee4e824a5619f0eebbf4376695c81d236",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Manchester United FC win on 2026-03-15?",
+    "market_slug": "epl-mun-ast-2026-03-15",
+    "amount": 4166.9964
   }
 ]
