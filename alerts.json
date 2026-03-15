@@ -33629,5 +33629,93 @@
     "market": "Will another country strike Iran by March 31?",
     "market_slug": "will-another-country-strike-iran-by-march-31",
     "amount": 6981.8303
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x53785e70890bfa5d70279b6a1ced4c7072009b88a7b755deecca00dd79ea8ae9",
+    "wallet": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
+    "trader": {
+      "rank": 15,
+      "address": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
+      "username": "gmanas",
+      "profit": 5016784.7538586855,
+      "volume": 529047708.50599104,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xee613b3fc183ee44f9da9c05f53e2da107e3debf",
+      "side": "BUY",
+      "asset": "34869283377703440323383941894688217713531070205322598936747028741052007807950",
+      "conditionId": "0xc34af25221919b98a6c1a743f76cb5f2dca39eccaff88327adb160cf8e4ce2a9",
+      "size": 3087.3,
+      "price": 0.63,
+      "timestamp": 1773532955,
+      "title": "Magic vs. Heat",
+      "slug": "nba-orl-mia-2026-03-14",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-orl-mia-2026-03-14",
+      "outcome": "Heat",
+      "outcomeIndex": 1,
+      "name": "sovereign2013",
+      "pseudonym": "Ultimate-Locality",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x53785e70890bfa5d70279b6a1ced4c7072009b88a7b755deecca00dd79ea8ae9",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Magic vs. Heat",
+    "market_slug": "nba-orl-mia-2026-03-14",
+    "amount": 1944.999
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xc242a88ec6620643be06f642ded3e86d35e83dc55d294f9ea2470d49bb420bb7",
+    "wallet": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
+    "trader": {
+      "rank": 15,
+      "address": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
+      "username": "gmanas",
+      "profit": 5016784.7538586855,
+      "volume": 529047708.50599104,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x7c93b791d698fc4c02099f57a87dd70d6bc8f0f6",
+      "side": "SELL",
+      "asset": "89413703435662076766671780767668367664284824115908819707674538237103927401639",
+      "conditionId": "0x5d4fbc606c90f11cf2217a86939df08e705348572acba2fcccc792ef8b7c1c4b",
+      "size": 3833.96,
+      "price": 0.999,
+      "timestamp": 1773532953,
+      "title": "Hornets vs. Spurs",
+      "slug": "nba-cha-sas-2026-03-14",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-cha-sas-2026-03-14",
+      "outcome": "Spurs",
+      "outcomeIndex": 1,
+      "name": "0x7c93b791d698fC4C02099F57a87DD70d6BC8f0F6-1767540586100",
+      "pseudonym": "Aggressive-Runaway",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xc242a88ec6620643be06f642ded3e86d35e83dc55d294f9ea2470d49bb420bb7",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Hornets vs. Spurs",
+    "market_slug": "nba-cha-sas-2026-03-14",
+    "amount": 3830.12604
   }
 ]
