@@ -34401,5 +34401,120 @@
     "market": "Will RC Strasbourg Alsace vs. Paris FC end in a draw?",
     "market_slug": "fl1-str-pfc-2026-03-15",
     "amount": 2045.9499999999998
+  },
+  {
+    "market": "Spread: Thunder (-9.5)",
+    "market_slug": "nba-min-okc-2026-03-15-spread-home-9pt5",
+    "event_slug": "nba-min-okc-2026-03-15-spread-home-9pt5",
+    "wallet": "0x37c1874a60d348903594a96703e0507c518fc53a",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (5d old)",
+        "Large bet ($1,296)",
+        "Top trader #37 ($2,302,628 profit)"
+      ],
+      "amount": 1295.5908,
+      "odds": 0.42,
+      "raw_price": 0.42,
+      "outcome": "Thunder",
+      "potential_pnl": 1789.1492000000003,
+      "pnl_multiplier": 1.3809523809523812,
+      "wallet_age_days": 5,
+      "total_activities": 100
+    },
+    "timestamp": "2026-03-15T15:59:50.514046",
+    "trade_hash": "0xbbd7aba99292938b211b388180dfd2468d1ce5d66ecb20b1ed715f055a0d21a9",
+    "trade_timestamp": 1773590041,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": {
+      "rank": 37,
+      "address": "0x37c1874a60d348903594a96703e0507c518fc53a",
+      "username": "CemeterySun",
+      "profit": 2302628.0563966744,
+      "volume": 21380700.67014,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade_data": {
+      "outcome": "Thunder",
+      "side": "BUY",
+      "price": 0.42,
+      "effective_price": 0.42,
+      "size": 3084.74,
+      "amount": 1295.5908,
+      "potential_pnl": 1789.1492000000003,
+      "pnl_multiplier": 1.3809523809523812,
+      "is_no": false,
+      "slug": "nba-min-okc-2026-03-15-spread-home-9pt5",
+      "eventSlug": "nba-min-okc-2026-03-15"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+19.6%)"
+      ],
+      "category": "other",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.22399999999999998,
+      "market_price": 0.42,
+      "edge": 0.196,
+      "edge_percent": 19.6,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Thunder cover the spread",
+          "Opponent's performance is below expectations",
+          "Injuries or absences impact game outcome"
+        ],
+        "weakest_link": "Opponent's performance is below expectations"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Team performance trends",
+        "Injury reports and player availability"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "THUNDER",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.196,
+      "edge_percent": 19.6
+    },
+    "financial_analyst": {
+      "signal_quality": 51.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 19.6,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
