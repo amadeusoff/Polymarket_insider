@@ -34709,5 +34709,110 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "market": "Will Matt Fitzpatrick win the 2026 THE PLAYERS Championship?",
+    "market_slug": "2026-the-players-championship-winner-matt-fitzpatrick-win",
+    "event_slug": "2026-the-players-championship-winner-matt-fitzpatrick-win",
+    "wallet": "0xe5ebef8e455c9344a96706beb3c1aa69878ac512",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,499)",
+        "Low activity (3 txns)"
+      ],
+      "amount": 1499.049999,
+      "odds": 0.48867684742465706,
+      "raw_price": 0.48867684742465706,
+      "outcome": "Yes",
+      "potential_pnl": 1568.5191050000003,
+      "pnl_multiplier": 1.046342087352885,
+      "wallet_age_days": 0,
+      "total_activities": 3
+    },
+    "timestamp": "2026-03-15T21:05:06.688269",
+    "trade_hash": "0xf834f64610eb983b37eb193114dac6c12966f806d15ffa978c5cfe071d084a6a",
+    "trade_timestamp": 1773608623,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "side": "BUY",
+      "price": 0.48867684742465706,
+      "effective_price": 0.48867684742465706,
+      "size": 3067.569104,
+      "amount": 1499.049999,
+      "potential_pnl": 1568.5191050000003,
+      "pnl_multiplier": 1.046342087352885,
+      "is_no": false,
+      "slug": "2026-the-players-championship-winner-matt-fitzpatrick-win",
+      "eventSlug": "2026-the-players-championship-winner"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+33.1%)"
+      ],
+      "category": "politics_near",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.02,
+        "min_edge": 0.03
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.15773536948493141,
+      "market_price": 0.48867684742465706,
+      "edge": 0.3309414779397256,
+      "edge_percent": 33.09414779397256,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "occasional",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "occasional",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Matt Fitzpatrick maintains peak performance leading up to the tournament",
+          "Fitzpatrick avoids significant injuries in the years prior",
+          "Course conditions favor Fitzpatrick's playing style during the tournament"
+        ],
+        "weakest_link": "Fitzpatrick avoids significant injuries in the years prior"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Fitzpatrick's recent performance in major tournaments",
+        "Public perception and media coverage of Fitzpatrick leading up to the event"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.3309414779397256,
+      "edge_percent": 33.09414779397256
+    },
+    "financial_analyst": {
+      "signal_quality": 46.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 33.09,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
