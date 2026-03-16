@@ -35780,5 +35780,49 @@
     "market": "Spread: Red Wings (-1.5)",
     "market_slug": "nhl-cal-det-2026-03-16",
     "amount": 25805.7938
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xd8c869f3067d9f6f87e60b2ae3c21c587ec0f24ed2a371cccdafd19557b94d24",
+    "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
+    "trader": {
+      "rank": 14,
+      "address": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
+      "username": "mikatrade77",
+      "profit": 5147998.544602999,
+      "volume": 10884765.388774998,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xacae3c6efeedd75f2b34564f55356855e8fd6798",
+      "side": "BUY",
+      "asset": "64751719694941772414934464061668304793987531554294250511087236193806116783943",
+      "conditionId": "0xa0fc815e81411496f0263b63f76bf3a7a2cb4f468d763dd51ee9609bd478919f",
+      "size": 5367.63,
+      "price": 0.52,
+      "timestamp": 1773703719,
+      "title": "Trail Blazers vs. Nets: O/U 222.5",
+      "slug": "nba-por-bkn-2026-03-16-total-222pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-por-bkn-2026-03-16",
+      "outcome": "Under",
+      "outcomeIndex": 1,
+      "name": "b33t",
+      "pseudonym": "Frugal-Vengeance",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-6720194-889a5f4a-044c-4c24-9b84-72570af1229e.webp",
+      "profileImageOptimized": "",
+      "transactionHash": "0xd8c869f3067d9f6f87e60b2ae3c21c587ec0f24ed2a371cccdafd19557b94d24",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Trail Blazers vs. Nets: O/U 222.5",
+    "market_slug": "nba-por-bkn-2026-03-16",
+    "amount": 2791.1676
   }
 ]
