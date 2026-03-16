@@ -35095,5 +35095,320 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "market": "Mavericks vs. Pelicans: O/U 239.5",
+    "market_slug": "nba-dal-nop-2026-03-16-total-239pt5",
+    "event_slug": "nba-dal-nop-2026-03-16-total-239pt5",
+    "wallet": "0xa634e0eaf2980073ebe08837183279f5f67cb1ba",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,288)",
+        "Low activity (2 txns)"
+      ],
+      "amount": 1287.9285,
+      "odds": 0.51,
+      "raw_price": 0.51,
+      "outcome": "Under",
+      "potential_pnl": 1237.4215,
+      "pnl_multiplier": 0.9607843137254901,
+      "wallet_age_days": 0,
+      "total_activities": 2
+    },
+    "timestamp": "2026-03-16T13:48:09.436977",
+    "trade_hash": "0x70f4910ab40074830bf36b73772ddeb4a9a8a7ca64330415587e29dd0ef4d786",
+    "trade_timestamp": 1773668707,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Under",
+      "side": "BUY",
+      "price": 0.51,
+      "effective_price": 0.51,
+      "size": 2525.35,
+      "amount": 1287.9285,
+      "potential_pnl": 1237.4215,
+      "pnl_multiplier": 0.9607843137254901,
+      "is_no": false,
+      "slug": "nba-dal-nop-2026-03-16-total-239pt5",
+      "eventSlug": "nba-dal-nop-2026-03-16"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+26.8%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.242,
+      "market_price": 0.51,
+      "edge": 0.268,
+      "edge_percent": 26.8,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Both teams score efficiently",
+          "Defensive lapses from both teams",
+          "High pace of play"
+        ],
+        "weakest_link": "Defensive lapses from both teams"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Recent offensive performances",
+        "Injury status of key players"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "UNDER",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.268,
+      "edge_percent": 26.8
+    },
+    "financial_analyst": {
+      "signal_quality": 51.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 26.8,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Mavericks vs. Pelicans: O/U 239.5",
+    "market_slug": "nba-dal-nop-2026-03-16-total-239pt5",
+    "event_slug": "nba-dal-nop-2026-03-16-total-239pt5",
+    "wallet": "0xbe69ea24dadd1b0b1b2e107ca2b10fed99393f4b",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,436)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 1435.65,
+      "odds": 0.51,
+      "raw_price": 0.51,
+      "outcome": "Under",
+      "potential_pnl": 1379.35,
+      "pnl_multiplier": 0.9607843137254901,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-03-16T13:48:12.492820",
+    "trade_hash": "0xc8c333faedd1cd8b774b79791daa57250af40e606242f4c5d9ba406c78b0afb5",
+    "trade_timestamp": 1773668707,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Under",
+      "side": "BUY",
+      "price": 0.51,
+      "effective_price": 0.51,
+      "size": 2815.0,
+      "amount": 1435.65,
+      "potential_pnl": 1379.35,
+      "pnl_multiplier": 0.9607843137254901,
+      "is_no": false,
+      "slug": "nba-dal-nop-2026-03-16-total-239pt5",
+      "eventSlug": "nba-dal-nop-2026-03-16"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+26.8%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.242,
+      "market_price": 0.51,
+      "edge": 0.268,
+      "edge_percent": 26.8,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "both teams score efficiently",
+          "high pace of play",
+          "minimal defensive disruptions"
+        ],
+        "weakest_link": "minimal defensive disruptions"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "recent scoring trends of both teams",
+        "injury reports affecting key players"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "UNDER",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.268,
+      "edge_percent": 26.8
+    },
+    "financial_analyst": {
+      "signal_quality": 51.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 26.8,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Mavericks vs. Pelicans: O/U 239.5",
+    "market_slug": "nba-dal-nop-2026-03-16-total-239pt5",
+    "event_slug": "nba-dal-nop-2026-03-16-total-239pt5",
+    "wallet": "0xb84a93b4739475786eee74e4de71e789458d5918",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,314)",
+        "Low activity (2 txns)"
+      ],
+      "amount": 1313.9385,
+      "odds": 0.51,
+      "raw_price": 0.51,
+      "outcome": "Under",
+      "potential_pnl": 1262.4115,
+      "pnl_multiplier": 0.9607843137254901,
+      "wallet_age_days": 0,
+      "total_activities": 2
+    },
+    "timestamp": "2026-03-16T13:48:16.116540",
+    "trade_hash": "0xfac46e8d45140739e14193d6aaaea40adc409d5ce9ffb7e01c1ebedeae9de869",
+    "trade_timestamp": 1773668707,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Under",
+      "side": "BUY",
+      "price": 0.51,
+      "effective_price": 0.51,
+      "size": 2576.35,
+      "amount": 1313.9385,
+      "potential_pnl": 1262.4115,
+      "pnl_multiplier": 0.9607843137254901,
+      "is_no": false,
+      "slug": "nba-dal-nop-2026-03-16-total-239pt5",
+      "eventSlug": "nba-dal-nop-2026-03-16"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+26.8%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.242,
+      "market_price": 0.51,
+      "edge": 0.268,
+      "edge_percent": 26.8,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Both teams have high offensive efficiency",
+          "Both teams have poor defensive performance",
+          "The game pace is fast"
+        ],
+        "weakest_link": "The game pace is fast"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Recent performance trends of both teams",
+        "Injury reports affecting key players"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "UNDER",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.268,
+      "edge_percent": 26.8
+    },
+    "financial_analyst": {
+      "signal_quality": 51.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 26.8,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
