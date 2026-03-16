@@ -35736,5 +35736,49 @@
     "market": "Mavericks vs. Pelicans",
     "market_slug": "nba-dal-nop-2026-03-16",
     "amount": 4075.4025
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x3c82ee8325c042be7fa26e5a9e5b545f2ce11610e2809292c66be353a0c089d6",
+    "wallet": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+    "trader": {
+      "rank": 7,
+      "address": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+      "username": "PrincessCaro",
+      "profit": 6083643.099591745,
+      "volume": 23520809.952867,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x9976874011b081e1e408444c579f48aa5b5967da",
+      "side": "BUY",
+      "asset": "82775469261649210736874259051571934917837725075525643307576105611031294190720",
+      "conditionId": "0xbc740a23d69d927e4813c3f67aa37a0d4585c000da07e0e139d2f6f91bacb213",
+      "size": 42304.58,
+      "price": 0.61,
+      "timestamp": 1773701917,
+      "title": "Spread: Red Wings (-1.5)",
+      "slug": "nhl-cal-det-2026-03-16-spread-home-1pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nhl.png",
+      "eventSlug": "nhl-cal-det-2026-03-16",
+      "outcome": "Flames",
+      "outcomeIndex": 1,
+      "name": "BWArmageddon",
+      "pseudonym": "Metallic-Tractor",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x3c82ee8325c042be7fa26e5a9e5b545f2ce11610e2809292c66be353a0c089d6",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spread: Red Wings (-1.5)",
+    "market_slug": "nhl-cal-det-2026-03-16",
+    "amount": 25805.7938
   }
 ]
