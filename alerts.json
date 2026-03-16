@@ -34946,5 +34946,49 @@
     "market": "Spread: Knicks (-14.5)",
     "market_slug": "nba-gsw-nyk-2026-03-15",
     "amount": 5000.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x1f2230750fdf8973a96e6ab4362568c51bc21b0d8d8341efc74965db9ba0d41c",
+    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
+    "trader": {
+      "rank": 5,
+      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
+      "username": "zxgngl",
+      "profit": 7807265.589240883,
+      "volume": 40551790.62184698,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xe8c964006c7cb6f19cc09b564dfa4a61cb850c0c",
+      "side": "BUY",
+      "asset": "98708532867680481207948754953486276901371999075437019970312557812356677883783",
+      "conditionId": "0xb4ef1d530bb7836d45232fff4f6348e5d3586cc55d37e4b86fd86810ae319382",
+      "size": 3554.46,
+      "price": 0.5056358490459872,
+      "timestamp": 1773626285,
+      "title": "Bitcoin Up or Down - March 15, 10:00PM-10:05PM ET",
+      "slug": "btc-updown-5m-1773626400",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "eventSlug": "btc-updown-5m-1773626400",
+      "outcome": "Up",
+      "outcomeIndex": 0,
+      "name": "Kitchaa",
+      "pseudonym": "Legal-Barley",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x1f2230750fdf8973a96e6ab4362568c51bc21b0d8d8341efc74965db9ba0d41c",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Bitcoin Up or Down - March 15, 10:00PM-10:05PM ET",
+    "market_slug": "btc-updown-5m-1773626400",
+    "amount": 1797.2623999999998
   }
 ]
