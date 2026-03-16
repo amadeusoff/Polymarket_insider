@@ -35454,5 +35454,111 @@
     "market": "Spread: Hawks (-3.5)",
     "market_slug": "nba-orl-atl-2026-03-16",
     "amount": 10268.84
+  },
+  {
+    "market": "Backpack FDV above $200M one day after launch?",
+    "market_slug": "backpack-fdv-above-200m-one-day-after-launch-327-787",
+    "event_slug": "backpack-fdv-above-200m-one-day-after-launch-327-787",
+    "wallet": "0x42ff47e378a1dffce490270025add63368e8a422",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,088)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 1087.5,
+      "odds": 0.87,
+      "raw_price": 0.13,
+      "outcome": "No",
+      "potential_pnl": 162.5,
+      "pnl_multiplier": 0.14942528735632185,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-03-16T21:24:49.850894",
+    "trade_hash": "0x5cb535fe73ae40612125f891d0fe4747a243445712c1c377b6569b4a3e7d3b4f",
+    "trade_timestamp": 1773696145,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "No",
+      "side": "BUY",
+      "price": 0.13,
+      "effective_price": 0.87,
+      "size": 1250.0,
+      "amount": 1087.5,
+      "potential_pnl": 162.5,
+      "pnl_multiplier": 0.14942528735632185,
+      "is_no": true,
+      "slug": "backpack-fdv-above-200m-one-day-after-launch-327-787",
+      "eventSlug": "backpack-fdv-above-one-day-after-launch"
+    },
+    "irrationality": {
+      "irrationality_score": 33,
+      "flags": [
+        "Longshot (13%) in medium bias category (other)",
+        "Moderate mispricing edge (+8.4%)"
+      ],
+      "category": "other",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.046000000000000006,
+      "market_price": 0.13,
+      "edge": 0.08399999999999999,
+      "edge_percent": 8.399999999999999,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "MODERATE",
+      "base_rate_class": "rare",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "rare",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Strong initial demand for the Backpack FDV product",
+          "Effective marketing and community engagement",
+          "Positive sentiment in the broader crypto market"
+        ],
+        "weakest_link": "Strong initial demand for the Backpack FDV product"
+      },
+      "category": "crypto",
+      "narrative_drivers": [
+        "Speculation on the novelty and utility of the product",
+        "Influence of social media and community endorsements"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 103,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 70,
+      "insider_position": "NO",
+      "irrationality_score": 33,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.08399999999999999,
+      "edge_percent": 8.399999999999999
+    },
+    "financial_analyst": {
+      "signal_quality": 68.2,
+      "stance": "SELECTIVE",
+      "edge_percent": 8.4,
+      "signal_strength": 103.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
