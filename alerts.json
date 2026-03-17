@@ -35868,5 +35868,49 @@
     "market": "Will the price of Bitcoin be above $72,000 on March 17?",
     "market_slug": "bitcoin-above-on-march-17",
     "amount": 3593.1072
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xc15b73c6b0a0d89e7a43f1ce747874b4ea66a9e45819c0fdf5552dc4169a7383",
+    "wallet": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
+    "trader": {
+      "rank": 3,
+      "address": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
+      "username": "kch123",
+      "profit": 11396150.443990177,
+      "volume": 255210005.824312,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xb40977131a5718054172c3afe28c448f9f90dfa8",
+      "side": "SELL",
+      "asset": "64396688529621018200644229825696619354093368225452298628950042495300773740332",
+      "conditionId": "0xfed46bb3bf5d047635b71980aaf62f9f75596d19ef7d2435139f392baa0fda1d",
+      "size": 1805,
+      "price": 0.956,
+      "timestamp": 1773736131,
+      "title": "Will Iv\u00e1n Arias win the 2026 La Paz mayoral election?",
+      "slug": "will-ivn-arias-win-the-2026-la-paz-mayoral-election",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ivn-arias-win-the-2026-la-paz-mayoral-election-OJYFuc71CyeV.jpg",
+      "eventSlug": "la-paz-mayoral-election-winner-bolivia",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "wheatqt62",
+      "pseudonym": "Unwieldy-Redesign",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xc15b73c6b0a0d89e7a43f1ce747874b4ea66a9e45819c0fdf5552dc4169a7383",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Iv\u00e1n Arias win the 2026 La Paz mayoral election?",
+    "market_slug": "la-paz-mayoral-election-winner-bolivia",
+    "amount": 1725.58
   }
 ]
