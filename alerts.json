@@ -36332,5 +36332,215 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "market": "Spread: Pistons (-18.5)",
+    "market_slug": "nba-det-was-2026-03-17-spread-away-18pt5",
+    "event_slug": "nba-det-was-2026-03-17-spread-away-18pt5",
+    "wallet": "0x2d73e36dfd44cca926a1cee87dad8383498d38f9",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,199)",
+        "Low activity (3 txns)"
+      ],
+      "amount": 1198.97,
+      "odds": 0.47,
+      "raw_price": 0.47,
+      "outcome": "Pistons",
+      "potential_pnl": 1352.0300000000002,
+      "pnl_multiplier": 1.1276595744680853,
+      "wallet_age_days": 0,
+      "total_activities": 3
+    },
+    "timestamp": "2026-03-17T14:01:43.592308",
+    "trade_hash": "0x62109385ef7341f370f6c3df63caab4adb867d0ea7b65c1aef8ef7f4a493af05",
+    "trade_timestamp": 1773755899,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Pistons",
+      "side": "BUY",
+      "price": 0.47,
+      "effective_price": 0.47,
+      "size": 2551.0,
+      "amount": 1198.97,
+      "potential_pnl": 1352.0300000000002,
+      "pnl_multiplier": 1.1276595744680853,
+      "is_no": false,
+      "slug": "nba-det-was-2026-03-17-spread-away-18pt5",
+      "eventSlug": "nba-det-was-2026-03-17"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+23.6%)"
+      ],
+      "category": "other",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.23399999999999999,
+      "market_price": 0.47,
+      "edge": 0.236,
+      "edge_percent": 23.599999999999998,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Pistons must outperform their average performance",
+          "The opposing team must underperform",
+          "Injuries or absences of key players on the opposing team"
+        ],
+        "weakest_link": "The opposing team must underperform"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Team performance trends",
+        "Injury reports and player availability"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "PISTONS",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.236,
+      "edge_percent": 23.599999999999998
+    },
+    "financial_analyst": {
+      "signal_quality": 51.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 23.6,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Spread: Pistons (-18.5)",
+    "market_slug": "nba-det-was-2026-03-17-spread-away-18pt5",
+    "event_slug": "nba-det-was-2026-03-17-spread-away-18pt5",
+    "wallet": "0xbad6188424886bcb0696dcb971407d93b6fef54c",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,212)",
+        "Low activity (3 txns)"
+      ],
+      "amount": 1211.6599999999999,
+      "odds": 0.47,
+      "raw_price": 0.47,
+      "outcome": "Pistons",
+      "potential_pnl": 1366.3400000000001,
+      "pnl_multiplier": 1.1276595744680853,
+      "wallet_age_days": 0,
+      "total_activities": 3
+    },
+    "timestamp": "2026-03-17T14:01:48.795299",
+    "trade_hash": "0x2c0f1ae97e846b20b92ff51b2f668b5bca097465c34913e4d551a049454fe115",
+    "trade_timestamp": 1773755899,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Pistons",
+      "side": "BUY",
+      "price": 0.47,
+      "effective_price": 0.47,
+      "size": 2578.0,
+      "amount": 1211.6599999999999,
+      "potential_pnl": 1366.3400000000001,
+      "pnl_multiplier": 1.1276595744680853,
+      "is_no": false,
+      "slug": "nba-det-was-2026-03-17-spread-away-18pt5",
+      "eventSlug": "nba-det-was-2026-03-17"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+23.6%)"
+      ],
+      "category": "other",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.23399999999999999,
+      "market_price": 0.47,
+      "edge": 0.236,
+      "edge_percent": 23.599999999999998,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Pistons perform exceptionally well",
+          "Opposing team underperforms",
+          "Injuries to key players on opposing team"
+        ],
+        "weakest_link": "Opposing team underperforms"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Pistons' recent performance trends",
+        "Public sentiment on team dynamics"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "PISTONS",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.236,
+      "edge_percent": 23.599999999999998
+    },
+    "financial_analyst": {
+      "signal_quality": 51.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 23.6,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
