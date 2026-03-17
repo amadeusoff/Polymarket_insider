@@ -18,6 +18,9 @@ on:
           - stats
           - export
 
+permissions:
+  contents: write
+
 jobs:
   collect:
     runs-on: ubuntu-latest
@@ -37,15 +40,6 @@ jobs:
       - name: Install dependencies
         run: pip install requests
       
-      - name: Download existing database
-        uses: dawidd6/action-download-artifact@v3
-        with:
-          name: historical-data
-          path: .
-          search_artifacts: true
-          if_no_artifact_found: warn
-        continue-on-error: true
-      
       - name: Run collection
         run: |
           CMD="${{ inputs.command }}"
@@ -57,13 +51,24 @@ jobs:
         if: always()
         run: python historical_collector.py stats
       
-      - name: Upload database
-        uses: actions/upload-artifact@v4
-        with:
-          name: historical-data
-          path: historical_data.db
-          retention-days: 90
-          if-no-files-found: warn
+      - name: Commit database
+        if: success()
+        run: |
+          git config user.name "Historical Collector Bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          if [ -f historical_data.db ]; then
+            git add historical_data.db
+            if ! git diff --cached --quiet; then
+              git commit -m "data: update historical database [skip ci]"
+              git push || {
+                git pull --rebase origin main
+                git push
+              }
+            else
+              echo "No changes to commit"
+            fi
+          fi
       
       - name: Post summary
         if: always()
@@ -97,13 +102,6 @@ jobs:
       
       - name: Install dependencies
         run: pip install requests
-      
-      - name: Download historical database
-        uses: dawidd6/action-download-artifact@v3
-        with:
-          name: historical-data
-          path: .
-          search_artifacts: true
       
       - name: Check data sufficiency
         id: check
