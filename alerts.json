@@ -36017,5 +36017,320 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "market": "Thunder vs. Magic: O/U 223.5",
+    "market_slug": "nba-okc-orl-2026-03-17-total-223pt5",
+    "event_slug": "nba-okc-orl-2026-03-17-total-223pt5",
+    "wallet": "0xb88cbd70fab2d390591493dc8abc216d03aa4cc1",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($2,000)",
+        "Low activity (2 txns)"
+      ],
+      "amount": 2000.0,
+      "odds": 0.5,
+      "raw_price": 0.5,
+      "outcome": "Over",
+      "potential_pnl": 2000.0,
+      "pnl_multiplier": 1.0,
+      "wallet_age_days": 0,
+      "total_activities": 2
+    },
+    "timestamp": "2026-03-17T12:36:21.494882",
+    "trade_hash": "0xb54ca6a1493dfc12d42002b40479ef3dca63965a8d41c67e4ae22a20c6d10b0f",
+    "trade_timestamp": 1773750791,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Over",
+      "side": "BUY",
+      "price": 0.5,
+      "effective_price": 0.5,
+      "size": 4000.0,
+      "amount": 2000.0,
+      "potential_pnl": 2000.0,
+      "pnl_multiplier": 1.0,
+      "is_no": false,
+      "slug": "nba-okc-orl-2026-03-17-total-223pt5",
+      "eventSlug": "nba-okc-orl-2026-03-17"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+26.0%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.24,
+      "market_price": 0.5,
+      "edge": 0.26,
+      "edge_percent": 26.0,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Both teams have high-scoring players performing at their peak",
+          "Defensive strategies of both teams are ineffective",
+          "Game pace is fast with numerous possessions"
+        ],
+        "weakest_link": "Defensive strategies of both teams are ineffective"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Recent performance trends of both teams",
+        "Injury reports affecting key players"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "OVER",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.26,
+      "edge_percent": 26.0
+    },
+    "financial_analyst": {
+      "signal_quality": 51.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 26.0,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Thunder vs. Magic: O/U 223.5",
+    "market_slug": "nba-okc-orl-2026-03-17-total-223pt5",
+    "event_slug": "nba-okc-orl-2026-03-17-total-223pt5",
+    "wallet": "0xfc94dc0609e44e4454434e275f81461fe000012c",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,252)",
+        "Low activity (3 txns)"
+      ],
+      "amount": 1251.5,
+      "odds": 0.5,
+      "raw_price": 0.5,
+      "outcome": "Over",
+      "potential_pnl": 1251.5,
+      "pnl_multiplier": 1.0,
+      "wallet_age_days": 0,
+      "total_activities": 3
+    },
+    "timestamp": "2026-03-17T12:36:25.114020",
+    "trade_hash": "0xd55fff00188f00ee649a01cbd1bce9315aea7fc6b8d99a3f8b67a554d7c28ec5",
+    "trade_timestamp": 1773750789,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Over",
+      "side": "BUY",
+      "price": 0.5,
+      "effective_price": 0.5,
+      "size": 2503.0,
+      "amount": 1251.5,
+      "potential_pnl": 1251.5,
+      "pnl_multiplier": 1.0,
+      "is_no": false,
+      "slug": "nba-okc-orl-2026-03-17-total-223pt5",
+      "eventSlug": "nba-okc-orl-2026-03-17"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+26.0%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.24,
+      "market_price": 0.5,
+      "edge": 0.26,
+      "edge_percent": 26.0,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Both teams have strong offensive performances",
+          "Defensive strategies are ineffective",
+          "Game pace is fast with limited fouls"
+        ],
+        "weakest_link": "Defensive strategies are ineffective"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Recent scoring trends of both teams",
+        "Injury reports affecting key players"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "OVER",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.26,
+      "edge_percent": 26.0
+    },
+    "financial_analyst": {
+      "signal_quality": 51.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 26.0,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Thunder vs. Magic: O/U 223.5",
+    "market_slug": "nba-okc-orl-2026-03-17-total-223pt5",
+    "event_slug": "nba-okc-orl-2026-03-17-total-223pt5",
+    "wallet": "0x9408145908ef106e52ba03958dfe42299ad3ed29",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,450)",
+        "Low activity (4 txns)"
+      ],
+      "amount": 1449.5,
+      "odds": 0.5,
+      "raw_price": 0.5,
+      "outcome": "Over",
+      "potential_pnl": 1449.5,
+      "pnl_multiplier": 1.0,
+      "wallet_age_days": 0,
+      "total_activities": 4
+    },
+    "timestamp": "2026-03-17T12:36:28.500695",
+    "trade_hash": "0x850fc9464d51474eb49581c5c8d2bf3e8159bb3c7712d74f3c43da83f4a90edc",
+    "trade_timestamp": 1773750789,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Over",
+      "side": "BUY",
+      "price": 0.5,
+      "effective_price": 0.5,
+      "size": 2899.0,
+      "amount": 1449.5,
+      "potential_pnl": 1449.5,
+      "pnl_multiplier": 1.0,
+      "is_no": false,
+      "slug": "nba-okc-orl-2026-03-17-total-223pt5",
+      "eventSlug": "nba-okc-orl-2026-03-17"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+26.0%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.24,
+      "market_price": 0.5,
+      "edge": 0.26,
+      "edge_percent": 26.0,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Both teams score efficiently",
+          "Defensive strategies are ineffective",
+          "Game pace is fast"
+        ],
+        "weakest_link": "Defensive strategies are ineffective"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Recent scoring trends of both teams",
+        "Injury reports affecting player performance"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "OVER",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.26,
+      "edge_percent": 26.0
+    },
+    "financial_analyst": {
+      "signal_quality": 51.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 26.0,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
