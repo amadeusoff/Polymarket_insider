@@ -1,66 +1,5 @@
 [
   {
-    "market": "Will Ethereum reach $4,600 in January?",
-    "market_slug": "will-ethereum-reach-4600-in-january-2026",
-    "wallet": "0x61ab3f2fe0a912cf8caf5d10679f9635c7ff987f",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (99.4% odds)",
-        "Large bet ($5,214)"
-      ],
-      "amount": 5213.53,
-      "odds": 0.994,
-      "wallet_age_days": 0,
-      "total_activities": 5
-    },
-    "timestamp": "2026-01-21T07:38:02.859995",
-    "trade_hash": "0x5888dfb28e9665234114e8128e9d6a2bc5f1d2538467ec750aa84a5f00dd5ec3",
-    "trade_timestamp": 1768980942
-  },
-  {
-    "market": "Will Bitcoin dip to $15,000 by December 31, 2026?",
-    "market_slug": "will-bitcoin-dip-to-15000-by-december-31-2026",
-    "wallet": "0x82eb3e9480e245b3bd9d9e2e18bb2c06f678a6ed",
-    "analysis": {
-      "score": 95,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (95.1% odds)",
-        "Large bet ($5,212)",
-        "Low activity (4 txns)"
-      ],
-      "amount": 5212.431,
-      "odds": 0.951,
-      "wallet_age_days": 0,
-      "total_activities": 4
-    },
-    "timestamp": "2026-01-21T07:54:05.018688",
-    "trade_hash": "0xea414637146b7f3bc622a7dcedccd0e5d5821a042f2619a2a9301d1a17188230",
-    "trade_timestamp": 1768981870
-  },
-  {
-    "market": "Will Bitcoin reach $150,000 in January?",
-    "market_slug": "will-bitcoin-reach-150k-in-january-2026",
-    "wallet": "0xe2512fd0577720e5cebc8b146331723ac6057117",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (99.8% odds)",
-        "Large bet ($3,285)"
-      ],
-      "amount": 3284.999834,
-      "odds": 0.998,
-      "wallet_age_days": 0,
-      "total_activities": 6
-    },
-    "timestamp": "2026-01-21T08:00:35.951881",
-    "trade_hash": "0xd05d94d997606b95799cdddd15009fd14118c4f23769b55039860873728a2ee6",
-    "trade_timestamp": 1768982268
-  },
-  {
     "market": "Will Ron DeSantis win the 2028 Republican presidential nomination?",
     "market_slug": "will-ron-desantis-win-the-2028-republican-presidential-nomination",
     "wallet": "0xf2e09db4b2bec347b2c169c90e62fe9faa7d8cc8",
@@ -24643,5 +24582,320 @@
     "market": "Jets vs. Bruins",
     "market_slug": "nhl-wpg-bos-2026-03-19",
     "amount": 1730.2025999999998
+  },
+  {
+    "market": "LoL: BNK FEARX vs Team Secret Whales - Game 2 Winner",
+    "market_slug": "lol-fox1-tsw-2026-03-18-game2",
+    "event_slug": "lol-fox1-tsw-2026-03-18-game2",
+    "wallet": "0x39bb504fbaf8af888d4aa77d3d7482b23cd79126",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (1d old)",
+        "Large bet ($1,042)",
+        "Low activity (3 txns)"
+      ],
+      "amount": 1042.2,
+      "odds": 0.9,
+      "raw_price": 0.9,
+      "outcome": "BNK FEARX",
+      "potential_pnl": 115.79999999999995,
+      "pnl_multiplier": 0.11111111111111106,
+      "wallet_age_days": 1,
+      "total_activities": 3
+    },
+    "timestamp": "2026-03-18T16:46:57.868450",
+    "trade_hash": "0x4c559d54c97f53c1b72a7f4173918b37e55a5293a90ca18bcf67bd014594d249",
+    "trade_timestamp": 1773852093,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "BNK FEARX",
+      "side": "BUY",
+      "price": 0.9,
+      "effective_price": 0.9,
+      "size": 1158.0,
+      "amount": 1042.2,
+      "potential_pnl": 115.79999999999995,
+      "pnl_multiplier": 0.11111111111111106,
+      "is_no": false,
+      "slug": "lol-fox1-tsw-2026-03-18-game2",
+      "eventSlug": "lol-fox1-tsw-2026-03-18"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+58.0%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.32,
+      "market_price": 0.9,
+      "edge": 0.5800000000000001,
+      "edge_percent": 58.00000000000001,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Team Secret Whales' recent performance",
+          "BNK FEARX's roster stability",
+          "meta-game changes affecting team strategies"
+        ],
+        "weakest_link": "Team Secret Whales' recent performance"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "team morale and synergy",
+        "fan support and community sentiment"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "BNK FEARX",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.5800000000000001,
+      "edge_percent": 58.00000000000001
+    },
+    "financial_analyst": {
+      "signal_quality": 51.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 58.0,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "LoL: BNK FEARX vs Team Secret Whales - Game 2 Winner",
+    "market_slug": "lol-fox1-tsw-2026-03-18-game2",
+    "event_slug": "lol-fox1-tsw-2026-03-18-game2",
+    "wallet": "0x636e348773fbbe9f3ab60041c7d815a55144900f",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (2d old)",
+        "Large bet ($1,140)",
+        "Low activity (3 txns)"
+      ],
+      "amount": 1139.989995,
+      "odds": 0.9,
+      "raw_price": 0.9,
+      "outcome": "BNK FEARX",
+      "potential_pnl": 126.66555500000004,
+      "pnl_multiplier": 0.11111111111111116,
+      "wallet_age_days": 2,
+      "total_activities": 3
+    },
+    "timestamp": "2026-03-18T16:47:02.798498",
+    "trade_hash": "0x4bb748f470f242fd8823c826f660d242f1a04f885fbd895247aca8f324ab953d",
+    "trade_timestamp": 1773852091,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "BNK FEARX",
+      "side": "BUY",
+      "price": 0.9,
+      "effective_price": 0.9,
+      "size": 1266.65555,
+      "amount": 1139.989995,
+      "potential_pnl": 126.66555500000004,
+      "pnl_multiplier": 0.11111111111111116,
+      "is_no": false,
+      "slug": "lol-fox1-tsw-2026-03-18-game2",
+      "eventSlug": "lol-fox1-tsw-2026-03-18"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+58.0%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.32,
+      "market_price": 0.9,
+      "edge": 0.5800000000000001,
+      "edge_percent": 58.00000000000001,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Team Secret Whales has a strong performance history",
+          "BNK FEARX has recent roster changes",
+          "Current meta favors Team Secret Whales' playstyle"
+        ],
+        "weakest_link": "BNK FEARX has recent roster changes"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Team Secret Whales' previous match performance",
+        "Fan sentiment and betting trends"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "BNK FEARX",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.5800000000000001,
+      "edge_percent": 58.00000000000001
+    },
+    "financial_analyst": {
+      "signal_quality": 51.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 58.0,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "LoL: BNK FEARX vs Team Secret Whales - Game 2 Winner",
+    "market_slug": "lol-fox1-tsw-2026-03-18-game2",
+    "event_slug": "lol-fox1-tsw-2026-03-18-game2",
+    "wallet": "0x07cfb250789345f181a4020b55ee821a7a0e964a",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (2d old)",
+        "Large bet ($1,071)",
+        "Low activity (3 txns)"
+      ],
+      "amount": 1071.09,
+      "odds": 0.9,
+      "raw_price": 0.9,
+      "outcome": "BNK FEARX",
+      "potential_pnl": 119.00999999999999,
+      "pnl_multiplier": 0.1111111111111111,
+      "wallet_age_days": 2,
+      "total_activities": 3
+    },
+    "timestamp": "2026-03-18T16:47:05.950244",
+    "trade_hash": "0x0a775b89f0c2f16ae5270e929f07b6e2076e6f1920290c10a28335c95b84c362",
+    "trade_timestamp": 1773852089,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "BNK FEARX",
+      "side": "BUY",
+      "price": 0.9,
+      "effective_price": 0.9,
+      "size": 1190.1,
+      "amount": 1071.09,
+      "potential_pnl": 119.00999999999999,
+      "pnl_multiplier": 0.1111111111111111,
+      "is_no": false,
+      "slug": "lol-fox1-tsw-2026-03-18-game2",
+      "eventSlug": "lol-fox1-tsw-2026-03-18"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+58.0%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.32,
+      "market_price": 0.9,
+      "edge": 0.5800000000000001,
+      "edge_percent": 58.00000000000001,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Team Secret Whales has a strong performance history",
+          "BNK FEARX has recent losses",
+          "Key players are in top form"
+        ],
+        "weakest_link": "Team Secret Whales has inconsistent performance in high-pressure situations"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "recent match outcomes",
+        "team morale and synergy"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "BNK FEARX",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.5800000000000001,
+      "edge_percent": 58.00000000000001
+    },
+    "financial_analyst": {
+      "signal_quality": 51.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 58.0,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
