@@ -400,7 +400,8 @@ def format_institutional_alert(alert):
     
     # Get market data
     market = alert.get('market', 'Unknown market')
-    yes_price = analysis.get('odds', 0.5)
+    # BUG FIX: same as format_trade_info — use raw_price, not effective odds
+    yes_price = analysis.get('raw_price', analysis.get('odds', 0.5))
     no_price = 1 - yes_price
     
     # Build URL
