@@ -1,65 +1,5 @@
 [
   {
-    "market": "Will the US strike Colombia next?",
-    "market_slug": "will-the-us-strike-colombia-next-863",
-    "wallet": "0x61deb15bdb695fda6349b713427d02dc00279e1a",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (99.5% odds)",
-        "Large bet ($5,331)"
-      ],
-      "amount": 5330.9811500000005,
-      "odds": 0.995,
-      "wallet_age_days": 0,
-      "total_activities": 7
-    },
-    "timestamp": "2026-01-21T09:00:37.240905",
-    "trade_hash": "0x39ac5711e577837ff4e373a0e8634abd2f226ce6de1f7d15317cbd3c319d2af1",
-    "trade_timestamp": 1768985774
-  },
-  {
-    "market": "Will Sporting win the 2025\u201326 Champions League?",
-    "market_slug": "will-sporting-win-the-202526-champions-league",
-    "wallet": "0x60c2d35eb3749bbfbd91c9f95c68e8220540f534",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (1d old)",
-        "Extreme confidence (99.1% odds)",
-        "Large bet ($4,757)"
-      ],
-      "amount": 4756.8,
-      "odds": 0.991,
-      "wallet_age_days": 1,
-      "total_activities": 32
-    },
-    "timestamp": "2026-01-21T09:33:54.488783",
-    "trade_hash": "0x7895edafa43a9afd8e205973aed855dafb5c51fea3957b1f803d8b128546b6bb",
-    "trade_timestamp": 1768987922
-  },
-  {
-    "market": "LoL: Dplus KIA vs Nongshim Red Force (BO3) - LCK Cup Group Stage",
-    "market_slug": "lol-dk-ns-2026-01-21",
-    "wallet": "0x65b7a4c314a4f0498a756526c29b2079fb7df83c",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (1d old)",
-        "Extreme confidence (99.0% odds)",
-        "Large bet ($3,080)"
-      ],
-      "amount": 3080.3026400000003,
-      "odds": 0.9903491087733738,
-      "wallet_age_days": 1,
-      "total_activities": 100
-    },
-    "timestamp": "2026-01-21T10:19:57.998242",
-    "trade_hash": "0x71f94ee274558c1c4751234203baa05688ff83a47bf7b57c05f2f1927c3c795b",
-    "trade_timestamp": 1768990712
-  },
-  {
     "market": "LoL: LNG Esports vs LGD Gaming - Game 2 Winner",
     "market_slug": "lol-lng-lgd-2026-01-21-game2",
     "wallet": "0xbcf011c5c93f1553d8a8c1f2df8a9cc5b9c0ea00",
@@ -25054,5 +24994,137 @@
     "market": "Clippers vs. Pelicans",
     "market_slug": "nba-lac-nop-2026-03-18",
     "amount": 2044.2399990000001
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x0acb73f956f04dc504f483b8e952d0f324e9020931fd87041970463eab8be19c",
+    "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
+    "trader": {
+      "rank": 6,
+      "address": "0x863134d00841b2e200492805a01e1e2f5defaa53",
+      "username": "RepTrump",
+      "profit": 7532409.671579,
+      "volume": 13983231.103425,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xd106952ebf30a3125affd8a23b6c1f30c35fc79c",
+      "side": "BUY",
+      "asset": "36961540922856473670872890994305065836143786629172347392664942684473699861012",
+      "conditionId": "0x2c969fd929ea89dd35f84893ee964e0e1264c298f8194ab1e683bcf0dde8d348",
+      "size": 6426.87,
+      "price": 0.73,
+      "timestamp": 1773877185,
+      "title": "Raptors vs. Bulls",
+      "slug": "nba-tor-chi-2026-03-18",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-tor-chi-2026-03-18",
+      "outcome": "Raptors",
+      "outcomeIndex": 0,
+      "name": "Herdonia",
+      "pseudonym": "Unkempt-Image",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x0acb73f956f04dc504f483b8e952d0f324e9020931fd87041970463eab8be19c",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Raptors vs. Bulls",
+    "market_slug": "nba-tor-chi-2026-03-18",
+    "amount": 4691.6151
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x6e22fb8c3b2b7a799bea901d933c58f92c99752fea73b0e56017b4b0a4535864",
+    "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
+    "trader": {
+      "rank": 6,
+      "address": "0x863134d00841b2e200492805a01e1e2f5defaa53",
+      "username": "RepTrump",
+      "profit": 7532409.671579,
+      "volume": 13983231.103425,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x39d3c773be30fcc73161fc6768f46d563a779ef0",
+      "side": "BUY",
+      "asset": "3715532536484408226067929719620644018156210204570723047552406298073845229832",
+      "conditionId": "0xe6ebc78c5150fa603ca15bf5d5411955946fcddfd5d28cf34e4c241b4ec509b6",
+      "size": 12740,
+      "price": 0.45,
+      "timestamp": 1773877185,
+      "title": "Will AS Roma win on 2026-03-19?",
+      "slug": "uel-rom1-bol1-2026-03-19-rom1",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/uel.png",
+      "eventSlug": "uel-rom1-bol1-2026-03-19",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "matanovik",
+      "pseudonym": "Lost-Property",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x6e22fb8c3b2b7a799bea901d933c58f92c99752fea73b0e56017b4b0a4535864",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will AS Roma win on 2026-03-19?",
+    "market_slug": "uel-rom1-bol1-2026-03-19",
+    "amount": 7007.000000000001
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x776c925ace2636cf3deb12cd53169af806b345d8bd2f5f9df7f9a9c5397d607d",
+    "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
+    "trader": {
+      "rank": 6,
+      "address": "0x863134d00841b2e200492805a01e1e2f5defaa53",
+      "username": "RepTrump",
+      "profit": 7532409.671579,
+      "volume": 13983231.103425,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xee613b3fc183ee44f9da9c05f53e2da107e3debf",
+      "side": "BUY",
+      "asset": "32842054609210488119922752190357515717710523303220919546795223113990709252921",
+      "conditionId": "0x2d759abe9d12448f2546b8bee9b92260bcada606eccebb6a6f6f317a20d87c3c",
+      "size": 2887.04,
+      "price": 0.54,
+      "timestamp": 1773877185,
+      "title": "Spread: Illinois State Redbirds (-5.5)",
+      "slug": "cbb-kentst-illst-2026-03-18-spread-home-5pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ncaa-c14995df96.png",
+      "eventSlug": "cbb-kentst-illst-2026-03-18",
+      "outcome": "Kent State Golden Flashes",
+      "outcomeIndex": 1,
+      "name": "sovereign2013",
+      "pseudonym": "Ultimate-Locality",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x776c925ace2636cf3deb12cd53169af806b345d8bd2f5f9df7f9a9c5397d607d",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spread: Illinois State Redbirds (-5.5)",
+    "market_slug": "cbb-kentst-illst-2026-03-18",
+    "amount": 1559.0016
   }
 ]
