@@ -1,25 +1,5 @@
 [
   {
-    "market": "Will Kristi Noem win the 2028 Republican presidential nomination?",
-    "market_slug": "will-kristi-noem-win-the-2028-republican-presidential-nomination",
-    "wallet": "0x7113347bff2dd2eccc0069c76d568480734a665e",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (99.5% odds)",
-        "Large bet ($1,279)"
-      ],
-      "amount": 1279.14215,
-      "odds": 0.995,
-      "wallet_age_days": 0,
-      "total_activities": 21
-    },
-    "timestamp": "2026-01-21T08:00:56.848835",
-    "trade_hash": "0x8ade9891622b47ef0f23c5f494fa7f9097703e44b7df1491fb29f33b027a7866",
-    "trade_timestamp": 1768982148
-  },
-  {
     "market": "Will Bitcoin reach $150,000 in January?",
     "market_slug": "will-bitcoin-reach-150k-in-january-2026",
     "wallet": "0x94353164e0b0e4d87441b8c53f6002f9eaffc1e2",
@@ -24982,5 +24962,49 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x927b885b9f4d08509c599de1519ad5fd0713996af3e602b36ade91c5fca219c4",
+    "wallet": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+    "trader": {
+      "rank": 8,
+      "address": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+      "username": "walletmobile",
+      "profit": 5942685.45339684,
+      "volume": 32196692.075936034,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "87076643449674421025867563979305674986904094660200631728049568674877746093358",
+      "conditionId": "0x445bb75546efcbb18b15425b96d8f32c343998d8fae92f8964d8000534cd9947",
+      "size": 3794,
+      "price": 0.21,
+      "timestamp": 1773864279,
+      "title": "Will Liverpool FC win on 2026-03-18?",
+      "slug": "ucl-liv1-gal-2026-03-18-liv1",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/champions-league-pic-QIUFsL8vaDdq.png",
+      "eventSlug": "ucl-liv1-gal-2026-03-18",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "loincloth chic",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x927b885b9f4d08509c599de1519ad5fd0713996af3e602b36ade91c5fca219c4",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Liverpool FC win on 2026-03-18?",
+    "market_slug": "ucl-liv1-gal-2026-03-18",
+    "amount": 2997.26
   }
 ]
