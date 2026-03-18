@@ -2,27 +2,6 @@
   {
     "market": "Will Uzbekistan win the 2026 FIFA World Cup?",
     "market_slug": "will-uzbekistan-win-the-2026-fifa-world-cup-773",
-    "wallet": "0x51647ec2817155b2eda49b5eb83c82a0976af17c",
-    "analysis": {
-      "score": 95,
-      "flags": [
-        "New wallet (1d old)",
-        "Extreme confidence (99.8% odds)",
-        "Large bet ($1,033)",
-        "Low activity (3 txns)"
-      ],
-      "amount": 1033.40904,
-      "odds": 0.998,
-      "wallet_age_days": 1,
-      "total_activities": 3
-    },
-    "timestamp": "2026-01-21T07:03:04.356748",
-    "trade_hash": "0xa6bd2ad57adce3658d64866370293b0440d0c149c3ddedf914280e84ea76b4c2",
-    "trade_timestamp": 1768978912
-  },
-  {
-    "market": "Will Uzbekistan win the 2026 FIFA World Cup?",
-    "market_slug": "will-uzbekistan-win-the-2026-fifa-world-cup-773",
     "wallet": "0xce0a5278b3bd264ab160d3600fef0a9d7c5f1887",
     "analysis": {
       "score": 95,
@@ -24550,5 +24529,49 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x2686f94e15bfc0ae161f7b4d339b041547648637a349e29e67c2058ced480045",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x37c1874a60d348903594a96703e0507c518fc53a",
+      "side": "BUY",
+      "asset": "47632495012154228233328904043908654846922990472676919198201559293663662665815",
+      "conditionId": "0x1908e8da1563399d1521fd135c581a4a0f5925909e94cd4f2d9e4d68e7059ced",
+      "size": 7407.81,
+      "price": 0.64,
+      "timestamp": 1773830067,
+      "title": "Will Club Atl\u00e9tico de Madrid win on 2026-03-18?",
+      "slug": "ucl-tot-atm1-2026-03-18-atm1",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/champions-league-pic-QIUFsL8vaDdq.png",
+      "eventSlug": "ucl-tot-atm1-2026-03-18",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "CemeterySun",
+      "pseudonym": "Pale-Bend",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x2686f94e15bfc0ae161f7b4d339b041547648637a349e29e67c2058ced480045",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Club Atl\u00e9tico de Madrid win on 2026-03-18?",
+    "market_slug": "ucl-tot-atm1-2026-03-18",
+    "amount": 4740.9984
   }
 ]
