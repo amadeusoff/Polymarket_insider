@@ -5,8 +5,11 @@ from analyzer import calculate_score, should_skip_alert
 from event_detector_fixed import detect_pre_event_trade, calculate_latency_score, get_latency_insight
 from database_fixed import (
     init_database, get_wallet_stats, update_wallet_stats, 
-    save_trade, is_alert_sent, mark_alert_sent
+    save_trade, is_alert_sent, mark_alert_sent,
+    get_recent_alerts_for_market
 )
+from irrationality import analyze_market_irrationality
+from top_traders import is_top_trader
 from config import (
     ALERT_THRESHOLD,
     MIN_BET_SIZE,
@@ -206,7 +209,6 @@ def detect_insider_trades():
                 top_trader_score = 0
                 top_trader_info = None
                 try:
-                    from top_traders import is_top_trader
                     top_trader_info = is_top_trader(wallet_address)
                     if top_trader_info:
                         top_trader_score = 30  # Significant bonus for top trader
@@ -247,7 +249,6 @@ def detect_insider_trades():
                         print(f"     (Score was {analysis['score']} >= {ALERT_THRESHOLD}, but filtered out)")
                     else:
                         # Check for coordinated attack
-                        from database_fixed import get_recent_alerts_for_market
                         recent_alerts = get_recent_alerts_for_market(market.get("question", ""), hours=6)
                         
                         if len(recent_alerts) >= 3:
@@ -261,7 +262,6 @@ def detect_insider_trades():
                         # ══════════════════════════════════════════
                         # IRRATIONALITY ANALYSIS (Methodology v2)
                         # ══════════════════════════════════════════
-                        from irrationality import analyze_market_irrationality
                         
                         irrationality_analysis = analyze_market_irrationality(
                             market_question=market.get("question", ""),
