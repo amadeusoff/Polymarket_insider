@@ -284,17 +284,24 @@ def build_polymarket_url(trade_data: Dict, alert: Dict = None) -> str:
         return "https://polymarket.com"
     
     # Detect sport leagues from slug pattern
+    # Simple sports: /sports/{league}/{slug} works directly
     sport_prefixes = {
         'nba-': 'nba', 'nfl-': 'nfl', 'mlb-': 'mlb', 'nhl-': 'nhl',
         'epl-': 'epl', 'mls-': 'mls', 'ncaa-': 'ncaa', 'wnba-': 'wnba',
-        'cs2-': 'esports', 'dota-': 'esports', 'lol-': 'esports',
         'elc-': 'efl-championship', 'ufc-': 'mma', 'f1-': 'f1',
         'tennis-': 'tennis', 'golf-': 'golf'
     }
     
+    # Esports have complex URL paths (/sports/league-of-legends/games/week/N/slug)
+    # that we can't reconstruct from slug alone — use event format instead
+    esports_prefixes = {'cs2-', 'dota-', 'lol-', 'val-', 'rl-'}
+    
+    for prefix in esports_prefixes:
+        if slug.startswith(prefix) or event_slug.startswith(prefix):
+            return f"https://polymarket.com/event/{event_slug}"
+    
     for prefix, league in sport_prefixes.items():
         if slug.startswith(prefix) or event_slug.startswith(prefix):
-            # Sports URL format
             return f"https://polymarket.com/sports/{league}/{event_slug}"
     
     # Default event URL format
