@@ -1,45 +1,5 @@
 [
   {
-    "market": "LoL: DRX vs DN Freecs (BO3) - LCK Cup Group Stage",
-    "market_slug": "lol-drx-dnf-2026-01-21",
-    "wallet": "0xf05ba5ce4b05e7d53b79efc22c3bd99ab0e804f1",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (95.4% odds)",
-        "Large bet ($1,254)"
-      ],
-      "amount": 1253.7259999999999,
-      "odds": 0.9540712894192135,
-      "wallet_age_days": 0,
-      "total_activities": 26
-    },
-    "timestamp": "2026-01-21T13:28:13.592540",
-    "trade_hash": "0x1610b921dd0e7ec892cb1b1d256851b90a8a56ac213050dcdb4bcd334f9cf7b2",
-    "trade_timestamp": 1769001942
-  },
-  {
-    "market": "Will Diosdado Cabello Rond\u00f3n be the leader of Venezuela end of 2026?",
-    "market_slug": "will-diosdado-cabello-rondn-be-the-leader-of-venezuela-end-of-2026",
-    "wallet": "0x8784bd0ff2990abf9b7b257b24f43142473883b2",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (95.9% odds)",
-        "Large bet ($3,237)"
-      ],
-      "amount": 3236.625,
-      "odds": 0.959,
-      "wallet_age_days": 0,
-      "total_activities": 45
-    },
-    "timestamp": "2026-01-21T14:35:39.854647",
-    "trade_hash": "0x873c9084b0d99371ae64f429c1d35e8d46093d56ecbfa57f74b50ce1bf791b5d",
-    "trade_timestamp": 1769005924
-  },
-  {
     "market": "Will the Logan Paul 1st Edition Charizard sale price be over 500k?",
     "market_slug": "will-the-logan-paul-1st-edition-charizard-sale-price-be-over-500k",
     "wallet": "0x7d1922ca7623823d0bcbc454fe3b0d071084655d",
@@ -25702,6 +25662,216 @@
       "signal_quality": 51.0,
       "stance": "WATCH_ONLY",
       "edge_percent": 26.8,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Spread: Hornets (-5.5)",
+    "market_slug": "nba-orl-cha-2026-03-19-spread-home-5pt5",
+    "event_slug": "nba-orl-cha-2026-03-19-spread-home-5pt5",
+    "wallet": "0x73c5261c9ca237d4e34a803edece2f1d1abb26e9",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,697)",
+        "Low activity (2 txns)"
+      ],
+      "amount": 1696.835,
+      "odds": 0.5,
+      "raw_price": 0.5,
+      "outcome": "Hornets",
+      "potential_pnl": 1696.835,
+      "pnl_multiplier": 1.0,
+      "wallet_age_days": 0,
+      "total_activities": 2
+    },
+    "timestamp": "2026-03-19T14:36:56.307326",
+    "trade_hash": "0x58cccda82653d7155d0d0f983f582ee236ea5709042038ffce43be8e7f7e6c1d",
+    "trade_timestamp": 1773930723,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Hornets",
+      "side": "BUY",
+      "price": 0.5,
+      "effective_price": 0.5,
+      "size": 3393.67,
+      "amount": 1696.835,
+      "potential_pnl": 1696.835,
+      "pnl_multiplier": 1.0,
+      "is_no": false,
+      "slug": "nba-orl-cha-2026-03-19-spread-home-5pt5",
+      "eventSlug": "nba-orl-cha-2026-03-19"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+26.0%)"
+      ],
+      "category": "other",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.24,
+      "market_price": 0.5,
+      "edge": 0.26,
+      "edge_percent": 26.0,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Hornets maintain a strong home court advantage",
+          "Key players for Hornets perform exceptionally well",
+          "Opponent struggles with injuries or poor performance"
+        ],
+        "weakest_link": "Opponent struggles with injuries or poor performance"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Hornets' recent performance trends",
+        "Public sentiment towards the Hornets' chances"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "HORNETS",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.26,
+      "edge_percent": 26.0
+    },
+    "financial_analyst": {
+      "signal_quality": 51.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 26.0,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Spread: Hornets (-5.5)",
+    "market_slug": "nba-orl-cha-2026-03-19-spread-home-5pt5",
+    "event_slug": "nba-orl-cha-2026-03-19-spread-home-5pt5",
+    "wallet": "0x77a9f585405788ac801da061f2db51ce8b8bf7d7",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($2,397)",
+        "Low activity (2 txns)"
+      ],
+      "amount": 2397.165,
+      "odds": 0.5,
+      "raw_price": 0.5,
+      "outcome": "Magic",
+      "potential_pnl": 2397.165,
+      "pnl_multiplier": 1.0,
+      "wallet_age_days": 0,
+      "total_activities": 2
+    },
+    "timestamp": "2026-03-19T14:36:59.601162",
+    "trade_hash": "0x83a7e450890c88a2338f9381b76b7e4d75e4a292622f2f389dfac657a88bfb0a",
+    "trade_timestamp": 1773930723,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Magic",
+      "side": "BUY",
+      "price": 0.5,
+      "effective_price": 0.5,
+      "size": 4794.33,
+      "amount": 2397.165,
+      "potential_pnl": 2397.165,
+      "pnl_multiplier": 1.0,
+      "is_no": false,
+      "slug": "nba-orl-cha-2026-03-19-spread-home-5pt5",
+      "eventSlug": "nba-orl-cha-2026-03-19"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+26.0%)"
+      ],
+      "category": "other",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.24,
+      "market_price": 0.5,
+      "edge": 0.26,
+      "edge_percent": 26.0,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Hornets perform well offensively",
+          "Hornets maintain defensive consistency",
+          "Opponent struggles with key injuries"
+        ],
+        "weakest_link": "Opponent struggles with key injuries"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Hornets' recent performance trends",
+        "Injury reports affecting opponent"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "MAGIC",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.26,
+      "edge_percent": 26.0
+    },
+    "financial_analyst": {
+      "signal_quality": 51.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 26.0,
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
