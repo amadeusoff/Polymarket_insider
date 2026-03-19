@@ -1,25 +1,5 @@
 [
   {
-    "market": "LoL: LNG Esports vs LGD Gaming - Game 2 Winner",
-    "market_slug": "lol-lng-lgd-2026-01-21-game2",
-    "wallet": "0xbcf011c5c93f1553d8a8c1f2df8a9cc5b9c0ea00",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (99.9% odds)",
-        "Large bet ($1,163)"
-      ],
-      "amount": 1162.5363,
-      "odds": 0.999,
-      "wallet_age_days": 0,
-      "total_activities": 96
-    },
-    "timestamp": "2026-01-21T10:51:18.340903",
-    "trade_hash": "0x97fb8eae0ab6996e9ca2e8fd068208d86d94aa74b2356ea9fc381a019d440680",
-    "trade_timestamp": 1768992502
-  },
-  {
     "market": "Will Ethereum dip to $2,000 in January?",
     "market_slug": "will-ethereum-dip-to-2000-in-january-2026-647",
     "wallet": "0xadf9e07e9a55e932d8657a6ebfa02ba96108ccb1",
@@ -25126,5 +25106,49 @@
     "market": "Spread: Illinois State Redbirds (-5.5)",
     "market_slug": "cbb-kentst-illst-2026-03-18",
     "amount": 1559.0016
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x3216a6735483e7b1c651e3bb72dc110bfd50f3037b02313e474a68944b952168",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "trader": {
+      "rank": 10,
+      "address": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+      "username": "RN1",
+      "profit": 5707489.607975597,
+      "volume": 277849552.749512,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x6c16abad96d6989efe1b0333cb9af9158f548bfa",
+      "side": "BUY",
+      "asset": "113008433113230105947013984297397493271706363061080351095559172103146900012538",
+      "conditionId": "0xe4c1e33149a57001f047dbae47bbde6027f7d3fdcfefb142fcdc95c60abf4a29",
+      "size": 6200,
+      "price": 0.67,
+      "timestamp": 1773897593,
+      "title": "Counter-Strike: PARIVISION vs NIP (BO3) - BLAST Open Rotterdam Group B",
+      "slug": "cs2-prv-nip-2026-03-19",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/counter-strike-image-16c415c538.png",
+      "eventSlug": "cs2-prv-nip-2026-03-19",
+      "outcome": "PARIVISION",
+      "outcomeIndex": 0,
+      "name": "XPredicter1",
+      "pseudonym": "Happy-Bottle",
+      "bio": "BET ON YOUR BELIEFS",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3213213-9f8b7631-e046-4d06-ab23-61e8e23df953.webp",
+      "profileImageOptimized": "",
+      "transactionHash": "0x3216a6735483e7b1c651e3bb72dc110bfd50f3037b02313e474a68944b952168",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Counter-Strike: PARIVISION vs NIP (BO3) - BLAST Open Rotterdam Group B",
+    "market_slug": "cs2-prv-nip-2026-03-19",
+    "amount": 4154.0
   }
 ]
