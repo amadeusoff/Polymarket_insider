@@ -1,82 +1,5 @@
 [
   {
-    "market": "Will Brentford win the 2025\u201326 English Premier League?",
-    "market_slug": "will-brentford-win-the-202526-english-premier-league",
-    "wallet": "0x5d948fd6d6b10f873db0b8924c507ccb8510864f",
-    "analysis": {
-      "score": 95,
-      "flags": [
-        "New wallet (2d old)",
-        "Extreme confidence (99.9% odds)",
-        "Large bet ($1,029)",
-        "Low activity (3 txns)"
-      ],
-      "amount": 1028.68029,
-      "odds": 0.999,
-      "wallet_age_days": 2,
-      "total_activities": 3
-    },
-    "timestamp": "2026-01-22T06:55:15.262324",
-    "trade_hash": "0x596b949dc09898499c1d52bdb951996548cd1ddf4d3bee7bdad43ef344e6f12b",
-    "trade_timestamp": 1769064638,
-    "trade_data": {
-      "asset": "114444125124122303566399993657146184596008541183155111894675512718735990103370",
-      "assetId": null,
-      "tokenId": null,
-      "side": "BUY",
-      "outcome": "No",
-      "market": null,
-      "type": null,
-      "status": null,
-      "maker": null,
-      "taker": null,
-      "makerAddress": null,
-      "takerAddress": null,
-      "feeRateBps": null,
-      "price": 0.999,
-      "size": 1029.71,
-      "amount": 1028.68029
-    }
-  },
-  {
-    "market": "Will Wolves win the 2025\u201326 English Premier League?",
-    "market_slug": "will-wolves-win-the-202526-english-premier-league",
-    "wallet": "0xb6c5af3879d48c60cb30b60850c99187a2c36620",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (1d old)",
-        "Extreme confidence (99.8% odds)",
-        "Large bet ($1,008)"
-      ],
-      "amount": 1007.98998,
-      "odds": 0.998,
-      "wallet_age_days": 1,
-      "total_activities": 100
-    },
-    "timestamp": "2026-01-22T06:55:39.956305",
-    "trade_hash": "0x4e905947d4ec40995aab7cf2ccb6d4a2c38eec5095f5811dde0a441149f39fb7",
-    "trade_timestamp": 1769064710,
-    "trade_data": {
-      "asset": "60828526177642015904409520408115757511306238626287950905759830998657686475336",
-      "assetId": null,
-      "tokenId": null,
-      "side": "SELL",
-      "outcome": "No",
-      "market": null,
-      "type": null,
-      "status": null,
-      "maker": null,
-      "taker": null,
-      "makerAddress": null,
-      "takerAddress": null,
-      "feeRateBps": null,
-      "price": 0.998,
-      "size": 1010.01,
-      "amount": 1007.98998
-    }
-  },
-  {
     "market": "Bucks vs. Hawks: O/U 230.5",
     "market_slug": "nba-mil-atl-2026-01-19-total-230pt5",
     "wallet": "0xb26572db7b240086b7a09087c144952858be3d70",
@@ -26431,5 +26354,93 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x51d66a6e4a45f8c52936c2972505104c4d0bd0cbe560e4c5ab15a5d2fbdac295",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xcb437c1cae90151d00fb55c014a9d3616ffd3c74",
+      "side": "BUY",
+      "asset": "96201733608502458627905480167652884986457888149548653845440039271543270786117",
+      "conditionId": "0x1877d73f4f3cb7fc56ac69f4b83dbaebbecefd8390da3b47265ed4cc7df0f80c",
+      "size": 2000,
+      "price": 0.903735,
+      "timestamp": 1774031145,
+      "title": "Santa Clara Broncos vs. Kentucky Wildcats",
+      "slug": "cbb-sanclr-uk-2026-03-20",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ncaa-c14995df96.png",
+      "eventSlug": "cbb-sanclr-uk-2026-03-20",
+      "outcome": "Kentucky Wildcats",
+      "outcomeIndex": 1,
+      "name": "Stupidity",
+      "pseudonym": "Bossy-Window",
+      "bio": "9206",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3401687-c0659135-dfd5-496d-8b0e-85cfdaff117a.png",
+      "profileImageOptimized": "",
+      "transactionHash": "0x51d66a6e4a45f8c52936c2972505104c4d0bd0cbe560e4c5ab15a5d2fbdac295",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Santa Clara Broncos vs. Kentucky Wildcats",
+    "market_slug": "cbb-sanclr-uk-2026-03-20",
+    "amount": 1807.4699999999998
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x5081c119ea99a4e94ff499452a12ac431b131d0ebfb0bb63043a1b3a9cc75266",
+    "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
+    "trader": {
+      "rank": 6,
+      "address": "0x863134d00841b2e200492805a01e1e2f5defaa53",
+      "username": "RepTrump",
+      "profit": 7532409.671579,
+      "volume": 13983231.103425,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+      "side": "BUY",
+      "asset": "79308286211285981481697518081271815960844799414039636458581868757032388361925",
+      "conditionId": "0x04c109837e9c83aa410e4a1bfa32d5574b05fafd0a432514965c03a20e2511a6",
+      "size": 2040,
+      "price": 0.92,
+      "timestamp": 1774031445,
+      "title": "Akron Zips vs. Texas Tech Red Raiders",
+      "slug": "cbb-akron-txtech-2026-03-20",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ncaa-c14995df96.png",
+      "eventSlug": "cbb-akron-txtech-2026-03-20",
+      "outcome": "Texas Tech Red Raiders",
+      "outcomeIndex": 1,
+      "name": "RN1",
+      "pseudonym": "Scary-Edible",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-1567750-84001aec-310a-470f-9584-67dfcaa61267.png",
+      "profileImageOptimized": "",
+      "transactionHash": "0x5081c119ea99a4e94ff499452a12ac431b131d0ebfb0bb63043a1b3a9cc75266",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Akron Zips vs. Texas Tech Red Raiders",
+    "market_slug": "cbb-akron-txtech-2026-03-20",
+    "amount": 1876.8000000000002
   }
 ]
