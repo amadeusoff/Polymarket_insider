@@ -1,43 +1,5 @@
 [
   {
-    "market": "Bucks vs. Hawks: O/U 230.5",
-    "market_slug": "nba-mil-atl-2026-01-19-total-230pt5",
-    "wallet": "0x9c210ba5d77ce250ad8d19f4d129626d36d583a6",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (99.9% odds)",
-        "Large bet ($1,046)"
-      ],
-      "amount": 1045.953,
-      "odds": 0.999,
-      "wallet_age_days": 0,
-      "total_activities": 5
-    },
-    "timestamp": "2026-01-22T07:55:26.225743",
-    "trade_hash": "0x450d8834922ebe7ba694082b4dfe11139f69fb401a4f19a70c5a3e6b3837014c",
-    "trade_timestamp": 1769068388,
-    "trade_data": {
-      "asset": "165665731018223767835736471127433682138427665890281163571304478976402928056",
-      "assetId": null,
-      "tokenId": null,
-      "side": "SELL",
-      "outcome": "Under",
-      "market": null,
-      "type": null,
-      "status": null,
-      "maker": null,
-      "taker": null,
-      "makerAddress": null,
-      "takerAddress": null,
-      "feeRateBps": null,
-      "price": 0.999,
-      "size": 1047.0,
-      "amount": 1045.953
-    }
-  },
-  {
     "market": "Will Bitcoin reach $150,000 in January?",
     "market_slug": "will-bitcoin-reach-150k-in-january-2026",
     "wallet": "0x15d30a2e0ae97f2c9f6a98dbfb728f73ab1a28de",
@@ -26460,5 +26422,110 @@
     "market": "Putin out as President of Russia by December 31, 2026?",
     "market_slug": "putin-out-before-2027",
     "amount": 2888.86
+  },
+  {
+    "market": "Will the Freedom Movement (GS) win the most seats in the 2026 Slovenian parliamentary election?",
+    "market_slug": "will-the-freedom-movement-gs-win-the-most-seats-in-the-2026-slovenian-parliamentary-election-529",
+    "event_slug": "will-the-freedom-movement-gs-win-the-most-seats-in-the-2026-slovenian-parliamentary-election-529",
+    "wallet": "0xeaa39d0aad995af0cb20dab9ae1cc2fef725545f",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($2,823)",
+        "Low activity (2 txns)"
+      ],
+      "amount": 2823.1099970000005,
+      "odds": 0.6744846903130101,
+      "raw_price": 0.6744846903130101,
+      "outcome": "Yes",
+      "potential_pnl": 1362.470547,
+      "pnl_multiplier": 0.4826133407652694,
+      "wallet_age_days": 0,
+      "total_activities": 2
+    },
+    "timestamp": "2026-03-20T22:21:43.988779",
+    "trade_hash": "0x9caef66b7018460e8f5f8819368ca26d7a676f3dec8941e3a783c68e41b46711",
+    "trade_timestamp": 1774044943,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "side": "BUY",
+      "price": 0.6744846903130101,
+      "effective_price": 0.6744846903130101,
+      "size": 4185.580544,
+      "amount": 2823.1099970000005,
+      "potential_pnl": 1362.470547,
+      "pnl_multiplier": 0.4826133407652694,
+      "is_no": false,
+      "slug": "will-the-freedom-movement-gs-win-the-most-seats-in-the-2026-slovenian-parliamentary-election-529",
+      "eventSlug": "slovenian-parliamentary-election-winner-791"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+40.0%)"
+      ],
+      "category": "politics_near",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.02,
+        "min_edge": 0.03
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.274896938062602,
+      "market_price": 0.6744846903130101,
+      "edge": 0.39958775225040805,
+      "edge_percent": 39.9587752250408,
+      "min_edge_required": 0.03,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "The Freedom Movement (GS) maintains strong public support leading up to the election.",
+          "No significant political scandals or crises impact the party negatively.",
+          "Opposition parties fail to unify or present a compelling alternative."
+        ],
+        "weakest_link": "Opposition parties failing to unify or present a compelling alternative, as this is contingent on various political dynamics."
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Public sentiment towards the Freedom Movement remains favorable.",
+        "Shifts in voter demographics or key issues influencing the electorate."
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.39958775225040805,
+      "edge_percent": 39.9587752250408
+    },
+    "financial_analyst": {
+      "signal_quality": 46.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 39.96,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
