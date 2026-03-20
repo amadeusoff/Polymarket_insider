@@ -1,43 +1,5 @@
 [
   {
-    "market": "Cavaliers vs. Hornets",
-    "market_slug": "nba-cle-cha-2026-01-21",
-    "wallet": "0x768f4c085c377216ec444d5a29989f1a92d28a9b",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (2d old)",
-        "Extreme confidence (95.7% odds)",
-        "Large bet ($1,124)"
-      ],
-      "amount": 1124.139983,
-      "odds": 0.9569999999914868,
-      "wallet_age_days": 2,
-      "total_activities": 78
-    },
-    "timestamp": "2026-01-22T01:28:30.664090",
-    "trade_hash": "0x89afa4c25a8af0074c90de7fb89463f9fcb20f80cb111654b8daa11f1d11ca28",
-    "trade_timestamp": 1769045098,
-    "trade_data": {
-      "asset": "71024639177808530372627664170029316332458108553814747772617852406937418640923",
-      "assetId": null,
-      "tokenId": null,
-      "side": "BUY",
-      "outcome": "Cavaliers",
-      "market": null,
-      "type": null,
-      "status": null,
-      "maker": null,
-      "taker": null,
-      "makerAddress": null,
-      "takerAddress": null,
-      "feeRateBps": null,
-      "price": 0.9569999999914868,
-      "size": 1174.64993,
-      "amount": 1124.139983
-    }
-  },
-  {
     "market": "Will Raphael Warnock win the 2028 Democratic presidential nomination?",
     "market_slug": "will-raphael-warnock-win-the-2028-democratic-presidential-nomination-914",
     "wallet": "0xdbed1ba333569b9ba5b36ba09743c11569558bdf",
@@ -26014,5 +25976,49 @@
     "market": "Magic vs. Hornets",
     "market_slug": "nba-orl-cha-2026-03-19",
     "amount": 2418.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x1d36b7770fa4395056f4a7b45289aef87ab1c91f47db0962e5bdd16a4f107301",
+    "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
+    "trader": {
+      "rank": 16,
+      "address": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
+      "username": "432614799197",
+      "profit": 4561353.0761925345,
+      "volume": 185485956.86208293,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x3c9f5530be21210e977efa87fa5d40ee6398069f",
+      "side": "BUY",
+      "asset": "86686170345714548640495264483273453073159430878877527531251808275070557306239",
+      "conditionId": "0x88c4aba5a59b33313d41e9fe4f06d0005199bcb12b421083a9806e16a3e30d49",
+      "size": 3229.87,
+      "price": 0.057,
+      "timestamp": 1773985227,
+      "title": "Will Israel take military action in Gaza on March 18, 2026?",
+      "slug": "will-israel-take-military-action-in-gaza-on-march-18-2026",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-israel-strike-gaza-on-224-RxneqY3N4kMa.jpg",
+      "eventSlug": "israel-military-action-in-gaza-on",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "DiamondHands11",
+      "pseudonym": "Tinted-Lycra",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-6127549-ccb96031-a528-4d6e-8f17-3c746304ab72.png",
+      "profileImageOptimized": "",
+      "transactionHash": "0x1d36b7770fa4395056f4a7b45289aef87ab1c91f47db0962e5bdd16a4f107301",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Israel take military action in Gaza on March 18, 2026?",
+    "market_slug": "israel-military-action-in-gaza-on",
+    "amount": 3045.76741
   }
 ]
