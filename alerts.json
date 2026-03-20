@@ -1,44 +1,5 @@
 [
   {
-    "market": "Will Brentford win the 2025\u201326 English Premier League?",
-    "market_slug": "will-brentford-win-the-202526-english-premier-league",
-    "wallet": "0x1e1bf278ae1d4f178fe06505d5215d59e23fc6bb",
-    "analysis": {
-      "score": 95,
-      "flags": [
-        "New wallet (2d old)",
-        "Extreme confidence (99.9% odds)",
-        "Large bet ($1,023)",
-        "Low activity (3 txns)"
-      ],
-      "amount": 1022.83614,
-      "odds": 0.999,
-      "wallet_age_days": 2,
-      "total_activities": 3
-    },
-    "timestamp": "2026-01-22T06:55:06.811535",
-    "trade_hash": "0x1744fc25a6f77c793912cadf0027b134b7339b0677ad7c734b4c326e6679fe57",
-    "trade_timestamp": 1769064700,
-    "trade_data": {
-      "asset": "114444125124122303566399993657146184596008541183155111894675512718735990103370",
-      "assetId": null,
-      "tokenId": null,
-      "side": "BUY",
-      "outcome": "No",
-      "market": null,
-      "type": null,
-      "status": null,
-      "maker": null,
-      "taker": null,
-      "makerAddress": null,
-      "takerAddress": null,
-      "feeRateBps": null,
-      "price": 0.999,
-      "size": 1023.86,
-      "amount": 1022.83614
-    }
-  },
-  {
     "market": "Will Bitcoin reach $150,000 in January?",
     "market_slug": "will-bitcoin-reach-150k-in-january-2026",
     "wallet": "0x5227a8a3f78a5e5c5563266052b4100f712bd47e",
@@ -26227,5 +26188,49 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x9030f47ea9f63ffdf25c4bc4cbeb7c51af7883763c697d21624664827ebbd438",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "trader": {
+      "rank": 9,
+      "address": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+      "username": "RN1",
+      "profit": 5805686.957170135,
+      "volume": 283042545.484137,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xbca69be5edef416ba701f9a3a2983efdf58273e3",
+      "side": "SELL",
+      "asset": "88019718517198041112185994197211713400925479368660214430030324078219596742767",
+      "conditionId": "0x41eec77b0af2e0ffa40d1abfa0bfb1cb8c4ca6e304ba42f9fffe7291d69db9be",
+      "size": 10000,
+      "price": 0.53,
+      "timestamp": 1774004735,
+      "title": "Iowa Hawkeyes vs. Clemson Tigers",
+      "slug": "cbb-iowa-clmsn-2026-03-20",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ncaa-c14995df96.png",
+      "eventSlug": "cbb-iowa-clmsn-2026-03-20",
+      "outcome": "Iowa Hawkeyes",
+      "outcomeIndex": 0,
+      "name": "r888",
+      "pseudonym": "Thoughtful-Scimitar",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x9030f47ea9f63ffdf25c4bc4cbeb7c51af7883763c697d21624664827ebbd438",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Iowa Hawkeyes vs. Clemson Tigers",
+    "market_slug": "cbb-iowa-clmsn-2026-03-20",
+    "amount": 5300.0
   }
 ]
