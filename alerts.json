@@ -1,119 +1,5 @@
 [
   {
-    "market": "Will the price of Ethereum be above $3,700 on January 24?",
-    "market_slug": "ethereum-above-3700-on-january-24",
-    "wallet": "0x550ed7eeb7a695fd8525048e2fc1b17532bdab08",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (99.9% odds)",
-        "Large bet ($4,460)"
-      ],
-      "amount": 4459.99554,
-      "odds": 0.999,
-      "wallet_age_days": 0,
-      "total_activities": 23
-    },
-    "timestamp": "2026-01-22T04:30:06.599127",
-    "trade_hash": "0xb517031290ac35a7027dbeffc5bd67fd7d5dfdfc4fac3b247c492a39827b0912",
-    "trade_timestamp": 1769056112,
-    "trade_data": {
-      "asset": "85892160330770015983219025938661460463741995791253198300060416564714880752040",
-      "assetId": null,
-      "tokenId": null,
-      "side": "BUY",
-      "outcome": "No",
-      "market": null,
-      "type": null,
-      "status": null,
-      "maker": null,
-      "taker": null,
-      "makerAddress": null,
-      "takerAddress": null,
-      "feeRateBps": null,
-      "price": 0.999,
-      "size": 4464.46,
-      "amount": 4459.99554
-    }
-  },
-  {
-    "market": "Thunder vs. Bucks",
-    "market_slug": "nba-okc-mil-2026-01-21",
-    "wallet": "0x0a4d2a4d3ed984027562c2ff163fbde020b1ce2c",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (1d old)",
-        "Extreme confidence (98.0% odds)",
-        "Large bet ($1,960)"
-      ],
-      "amount": 1959.93989,
-      "odds": 0.979969945,
-      "wallet_age_days": 1,
-      "total_activities": 100
-    },
-    "timestamp": "2026-01-22T04:31:16.899303",
-    "trade_hash": "0x0683d748b293f283a0464c9eac1f9a4cf7e0b249e867a06d384cd8eee6b0a24c",
-    "trade_timestamp": 1769055928,
-    "trade_data": {
-      "asset": "25171384998427926505053526496513189095685459516417423267324964823173161094044",
-      "assetId": null,
-      "tokenId": null,
-      "side": "BUY",
-      "outcome": "Thunder",
-      "market": null,
-      "type": null,
-      "status": null,
-      "maker": null,
-      "taker": null,
-      "makerAddress": null,
-      "takerAddress": null,
-      "feeRateBps": null,
-      "price": 0.979969945,
-      "size": 2000.0,
-      "amount": 1959.93989
-    }
-  },
-  {
-    "market": "Will Kamala Harris win the 2028 Democratic presidential nomination?",
-    "market_slug": "will-kamala-harris-win-the-2028-democratic-presidential-nomination-641",
-    "wallet": "0x5fb5d06378353034f0f1b78033827482626f9767",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (95.8% odds)",
-        "Large bet ($1,500)"
-      ],
-      "amount": 1499.9999959999998,
-      "odds": 0.958,
-      "wallet_age_days": 0,
-      "total_activities": 41
-    },
-    "timestamp": "2026-01-22T05:37:49.309044",
-    "trade_hash": "0x4d269ac519a9ec8e00ba659d1a7357273cee42b729f17d7421ce5ffd88519d68",
-    "trade_timestamp": 1769060172,
-    "trade_data": {
-      "asset": "26930844951471612827925270830087046333229637930899178134435055616497220846773",
-      "assetId": null,
-      "tokenId": null,
-      "side": "BUY",
-      "outcome": "No",
-      "market": null,
-      "type": null,
-      "status": null,
-      "maker": null,
-      "taker": null,
-      "makerAddress": null,
-      "takerAddress": null,
-      "feeRateBps": null,
-      "price": 0.958,
-      "size": 1565.762,
-      "amount": 1499.9999959999998
-    }
-  },
-  {
     "market": "Will Brentford win the 2025\u201326 English Premier League?",
     "market_slug": "will-brentford-win-the-202526-english-premier-league",
     "wallet": "0x1e1bf278ae1d4f178fe06505d5215d59e23fc6bb",
@@ -26026,5 +25912,320 @@
     "market": "Will Real Madrid CF win on 2026-03-22?",
     "market_slug": "lal-rea-mad-2026-03-22",
     "amount": 1532.23
+  },
+  {
+    "market": "Celtics vs. Grizzlies: O/U 228.5",
+    "market_slug": "nba-bos-mem-2026-03-20-total-228pt5",
+    "event_slug": "nba-bos-mem-2026-03-20-total-228pt5",
+    "wallet": "0xf2a66dce0b8490e72bcaffe9563f7256bdc57072",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (1d old)",
+        "Large bet ($1,131)",
+        "Low activity (3 txns)"
+      ],
+      "amount": 1131.0,
+      "odds": 0.5,
+      "raw_price": 0.5,
+      "outcome": "Over",
+      "potential_pnl": 1131.0,
+      "pnl_multiplier": 1.0,
+      "wallet_age_days": 1,
+      "total_activities": 3
+    },
+    "timestamp": "2026-03-20T09:03:28.222060",
+    "trade_hash": "0xe4186ea25effb6dd14a408f1dbba80e1bfde887786ea6d23da64ab81f9af03b9",
+    "trade_timestamp": 1773997099,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Over",
+      "side": "BUY",
+      "price": 0.5,
+      "effective_price": 0.5,
+      "size": 2262.0,
+      "amount": 1131.0,
+      "potential_pnl": 1131.0,
+      "pnl_multiplier": 1.0,
+      "is_no": false,
+      "slug": "nba-bos-mem-2026-03-20-total-228pt5",
+      "eventSlug": "nba-bos-mem-2026-03-20"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+26.0%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.24,
+      "market_price": 0.5,
+      "edge": 0.26,
+      "edge_percent": 26.0,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Both teams have high-scoring offenses",
+          "Defensive weaknesses are exploited",
+          "Game pace is fast"
+        ],
+        "weakest_link": "Defensive weaknesses are exploited"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Recent performance trends of both teams",
+        "Injury status of key players"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "OVER",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.26,
+      "edge_percent": 26.0
+    },
+    "financial_analyst": {
+      "signal_quality": 51.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 26.0,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Celtics vs. Grizzlies: O/U 228.5",
+    "market_slug": "nba-bos-mem-2026-03-20-total-228pt5",
+    "event_slug": "nba-bos-mem-2026-03-20-total-228pt5",
+    "wallet": "0x9a17921faeded8fa00556bd783f402b8cc000b81",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (1d old)",
+        "Large bet ($1,122)",
+        "Low activity (3 txns)"
+      ],
+      "amount": 1122.5,
+      "odds": 0.5,
+      "raw_price": 0.5,
+      "outcome": "Over",
+      "potential_pnl": 1122.5,
+      "pnl_multiplier": 1.0,
+      "wallet_age_days": 1,
+      "total_activities": 3
+    },
+    "timestamp": "2026-03-20T09:03:32.367984",
+    "trade_hash": "0x4a93558e70844cca474c7b5302d39b21b3fe8c215cea3db5dfdb62141257dba8",
+    "trade_timestamp": 1773997099,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Over",
+      "side": "BUY",
+      "price": 0.5,
+      "effective_price": 0.5,
+      "size": 2245.0,
+      "amount": 1122.5,
+      "potential_pnl": 1122.5,
+      "pnl_multiplier": 1.0,
+      "is_no": false,
+      "slug": "nba-bos-mem-2026-03-20-total-228pt5",
+      "eventSlug": "nba-bos-mem-2026-03-20"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+26.0%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.24,
+      "market_price": 0.5,
+      "edge": 0.26,
+      "edge_percent": 26.0,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "high-scoring performance from both teams",
+          "defensive lapses from both teams",
+          "favorable officiating leading to more free throws"
+        ],
+        "weakest_link": "favorable officiating leading to more free throws"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "team offensive efficiency",
+        "recent player performances"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "OVER",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.26,
+      "edge_percent": 26.0
+    },
+    "financial_analyst": {
+      "signal_quality": 51.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 26.0,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Celtics vs. Grizzlies: O/U 228.5",
+    "market_slug": "nba-bos-mem-2026-03-20-total-228pt5",
+    "event_slug": "nba-bos-mem-2026-03-20-total-228pt5",
+    "wallet": "0x1fc2b672a515b21e833d0a4e8add47f834786175",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (1d old)",
+        "Large bet ($1,168)",
+        "Low activity (4 txns)"
+      ],
+      "amount": 1167.5,
+      "odds": 0.5,
+      "raw_price": 0.5,
+      "outcome": "Over",
+      "potential_pnl": 1167.5,
+      "pnl_multiplier": 1.0,
+      "wallet_age_days": 1,
+      "total_activities": 4
+    },
+    "timestamp": "2026-03-20T09:03:36.646408",
+    "trade_hash": "0x8fe432f7b4e66add67ec581b789a1f23754d376b9e131059c5e687d9411c6929",
+    "trade_timestamp": 1773997103,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Over",
+      "side": "BUY",
+      "price": 0.5,
+      "effective_price": 0.5,
+      "size": 2335.0,
+      "amount": 1167.5,
+      "potential_pnl": 1167.5,
+      "pnl_multiplier": 1.0,
+      "is_no": false,
+      "slug": "nba-bos-mem-2026-03-20-total-228pt5",
+      "eventSlug": "nba-bos-mem-2026-03-20"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+26.0%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.24,
+      "market_price": 0.5,
+      "edge": 0.26,
+      "edge_percent": 26.0,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "high scoring performance by both teams",
+          "defensive weaknesses exploited",
+          "favorable game pace"
+        ],
+        "weakest_link": "favorable game pace"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "team offensive efficiency",
+        "injury status of key players"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "OVER",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.26,
+      "edge_percent": 26.0
+    },
+    "financial_analyst": {
+      "signal_quality": 51.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 26.0,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
