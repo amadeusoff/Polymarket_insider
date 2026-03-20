@@ -1,81 +1,5 @@
 [
   {
-    "market": "Israel nuclear weapon use against Iran by January 31?",
-    "market_slug": "will-israel-nuke-iran-by-january-31",
-    "wallet": "0x6a6740f47f869cd5bbbb482dc96385d5e16fd795",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (99.7% odds)",
-        "Large bet ($3,988)"
-      ],
-      "amount": 3988.0,
-      "odds": 0.997,
-      "wallet_age_days": 0,
-      "total_activities": 92
-    },
-    "timestamp": "2026-01-22T07:44:09.297622",
-    "trade_hash": "0xc63b0050c6d029272fc5077eaef47cf677670a3c23fff866d0894b0443946b3a",
-    "trade_timestamp": 1769067684,
-    "trade_data": {
-      "asset": "76991668838066073564052126895208474029189798601852224473149596744444915538311",
-      "assetId": null,
-      "tokenId": null,
-      "side": "BUY",
-      "outcome": "No",
-      "market": null,
-      "type": null,
-      "status": null,
-      "maker": null,
-      "taker": null,
-      "makerAddress": null,
-      "takerAddress": null,
-      "feeRateBps": null,
-      "price": 0.997,
-      "size": 4000.0,
-      "amount": 3988.0
-    }
-  },
-  {
-    "market": "Bucks vs. Hawks: O/U 230.5",
-    "market_slug": "nba-mil-atl-2026-01-19-total-230pt5",
-    "wallet": "0xf91282f2838fbd67836c554709403e291d70d178",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (99.9% odds)",
-        "Large bet ($1,112)"
-      ],
-      "amount": 1111.887,
-      "odds": 0.999,
-      "wallet_age_days": 0,
-      "total_activities": 5
-    },
-    "timestamp": "2026-01-22T07:55:18.528416",
-    "trade_hash": "0x6ac0e8cb6eb13cfaea42d3d3f826bb0f8ca8a1e140812cfd31931e9c3b11dd5b",
-    "trade_timestamp": 1769068452,
-    "trade_data": {
-      "asset": "165665731018223767835736471127433682138427665890281163571304478976402928056",
-      "assetId": null,
-      "tokenId": null,
-      "side": "SELL",
-      "outcome": "Under",
-      "market": null,
-      "type": null,
-      "status": null,
-      "maker": null,
-      "taker": null,
-      "makerAddress": null,
-      "takerAddress": null,
-      "feeRateBps": null,
-      "price": 0.999,
-      "size": 1113.0,
-      "amount": 1111.887
-    }
-  },
-  {
     "market": "Bucks vs. Hawks: O/U 230.5",
     "market_slug": "nba-mil-atl-2026-01-19-total-230pt5",
     "wallet": "0x9c210ba5d77ce250ad8d19f4d129626d36d583a6",
@@ -26448,5 +26372,93 @@
     "market": "Miami Open: Zizou Bergs vs Tomas Etcheverry",
     "market_slug": "atp-bergs-etcheve-2026-03-20",
     "amount": 5374.4364000000005
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x2d4b854534931a5063217b407bd3069bed41e6b235f080c83a8348988c1b0283",
+    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+    "trader": {
+      "rank": 11,
+      "address": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+      "username": "BetTom42",
+      "profit": 5642135.735356,
+      "volume": 11212839.523403,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xf9885da150836378ce5689395ff4d194683fd63b",
+      "side": "BUY",
+      "asset": "57057247364592185484876280792184585102019040185109901206192058656888529238840",
+      "conditionId": "0xfc84015b6d6bcc170bb5477d56c61280cd7ec01f80e883ce4cfdafd24b3e4fc8",
+      "size": 4968.35,
+      "price": 0.42,
+      "timestamp": 1774040751,
+      "title": "Counter-Strike: FURIA vs Aurora Gaming (BO3) - BLAST Open Rotterdam Group A",
+      "slug": "cs2-furia-aur1-2026-03-20",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/counter-strike-image-16c415c538.png",
+      "eventSlug": "cs2-furia-aur1-2026-03-20",
+      "outcome": "Aurora Gaming",
+      "outcomeIndex": 1,
+      "name": "0xF9885Da150836378ce5689395FF4d194683fd63B-1767719836281",
+      "pseudonym": "Harmful-Wood",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x2d4b854534931a5063217b407bd3069bed41e6b235f080c83a8348988c1b0283",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Counter-Strike: FURIA vs Aurora Gaming (BO3) - BLAST Open Rotterdam Group A",
+    "market_slug": "cs2-furia-aur1-2026-03-20",
+    "amount": 2086.707
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xe025f77c5bd95fe77f04fbe07c2264655885ae846fc0d98338ba0f41461f13dd",
+    "wallet": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
+    "trader": {
+      "rank": 20,
+      "address": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
+      "username": "Jenzigo",
+      "profit": 4049827.0941029997,
+      "volume": 9457725.03433801,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x2c4ca29d332c67d3ad7bf22b3cfe9486e3b1cb39",
+      "side": "SELL",
+      "asset": "87073899845581463485186346288398658568334162612963837182986759797304993556208",
+      "conditionId": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
+      "size": 22222,
+      "price": 0.87,
+      "timestamp": 1774041049,
+      "title": "Putin out as President of Russia by December 31, 2026?",
+      "slug": "putin-out-before-2027",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/putin-out-as-president-of-russia-in-2025-nWuurkC8qfbi.jpg",
+      "eventSlug": "putin-out-before-2027",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "ololololololololo",
+      "pseudonym": "Better-Mention",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xe025f77c5bd95fe77f04fbe07c2264655885ae846fc0d98338ba0f41461f13dd",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Putin out as President of Russia by December 31, 2026?",
+    "market_slug": "putin-out-before-2027",
+    "amount": 2888.86
   }
 ]
