@@ -1,43 +1,5 @@
 [
   {
-    "market": "Will Raphael Warnock win the 2028 Democratic presidential nomination?",
-    "market_slug": "will-raphael-warnock-win-the-2028-democratic-presidential-nomination-914",
-    "wallet": "0xdbed1ba333569b9ba5b36ba09743c11569558bdf",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (99.4% odds)",
-        "Large bet ($2,050)"
-      ],
-      "amount": 2049.93614,
-      "odds": 0.994,
-      "wallet_age_days": 0,
-      "total_activities": 9
-    },
-    "timestamp": "2026-01-22T04:30:05.841081",
-    "trade_hash": "0x32229c2012a0d41a867ea817ad2fc6be86e1a42580abd71abee46c0ae9c280b8",
-    "trade_timestamp": 1769056124,
-    "trade_data": {
-      "asset": "88403451835230950222119400360490338078378790763472355557584611572247419676051",
-      "assetId": null,
-      "tokenId": null,
-      "side": "SELL",
-      "outcome": "No",
-      "market": null,
-      "type": null,
-      "status": null,
-      "maker": null,
-      "taker": null,
-      "makerAddress": null,
-      "takerAddress": null,
-      "feeRateBps": null,
-      "price": 0.994,
-      "size": 2062.31,
-      "amount": 2049.93614
-    }
-  },
-  {
     "market": "Will the price of Ethereum be above $3,700 on January 24?",
     "market_slug": "ethereum-above-3700-on-january-24",
     "wallet": "0x550ed7eeb7a695fd8525048e2fc1b17532bdab08",
@@ -26020,5 +25982,49 @@
     "market": "Will Israel take military action in Gaza on March 18, 2026?",
     "market_slug": "israel-military-action-in-gaza-on",
     "amount": 3045.76741
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x42c9399b4b3e4eafb6bd5740d947a378903c188f52912ac2bde19cfdefbdd2fe",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "54937002596171897254957087647496237075615729995891528694194723032167451405823",
+      "conditionId": "0x659bca08f21a30cc5bdb0f5278f73d6a9d9f5c94977c24e195e245e4407ea1ca",
+      "size": 3127,
+      "price": 0.51,
+      "timestamp": 1773987029,
+      "title": "Will Real Madrid CF win on 2026-03-22?",
+      "slug": "lal-rea-mad-2026-03-22-rea",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-lal.png",
+      "eventSlug": "lal-rea-mad-2026-03-22",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "loincloth chic",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x42c9399b4b3e4eafb6bd5740d947a378903c188f52912ac2bde19cfdefbdd2fe",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Real Madrid CF win on 2026-03-22?",
+    "market_slug": "lal-rea-mad-2026-03-22",
+    "amount": 1532.23
   }
 ]
