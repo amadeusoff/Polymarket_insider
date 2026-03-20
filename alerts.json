@@ -1,43 +1,5 @@
 [
   {
-    "market": "Bucks vs. Hawks: O/U 230.5",
-    "market_slug": "nba-mil-atl-2026-01-19-total-230pt5",
-    "wallet": "0xb26572db7b240086b7a09087c144952858be3d70",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (2d old)",
-        "Extreme confidence (99.9% odds)",
-        "Large bet ($1,119)"
-      ],
-      "amount": 1118.88,
-      "odds": 0.999,
-      "wallet_age_days": 2,
-      "total_activities": 6
-    },
-    "timestamp": "2026-01-22T07:44:06.003088",
-    "trade_hash": "0xf92c962f17aeabd79aba825471972ad5f804ce2909f348a8dea985ee90fdeb4d",
-    "trade_timestamp": 1769067698,
-    "trade_data": {
-      "asset": "165665731018223767835736471127433682138427665890281163571304478976402928056",
-      "assetId": null,
-      "tokenId": null,
-      "side": "SELL",
-      "outcome": "Under",
-      "market": null,
-      "type": null,
-      "status": null,
-      "maker": null,
-      "taker": null,
-      "makerAddress": null,
-      "takerAddress": null,
-      "feeRateBps": null,
-      "price": 0.999,
-      "size": 1120.0,
-      "amount": 1118.88
-    }
-  },
-  {
     "market": "Israel nuclear weapon use against Iran by January 31?",
     "market_slug": "will-israel-nuke-iran-by-january-31",
     "wallet": "0x6a6740f47f869cd5bbbb482dc96385d5e16fd795",
@@ -26442,5 +26404,49 @@
     "market": "Akron Zips vs. Texas Tech Red Raiders",
     "market_slug": "cbb-akron-txtech-2026-03-20",
     "amount": 1876.8000000000002
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x095351f9b57cd1146344db66553ebbb5aa78b824b5adc2849c68b62639bb5943",
+    "wallet": "0xd0c042c08f755ff940249f62745e82d356345565",
+    "trader": {
+      "rank": 15,
+      "address": "0xd0c042c08f755ff940249f62745e82d356345565",
+      "username": "alexmulti",
+      "profit": 4804855.613376001,
+      "volume": 9949068.653841998,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x3846ff5c2983dc3f1ffa8ce91667150bfaeb9742",
+      "side": "BUY",
+      "asset": "67772032722109122315648727478903491905373836998422740507453239306076690243521",
+      "conditionId": "0x84d3129f3a06cfafc6698c098b1414658bf2d66af9ff99717571fdea8963c77d",
+      "size": 9952.66,
+      "price": 0.54,
+      "timestamp": 1774037447,
+      "title": "Miami Open: Zizou Bergs vs Tomas Etcheverry",
+      "slug": "atp-bergs-etcheve-2026-03-20",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+      "eventSlug": "atp-bergs-etcheve-2026-03-20",
+      "outcome": "Zizou Bergs",
+      "outcomeIndex": 0,
+      "name": "8348sctmde",
+      "pseudonym": "Intelligent-Chemistry",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x095351f9b57cd1146344db66553ebbb5aa78b824b5adc2849c68b62639bb5943",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Miami Open: Zizou Bergs vs Tomas Etcheverry",
+    "market_slug": "atp-bergs-etcheve-2026-03-20",
+    "amount": 5374.4364000000005
   }
 ]
