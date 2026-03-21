@@ -1,82 +1,5 @@
 [
   {
-    "market": "Will Bitcoin reach $115,000 in January?",
-    "market_slug": "will-bitcoin-reach-115k-in-january-2026",
-    "wallet": "0x17a3fad677296fdd93549ada074dc3fc6f372384",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (99.7% odds)",
-        "Large bet ($3,001)"
-      ],
-      "amount": 3000.97,
-      "odds": 0.997,
-      "wallet_age_days": 0,
-      "total_activities": 76
-    },
-    "timestamp": "2026-01-22T11:50:02.466887",
-    "trade_hash": "0x81ef39d26c451ac3b670b20fcbd679a09438a0045f2945ea3bbf8116507c5f05",
-    "trade_timestamp": 1769082510,
-    "trade_data": {
-      "asset": "49984026042600580488907606377099098595569813151348677558171883362747340984240",
-      "assetId": null,
-      "tokenId": null,
-      "side": "BUY",
-      "outcome": "No",
-      "market": null,
-      "type": null,
-      "status": null,
-      "maker": null,
-      "taker": null,
-      "makerAddress": null,
-      "takerAddress": null,
-      "feeRateBps": null,
-      "price": 0.997,
-      "size": 3010.0,
-      "amount": 3000.97
-    }
-  },
-  {
-    "market": "Will the Sacramento Kings win the 2026 NBA Finals?",
-    "market_slug": "will-the-sacramento-kings-win-the-2026-nba-finals",
-    "wallet": "0xa3f9fc88d7315a9b10c583c28c0d9dfc1eb9462d",
-    "analysis": {
-      "score": 95,
-      "flags": [
-        "New wallet (2d old)",
-        "Extreme confidence (99.8% odds)",
-        "Large bet ($1,002)",
-        "Low activity (4 txns)"
-      ],
-      "amount": 1001.70258,
-      "odds": 0.998,
-      "wallet_age_days": 2,
-      "total_activities": 4
-    },
-    "timestamp": "2026-01-22T11:58:34.975806",
-    "trade_hash": "0xcb5cba5760e88049bac827a9d48a7dc12e418044beb35639096fdfa85655a699",
-    "trade_timestamp": 1769082854,
-    "trade_data": {
-      "asset": "53762656564813978305123954932423338056181879481865210265145699223531340501188",
-      "assetId": null,
-      "tokenId": null,
-      "side": "SELL",
-      "outcome": "No",
-      "market": null,
-      "type": null,
-      "status": null,
-      "maker": null,
-      "taker": null,
-      "makerAddress": null,
-      "takerAddress": null,
-      "feeRateBps": null,
-      "price": 0.998,
-      "size": 1003.71,
-      "amount": 1001.70258
-    }
-  },
-  {
     "market": "LoL: BNK FEARX vs Gen.G (BO3) - LCK Cup Group Stage",
     "market_slug": "lol-fox1-gen-2026-01-22",
     "wallet": "0x7d787c72c8317046fda90814a93c87fc192529a5",
@@ -26818,5 +26741,93 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xe239f46f28b6b89510082c382106365c66b9d4dc8c8ac324a340ae1b738c1097",
+    "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+    "trader": {
+      "rank": 10,
+      "address": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+      "username": "KeyTransporter",
+      "profit": 5711459.802519929,
+      "volume": 20086062.154324993,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xbedbc3808d939f1f7c648e11680ac05e77ca3b26",
+      "side": "BUY",
+      "asset": "17324138403773264782065491072828397370852575564967787743903824537196778719667",
+      "conditionId": "0x970f01dded96d14d23e729c1c77d05efc2a32ee63a4b6a8523015e0fc6fc1e3a",
+      "size": 3016.86,
+      "price": 0.6391348620751377,
+      "timestamp": 1774107371,
+      "title": "Fulham FC vs. Burnley FC: O/U 1.5",
+      "slug": "epl-ful-bur-2026-03-21-total-1pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/premier+league.jpg",
+      "eventSlug": "epl-ful-bur-2026-03-21-more-markets",
+      "outcome": "Over",
+      "outcomeIndex": 0,
+      "name": "Random3366",
+      "pseudonym": "Punctual-Classic",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xe239f46f28b6b89510082c382106365c66b9d4dc8c8ac324a340ae1b738c1097",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Fulham FC vs. Burnley FC: O/U 1.5",
+    "market_slug": "epl-ful-bur-2026-03-21-more-markets",
+    "amount": 1928.1804
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x950959467a26e452e0b75aa2653e95d9d13be16b0c6ee7c2d28db9d42fe697e8",
+    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
+    "trader": {
+      "rank": 19,
+      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
+      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
+      "profit": 4546432.1815561345,
+      "volume": 59957536.283648,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xc8075693f48668a264b9fa313b47f52712fcc12b",
+      "side": "BUY",
+      "asset": "34360627649972710482168483070145840887617437960922758761934471701797333950287",
+      "conditionId": "0x3d06aad3e67af81e9f28e13e059d97d1a844fc3788e5dc9973d3aab7a032880b",
+      "size": 6485.79,
+      "price": 0.51,
+      "timestamp": 1774107671,
+      "title": "Spread: Houston Cougars (-10.5)",
+      "slug": "cbb-txam-hou-2026-03-21-spread-home-10pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ncaa-c14995df96.png",
+      "eventSlug": "cbb-txam-hou-2026-03-21",
+      "outcome": "Texas A&M Aggies",
+      "outcomeIndex": 1,
+      "name": "texaskid",
+      "pseudonym": "Dutiful-Fur",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x950959467a26e452e0b75aa2653e95d9d13be16b0c6ee7c2d28db9d42fe697e8",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spread: Houston Cougars (-10.5)",
+    "market_slug": "cbb-txam-hou-2026-03-21",
+    "amount": 3307.7529
   }
 ]
