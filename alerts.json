@@ -1,43 +1,5 @@
 [
   {
-    "market": "Will Bitcoin reach $120,000 in January?",
-    "market_slug": "will-bitcoin-reach-120k-in-january-2026",
-    "wallet": "0x293b50be54460f10aa5bb5b5b9a2aa2c47b386f1",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (99.6% odds)",
-        "Large bet ($1,195)"
-      ],
-      "amount": 1195.2,
-      "odds": 0.996,
-      "wallet_age_days": 0,
-      "total_activities": 30
-    },
-    "timestamp": "2026-01-22T09:49:16.979892",
-    "trade_hash": "0xeb4c051516902ee5cb36bb77c371a337ac0f662c5b2a26cea5dfd49680d9f2c3",
-    "trade_timestamp": 1769075116,
-    "trade_data": {
-      "asset": "2860419625063077226714317780353851281394973476157882993567726556651682073498",
-      "assetId": null,
-      "tokenId": null,
-      "side": "BUY",
-      "outcome": "No",
-      "market": null,
-      "type": null,
-      "status": null,
-      "maker": null,
-      "taker": null,
-      "makerAddress": null,
-      "takerAddress": null,
-      "feeRateBps": null,
-      "price": 0.996,
-      "size": 1200.0,
-      "amount": 1195.2
-    }
-  },
-  {
     "market": "Will Union Saint-Gilloise win the 2025\u201326 Champions League?",
     "market_slug": "will-union-saint-gilloise-win-the-202526-champions-league",
     "wallet": "0x3b8fff1b7c4b4c7c215c4b8d59f48fa9f4e6a529",
@@ -26545,5 +26507,110 @@
     "market": "Furman Paladins vs. Connecticut Huskies",
     "market_slug": "cbb-furman-uconn-2026-03-20",
     "amount": 1670.4781
+  },
+  {
+    "market": "LoL: Gen.G vs G2 Esports - Game 1 Winner",
+    "market_slug": "lol-gen-g2-2026-03-21-game1",
+    "event_slug": "lol-gen-g2-2026-03-21-game1",
+    "wallet": "0x644d634d2995d4903ba19d14c7f3acbc962b6cf8",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($101,527)",
+        "Low activity (2 txns)"
+      ],
+      "amount": 101526.7496,
+      "odds": 0.86,
+      "raw_price": 0.86,
+      "outcome": "Gen.G",
+      "potential_pnl": 16527.610400000005,
+      "pnl_multiplier": 0.16279069767441867,
+      "wallet_age_days": 0,
+      "total_activities": 2
+    },
+    "timestamp": "2026-03-21T08:51:12.157803",
+    "trade_hash": "0x03e62faa6bbb015ed5eb60ed61e7a87e3ce60d3747e831f69705796ed03ab996",
+    "trade_timestamp": 1774082879,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Gen.G",
+      "side": "BUY",
+      "price": 0.86,
+      "effective_price": 0.86,
+      "size": 118054.36,
+      "amount": 101526.7496,
+      "potential_pnl": 16527.610400000005,
+      "pnl_multiplier": 0.16279069767441867,
+      "is_no": false,
+      "slug": "lol-gen-g2-2026-03-21-game1",
+      "eventSlug": "lol-gen-g2-2026-03-21"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+54.8%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.312,
+      "market_price": 0.86,
+      "edge": 0.548,
+      "edge_percent": 54.800000000000004,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "team performance in recent matches",
+          "individual player skill levels",
+          "strategic matchups between teams"
+        ],
+        "weakest_link": "team performance in recent matches"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "team synergy and coordination",
+        "historical performance in tournaments"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "GEN.G",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.548,
+      "edge_percent": 54.800000000000004
+    },
+    "financial_analyst": {
+      "signal_quality": 51.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 54.8,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
