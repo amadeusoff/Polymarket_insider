@@ -1,82 +1,5 @@
 [
   {
-    "market": "Will To Lam be elected General Secretary of the Vietnamese Communist Party?",
-    "market_slug": "will-to-lam-be-elected-general-secretary-of-the-vietnamese-communist-party",
-    "wallet": "0xaa182032fc0354d8ea1b8204ffc28b7c5f55fc3b",
-    "analysis": {
-      "score": 95,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (97.7% odds)",
-        "Large bet ($4,848)",
-        "Low activity (2 txns)"
-      ],
-      "amount": 4847.569998,
-      "odds": 0.9769508149338985,
-      "wallet_age_days": 0,
-      "total_activities": 2
-    },
-    "timestamp": "2026-01-22T15:56:58.403490",
-    "trade_hash": "0xf245ba6c5f9f5a9759ef062554a9ca8abd61fb7a2621e2e08e425d0ef3a89024",
-    "trade_timestamp": 1769097224,
-    "trade_data": {
-      "asset": "32502880350678995655372695756293563376414484296787693507155481019498489053168",
-      "assetId": null,
-      "tokenId": null,
-      "side": "BUY",
-      "outcome": "Yes",
-      "market": null,
-      "type": null,
-      "status": null,
-      "maker": null,
-      "taker": null,
-      "makerAddress": null,
-      "takerAddress": null,
-      "feeRateBps": null,
-      "price": 0.9769508149338985,
-      "size": 4961.93864,
-      "amount": 4847.569998
-    }
-  },
-  {
-    "market": "Will Trump say \"Million\" or \"Billion\" or \"Trillion\" 10+ times during CNBC interview?",
-    "market_slug": "will-trump-say-million-or-billion-or-trillion-10-times-during-cnbc-interview",
-    "wallet": "0x223bffe74010795a830d40cc42dcae607fa81fd7",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (99.9% odds)",
-        "Large bet ($4,336)"
-      ],
-      "amount": 4335.66,
-      "odds": 0.999,
-      "wallet_age_days": 0,
-      "total_activities": 8
-    },
-    "timestamp": "2026-01-22T16:24:18.004819",
-    "trade_hash": "0x908e71bd7b6d2efbb3fb57c7424fdf4124027c1e11d29f87672d029eff1e7f6c",
-    "trade_timestamp": 1769098974,
-    "trade_data": {
-      "asset": "38343078892603078225315342373573611758600168647809150107187201241830010754857",
-      "assetId": null,
-      "tokenId": null,
-      "side": "BUY",
-      "outcome": "No",
-      "market": null,
-      "type": null,
-      "status": null,
-      "maker": null,
-      "taker": null,
-      "makerAddress": null,
-      "takerAddress": null,
-      "feeRateBps": null,
-      "price": 0.999,
-      "size": 4340.0,
-      "amount": 4335.66
-    }
-  },
-  {
     "market": "Will Trump say \"Million\" or \"Billion\" or \"Trillion\" 10+ times during CNBC interview?",
     "market_slug": "will-trump-say-million-or-billion-or-trillion-10-times-during-cnbc-interview",
     "wallet": "0xc7e75823edd1a265c292539635205b86dd56adb0",
@@ -26887,5 +26810,154 @@
     "market": "Will Israel launch a major ground offensive in Lebanon by March 31?",
     "market_slug": "will-israel-launch-a-major-ground-offensive-in-lebanon-by-march-31",
     "amount": 2681.0292
+  },
+  {
+    "market": "Thunder vs. Wizards: O/U 230.5",
+    "market_slug": "nba-okc-was-2026-03-21-total-230pt5",
+    "event_slug": "nba-okc-was-2026-03-21-total-230pt5",
+    "wallet": "0x99fbd9f73b9488e78fb97238be4f0f5b1f668ea0",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,350)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 1350.0,
+      "odds": 0.48,
+      "raw_price": 0.48,
+      "outcome": "Under",
+      "potential_pnl": 1462.5,
+      "pnl_multiplier": 1.0833333333333333,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-03-21T21:02:27.999044",
+    "trade_hash": "0x165553e08ae3c22a65ef58aa35473fd4177d0ed867a187de386263c1b3d8bdbc",
+    "trade_timestamp": 1774126451,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Under",
+      "side": "BUY",
+      "price": 0.48,
+      "effective_price": 0.48,
+      "size": 2812.5,
+      "amount": 1350.0,
+      "potential_pnl": 1462.5,
+      "pnl_multiplier": 1.0833333333333333,
+      "is_no": false,
+      "slug": "nba-okc-was-2026-03-21-total-230pt5",
+      "eventSlug": "nba-okc-was-2026-03-21"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+24.4%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.236,
+      "market_price": 0.48,
+      "edge": 0.244,
+      "edge_percent": 24.4,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Both teams score efficiently",
+          "Defensive lapses by both teams",
+          "Game pace is fast"
+        ],
+        "weakest_link": "Defensive lapses by both teams"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Recent offensive performances",
+        "Injury status of key players"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "UNDER",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.244,
+      "edge_percent": 24.4
+    },
+    "financial_analyst": {
+      "signal_quality": 51.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 24.4,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xd23c95305e04fa064c62df5308bdb56ce76be26348ae491362e81e2b5c6595ef",
+    "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+    "trader": {
+      "rank": 16,
+      "address": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+      "username": "beachboy4",
+      "profit": 4700240.038541158,
+      "volume": 197853079.23528397,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xd1780c09a7c3622958c568ca96d10d9cd4ba6703",
+      "side": "BUY",
+      "asset": "27780015530816841645092394280407093968589144659260920816803085707643035137289",
+      "conditionId": "0xa284fceb04fbff30346ae8747e21378c6828b68aaee2cfc9fe13c718297846c0",
+      "size": 6619.91,
+      "price": 0.74,
+      "timestamp": 1774127481,
+      "title": "Will Brentford FC win on 2026-03-21?",
+      "slug": "epl-lee-bre-2026-03-21-bre",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/premier+league.jpg",
+      "eventSlug": "epl-lee-bre-2026-03-21",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "sinestia",
+      "pseudonym": "Stupendous-Tonality",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xd23c95305e04fa064c62df5308bdb56ce76be26348ae491362e81e2b5c6595ef",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Brentford FC win on 2026-03-21?",
+    "market_slug": "epl-lee-bre-2026-03-21",
+    "amount": 1721.1766
   }
 ]
