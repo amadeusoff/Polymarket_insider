@@ -1,43 +1,5 @@
 [
   {
-    "market": "Will Sevilla win the 2025\u201326 La Liga?",
-    "market_slug": "will-sevilla-win-the-202526-la-liga",
-    "wallet": "0x87625aceaf4957abf7b5c365f3516c531c7d8a1e",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (99.8% odds)",
-        "Large bet ($1,219)"
-      ],
-      "amount": 1219.3065,
-      "odds": 0.998,
-      "wallet_age_days": 0,
-      "total_activities": 18
-    },
-    "timestamp": "2026-01-22T12:39:31.956124",
-    "trade_hash": "0xd5ece6345ace77fe3145c903e4d29865b92fe9d2c880d61b493f8479cf642616",
-    "trade_timestamp": 1769085308,
-    "trade_data": {
-      "asset": "109120339759531011772666823213740223748575204265138692382413973296617898824336",
-      "assetId": null,
-      "tokenId": null,
-      "side": "SELL",
-      "outcome": "No",
-      "market": null,
-      "type": null,
-      "status": null,
-      "maker": null,
-      "taker": null,
-      "makerAddress": null,
-      "takerAddress": null,
-      "feeRateBps": null,
-      "price": 0.998,
-      "size": 1221.75,
-      "amount": 1219.3065
-    }
-  },
-  {
     "market": "Will Luong Cuong be elected General Secretary of the Vietnamese Communist Party?",
     "market_slug": "will-luong-cuong-be-elected-general-secretary-of-the-vietnamese-communist-party",
     "wallet": "0x78fd643b0bdf57e95bfde37c083421568cbb83c9",
@@ -26835,5 +26797,49 @@
     "market": "Counter-Strike: MOUZ vs 9z - Map 2 Winner",
     "market_slug": "cs2-mouz-9z-2026-03-21",
     "amount": 2003.6932000000002
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x94769849c1d74dac8d968fa9031b47c5798ba0e5be9daafb8a0fcc06a2f5dbe3",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x14a056c698f46d181d1e650e7a7a0f7d1d8a22bb",
+      "side": "SELL",
+      "asset": "74686534192387232360436892413215696562010774921877517880549748276397471176963",
+      "conditionId": "0xb05f87492cd379d27deccf1eb38a8aba71216317b31b5f15d1f41b9bc18319f3",
+      "size": 2912.46,
+      "price": 0.8174163765339266,
+      "timestamp": 1774112175,
+      "title": "LoL: Bilibili Gaming vs JD Gaming (BO5) - First Stand Playoffs",
+      "slug": "lol-blg-jdg-2026-03-21",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
+      "eventSlug": "lol-blg-jdg-2026-03-21",
+      "outcome": "Bilibili Gaming",
+      "outcomeIndex": 0,
+      "name": "gnose",
+      "pseudonym": "Neighboring-Snowsuit",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x94769849c1d74dac8d968fa9031b47c5798ba0e5be9daafb8a0fcc06a2f5dbe3",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "LoL: Bilibili Gaming vs JD Gaming (BO5) - First Stand Playoffs",
+    "market_slug": "lol-blg-jdg-2026-03-21",
+    "amount": 2380.6925
   }
 ]
