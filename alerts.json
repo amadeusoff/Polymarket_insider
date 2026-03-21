@@ -1,43 +1,5 @@
 [
   {
-    "market": "ETHGAS FDV above $200M one day after launch?",
-    "market_slug": "ethgas-fdv-above-200m-one-day-after-launch",
-    "wallet": "0xabbeb2bdd30ba5c51cb14168b068103961648f37",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (1d old)",
-        "Extreme confidence (99.9% odds)",
-        "Large bet ($1,034)"
-      ],
-      "amount": 1034.47449,
-      "odds": 0.999,
-      "wallet_age_days": 1,
-      "total_activities": 100
-    },
-    "timestamp": "2026-01-22T22:00:07.993030",
-    "trade_hash": "0x9ce7c7c85924421cdf0f1570264b763223106185635e37bbe644a1e4695d146a",
-    "trade_timestamp": 1769119174,
-    "trade_data": {
-      "asset": "18782694643988595091253431646580961651417782353770972610796883510453615655943",
-      "assetId": null,
-      "tokenId": null,
-      "side": "SELL",
-      "outcome": "Yes",
-      "market": null,
-      "type": null,
-      "status": null,
-      "maker": null,
-      "taker": null,
-      "makerAddress": null,
-      "takerAddress": null,
-      "feeRateBps": null,
-      "price": 0.999,
-      "size": 1035.51,
-      "amount": 1034.47449
-    }
-  },
-  {
     "market": "Lakers vs. Clippers",
     "market_slug": "nba-lal-lac-2026-01-22",
     "wallet": "0x0bf2e85fb07f8627b421e1a89456f0d3e0556d2d",
@@ -27055,5 +27017,49 @@
     "market": "VCU Rams vs. Illinois Fighting Illini: O/U 150.5",
     "market_slug": "cbb-vcu-ill-2026-03-21",
     "amount": 2663.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xcc9d973ce4cbf92e75ba1108843cf68c58a0b75589edd44862628f945309a134",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xd6a3f0ec6c4a8ad680d580610c82ca57ff139489",
+      "side": "BUY",
+      "asset": "55259781684403218117288564174975779946821753193814610955413089191234400828127",
+      "conditionId": "0xbbb0e9aa6c87f1ebfb3636615c7b6f7ec69c78dfa4c1b2f2f4f77ccd3512d84c",
+      "size": 2311.77,
+      "price": 0.73,
+      "timestamp": 1774135283,
+      "title": "Texas Longhorns vs. Gonzaga Bulldogs",
+      "slug": "cbb-tx-gnzg-2026-03-21",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ncaa-c14995df96.png",
+      "eventSlug": "cbb-tx-gnzg-2026-03-21",
+      "outcome": "Gonzaga Bulldogs",
+      "outcomeIndex": 1,
+      "name": "knedloveprovelo",
+      "pseudonym": "Weighty-Rifle",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xcc9d973ce4cbf92e75ba1108843cf68c58a0b75589edd44862628f945309a134",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Texas Longhorns vs. Gonzaga Bulldogs",
+    "market_slug": "cbb-tx-gnzg-2026-03-21",
+    "amount": 1687.5920999999998
   }
 ]
