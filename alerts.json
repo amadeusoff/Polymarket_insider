@@ -1,43 +1,5 @@
 [
   {
-    "market": "LoL: BNK FEARX vs Gen.G (BO3) - LCK Cup Group Stage",
-    "market_slug": "lol-fox1-gen-2026-01-22",
-    "wallet": "0x7d787c72c8317046fda90814a93c87fc192529a5",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (1d old)",
-        "Extreme confidence (98.8% odds)",
-        "Large bet ($5,731)"
-      ],
-      "amount": 5731.10996,
-      "odds": 0.9876347196832461,
-      "wallet_age_days": 1,
-      "total_activities": 79
-    },
-    "timestamp": "2026-01-22T12:39:30.466618",
-    "trade_hash": "0x4d6a96c24d2b708a1320eb84fb77182ddfd666e78adace6d11fb133067898ba8",
-    "trade_timestamp": 1769085324,
-    "trade_data": {
-      "asset": "100225800564739456242601682162245148333149009710695780621236275218611905792090",
-      "assetId": null,
-      "tokenId": null,
-      "side": "BUY",
-      "outcome": "Gen.G",
-      "market": null,
-      "type": null,
-      "status": null,
-      "maker": null,
-      "taker": null,
-      "makerAddress": null,
-      "takerAddress": null,
-      "feeRateBps": null,
-      "price": 0.9876347196832461,
-      "size": 5802.864,
-      "amount": 5731.10996
-    }
-  },
-  {
     "market": "Will Sevilla win the 2025\u201326 La Liga?",
     "market_slug": "will-sevilla-win-the-202526-la-liga",
     "wallet": "0x87625aceaf4957abf7b5c365f3516c531c7d8a1e",
@@ -26829,5 +26791,49 @@
     "market": "Spread: Houston Cougars (-10.5)",
     "market_slug": "cbb-txam-hou-2026-03-21",
     "amount": 3307.7529
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xfa261a471fd1191758ac2ec6e8b3f5c857202d257cbb55d894e0c0603a5c0845",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+      "side": "BUY",
+      "asset": "38745525870194276460552298698138264446153239547179704901467886071904126001563",
+      "conditionId": "0xd0be41714666882bf170445643d18992be73ce8c2e9012597b5bba31abd0eefb",
+      "size": 2636.57,
+      "price": 0.7599620719343693,
+      "timestamp": 1774110673,
+      "title": "Counter-Strike: MOUZ vs 9z - Map 2 Winner",
+      "slug": "cs2-mouz-9z-2026-03-21-game2",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/counter-strike-image-16c415c538.png",
+      "eventSlug": "cs2-mouz-9z-2026-03-21",
+      "outcome": "MOUZ",
+      "outcomeIndex": 0,
+      "name": "RN1",
+      "pseudonym": "Scary-Edible",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-1567750-84001aec-310a-470f-9584-67dfcaa61267.png",
+      "profileImageOptimized": "",
+      "transactionHash": "0xfa261a471fd1191758ac2ec6e8b3f5c857202d257cbb55d894e0c0603a5c0845",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Counter-Strike: MOUZ vs 9z - Map 2 Winner",
+    "market_slug": "cs2-mouz-9z-2026-03-21",
+    "amount": 2003.6932000000002
   }
 ]
