@@ -5,6 +5,7 @@
 DEBUG_CALCULATIONS = False
 
 import requests
+import re
 from openai import OpenAI
 import openai
 import trade_economics
@@ -12,6 +13,43 @@ from config import TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID, OPENAI_API_KEY
 from typing import Dict, Optional
 from functools import lru_cache
 import hashlib
+
+
+def extract_market_subject(market_title: str) -> Optional[str]:
+    """
+    Extract subject from market title for clearer YES/NO display.
+    
+    Examples:
+    - "Will FC Barcelona win on 2026-03-22?" → "FC Barcelona"
+    - "Will Trump win the election?" → "Trump"
+    - "Will Bitcoin reach $100K?" → "Bitcoin reach $100K"
+    - "Lakers vs Celtics" → None (not a Will X? format)
+    """
+    if not market_title:
+        return None
+    
+    # Pattern: "Will X win/happen/reach/etc?"
+    patterns = [
+        r'^Will\s+(.+?)\s+win\b',  # "Will X win..."
+        r'^Will\s+(.+?)\s+be\s+',   # "Will X be..."
+        r'^Will\s+(.+?)\s+reach\b', # "Will X reach..."
+        r'^Will\s+(.+?)\s+pass\b',  # "Will X pass..."
+        r'^Will\s+(.+?)\s+happen',  # "Will X happen..."
+        r'^Will\s+(.+?)\?',         # Generic "Will X?"
+    ]
+    
+    for pattern in patterns:
+        match = re.search(pattern, market_title, re.IGNORECASE)
+        if match:
+            subject = match.group(1).strip()
+            # Clean up trailing words like "on 2026-03-22"
+            subject = re.sub(r'\s+on\s+\d{4}-\d{2}-\d{2}.*$', '', subject)
+            subject = re.sub(r'\s+in\s+\d{4}.*$', '', subject)
+            if subject:
+                return subject
+    
+    return None
+
 
 def determine_position(trade_data, odds):
     """
@@ -84,12 +122,21 @@ def format_trade_info(alert):
     
     # Check if it's a binary market (YES/NO) or named (team/player)
     if is_binary_market(position):
-        # Binary market - show YES/NO
+        # Binary market - try to make YES/NO clearer
+        market_title = alert.get('market', '') or trade_data.get('title', '')
+        subject = extract_market_subject(market_title)
+        
         if position_clean.upper() == 'YES':
-            position_display = f"YES @ {econ.raw_price*100:.1f}¢"
+            if subject:
+                position_display = f"{subject} ✓ @ {econ.raw_price*100:.1f}¢"
+            else:
+                position_display = f"YES @ {econ.raw_price*100:.1f}¢"
             implied_prob = econ.raw_price * 100
         else:
-            position_display = f"NO @ {(1 - econ.raw_price)*100:.1f}¢"
+            if subject:
+                position_display = f"Against {subject} @ {(1 - econ.raw_price)*100:.1f}¢"
+            else:
+                position_display = f"NO @ {(1 - econ.raw_price)*100:.1f}¢"
             implied_prob = (1 - econ.raw_price) * 100
     else:
         # Sports/event market - show team/player name
@@ -387,8 +434,20 @@ def format_top_trader_alert(alert: Dict) -> str:
         odds_display = f"{price*100:.0f}%"
     
     # Show actual outcome name (team name for sports, YES/NO for binary)
+    # For "Will X win?" markets, make YES/NO clearer
     if outcome_lower in ['yes', 'no']:
-        position = f"{outcome_name.upper()} @ {odds_display}"
+        # Try to extract subject from market title for clearer display
+        market_title = trade.get('title', '') or alert.get('market', '')
+        subject = extract_market_subject(market_title)
+        
+        if subject and outcome_lower == 'no':
+            # Show "Against X" instead of just "NO"
+            position = f"Against {subject} @ {odds_display}"
+        elif subject and outcome_lower == 'yes':
+            # Show "X wins" instead of just "YES"  
+            position = f"{subject} ✓ @ {odds_display}"
+        else:
+            position = f"{outcome_name.upper()} @ {odds_display}"
     else:
         # Sports/esports market - show team/player name
         position = f"{outcome_name} @ {odds_display}"
