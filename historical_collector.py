@@ -503,30 +503,109 @@ def run_collection():
     
     conn.commit()
     
-    # 3. Check for resolutions - query each tracked market directly
+    # 3. Check for resolutions
     print("\n[3/3] Checking for resolutions...")
     
     # Get all unresolved tracked markets
     c.execute('SELECT condition_id, question, end_date, slug FROM markets WHERE is_resolved = 0')
     unresolved = c.fetchall()
+    unresolved_cids = {row[0] for row in unresolved}
     
-    # Only check markets that might have resolved (past end_date or sports)
+    print(f"      Total unresolved markets in DB: {len(unresolved)}")
+    
+    # APPROACH 1: Batch fetch closed markets from API
+    try:
+        url = f"{GAMMA_API_URL}/markets"
+        params = {"closed": "true", "limit": 500}
+        response = requests.get(url, params=params, timeout=30)
+        
+        if response.status_code == 200:
+            closed_markets = response.json()
+            print(f"      [API] Fetched {len(closed_markets)} closed markets from Gamma API")
+            
+            # Cross-reference with our tracked markets
+            for market in closed_markets:
+                cid = market.get('conditionId')
+                if not cid or cid not in unresolved_cids:
+                    continue
+                
+                # Check resolution source
+                if not market.get('resolutionSource'):
+                    continue
+                
+                # Parse outcome prices to find winner
+                outcome_prices = market.get('outcomePrices', [])
+                outcomes = market.get('outcomes', [])
+                
+                if isinstance(outcome_prices, str):
+                    try:
+                        outcome_prices = json.loads(outcome_prices)
+                    except:
+                        continue
+                if isinstance(outcomes, str):
+                    try:
+                        outcomes = json.loads(outcomes)
+                    except:
+                        continue
+                
+                # Find winner (price >= 0.95)
+                winning = None
+                for i, p in enumerate(outcome_prices):
+                    try:
+                        if float(p) >= 0.95 and i < len(outcomes):
+                            winning = outcomes[i]
+                            break
+                    except:
+                        pass
+                
+                # Fallback: highest price > 0.9
+                if not winning and outcome_prices and outcomes:
+                    try:
+                        prices = [float(p) for p in outcome_prices]
+                        max_idx = max(range(len(prices)), key=lambda i: prices[i])
+                        if prices[max_idx] > 0.9:
+                            winning = outcomes[max_idx]
+                    except:
+                        pass
+                
+                if not winning:
+                    continue
+                
+                # Update database
+                c.execute('''
+                    UPDATE markets 
+                    SET is_resolved = 1, resolved_outcome = ?, resolved_at = ?, final_volume = ?
+                    WHERE condition_id = ?
+                ''', (
+                    winning,
+                    datetime.now(timezone.utc).isoformat(),
+                    market.get('volume'),
+                    cid
+                ))
+                stats['resolutions_found'] += 1
+                
+                question = market.get('question', '')[:50]
+                print(f"      ✓ Resolved: {question}... → {winning}")
+            
+            conn.commit()
+        else:
+            print(f"      [API ERROR] Failed to fetch closed markets: {response.status_code}")
+    except Exception as e:
+        print(f"      [API ERROR] Exception fetching closed markets: {e}")
+    
+    # APPROACH 2: Check individual markets that should have resolved
+    # Only check markets past end_date that weren't found above
+    c.execute('SELECT condition_id, question, end_date, slug FROM markets WHERE is_resolved = 0')
+    still_unresolved = c.fetchall()
+    
     today = datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%S')
     to_check = []
-    for cid, question, end_date, slug in unresolved:
-        # Check if end_date is in the past
+    for cid, question, end_date, slug in still_unresolved:
         if end_date and end_date < today:
             to_check.append((cid, question, slug))
-        # Also check sports markets regardless (they resolve quickly)
-        elif question and any(w in question.lower() for w in ['nba', 'nfl', 'mlb', 'nhl', ' vs ', 'game', 'win the']):
-            to_check.append((cid, question, slug))
     
-    print(f"      Total unresolved: {len(unresolved)}, checking: {len(to_check)} (past end_date or sports)")
-    
-    # Debug: show sample
     if to_check:
-        sample_cid, sample_q, sample_slug = to_check[0]
-        print(f"      [DEBUG] Sample: cid={sample_cid[:30]}..., slug={sample_slug or 'None'}")
+        print(f"      Checking {len(to_check)} individual markets past end_date...")
     
     checked = 0
     not_closed = 0
@@ -534,17 +613,16 @@ def run_collection():
     no_winner = 0
     api_errors = 0
     
-    for condition_id, question, slug in to_check:
+    for condition_id, question, slug in to_check[:100]:  # Limit to 100 to avoid rate limits
         checked += 1
         if checked % 20 == 0:
-            print(f"      Checked {checked}/{len(to_check)}... (closed:{stats['resolutions_found']}, not_closed:{not_closed}, no_source:{no_resolution_source})")
+            print(f"      Checked {checked}/{min(len(to_check), 100)}...")
         
-        # Query this specific market
         try:
             time.sleep(REQUEST_DELAY * 0.3)
             market = None
             
-            # Try 1: Use slug if available
+            # Try slug first
             if slug:
                 url = f"{GAMMA_API_URL}/markets"
                 response = requests.get(url, params={"slug": slug}, timeout=15)
@@ -553,7 +631,7 @@ def run_collection():
                     if data:
                         market = data[0] if isinstance(data, list) else data
             
-            # Try 2: Use condition_id
+            # Fallback to condition_id
             if not market:
                 url = f"{GAMMA_API_URL}/markets"
                 response = requests.get(url, params={"conditionId": condition_id}, timeout=15)
