@@ -2,44 +2,6 @@
   {
     "market": "Lakers vs. Clippers",
     "market_slug": "nba-lal-lac-2026-01-22",
-    "wallet": "0x295ea9b175b68df2dd9005ed165a8ae0574e218a",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (99.9% odds)",
-        "Large bet ($1,072)"
-      ],
-      "amount": 1071.51741,
-      "odds": 0.999,
-      "wallet_age_days": 0,
-      "total_activities": 9
-    },
-    "timestamp": "2026-01-23T05:46:46.885578",
-    "trade_hash": "0x2e02cc64e81ed74add76bd368c1a3436bde168f6a4b8ddacb2a380f0c82517aa",
-    "trade_timestamp": 1769147056,
-    "trade_data": {
-      "asset": "4522626961998347638949299833876955601992495312657575180273017265451490005164",
-      "assetId": null,
-      "tokenId": null,
-      "side": "SELL",
-      "outcome": "Clippers",
-      "market": null,
-      "type": null,
-      "status": null,
-      "maker": null,
-      "taker": null,
-      "makerAddress": null,
-      "takerAddress": null,
-      "feeRateBps": null,
-      "price": 0.999,
-      "size": 1072.59,
-      "amount": 1071.51741
-    }
-  },
-  {
-    "market": "Lakers vs. Clippers",
-    "market_slug": "nba-lal-lac-2026-01-22",
     "wallet": "0x4cb4ccd1f4f50d4a4e95a46400f6262f117e65a0",
     "analysis": {
       "score": 85,
@@ -27078,5 +27040,49 @@
     "market": "Will Como 1907 win on 2026-03-22?",
     "market_slug": "sea-com-pis-2026-03-22",
     "amount": 1514.0034
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xc8de24a23ac64456caa25112d5c4ea918fdcce5c8113ac78b9ffb06b610c5a7e",
+    "wallet": "0xd0c042c08f755ff940249f62745e82d356345565",
+    "trader": {
+      "rank": 15,
+      "address": "0xd0c042c08f755ff940249f62745e82d356345565",
+      "username": "alexmulti",
+      "profit": 4804855.613376001,
+      "volume": 9949068.653841998,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xd6a3f0ec6c4a8ad680d580610c82ca57ff139489",
+      "side": "BUY",
+      "asset": "103491216767210650067963311806500077290366308182875048024946526364182501056610",
+      "conditionId": "0xcee804b84eb7414c780ebb5d0bfcdde8b4b9c424a3b4bc5ef4792193048f5b44",
+      "size": 5588.77,
+      "price": 0.56,
+      "timestamp": 1774175499,
+      "title": "Como 1907 vs. Pisa SC: O/U 2.5",
+      "slug": "sea-com-pis-2026-03-22-total-2pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Serie-A-Logo.png",
+      "eventSlug": "sea-com-pis-2026-03-22-more-markets",
+      "outcome": "Over",
+      "outcomeIndex": 0,
+      "name": "knedloveprovelo",
+      "pseudonym": "Weighty-Rifle",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xc8de24a23ac64456caa25112d5c4ea918fdcce5c8113ac78b9ffb06b610c5a7e",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Como 1907 vs. Pisa SC: O/U 2.5",
+    "market_slug": "sea-com-pis-2026-03-22-more-markets",
+    "amount": 3129.7112000000006
   }
 ]
