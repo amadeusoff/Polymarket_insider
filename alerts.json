@@ -1,43 +1,5 @@
 [
   {
-    "market": "Will Mark Cuban win the 2028 Democratic presidential nomination?",
-    "market_slug": "will-mark-cuban-win-the-2028-democratic-presidential-nomination-329",
-    "wallet": "0xdffe2806928c8c3ac66f06948778ea358c6d48c4",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (2d old)",
-        "Extreme confidence (99.3% odds)",
-        "Large bet ($2,100)"
-      ],
-      "amount": 2099.87724,
-      "odds": 0.993,
-      "wallet_age_days": 2,
-      "total_activities": 20
-    },
-    "timestamp": "2026-01-23T08:23:52.976070",
-    "trade_hash": "0xb1092d3ad88250dcf86d6c57065db480a387e9dfee277276b6b1bfbe29c759cc",
-    "trade_timestamp": 1769156504,
-    "trade_data": {
-      "asset": "55392527126713018429304496836617506663024188480522297953714346140749923557790",
-      "assetId": null,
-      "tokenId": null,
-      "side": "SELL",
-      "outcome": "No",
-      "market": null,
-      "type": null,
-      "status": null,
-      "maker": null,
-      "taker": null,
-      "makerAddress": null,
-      "takerAddress": null,
-      "feeRateBps": null,
-      "price": 0.993,
-      "size": 2114.68,
-      "amount": 2099.87724
-    }
-  },
-  {
     "market": "Will To Lam be elected General Secretary of the Vietnamese Communist Party?",
     "market_slug": "will-to-lam-be-elected-general-secretary-of-the-vietnamese-communist-party",
     "wallet": "0x04fac58714f780a2b693db17764dd7a9cd2c9e24",
@@ -27563,5 +27525,49 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x965b9a99ccf86d247d7a7eddd35a9eedc8e1f2c3f9c79f4ad1a2a2fbf549e1d9",
+    "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+    "trader": {
+      "rank": 16,
+      "address": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+      "username": "beachboy4",
+      "profit": 4736823.768438156,
+      "volume": 197968001.744251,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x52b790b7de338e19e1e16acffdc73d3dbc10fefc",
+      "side": "BUY",
+      "asset": "71377433182851205680841246761509083153295115718889472943162377235871441027308",
+      "conditionId": "0x6d144dddc554495534ed86a1f678a30018a8c3e966050559b0590ebedf3c5367",
+      "size": 9415.909089,
+      "price": 0.4399999999830075,
+      "timestamp": 1774188701,
+      "title": "Will Arsenal FC win on 2026-03-22?",
+      "slug": "efl-ars-mnc-2026-03-22-ars-win",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/carabao-cup-logo-3ea964b550.png",
+      "eventSlug": "efl-ars-mnc-2026-03-22",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "0x52b790B7De338e19e1e16aCFFdC73D3dBC10feFc-1768233299614",
+      "pseudonym": "Reckless-Chronograph",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x965b9a99ccf86d247d7a7eddd35a9eedc8e1f2c3f9c79f4ad1a2a2fbf549e1d9",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Arsenal FC win on 2026-03-22?",
+    "market_slug": "efl-ars-mnc-2026-03-22",
+    "amount": 4142.999999000001
   }
 ]
