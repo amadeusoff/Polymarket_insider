@@ -14,8 +14,17 @@ from functools import lru_cache
 import hashlib
 
 def determine_position(trade_data, odds):
-    """Determine YES/NO position from trade data"""
+    """
+    Determine position from trade data.
+    Returns team name for sports markets, YES/NO for binary markets.
+    """
     if trade_data:
+        # First try 'name' field (has team/player name for sports)
+        name = trade_data.get('name')
+        if name and str(name).lower() not in ['yes', 'no', '']:
+            return name  # Return actual team name
+        
+        # Fall back to 'outcome' field
         outcome = trade_data.get('outcome')
         if outcome:
             outcome_lower = str(outcome).lower()
@@ -23,9 +32,19 @@ def determine_position(trade_data, odds):
                 return 'YES'
             if 'no' in outcome_lower:
                 return 'NO'
+            # If outcome is neither yes/no, it might be a team name
+            if outcome_lower not in ['yes', 'no', '']:
+                return outcome
     
     # Fallback
     return '~YES' if odds > 0.5 else '~NO'
+
+
+def is_binary_market(position: str) -> bool:
+    """Check if position is binary (YES/NO) or named (team/player)."""
+    pos_clean = position.lstrip('~').upper()
+    return pos_clean in ['YES', 'NO']
+
 
 def format_trade_info(alert):
     """Format trade information using trade_economics as single source of truth."""
@@ -35,10 +54,18 @@ def format_trade_info(alert):
     # Reconstruct economics from alert data
     size = float(trade_data.get("size", 0))
     raw_price = analysis.get("raw_price", analysis.get("odds", 0.5))
-    outcome_str = trade_data.get("outcome", "Yes") or "Yes"
+    
+    # Get outcome - try 'name' first (has team name), fall back to 'outcome'
+    outcome_str = trade_data.get("name") or trade_data.get("outcome", "Yes") or "Yes"
+    
+    # For economics calculation, we need to know if it's a NO position
+    # outcomeIndex: 0 = first option (YES/Team1), 1 = second option (NO/Team2)
+    outcome_index = trade_data.get("outcomeIndex", 0)
+    is_no = (outcome_index == 1) or (str(outcome_str).lower() == 'no')
     
     if size > 0 and raw_price > 0:
-        econ = trade_economics.calculate(size, raw_price, outcome_str)
+        # Calculate with proper NO detection
+        econ = trade_economics.calculate(size, raw_price, "No" if is_no else "Yes")
     else:
         # Fallback for legacy alerts without size
         amount = float(analysis.get("amount", 0))
@@ -53,13 +80,27 @@ def format_trade_info(alert):
     
     position = determine_position(trade_data, econ.effective_odds)
     is_estimated = position.startswith('~')
+    position_clean = position.lstrip('~')
     
-    if 'YES' in position:
-        position_display = f"YES @ {econ.raw_price*100:.1f}¢"
-        implied_prob = econ.raw_price * 100
+    # Check if it's a binary market (YES/NO) or named (team/player)
+    if is_binary_market(position):
+        # Binary market - show YES/NO
+        if position_clean.upper() == 'YES':
+            position_display = f"YES @ {econ.raw_price*100:.1f}¢"
+            implied_prob = econ.raw_price * 100
+        else:
+            position_display = f"NO @ {(1 - econ.raw_price)*100:.1f}¢"
+            implied_prob = (1 - econ.raw_price) * 100
     else:
-        position_display = f"NO @ {(1 - econ.raw_price)*100:.1f}¢"
-        implied_prob = (1 - econ.raw_price) * 100
+        # Sports/event market - show team/player name
+        # outcomeIndex 0 = first option (uses raw_price), 1 = second option (uses 1-raw_price)
+        outcome_index = trade_data.get("outcomeIndex", 0)
+        if outcome_index == 1:
+            position_display = f"{position_clean} @ {(1 - econ.raw_price)*100:.1f}¢"
+            implied_prob = (1 - econ.raw_price) * 100
+        else:
+            position_display = f"{position_clean} @ {econ.raw_price*100:.1f}¢"
+            implied_prob = econ.raw_price * 100
     
     if is_estimated:
         position_display += " ⚠️"
@@ -323,17 +364,34 @@ def format_top_trader_alert(alert: Dict) -> str:
     profit = trader.get('profit', 0)
     volume = trader.get('volume', 0)
     
-    # Trade details — use trade_economics
+    # Trade details
     size = float(trade.get('size', 0))
     price = float(trade.get('price', 0))
-    outcome = trade.get('outcome', 'Yes')
-    econ = trade_economics.calculate(size, price, outcome)
     
-    amount = econ.cost
-    if econ.is_no:
-        position = f"NO @ {(1-price)*100:.0f}%"
+    # Get outcome name - API returns team/player name in 'name' field
+    # 'outcome' is often just "Yes"/"No" even for sports markets
+    outcome_name = trade.get('name') or trade.get('outcome', 'Yes')
+    
+    # Calculate cost based on outcomeIndex or outcome value
+    # outcomeIndex: 0 = first option (usually YES or Team1), 1 = second option (NO or Team2)
+    outcome_index = trade.get('outcomeIndex', 0)
+    outcome_lower = str(outcome_name).lower()
+    
+    # For binary markets: index 1 = NO
+    # For sports: we use actual price from trade
+    if outcome_index == 1 or outcome_lower == 'no':
+        amount = size * (1 - price)
+        odds_display = f"{(1-price)*100:.0f}%"
     else:
-        position = f"YES @ {price*100:.0f}%"
+        amount = size * price
+        odds_display = f"{price*100:.0f}%"
+    
+    # Show actual outcome name (team name for sports, YES/NO for binary)
+    if outcome_lower in ['yes', 'no']:
+        position = f"{outcome_name.upper()} @ {odds_display}"
+    else:
+        # Sports/esports market - show team/player name
+        position = f"{outcome_name} @ {odds_display}"
     
     # Get market name from trade data (title field, not nested market)
     market = trade.get('title', '') or alert.get('market', '')
@@ -463,16 +521,36 @@ Bet: ${amount:,.0f} {trade_info['position']}"""
     stance = fa.get('stance', 'WATCH_ONLY')
     quality = fa.get('signal_quality', 0)
     
-    # Check for conflict
-    position_side = 'YES' if 'YES' in trade_info['position'] else 'NO'
+    # Determine position side for conflict detection
+    # For binary: YES/NO. For sports: use outcomeIndex (0=first option, 1=second option)
+    position_str = trade_info['position']
+    outcome_index = trade_data.get('outcomeIndex', 0)
+    
+    if 'YES' in position_str.upper():
+        position_side = 'YES'
+    elif 'NO' in position_str.upper():
+        position_side = 'NO'
+    else:
+        # Sports market - map outcomeIndex to YES/NO for conflict logic
+        # outcomeIndex 0 = first option (treated as YES equivalent)
+        # outcomeIndex 1 = second option (treated as NO equivalent)
+        position_side = 'YES' if outcome_index == 0 else 'NO'
+    
     has_conflict = ev_direction and position_side != ev_direction
+    
+    # Get display name for verdict (team name for sports, YES/NO for binary)
+    position_display_name = position_str.split(' @')[0] if ' @' in position_str else position_side
     
     if has_conflict:
         verdict = "⚠️ MODEL CONFLICT"
-        verdict_note = f"Whale bets {position_side}, math says {ev_direction}"
+        # For sports, show team name in conflict note
+        if not is_binary_market(position_str):
+            verdict_note = f"Insider bets {position_display_name}, odds suggest otherwise"
+        else:
+            verdict_note = f"Whale bets {position_side}, math says {ev_direction}"
     elif stance == "HIGH_CONVICTION":
         verdict = "🟢 ACTION"
-        verdict_note = f"Strong signal, consider {ev_direction or position_side} position"
+        verdict_note = f"Strong signal on {position_display_name}"
     elif stance == "SELECTIVE":
         verdict = "🟡 WATCH"
         verdict_note = "Monitor for confirmation"
