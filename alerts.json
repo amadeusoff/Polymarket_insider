@@ -1,44 +1,5 @@
 [
   {
-    "market": "Raptors vs. Trail Blazers",
-    "market_slug": "nba-tor-por-2026-01-23",
-    "wallet": "0x1ccc64544c01f0da181f0842eb191376fca7cfa8",
-    "analysis": {
-      "score": 95,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (99.9% odds)",
-        "Large bet ($3,993)",
-        "Low activity (3 txns)"
-      ],
-      "amount": 3992.75325,
-      "odds": 0.999,
-      "wallet_age_days": 0,
-      "total_activities": 3
-    },
-    "timestamp": "2026-01-24T05:41:38.879015",
-    "trade_hash": "0x5aea6ba44a3ad9488de00e202d04dcfefff212c35b4b7af97af216fd91762690",
-    "trade_timestamp": 1769233144,
-    "trade_data": {
-      "asset": "28914134938960030598230107389805111772866646465597278407843780788782873540459",
-      "assetId": null,
-      "tokenId": null,
-      "side": "SELL",
-      "outcome": "Raptors",
-      "market": null,
-      "type": null,
-      "status": null,
-      "maker": null,
-      "taker": null,
-      "makerAddress": null,
-      "takerAddress": null,
-      "feeRateBps": null,
-      "price": 0.999,
-      "size": 3996.75,
-      "amount": 3992.75325
-    }
-  },
-  {
     "market": "Will Bitcoin reach $130,000 in January?",
     "market_slug": "will-bitcoin-reach-130k-in-january-2026",
     "wallet": "0xd348a75bc1cad3341b8d83236ba4226c1bc8da52",
@@ -28322,5 +28283,49 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x160b62077d040b817c920eaa9b76ba20ed755d32fc32ad942830df3f3c79f069",
+    "wallet": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
+    "trader": {
+      "rank": 19,
+      "address": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
+      "username": "GamblingIsAllYouNeed",
+      "profit": 4346682.887980655,
+      "volume": 277754341.03179693,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xd6a3f0ec6c4a8ad680d580610c82ca57ff139489",
+      "side": "BUY",
+      "asset": "75689244959277898341236032211117274245139122622096460977873312394709590336595",
+      "conditionId": "0xde5ff3427dcc8f53e95d9825721b011458b657837033a6237dc3cfc99777e827",
+      "size": 2928.2,
+      "price": 0.55,
+      "timestamp": 1774218419,
+      "title": "Tennessee Volunteers vs. Virginia Cavaliers",
+      "slug": "cbb-tenn-vir-2026-03-22",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ncaa-c14995df96.png",
+      "eventSlug": "cbb-tenn-vir-2026-03-22",
+      "outcome": "Virginia Cavaliers",
+      "outcomeIndex": 1,
+      "name": "knedloveprovelo",
+      "pseudonym": "Weighty-Rifle",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x160b62077d040b817c920eaa9b76ba20ed755d32fc32ad942830df3f3c79f069",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Tennessee Volunteers vs. Virginia Cavaliers",
+    "market_slug": "cbb-tenn-vir-2026-03-22",
+    "amount": 1610.51
   }
 ]
