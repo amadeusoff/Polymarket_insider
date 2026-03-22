@@ -1,159 +1,5 @@
 [
   {
-    "market": "Lakers vs. Clippers",
-    "market_slug": "nba-lal-lac-2026-01-22",
-    "wallet": "0xeace6050bce0926195054bfbc8b77d60e22c492c",
-    "analysis": {
-      "score": 95,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (99.9% odds)",
-        "Large bet ($1,064)",
-        "Low activity (4 txns)"
-      ],
-      "amount": 1063.80513,
-      "odds": 0.999,
-      "wallet_age_days": 0,
-      "total_activities": 4
-    },
-    "timestamp": "2026-01-23T05:46:51.129169",
-    "trade_hash": "0xaa7667a8fe0cdc22e432f2f3fffd74d6ca6a581c6ec55e1911d636c07f0fc191",
-    "trade_timestamp": 1769147056,
-    "trade_data": {
-      "asset": "4522626961998347638949299833876955601992495312657575180273017265451490005164",
-      "assetId": null,
-      "tokenId": null,
-      "side": "SELL",
-      "outcome": "Clippers",
-      "market": null,
-      "type": null,
-      "status": null,
-      "maker": null,
-      "taker": null,
-      "makerAddress": null,
-      "takerAddress": null,
-      "feeRateBps": null,
-      "price": 0.999,
-      "size": 1064.87,
-      "amount": 1063.80513
-    }
-  },
-  {
-    "market": "Will Dinorah Figuera be the leader of Venezuela end of 2026?",
-    "market_slug": "will-dinorah-figuera-be-the-leader-of-venezuela-end-of-2026",
-    "wallet": "0xa0551c3f9f6baee852907db87b8f46ebb5882191",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (1d old)",
-        "Extreme confidence (99.8% odds)",
-        "Large bet ($1,998)"
-      ],
-      "amount": 1997.996,
-      "odds": 0.998,
-      "wallet_age_days": 1,
-      "total_activities": 86
-    },
-    "timestamp": "2026-01-23T06:56:42.110669",
-    "trade_hash": "0x129db033ccfbfb9cd595d84d3b8ec1eab8ee78065e1487a55781859b1810af70",
-    "trade_timestamp": 1769151174,
-    "trade_data": {
-      "asset": "33003365495633416555003277042690770592485884877233738553310366680953772198557",
-      "assetId": null,
-      "tokenId": null,
-      "side": "SELL",
-      "outcome": "No",
-      "market": null,
-      "type": null,
-      "status": null,
-      "maker": null,
-      "taker": null,
-      "makerAddress": null,
-      "takerAddress": null,
-      "feeRateBps": null,
-      "price": 0.998,
-      "size": 2002.0,
-      "amount": 1997.996
-    }
-  },
-  {
-    "market": "Will Bitcoin reach $150,000 in January?",
-    "market_slug": "will-bitcoin-reach-150k-in-january-2026",
-    "wallet": "0x8c9239bbe72a9975f6e7d2e7da652d10f10a5049",
-    "analysis": {
-      "score": 95,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (99.7% odds)",
-        "Large bet ($5,222)",
-        "Low activity (4 txns)"
-      ],
-      "amount": 5222.05669,
-      "odds": 0.997,
-      "wallet_age_days": 0,
-      "total_activities": 4
-    },
-    "timestamp": "2026-01-23T07:42:00.625177",
-    "trade_hash": "0x8e46dedfa65ba182a57831691f2d885c8844cfed34dfffc8413ec729e8f8f261",
-    "trade_timestamp": 1769153926,
-    "trade_data": {
-      "asset": "54504735237306435364688890375581221790556858637843718945838566750916495284821",
-      "assetId": null,
-      "tokenId": null,
-      "side": "SELL",
-      "outcome": "No",
-      "market": null,
-      "type": null,
-      "status": null,
-      "maker": null,
-      "taker": null,
-      "makerAddress": null,
-      "takerAddress": null,
-      "feeRateBps": null,
-      "price": 0.997,
-      "size": 5237.77,
-      "amount": 5222.05669
-    }
-  },
-  {
-    "market": "Will To Lam be elected General Secretary of the Vietnamese Communist Party?",
-    "market_slug": "will-to-lam-be-elected-general-secretary-of-the-vietnamese-communist-party",
-    "wallet": "0x298db43e7934ec5cf392c1c5fbfb45afe32fd998",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (2d old)",
-        "Extreme confidence (99.8% odds)",
-        "Large bet ($3,062)"
-      ],
-      "amount": 3061.75422,
-      "odds": 0.998,
-      "wallet_age_days": 2,
-      "total_activities": 17
-    },
-    "timestamp": "2026-01-23T07:52:00.956368",
-    "trade_hash": "0xe27b6a641eaea12fd1a3fa8cb5d5677c550d9a3e307e8496047a8b78c6044e11",
-    "trade_timestamp": 1769154586,
-    "trade_data": {
-      "asset": "32502880350678995655372695756293563376414484296787693507155481019498489053168",
-      "assetId": null,
-      "tokenId": null,
-      "side": "SELL",
-      "outcome": "Yes",
-      "market": null,
-      "type": null,
-      "status": null,
-      "maker": null,
-      "taker": null,
-      "makerAddress": null,
-      "takerAddress": null,
-      "feeRateBps": null,
-      "price": 0.998,
-      "size": 3067.89,
-      "amount": 3061.75422
-    }
-  },
-  {
     "market": "Will Mark Cuban win the 2028 Democratic presidential nomination?",
     "market_slug": "will-mark-cuban-win-the-2028-democratic-presidential-nomination-329",
     "wallet": "0xdffe2806928c8c3ac66f06948778ea358c6d48c4",
@@ -27297,5 +27143,425 @@
     "market": "Will FC Barcelona win on 2026-03-22?",
     "market_slug": "lal-bar-ray-2026-03-22",
     "amount": 25338.000000000004
+  },
+  {
+    "market": "Wizards vs. Knicks: O/U 226.5",
+    "market_slug": "nba-was-nyk-2026-03-22-total-226pt5",
+    "event_slug": "nba-was-nyk-2026-03-22-total-226pt5",
+    "wallet": "0xfb77b4362da92980ebb22e671c6548de7fa35580",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,497)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 1497.25,
+      "odds": 0.53,
+      "raw_price": 0.53,
+      "outcome": "Over",
+      "potential_pnl": 1327.75,
+      "pnl_multiplier": 0.8867924528301887,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-03-22T13:33:40.362963",
+    "trade_hash": "0x26219b9919e5f4e4f79c8871efed935fe3975abaf729e54a9a6386de684320b1",
+    "trade_timestamp": 1774186243,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Over",
+      "side": "BUY",
+      "price": 0.53,
+      "effective_price": 0.53,
+      "size": 2825.0,
+      "amount": 1497.25,
+      "potential_pnl": 1327.75,
+      "pnl_multiplier": 0.8867924528301887,
+      "is_no": false,
+      "slug": "nba-was-nyk-2026-03-22-total-226pt5",
+      "eventSlug": "nba-was-nyk-2026-03-22"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+28.4%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.246,
+      "market_price": 0.53,
+      "edge": 0.28400000000000003,
+      "edge_percent": 28.400000000000002,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Both teams score efficiently",
+          "Defensive lapses from both teams",
+          "Game pace is fast"
+        ],
+        "weakest_link": "Defensive lapses from both teams"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Recent scoring trends of both teams",
+        "Injury reports affecting key players"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "OVER",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.28400000000000003,
+      "edge_percent": 28.400000000000002
+    },
+    "financial_analyst": {
+      "signal_quality": 51.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 28.4,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Wizards vs. Knicks: O/U 226.5",
+    "market_slug": "nba-was-nyk-2026-03-22-total-226pt5",
+    "event_slug": "nba-was-nyk-2026-03-22-total-226pt5",
+    "wallet": "0xdde0b9ed3f0ef8b5af469edcd0628cd56432b9a2",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,447)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 1447.43,
+      "odds": 0.53,
+      "raw_price": 0.53,
+      "outcome": "Over",
+      "potential_pnl": 1283.57,
+      "pnl_multiplier": 0.8867924528301886,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-03-22T13:33:44.011758",
+    "trade_hash": "0xbbd2b591de8ae4172db4e31000bffd14eeba6c44521b88444dc60576dbcaf1b3",
+    "trade_timestamp": 1774186243,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Over",
+      "side": "BUY",
+      "price": 0.53,
+      "effective_price": 0.53,
+      "size": 2731.0,
+      "amount": 1447.43,
+      "potential_pnl": 1283.57,
+      "pnl_multiplier": 0.8867924528301886,
+      "is_no": false,
+      "slug": "nba-was-nyk-2026-03-22-total-226pt5",
+      "eventSlug": "nba-was-nyk-2026-03-22"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+28.4%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.246,
+      "market_price": 0.53,
+      "edge": 0.28400000000000003,
+      "edge_percent": 28.400000000000002,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Both teams have strong offensive performances",
+          "Defensive weaknesses from both teams",
+          "Game pace is fast"
+        ],
+        "weakest_link": "Defensive weaknesses from both teams"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Recent offensive trends of both teams",
+        "Injury reports affecting key players"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "OVER",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.28400000000000003,
+      "edge_percent": 28.400000000000002
+    },
+    "financial_analyst": {
+      "signal_quality": 51.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 28.4,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Wizards vs. Knicks: O/U 226.5",
+    "market_slug": "nba-was-nyk-2026-03-22-total-226pt5",
+    "event_slug": "nba-was-nyk-2026-03-22-total-226pt5",
+    "wallet": "0x1f72d79a2ef1e4f6ee2f1b1a2f6f143b9e4b3cb8",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,191)",
+        "Low activity (2 txns)"
+      ],
+      "amount": 1191.44,
+      "odds": 0.53,
+      "raw_price": 0.53,
+      "outcome": "Over",
+      "potential_pnl": 1056.56,
+      "pnl_multiplier": 0.8867924528301886,
+      "wallet_age_days": 0,
+      "total_activities": 2
+    },
+    "timestamp": "2026-03-22T13:33:47.652375",
+    "trade_hash": "0x998a98401afa41f41a16ceeffe849c9683cbd74b1d382f1afd0aec88e3a50295",
+    "trade_timestamp": 1774186243,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Over",
+      "side": "BUY",
+      "price": 0.53,
+      "effective_price": 0.53,
+      "size": 2248.0,
+      "amount": 1191.44,
+      "potential_pnl": 1056.56,
+      "pnl_multiplier": 0.8867924528301886,
+      "is_no": false,
+      "slug": "nba-was-nyk-2026-03-22-total-226pt5",
+      "eventSlug": "nba-was-nyk-2026-03-22"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+28.4%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.246,
+      "market_price": 0.53,
+      "edge": 0.28400000000000003,
+      "edge_percent": 28.400000000000002,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Both teams have strong offensive performances",
+          "Defensive weaknesses from both teams",
+          "Favorable refereeing decisions leading to more fouls and free throws"
+        ],
+        "weakest_link": "Defensive weaknesses from both teams"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Recent high-scoring games by both teams",
+        "Injury reports affecting key defensive players"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "OVER",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.28400000000000003,
+      "edge_percent": 28.400000000000002
+    },
+    "financial_analyst": {
+      "signal_quality": 51.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 28.4,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "UCLA Bruins vs. Connecticut Huskies: O/U 137.5",
+    "market_slug": "cbb-ucla-uconn-2026-03-22-total-137pt5",
+    "event_slug": "cbb-ucla-uconn-2026-03-22-total-137pt5",
+    "wallet": "0xe5b6068b152a8afcbc73c91c3a9b3f3068bd5b6f",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($19,123)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 19123.121,
+      "odds": 0.5263877908973997,
+      "raw_price": 0.5263877908973997,
+      "outcome": "Under",
+      "potential_pnl": 17205.839,
+      "pnl_multiplier": 0.8997401104139853,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-03-22T13:33:53.860446",
+    "trade_hash": "0x0fa771fe429495c3b24ea7ca0e462a5d98e6d98c0f70908863148f89cd61472d",
+    "trade_timestamp": 1774186135,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Under",
+      "side": "BUY",
+      "price": 0.5263877908973997,
+      "effective_price": 0.5263877908973997,
+      "size": 36328.96,
+      "amount": 19123.121,
+      "potential_pnl": 17205.839,
+      "pnl_multiplier": 0.8997401104139853,
+      "is_no": false,
+      "slug": "cbb-ucla-uconn-2026-03-22-total-137pt5",
+      "eventSlug": "cbb-ucla-uconn-2026-03-22"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+28.1%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.24527755817947994,
+      "market_price": 0.5263877908973997,
+      "edge": 0.2811102327179198,
+      "edge_percent": 28.11102327179198,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Both teams have high-scoring offenses",
+          "Defensive strategies are ineffective",
+          "Game pace is fast"
+        ],
+        "weakest_link": "Defensive strategies are ineffective"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Recent high-scoring games by both teams",
+        "Increased pace of play in recent matchups"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "UNDER",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.2811102327179198,
+      "edge_percent": 28.11102327179198
+    },
+    "financial_analyst": {
+      "signal_quality": 51.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 28.11,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
