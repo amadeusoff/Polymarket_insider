@@ -1,44 +1,5 @@
 [
   {
-    "market": "Will Bitcoin reach $150,000 in January?",
-    "market_slug": "will-bitcoin-reach-150k-in-january-2026",
-    "wallet": "0x664842128f11cc8be84a9a42de6f2f5c0b9c456b",
-    "analysis": {
-      "score": 95,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (99.9% odds)",
-        "Large bet ($5,180)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 5180.38443,
-      "odds": 0.999,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-01-24T08:21:12.299634",
-    "trade_hash": "0xde9d5c0e1468fcd1554a4bbc05159a4b07b44d7fdab0686d3631b5e9a2a6d7c5",
-    "trade_timestamp": 1769242646,
-    "trade_data": {
-      "asset": "54504735237306435364688890375581221790556858637843718945838566750916495284821",
-      "assetId": null,
-      "tokenId": null,
-      "side": "BUY",
-      "outcome": "No",
-      "market": null,
-      "type": null,
-      "status": null,
-      "maker": null,
-      "taker": null,
-      "makerAddress": null,
-      "takerAddress": null,
-      "feeRateBps": null,
-      "price": 0.999,
-      "size": 5185.57,
-      "amount": 5180.38443
-    }
-  },
-  {
     "market": "Will the Orlando Magic win the 2026 NBA Finals?",
     "market_slug": "will-the-orlando-magic-win-the-2026-nba-finals",
     "wallet": "0x56d12abde1eacac2da17ba3157144875ee2c27d2",
@@ -28554,5 +28515,49 @@
     "market": "Lakers vs. Pistons",
     "market_slug": "nba-lal-det-2026-03-23",
     "amount": 23636.08
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xb1ea1a9fc4ba40c24b20541fd7ee6ad22dbb72b6ad4d3c2a4de23e120556891a",
+    "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
+    "trader": {
+      "rank": 13,
+      "address": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
+      "username": "mikatrade77",
+      "profit": 5147998.544602999,
+      "volume": 10884765.388775,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x93abbc022ce98d6f45d4444b594791cc4b7a9723",
+      "side": "BUY",
+      "asset": "23506578023355411041243894417929730258183568005708382134166886599950653453180",
+      "conditionId": "0x3a218243afbb1d96c615b430d7c4f9e7907e4ed41cd3d1f738ac635d2b5c333a",
+      "size": 68000,
+      "price": 0.5,
+      "timestamp": 1774306957,
+      "title": "Spread: Hawks (-13.5)",
+      "slug": "nba-mem-atl-2026-03-23-spread-home-13pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-mem-atl-2026-03-23",
+      "outcome": "Hawks",
+      "outcomeIndex": 0,
+      "name": "gatorr",
+      "pseudonym": "Velvety-Relief",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xb1ea1a9fc4ba40c24b20541fd7ee6ad22dbb72b6ad4d3c2a4de23e120556891a",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spread: Hawks (-13.5)",
+    "market_slug": "nba-mem-atl-2026-03-23",
+    "amount": 34000.0
   }
 ]
