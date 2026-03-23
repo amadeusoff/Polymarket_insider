@@ -1,43 +1,5 @@
 [
   {
-    "market": "Will Bitcoin reach $130,000 in January?",
-    "market_slug": "will-bitcoin-reach-130k-in-january-2026",
-    "wallet": "0xd348a75bc1cad3341b8d83236ba4226c1bc8da52",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (99.8% odds)",
-        "Large bet ($14,921)"
-      ],
-      "amount": 14920.85,
-      "odds": 0.9980000000004013,
-      "wallet_age_days": 0,
-      "total_activities": 5
-    },
-    "timestamp": "2026-01-24T06:25:24.181769",
-    "trade_hash": "0x10aab9785e0388fba156b36859a5705d4254645de88ea02adb3e0eeeb77dfe10",
-    "trade_timestamp": 1769235598,
-    "trade_data": {
-      "asset": "48984382872706112247905483723128046145510613417347917216329397199470263929282",
-      "assetId": null,
-      "tokenId": null,
-      "side": "BUY",
-      "outcome": "No",
-      "market": null,
-      "type": null,
-      "status": null,
-      "maker": null,
-      "taker": null,
-      "makerAddress": null,
-      "takerAddress": null,
-      "feeRateBps": null,
-      "price": 0.9980000000004013,
-      "size": 14950.751503,
-      "amount": 14920.85
-    }
-  },
-  {
     "market": "Will Michelle Obama win the 2028 Democratic presidential nomination?",
     "market_slug": "will-michelle-obama-win-the-2028-democratic-presidential-nomination-777",
     "wallet": "0x9427bd54dc88e8bc621892fa13098bbafb71a9b2",
@@ -28327,5 +28289,49 @@
     "market": "Tennessee Volunteers vs. Virginia Cavaliers",
     "market_slug": "cbb-tenn-vir-2026-03-22",
     "amount": 1610.51
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xe65a73c98b5349746390ce55e6d87ae89fe9669f38fd63c979f0cab3fdf408ff",
+    "wallet": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
+    "trader": {
+      "rank": 14,
+      "address": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
+      "username": "gmanas",
+      "profit": 4955481.832122724,
+      "volume": 529047708.50599104,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xb3cfe7615d64db8dfa743a1b1a2b976911460ebd",
+      "side": "BUY",
+      "asset": "1884560377359152615754168023030184591222446452362876805175154028302994022031",
+      "conditionId": "0x0d1150f2f78b3b2f13c9ac7b51c8c8a10bcd9f7f1df7739312cba585225e3c3b",
+      "size": 5000,
+      "price": 0.73,
+      "timestamp": 1774237929,
+      "title": "Texas Tech Red Raiders vs. Alabama Crimson Tide: O/U 165.5",
+      "slug": "cbb-txtech-ala-2026-03-22-total-165pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ncaa-c14995df96.png",
+      "eventSlug": "cbb-txtech-ala-2026-03-22",
+      "outcome": "Under",
+      "outcomeIndex": 1,
+      "name": "omoi0i0",
+      "pseudonym": "Narrow-Authorization",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xe65a73c98b5349746390ce55e6d87ae89fe9669f38fd63c979f0cab3fdf408ff",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Texas Tech Red Raiders vs. Alabama Crimson Tide: O/U 165.5",
+    "market_slug": "cbb-txtech-ala-2026-03-22",
+    "amount": 3650.0
   }
 ]
