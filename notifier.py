@@ -51,35 +51,53 @@ def extract_market_subject(market_title: str) -> Optional[str]:
     return None
 
 
+def extract_ou_line(market_title: str) -> Optional[str]:
+    """
+    Extract O/U line number from market title.
+    
+    Examples:
+    - "Texas Tech vs Alabama: O/U 165.5" → "165.5"
+    - "Lakers vs Celtics O/U 220" → "220"
+    """
+    if not market_title:
+        return None
+    
+    # Pattern: O/U followed by number
+    match = re.search(r'O/U\s*([\d.]+)', market_title, re.IGNORECASE)
+    if match:
+        return match.group(1)
+    
+    return None
+
+
 def determine_position(trade_data, odds):
     """
     Determine position from trade data.
-    Returns team name for sports markets, YES/NO for binary markets.
+    Returns outcome name (Over/Under, team name, YES/NO).
     """
     if trade_data:
-        # First try 'name' field (has team/player name for sports)
-        name = trade_data.get('name')
-        if name and str(name).lower() not in ['yes', 'no', '']:
-            return name  # Return actual team name
-        
-        # Fall back to 'outcome' field
+        # Use 'outcome' field - contains the actual position
+        # Examples: "Yes", "No", "Over", "Under", "Lakers", etc.
         outcome = trade_data.get('outcome')
         if outcome:
-            outcome_lower = str(outcome).lower()
-            if 'yes' in outcome_lower:
+            outcome_str = str(outcome)
+            outcome_lower = outcome_str.lower()
+            
+            # Normalize common values
+            if outcome_lower == 'yes':
                 return 'YES'
-            if 'no' in outcome_lower:
+            if outcome_lower == 'no':
                 return 'NO'
-            # If outcome is neither yes/no, it might be a team name
-            if outcome_lower not in ['yes', 'no', '']:
-                return outcome
+            
+            # Return as-is for Over/Under, team names, etc.
+            return outcome_str
     
-    # Fallback
+    # Fallback based on price
     return '~YES' if odds > 0.5 else '~NO'
 
 
 def is_binary_market(position: str) -> bool:
-    """Check if position is binary (YES/NO) or named (team/player)."""
+    """Check if position is binary (YES/NO) vs named (Over/Under, team/player)."""
     pos_clean = position.lstrip('~').upper()
     return pos_clean in ['YES', 'NO']
 
@@ -93,13 +111,13 @@ def format_trade_info(alert):
     size = float(trade_data.get("size", 0))
     raw_price = analysis.get("raw_price", analysis.get("odds", 0.5))
     
-    # Get outcome - try 'name' first (has team name), fall back to 'outcome'
-    outcome_str = trade_data.get("name") or trade_data.get("outcome", "Yes") or "Yes"
+    # Get outcome from 'outcome' field (NOT 'name' - that's the username!)
+    outcome_str = trade_data.get("outcome", "Yes") or "Yes"
     
     # For economics calculation, we need to know if it's a NO position
     # outcomeIndex: 0 = first option (YES/Team1), 1 = second option (NO/Team2)
     outcome_index = trade_data.get("outcomeIndex", 0)
-    is_no = (outcome_index == 1) or (str(outcome_str).lower() == 'no')
+    is_no = (outcome_index == 1) or (str(outcome_str).lower() in ['no', 'under'])
     
     if size > 0 and raw_price > 0:
         # Calculate with proper NO detection
@@ -119,6 +137,7 @@ def format_trade_info(alert):
     position = determine_position(trade_data, econ.effective_odds)
     is_estimated = position.startswith('~')
     position_clean = position.lstrip('~')
+    position_lower = position_clean.lower()
     
     # Check if it's a binary market (YES/NO) or named (team/player)
     if is_binary_market(position):
@@ -138,6 +157,23 @@ def format_trade_info(alert):
             else:
                 position_display = f"NO @ {(1 - econ.raw_price)*100:.1f}¢"
             implied_prob = (1 - econ.raw_price) * 100
+    elif position_lower in ['over', 'under']:
+        # O/U market - add line number if available
+        market_title = alert.get('market', '') or trade_data.get('title', '')
+        ou_line = extract_ou_line(market_title)
+        outcome_index = trade_data.get("outcomeIndex", 0)
+        
+        if outcome_index == 1:
+            price_display = (1 - econ.raw_price) * 100
+            implied_prob = price_display
+        else:
+            price_display = econ.raw_price * 100
+            implied_prob = price_display
+        
+        if ou_line:
+            position_display = f"{position_clean} {ou_line} @ {price_display:.1f}¢"
+        else:
+            position_display = f"{position_clean} @ {price_display:.1f}¢"
     else:
         # Sports/event market - show team/player name
         # outcomeIndex 0 = first option (uses raw_price), 1 = second option (uses 1-raw_price)
@@ -415,9 +451,9 @@ def format_top_trader_alert(alert: Dict) -> str:
     size = float(trade.get('size', 0))
     price = float(trade.get('price', 0))
     
-    # Get outcome name - API returns team/player name in 'name' field
-    # 'outcome' is often just "Yes"/"No" even for sports markets
-    outcome_name = trade.get('name') or trade.get('outcome', 'Yes')
+    # Get outcome name from 'outcome' field (NOT 'name' - that's the username!)
+    # For sports: "Over", "Under", team names, etc.
+    outcome_name = trade.get('outcome', 'Yes')
     
     # Calculate cost based on outcomeIndex or outcome value
     # outcomeIndex: 0 = first option (usually YES or Team1), 1 = second option (NO or Team2)
@@ -448,8 +484,16 @@ def format_top_trader_alert(alert: Dict) -> str:
             position = f"{subject} ✓ @ {odds_display}"
         else:
             position = f"{outcome_name.upper()} @ {odds_display}"
+    elif outcome_lower in ['over', 'under']:
+        # O/U market - try to add the line number
+        market_title = trade.get('title', '') or alert.get('market', '')
+        ou_line = extract_ou_line(market_title)
+        if ou_line:
+            position = f"{outcome_name} {ou_line} @ {odds_display}"
+        else:
+            position = f"{outcome_name} @ {odds_display}"
     else:
-        # Sports/esports market - show team/player name
+        # Sports/esports market - show team/player name as-is
         position = f"{outcome_name} @ {odds_display}"
     
     # Get market name from trade data (title field, not nested market)
