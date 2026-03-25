@@ -1,120 +1,5 @@
 [
   {
-    "market": "Will there be less than 4 inches of snow in NYC this weekend?",
-    "market_slug": "will-there-be-less-than-4-inches-of-snow-in-nyc-this-weekend",
-    "wallet": "0x5dc475af30e397289c0daa3eec5efe79dc9399ad",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (2d old)",
-        "Extreme confidence (97.8% odds)",
-        "Large bet ($3,004)"
-      ],
-      "amount": 3003.8899850000003,
-      "odds": 0.9780277514142689,
-      "wallet_age_days": 2,
-      "total_activities": 100
-    },
-    "timestamp": "2026-01-24T13:40:13.424276",
-    "trade_hash": "0x2b59c484f39c6b3c8c137e215a66c9ad0f78547990cf1bbceee4b6f5faf70588",
-    "trade_timestamp": 1769261932,
-    "trade_data": {
-      "asset": "12936663251219291220774455255978157118540751836148402940046741671995579157622",
-      "assetId": null,
-      "tokenId": null,
-      "side": "BUY",
-      "outcome": "No",
-      "market": null,
-      "type": null,
-      "status": null,
-      "maker": null,
-      "taker": null,
-      "makerAddress": null,
-      "takerAddress": null,
-      "feeRateBps": null,
-      "price": 0.9780277514142689,
-      "size": 3071.375,
-      "amount": 3003.8899850000003
-    }
-  },
-  {
-    "market": "Will Atalanta win the 2025\u201326 Champions League?",
-    "market_slug": "will-atalanta-win-the-202526-champions-league",
-    "wallet": "0x13a87522d89366d4024f45979942b7836b02354d",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (99.3% odds)",
-        "Large bet ($3,515)"
-      ],
-      "amount": 3515.22993,
-      "odds": 0.993,
-      "wallet_age_days": 0,
-      "total_activities": 23
-    },
-    "timestamp": "2026-01-24T14:47:51.121744",
-    "trade_hash": "0x522a0c61ff02919d9c85d47ddd76dbfa41f63e97a818c95d152491818b737d1d",
-    "trade_timestamp": 1769265998,
-    "trade_data": {
-      "asset": "21944894353965897951603275348219343854238849215840619102823032771992655122234",
-      "assetId": null,
-      "tokenId": null,
-      "side": "SELL",
-      "outcome": "No",
-      "market": null,
-      "type": null,
-      "status": null,
-      "maker": null,
-      "taker": null,
-      "makerAddress": null,
-      "takerAddress": null,
-      "feeRateBps": null,
-      "price": 0.993,
-      "size": 3540.01,
-      "amount": 3515.22993
-    }
-  },
-  {
-    "market": "Russia x Ukraine ceasefire by February 28, 2026?",
-    "market_slug": "russia-x-ukraine-ceasefire-by-february-28-2026",
-    "wallet": "0x59257d7be6cee89c7b4a9fe2df2344edf895d887",
-    "analysis": {
-      "score": 95,
-      "flags": [
-        "New wallet (0d old)",
-        "Against trend (9.7% odds)",
-        "Large bet ($2,046)",
-        "Low activity (3 txns)"
-      ],
-      "amount": 2045.549999,
-      "odds": 0.09657582425381013,
-      "wallet_age_days": 0,
-      "total_activities": 3
-    },
-    "timestamp": "2026-01-24T14:55:52.240407",
-    "trade_hash": "0xffc0d0a71981197af1da73667e7065f236695c7881ee400ccbb7335e2bbc09f5",
-    "trade_timestamp": 1769266228,
-    "trade_data": {
-      "asset": "48542681435247439258666128962898934229410828949745554458943224971747087131816",
-      "assetId": null,
-      "tokenId": null,
-      "side": "BUY",
-      "outcome": "Yes",
-      "market": null,
-      "type": null,
-      "status": null,
-      "maker": null,
-      "taker": null,
-      "makerAddress": null,
-      "takerAddress": null,
-      "feeRateBps": null,
-      "price": 0.09657582425381013,
-      "size": 21180.766665,
-      "amount": 2045.549999
-    }
-  },
-  {
     "market": "AFC U23 Final: China vs. Japan",
     "market_slug": "afc-u23-final-china-vs-japan",
     "wallet": "0xf8fe97d3d9c72eade3491def132cf86b13dcff12",
@@ -29094,6 +28979,321 @@
       "edge_percent": 11.2,
       "signal_strength": 110.0,
       "insider_score": 110.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Bucks vs. Trail Blazers: O/U 225.5",
+    "market_slug": "nba-mil-por-2026-03-25-total-225pt5",
+    "event_slug": "nba-mil-por-2026-03-25-total-225pt5",
+    "wallet": "0x1f73af2b56a99aae13ca464b5be90e4a8b01d3d6",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,033)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 1032.75,
+      "odds": 0.51,
+      "raw_price": 0.51,
+      "outcome": "Over",
+      "potential_pnl": 992.25,
+      "pnl_multiplier": 0.9607843137254902,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-03-25T14:54:10.190155",
+    "trade_hash": "0x600a78661dd594fc19aeb51b0a0bd3095fe8290faff0d777e7344774acd0af41",
+    "trade_timestamp": 1774450081,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Over",
+      "side": "BUY",
+      "price": 0.51,
+      "effective_price": 0.51,
+      "size": 2025.0,
+      "amount": 1032.75,
+      "potential_pnl": 992.25,
+      "pnl_multiplier": 0.9607843137254902,
+      "is_no": false,
+      "slug": "nba-mil-por-2026-03-25-total-225pt5",
+      "eventSlug": "nba-mil-por-2026-03-25"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+26.8%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.242,
+      "market_price": 0.51,
+      "edge": 0.268,
+      "edge_percent": 26.8,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Both teams score efficiently",
+          "Defensive strategies are less effective",
+          "Game pace is fast"
+        ],
+        "weakest_link": "Defensive strategies are less effective"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Recent offensive performances of both teams",
+        "Injury status of key players affecting scoring"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "OVER",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.268,
+      "edge_percent": 26.8
+    },
+    "financial_analyst": {
+      "signal_quality": 51.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 26.8,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Bucks vs. Trail Blazers: O/U 225.5",
+    "market_slug": "nba-mil-por-2026-03-25-total-225pt5",
+    "event_slug": "nba-mil-por-2026-03-25-total-225pt5",
+    "wallet": "0xdc764e559fce0fa1d0c5bb8c79215a282928fd50",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,416)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 1415.76,
+      "odds": 0.51,
+      "raw_price": 0.51,
+      "outcome": "Over",
+      "potential_pnl": 1360.24,
+      "pnl_multiplier": 0.9607843137254902,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-03-25T14:54:14.475118",
+    "trade_hash": "0x7792e6a3f399b0467bec8bcdacaee73040ab5cffdacdab6d7c4c09acfb180bac",
+    "trade_timestamp": 1774450079,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Over",
+      "side": "BUY",
+      "price": 0.51,
+      "effective_price": 0.51,
+      "size": 2776.0,
+      "amount": 1415.76,
+      "potential_pnl": 1360.24,
+      "pnl_multiplier": 0.9607843137254902,
+      "is_no": false,
+      "slug": "nba-mil-por-2026-03-25-total-225pt5",
+      "eventSlug": "nba-mil-por-2026-03-25"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+26.8%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.242,
+      "market_price": 0.51,
+      "edge": 0.268,
+      "edge_percent": 26.8,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Both teams have high-scoring offenses",
+          "Defensive strategies are ineffective",
+          "Game pace is fast"
+        ],
+        "weakest_link": "Defensive strategies are ineffective"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Recent scoring trends of both teams",
+        "Injury reports affecting key players"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "OVER",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.268,
+      "edge_percent": 26.8
+    },
+    "financial_analyst": {
+      "signal_quality": 51.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 26.8,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Bucks vs. Trail Blazers: O/U 225.5",
+    "market_slug": "nba-mil-por-2026-03-25-total-225pt5",
+    "event_slug": "nba-mil-por-2026-03-25-total-225pt5",
+    "wallet": "0xe72381757595ffd1f9f0cbb13547b57e42563d61",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,478)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 1477.84,
+      "odds": 0.49,
+      "raw_price": 0.49,
+      "outcome": "Under",
+      "potential_pnl": 1538.16,
+      "pnl_multiplier": 1.0408163265306123,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-03-25T14:54:19.103117",
+    "trade_hash": "0x591d32ae169cc45914391798ccdbeb2d76a379a3fb9927d1a3b83adb0f9ca635",
+    "trade_timestamp": 1774450291,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Under",
+      "side": "BUY",
+      "price": 0.49,
+      "effective_price": 0.49,
+      "size": 3016.0,
+      "amount": 1477.84,
+      "potential_pnl": 1538.16,
+      "pnl_multiplier": 1.0408163265306123,
+      "is_no": false,
+      "slug": "nba-mil-por-2026-03-25-total-225pt5",
+      "eventSlug": "nba-mil-por-2026-03-25"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+25.2%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.238,
+      "market_price": 0.49,
+      "edge": 0.252,
+      "edge_percent": 25.2,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Both teams have high offensive efficiency",
+          "Both teams have low defensive efficiency",
+          "Game pace is fast"
+        ],
+        "weakest_link": "Both teams have low defensive efficiency"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Recent performance trends of both teams",
+        "Injury status of key players"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "UNDER",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.252,
+      "edge_percent": 25.2
+    },
+    "financial_analyst": {
+      "signal_quality": 51.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 25.2,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
   }
