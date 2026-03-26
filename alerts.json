@@ -1,157 +1,5 @@
 [
   {
-    "market": "Spread: Charleston Cougars (-3.5)",
-    "market_slug": "cbb-elon-char-2026-01-24-spread-home-3pt5",
-    "wallet": "0xc949b287f5f6b616034ffeafa286d17aa936fa93",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (2d old)",
-        "Extreme confidence (99.9% odds)",
-        "Large bet ($2,039)"
-      ],
-      "amount": 2038.76919,
-      "odds": 0.999,
-      "wallet_age_days": 2,
-      "total_activities": 47
-    },
-    "timestamp": "2026-01-24T19:57:37.823430",
-    "trade_hash": "0xf0c35d06c7919c092ee0710405c85b8ed3f41132e5531aae63529bd5d8639c3e",
-    "trade_timestamp": 1769284378,
-    "trade_data": {
-      "asset": "65027466329461517344861762065501041334781289702649801648585041083568594366795",
-      "assetId": null,
-      "tokenId": null,
-      "side": "SELL",
-      "outcome": "Charleston Cougars",
-      "market": null,
-      "type": null,
-      "status": null,
-      "maker": null,
-      "taker": null,
-      "makerAddress": null,
-      "takerAddress": null,
-      "feeRateBps": null,
-      "price": 0.999,
-      "size": 2040.81,
-      "amount": 2038.76919
-    }
-  },
-  {
-    "market": "Olympique de Marseille vs. Racing Club de Lens: O/U 2.5",
-    "market_slug": "fl1-olm-rcl-2026-01-24-total-2pt5",
-    "wallet": "0xdd88b8b1c81fd533bafd402e243bef4bb3cd3bb0",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (98.0% odds)",
-        "Large bet ($5,880)"
-      ],
-      "amount": 5879.95,
-      "odds": 0.9799916666666667,
-      "wallet_age_days": 0,
-      "total_activities": 97
-    },
-    "timestamp": "2026-01-24T21:42:50.694419",
-    "trade_hash": "0xbe12ba21dbca9a146c1800d67ef709b0a02681c03c3109f214654d4556bd424a",
-    "trade_timestamp": 1769290892,
-    "trade_data": {
-      "asset": "30763699285463754907538460808917652944918435122905369228519421939496639220978",
-      "assetId": null,
-      "tokenId": null,
-      "side": "BUY",
-      "outcome": "Over",
-      "market": null,
-      "type": null,
-      "status": null,
-      "maker": null,
-      "taker": null,
-      "makerAddress": null,
-      "takerAddress": null,
-      "feeRateBps": null,
-      "price": 0.9799916666666667,
-      "size": 6000.0,
-      "amount": 5879.95
-    }
-  },
-  {
-    "market": "Illinois Fighting Illini vs. Purdue Boilermakers",
-    "market_slug": "cbb-ill-pur-2026-01-24",
-    "wallet": "0x4fbe2cb6c34488d68037d4adde952f6a7f01b84f",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (2d old)",
-        "Extreme confidence (99.2% odds)",
-        "Large bet ($1,593)"
-      ],
-      "amount": 1592.70741,
-      "odds": 0.9923410654205608,
-      "wallet_age_days": 2,
-      "total_activities": 100
-    },
-    "timestamp": "2026-01-24T22:10:40.855909",
-    "trade_hash": "0xb58ca9722c4846a00a1bb20d3ff41196e8c7630740bd4817f62239d0b3067f84",
-    "trade_timestamp": 1769292574,
-    "trade_data": {
-      "asset": "41346365814615284636436536383227429712027970253304336547488582394595056008394",
-      "assetId": null,
-      "tokenId": null,
-      "side": "SELL",
-      "outcome": "Illinois Fighting Illini",
-      "market": null,
-      "type": null,
-      "status": null,
-      "maker": null,
-      "taker": null,
-      "makerAddress": null,
-      "takerAddress": null,
-      "feeRateBps": null,
-      "price": 0.9923410654205608,
-      "size": 1605.0,
-      "amount": 1592.70741
-    }
-  },
-  {
-    "market": "Knicks vs. 76ers",
-    "market_slug": "nba-nyk-phi-2026-01-24",
-    "wallet": "0x68dbe3bd12b8d8e7f1bc8bf1ea78fec2b52fa052",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (1d old)",
-        "Extreme confidence (99.0% odds)",
-        "Large bet ($3,233)"
-      ],
-      "amount": 3232.88968,
-      "odds": 0.9902987477638641,
-      "wallet_age_days": 1,
-      "total_activities": 24
-    },
-    "timestamp": "2026-01-24T22:33:50.681906",
-    "trade_hash": "0x84379dc212bd53f900ec1cecdbb2427c0c95e435292b07d2b7a979360e7686f1",
-    "trade_timestamp": 1769293914,
-    "trade_data": {
-      "asset": "100839774769010266331661617202208847432106473005501947665369602880398232703155",
-      "assetId": null,
-      "tokenId": null,
-      "side": "SELL",
-      "outcome": "Knicks",
-      "market": null,
-      "type": null,
-      "status": null,
-      "maker": null,
-      "taker": null,
-      "makerAddress": null,
-      "takerAddress": null,
-      "feeRateBps": null,
-      "price": 0.9902987477638641,
-      "size": 3264.56,
-      "amount": 3232.88968
-    }
-  },
-  {
     "market": "Will Ant\u00f3nio Jos\u00e9 Seguro win the 2026 Portugal presidential election?",
     "market_slug": "will-antnio-jos-seguro-win-the-2026-portugal-presidential-election",
     "wallet": "0x3dbb2d2f8814396c9cf192a240f1c8df54dc6fd2",
@@ -29583,6 +29431,426 @@
       "edge_percent": 12.8,
       "signal_strength": 110.0,
       "insider_score": 110.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Pelicans vs. Pistons: O/U 225.5",
+    "market_slug": "nba-nop-det-2026-03-26-total-225pt5",
+    "event_slug": "nba-nop-det-2026-03-26-total-225pt5",
+    "wallet": "0x08f6aa11e4b14523712699549a3b88e4e75f7501",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,604)",
+        "Low activity (2 txns)"
+      ],
+      "amount": 1604.4080000000001,
+      "odds": 0.52,
+      "raw_price": 0.52,
+      "outcome": "Over",
+      "potential_pnl": 1480.992,
+      "pnl_multiplier": 0.923076923076923,
+      "wallet_age_days": 0,
+      "total_activities": 2
+    },
+    "timestamp": "2026-03-26T08:10:00.163205",
+    "trade_hash": "0x2f462867988011b9a5bffc76efc66fd5bc41d85b21ebada2bb7d0b3602cc8541",
+    "trade_timestamp": 1774512353,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Over",
+      "side": "BUY",
+      "price": 0.52,
+      "effective_price": 0.52,
+      "size": 3085.4,
+      "amount": 1604.4080000000001,
+      "potential_pnl": 1480.992,
+      "pnl_multiplier": 0.923076923076923,
+      "is_no": false,
+      "slug": "nba-nop-det-2026-03-26-total-225pt5",
+      "eventSlug": "nba-nop-det-2026-03-26"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+27.6%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.244,
+      "market_price": 0.52,
+      "edge": 0.276,
+      "edge_percent": 27.6,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Both teams have high-scoring offenses",
+          "Defensive weaknesses are exploited",
+          "Game pace is fast"
+        ],
+        "weakest_link": "Defensive weaknesses are exploited"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Recent performance trends of both teams",
+        "Injury reports affecting key players"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "OVER",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.276,
+      "edge_percent": 27.6
+    },
+    "financial_analyst": {
+      "signal_quality": 51.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 27.6,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Pelicans vs. Pistons: O/U 225.5",
+    "market_slug": "nba-nop-det-2026-03-26-total-225pt5",
+    "event_slug": "nba-nop-det-2026-03-26-total-225pt5",
+    "wallet": "0xea65e51817ee0ae7b20de0a750b268abbb3c152b",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,191)",
+        "Low activity (2 txns)"
+      ],
+      "amount": 1191.32,
+      "odds": 0.52,
+      "raw_price": 0.52,
+      "outcome": "Over",
+      "potential_pnl": 1099.68,
+      "pnl_multiplier": 0.9230769230769231,
+      "wallet_age_days": 0,
+      "total_activities": 2
+    },
+    "timestamp": "2026-03-26T08:10:04.471286",
+    "trade_hash": "0x03a32ab68a28a283f825cf54553f3d9508fa8859bc60ff31aa69e20d14448227",
+    "trade_timestamp": 1774512427,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Over",
+      "side": "BUY",
+      "price": 0.52,
+      "effective_price": 0.52,
+      "size": 2291.0,
+      "amount": 1191.32,
+      "potential_pnl": 1099.68,
+      "pnl_multiplier": 0.9230769230769231,
+      "is_no": false,
+      "slug": "nba-nop-det-2026-03-26-total-225pt5",
+      "eventSlug": "nba-nop-det-2026-03-26"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+27.6%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.244,
+      "market_price": 0.52,
+      "edge": 0.276,
+      "edge_percent": 27.6,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Both teams have high-scoring offenses",
+          "Defensive weaknesses are exploited",
+          "Game pace is fast"
+        ],
+        "weakest_link": "Defensive weaknesses are exploited"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Recent offensive performances",
+        "Injury status of key players"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "OVER",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.276,
+      "edge_percent": 27.6
+    },
+    "financial_analyst": {
+      "signal_quality": 51.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 27.6,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Knicks vs. Hornets: O/U 223.5",
+    "market_slug": "nba-nyk-cha-2026-03-26-total-223pt5",
+    "event_slug": "nba-nyk-cha-2026-03-26-total-223pt5",
+    "wallet": "0xd571c3f87ac6521ae06acc54217bd873aab4464f",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,724)",
+        "Low activity (4 txns)"
+      ],
+      "amount": 1723.5,
+      "odds": 0.5,
+      "raw_price": 0.5,
+      "outcome": "Over",
+      "potential_pnl": 1723.5,
+      "pnl_multiplier": 1.0,
+      "wallet_age_days": 0,
+      "total_activities": 4
+    },
+    "timestamp": "2026-03-26T08:10:07.582706",
+    "trade_hash": "0x3c0e0f807a082b2137c535098864450c09b2e5e7c2cfb3d7bc839da0a72d5df1",
+    "trade_timestamp": 1774512427,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Over",
+      "side": "BUY",
+      "price": 0.5,
+      "effective_price": 0.5,
+      "size": 3447.0,
+      "amount": 1723.5,
+      "potential_pnl": 1723.5,
+      "pnl_multiplier": 1.0,
+      "is_no": false,
+      "slug": "nba-nyk-cha-2026-03-26-total-223pt5",
+      "eventSlug": "nba-nyk-cha-2026-03-26"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+26.0%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.24,
+      "market_price": 0.5,
+      "edge": 0.26,
+      "edge_percent": 26.0,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Both teams have high-scoring offenses",
+          "Defensive weaknesses on both sides",
+          "Favorable game pace"
+        ],
+        "weakest_link": "Defensive weaknesses on both sides"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Recent performance trends of both teams",
+        "Injuries affecting key players"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "OVER",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.26,
+      "edge_percent": 26.0
+    },
+    "financial_analyst": {
+      "signal_quality": 51.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 26.0,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Knicks vs. Hornets: O/U 223.5",
+    "market_slug": "nba-nyk-cha-2026-03-26-total-223pt5",
+    "event_slug": "nba-nyk-cha-2026-03-26-total-223pt5",
+    "wallet": "0x7d47970f2153c3ce229e9258eba44a1de61e367e",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,739)",
+        "Low activity (4 txns)"
+      ],
+      "amount": 1739.0,
+      "odds": 0.5,
+      "raw_price": 0.5,
+      "outcome": "Under",
+      "potential_pnl": 1739.0,
+      "pnl_multiplier": 1.0,
+      "wallet_age_days": 0,
+      "total_activities": 4
+    },
+    "timestamp": "2026-03-26T08:10:11.377995",
+    "trade_hash": "0xdccde596c8ead45cb7361cf402277ef4d3487f04af0243f77c94fa411930e7df",
+    "trade_timestamp": 1774512427,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Under",
+      "side": "BUY",
+      "price": 0.5,
+      "effective_price": 0.5,
+      "size": 3478.0,
+      "amount": 1739.0,
+      "potential_pnl": 1739.0,
+      "pnl_multiplier": 1.0,
+      "is_no": false,
+      "slug": "nba-nyk-cha-2026-03-26-total-223pt5",
+      "eventSlug": "nba-nyk-cha-2026-03-26"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+26.0%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.24,
+      "market_price": 0.5,
+      "edge": 0.26,
+      "edge_percent": 26.0,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Both teams have high-scoring offenses",
+          "Defensive weaknesses are exploited",
+          "Game pace is fast"
+        ],
+        "weakest_link": "Defensive weaknesses are exploited"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Recent scoring trends of both teams",
+        "Injury reports affecting key players"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "UNDER",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.26,
+      "edge_percent": 26.0
+    },
+    "financial_analyst": {
+      "signal_quality": 51.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 26.0,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
   }
