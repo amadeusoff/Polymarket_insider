@@ -1,82 +1,5 @@
 [
   {
-    "market": "Will Bitcoin reach $150,000 in January?",
-    "market_slug": "will-bitcoin-reach-150k-in-january-2026",
-    "wallet": "0x1c9b34151eebcd610caa0ae1fd1ce59fd58f3964",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (99.8% odds)",
-        "Large bet ($1,278)"
-      ],
-      "amount": 1277.97892,
-      "odds": 0.998,
-      "wallet_age_days": 0,
-      "total_activities": 5
-    },
-    "timestamp": "2026-01-25T06:34:47.620383",
-    "trade_hash": "0xad3a4c7faea1497eceef6fbd67e513edde429ac6ec315b2cd22d9d2080192d3c",
-    "trade_timestamp": 1769322716,
-    "trade_data": {
-      "asset": "54504735237306435364688890375581221790556858637843718945838566750916495284821",
-      "assetId": null,
-      "tokenId": null,
-      "side": "SELL",
-      "outcome": "No",
-      "market": null,
-      "type": null,
-      "status": null,
-      "maker": null,
-      "taker": null,
-      "makerAddress": null,
-      "takerAddress": null,
-      "feeRateBps": null,
-      "price": 0.998,
-      "size": 1280.54,
-      "amount": 1277.97892
-    }
-  },
-  {
-    "market": "Will Trump nominate David Malpass as the next Fed chair?",
-    "market_slug": "will-trump-nominate-david-malpass-as-the-next-fed-chair",
-    "wallet": "0x52b1b26a1d371e0df8646ae0e5eeb11ff91e376b",
-    "analysis": {
-      "score": 95,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (99.8% odds)",
-        "Large bet ($5,108)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 5108.34284,
-      "odds": 0.998,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-01-25T06:57:55.404474",
-    "trade_hash": "0x0300836b907a41d1e5451afbd4219f78484bb935018f7676b2f8fe15db41ca01",
-    "trade_timestamp": 1769324110,
-    "trade_data": {
-      "asset": "27491041634908369209134203135375325220141360663598691072412091501664299197925",
-      "assetId": null,
-      "tokenId": null,
-      "side": "BUY",
-      "outcome": "No",
-      "market": null,
-      "type": null,
-      "status": null,
-      "maker": null,
-      "taker": null,
-      "makerAddress": null,
-      "takerAddress": null,
-      "feeRateBps": null,
-      "price": 0.998,
-      "size": 5118.58,
-      "amount": 5108.34284
-    }
-  },
-  {
     "market": "Will Tulsi Gabbard win the 2028 Republican presidential nomination?",
     "market_slug": "will-tulsi-gabbard-win-the-2028-republican-presidential-nomination",
     "wallet": "0xc74d14f0ca97dcad139a346cea4235a9d0d8ad56",
@@ -30168,5 +30091,154 @@
     "market": "EdgeX FDV above $300M one day after launch?",
     "market_slug": "edgex-fdv-above-one-day-after-launch",
     "amount": 5167.6748
+  },
+  {
+    "market": "Knicks vs. Hornets",
+    "market_slug": "nba-nyk-cha-2026",
+    "event_slug": "nba-nyk-cha-2026",
+    "wallet": "0x8718865882e085b764825b637788043c16185040",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($9,200)",
+        "Low activity (4 txns)"
+      ],
+      "amount": 9199.989998000001,
+      "odds": 0.719340481345369,
+      "raw_price": 0.719340481345369,
+      "outcome": "Hornets",
+      "potential_pnl": 3589.4890269999996,
+      "pnl_multiplier": 0.3901622749351166,
+      "wallet_age_days": 0,
+      "total_activities": 4
+    },
+    "timestamp": "2026-03-26T23:25:34.984907",
+    "trade_hash": "0xcd52c4c5024401afabdd0648cad2a7d159d922b391bc3d6d75e4376fe3d073b2",
+    "trade_timestamp": 1774567331,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Hornets",
+      "side": "BUY",
+      "price": 0.719340481345369,
+      "effective_price": 0.719340481345369,
+      "size": 12789.479025,
+      "amount": 9199.989998000001,
+      "potential_pnl": 3589.4890269999996,
+      "pnl_multiplier": 0.3901622749351166,
+      "is_no": false,
+      "slug": "nba-nyk-cha-2026",
+      "eventSlug": "nba-nyk-cha-2026-03-26"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+43.5%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.2838680962690738,
+      "market_price": 0.719340481345369,
+      "edge": 0.4354723850762952,
+      "edge_percent": 43.54723850762952,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Knicks maintain current roster health",
+          "Hornets underperform relative to expectations",
+          "Key players for Knicks exceed performance metrics"
+        ],
+        "weakest_link": "Hornets underperform relative to expectations"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Knicks' recent performance trends",
+        "Injuries or roster changes for the Hornets"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "HORNETS",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.4354723850762952,
+      "edge_percent": 43.54723850762952
+    },
+    "financial_analyst": {
+      "signal_quality": 51.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 43.55,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xed90726882e6524c411d9b8fde68c9617145e298da5d904c1db66ec038df7b43",
+    "wallet": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+    "trader": {
+      "rank": 8,
+      "address": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+      "username": "PrincessCaro",
+      "profit": 6083643.099591745,
+      "volume": 23520809.952867,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xde0463ea7f611b065e8ab06bbfbddad75e6dfa37",
+      "side": "BUY",
+      "asset": "107907338415976933532550388925205335990876677187021977689507641894936360729790",
+      "conditionId": "0xeb2456400fb4d6de5f8bf556449b86880cf4fba96291d4d1bd9158e8f62e9020",
+      "size": 2007.08,
+      "price": 0.7543716742730733,
+      "timestamp": 1774567761,
+      "title": "Texas Longhorns vs. Purdue Boilermakers",
+      "slug": "cbb-tx-pur-2026-03-26",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ncaa-c14995df96.png",
+      "eventSlug": "cbb-tx-pur-2026-03-26",
+      "outcome": "Purdue Boilermakers",
+      "outcomeIndex": 1,
+      "name": "mwenya",
+      "pseudonym": "Honest-Similarity",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xed90726882e6524c411d9b8fde68c9617145e298da5d904c1db66ec038df7b43",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Texas Longhorns vs. Purdue Boilermakers",
+    "market_slug": "cbb-tx-pur-2026-03-26",
+    "amount": 1514.0842999999998
   }
 ]
