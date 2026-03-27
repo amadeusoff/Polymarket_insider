@@ -2,84 +2,6 @@
   {
     "market": "Will the price of Bitcoin be above $96,000 on January 27?",
     "market_slug": "bitcoin-above-96k-on-january-27",
-    "wallet": "0xd30de8411c3a2b5b058effa6a4c49ac285e659ef",
-    "analysis": {
-      "score": 95,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (99.2% odds)",
-        "Large bet ($2,976)",
-        "Low activity (2 txns)"
-      ],
-      "amount": 2976.0,
-      "odds": 0.992,
-      "wallet_age_days": 0,
-      "total_activities": 2
-    },
-    "timestamp": "2026-01-25T19:31:00.291891",
-    "trade_hash": "0xec2c976ca22a3f4f94a26a61240cb001e1e5d1930173a5120485aa502603d459",
-    "trade_timestamp": 1769369296,
-    "trade_data": {
-      "asset": "92300409277859657478155505628077705192344923280130674446259666774449381093528",
-      "assetId": null,
-      "tokenId": null,
-      "side": "BUY",
-      "outcome": "No",
-      "market": null,
-      "type": null,
-      "status": null,
-      "maker": null,
-      "taker": null,
-      "makerAddress": null,
-      "takerAddress": null,
-      "feeRateBps": null,
-      "price": 0.992,
-      "size": 3000.0,
-      "amount": 2976.0
-    }
-  },
-  {
-    "market": "Will the price of Bitcoin be above $96,000 on January 27?",
-    "market_slug": "bitcoin-above-96k-on-january-27",
-    "wallet": "0x22a6108b6244196b866a2f27690d0d696ebf5f9b",
-    "analysis": {
-      "score": 95,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (99.2% odds)",
-        "Large bet ($2,976)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 2976.0,
-      "odds": 0.992,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-01-25T19:40:27.173639",
-    "trade_hash": "0x946d9509b0f8596732cfbccd26b73edf958733ccb01077b4ce94197351efc5b2",
-    "trade_timestamp": 1769369864,
-    "trade_data": {
-      "asset": "92300409277859657478155505628077705192344923280130674446259666774449381093528",
-      "assetId": null,
-      "tokenId": null,
-      "side": "BUY",
-      "outcome": "No",
-      "market": null,
-      "type": null,
-      "status": null,
-      "maker": null,
-      "taker": null,
-      "makerAddress": null,
-      "takerAddress": null,
-      "feeRateBps": null,
-      "price": 0.992,
-      "size": 3000.0,
-      "amount": 2976.0
-    }
-  },
-  {
-    "market": "Will the price of Bitcoin be above $96,000 on January 27?",
-    "market_slug": "bitcoin-above-96k-on-january-27",
     "wallet": "0x97067b9438113caa2b58437b734a451c4c354ef3",
     "analysis": {
       "score": 95,
@@ -30700,5 +30622,93 @@
     "market": "Spread: England (-1.5)",
     "market_slug": "fif-eng-ury-2026-03-27-more-markets",
     "amount": 4966.5198
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xc075f7a42e90d244e32837e23431495bc6a115917405b2b8f50c4b37f03c0a63",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xbb15969cb69d5b430d40870aabdf2a1d91820f02",
+      "side": "BUY",
+      "asset": "43163282684901309138667654714362435628489629394534958193813776385065852352937",
+      "conditionId": "0x2453ea84977e69d114f2403427d2ada219822b6e527f99545c537b466cd05a5e",
+      "size": 5714.285713,
+      "price": 0.34999999990375,
+      "timestamp": 1774631383,
+      "title": "Hawks vs. Celtics",
+      "slug": "nba-atl-bos-2026-03-27",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-atl-bos-2026-03-27",
+      "outcome": "Hawks",
+      "outcomeIndex": 0,
+      "name": "kkap8897",
+      "pseudonym": "Vital-Rice",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xc075f7a42e90d244e32837e23431495bc6a115917405b2b8f50c4b37f03c0a63",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Hawks vs. Celtics",
+    "market_slug": "nba-atl-bos-2026-03-27",
+    "amount": 1999.9999990000001
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x12158d28c2318feb218b4ec8db5486744ccc598fc0a5b44c76b13c512693dde8",
+    "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+    "trader": {
+      "rank": 19,
+      "address": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+      "username": "beachboy4",
+      "profit": 4142102.07467556,
+      "volume": 199137316.59853494,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xead152b855effa6b5b5837f53b24c0756830c76a",
+      "side": "BUY",
+      "asset": "84031203592002917334262470868576093775510312558710425317269896203693659940128",
+      "conditionId": "0x682ec1e399ff437b2e0cf7bd7e6df650916186829dfa1112f2f2e81a402ece30",
+      "size": 4465,
+      "price": 0.81,
+      "timestamp": 1774631983,
+      "title": "Alabama Crimson Tide vs. Michigan Wolverines",
+      "slug": "cbb-ala-mich-2026-03-27",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ncaa-c14995df96.png",
+      "eventSlug": "cbb-ala-mich-2026-03-27",
+      "outcome": "Michigan Wolverines",
+      "outcomeIndex": 1,
+      "name": "elkmonkey",
+      "pseudonym": "Unconscious-Penguin",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x12158d28c2318feb218b4ec8db5486744ccc598fc0a5b44c76b13c512693dde8",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Alabama Crimson Tide vs. Michigan Wolverines",
+    "market_slug": "cbb-ala-mich-2026-03-27",
+    "amount": 3616.65
   }
 ]
