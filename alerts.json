@@ -1,41 +1,5 @@
 [
   {
-    "market": "Will the Iranian regime fall by January 31?",
-    "market_slug": "will-the-iranian-regime-fall-by-january-31",
-    "wallet": "0x4b7410aefbf0f38012b0dfb1131a4de147a9e8d7",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "Extreme confidence (98.1% odds)",
-        "Large bet ($1,374)",
-        "Pre-event latency: 7212m"
-      ],
-      "amount": 1374.0590499999998,
-      "odds": 0.98147075,
-      "wallet_age_days": 232,
-      "total_activities": 100
-    },
-    "timestamp": "2026-01-25T23:52:45.249924",
-    "trade_hash": "0x839774edbd9adb20ee1c254bdd42866da2e28c594f34743e0c4c61bf0614a4bc",
-    "trade_timestamp": 1769384900,
-    "latency": {
-      "latency_seconds": 432700.0,
-      "latency_minutes": 7211.666666666667,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-01-25T23:48:20+00:00",
-      "event_time": "2026-01-31T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "SELL",
-      "price": 0.98147075,
-      "size": 1400.0,
-      "amount": 1374.0590499999998
-    }
-  },
-  {
     "market": "Will Apple be the largest company in the world by market cap on January 31?",
     "market_slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-january-31-756",
     "wallet": "0x81ef7007da744a1dd3d1afd96d82af52ba868eaa",
@@ -30823,5 +30787,49 @@
     "market": "Will Bitcoin dip to $65,000 in March?",
     "market_slug": "what-price-will-bitcoin-hit-in-march-2026",
     "amount": 5008.88937
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xb7e1e807d66a10bff5df24dfa38f7277cca6990c801bb9bed211caadc6bed504",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "trader": {
+      "rank": 12,
+      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "username": "swisstony",
+      "profit": 5598959.766941265,
+      "volume": 599513927.3644903,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x0fded0ed829a00c35dcd2d550983e92108ed8ab1",
+      "side": "BUY",
+      "asset": "12140363270813721013935821508234774830862117498614233251879688391015459761132",
+      "conditionId": "0x5b84fbae5daa65b4660a32fb55e8ee4f17cc2a51a85ce1917b92e1a681e869c4",
+      "size": 1763.06314,
+      "price": 0.95,
+      "timestamp": 1774652391,
+      "title": "Bulls vs. Thunder",
+      "slug": "nba-chi-okc-2026-03-27",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-chi-okc-2026-03-27",
+      "outcome": "Thunder",
+      "outcomeIndex": 1,
+      "name": "Telepath-One",
+      "pseudonym": "Mature-Equipment",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3347556-f46ab150-679e-4e76-ae9c-d7e7ed35fd7c.png",
+      "profileImageOptimized": "",
+      "transactionHash": "0xb7e1e807d66a10bff5df24dfa38f7277cca6990c801bb9bed211caadc6bed504",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Bulls vs. Thunder",
+    "market_slug": "nba-chi-okc-2026-03-27",
+    "amount": 1674.909983
   }
 ]
