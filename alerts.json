@@ -2,44 +2,6 @@
   {
     "market": "Will the Miami Heat win the 2026 NBA Finals?",
     "market_slug": "will-the-miami-heat-win-the-2026-nba-finals",
-    "wallet": "0xefce7670c6378c7082a0843a2a409889cbdbbfad",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (1d old)",
-        "Extreme confidence (98.5% odds)",
-        "Large bet ($4,925)"
-      ],
-      "amount": 4925.0,
-      "odds": 0.985,
-      "wallet_age_days": 1,
-      "total_activities": 17
-    },
-    "timestamp": "2026-01-25T09:54:27.159374",
-    "trade_hash": "0xd96632bbb1e17960b91723648ca4be307a17a85300e7690f9f95b7ec7584a161",
-    "trade_timestamp": 1769334738,
-    "trade_data": {
-      "asset": "15377800909339117478848654529132462257649986576758444132279677343865329475931",
-      "assetId": null,
-      "tokenId": null,
-      "side": "BUY",
-      "outcome": "No",
-      "market": null,
-      "type": null,
-      "status": null,
-      "maker": null,
-      "taker": null,
-      "makerAddress": null,
-      "takerAddress": null,
-      "feeRateBps": null,
-      "price": 0.985,
-      "size": 5000.0,
-      "amount": 4925.0
-    }
-  },
-  {
-    "market": "Will the Miami Heat win the 2026 NBA Finals?",
-    "market_slug": "will-the-miami-heat-win-the-2026-nba-finals",
     "wallet": "0x136487676c9da47686dab31244fdb30c8cec91c3",
     "analysis": {
       "score": 85,
@@ -30328,5 +30290,49 @@
     "market": "Penguins vs. Senators",
     "market_slug": "nhl-pit-ott-2026-03-26",
     "amount": 5216.960000000001
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x2c2858514b138a78fdd147a5aa2f1fcb2f04b93448ae58b0c8b47c0eb25afffc",
+    "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
+    "trader": {
+      "rank": 13,
+      "address": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
+      "username": "mikatrade77",
+      "profit": 5147998.544602999,
+      "volume": 10884765.388775,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x0071071c8df695b72fa46e47b0b806ff4e619e4d",
+      "side": "BUY",
+      "asset": "42681689509474313921994466296825751144460520075266714195393481209429064869806",
+      "conditionId": "0xa5ce8b5f517edb201d50dd020a358f8e3662097d7b406ed7ae87ea0a7bab7f1e",
+      "size": 3102.378489,
+      "price": 0.9669999997218264,
+      "timestamp": 1774573763,
+      "title": "Kings vs. Magic",
+      "slug": "nba-sac-orl-2026-03-26",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-sac-orl-2026-03-26",
+      "outcome": "Magic",
+      "outcomeIndex": 1,
+      "name": "sakee.e",
+      "pseudonym": "Previous-Altitude",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x2c2858514b138a78fdd147a5aa2f1fcb2f04b93448ae58b0c8b47c0eb25afffc",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Kings vs. Magic",
+    "market_slug": "nba-sac-orl-2026-03-26",
+    "amount": 2999.9999980000002
   }
 ]
