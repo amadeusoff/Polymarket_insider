@@ -1,41 +1,5 @@
 [
   {
-    "market": "Will the US next strike Iran on January 30, 2026 (ET)?",
-    "market_slug": "will-the-us-next-strike-iran-on-january-30-2026-et-866",
-    "wallet": "0x8575467a6743c81ef0a8d06acc76e99b454a87fe",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "Extreme confidence (96.6% odds)",
-        "Large bet ($1,050)",
-        "Pre-event latency: 5790m"
-      ],
-      "amount": 1050.042,
-      "odds": 0.966,
-      "wallet_age_days": 99,
-      "total_activities": 100
-    },
-    "timestamp": "2026-01-25T23:32:03.935813",
-    "trade_hash": "0x4dc86eb8fdc91d0ce51f4213f1d2aeb62c0353da2f9b4e100a0e51a4373dd3c4",
-    "trade_timestamp": 1769383776,
-    "latency": {
-      "latency_seconds": 347424.0,
-      "latency_minutes": 5790.4,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-01-25T23:29:36+00:00",
-      "event_time": "2026-01-30T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "BUY",
-      "price": 0.966,
-      "size": 1087.0,
-      "amount": 1050.042
-    }
-  },
-  {
     "market": "Will Canada win the 2026 FIFA World Cup?",
     "market_slug": "will-canada-win-the-2026-fifa-world-cup-755",
     "wallet": "0x50428fbff93b7236161a743ff7aaad50fd4e1b54",
@@ -30801,5 +30765,49 @@
     "market": "Will there be no change in Fed interest rates after the April 2026 meeting?",
     "market_slug": "fed-decision-in-april",
     "amount": 1928.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x29f0f90723ef5d105441703c89692c8bc117fdf3bb0f2a0a5de1d2c56cdfc0ea",
+    "wallet": "0xd0c042c08f755ff940249f62745e82d356345565",
+    "trader": {
+      "rank": 15,
+      "address": "0xd0c042c08f755ff940249f62745e82d356345565",
+      "username": "alexmulti",
+      "profit": 4804855.613376001,
+      "volume": 9949068.653841998,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x4fe7306c7d9939224f2bc6e776373336ffbb2f3c",
+      "side": "BUY",
+      "asset": "17787443776067708614603896056430546769149251046527206847526290753247018244570",
+      "conditionId": "0xc1fbe3cccad749c3a0d0a00b37239b9620e82488d004407ee546add491c58685",
+      "size": 6000,
+      "price": 0.5,
+      "timestamp": 1774646987,
+      "title": "Spread: Iowa State Cyclones (-3.5)",
+      "slug": "cbb-tenn-iowast-2026-03-27-spread-home-3pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ncaa-c14995df96.png",
+      "eventSlug": "cbb-tenn-iowast-2026-03-27",
+      "outcome": "Tennessee Volunteers",
+      "outcomeIndex": 1,
+      "name": "estebanxoxooo",
+      "pseudonym": "Mixed-Consistency",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x29f0f90723ef5d105441703c89692c8bc117fdf3bb0f2a0a5de1d2c56cdfc0ea",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spread: Iowa State Cyclones (-3.5)",
+    "market_slug": "cbb-tenn-iowast-2026-03-27",
+    "amount": 3000.0
   }
 ]
