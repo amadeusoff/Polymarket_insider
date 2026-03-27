@@ -1,35 +1,5 @@
 [
   {
-    "market": "Will Canada win the 2026 FIFA World Cup?",
-    "market_slug": "will-canada-win-the-2026-fifa-world-cup-755",
-    "wallet": "0x50428fbff93b7236161a743ff7aaad50fd4e1b54",
-    "analysis": {
-      "score": 95,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (99.7% odds)",
-        "Large bet ($2,358)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 2357.809952,
-      "odds": 0.9969999999991543,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-01-25T23:32:04.808079",
-    "trade_hash": "0x2de4f16b1069f6d418f445323592ccab3b8f8ded4b878ca5f57361c6e6b70fa0",
-    "trade_timestamp": 1769383776,
-    "latency": null,
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "BUY",
-      "price": 0.9969999999991543,
-      "size": 2364.904666,
-      "amount": 2357.809952
-    }
-  },
-  {
     "market": "Will the Iranian regime fall by January 31?",
     "market_slug": "will-the-iranian-regime-fall-by-january-31",
     "wallet": "0x4b7410aefbf0f38012b0dfb1131a4de147a9e8d7",
@@ -30809,5 +30779,49 @@
     "market": "Spread: Iowa State Cyclones (-3.5)",
     "market_slug": "cbb-tenn-iowast-2026-03-27",
     "amount": 3000.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xcb9f146ff985e71f0c01cc59bdf912278e99efb5585e322431aafcf856cdb159",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x716d9e45e96fea7715387c8240a2b43e32a64206",
+      "side": "SELL",
+      "asset": "112493481455469093769281852159558847572704253342416714876781522096078968514094",
+      "conditionId": "0x36912c9832f0fd104d734b579fb9b3a1b31bbdc946a67356723407e3bdc96dbc",
+      "size": 7130.21,
+      "price": 0.7024883376506442,
+      "timestamp": 1774648189,
+      "title": "Will Bitcoin dip to $65,000 in March?",
+      "slug": "will-bitcoin-dip-to-65k-in-march-2026",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "eventSlug": "what-price-will-bitcoin-hit-in-march-2026",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "0x716D9E45E96FeA7715387C8240a2b43e32a64206-1766378794699",
+      "pseudonym": "Ready-Duckling",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xcb9f146ff985e71f0c01cc59bdf912278e99efb5585e322431aafcf856cdb159",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Bitcoin dip to $65,000 in March?",
+    "market_slug": "what-price-will-bitcoin-hit-in-march-2026",
+    "amount": 5008.88937
   }
 ]
