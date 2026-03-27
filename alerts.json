@@ -1,81 +1,5 @@
 [
   {
-    "market": "Newcastle United FC vs. Aston Villa FC: O/U 1.5",
-    "market_slug": "epl-new-ast-2026-01-25-total-1pt5",
-    "wallet": "0x012a64e1e9447bf3fb4ee701a154bcec23cec01d",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (99.6% odds)",
-        "Large bet ($1,685)"
-      ],
-      "amount": 1684.9179299999998,
-      "odds": 0.9956790329919691,
-      "wallet_age_days": 0,
-      "total_activities": 17
-    },
-    "timestamp": "2026-01-25T15:52:00.151900",
-    "trade_hash": "0x11f675e3e8a7b296e1428617af9e5a24d4f98e3dea4afd12756d06cfcc1f3c87",
-    "trade_timestamp": 1769356200,
-    "trade_data": {
-      "asset": "61890848427932045443943054239853262713341865848254924176722026601055656314825",
-      "assetId": null,
-      "tokenId": null,
-      "side": "SELL",
-      "outcome": "Over",
-      "market": null,
-      "type": null,
-      "status": null,
-      "maker": null,
-      "taker": null,
-      "makerAddress": null,
-      "takerAddress": null,
-      "feeRateBps": null,
-      "price": 0.9956790329919691,
-      "size": 1692.23,
-      "amount": 1684.9179299999998
-    }
-  },
-  {
-    "market": "LoL: SK Gaming vs Natus Vincere (BO1) - LEC Versus Regular Season",
-    "market_slug": "lol-sk-navi-2026-01-25",
-    "wallet": "0x2057b969b5921f9c76b7734db10844c2c61014ea",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (99.9% odds)",
-        "Large bet ($1,473)"
-      ],
-      "amount": 1472.99553,
-      "odds": 0.999,
-      "wallet_age_days": 0,
-      "total_activities": 23
-    },
-    "timestamp": "2026-01-25T17:32:44.002062",
-    "trade_hash": "0x4790c0b66704e427c127dda82f861f3ed224ad83c0fef545fafdb5c75822f5a0",
-    "trade_timestamp": 1769362294,
-    "trade_data": {
-      "asset": "59068222778627454092830481220798935972330502762228145726877654464611282299226",
-      "assetId": null,
-      "tokenId": null,
-      "side": "SELL",
-      "outcome": "Natus Vincere",
-      "market": null,
-      "type": null,
-      "status": null,
-      "maker": null,
-      "taker": null,
-      "makerAddress": null,
-      "takerAddress": null,
-      "feeRateBps": null,
-      "price": 0.999,
-      "size": 1474.47,
-      "amount": 1472.99553
-    }
-  },
-  {
     "market": "LoL: Team Heretics vs Los Ratones (BO1) - LEC Versus Regular Season",
     "market_slug": "lol-th-lr-2026-01-25",
     "wallet": "0x6d61747b794daa284141760e0fa2436c043b1938",
@@ -30545,5 +30469,156 @@
     "market": "Will Gold (GC) hit (LOW) $4,200 by end of June?",
     "market_slug": "gc-hit-jun-2026",
     "amount": 1571.8476999999998
+  },
+  {
+    "market": "Wizards vs. Warriors: O/U 232.5",
+    "market_slug": "nba-was-gsw-2026-03-27-total-232pt5",
+    "event_slug": "nba-was-gsw-2026-03-27-total-232pt5",
+    "wallet": "0x9021b6258bf128be8d82f8de94254dfe73d73a8c",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,324)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 1324.5,
+      "odds": 0.5,
+      "raw_price": 0.5,
+      "outcome": "Under",
+      "potential_pnl": 1324.5,
+      "pnl_multiplier": 1.0,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-03-27T14:40:50.197220",
+    "trade_hash": "0xd5a0df5b9ae4988c7607111fdaf4d9cb47029fafeb855adb0a180129e2849083",
+    "trade_timestamp": 1774622045,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Under",
+      "side": "BUY",
+      "price": 0.5,
+      "effective_price": 0.5,
+      "size": 2649.0,
+      "amount": 1324.5,
+      "potential_pnl": 1324.5,
+      "pnl_multiplier": 1.0,
+      "is_no": false,
+      "slug": "nba-was-gsw-2026-03-27-total-232pt5",
+      "eventSlug": "nba-was-gsw-2026-03-27"
+    },
+    "irrationality": {
+      "irrationality_score": 50,
+      "flags": [
+        "Category structurally prone to longshot bias",
+        "Crisis keyword detected ('war')",
+        "Large mispricing edge (+26.0%)"
+      ],
+      "category": "geopolitics",
+      "category_info": {
+        "strength": "high",
+        "typical_overpricing": 0.05,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.24,
+      "market_price": 0.5,
+      "edge": 0.26,
+      "edge_percent": 26.0,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Both teams maintain high offensive efficiency",
+          "Defensive strategies are ineffective against opposing offenses",
+          "Game pace is fast, leading to more possessions"
+        ],
+        "weakest_link": "Defensive strategies are ineffective against opposing offenses"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Recent performance trends of both teams",
+        "Injury status of key players affecting scoring"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "UNDER",
+      "irrationality_score": 50,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.26,
+      "edge_percent": 26.0
+    },
+    "financial_analyst": {
+      "signal_quality": 54.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 26.0,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x9cae858b0f64c60b8082f64c8713bf6aa01746d2df8784f88df48e64250d91e6",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xb52b849135585ae55b92ce73b5deef788c3cb156",
+      "side": "BUY",
+      "asset": "80383678135037239311459666802134189802324733185374863640719100597518783329882",
+      "conditionId": "0x32f47d4b8159503195e670215bc7231e4062b7f3dcbb61075b0e5648d308fcd6",
+      "size": 2355.16,
+      "price": 0.32995005434874913,
+      "timestamp": 1774622379,
+      "title": "Will Cear\u00e1 SC vs. Vila Nova FC end in a draw?",
+      "slug": "bra2-csc-vln-2026-04-01-draw",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "bra2-csc-vln-2026-04-01",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "drinbet",
+      "pseudonym": "Medical-Deployment",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x9cae858b0f64c60b8082f64c8713bf6aa01746d2df8784f88df48e64250d91e6",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Cear\u00e1 SC vs. Vila Nova FC end in a draw?",
+    "market_slug": "bra2-csc-vln-2026-04-01",
+    "amount": 1578.0748299999998
   }
 ]
