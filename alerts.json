@@ -1,35 +1,5 @@
 [
   {
-    "market": "Will Ethereum reach $6,000 in January?",
-    "market_slug": "will-ethereum-reach-6000-in-january-2026",
-    "wallet": "0x717d039b940d96dc8b3b962a91e2051d90a2476c",
-    "analysis": {
-      "score": 95,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (99.8% odds)",
-        "Large bet ($4,001)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 4000.982,
-      "odds": 0.998,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-01-26T05:50:34.764577",
-    "trade_hash": "0x8dffc9c08e24e37cc7360538c0df281688b0492d420673869235c26efc406cf7",
-    "trade_timestamp": 1769406358,
-    "latency": null,
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "BUY",
-      "price": 0.998,
-      "size": 4009.0,
-      "amount": 4000.982
-    }
-  },
-  {
     "market": "Will Jim Harbaugh be fired by February 28?",
     "market_slug": "will-jim-harbaugh-be-fired-by-february-28",
     "wallet": "0x6f022ea4008541006c56fb166a1649fa38156607",
@@ -30871,5 +30841,49 @@
     "market": "Spread: Spurs (-19.5)",
     "market_slug": "nba-sas-mil-2026-03-28",
     "amount": 2622.9700000000003
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x3d523798ea937343367f41c482d8b4ca6e06b3bb1857c69377084f7b5360dc41",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xc2647bc6db13887aede7cc9c69c6262910f6fbe8",
+      "side": "BUY",
+      "asset": "29950489035650776944637857495608923659285559520543605944359984119443817993935",
+      "conditionId": "0x9259cfbeb7ac18ea27b792052ec228e8880e03c6e450f688684a84c4f749b75d",
+      "size": 3945.55,
+      "price": 0.95,
+      "timestamp": 1774695005,
+      "title": "Spurs vs. Bucks",
+      "slug": "nba-sas-mil-2026-03-28",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-sas-mil-2026-03-28",
+      "outcome": "Spurs",
+      "outcomeIndex": 0,
+      "name": "sadasd231dsa",
+      "pseudonym": "Arid-Knife",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x3d523798ea937343367f41c482d8b4ca6e06b3bb1857c69377084f7b5360dc41",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spurs vs. Bucks",
+    "market_slug": "nba-sas-mil-2026-03-28",
+    "amount": 3748.2725
   }
 ]
