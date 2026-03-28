@@ -573,13 +573,29 @@ def format_institutional_alert(alert):
     signal_type = combined.get('signal_type', 'INSIDER_ONLY')
     edge_percent = float(mispricing.get('edge_percent', 0))
     
+    # Determine outcome display names for non-binary markets
+    outcome_name = trade_data.get('outcome', 'Yes')
+    outcome_lower = str(outcome_name).lower()
+    is_binary = outcome_lower in ('yes', 'no')
+    
+    # For O/U: show "Over/Under" instead of "YES/NO"
+    # For sports: show team names
+    if is_binary:
+        side_a, side_b = "YES", "NO"
+    elif outcome_lower in ('over', 'under'):
+        side_a, side_b = "Over", "Under"
+    else:
+        # Sports: first outcome = side_a (YES equiv), second = side_b
+        side_a = outcome_name if trade_data.get('outcomeIndex', 0) == 0 else "Opponent"
+        side_b = outcome_name if trade_data.get('outcomeIndex', 0) == 1 else "Opponent"
+    
     # Determine which side stats favor
     if edge_percent > 0:
         ev_direction = "NO"
-        edge_note = f"YES overpriced +{edge_percent:.1f}% → FAVORS NO"
+        edge_note = f"{side_a} overpriced +{edge_percent:.1f}% → FAVORS {side_b}"
     elif edge_percent < 0:
         ev_direction = "YES"
-        edge_note = f"NO overpriced {edge_percent:.1f}% → FAVORS YES"
+        edge_note = f"{side_b} overpriced {edge_percent:.1f}% → FAVORS {side_a}"
     else:
         ev_direction = None
         edge_note = "No clear edge detected"
@@ -589,7 +605,7 @@ def format_institutional_alert(alert):
 
 MARKET SIGNAL
 {market}
-Odds: YES {yes_price*100:.0f}% | NO {no_price*100:.0f}%
+Odds: {side_a} {yes_price*100:.0f}% | {side_b} {no_price*100:.0f}%
 Edge: {edge_note}"""
     
     # === Insider Move ===
@@ -625,32 +641,31 @@ Bet: ${amount:,.0f} {trade_info['position']}"""
     quality = fa.get('signal_quality', 0)
     
     # Determine position side for conflict detection
-    # For binary: YES/NO. For sports: use outcomeIndex (0=first option, 1=second option)
-    position_str = trade_info['position']
-    outcome_index = trade_data.get('outcomeIndex', 0)
-    
-    if 'YES' in position_str.upper():
-        position_side = 'YES'
-    elif 'NO' in position_str.upper():
-        position_side = 'NO'
-    else:
-        # Sports market - map outcomeIndex to YES/NO for conflict logic
-        # outcomeIndex 0 = first option (treated as YES equivalent)
-        # outcomeIndex 1 = second option (treated as NO equivalent)
-        position_side = 'YES' if outcome_index == 0 else 'NO'
+    # Use normalized_position from detector (handles Over/Under/team names correctly)
+    position_side = trade_data.get('normalized_position', combined.get('insider_position', 'YES'))
+    # Fallback: parse from display string if normalized_position not available
+    if not position_side or position_side not in ('YES', 'NO'):
+        position_str = trade_info['position']
+        outcome_index = trade_data.get('outcomeIndex', 0)
+        if 'YES' in position_str.upper():
+            position_side = 'YES'
+        elif 'NO' in position_str.upper():
+            position_side = 'NO'
+        else:
+            position_side = 'YES' if outcome_index == 0 else 'NO'
     
     has_conflict = ev_direction and position_side != ev_direction
     
     # Get display name for verdict (team name for sports, YES/NO for binary)
-    position_display_name = position_str.split(' @')[0] if ' @' in position_str else position_side
+    display_position = trade_info['position']
+    position_display_name = display_position.split(' @')[0] if ' @' in display_position else str(outcome_name)
+    
+    # Show which side model favors in human terms
+    model_favors_display = side_b if ev_direction == "NO" else side_a
     
     if has_conflict:
         verdict = "⚠️ MODEL CONFLICT"
-        # For sports, show team name in conflict note
-        if not is_binary_market(position_str):
-            verdict_note = f"Insider bets {position_display_name}, odds suggest otherwise"
-        else:
-            verdict_note = f"Whale bets {position_side}, math says {ev_direction}"
+        verdict_note = f"Insider bets {position_display_name}, model favors {model_favors_display}"
     elif stance == "HIGH_CONVICTION":
         verdict = "🟢 ACTION"
         verdict_note = f"Strong signal on {position_display_name}"

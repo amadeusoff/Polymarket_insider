@@ -257,12 +257,25 @@ def detect_insider_trades():
                         # IRRATIONALITY ANALYSIS (Methodology v2)
                         # ══════════════════════════════════════════
                         
+                        # Normalize position to YES/NO for combined signal logic
+                        # Over/first-outcome = YES equivalent
+                        # Under/second-outcome = NO equivalent
+                        outcome_lower = (outcome or "Yes").lower()
+                        if outcome_lower in ("yes", "over"):
+                            normalized_position = "YES"
+                        elif outcome_lower in ("no", "under"):
+                            normalized_position = "NO"
+                        else:
+                            # Team/player names: use outcomeIndex (0=YES, 1=NO)
+                            outcome_index = trade.get("outcomeIndex", 0)
+                            normalized_position = "NO" if outcome_index == 1 else "YES"
+                        
                         irrationality_analysis = analyze_market_irrationality(
                             market_question=market.get("question", ""),
                             yes_price=price,  # raw YES price
                             end_date=market.get("endDate"),
                             insider_score=analysis['score'],
-                            insider_position=outcome
+                            insider_position=normalized_position
                         )
                         
                         combined_signal = irrationality_analysis['combined_signal']
@@ -310,6 +323,8 @@ def detect_insider_trades():
                             # ══════════════════════════════════════════
                             "trade_data": {
                                 "outcome": outcome,
+                                "outcomeIndex": trade.get("outcomeIndex", 0),
+                                "normalized_position": normalized_position,
                                 "side": trade.get("side"),
                                 "price": econ.raw_price,
                                 "effective_price": econ.effective_odds,
