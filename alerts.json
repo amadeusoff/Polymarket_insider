@@ -1,41 +1,5 @@
 [
   {
-    "market": "Will MrBeast hit 464 Million subscribers by January 31?",
-    "market_slug": "will-mrbeast-hit-464-million-subscribers-by-january-31",
-    "wallet": "0x128cd861e622eb5951c55b730ec60115a46bad12",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "Extreme confidence (99.7% odds)",
-        "Large bet ($4,844)",
-        "Pre-event latency: 6486m"
-      ],
-      "amount": 4844.423,
-      "odds": 0.997,
-      "wallet_age_days": 97,
-      "total_activities": 100
-    },
-    "timestamp": "2026-01-26T11:56:07.632817",
-    "trade_hash": "0x4817d9ea6188bf8ae608da3061a64ed85b5cb0370098ba3e476f52e7c9d59d1f",
-    "trade_timestamp": 1769428447,
-    "latency": {
-      "latency_seconds": 389153.0,
-      "latency_minutes": 6485.883333333333,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-01-26T11:54:07+00:00",
-      "event_time": "2026-01-31T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "side": "BUY",
-      "price": 0.997,
-      "size": 4859.0,
-      "amount": 4844.423
-    }
-  },
-  {
     "market": "Will the Chicago Bulls win the 2026 NBA Finals?",
     "market_slug": "will-the-chicago-bulls-win-the-2026-nba-finals",
     "wallet": "0xee5260b291c6aba3d3fb4dd00a0a2317e2e8a795",
@@ -31286,5 +31250,49 @@
     "market": "Minnesota Twins vs. Baltimore Orioles: O/U 7.5",
     "market_slug": "mlb-min-bal-2026-03-28",
     "amount": 2718.8668000000002
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xa011d30f264bfc59430fb48feb35b6321d4d2f2724b9fd7e3e9dbfdd81cedd00",
+    "wallet": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
+    "trader": {
+      "rank": 4,
+      "address": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
+      "username": "Len9311238",
+      "profit": 8709972.988069998,
+      "volume": 16402744.764627,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xb4b0a3146e00b8058e6aa157ed1ec9c2dafd2dbf",
+      "side": "BUY",
+      "asset": "104541240974841983035828519351497425800987761775196913338910951667428089233967",
+      "conditionId": "0xe5c04e52c0b77dc45e3f005cc930ef0bf7e07ff2a5b9a73e3d41f640ddbe48de",
+      "size": 2503.650908,
+      "price": 0.19970835287073496,
+      "timestamp": 1774731110,
+      "title": "Over $10M committed to the P2P Protocol public sale?",
+      "slug": "over-10m-committed-to-the-p2p-protocol-public-sale-675-612-397",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-the-metadao-proposal-to-engage-in-a-6m-otc-deal-with-dba-and-variant-pass-BANaFgVoXCFN.jpg",
+      "eventSlug": "total-commitments-for-the-p2p-protocol-public-sale-on-metadao",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "eewfwewf",
+      "pseudonym": "Low-Catamaran",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xa011d30f264bfc59430fb48feb35b6321d4d2f2724b9fd7e3e9dbfdd81cedd00",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Over $10M committed to the P2P Protocol public sale?",
+    "market_slug": "total-commitments-for-the-p2p-protocol-public-sale-on-metadao",
+    "amount": 2003.650909
   }
 ]
