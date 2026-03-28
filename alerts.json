@@ -1,34 +1,5 @@
 [
   {
-    "market": "Will the Chicago Bulls win the 2026 NBA Finals?",
-    "market_slug": "will-the-chicago-bulls-win-the-2026-nba-finals",
-    "wallet": "0xee5260b291c6aba3d3fb4dd00a0a2317e2e8a795",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (99.6% odds)",
-        "Large bet ($1,817)"
-      ],
-      "amount": 1816.704,
-      "odds": 0.996,
-      "wallet_age_days": 0,
-      "total_activities": 5
-    },
-    "timestamp": "2026-01-26T14:18:06.538735",
-    "trade_hash": "0x0c6186d77c02feb8849a676f693cdee62f70eb834ff98e67562f1a268e8b7959",
-    "trade_timestamp": 1769436993,
-    "latency": null,
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "SELL",
-      "price": 0.996,
-      "size": 1824.0,
-      "amount": 1816.704
-    }
-  },
-  {
     "market": "Will Newcastle win the 2025\u201326 English Premier League?",
     "market_slug": "will-newcastle-win-the-202526-english-premier-league",
     "wallet": "0xe08c670a0bfddcb705dc480d2970829ac58b1e8b",
@@ -31294,5 +31265,49 @@
     "market": "Over $10M committed to the P2P Protocol public sale?",
     "market_slug": "total-commitments-for-the-p2p-protocol-public-sale-on-metadao",
     "amount": 2003.650909
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x0e1a18633a8890449904c069b02985231361de4552c7db7e0b0092aa285f23f3",
+    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
+    "trader": {
+      "rank": 18,
+      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
+      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
+      "profit": 4551452.646487839,
+      "volume": 60068570.02364801,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x62fbdbaf7ac6d5b30584959cf37295c75d2cb277",
+      "side": "BUY",
+      "asset": "49164064820177403051176734322968533773346472121558748796183619121394153010608",
+      "conditionId": "0x17dafc4d9c1128c17f936e35f6772d02c0eb2f637b883b95f8dc891740d2d6cc",
+      "size": 5418.27,
+      "price": 0.46,
+      "timestamp": 1774733212,
+      "title": "Pistons vs. Timberwolves",
+      "slug": "nba-det-min-2026-03-28",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-det-min-2026-03-28",
+      "outcome": "Timberwolves",
+      "outcomeIndex": 1,
+      "name": "mrmastermind",
+      "pseudonym": "Polished-Cleft",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x0e1a18633a8890449904c069b02985231361de4552c7db7e0b0092aa285f23f3",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Pistons vs. Timberwolves",
+    "market_slug": "nba-det-min-2026-03-28",
+    "amount": 2925.8658000000005
   }
 ]
