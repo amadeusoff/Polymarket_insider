@@ -34,9 +34,8 @@ def send_heartbeat(stats: Dict) -> None:
         elapsed = stats.get("elapsed_seconds", 0)
         errors = stats.get("errors", 0)
 
-        # Only send detailed heartbeat if something happened or there were errors
-        if insider_sent == 0 and top_sent == 0 and errors == 0:
-            # Silent cycle — no need to spam
+        # Only send heartbeat on errors — successful alerts already notify the chat
+        if errors == 0:
             return
 
         status = "⚠️" if errors > 0 else "✅"
