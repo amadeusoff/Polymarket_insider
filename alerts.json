@@ -1,41 +1,5 @@
 [
   {
-    "market": "Will the Supreme Court rule on Trump's tarriffs by January 31?",
-    "market_slug": "will-the-supreme-court-rule-on-trumps-tarriffs-by-january-31",
-    "wallet": "0xe5782839ed36a39e81a4ae7517552bc7c2479bc8",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "Extreme confidence (98.7% odds)",
-        "Large bet ($1,336)",
-        "Pre-event latency: 6920m"
-      ],
-      "amount": 1336.19153,
-      "odds": 0.9867309106752525,
-      "wallet_age_days": 101,
-      "total_activities": 100
-    },
-    "timestamp": "2026-01-26T04:42:50.580374",
-    "trade_hash": "0x005f57635280d47d62cb48aa4e5a5d96f7a76d52983508fa829da3bcd0213855",
-    "trade_timestamp": 1769402426,
-    "latency": {
-      "latency_seconds": 415174.0,
-      "latency_minutes": 6919.566666666667,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-01-26T04:40:26+00:00",
-      "event_time": "2026-01-31T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "SELL",
-      "price": 0.9867309106752525,
-      "size": 1354.16,
-      "amount": 1336.19153
-    }
-  },
-  {
     "market": "Will Ethereum reach $6,000 in January?",
     "market_slug": "will-ethereum-reach-6000-in-january-2026",
     "wallet": "0x717d039b940d96dc8b3b962a91e2051d90a2476c",
@@ -30863,5 +30827,49 @@
     "market": "Bitcoin Up or Down on March 28?",
     "market_slug": "bitcoin-up-or-down-on-march-28-2026",
     "amount": 1629.1690999999998
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x656185323ae91ea62bedf722c60cc35949349c09bbf8736fe1a7fce4163aa644",
+    "wallet": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
+    "trader": {
+      "rank": 4,
+      "address": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
+      "username": "Len9311238",
+      "profit": 8709972.988069998,
+      "volume": 16402744.764626998,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xc2faed5b54219199713e18cc20d59752603d1217",
+      "side": "BUY",
+      "asset": "90854034464391541010766258546740793932292078284306768851778388546538417975321",
+      "conditionId": "0x0d7b4fb6f799384c3ba3250c2a2327b97e1143ff8e4b2c6af293e26c5d2730d8",
+      "size": 4949,
+      "price": 0.53,
+      "timestamp": 1774679997,
+      "title": "Spread: Spurs (-19.5)",
+      "slug": "nba-sas-mil-2026-03-28-spread-away-19pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-sas-mil-2026-03-28",
+      "outcome": "Bucks",
+      "outcomeIndex": 1,
+      "name": "CBNVFHGK",
+      "pseudonym": "Clear-Ink",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x656185323ae91ea62bedf722c60cc35949349c09bbf8736fe1a7fce4163aa644",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spread: Spurs (-19.5)",
+    "market_slug": "nba-sas-mil-2026-03-28",
+    "amount": 2622.9700000000003
   }
 ]
