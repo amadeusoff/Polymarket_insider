@@ -24,9 +24,16 @@ def extract_market_subject(market_title: str) -> Optional[str]:
     - "Will Trump win the election?" → "Trump"
     - "Will Bitcoin reach $100K?" → "Bitcoin reach $100K"
     - "Lakers vs Celtics" → None (not a Will X? format)
+    - "Will there be no change in Fed rates?" → None (filler word)
     """
     if not market_title:
         return None
+    
+    # Filler words that aren't useful as subjects
+    FILLER_SUBJECTS = {
+        'there', 'it', 'this', 'that', 'the', 'a', 'an', 'any',
+        'someone', 'anyone', 'everybody', 'nobody',
+    }
     
     # Pattern: "Will X win/happen/reach/etc?"
     patterns = [
@@ -45,8 +52,17 @@ def extract_market_subject(market_title: str) -> Optional[str]:
             # Clean up trailing words like "on 2026-03-22"
             subject = re.sub(r'\s+on\s+\d{4}-\d{2}-\d{2}.*$', '', subject)
             subject = re.sub(r'\s+in\s+\d{4}.*$', '', subject)
-            if subject:
-                return subject
+            
+            if not subject:
+                continue
+            # Reject filler words (exact or leading)
+            first_word = subject.split()[0].lower() if subject.split() else ''
+            if subject.lower() in FILLER_SUBJECTS or first_word in FILLER_SUBJECTS:
+                continue
+            # Cap length — long subjects make UI unreadable
+            if len(subject) > 35:
+                continue
+            return subject
     
     return None
 

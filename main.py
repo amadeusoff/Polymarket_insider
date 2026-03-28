@@ -294,10 +294,16 @@ def scan_top_traders(tracked_hashes: set) -> List[Dict]:
                 if 'up or down' in title_lower:
                     continue
                 
-                # Skip short-term price prediction markets
-                crypto_kw = ['bitcoin', 'ethereum', 'solana', 'btc', 'eth', 'price']
-                price_kw = ['above', 'below', 'less than', 'more than']
+                # Skip crypto price prediction markets
+                crypto_kw = ['bitcoin', 'ethereum', 'solana', 'btc', 'eth', 'crypto']
+                price_kw = ['above', 'below', 'less than', 'more than', 'price',
+                            'dip to', 'hit', 'drop to', 'fall to', 'rise to',
+                            'reach', 'crash']
                 if any(k in title_lower for k in crypto_kw) and any(k in title_lower for k in price_kw):
+                    continue
+                
+                # Skip low ROI trades (>93% odds = <7.5% max return, not actionable)
+                if econ.effective_odds >= 0.93:
                     continue
                 market_slug = trade.get('eventSlug', '') or trade.get('slug', '') or trade.get('market', {}).get('slug', '')
                 
