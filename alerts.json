@@ -1,41 +1,5 @@
 [
   {
-    "market": "Will Apple be the largest company in the world by market cap on January 31?",
-    "market_slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-january-31-756",
-    "wallet": "0xed0611d23623e8ed2821159a2ddb4e29e6c2c8c1",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "Extreme confidence (99.8% odds)",
-        "Large bet ($1,111)",
-        "Pre-event latency: 6987m"
-      ],
-      "amount": 1110.68418,
-      "odds": 0.998,
-      "wallet_age_days": 34,
-      "total_activities": 100
-    },
-    "timestamp": "2026-01-26T03:35:18.660992",
-    "trade_hash": "0x0bd87df4b3b5939d71fc5e65eac9ca2922352debb40eab013ca3853d7a752efa",
-    "trade_timestamp": 1769398356,
-    "latency": {
-      "latency_seconds": 419244.0,
-      "latency_minutes": 6987.4,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-01-26T03:32:36+00:00",
-      "event_time": "2026-01-31T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "SELL",
-      "price": 0.998,
-      "size": 1112.91,
-      "amount": 1110.68418
-    }
-  },
-  {
     "market": "Will the Supreme Court rule on Trump's tarriffs by January 31?",
     "market_slug": "will-the-supreme-court-rule-on-trumps-tarriffs-by-january-31",
     "wallet": "0xe5782839ed36a39e81a4ae7517552bc7c2479bc8",
@@ -30855,5 +30819,49 @@
     "market": "Bulls vs. Thunder",
     "market_slug": "nba-chi-okc-2026-03-27",
     "amount": 3603.929994
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xa23fba2b56b1117dbc86e19fd96a083b423df2a316704bec0cd0a52b7a77a6fb",
+    "wallet": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
+    "trader": {
+      "rank": 2,
+      "address": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
+      "username": "Fredi9999",
+      "profit": 16619506.631730152,
+      "volume": 76611316.90515402,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xde17f7144fbd0eddb2679132c10ff5e74b120988",
+      "side": "BUY",
+      "asset": "22209024300745847508417343126312124060740884994461270403670085540458878059143",
+      "conditionId": "0x9d7ed4bebb29bf3ce7e5216fcc57bff467f3ec6593ad1e086c071879b92a4314",
+      "size": 2295.21,
+      "price": 0.7098126533084118,
+      "timestamp": 1774676699,
+      "title": "Bitcoin Up or Down on March 28?",
+      "slug": "bitcoin-up-or-down-on-march-28-2026",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "eventSlug": "bitcoin-up-or-down-on-march-28-2026",
+      "outcome": "Up",
+      "outcomeIndex": 0,
+      "name": "0xdE17f7144fbD0eddb2679132C10ff5e74B120988-1772205225932",
+      "pseudonym": "Attentive-Silica",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xa23fba2b56b1117dbc86e19fd96a083b423df2a316704bec0cd0a52b7a77a6fb",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Bitcoin Up or Down on March 28?",
+    "market_slug": "bitcoin-up-or-down-on-march-28-2026",
+    "amount": 1629.1690999999998
   }
 ]
