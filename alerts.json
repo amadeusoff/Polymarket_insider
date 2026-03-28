@@ -1,42 +1,5 @@
 [
   {
-    "market": "Venezuela election scheduled by January 31, 2026?",
-    "market_slug": "venezuela-election-scheduled-by-january-31-2026",
-    "wallet": "0xdb6f1694b47e14c54a39881e9808e6c41c884ce8",
-    "analysis": {
-      "score": 95,
-      "flags": [
-        "Extreme confidence (99.2% odds)",
-        "Large bet ($4,240)",
-        "Low activity (3 txns)",
-        "Pre-event latency: 6301m"
-      ],
-      "amount": 4239.849998,
-      "odds": 0.9917611718640562,
-      "wallet_age_days": 35,
-      "total_activities": 3
-    },
-    "timestamp": "2026-01-26T15:03:48.983146",
-    "trade_hash": "0x7d8b557be8cbb7b88953962b3b8ce6b9dd18046078bbc7f235e1a39eecf45a1b",
-    "trade_timestamp": 1769439559,
-    "latency": {
-      "latency_seconds": 378041.0,
-      "latency_minutes": 6300.683333333333,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-01-26T14:59:19+00:00",
-      "event_time": "2026-01-31T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "BUY",
-      "price": 0.9917611718640562,
-      "size": 4275.071578,
-      "amount": 4239.849998
-    }
-  },
-  {
     "market": "Will Celta Vigo win the 2025\u201326 La Liga?",
     "market_slug": "will-celta-vigo-win-the-202526-la-liga",
     "wallet": "0xe99b044014bcc8f5d251a6be56c705b33c47b753",
@@ -31331,5 +31294,49 @@
     "market": "Spread: Hornets (-6.5)",
     "market_slug": "nba-phi-cha-2026-03-28",
     "amount": 2501.0843
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xa1d7279a0a08afbaf175509935591d36fa29dbde89ff74ae77853d3a2370bf33",
+    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+    "trader": {
+      "rank": 12,
+      "address": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+      "username": "BetTom42",
+      "profit": 5642135.735356,
+      "volume": 11212839.523403,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+      "side": "BUY",
+      "asset": "95411093744734370915792410998151956108686985086137534199369379281549794538611",
+      "conditionId": "0x17dafc4d9c1128c17f936e35f6772d02c0eb2f637b883b95f8dc891740d2d6cc",
+      "size": 2510,
+      "price": 0.66,
+      "timestamp": 1774737414,
+      "title": "Pistons vs. Timberwolves",
+      "slug": "nba-det-min-2026-03-28",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-det-min-2026-03-28",
+      "outcome": "Pistons",
+      "outcomeIndex": 0,
+      "name": "RN1",
+      "pseudonym": "Scary-Edible",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-1567750-84001aec-310a-470f-9584-67dfcaa61267.png",
+      "profileImageOptimized": "",
+      "transactionHash": "0xa1d7279a0a08afbaf175509935591d36fa29dbde89ff74ae77853d3a2370bf33",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Pistons vs. Timberwolves",
+    "market_slug": "nba-det-min-2026-03-28",
+    "amount": 1656.6000000000001
   }
 ]
