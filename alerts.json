@@ -1,35 +1,5 @@
 [
   {
-    "market": "Will Sevilla win the 2025\u201326 La Liga?",
-    "market_slug": "will-sevilla-win-the-202526-la-liga",
-    "wallet": "0x58bc17c46d2db492a0802d4820805c712207fb4d",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (1d old)",
-        "Extreme confidence (99.9% odds)",
-        "Large bet ($2,425)"
-      ],
-      "amount": 2424.999573,
-      "odds": 0.999,
-      "wallet_age_days": 1,
-      "total_activities": 7
-    },
-    "timestamp": "2026-01-26T16:57:36.817089",
-    "trade_hash": "0x7962352ce73b504d1d3d3afcb30fe75d3340c163ccca49756fae5615011ac6a1",
-    "trade_timestamp": 1769446511,
-    "latency": null,
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "BUY",
-      "price": 0.999,
-      "size": 2427.427,
-      "amount": 2424.999573
-    },
-    "resolution_last_check": "2026-03-29T06:54:09.051796+00:00"
-  },
-  {
     "market": "Khamenei out as Supreme Leader of Iran by January 31?",
     "market_slug": "khamenei-out-as-supreme-leader-of-iran-by-january-31",
     "wallet": "0x24ded84d901a743cfee095f8082b0f9f647183cb",
@@ -33112,6 +33082,113 @@
       "edge_percent": 5.28,
       "signal_strength": 133.0,
       "insider_score": 100.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Will Crude Oil (CL) hit (HIGH) $105 by end of March?",
+    "market_slug": "will-crude-oil-cl-hit-high-105-by-end-of-march-881",
+    "event_slug": "will-crude-oil-cl-hit-high-105-by-end-of-march-881",
+    "wallet": "0x5782cc3ae4dcf9f7e322cbdc5bde781883758ce5",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,067)",
+        "Low activity (2 txns)"
+      ],
+      "amount": 1067.4102,
+      "odds": 0.46267516294803845,
+      "raw_price": 0.5373248370519615,
+      "outcome": "No",
+      "potential_pnl": 1239.629999,
+      "pnl_multiplier": 1.1613435949928153,
+      "wallet_age_days": 0,
+      "total_activities": 2
+    },
+    "timestamp": "2026-03-29T09:24:02.456433",
+    "trade_hash": "0xe03c7576470188788014b333e7198e7752e77e63ea80d65961021dfceab896c6",
+    "trade_timestamp": 1774775910,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.5373248370519615,
+      "effective_price": 0.46267516294803845,
+      "size": 2307.040199,
+      "amount": 1067.4102,
+      "potential_pnl": 1239.629999,
+      "pnl_multiplier": 1.1613435949928153,
+      "is_no": true,
+      "slug": "will-crude-oil-cl-hit-high-105-by-end-of-march-881",
+      "eventSlug": "will-crude-oil-cl-hit-by-end-of-march"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+35.8%)"
+      ],
+      "category": "other",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.1794649674103923,
+      "market_price": 0.5373248370519615,
+      "edge": 0.35785986964156924,
+      "edge_percent": 35.785986964156926,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "occasional",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "occasional",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Geopolitical tensions affecting oil supply",
+          "Significant increase in global demand for oil",
+          "Major disruptions in oil production or distribution"
+        ],
+        "weakest_link": "Significant increase in global demand for oil"
+      },
+      "category": "geopolitics",
+      "narrative_drivers": [
+        "OPEC production decisions",
+        "Global economic recovery post-pandemic"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 105,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 70,
+      "insider_position": "NO",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.35785986964156924,
+      "edge_percent": 35.785986964156926
+    },
+    "financial_analyst": {
+      "signal_quality": 81.0,
+      "stance": "HIGH_CONVICTION",
+      "edge_percent": 35.79,
+      "signal_strength": 105.0,
+      "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
   }
