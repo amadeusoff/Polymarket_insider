@@ -1,119 +1,5 @@
 [
   {
-    "market": "Will Donald Trump announce a new nominee for Chair of the Federal Reserve by January 31, 2026?",
-    "market_slug": "will-donald-trump-announce-a-new-nominee-for-chair-of-the-federal-reserve-by-january-31-2026-849-849-957-245",
-    "wallet": "0x2b247492d5484c9832e41569957a42174af52605",
-    "analysis": {
-      "score": 110,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($2,000)",
-        "Low activity (1 txns)",
-        "Pre-event latency: 6058m"
-      ],
-      "amount": 1999.999997,
-      "odds": 0.46950028665081817,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-01-26T19:04:29.209724",
-    "trade_hash": "0xb27cb44cb5e929a1d3cf9e83fa7ee1258b7e93205f9a318c89438626b2f8f097",
-    "trade_timestamp": 1769454095,
-    "latency": {
-      "latency_seconds": 363505.0,
-      "latency_minutes": 6058.416666666667,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-01-26T19:01:35+00:00",
-      "event_time": "2026-01-31T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "side": "BUY",
-      "price": 0.46950028665081817,
-      "size": 4259.848298,
-      "amount": 1999.999997
-    },
-    "resolution_last_check": "2026-03-29T06:54:11.634770+00:00"
-  },
-  {
-    "market": "New \"Stranger Things\" episode released by January 31? ",
-    "market_slug": "new-stranger-things-episode-released-by-january-31-294",
-    "wallet": "0x93d44e7cb426a5a1085cc0ce314b8f2befba7345",
-    "analysis": {
-      "score": 135,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (99.7% odds)",
-        "Large bet ($14,955)",
-        "Low activity (1 txns)",
-        "Pre-event latency: 6017m"
-      ],
-      "amount": 14955.0,
-      "odds": 0.997,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-01-26T19:46:26.695671",
-    "trade_hash": "0x24e40d211b21e5da6f227cd1b0136732d9184b693588baf0f381ad5865c743a5",
-    "trade_timestamp": 1769456601,
-    "latency": {
-      "latency_seconds": 360999.0,
-      "latency_minutes": 6016.65,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-01-26T19:43:21+00:00",
-      "event_time": "2026-01-31T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "BUY",
-      "price": 0.997,
-      "size": 15000.0,
-      "amount": 14955.0
-    },
-    "resolution_last_check": "2026-03-29T06:54:12.305862+00:00"
-  },
-  {
-    "market": "Will the US next strike Iran on January 31, 2026 (ET)?",
-    "market_slug": "will-the-us-next-strike-iran-on-january-31-2026-et-836",
-    "wallet": "0x07824f86dc7b6775ee70e30f20a6c2c8b09bb17b",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "Extreme confidence (96.1% odds)",
-        "Large bet ($1,134)",
-        "Pre-event latency: 6018m"
-      ],
-      "amount": 1134.3932300000001,
-      "odds": 0.961,
-      "wallet_age_days": 92,
-      "total_activities": 100
-    },
-    "timestamp": "2026-01-26T19:46:36.978018",
-    "trade_hash": "0xe969976c48de1204ee8279797779b7e2678b7c7cc303dd89cce7f1a045c3b003",
-    "trade_timestamp": 1769456521,
-    "latency": {
-      "latency_seconds": 361079.0,
-      "latency_minutes": 6017.983333333334,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-01-26T19:42:01+00:00",
-      "event_time": "2026-01-31T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "SELL",
-      "price": 0.961,
-      "size": 1180.43,
-      "amount": 1134.3932300000001
-    },
-    "resolution_last_check": "2026-03-29T06:54:12.951482+00:00"
-  },
-  {
     "market": "Will the price of Solana be between $160 and $170 on January 28?",
     "market_slug": "will-the-price-of-solana-be-between-160-170-on-january-28",
     "wallet": "0x42a5de1c23eed47862337067c334631f313e49c6",
@@ -33213,5 +33099,326 @@
     "market": "Dota 2: Team Yandex vs Xtreme Gaming - Game 2 Winner",
     "market_slug": "dota2-ty-xtreme-2026-03-29",
     "amount": 19999.999999
+  },
+  {
+    "market": "Spread: Nuggets (-12.5)",
+    "market_slug": "nba-gsw-den-2026-03-29-spread-home-12pt5",
+    "event_slug": "nba-gsw-den-2026-03-29-spread-home-12pt5",
+    "wallet": "0xa2fd3b7d017a0f092ba85e5c9fbce8ba1b3ba779",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,086)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 1086.3,
+      "odds": 0.51,
+      "raw_price": 0.51,
+      "outcome": "Warriors",
+      "potential_pnl": 1043.7,
+      "pnl_multiplier": 0.9607843137254902,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-03-29T14:24:48.820188",
+    "trade_hash": "0xcfaa557700a0586f6aa1cdbcdc9893ef56fa27dfd720f8895f7e7d1c343a2d35",
+    "trade_timestamp": 1774793922,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Warriors",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.51,
+      "effective_price": 0.51,
+      "size": 2130.0,
+      "amount": 1086.3,
+      "potential_pnl": 1043.7,
+      "pnl_multiplier": 0.9607843137254902,
+      "is_no": false,
+      "slug": "nba-gsw-den-2026-03-29-spread-home-12pt5",
+      "eventSlug": "nba-gsw-den-2026-03-29"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+26.8%)"
+      ],
+      "category": "other",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.242,
+      "market_price": 0.51,
+      "edge": 0.268,
+      "edge_percent": 26.8,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Nuggets maintain a strong offensive performance",
+          "Nuggets' defense effectively limits opponent scoring",
+          "Key players remain healthy and perform well"
+        ],
+        "weakest_link": "Nuggets' defense effectively limits opponent scoring"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Nuggets' recent performance trends",
+        "Injury reports of key players"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 105,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 70,
+      "insider_position": "NO",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.268,
+      "edge_percent": 26.8
+    },
+    "financial_analyst": {
+      "signal_quality": 81.0,
+      "stance": "HIGH_CONVICTION",
+      "edge_percent": 26.8,
+      "signal_strength": 105.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Spread: Nuggets (-12.5)",
+    "market_slug": "nba-gsw-den-2026-03-29-spread-home-12pt5",
+    "event_slug": "nba-gsw-den-2026-03-29-spread-home-12pt5",
+    "wallet": "0x425ad361189efcf9de9b9f3cc6a83fcf0041dcd4",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,015)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 1015.41,
+      "odds": 0.51,
+      "raw_price": 0.51,
+      "outcome": "Warriors",
+      "potential_pnl": 975.59,
+      "pnl_multiplier": 0.9607843137254902,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-03-29T14:24:53.295658",
+    "trade_hash": "0x86082e1c6faec07c2a869f0782ed7adcf44af41a3d9319d0e249924d9c8314df",
+    "trade_timestamp": 1774793922,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Warriors",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.51,
+      "effective_price": 0.51,
+      "size": 1991.0,
+      "amount": 1015.41,
+      "potential_pnl": 975.59,
+      "pnl_multiplier": 0.9607843137254902,
+      "is_no": false,
+      "slug": "nba-gsw-den-2026-03-29-spread-home-12pt5",
+      "eventSlug": "nba-gsw-den-2026-03-29"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+26.8%)"
+      ],
+      "category": "other",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.242,
+      "market_price": 0.51,
+      "edge": 0.268,
+      "edge_percent": 26.8,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Nuggets maintain a strong offensive performance",
+          "Nuggets' defense effectively limits opponent scoring",
+          "Key players remain healthy and perform well"
+        ],
+        "weakest_link": "Nuggets' defense effectively limits opponent scoring"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "team performance trends",
+        "injury reports"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 105,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 70,
+      "insider_position": "NO",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.268,
+      "edge_percent": 26.8
+    },
+    "financial_analyst": {
+      "signal_quality": 81.0,
+      "stance": "HIGH_CONVICTION",
+      "edge_percent": 26.8,
+      "signal_strength": 105.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Spread: Nuggets (-12.5)",
+    "market_slug": "nba-gsw-den-2026-03-29-spread-home-12pt5",
+    "event_slug": "nba-gsw-den-2026-03-29-spread-home-12pt5",
+    "wallet": "0xf9f2ffaaa45acbd0f47bf488403b3b8136774476",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,023)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 1023.0600000000001,
+      "odds": 0.51,
+      "raw_price": 0.51,
+      "outcome": "Warriors",
+      "potential_pnl": 982.9399999999999,
+      "pnl_multiplier": 0.9607843137254901,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-03-29T14:24:57.138319",
+    "trade_hash": "0x10912ea2a8379ca37259c59c46d0b5c60563d9a28899a9154c0ce4e9edfbe4ad",
+    "trade_timestamp": 1774793922,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Warriors",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.51,
+      "effective_price": 0.51,
+      "size": 2006.0,
+      "amount": 1023.0600000000001,
+      "potential_pnl": 982.9399999999999,
+      "pnl_multiplier": 0.9607843137254901,
+      "is_no": false,
+      "slug": "nba-gsw-den-2026-03-29-spread-home-12pt5",
+      "eventSlug": "nba-gsw-den-2026-03-29"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+26.8%)"
+      ],
+      "category": "other",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.242,
+      "market_price": 0.51,
+      "edge": 0.268,
+      "edge_percent": 26.8,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Nuggets maintain strong offensive performance",
+          "Nuggets' defense effectively limits opponent scoring",
+          "Injury status of key players remains favorable"
+        ],
+        "weakest_link": "Injury status of key players remains favorable"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Recent performance trends of the Nuggets",
+        "Impact of home court advantage"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 105,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 70,
+      "insider_position": "NO",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.268,
+      "edge_percent": 26.8
+    },
+    "financial_analyst": {
+      "signal_quality": 81.0,
+      "stance": "HIGH_CONVICTION",
+      "edge_percent": 26.8,
+      "signal_strength": 105.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
