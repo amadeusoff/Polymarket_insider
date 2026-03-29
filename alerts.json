@@ -1,42 +1,5 @@
 [
   {
-    "market": "US strikes Iran by January 29, 2026?",
-    "market_slug": "us-strikes-iran-by-january-29-2026-183-883-657-383-499",
-    "wallet": "0xe7387473b067235436884d16799777cf279edf65",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "Extreme confidence (96.0% odds)",
-        "Large bet ($4,232)",
-        "Pre-event latency: 2802m"
-      ],
-      "amount": 4232.303999999999,
-      "odds": 0.96,
-      "wallet_age_days": 91,
-      "total_activities": 100
-    },
-    "timestamp": "2026-01-27T01:19:54.192991",
-    "trade_hash": "0x96a8b117d6f6b28fce9cd423e245da28bec2932e833fbb4cc078127dbc541fa1",
-    "trade_timestamp": 1769476665,
-    "latency": {
-      "latency_seconds": 168135.0,
-      "latency_minutes": 2802.25,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-01-27T01:17:45+00:00",
-      "event_time": "2026-01-29T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "BUY",
-      "price": 0.96,
-      "size": 4408.65,
-      "amount": 4232.303999999999
-    },
-    "resolution_last_check": "2026-03-29T06:54:18.205467+00:00"
-  },
-  {
     "market": "Khamenei out as Supreme Leader of Iran by January 31?",
     "market_slug": "khamenei-out-as-supreme-leader-of-iran-by-january-31",
     "wallet": "0xcf4ce453df47baba44a5b52f77a7745bd386f088",
@@ -33677,5 +33640,49 @@
     "market": "Colorado Rockies vs. Miami Marlins",
     "market_slug": "mlb-col-mia-2026-03-29",
     "amount": 3299.9999999999995
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x51b29a144237f62fd8b2a75bfc7a87f729532c5721c2c1a7ae31b00914b334b8",
+    "wallet": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
+    "trader": {
+      "rank": 14,
+      "address": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
+      "username": "gmanas",
+      "profit": 4955869.669732175,
+      "volume": 529047708.505991,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x84dbb7103982e3617704a2ed7d5b39691952aeeb",
+      "side": "BUY",
+      "asset": "12035465076229752781908256263963783360216277908549884664476516616806440930892",
+      "conditionId": "0x0f667610ed65264e96d55ec467e22f93bfc6e58ffc7cafae55f2d570c14692d3",
+      "size": 5803.69,
+      "price": 0.52,
+      "timestamp": 1774819944,
+      "title": "Spread: Trail Blazers (-16.5)",
+      "slug": "nba-was-por-2026-03-29-spread-home-16pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-was-por-2026-03-29",
+      "outcome": "Trail Blazers",
+      "outcomeIndex": 0,
+      "name": "ShucksIt69",
+      "pseudonym": "Grim-Icon",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x51b29a144237f62fd8b2a75bfc7a87f729532c5721c2c1a7ae31b00914b334b8",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spread: Trail Blazers (-16.5)",
+    "market_slug": "nba-was-por-2026-03-29",
+    "amount": 3017.9188
   }
 ]
