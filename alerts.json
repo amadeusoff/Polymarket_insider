@@ -1,104 +1,5 @@
 [
   {
-    "market": "Will Celta Vigo win the 2025\u201326 La Liga?",
-    "market_slug": "will-celta-vigo-win-the-202526-la-liga",
-    "wallet": "0xe99b044014bcc8f5d251a6be56c705b33c47b753",
-    "analysis": {
-      "score": 95,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (99.8% odds)",
-        "Large bet ($1,007)",
-        "Low activity (2 txns)"
-      ],
-      "amount": 1007.3113400000001,
-      "odds": 0.998,
-      "wallet_age_days": 0,
-      "total_activities": 2
-    },
-    "timestamp": "2026-01-26T15:38:18.420695",
-    "trade_hash": "0x8e0c00dc0dd985bd3b3bb41e9d1d18fa59c31d8d3a44ba1afe7bff45347b61ba",
-    "trade_timestamp": 1769441687,
-    "latency": null,
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "SELL",
-      "price": 0.998,
-      "size": 1009.33,
-      "amount": 1007.3113400000001
-    },
-    "resolution_last_check": "2026-03-29T06:54:07.059323+00:00"
-  },
-  {
-    "market": "Will Bitcoin reach $110,000 in January?",
-    "market_slug": "will-bitcoin-reach-110k-in-january-2026",
-    "wallet": "0x8e66cfdf39c9d14ceb6848aa1e7fc28c3f8f8b9f",
-    "analysis": {
-      "score": 95,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (99.6% odds)",
-        "Large bet ($2,462)",
-        "Low activity (3 txns)"
-      ],
-      "amount": 2462.2614,
-      "odds": 0.996,
-      "wallet_age_days": 0,
-      "total_activities": 3
-    },
-    "timestamp": "2026-01-26T15:57:31.661839",
-    "trade_hash": "0xe65f28a4812c8c288b4ce6dacb4eda2396803b9ed87109680f5ea57263e3bace",
-    "trade_timestamp": 1769442811,
-    "latency": null,
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "SELL",
-      "price": 0.996,
-      "size": 2472.15,
-      "amount": 2462.2614
-    },
-    "resolution_last_check": "2026-03-29T06:54:07.712660+00:00"
-  },
-  {
-    "market": "Yoon out of custody by March 31?",
-    "market_slug": "yoon-out-of-custody-by-march-31",
-    "wallet": "0xe947b0748c6f37c656c7674636f93b4c527c7a45",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "Extreme confidence (98.4% odds)",
-        "Large bet ($1,404)",
-        "Pre-event latency: 91176m"
-      ],
-      "amount": 1403.7251999999999,
-      "odds": 0.984,
-      "wallet_age_days": 590,
-      "total_activities": 100
-    },
-    "timestamp": "2026-01-26T16:25:06.268867",
-    "trade_hash": "0x1bc45b9bdfc2443f7ab4fdca6b2b329f936a22ba66ef3f20b57ec3b31924dab8",
-    "trade_timestamp": 1769444655,
-    "latency": {
-      "latency_seconds": 5470545.0,
-      "latency_minutes": 91175.75,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-01-26T16:24:15+00:00",
-      "event_time": "2026-03-31T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "SELL",
-      "price": 0.984,
-      "size": 1426.55,
-      "amount": 1403.7251999999999
-    },
-    "resolution_last_check": "2026-03-29T06:54:08.395050+00:00"
-  },
-  {
     "market": "Will Sevilla win the 2025\u201326 La Liga?",
     "market_slug": "will-sevilla-win-the-202526-la-liga",
     "wallet": "0x58bc17c46d2db492a0802d4820805c712207fb4d",
@@ -32867,6 +32768,351 @@
       "checked_at": "2026-03-29T06:58:40.696893+00:00",
       "insider_win": null,
       "model_correct": null
+    }
+  },
+  {
+    "market": "Will there be between 0 and 10 average daily transits of the Strait of Hormuz on March 31?",
+    "market_slug": "will-there-be-between-0-and-10-average-daily-transits-of-the-strait-of-hormuz-on-march-31",
+    "event_slug": "will-there-be-between-0-and-10-average-daily-transits-of-the-strait-of-hormuz-on-march-31",
+    "wallet": "0xa939a62b9a1507904e7563eb9b8930adaf572ba7",
+    "analysis": {
+      "score": 100,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,055)",
+        "Pre-event latency: 2400m"
+      ],
+      "amount": 1054.968,
+      "odds": 0.904,
+      "raw_price": 0.904,
+      "outcome": "Yes",
+      "potential_pnl": 112.03199999999993,
+      "pnl_multiplier": 0.10619469026548664,
+      "wallet_age_days": 0,
+      "total_activities": 29
+    },
+    "timestamp": "2026-03-29T08:04:45.905178",
+    "trade_hash": "0x3cc4369203a259cd958760ae714849a667b873c69212885638b7e04ab056816b",
+    "trade_timestamp": 1774771230,
+    "latency": {
+      "latency_seconds": 143970.0,
+      "latency_minutes": 2399.5,
+      "is_pre_event": true,
+      "severity": "CRITICAL",
+      "trade_time": "2026-03-29T08:00:30+00:00",
+      "event_time": "2026-03-31T00:00:00+00:00"
+    },
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.904,
+      "effective_price": 0.904,
+      "size": 1167.0,
+      "amount": 1054.968,
+      "potential_pnl": 112.03199999999993,
+      "pnl_multiplier": 0.10619469026548664,
+      "is_no": false,
+      "slug": "will-there-be-between-0-and-10-average-daily-transits-of-the-strait-of-hormuz-on-march-31",
+      "eventSlug": "avg-of-ships-transiting-strait-of-hormuz-end-of-march"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+55.5%)"
+      ],
+      "category": "other",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.3488,
+      "market_price": 0.904,
+      "edge": 0.5552,
+      "edge_percent": 55.52,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Geopolitical stability in the region",
+          "Operational capacity of vessels transiting the strait",
+          "Weather conditions favorable for maritime transit"
+        ],
+        "weakest_link": "Geopolitical stability in the region"
+      },
+      "category": "geopolitics",
+      "narrative_drivers": [
+        "Increased military presence in the region",
+        "Economic implications of oil transit through the Strait"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 100,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 100,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.5552,
+      "edge_percent": 55.52
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 52.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 55.52,
+      "signal_strength": 100.0,
+      "insider_score": 100.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Will there be between 0 and 10 average daily transits of the Strait of Hormuz on March 31?",
+    "market_slug": "will-there-be-between-0-and-10-average-daily-transits-of-the-strait-of-hormuz-on-march-31",
+    "event_slug": "will-there-be-between-0-and-10-average-daily-transits-of-the-strait-of-hormuz-on-march-31",
+    "wallet": "0xd704fcf6c2a79785c14886bca9dcbafc5c37469a",
+    "analysis": {
+      "score": 100,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,501)",
+        "Pre-event latency: 2400m"
+      ],
+      "amount": 1500.64,
+      "odds": 0.904,
+      "raw_price": 0.096,
+      "outcome": "No",
+      "potential_pnl": 159.3599999999999,
+      "pnl_multiplier": 0.10619469026548665,
+      "wallet_age_days": 0,
+      "total_activities": 39
+    },
+    "timestamp": "2026-03-29T08:04:50.889368",
+    "trade_hash": "0x2dd1024c8339e86ee70d7f7af86c0541e11df09f780d17e4138fc7cfb69742d6",
+    "trade_timestamp": 1774771228,
+    "latency": {
+      "latency_seconds": 143972.0,
+      "latency_minutes": 2399.5333333333333,
+      "is_pre_event": true,
+      "severity": "CRITICAL",
+      "trade_time": "2026-03-29T08:00:28+00:00",
+      "event_time": "2026-03-31T00:00:00+00:00"
+    },
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.096,
+      "effective_price": 0.904,
+      "size": 1660.0,
+      "amount": 1500.64,
+      "potential_pnl": 159.3599999999999,
+      "pnl_multiplier": 0.10619469026548665,
+      "is_no": true,
+      "slug": "will-there-be-between-0-and-10-average-daily-transits-of-the-strait-of-hormuz-on-march-31",
+      "eventSlug": "avg-of-ships-transiting-strait-of-hormuz-end-of-march"
+    },
+    "irrationality": {
+      "irrationality_score": 33,
+      "flags": [
+        "Longshot (10%) in medium bias category (other)",
+        "Moderate mispricing edge (+5.3%)"
+      ],
+      "category": "other",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.0432,
+      "market_price": 0.096,
+      "edge": 0.0528,
+      "edge_percent": 5.28,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "MODERATE",
+      "base_rate_class": "rare",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "rare",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Geopolitical stability in the region on March 31",
+          "Operational capacity of vessels transiting the Strait",
+          "Weather conditions allowing safe passage"
+        ],
+        "weakest_link": "Geopolitical stability in the region on March 31"
+      },
+      "category": "geopolitics",
+      "narrative_drivers": [
+        "Tensions between regional powers affecting shipping routes",
+        "Economic implications of oil transport through the Strait"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 133,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 100,
+      "insider_position": "NO",
+      "irrationality_score": 33,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.0528,
+      "edge_percent": 5.28
+    },
+    "financial_analyst": {
+      "signal_quality": 69.5,
+      "stance": "SELECTIVE",
+      "edge_percent": 5.28,
+      "signal_strength": 133.0,
+      "insider_score": 100.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Will there be between 0 and 10 average daily transits of the Strait of Hormuz on March 31?",
+    "market_slug": "will-there-be-between-0-and-10-average-daily-transits-of-the-strait-of-hormuz-on-march-31",
+    "event_slug": "will-there-be-between-0-and-10-average-daily-transits-of-the-strait-of-hormuz-on-march-31",
+    "wallet": "0x055b79c4b94353876ae68c63508fc5c1a3aaa9a4",
+    "analysis": {
+      "score": 100,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($2,135)",
+        "Pre-event latency: 2400m"
+      ],
+      "amount": 2135.248,
+      "odds": 0.904,
+      "raw_price": 0.096,
+      "outcome": "No",
+      "potential_pnl": 226.75199999999995,
+      "pnl_multiplier": 0.1061946902654867,
+      "wallet_age_days": 0,
+      "total_activities": 31
+    },
+    "timestamp": "2026-03-29T08:04:55.202315",
+    "trade_hash": "0x339755e4daee1040af97e24d63d737095faed220e5aba2cecb0dbbba6fcc05bc",
+    "trade_timestamp": 1774771228,
+    "latency": {
+      "latency_seconds": 143972.0,
+      "latency_minutes": 2399.5333333333333,
+      "is_pre_event": true,
+      "severity": "CRITICAL",
+      "trade_time": "2026-03-29T08:00:28+00:00",
+      "event_time": "2026-03-31T00:00:00+00:00"
+    },
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.096,
+      "effective_price": 0.904,
+      "size": 2362.0,
+      "amount": 2135.248,
+      "potential_pnl": 226.75199999999995,
+      "pnl_multiplier": 0.1061946902654867,
+      "is_no": true,
+      "slug": "will-there-be-between-0-and-10-average-daily-transits-of-the-strait-of-hormuz-on-march-31",
+      "eventSlug": "avg-of-ships-transiting-strait-of-hormuz-end-of-march"
+    },
+    "irrationality": {
+      "irrationality_score": 33,
+      "flags": [
+        "Longshot (10%) in medium bias category (other)",
+        "Moderate mispricing edge (+5.3%)"
+      ],
+      "category": "other",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.0432,
+      "market_price": 0.096,
+      "edge": 0.0528,
+      "edge_percent": 5.28,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "MODERATE",
+      "base_rate_class": "rare",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "rare",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Regional geopolitical stability",
+          "Economic factors affecting shipping",
+          "Weather conditions conducive to transit"
+        ],
+        "weakest_link": "Regional geopolitical stability, as tensions in the area can significantly disrupt transit"
+      },
+      "category": "geopolitics",
+      "narrative_drivers": [
+        "Potential military conflicts affecting shipping lanes",
+        "Economic sanctions impacting trade routes"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 133,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 100,
+      "insider_position": "NO",
+      "irrationality_score": 33,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.0528,
+      "edge_percent": 5.28
+    },
+    "financial_analyst": {
+      "signal_quality": 69.5,
+      "stance": "SELECTIVE",
+      "edge_percent": 5.28,
+      "signal_strength": 133.0,
+      "insider_score": 100.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
   }
 ]
