@@ -1,42 +1,5 @@
 [
   {
-    "market": "Khamenei out as Supreme Leader of Iran by January 31?",
-    "market_slug": "khamenei-out-as-supreme-leader-of-iran-by-january-31",
-    "wallet": "0x24ded84d901a743cfee095f8082b0f9f647183cb",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "Extreme confidence (96.7% odds)",
-        "Large bet ($4,835)",
-        "Pre-event latency: 6156m"
-      ],
-      "amount": 4834.63254,
-      "odds": 0.967,
-      "wallet_age_days": 384,
-      "total_activities": 100
-    },
-    "timestamp": "2026-01-26T17:25:22.027158",
-    "trade_hash": "0x79093f4fc9c3b32166b07495348c4d3998a2c2f38623a954079c6531ff345f9c",
-    "trade_timestamp": 1769448267,
-    "latency": {
-      "latency_seconds": 369333.0,
-      "latency_minutes": 6155.55,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-01-26T17:24:27+00:00",
-      "event_time": "2026-01-31T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "SELL",
-      "price": 0.967,
-      "size": 4999.62,
-      "amount": 4834.63254
-    },
-    "resolution_last_check": "2026-03-29T06:54:09.698905+00:00"
-  },
-  {
     "market": "Will Silver (SI) hit (HIGH) $110 by end of January?",
     "market_slug": "si-hit-110-high-jan-2026",
     "wallet": "0xfa10080e23458cf4334325e41f0fc2b5fe478f6b",
@@ -33191,5 +33154,49 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xa6234084389c57f1232dcb387e4934c949698c6a4c54ddcac873660c55e9eb8b",
+    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
+    "trader": {
+      "rank": 18,
+      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
+      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
+      "profit": 4550622.476932838,
+      "volume": 60068570.023648,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xd6e6120c3538399e82c00ce3f02ad8c1a0fe2915",
+      "side": "SELL",
+      "asset": "22773076837574351470018298754278146416270756670327468699308924981573510364392",
+      "conditionId": "0x2247cce190c9ca22ed6c31d36287b4d13921c7deb0a4cdaad568bcfd740aa297",
+      "size": 2374.95,
+      "price": 0.13071609928630076,
+      "timestamp": 1774783932,
+      "title": "Counter-Strike: G2 vs CarritoSpain (BO1) - Roman Imperium Cup Group D",
+      "slug": "cs2-g2-car-2026-03-29",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/counter-strike-image-16c415c538.png",
+      "eventSlug": "cs2-g2-car-2026-03-29",
+      "outcome": "CarritoSpain",
+      "outcomeIndex": 1,
+      "name": "hunting10c",
+      "pseudonym": "Separate-Bush",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xa6234084389c57f1232dcb387e4934c949698c6a4c54ddcac873660c55e9eb8b",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Counter-Strike: G2 vs CarritoSpain (BO1) - Roman Imperium Cup Group D",
+    "market_slug": "cs2-g2-car-2026-03-29",
+    "amount": 2064.5058
   }
 ]
