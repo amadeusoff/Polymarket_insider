@@ -1,77 +1,5 @@
 [
   {
-    "market": "76ers vs. Hornets",
-    "market_slug": "nba-phi-cha-2026-01-26",
-    "wallet": "0x7312902334e3961cdd0cc4b740f913823961dea7",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (1d old)",
-        "Extreme confidence (99.9% odds)",
-        "Large bet ($1,693)"
-      ],
-      "amount": 1693.05525,
-      "odds": 0.999,
-      "wallet_age_days": 1,
-      "total_activities": 11
-    },
-    "timestamp": "2026-01-26T22:23:10.771930",
-    "trade_hash": "0x973dab3e565428fd3fa4c090f049f4c569bd292bf85a06f4c68eb0d4ac8bc694",
-    "trade_timestamp": 1769466043,
-    "latency": null,
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "Hornets",
-      "side": "SELL",
-      "price": 0.999,
-      "size": 1694.75,
-      "amount": 1693.05525
-    },
-    "resolution": {
-      "outcome": "Hornets",
-      "checked_at": "2026-03-29T06:54:16.891817+00:00",
-      "insider_win": true,
-      "model_correct": null
-    }
-  },
-  {
-    "market": "U.S. strike on Somalia by January 31?",
-    "market_slug": "us-strike-on-somalia-by-january-31-956",
-    "wallet": "0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "Extreme confidence (99.8% odds)",
-        "Large bet ($2,516)",
-        "Pre-event latency: 5839m"
-      ],
-      "amount": 2515.58874,
-      "odds": 0.998,
-      "wallet_age_days": 717,
-      "total_activities": 100
-    },
-    "timestamp": "2026-01-26T22:44:52.350352",
-    "trade_hash": "0x16f44ebc0f972b3ddef685c9e660a8f04895b2f59338cc5f3da4e0704a71b56c",
-    "trade_timestamp": 1769467269,
-    "latency": {
-      "latency_seconds": 350331.0,
-      "latency_minutes": 5838.85,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-01-26T22:41:09+00:00",
-      "event_time": "2026-01-31T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "side": "BUY",
-      "price": 0.998,
-      "size": 2520.63,
-      "amount": 2515.58874
-    },
-    "resolution_last_check": "2026-03-29T06:54:17.550295+00:00"
-  },
-  {
     "market": "Will Juventus win the 2025\u201326 Champions League?",
     "market_slug": "will-juventus-win-the-202526-champions-league",
     "wallet": "0x460d609ca50a447dd44491476977e91f6e0b183b",
@@ -33584,5 +33512,156 @@
     "market": "Pittsburgh Pirates vs. New York Mets",
     "market_slug": "mlb-pit-nym-2026-03-29",
     "amount": 2286.9968000000003
+  },
+  {
+    "market": "Llaneros FC vs. Once Caldas: O/U 2.5",
+    "market_slug": "col1-llf-onc-2026-03-29-total-2pt5",
+    "event_slug": "col1-llf-onc-2026-03-29-total-2pt5",
+    "wallet": "0x18193a72f22fe19b90243df46f3dd216e4d04d77",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,024)",
+        "Low activity (2 txns)"
+      ],
+      "amount": 1024.1,
+      "odds": 0.49,
+      "raw_price": 0.49,
+      "outcome": "Under",
+      "potential_pnl": 1065.9,
+      "pnl_multiplier": 1.0408163265306125,
+      "wallet_age_days": 0,
+      "total_activities": 2
+    },
+    "timestamp": "2026-03-29T18:22:28.190335",
+    "trade_hash": "0xace8884a05a3f11ecb9dac0a49340587813edad58bc743cb6481e5f68f274bf9",
+    "trade_timestamp": 1774808182,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Under",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.49,
+      "effective_price": 0.49,
+      "size": 2090.0,
+      "amount": 1024.1,
+      "potential_pnl": 1065.9,
+      "pnl_multiplier": 1.0408163265306125,
+      "is_no": false,
+      "slug": "col1-llf-onc-2026-03-29-total-2pt5",
+      "eventSlug": "col1-llf-onc-2026-03-29-more-markets"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+25.2%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.238,
+      "market_price": 0.49,
+      "edge": 0.252,
+      "edge_percent": 25.2,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "both teams have strong attacking players",
+          "defensive weaknesses in both teams",
+          "recent matches have shown high-scoring trends"
+        ],
+        "weakest_link": "defensive weaknesses in both teams"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "team form and player injuries",
+        "historical matchups between the teams"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 105,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 70,
+      "insider_position": "NO",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.252,
+      "edge_percent": 25.2
+    },
+    "financial_analyst": {
+      "signal_quality": 81.0,
+      "stance": "HIGH_CONVICTION",
+      "edge_percent": 25.2,
+      "signal_strength": 105.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x916368392620bfe3898790c91cf1fdb63341dee65e368d324912b783d4ace22c",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x0936b3de292b05f115c199a0d79331a62fc06c02",
+      "side": "BUY",
+      "asset": "36462471735172848345401380504641680352665475010452944512866299426065312183175",
+      "conditionId": "0xccd66c63cdc20bf1146a57582ec352adb5af4689893823819cb6f3d625c4b985",
+      "size": 4081.632652,
+      "price": 0.4899999998824,
+      "timestamp": 1774808538,
+      "title": "Celtics vs. Hornets: O/U 215.5",
+      "slug": "nba-bos-cha-2026-03-29-total-215pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-bos-cha-2026-03-29",
+      "outcome": "Under",
+      "outcomeIndex": 1,
+      "name": "menghuan168",
+      "pseudonym": "Corny-Edition",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x916368392620bfe3898790c91cf1fdb63341dee65e368d324912b783d4ace22c",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Celtics vs. Hornets: O/U 215.5",
+    "market_slug": "nba-bos-cha-2026-03-29",
+    "amount": 2081.6326529999997
   }
 ]
