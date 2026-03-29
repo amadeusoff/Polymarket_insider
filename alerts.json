@@ -1,42 +1,5 @@
 [
   {
-    "market": "Will the US next strike Iran on January 28, 2026 (ET)?",
-    "market_slug": "will-the-us-next-strike-iran-on-january-28-2026-et-699",
-    "wallet": "0x2c18fc1449d5fb66217484f0ca3f97d0c7373570",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "Extreme confidence (98.7% odds)",
-        "Large bet ($1,105)",
-        "Pre-event latency: 1584m"
-      ],
-      "amount": 1105.40946,
-      "odds": 0.9869727321428572,
-      "wallet_age_days": 382,
-      "total_activities": 100
-    },
-    "timestamp": "2026-01-26T21:40:17.818019",
-    "trade_hash": "0xbfc532ceda8ca0654c0272c6a2d780d850e72aeb625ea07523e5560dac8a8d99",
-    "trade_timestamp": 1769463367,
-    "latency": {
-      "latency_seconds": 95033.0,
-      "latency_minutes": 1583.8833333333334,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-01-26T21:36:07+00:00",
-      "event_time": "2026-01-28T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "BUY",
-      "price": 0.9869727321428572,
-      "size": 1120.0,
-      "amount": 1105.40946
-    },
-    "resolution_last_check": "2026-03-29T06:54:14.910749+00:00"
-  },
-  {
     "market": "Will Everton FC vs. Leeds United FC end in a draw?",
     "market_slug": "epl-eve-lee-2026-01-26-draw",
     "wallet": "0x1fbaf202dc0716c6282ddea8534f7128cd5d92e7",
@@ -33562,5 +33525,49 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xd1484597d209fa49ad299bc4f62556a9ff2f358c566afe91b7d5c6eb70b55cfd",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+      "side": "BUY",
+      "asset": "99648458241687962958135230811349049411166919876276983100886228118044860481389",
+      "conditionId": "0xdf34f0264e86ed8a996f432bae70de4e7d196c96e440cf3565e681e85f695008",
+      "size": 4126.27,
+      "price": 0.38,
+      "timestamp": 1774799230,
+      "title": "SHL: Luleaa vs. Froelunda HC",
+      "slug": "shl-lul-fro-2026-03-29",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/hockey-shl-5ebf2bfd88.png",
+      "eventSlug": "shl-lul-fro-2026-03-29",
+      "outcome": "Froelunda HC",
+      "outcomeIndex": 1,
+      "name": "0xdbdd45150249e229eB4cA8aa48A30Dca21Faa5de-1757094771846",
+      "pseudonym": "Vigilant-Environment",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xd1484597d209fa49ad299bc4f62556a9ff2f358c566afe91b7d5c6eb70b55cfd",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "SHL: Luleaa vs. Froelunda HC",
+    "market_slug": "shl-lul-fro-2026-03-29",
+    "amount": 2558.2874
   }
 ]
