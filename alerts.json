@@ -1,35 +1,5 @@
 [
   {
-    "market": "Will Juventus win the 2025\u201326 Champions League?",
-    "market_slug": "will-juventus-win-the-202526-champions-league",
-    "wallet": "0x460d609ca50a447dd44491476977e91f6e0b183b",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (2d old)",
-        "Extreme confidence (99.2% odds)",
-        "Large bet ($9,920)"
-      ],
-      "amount": 9920.0,
-      "odds": 0.992,
-      "wallet_age_days": 2,
-      "total_activities": 13
-    },
-    "timestamp": "2026-01-26T23:35:28.796177",
-    "trade_hash": "0xc314c8e12815a2bae2a849f2cc0a4749232c539c2d9d9a5452164dbeef173d61",
-    "trade_timestamp": 1769470371,
-    "latency": null,
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "BUY",
-      "price": 0.992,
-      "size": 10000.0,
-      "amount": 9920.0
-    },
-    "resolution_last_check": "2026-03-29T06:54:18.205453+00:00"
-  },
-  {
     "market": "US strikes Iran by January 29, 2026?",
     "market_slug": "us-strikes-iran-by-january-29-2026-183-883-657-383-499",
     "wallet": "0xe7387473b067235436884d16799777cf279edf65",
@@ -33663,5 +33633,49 @@
     "market": "Celtics vs. Hornets: O/U 215.5",
     "market_slug": "nba-bos-cha-2026-03-29",
     "amount": 2081.6326529999997
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x165c4729a8b9a9a1056fbf4664132b540e86bb72bd858d95982dd10262d3ca87",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x2ca1084475eb6d8103617a460400e7c93bcfddcd",
+      "side": "BUY",
+      "asset": "24851410807574450898610185678064061655189007873790070435566556838352148061088",
+      "conditionId": "0xdd4f30764e94968a041d4379d3c7aeeefb696d1f6a796831054570f6e4df0a81",
+      "size": 5000,
+      "price": 0.34,
+      "timestamp": 1774814242,
+      "title": "Colorado Rockies vs. Miami Marlins",
+      "slug": "mlb-col-mia-2026-03-29",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
+      "eventSlug": "mlb-col-mia-2026-03-29",
+      "outcome": "Miami Marlins",
+      "outcomeIndex": 1,
+      "name": "Thebigshot",
+      "pseudonym": "Known-Curl",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x165c4729a8b9a9a1056fbf4664132b540e86bb72bd858d95982dd10262d3ca87",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Colorado Rockies vs. Miami Marlins",
+    "market_slug": "mlb-col-mia-2026-03-29",
+    "amount": 3299.9999999999995
   }
 ]
