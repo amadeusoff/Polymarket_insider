@@ -86,6 +86,43 @@ def extract_ou_line(market_title: str) -> Optional[str]:
     return None
 
 
+def _is_second_in_vs_title(outcome_name: str, market_title: str) -> bool:
+    """
+    Detect if outcome_name is the SECOND participant in an 'X vs Y' title.
+    
+    Examples:
+    - outcome="Jennifer Brady", title="Tomova vs Jennifer Brady" → True
+    - outcome="Tomova", title="Tomova vs Jennifer Brady" → False
+    - outcome="Lakers", title="Lakers vs Celtics" → False
+    - outcome="Celtics", title="Lakers vs Celtics" → True
+    """
+    if not outcome_name or not market_title:
+        return False
+    
+    # Find "vs" or "vs." split
+    vs_match = re.search(r'\bvs\.?\s+', market_title, re.IGNORECASE)
+    if not vs_match:
+        return False
+    
+    after_vs = market_title[vs_match.end():].strip()
+    before_vs = market_title[:vs_match.start()].strip()
+    
+    outcome_lower = outcome_name.lower().strip()
+    
+    # Check if outcome matches second side (after "vs")
+    # Use substring match — outcome might be shortened or extended
+    if outcome_lower in after_vs.lower():
+        return True
+    
+    # Check last word match (e.g., "Brady" in "Jennifer Brady")
+    outcome_last = outcome_lower.split()[-1] if outcome_lower.split() else ""
+    after_vs_lower = after_vs.lower()
+    if outcome_last and outcome_last in after_vs_lower and outcome_last not in before_vs.lower():
+        return True
+    
+    return False
+
+
 def determine_position(trade_data, odds):
     """
     Determine position from trade data.
@@ -473,13 +510,22 @@ def format_top_trader_alert(alert: Dict) -> str:
     
     # Calculate cost based on outcomeIndex or outcome value
     # outcomeIndex: 0 = first option (usually YES or Team1), 1 = second option (NO or Team2)
-    outcome_index = trade.get('outcomeIndex', 0)
+    outcome_index = trade.get('outcomeIndex')  # None if missing!
     outcome_lower = str(outcome_name).lower()
     
     # Determine if this is the "second side" (NO equivalent)
-    is_second_side = (outcome_index == 1 
-                      or outcome_lower == 'no' 
-                      or outcome_lower == 'under')
+    # Priority: explicit outcomeIndex > keyword > title position
+    if outcome_index is not None:
+        is_second_side = (outcome_index == 1)
+    elif outcome_lower in ('no', 'under'):
+        is_second_side = True
+    elif outcome_lower in ('yes', 'over'):
+        is_second_side = False
+    else:
+        # Team/player name: detect from "X vs Y" in title
+        # If outcome matches the SECOND name → is_second_side
+        market_title = trade.get('title', '') or alert.get('market', '')
+        is_second_side = _is_second_in_vs_title(outcome_name, market_title)
     
     if is_second_side:
         amount = size * (1 - price)

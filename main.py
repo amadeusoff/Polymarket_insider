@@ -261,11 +261,10 @@ def scan_top_traders(tracked_hashes: set) -> List[Dict]:
                 price = float(trade.get('price', 0))
                 outcome = trade.get('outcome', 'Yes')
                 size = float(trade.get('size', 0))
-                outcome_index = trade.get('outcomeIndex', 0)
+                outcome_index = trade.get('outcomeIndex')  # None if missing!
                 
                 # FIX: For non-binary markets (team names, Over/Under),
-                # trade_economics only knows YES/NO. Map outcomeIndex=1 → NO
-                # so cost is computed correctly (size * (1-price) not size * price)
+                # trade_economics only knows YES/NO. Detect side correctly.
                 outcome_lower = str(outcome).lower()
                 if outcome_lower in ('yes', 'no'):
                     econ_outcome = outcome  # binary: use as-is
@@ -273,9 +272,14 @@ def scan_top_traders(tracked_hashes: set) -> List[Dict]:
                     econ_outcome = 'Yes'    # Over = first option
                 elif outcome_lower in ('under',):
                     econ_outcome = 'No'     # Under = second option
-                else:
-                    # Team/player name: use outcomeIndex
+                elif outcome_index is not None:
+                    # Team/player name with explicit outcomeIndex
                     econ_outcome = 'No' if outcome_index == 1 else 'Yes'
+                else:
+                    # Team/player name, no outcomeIndex — detect from title
+                    from notifier import _is_second_in_vs_title
+                    market_title = trade.get('title', '') or trade.get('market', {}).get('question', '')
+                    econ_outcome = 'No' if _is_second_in_vs_title(outcome, market_title) else 'Yes'
                 
                 econ = trade_economics.calculate(size, price, econ_outcome)
                 
