@@ -1,81 +1,5 @@
 [
   {
-    "market": "US strikes Iran by January 31, 2026?",
-    "market_slug": "us-strikes-iran-by-january-31-2026-165",
-    "wallet": "0xe2c066d6d99d836058ee23167ecae1c34066f22b",
-    "analysis": {
-      "score": 80,
-      "flags": [
-        "New wallet (4d old)",
-        "Large bet ($1,762)",
-        "Pre-event latency: 5310m"
-      ],
-      "amount": 1762.2,
-      "odds": 0.89,
-      "wallet_age_days": 4,
-      "total_activities": 7
-    },
-    "timestamp": "2026-01-27T07:32:39.082203",
-    "trade_hash": "0xa73067796f2082dc68d74354ea570e9ca6fc42c7ddeb84db7e2296866d2cc009",
-    "trade_timestamp": 1769499013,
-    "latency": {
-      "latency_seconds": 318587.0,
-      "latency_minutes": 5309.783333333334,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-01-27T07:30:13+00:00",
-      "event_time": "2026-01-31T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "BUY",
-      "price": 0.89,
-      "size": 1980.0,
-      "amount": 1762.2
-    },
-    "resolution_last_check": "2026-03-29T06:54:20.169290+00:00"
-  },
-  {
-    "market": "Will Robert Whittaker be the UFC Middleweight Champion on December 31, 2026?",
-    "market_slug": "will-robert-whittaker-be-the-ufc-middleweight-champion-on-december-31-2026",
-    "wallet": "0xea31ec76fafb93e2f55b1e98cead35165a0ab053",
-    "analysis": {
-      "score": 135,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (99.8% odds)",
-        "Large bet ($1,618)",
-        "Low activity (1 txns)",
-        "Pre-event latency: 486252m"
-      ],
-      "amount": 1617.63824,
-      "odds": 0.998,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-01-27T07:50:52.333665",
-    "trade_hash": "0x629c69eb7b964fcccd375d81e5470ff3536915c845be893ac81ade23d1800e00",
-    "trade_timestamp": 1769500095,
-    "latency": {
-      "latency_seconds": 29175105.0,
-      "latency_minutes": 486251.75,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-01-27T07:48:15+00:00",
-      "event_time": "2026-12-31T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "BUY",
-      "price": 0.998,
-      "size": 1620.88,
-      "amount": 1617.63824
-    },
-    "resolution_last_check": "2026-03-29T06:54:20.854734+00:00"
-  },
-  {
     "market": "Will Alphabet be the second-largest company in the world by market cap on January 31?",
     "market_slug": "will-alphabet-be-the-second-largest-company-in-the-world-by-market-cap-on-january-31",
     "wallet": "0x79929dfb11820a017fb7a51faf536a55bdbd48bf",
@@ -33870,5 +33794,93 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x8baeb23b917fa3c43d1f7c01b1c37acfeec58337d54e5ecbb26d4f22f7e6a1c5",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x39d3c773be30fcc73161fc6768f46d563a779ef0",
+      "side": "BUY",
+      "asset": "97936614753375633992468166242953228698246471521082739638918692000157445482629",
+      "conditionId": "0x1d982fbf6f181a49924073683a63cb96ed540733e2c464cc068a10f21fdb108c",
+      "size": 2720,
+      "price": 0.25,
+      "timestamp": 1774899177,
+      "title": "Credit One Charleston Open: Viktoriya Tomova vs Jennifer Brady",
+      "slug": "wta-tomova-brady-2026-03-30",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wta-logo-41f331bdf1.png",
+      "eventSlug": "wta-tomova-brady-2026-03-30",
+      "outcome": "Jennifer Brady",
+      "outcomeIndex": 1,
+      "name": "matanovik",
+      "pseudonym": "Lost-Property",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x8baeb23b917fa3c43d1f7c01b1c37acfeec58337d54e5ecbb26d4f22f7e6a1c5",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Credit One Charleston Open: Viktoriya Tomova vs Jennifer Brady",
+    "market_slug": "wta-tomova-brady-2026-03-30",
+    "amount": 2040.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x8f61a2533f116d68ca85762fb97a476edc1ef5ea6238a67a24097651713af92a",
+    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
+    "trader": {
+      "rank": 5,
+      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
+      "username": "zxgngl",
+      "profit": 7807265.589240883,
+      "volume": 40551790.62184699,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+      "side": "BUY",
+      "asset": "20171573127360977362973435577990200871613402020096392031060134000759177110611",
+      "conditionId": "0x96e8b81d150000882bb1475d35d268be1cd6a6a5a90bae23452477ee702b9230",
+      "size": 5501.913042,
+      "price": 0.22999999988004172,
+      "timestamp": 1774899477,
+      "title": "Counter-Strike: Inner Circle Esports vs BASEMENT BOYS - Map 2 Winner",
+      "slug": "cs2-ice-bmb-2026-03-30-game2",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/counter-strike-image-16c415c538.png",
+      "eventSlug": "cs2-ice-bmb-2026-03-30",
+      "outcome": "BASEMENT BOYS",
+      "outcomeIndex": 1,
+      "name": "0xdbdd45150249e229eB4cA8aa48A30Dca21Faa5de-1757094771846",
+      "pseudonym": "Vigilant-Environment",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x8f61a2533f116d68ca85762fb97a476edc1ef5ea6238a67a24097651713af92a",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Counter-Strike: Inner Circle Esports vs BASEMENT BOYS - Map 2 Winner",
+    "market_slug": "cs2-ice-bmb-2026-03-30",
+    "amount": 4236.473043
   }
 ]
