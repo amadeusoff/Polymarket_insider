@@ -32239,7 +32239,8 @@
       "signal_strength": 100.0,
       "insider_score": 100.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
+    },
+    "resolution_last_check": "2026-03-30T07:19:14.224836+00:00"
   },
   {
     "market": "Will there be between 0 and 10 average daily transits of the Strait of Hormuz on March 31?",
@@ -32354,7 +32355,8 @@
       "signal_strength": 133.0,
       "insider_score": 100.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
+    },
+    "resolution_last_check": "2026-03-30T07:19:14.224850+00:00"
   },
   {
     "market": "Will there be between 0 and 10 average daily transits of the Strait of Hormuz on March 31?",
@@ -32469,7 +32471,8 @@
       "signal_strength": 133.0,
       "insider_score": 100.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
+    },
+    "resolution_last_check": "2026-03-30T07:19:14.224854+00:00"
   },
   {
     "market": "Will Crude Oil (CL) hit (HIGH) $105 by end of March?",
@@ -32576,7 +32579,8 @@
       "signal_strength": 105.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
+    },
+    "resolution_last_check": "2026-03-30T07:19:14.928311+00:00"
   },
   {
     "type": "TOP_TRADER",
@@ -32620,7 +32624,8 @@
     },
     "market": "Counter-Strike: G2 vs CarritoSpain (BO1) - Roman Imperium Cup Group D",
     "market_slug": "cs2-g2-car-2026-03-29",
-    "amount": 2064.5058
+    "amount": 2064.5058,
+    "resolution_last_check": "2026-03-30T07:19:15.640448+00:00"
   },
   {
     "type": "TOP_TRADER",
@@ -32664,7 +32669,13 @@
     },
     "market": "Dota 2: Team Yandex vs Xtreme Gaming - Game 2 Winner",
     "market_slug": "dota2-ty-xtreme-2026-03-29",
-    "amount": 19999.999999
+    "amount": 19999.999999,
+    "resolution": {
+      "outcome": "Team Yandex",
+      "checked_at": "2026-03-30T07:19:16.355318+00:00",
+      "insider_win": null,
+      "model_correct": null
+    }
   },
   {
     "market": "Spread: Nuggets (-12.5)",
@@ -32771,6 +32782,12 @@
       "signal_strength": 105.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    },
+    "resolution": {
+      "outcome": "Nuggets",
+      "checked_at": "2026-03-30T07:19:16.896313+00:00",
+      "insider_win": false,
+      "model_correct": null
     }
   },
   {
@@ -32878,6 +32895,12 @@
       "signal_strength": 105.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    },
+    "resolution": {
+      "outcome": "Nuggets",
+      "checked_at": "2026-03-30T07:19:16.896346+00:00",
+      "insider_win": false,
+      "model_correct": null
     }
   },
   {
@@ -32985,6 +33008,12 @@
       "signal_strength": 105.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    },
+    "resolution": {
+      "outcome": "Nuggets",
+      "checked_at": "2026-03-30T07:19:16.896362+00:00",
+      "insider_win": false,
+      "model_correct": null
     }
   },
   {
@@ -33093,6 +33122,12 @@
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    },
+    "resolution": {
+      "outcome": "Under",
+      "checked_at": "2026-03-30T07:19:17.611354+00:00",
+      "insider_win": false,
+      "model_correct": null
     }
   },
   {
@@ -33201,6 +33236,12 @@
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    },
+    "resolution": {
+      "outcome": "Under",
+      "checked_at": "2026-03-30T07:19:17.611391+00:00",
+      "insider_win": false,
+      "model_correct": null
     }
   },
   {
@@ -33245,7 +33286,13 @@
     },
     "market": "SHL: Luleaa vs. Froelunda HC",
     "market_slug": "shl-lul-fro-2026-03-29",
-    "amount": 2558.2874
+    "amount": 2558.2874,
+    "resolution": {
+      "outcome": "Luleaa",
+      "checked_at": "2026-03-30T07:19:18.321805+00:00",
+      "insider_win": null,
+      "model_correct": null
+    }
   },
   {
     "type": "TOP_TRADER",
@@ -33289,7 +33336,13 @@
     },
     "market": "Dota 2: Tundra Esports vs Team Yandex - Game 2 Winner",
     "market_slug": "dota2-tundra-ty-2026-03-29",
-    "amount": 2105.84
+    "amount": 2105.84,
+    "resolution": {
+      "outcome": "Tundra Esports",
+      "checked_at": "2026-03-30T07:19:19.029608+00:00",
+      "insider_win": null,
+      "model_correct": null
+    }
   },
   {
     "type": "TOP_TRADER",
@@ -33333,7 +33386,13 @@
     },
     "market": "Pittsburgh Pirates vs. New York Mets",
     "market_slug": "mlb-pit-nym-2026-03-29",
-    "amount": 2286.9968000000003
+    "amount": 2286.9968000000003,
+    "resolution": {
+      "outcome": "Pittsburgh Pirates",
+      "checked_at": "2026-03-30T07:19:19.749581+00:00",
+      "insider_win": null,
+      "model_correct": null
+    }
   },
   {
     "market": "Llaneros FC vs. Once Caldas: O/U 2.5",
@@ -33440,7 +33499,8 @@
       "signal_strength": 105.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
+    },
+    "resolution_last_check": "2026-03-30T07:19:20.468372+00:00"
   },
   {
     "type": "TOP_TRADER",
@@ -33484,7 +33544,13 @@
     },
     "market": "Celtics vs. Hornets: O/U 215.5",
     "market_slug": "nba-bos-cha-2026-03-29",
-    "amount": 2081.6326529999997
+    "amount": 2081.6326529999997,
+    "resolution": {
+      "outcome": "Celtics",
+      "checked_at": "2026-03-30T07:19:21.164016+00:00",
+      "insider_win": null,
+      "model_correct": null
+    }
   },
   {
     "type": "TOP_TRADER",
@@ -33528,7 +33594,13 @@
     },
     "market": "Colorado Rockies vs. Miami Marlins",
     "market_slug": "mlb-col-mia-2026-03-29",
-    "amount": 3299.9999999999995
+    "amount": 3299.9999999999995,
+    "resolution": {
+      "outcome": "Miami Marlins",
+      "checked_at": "2026-03-30T07:19:21.867004+00:00",
+      "insider_win": null,
+      "model_correct": null
+    }
   },
   {
     "type": "TOP_TRADER",
@@ -33572,7 +33644,13 @@
     },
     "market": "Spread: Trail Blazers (-16.5)",
     "market_slug": "nba-was-por-2026-03-29",
-    "amount": 3017.9188
+    "amount": 3017.9188,
+    "resolution": {
+      "outcome": "Trail Blazers",
+      "checked_at": "2026-03-30T07:19:22.569554+00:00",
+      "insider_win": null,
+      "model_correct": null
+    }
   },
   {
     "type": "TOP_TRADER",
@@ -33616,7 +33694,13 @@
     },
     "market": "Heat vs. Pacers",
     "market_slug": "nba-mia-ind-2026-03-29",
-    "amount": 30433.669199999997
+    "amount": 30433.669199999997,
+    "resolution": {
+      "outcome": "Pacers",
+      "checked_at": "2026-03-30T07:19:23.276159+00:00",
+      "insider_win": null,
+      "model_correct": null
+    }
   },
   {
     "type": "TOP_TRADER",
@@ -33660,7 +33744,13 @@
     },
     "market": "Heat vs. Pacers",
     "market_slug": "nba-mia-ind-2026-03-29",
-    "amount": 6006.0
+    "amount": 6006.0,
+    "resolution": {
+      "outcome": "Pacers",
+      "checked_at": "2026-03-30T07:19:23.276197+00:00",
+      "insider_win": null,
+      "model_correct": null
+    }
   },
   {
     "type": "TOP_TRADER",
@@ -33704,6 +33794,12 @@
     },
     "market": "Knicks vs. Thunder",
     "market_slug": "nba-nyk-okc-2026-03-29",
-    "amount": 2340.1654000000003
+    "amount": 2340.1654000000003,
+    "resolution": {
+      "outcome": "Thunder",
+      "checked_at": "2026-03-30T07:19:23.978666+00:00",
+      "insider_win": null,
+      "model_correct": null
+    }
   }
 ]
