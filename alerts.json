@@ -1,42 +1,5 @@
 [
   {
-    "market": "Will the price of Bitcoin be above $100,000 on January 29?",
-    "market_slug": "bitcoin-above-100k-on-january-29",
-    "wallet": "0xf67e09f19d4485f297457f9ad6f70a03112ba55c",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "Extreme confidence (99.9% odds)",
-        "Large bet ($20,104)",
-        "Pre-event latency: 1981m"
-      ],
-      "amount": 20103.876,
-      "odds": 0.999,
-      "wallet_age_days": 106,
-      "total_activities": 100
-    },
-    "timestamp": "2026-01-27T15:01:51.559478",
-    "trade_hash": "0x0e6e4b22d08d661fc81ce91841f21d1ac44c839e665a30dd0c2d3cb69fd8c46b",
-    "trade_timestamp": 1769525969,
-    "latency": {
-      "latency_seconds": 118831.0,
-      "latency_minutes": 1980.5166666666667,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-01-27T14:59:29+00:00",
-      "event_time": "2026-01-29T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "BUY",
-      "price": 0.999,
-      "size": 20124.0,
-      "amount": 20103.876
-    },
-    "resolution_last_check": "2026-03-29T06:54:30.439871+00:00"
-  },
-  {
     "market": "Will Russia capture all of Myrnohrad by February 28?",
     "market_slug": "will-russia-capture-all-of-myrnohrad-by-february-28",
     "wallet": "0xc65bd3b56d8784fb9fb750297dec537cf5ea7aad",
@@ -34500,6 +34463,115 @@
       "edge_percent": 2.36,
       "signal_strength": 85.0,
       "insider_score": 85.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Counter-Strike: G2 vs Team Nemesis (BO3) - Stake Ranked Episode 1 Playoffs",
+    "market_slug": "cs2-g2-nem-2026",
+    "event_slug": "cs2-g2-nem-2026",
+    "wallet": "0x8832d4ca3b0458f2adceaa23cc9cecef87f505e7",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,900)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 1900.2851410004203,
+      "odds": 0.8599999999549337,
+      "raw_price": 0.8599999999549337,
+      "outcome": "G2",
+      "potential_pnl": 309.34874399957994,
+      "pnl_multiplier": 0.16279069773535187,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-04-01T09:38:00.951723",
+    "trade_hash": "0x3f1877be705ab4e835cab5377914b6dc241f073a89e8a55fb8f403502790bd36",
+    "trade_timestamp": 1775036095,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "G2",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.8599999999549337,
+      "effective_price": 0.8599999999549337,
+      "size": 2209.633885,
+      "amount": 1900.2851410004203,
+      "potential_pnl": 309.34874399957994,
+      "pnl_multiplier": 0.16279069773535187,
+      "is_no": false,
+      "slug": "cs2-g2-nem-2026",
+      "eventSlug": "cs2-g2-nem-2026-04-01"
+    },
+    "irrationality": {
+      "irrationality_score": 45,
+      "flags": [
+        "Crisis keyword detected ('strike')",
+        "Large mispricing edge (+54.8%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.3119999999909867,
+      "market_price": 0.8599999999549337,
+      "edge": 0.547999999963947,
+      "edge_percent": 54.799999996394696,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "G2 maintains current form",
+          "Team Nemesis performs above expectations",
+          "External factors (e.g., player health, team morale) remain stable"
+        ],
+        "weakest_link": "Team Nemesis performs above expectations"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "G2's recent performance and consistency",
+        "Team Nemesis's potential for upsets"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 45,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.547999999963947,
+      "edge_percent": 54.799999996394696
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 48.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 54.8,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
   }
