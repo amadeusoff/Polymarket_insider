@@ -266,9 +266,10 @@ def detect_insider_trades():
                         elif outcome_lower in ("no", "under"):
                             normalized_position = "NO"
                         else:
-                            # Team/player names: use outcomeIndex (0=YES, 1=NO)
-                            outcome_index = trade.get("outcomeIndex", 0)
-                            normalized_position = "NO" if outcome_index == 1 else "YES"
+                            # Team/player names: detect from title (outcomeIndex unreliable)
+                            from notifier import _is_second_in_vs_title
+                            market_title = market.get("question", "")
+                            normalized_position = "NO" if _is_second_in_vs_title(outcome, market_title) else "YES"
                         
                         irrationality_analysis = analyze_market_irrationality(
                             market_question=market.get("question", ""),

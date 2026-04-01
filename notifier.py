@@ -168,9 +168,16 @@ def format_trade_info(alert):
     outcome_str = trade_data.get("outcome", "Yes") or "Yes"
     
     # For economics calculation, we need to know if it's a NO position
-    # outcomeIndex: 0 = first option (YES/Team1), 1 = second option (NO/Team2)
-    outcome_index = trade_data.get("outcomeIndex", 0)
-    is_no = (outcome_index == 1) or (str(outcome_str).lower() in ['no', 'under'])
+    # outcomeIndex is UNRELIABLE for sports — always use title detection for team names
+    outcome_lower = str(outcome_str).lower()
+    if outcome_lower in ('no', 'under'):
+        is_no = True
+    elif outcome_lower in ('yes', 'over'):
+        is_no = False
+    else:
+        # Team/player name: detect from title
+        market_title = alert.get('market', '') or trade_data.get('title', '')
+        is_no = _is_second_in_vs_title(outcome_str, market_title)
     
     if size > 0 and raw_price > 0:
         # Calculate with proper NO detection
@@ -214,14 +221,12 @@ def format_trade_info(alert):
         # O/U market - add line number if available
         market_title = alert.get('market', '') or trade_data.get('title', '')
         ou_line = extract_ou_line(market_title)
-        outcome_index = trade_data.get("outcomeIndex", 0)
         
-        if outcome_index == 1:
+        if position_lower == 'under':
             price_display = (1 - econ.raw_price) * 100
-            implied_prob = price_display
         else:
             price_display = econ.raw_price * 100
-            implied_prob = price_display
+        implied_prob = price_display
         
         if ou_line:
             position_display = f"{position_clean} {ou_line} @ {price_display:.1f}¢"
@@ -229,9 +234,10 @@ def format_trade_info(alert):
             position_display = f"{position_clean} @ {price_display:.1f}¢"
     else:
         # Sports/event market - show team/player name
-        # outcomeIndex 0 = first option (uses raw_price), 1 = second option (uses 1-raw_price)
-        outcome_index = trade_data.get("outcomeIndex", 0)
-        if outcome_index == 1:
+        # Use title-based detection (outcomeIndex is unreliable)
+        market_title = alert.get('market', '') or trade_data.get('title', '')
+        is_second = _is_second_in_vs_title(position_clean, market_title)
+        if is_second:
             position_display = f"{position_clean} @ {(1 - econ.raw_price)*100:.1f}¢"
             implied_prob = (1 - econ.raw_price) * 100
         else:
@@ -514,16 +520,15 @@ def format_top_trader_alert(alert: Dict) -> str:
     outcome_lower = str(outcome_name).lower()
     
     # Determine if this is the "second side" (NO equivalent)
-    # Priority: explicit outcomeIndex > keyword > title position
-    if outcome_index is not None:
-        is_second_side = (outcome_index == 1)
-    elif outcome_lower in ('no', 'under'):
+    # IMPORTANT: outcomeIndex is unreliable for sports markets —
+    # it's a token index, NOT position in "X vs Y" title.
+    # Always use title-based detection for team/player names.
+    if outcome_lower in ('no', 'under'):
         is_second_side = True
     elif outcome_lower in ('yes', 'over'):
         is_second_side = False
     else:
         # Team/player name: detect from "X vs Y" in title
-        # If outcome matches the SECOND name → is_second_side
         market_title = trade.get('title', '') or alert.get('market', '')
         is_second_side = _is_second_in_vs_title(outcome_name, market_title)
     
@@ -657,9 +662,15 @@ def format_institutional_alert(alert):
     elif outcome_lower in ('over', 'under'):
         side_a, side_b = "Over", "Under"
     else:
-        # Sports: first outcome = side_a (YES equiv), second = side_b
-        side_a = outcome_name if trade_data.get('outcomeIndex', 0) == 0 else "Opponent"
-        side_b = outcome_name if trade_data.get('outcomeIndex', 0) == 1 else "Opponent"
+        # Sports: detect which side the outcome is on using title
+        market_title = alert.get('market', '') or trade_data.get('title', '')
+        is_second = _is_second_in_vs_title(str(outcome_name), market_title)
+        if is_second:
+            side_a = "Opponent"
+            side_b = str(outcome_name)
+        else:
+            side_a = str(outcome_name)
+            side_b = "Opponent"
     
     # Determine which side stats favor
     if edge_percent > 0:
@@ -718,13 +729,15 @@ Bet: ${amount:,.0f} {trade_info['position']}"""
     # Fallback: parse from display string if normalized_position not available
     if not position_side or position_side not in ('YES', 'NO'):
         position_str = trade_info['position']
-        outcome_index = trade_data.get('outcomeIndex', 0)
         if 'YES' in position_str.upper():
             position_side = 'YES'
         elif 'NO' in position_str.upper():
             position_side = 'NO'
         else:
-            position_side = 'YES' if outcome_index == 0 else 'NO'
+            # Team/player name: use title detection
+            market_title = alert.get('market', '') or trade_data.get('title', '')
+            outcome = trade_data.get('outcome', 'Yes')
+            position_side = 'NO' if _is_second_in_vs_title(str(outcome), market_title) else 'YES'
     
     has_conflict = ev_direction and position_side != ev_direction
     
