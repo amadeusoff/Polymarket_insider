@@ -1,73 +1,5 @@
 [
   {
-    "market": "Will Mar\u00eda Corina Machado enter Venezuela by January 31?",
-    "market_slug": "will-mara-corina-machado-enter-venezuela-by-january-31-859-245",
-    "wallet": "0x0939df35f48c48fa02a5a7a18cb9879364ffb5a6",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "Extreme confidence (97.0% odds)",
-        "Large bet ($1,255)",
-        "Pre-event latency: 4681m"
-      ],
-      "amount": 1255.2964,
-      "odds": 0.97,
-      "wallet_age_days": 457,
-      "total_activities": 71
-    },
-    "timestamp": "2026-01-27T18:00:10.638126",
-    "trade_hash": "0xf448afb60b6c3cf65636d86b8c7e0df47bd32ed4b82d10757e7dab7721a1f288",
-    "trade_timestamp": 1769536761,
-    "latency": {
-      "latency_seconds": 280839.0,
-      "latency_minutes": 4680.65,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-01-27T17:59:21+00:00",
-      "event_time": "2026-01-31T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "SELL",
-      "price": 0.97,
-      "size": 1294.12,
-      "amount": 1255.2964
-    },
-    "resolution_last_check": "2026-03-29T06:54:33.067751+00:00"
-  },
-  {
-    "market": "Will Espanyol win the 2025\u201326 La Liga?",
-    "market_slug": "will-espanyol-win-the-202526-la-liga",
-    "wallet": "0x6a906a2f9f29daefb0da63a991e62a3c5e7c4869",
-    "analysis": {
-      "score": 95,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (99.9% odds)",
-        "Large bet ($1,400)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 1400.25834,
-      "odds": 0.999,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-01-27T18:00:18.824617",
-    "trade_hash": "0xc7834e8440a19fef553958825e61b8a069f1bb2d8abcad4dfe295377fd819a5d",
-    "trade_timestamp": 1769536669,
-    "latency": null,
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "BUY",
-      "price": 0.999,
-      "size": 1401.66,
-      "amount": 1400.25834
-    },
-    "resolution_last_check": "2026-03-29T06:54:33.718251+00:00"
-  },
-  {
     "market": "Will the US strike Somalia next?",
     "market_slug": "will-the-us-strike-somalia-next-737",
     "wallet": "0x326561306aa31c91f80e65b764b1871581c50bc5",
@@ -34603,5 +34535,222 @@
     "market": "Blues vs. Kings",
     "market_slug": "nhl-stl-lak-2026-04-01",
     "amount": 4986.366
+  },
+  {
+    "market": "Spread: Nuggets (-16.5)",
+    "market_slug": "nba-den-uta-2026-04-01-spread-away-16pt5",
+    "event_slug": "nba-den-uta-2026-04-01-spread-away-16pt5",
+    "wallet": "0x992a5c9c5a0c8f83750b5a18795f2338d9b25e34",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($24,719)",
+        "Low activity (2 txns)"
+      ],
+      "amount": 24718.551490499995,
+      "odds": 0.49,
+      "raw_price": 0.49,
+      "outcome": "Jazz",
+      "potential_pnl": 25727.4719595,
+      "pnl_multiplier": 1.0408163265306125,
+      "wallet_age_days": 0,
+      "total_activities": 2
+    },
+    "timestamp": "2026-04-02T01:01:13.702452",
+    "trade_hash": "0xd17d1f6091eb40c03e9afb9b5e891b875afb74c1d4944fc0268d095b219677ef",
+    "trade_timestamp": 1775091591,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Jazz",
+      "outcomeIndex": 1,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.49,
+      "effective_price": 0.49,
+      "size": 50446.02344999999,
+      "amount": 24718.551490499995,
+      "potential_pnl": 25727.4719595,
+      "pnl_multiplier": 1.0408163265306125,
+      "is_no": false,
+      "slug": "nba-den-uta-2026-04-01-spread-away-16pt5",
+      "eventSlug": "nba-den-uta-2026-04-01"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+25.2%)"
+      ],
+      "category": "other",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.238,
+      "market_price": 0.49,
+      "edge": 0.252,
+      "edge_percent": 25.2,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Nuggets win by more than 16.5 points",
+          "Key players perform at peak levels",
+          "Opposing team underperforms significantly"
+        ],
+        "weakest_link": "Opposing team underperforms significantly"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Nuggets' strong home court advantage",
+        "Recent performance trends favoring the Nuggets"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.252,
+      "edge_percent": 25.2
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 46.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 25.2,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Will Trump say \"Ceasefire\" or \"Peace Deal\" during Address to the Nation?",
+    "market_slug": "will-trump-say-ceasefire-or-peace-deal-during-address-to-the-nation",
+    "event_slug": "will-trump-say-ceasefire-or-peace-deal-during-address-to-the-nation",
+    "wallet": "0x8f784e05d17bcec0dfdd4993fceef408ef935106",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,495)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 1494.999999,
+      "odds": 0.5599999998651505,
+      "raw_price": 0.5599999998651505,
+      "outcome": "Yes",
+      "potential_pnl": 1174.642857,
+      "pnl_multiplier": 0.7857142861442906,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-04-02T01:01:25.006442",
+    "trade_hash": "0xd5a46eecdd1175aecac9abd964fcac7ffa8d5189057fa6414b0e378be878007a",
+    "trade_timestamp": 1775091519,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.5599999998651505,
+      "effective_price": 0.5599999998651505,
+      "size": 2669.642856,
+      "amount": 1494.999999,
+      "potential_pnl": 1174.642857,
+      "pnl_multiplier": 0.7857142861442906,
+      "is_no": false,
+      "slug": "will-trump-say-ceasefire-or-peace-deal-during-address-to-the-nation",
+      "eventSlug": "what-will-trump-say-during-address-to-the-nation-on-april-1"
+    },
+    "irrationality": {
+      "irrationality_score": 40,
+      "flags": [
+        "Category structurally prone to longshot bias",
+        "Large mispricing edge (+38.8%)"
+      ],
+      "category": "geopolitics",
+      "category_info": {
+        "strength": "high",
+        "typical_overpricing": 0.05,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.17199999997303012,
+      "market_price": 0.5599999998651505,
+      "edge": 0.38799999989212036,
+      "edge_percent": 38.79999998921203,
+      "min_edge_required": 0.03,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "occasional",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "occasional",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Trump's current stance on foreign policy",
+          "The context of the address and current events",
+          "Public and political pressure regarding the situation"
+        ],
+        "weakest_link": "Trump's current stance on foreign policy, as it may not align with using terms like 'ceasefire' or 'peace deal'"
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Public sentiment towards ongoing conflicts",
+        "Media framing of Trump's address leading up to the event"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 40,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.38799999989212036,
+      "edge_percent": 38.79999998921203
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 47.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 38.8,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
