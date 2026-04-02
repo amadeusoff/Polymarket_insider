@@ -1,79 +1,5 @@
 [
   {
-    "market": "Will Mar\u00eda Corina Machado enter Venezuela by January 31?",
-    "market_slug": "will-mara-corina-machado-enter-venezuela-by-january-31-859-245",
-    "wallet": "0xc550e5ee1011afb6d37c7fbb18fea32e03f9272d",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "Extreme confidence (97.1% odds)",
-        "Large bet ($1,355)",
-        "Pre-event latency: 4587m"
-      ],
-      "amount": 1354.6420999999998,
-      "odds": 0.971,
-      "wallet_age_days": 354,
-      "total_activities": 100
-    },
-    "timestamp": "2026-01-27T19:36:44.055647",
-    "trade_hash": "0xcbe254178b3b9f98cd526eb10ad9079c6eb773008367f984c0e9306bec36623b",
-    "trade_timestamp": 1769542385,
-    "latency": {
-      "latency_seconds": 275215.0,
-      "latency_minutes": 4586.916666666667,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-01-27T19:33:05+00:00",
-      "event_time": "2026-01-31T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "BUY",
-      "price": 0.971,
-      "size": 1395.1,
-      "amount": 1354.6420999999998
-    },
-    "resolution_last_check": "2026-03-29T06:54:35.020667+00:00"
-  },
-  {
-    "market": "Will the total domestic gross for Avatar: Fire and Ash be less than 400m by January 31?",
-    "market_slug": "will-the-total-domestic-gross-for-avatar-fire-and-ash-be-less-than-400m-by-january-31",
-    "wallet": "0x3dca854f147d9b9ecc56d37800f36b347ce23c13",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "Extreme confidence (99.5% odds)",
-        "Large bet ($1,194)",
-        "Pre-event latency: 4571m"
-      ],
-      "amount": 1194.0,
-      "odds": 0.995,
-      "wallet_age_days": 94,
-      "total_activities": 100
-    },
-    "timestamp": "2026-01-27T19:52:12.825833",
-    "trade_hash": "0xf748276b6d08379f52caa99f7d425685791b8f306a554ddab3c510f098c79fd4",
-    "trade_timestamp": 1769543327,
-    "latency": {
-      "latency_seconds": 274273.0,
-      "latency_minutes": 4571.216666666666,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-01-27T19:48:47+00:00",
-      "event_time": "2026-01-31T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "side": "BUY",
-      "price": 0.995,
-      "size": 1200.0,
-      "amount": 1194.0
-    },
-    "resolution_last_check": "2026-03-29T06:54:35.700290+00:00"
-  },
-  {
     "market": "Russia x Ukraine ceasefire by January 31, 2026?",
     "market_slug": "russia-x-ukraine-ceasefire-by-january-31-2026",
     "wallet": "0x5eec1b59273669498cd2cbdda7947a46087ef4e2",
@@ -34803,5 +34729,221 @@
     "market": "Lakers vs. Thunder",
     "market_slug": "nba-lal-okc-2026-04-02",
     "amount": 1953.5533
+  },
+  {
+    "market": "Atlanta Braves vs. Arizona Diamondbacks",
+    "market_slug": "mlb-atl-ari-2026",
+    "event_slug": "mlb-atl-ari-2026",
+    "wallet": "0x63a51cbb37341837b873bc29d05f482bc2988e33",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($35,400)",
+        "Low activity (4 txns)"
+      ],
+      "amount": 35400.12264456199,
+      "odds": 0.5325258460183494,
+      "raw_price": 0.5325258460183494,
+      "outcome": "Atlanta Braves",
+      "potential_pnl": 31075.754365438006,
+      "pnl_multiplier": 0.8778431271963891,
+      "wallet_age_days": 0,
+      "total_activities": 4
+    },
+    "timestamp": "2026-04-02T12:03:38.980795",
+    "trade_hash": "0xf991f044397c53002005fc7f6151273b9695a964d7222a65ad6502f6ab00a725",
+    "trade_timestamp": 1775131245,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Atlanta Braves",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.5325258460183494,
+      "effective_price": 0.5325258460183494,
+      "size": 66475.87701,
+      "amount": 35400.12264456199,
+      "potential_pnl": 31075.754365438006,
+      "pnl_multiplier": 0.8778431271963891,
+      "is_no": false,
+      "slug": "mlb-atl-ari-2026",
+      "eventSlug": "mlb-atl-ari-2026-04-02"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+28.6%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.24650516920366988,
+      "market_price": 0.5325258460183494,
+      "edge": 0.2860206768146795,
+      "edge_percent": 28.60206768146795,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Braves maintain strong performance",
+          "Diamondbacks underperform",
+          "Injuries to key players on opposing teams"
+        ],
+        "weakest_link": "Injuries to key players on opposing teams"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Recent performance trends",
+        "Fan sentiment and support"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.2860206768146795,
+      "edge_percent": 28.60206768146795
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 46.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 28.6,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Atlanta Braves vs. Arizona Diamondbacks",
+    "market_slug": "mlb-atl-ari-2026",
+    "event_slug": "mlb-atl-ari-2026",
+    "wallet": "0x63a51cbb37341837b873bc29d05f482bc2988e33",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($8,878)",
+        "Low activity (4 txns)"
+      ],
+      "amount": 8877.604696800001,
+      "odds": 0.56,
+      "raw_price": 0.56,
+      "outcome": "Atlanta Braves",
+      "potential_pnl": 6975.2608332,
+      "pnl_multiplier": 0.7857142857142856,
+      "wallet_age_days": 0,
+      "total_activities": 4
+    },
+    "timestamp": "2026-04-02T12:03:43.354249",
+    "trade_hash": "0x0f714a35b93896fe611aa6d511c1ee4433528f1dbd8f7496bce8592c536fbd91",
+    "trade_timestamp": 1775131245,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Atlanta Braves",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.56,
+      "effective_price": 0.56,
+      "size": 15852.865530000001,
+      "amount": 8877.604696800001,
+      "potential_pnl": 6975.2608332,
+      "pnl_multiplier": 0.7857142857142856,
+      "is_no": false,
+      "slug": "mlb-atl-ari-2026",
+      "eventSlug": "mlb-atl-ari-2026-04-02"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+30.8%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.252,
+      "market_price": 0.56,
+      "edge": 0.30800000000000005,
+      "edge_percent": 30.800000000000004,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Braves maintain current performance level",
+          "Diamondbacks underperform in upcoming games",
+          "Injuries to key players on opposing teams"
+        ],
+        "weakest_link": "Injuries to key players on opposing teams"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Braves' strong offensive lineup",
+        "Diamondbacks' recent performance fluctuations"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.30800000000000005,
+      "edge_percent": 30.800000000000004
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 46.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 30.8,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
