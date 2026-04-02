@@ -1,79 +1,5 @@
 [
   {
-    "market": "Russia x Ukraine ceasefire by January 31, 2026?",
-    "market_slug": "russia-x-ukraine-ceasefire-by-january-31-2026",
-    "wallet": "0x5eec1b59273669498cd2cbdda7947a46087ef4e2",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "Extreme confidence (99.6% odds)",
-        "Large bet ($2,240)",
-        "Pre-event latency: 4564m"
-      ],
-      "amount": 2240.19324,
-      "odds": 0.996,
-      "wallet_age_days": 444,
-      "total_activities": 100
-    },
-    "timestamp": "2026-01-27T20:00:19.721541",
-    "trade_hash": "0xb1ac178e4ee16549162bf9f00fb2c34df507913f23de6c2e8871328d8251f19d",
-    "trade_timestamp": 1769543775,
-    "latency": {
-      "latency_seconds": 273825.0,
-      "latency_minutes": 4563.75,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-01-27T19:56:15+00:00",
-      "event_time": "2026-01-31T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "SELL",
-      "price": 0.996,
-      "size": 2249.19,
-      "amount": 2240.19324
-    },
-    "resolution_last_check": "2026-03-29T06:54:35.700306+00:00"
-  },
-  {
-    "market": "Will Trump denaturalize any citizen by June 30?",
-    "market_slug": "will-trump-denaturalize-any-citizen-by-june-30",
-    "wallet": "0x4d0e9b029700163625c551a0073636f3dc5ec45b",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "Extreme confidence (98.2% odds)",
-        "Large bet ($3,359)",
-        "Pre-event latency: 220520m"
-      ],
-      "amount": 3358.6611,
-      "odds": 0.9822197364496148,
-      "wallet_age_days": 51,
-      "total_activities": 100
-    },
-    "timestamp": "2026-01-27T20:43:36.412896",
-    "trade_hash": "0xc6c1494464d414439a856c1643d605e36c848cfae026fd373130e2fa3a69c4b1",
-    "trade_timestamp": 1769546425,
-    "latency": {
-      "latency_seconds": 13231175.0,
-      "latency_minutes": 220519.58333333334,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-01-27T20:40:25+00:00",
-      "event_time": "2026-06-30T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "side": "BUY",
-      "price": 0.9822197364496148,
-      "size": 3419.46,
-      "amount": 3358.6611
-    },
-    "resolution_last_check": "2026-03-29T06:54:36.347214+00:00"
-  },
-  {
     "market": "Alabama State Hornets vs. Texas Southern Tigers",
     "market_slug": "cbb-alast-txs-2026-01-27",
     "wallet": "0x7647f7fa87e53d49dbbf58f9a0230de8a926d711",
@@ -34945,5 +34871,157 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "market": "Canadiens vs. Rangers",
+    "market_slug": "nhl-mon-nyr-2026",
+    "event_slug": "nhl-mon-nyr-2026",
+    "wallet": "0xb1c485195cdf081492273f297ea36b726a12743f",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($3,158)",
+        "Low activity (4 txns)"
+      ],
+      "amount": 3157.92,
+      "odds": 0.54,
+      "raw_price": 0.54,
+      "outcome": "Canadiens",
+      "potential_pnl": 2690.08,
+      "pnl_multiplier": 0.8518518518518519,
+      "wallet_age_days": 0,
+      "total_activities": 4
+    },
+    "timestamp": "2026-04-02T16:34:19.641701",
+    "trade_hash": "0xa3354dc6ed54024e5a730a13d886a714bb35bd2bce331cb1042f500471b33bf7",
+    "trade_timestamp": 1775147523,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Canadiens",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.54,
+      "effective_price": 0.54,
+      "size": 5848.0,
+      "amount": 3157.92,
+      "potential_pnl": 2690.08,
+      "pnl_multiplier": 0.8518518518518519,
+      "is_no": false,
+      "slug": "nhl-mon-nyr-2026",
+      "eventSlug": "nhl-mon-nyr-2026-04-02"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+29.2%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.248,
+      "market_price": 0.54,
+      "edge": 0.29200000000000004,
+      "edge_percent": 29.200000000000003,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Canadiens maintain strong performance",
+          "Rangers underperform",
+          "Injury to key players on opposing team"
+        ],
+        "weakest_link": "Rangers underperform"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "team rivalry",
+        "recent performance trends"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.29200000000000004,
+      "edge_percent": 29.200000000000003
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 46.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 29.2,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x9efbb4fff2f2890d110d5662e79eaee9f1059f682a33631d510a242cae1640ca",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "trader": {
+      "rank": 11,
+      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "username": "swisstony",
+      "profit": 5684200.214877697,
+      "volume": 613553433.8129011,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x9cb990f1862568a63d8601efeebe0304225c32f2",
+      "side": "BUY",
+      "asset": "15341974313022947653299634710256021008261096970489668375392107094324100282893",
+      "conditionId": "0x2813d3e229eb2e6f831f7061a9f4ad840bdf1c8141251091448c286241473151",
+      "size": 52000,
+      "price": 0.49,
+      "timestamp": 1775147981,
+      "title": "Capitals vs. Devils",
+      "slug": "nhl-wsh-nj-2026-04-02",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nhl.png",
+      "eventSlug": "nhl-wsh-nj-2026-04-02",
+      "outcome": "Capitals",
+      "outcomeIndex": 0,
+      "name": "jtwyslljy",
+      "pseudonym": "Grateful-Chest",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x9efbb4fff2f2890d110d5662e79eaee9f1059f682a33631d510a242cae1640ca",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Capitals vs. Devils",
+    "market_slug": "nhl-wsh-nj-2026-04-02",
+    "amount": 25480.0
   }
 ]
