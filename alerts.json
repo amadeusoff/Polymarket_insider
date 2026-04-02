@@ -34402,7 +34402,13 @@
     },
     "market": "Hawks vs. Magic",
     "market_slug": "nba-atl-orl-2026-04-01",
-    "amount": 2166.980895563033
+    "amount": 2166.980895563033,
+    "resolution": {
+      "outcome": "Hawks",
+      "checked_at": "2026-04-02T07:04:24.633399+00:00",
+      "insider_win": null,
+      "model_correct": null
+    }
   },
   {
     "type": "TOP_TRADER",
@@ -34446,7 +34452,13 @@
     },
     "market": "Hawks vs. Magic",
     "market_slug": "nba-atl-orl-2026-04-01",
-    "amount": 3682.5
+    "amount": 3682.5,
+    "resolution": {
+      "outcome": "Hawks",
+      "checked_at": "2026-04-02T07:04:24.633431+00:00",
+      "insider_win": null,
+      "model_correct": null
+    }
   },
   {
     "type": "TOP_TRADER",
@@ -34490,7 +34502,13 @@
     },
     "market": "Kings vs. Raptors",
     "market_slug": "nba-sac-tor-2026-04-01",
-    "amount": 2630.0183
+    "amount": 2630.0183,
+    "resolution": {
+      "outcome": "Kings",
+      "checked_at": "2026-04-02T07:04:25.412901+00:00",
+      "insider_win": null,
+      "model_correct": null
+    }
   },
   {
     "type": "TOP_TRADER",
@@ -34534,7 +34552,13 @@
     },
     "market": "Blues vs. Kings",
     "market_slug": "nhl-stl-lak-2026-04-01",
-    "amount": 4986.366
+    "amount": 4986.366,
+    "resolution": {
+      "outcome": "Kings",
+      "checked_at": "2026-04-02T07:04:26.195532+00:00",
+      "insider_win": null,
+      "model_correct": null
+    }
   },
   {
     "market": "Spread: Nuggets (-16.5)",
@@ -34642,6 +34666,12 @@
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    },
+    "resolution": {
+      "outcome": "Jazz",
+      "checked_at": "2026-04-02T07:04:26.983060+00:00",
+      "insider_win": true,
+      "model_correct": null
     }
   },
   {
@@ -34751,6 +34781,7 @@
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
+    },
+    "resolution_last_check": "2026-04-02T07:04:27.765943+00:00"
   }
 ]
