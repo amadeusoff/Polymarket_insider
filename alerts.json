@@ -1,41 +1,5 @@
 [
   {
-    "market": "New \"Stranger Things\" episode released by February 28? ",
-    "market_slug": "new-stranger-things-episode-released-by-february-28",
-    "wallet": "0xdf17f4a8dd01a4cfa6fc3da323a2baee5f8697d1",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "Extreme confidence (96.5% odds)",
-        "Large bet ($2,490)",
-        "Pre-event latency: 44809m"
-      ],
-      "amount": 2490.3947999999996,
-      "odds": 0.965,
-      "wallet_age_days": 414,
-      "total_activities": 100
-    },
-    "timestamp": "2026-01-27T21:11:58.359969",
-    "trade_hash": "0x912f875c7a76f874d51bdc4ce079ea450e015810651c80c27a926d55e32e314d",
-    "trade_timestamp": 1769548231,
-    "latency": {
-      "latency_seconds": 2688569.0,
-      "latency_minutes": 44809.48333333333,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-01-27T21:10:31+00:00",
-      "event_time": "2026-02-28T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "BUY",
-      "price": 0.965,
-      "size": 2580.72,
-      "amount": 2490.3947999999996
-    }
-  },
-  {
     "market": "Khamenei out as Supreme Leader of Iran by January 31?",
     "market_slug": "khamenei-out-as-supreme-leader-of-iran-by-january-31",
     "wallet": "0xa77f0452340a90d5cef968ae2ec4bab95d71c22c",
@@ -35032,5 +34996,49 @@
     "market": "Paris Basketball vs. Olimpia Milano",
     "market_slug": "euroleague-paris-milano-2026-04-02",
     "amount": 3580.9683924
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xc003c9f34070739e17312e85a84b7e34d578a223a558545e51731626d1bde680",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "trader": {
+      "rank": 7,
+      "address": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+      "username": "RN1",
+      "profit": 6666773.807599101,
+      "volume": 343969720.7057091,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x35417b3d09d7a0991f75d7cc95162a6e34d7462e",
+      "side": "BUY",
+      "asset": "114802065330196313748583636362219556679241104184345158405411161275523811071216",
+      "conditionId": "0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14",
+      "size": 3620.22,
+      "price": 0.34,
+      "timestamp": 1775157285,
+      "title": "Will the next Prime Minister of Hungary be P\u00e9ter Magyar?",
+      "slug": "will-the-next-prime-minister-of-hungary-be-pter-magyar",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-the-next-prime-minister-of-romania-be-pter-magyar-HbEv3YBJrtaT.jpg",
+      "eventSlug": "next-prime-minister-of-hungary",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "Casdifer",
+      "pseudonym": "Emotional-Assignment",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-4798110-1d9f916f-7692-4971-8d44-8fe6be7e7927.jpg",
+      "profileImageOptimized": "",
+      "transactionHash": "0xc003c9f34070739e17312e85a84b7e34d578a223a558545e51731626d1bde680",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will the next Prime Minister of Hungary be P\u00e9ter Magyar?",
+    "market_slug": "next-prime-minister-of-hungary",
+    "amount": 2389.3451999999997
   }
 ]
