@@ -34583,7 +34583,13 @@
     },
     "market": "Lakers vs. Thunder",
     "market_slug": "nba-lal-okc-2026-04-02",
-    "amount": 1953.5533
+    "amount": 1953.5533,
+    "resolution": {
+      "outcome": "Thunder",
+      "checked_at": "2026-04-03T07:00:43.943407+00:00",
+      "insider_win": null,
+      "model_correct": null
+    }
   },
   {
     "market": "Atlanta Braves vs. Arizona Diamondbacks",
@@ -34951,7 +34957,13 @@
     },
     "market": "Capitals vs. Devils",
     "market_slug": "nhl-wsh-nj-2026-04-02",
-    "amount": 25480.0
+    "amount": 25480.0,
+    "resolution": {
+      "outcome": "Devils",
+      "checked_at": "2026-04-03T07:00:47.020092+00:00",
+      "insider_win": null,
+      "model_correct": null
+    }
   },
   {
     "type": "TOP_TRADER",
@@ -34995,7 +35007,13 @@
     },
     "market": "Paris Basketball vs. Olimpia Milano",
     "market_slug": "euroleague-paris-milano-2026-04-02",
-    "amount": 3580.9683924
+    "amount": 3580.9683924,
+    "resolution": {
+      "outcome": "Paris Basketball",
+      "checked_at": "2026-04-03T07:00:47.664980+00:00",
+      "insider_win": null,
+      "model_correct": null
+    }
   },
   {
     "type": "TOP_TRADER",
