@@ -1,109 +1,5 @@
 [
   {
-    "market": "Will Mar\u00eda Corina Machado enter Venezuela by January 31?",
-    "market_slug": "will-mara-corina-machado-enter-venezuela-by-january-31",
-    "wallet": "0xfd076a684f0a2de61598b1de9a8ee2fe520cce86",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "Extreme confidence (97.8% odds)",
-        "Large bet ($1,390)",
-        "Pre-event latency: 3486m"
-      ],
-      "amount": 1389.70866,
-      "odds": 0.978,
-      "wallet_age_days": 15,
-      "total_activities": 100
-    },
-    "timestamp": "2026-01-28T13:58:10.888549",
-    "trade_hash": "0x42e61f2d700e1956bcc895e4b237a672e82ba0e9fa5f5d3a97ea0a89af32fa83",
-    "trade_timestamp": 1769608437,
-    "latency": {
-      "latency_seconds": 209163.0,
-      "latency_minutes": 3486.05,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-01-28T13:53:57+00:00",
-      "event_time": "2026-01-31T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "BUY",
-      "price": 0.978,
-      "size": 1420.97,
-      "amount": 1389.70866
-    }
-  },
-  {
-    "market": "Will Trump nominate Judy Shelton as the next Fed chair?",
-    "market_slug": "will-trump-nominate-judy-shelton-as-the-next-fed-chair",
-    "wallet": "0xfcc7b3d96de6c072a215caaedefacf4d2d001434",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (1d old)",
-        "Extreme confidence (97.2% odds)",
-        "Large bet ($8,131)"
-      ],
-      "amount": 8131.349983,
-      "odds": 0.9719048832943848,
-      "wallet_age_days": 1,
-      "total_activities": 20
-    },
-    "timestamp": "2026-01-28T22:28:48.701063",
-    "trade_hash": "0xc8518bbfde0f7337ce1c934568b1ae69f0a8ed6a560f90078700ce15c3d43716",
-    "trade_timestamp": 1769639102,
-    "latency": null,
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "BUY",
-      "price": 0.9719048832943848,
-      "size": 8366.405111,
-      "amount": 8131.349983
-    },
-    "resolution_last_check": "2026-03-29T06:54:40.704274+00:00"
-  },
-  {
-    "market": "Will the US next strike Iran on February 1, 2026 (ET)?",
-    "market_slug": "will-the-us-next-strike-iran-on-february-1-2026-et",
-    "wallet": "0x7ca9caad2a9c045cf4c95915c051f36fa59fd002",
-    "analysis": {
-      "score": 110,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,373)",
-        "Low activity (2 txns)",
-        "Pre-event latency: 3430m"
-      ],
-      "amount": 1373.1499999999999,
-      "odds": 0.947,
-      "wallet_age_days": 0,
-      "total_activities": 2
-    },
-    "timestamp": "2026-01-29T14:52:35.596387",
-    "trade_hash": "0xd7f6dd448bb91ea509d49079a357e1b1d5941c6478b18731b2a7ff890c278753",
-    "trade_timestamp": 1769698202,
-    "latency": {
-      "latency_seconds": 205798.0,
-      "latency_minutes": 3429.9666666666667,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-01-29T14:50:02+00:00",
-      "event_time": "2026-02-01T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "BUY",
-      "price": 0.947,
-      "size": 1450.0,
-      "amount": 1373.1499999999999
-    },
-    "resolution_last_check": "2026-03-29T06:54:41.346929+00:00"
-  },
-  {
     "market": "Khamenei out as Supreme Leader of Iran by January 31?",
     "market_slug": "khamenei-out-as-supreme-leader-of-iran-by-january-31",
     "wallet": "0xbafe972545afc35d0767c3329ef2259c7d215c14",
@@ -35080,5 +34976,137 @@
     "market": "LoL: T1 vs Hanwha Life Esports - Game 2 Winner",
     "market_slug": "lol-t1-hle1-2026-04-04",
     "amount": 4204.175841207437
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x91f93d0eaa53ca2a2fd0759cf572fbe92cf1e6da565dacfbc915fcf08f962adc",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xefddbb135e2cc2648e3ca6a6b3d4fa4994d5017f",
+      "side": "BUY",
+      "asset": "89165064837003985387535247113999059940600607469654329437351806592854470646595",
+      "conditionId": "0x0ed4bdf38c2faa1b2452ad9afa87ee8faba783bf3e424aa70e8d7372e143875a",
+      "size": 17536.86464,
+      "price": 0.46,
+      "timestamp": 1775307043,
+      "title": "US Sassuolo Calcio vs. Cagliari Calcio: O/U 2.5",
+      "slug": "sea-sas-cag-2026-04-04-total-2pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Serie-A-Logo.png",
+      "eventSlug": "sea-sas-cag-2026-04-04-more-markets",
+      "outcome": "Over",
+      "outcomeIndex": 0,
+      "name": "maxgreen",
+      "pseudonym": "Arid-Fail",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x91f93d0eaa53ca2a2fd0759cf572fbe92cf1e6da565dacfbc915fcf08f962adc",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "US Sassuolo Calcio vs. Cagliari Calcio: O/U 2.5",
+    "market_slug": "sea-sas-cag-2026-04-04-more-markets",
+    "amount": 8066.9577344
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x5d26a305704f8ba2ec924bbfaf0f681ffb452d5b15ec07e6730ff48fa57fecb6",
+    "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+    "trader": {
+      "rank": 20,
+      "address": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+      "username": "beachboy4",
+      "profit": 3830450.4722745894,
+      "volume": 201480736.297354,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x12b926577a1fe7832d445a0b13f2e5f8c11d6312",
+      "side": "BUY",
+      "asset": "6708993280312610870377989212073818616636579692139427997292951434181137556462",
+      "conditionId": "0xee5c40e5a3295d229c706c886a14083967945a3a75063ed619b31aea1048176e",
+      "size": 10047.959191,
+      "price": 0.48999999998138,
+      "timestamp": 1775307947,
+      "title": "Spread: Michigan Wolverines (-1.5)",
+      "slug": "cbb-arz-mich-2026-04-04-spread-home-1pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "cbb-arz-mich-2026-04-04",
+      "outcome": "Michigan Wolverines",
+      "outcomeIndex": 0,
+      "name": "0x12b926577A1fE7832d445A0B13f2e5F8c11D6312-1774333573502",
+      "pseudonym": "Wry-Peony",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x5d26a305704f8ba2ec924bbfaf0f681ffb452d5b15ec07e6730ff48fa57fecb6",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spread: Michigan Wolverines (-1.5)",
+    "market_slug": "cbb-arz-mich-2026-04-04",
+    "amount": 4923.500003402907
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xbb3d5a38b62da45859bdfdf96c883c1e69e5ed59041453d62341fbf149473d67",
+    "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+    "trader": {
+      "rank": 20,
+      "address": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+      "username": "beachboy4",
+      "profit": 3830450.4722745894,
+      "volume": 201480736.297354,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x709e8dcb133555794decc598e07f2c923b8366f5",
+      "side": "BUY",
+      "asset": "6708993280312610870377989212073818616636579692139427997292951434181137556462",
+      "conditionId": "0xee5c40e5a3295d229c706c886a14083967945a3a75063ed619b31aea1048176e",
+      "size": 35449.2,
+      "price": 0.49,
+      "timestamp": 1775307947,
+      "title": "Spread: Michigan Wolverines (-1.5)",
+      "slug": "cbb-arz-mich-2026-04-04-spread-home-1pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "cbb-arz-mich-2026-04-04",
+      "outcome": "Michigan Wolverines",
+      "outcomeIndex": 0,
+      "name": "0xd4aa6f8e91cfea29b66a48ebff52814",
+      "pseudonym": "Wan-Flash",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xbb3d5a38b62da45859bdfdf96c883c1e69e5ed59041453d62341fbf149473d67",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spread: Michigan Wolverines (-1.5)",
+    "market_slug": "cbb-arz-mich-2026-04-04",
+    "amount": 17370.107999999997
   }
 ]
