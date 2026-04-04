@@ -2,36 +2,6 @@
   {
     "market": "Will Josh Shapiro win the 2028 US Presidential Election?",
     "market_slug": "will-josh-shapiro-win-the-2028-us-presidential-election",
-    "wallet": "0x2a34df2355be39b185699fb5b5e4abb549b0da49",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (96.1% odds)",
-        "Large bet ($1,211)"
-      ],
-      "amount": 1210.86,
-      "odds": 0.961,
-      "wallet_age_days": 0,
-      "total_activities": 36
-    },
-    "timestamp": "2026-01-30T17:41:49.115945",
-    "trade_hash": "0x2f091bbc14961be181cebd552c7d6dd0577ce4cf0074bc08e2d9b9f663ad9585",
-    "trade_timestamp": 1769794658,
-    "latency": null,
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "BUY",
-      "price": 0.961,
-      "size": 1260.0,
-      "amount": 1210.86
-    },
-    "resolution_last_check": "2026-03-29T06:54:45.131624+00:00"
-  },
-  {
-    "market": "Will Josh Shapiro win the 2028 US Presidential Election?",
-    "market_slug": "will-josh-shapiro-win-the-2028-us-presidential-election",
     "wallet": "0x2fe67436d7ce99aa55ab0754730277935e627266",
     "analysis": {
       "score": 85,
@@ -35278,5 +35248,49 @@
     "market": "LoL: Cloud9 vs LYON (BO3) - LCS Group Stage",
     "market_slug": "lol-c9-ly-2026-04-04",
     "amount": 9647.3703
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x41ad37151758ed2e5bcad181976ea5472460b25d47c63c2e92f02686875977ed",
+    "wallet": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+    "trader": {
+      "rank": 8,
+      "address": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+      "username": "PrincessCaro",
+      "profit": 6083643.099591745,
+      "volume": 23520809.952867,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x8f7a4b414417911e7e9bd738399874792cdbdb40",
+      "side": "BUY",
+      "asset": "76533108781962275310651165149634079251899733930834190485860627580128626747247",
+      "conditionId": "0x6d0e09d0f04572d9b1adad84703458b0297bc5603b69dccbde93147ee4443246",
+      "size": 2000,
+      "price": 0.09,
+      "timestamp": 1775345763,
+      "title": "US forces enter Iran by April 30?",
+      "slug": "us-forces-enter-iran-by-april-30-899",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-forces-enter-iran-by-L_p5JkCpvr0I.jpg",
+      "eventSlug": "us-forces-enter-iran-by",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "duderr",
+      "pseudonym": "Submissive-Communist",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/the_big_lebowski_1_f9b1d40b-4c7d-4627-90b0-0b211cba1e1c_1735689450470.png",
+      "profileImageOptimized": "",
+      "transactionHash": "0x41ad37151758ed2e5bcad181976ea5472460b25d47c63c2e92f02686875977ed",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "US forces enter Iran by April 30?",
+    "market_slug": "us-forces-enter-iran-by",
+    "amount": 1820.0
   }
 ]
