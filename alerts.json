@@ -1,42 +1,5 @@
 [
   {
-    "market": "US strikes Iran by February 3, 2026?",
-    "market_slug": "us-strikes-iran-by-february-3-2026",
-    "wallet": "0xb917bb0c83ef912e004f4aa41131a6b9775a02c6",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "Extreme confidence (96.0% odds)",
-        "Large bet ($17,726)",
-        "Pre-event latency: 2401m"
-      ],
-      "amount": 17726.112,
-      "odds": 0.96,
-      "wallet_age_days": 17,
-      "total_activities": 100
-    },
-    "timestamp": "2026-02-01T08:01:40.197816",
-    "trade_hash": "0x9b086b2e1e364ec438a41660395385d19a6171ebfb80e7071800931fe4fa263f",
-    "trade_timestamp": 1769932730,
-    "latency": {
-      "latency_seconds": 144070.0,
-      "latency_minutes": 2401.1666666666665,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-02-01T07:58:50+00:00",
-      "event_time": "2026-02-03T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "BUY",
-      "price": 0.96,
-      "size": 18464.7,
-      "amount": 17726.112
-    },
-    "resolution_last_check": "2026-03-29T06:54:48.165540+00:00"
-  },
-  {
     "market": "LoL: Hanwha Life Esports vs Gen.G - Game 1 Winner",
     "market_slug": "lol-hle1-gen-2026-02-01-game1",
     "wallet": "0x9d2df67ebf4f8cd281b38f80203792bcea4b341b",
@@ -35464,5 +35427,120 @@
     "market_slug": "nba-tor-bos-2026-04-05",
     "amount": 1666.6483116910765,
     "ai_context": "The Raptors are underdogs against the Celtics, who are typically stronger contenders in the Eastern Conference with a more established roster."
+  },
+  {
+    "market": "US x Iran ceasefire by April 7?",
+    "market_slug": "us-x-iran-ceasefire-by-april",
+    "event_slug": "us-x-iran-ceasefire-by-april",
+    "wallet": "0x58df4f5d434f7390349e6272a1eecf761992b4ad",
+    "analysis": {
+      "score": 85,
+      "flags": [
+        "Against trend (3.0% effective odds)",
+        "Large bet ($1,003)",
+        "Pre-event latency: 1628m"
+      ],
+      "amount": 1002.9199999999998,
+      "odds": 0.030060726680107026,
+      "raw_price": 0.030060726680107026,
+      "outcome": "Yes",
+      "potential_pnl": 32360.212258,
+      "pnl_multiplier": 32.26599555099111,
+      "wallet_age_days": 12,
+      "total_activities": 16
+    },
+    "timestamp": "2026-04-05T20:54:33.696400",
+    "trade_hash": "0x9b0e96d456b535b343acd3b0380e7326a404dd0c45bcb7ff316fc109089587b0",
+    "trade_timestamp": 1775422335,
+    "latency": {
+      "latency_seconds": 97665.0,
+      "latency_minutes": 1627.75,
+      "is_pre_event": true,
+      "severity": "CRITICAL",
+      "trade_time": "2026-04-05T20:52:15+00:00",
+      "event_time": "2026-04-07T00:00:00+00:00"
+    },
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.030060726680107026,
+      "effective_price": 0.030060726680107026,
+      "size": 33363.132258,
+      "amount": 1002.9199999999998,
+      "potential_pnl": 32360.212258,
+      "pnl_multiplier": 32.26599555099111,
+      "is_no": false,
+      "slug": "us-x-iran-ceasefire-by-april",
+      "eventSlug": "us-x-iran-ceasefire-by"
+    },
+    "irrationality": {
+      "irrationality_score": 40,
+      "flags": [
+        "Longshot (3%) in high bias category (geopolitics)",
+        "Category structurally prone to longshot bias"
+      ],
+      "category": "geopolitics",
+      "category_info": {
+        "strength": "high",
+        "typical_overpricing": 0.05,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.030012145336021406,
+      "market_price": 0.030060726680107026,
+      "edge": 4.858134408562004e-05,
+      "edge_percent": 0.004858134408562004,
+      "min_edge_required": 0.05,
+      "is_mispriced": false,
+      "edge_quality": "WEAK",
+      "base_rate_class": "rare",
+      "confidence": "medium"
+    },
+    "factors": {
+      "base_rate_class": "rare",
+      "structural_feasibility": {
+        "independent_conditions_required": 3,
+        "conditions": [
+          "Mutual agreement on ceasefire terms",
+          "Reduction of hostilities from both sides",
+          "International pressure or mediation to facilitate ceasefire"
+        ],
+        "weakest_link": "Mutual agreement on ceasefire terms"
+      },
+      "category": "geopolitics",
+      "narrative_drivers": [
+        "Escalation of conflict leading to increased international scrutiny",
+        "Desire for stability in the region amid ongoing tensions"
+      ],
+      "confidence_in_analysis": "medium"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 85,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 85,
+      "insider_position": "YES",
+      "irrationality_score": 40,
+      "is_irrational": true,
+      "is_mispriced": false,
+      "edge": 4.858134408562004e-05,
+      "edge_percent": 0.004858134408562004
+    },
+    "financial_analyst": {
+      "signal_quality": 30.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 0.0,
+      "signal_strength": 85.0,
+      "insider_score": 85.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
