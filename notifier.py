@@ -512,55 +512,27 @@ def format_top_trader_alert(alert: Dict) -> str:
     volume = trader.get('volume', 0)
     
     # Trade details
+    # TOP TRADER API: price = specific token price (NOT YES price)
+    # cost = size × price ALWAYS
     size = float(trade.get('size', 0))
     price = float(trade.get('price', 0))
-    
-    # Get outcome name from 'outcome' field (NOT 'name' - that's the username!)
-    # For sports: "Over", "Under", team names, etc.
     outcome_name = trade.get('outcome', 'Yes')
-    
-    # Calculate cost based on outcomeIndex or outcome value
-    # outcomeIndex: 0 = first option (usually YES or Team1), 1 = second option (NO or Team2)
-    outcome_index = trade.get('outcomeIndex')  # None if missing!
     outcome_lower = str(outcome_name).lower()
     
-    # Determine if this is the "second side" (NO equivalent)
-    # IMPORTANT: outcomeIndex is unreliable for sports markets —
-    # it's a token index, NOT position in "X vs Y" title.
-    # Always use title-based detection for team/player names.
-    if outcome_lower in ('no', 'under'):
-        is_second_side = True
-    elif outcome_lower in ('yes', 'over'):
-        is_second_side = False
-    else:
-        # Team/player name: detect from "X vs Y" in title
-        market_title = trade.get('title', '') or alert.get('market', '')
-        is_second_side = _is_second_in_vs_title(outcome_name, market_title)
+    amount = size * price
+    odds_display = f"{price*100:.0f}%"
     
-    if is_second_side:
-        amount = size * (1 - price)
-        odds_display = f"{(1-price)*100:.0f}%"
-    else:
-        amount = size * price
-        odds_display = f"{price*100:.0f}%"
-    
-    # Show actual outcome name (team name for sports, YES/NO for binary)
-    # For "Will X win?" markets, make YES/NO clearer
+    # Format position display
     if outcome_lower in ['yes', 'no']:
-        # Try to extract subject from market title for clearer display
         market_title = trade.get('title', '') or alert.get('market', '')
         subject = extract_market_subject(market_title)
-        
         if subject and outcome_lower == 'no':
-            # Show "Against X" instead of just "NO"
             position = f"Against {subject} @ {odds_display}"
         elif subject and outcome_lower == 'yes':
-            # Show "X wins" instead of just "YES"  
             position = f"{subject} ✓ @ {odds_display}"
         else:
             position = f"{outcome_name.upper()} @ {odds_display}"
     elif outcome_lower in ['over', 'under']:
-        # O/U market - try to add the line number
         market_title = trade.get('title', '') or alert.get('market', '')
         ou_line = extract_ou_line(market_title)
         if ou_line:
@@ -568,7 +540,6 @@ def format_top_trader_alert(alert: Dict) -> str:
         else:
             position = f"{outcome_name} @ {odds_display}"
     else:
-        # Sports/esports market - show team/player name as-is
         position = f"{outcome_name} @ {odds_display}"
     
     # Get market name from trade data (title field, not nested market)

@@ -258,69 +258,31 @@ def scan_top_traders(tracked_hashes: set) -> List[Dict]:
                     continue
                 
                 # ══════════════════════════════════════════
-                # DEBUG: Log raw trade data (first 10 only)
-                # Remove after one successful run
+                # TOP TRADER API: price = specific token price
+                # NOT YES-token price like general trades API.
+                # cost = size × price ALWAYS. No YES/NO conversion needed.
                 # ══════════════════════════════════════════
-                if not hasattr(scan_top_traders, '_debug_count'):
-                    scan_top_traders._debug_count = 0
-                if scan_top_traders._debug_count < 10:
-                    scan_top_traders._debug_count += 1
-                    title = trade.get('title', '?')
-                    print(f"[DEBUG-TRADE #{scan_top_traders._debug_count}] Trader #{trader_info['rank']} ({trader_info.get('username', '?')})")
-                    print(f"  title:          {title[:60]}")
-                    print(f"  side:           {trade.get('side')}")
-                    print(f"  price:          {trade.get('price')}")
-                    print(f"  size:           {trade.get('size')}")
-                    print(f"  asset:          {str(trade.get('asset', ''))[:20]}...")
-                    print(f"  conditionId:    {str(trade.get('conditionId', ''))[:20]}...")
-                    print(f"  outcome:        {trade.get('outcome', 'MISSING')}")
-                    print(f"  outcomeIndex:   {trade.get('outcomeIndex', 'MISSING')}")
-                    print(f"  slug:           {trade.get('slug', '')[:40]}")
-                    print(f"  all keys:       {sorted(trade.keys())}")
-                    print()
-                
-                # Get price/odds
                 price = float(trade.get('price', 0))
                 outcome = trade.get('outcome', 'Yes')
                 size = float(trade.get('size', 0))
-                outcome_index = trade.get('outcomeIndex')  # None if missing!
                 
-                # FIX: For non-binary markets (team names, Over/Under),
-                # trade_economics only knows YES/NO. Detect side correctly.
-                # IMPORTANT: outcomeIndex is unreliable for sports markets —
-                # it's a token index, NOT position in "X vs Y" title.
-                # Always use title-based detection for team/player names.
-                outcome_lower = str(outcome).lower()
-                if outcome_lower in ('yes', 'no'):
-                    econ_outcome = outcome  # binary: use as-is
-                elif outcome_lower in ('over',):
-                    econ_outcome = 'Yes'    # Over = first option
-                elif outcome_lower in ('under',):
-                    econ_outcome = 'No'     # Under = second option
-                else:
-                    # Team/player name: ALWAYS detect from title
-                    from notifier import _is_second_in_vs_title
-                    market_title = trade.get('title', '') or trade.get('market', {}).get('question', '')
-                    econ_outcome = 'No' if _is_second_in_vs_title(outcome, market_title) else 'Yes'
-                
-                econ = trade_economics.calculate(size, price, econ_outcome)
+                cost = size * price
+                effective_odds = price
                 
                 # Skip extreme odds (97%+ or 3%-) - near zero profit potential
-                if econ.effective_odds >= 0.97 or econ.effective_odds <= 0.03:
+                if effective_odds >= 0.97 or effective_odds <= 0.03:
                     continue
                 
-                if econ.cost < 1500:  # Skip small trades (filter noise from top traders)
+                if cost < 1500:  # Skip small trades (filter noise from top traders)
                     continue
                 
-                # FIX: Skip daily crypto/price markets (same as insider flow)
+                # Skip daily crypto/price markets
                 market_name = trade.get('title', '') or trade.get('market', {}).get('question', 'Unknown market')
                 title_lower = market_name.lower()
                 
-                # Skip "Up or Down" daily crypto markets
                 if 'up or down' in title_lower:
                     continue
                 
-                # Skip crypto price prediction markets
                 crypto_kw = ['bitcoin', 'ethereum', 'solana', 'btc', 'eth', 'crypto']
                 price_kw = ['above', 'below', 'less than', 'more than', 'price',
                             'dip to', 'hit', 'drop to', 'fall to', 'rise to',
@@ -328,8 +290,8 @@ def scan_top_traders(tracked_hashes: set) -> List[Dict]:
                 if any(k in title_lower for k in crypto_kw) and any(k in title_lower for k in price_kw):
                     continue
                 
-                # Skip low ROI trades (>93% odds = <7.5% max return, not actionable)
-                if econ.effective_odds >= 0.93:
+                # Skip low ROI trades (>93% odds)
+                if effective_odds >= 0.93:
                     continue
                 market_slug = trade.get('eventSlug', '') or trade.get('slug', '') or trade.get('market', {}).get('slug', '')
                 
@@ -341,10 +303,10 @@ def scan_top_traders(tracked_hashes: set) -> List[Dict]:
                     'trade': trade,
                     'market': market_name,
                     'market_slug': market_slug,
-                    'amount': econ.cost,
+                    'amount': cost,
                 }
                 alerts.append(alert)
-                print(f"[{datetime.now()}] 👑 Top trader #{trader_info['rank']} trade: ${econ.cost:,.0f} on {market_name[:50]}")
+                print(f"[{datetime.now()}] 👑 Top trader #{trader_info['rank']} trade: ${cost:,.0f} {outcome} @ {effective_odds*100:.0f}% on {market_name[:50]}")
         
         print(f"[{datetime.now()}] 🎯 Goal #3: {traders_with_trades}/20 traders had trades, {total_trades_found} total trades, {len(alerts)} alerts")
         return alerts
