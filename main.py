@@ -257,6 +257,28 @@ def scan_top_traders(tracked_hashes: set) -> List[Dict]:
                 if trade_hash in tracked_hashes:
                     continue
                 
+                # ══════════════════════════════════════════
+                # DEBUG: Log raw trade data (first 10 only)
+                # Remove after one successful run
+                # ══════════════════════════════════════════
+                if not hasattr(scan_top_traders, '_debug_count'):
+                    scan_top_traders._debug_count = 0
+                if scan_top_traders._debug_count < 10:
+                    scan_top_traders._debug_count += 1
+                    title = trade.get('title', '?')
+                    print(f"[DEBUG-TRADE #{scan_top_traders._debug_count}] Trader #{trader_info['rank']} ({trader_info.get('username', '?')})")
+                    print(f"  title:          {title[:60]}")
+                    print(f"  side:           {trade.get('side')}")
+                    print(f"  price:          {trade.get('price')}")
+                    print(f"  size:           {trade.get('size')}")
+                    print(f"  asset:          {str(trade.get('asset', ''))[:20]}...")
+                    print(f"  conditionId:    {str(trade.get('conditionId', ''))[:20]}...")
+                    print(f"  outcome:        {trade.get('outcome', 'MISSING')}")
+                    print(f"  outcomeIndex:   {trade.get('outcomeIndex', 'MISSING')}")
+                    print(f"  slug:           {trade.get('slug', '')[:40]}")
+                    print(f"  all keys:       {sorted(trade.keys())}")
+                    print()
+                
                 # Get price/odds
                 price = float(trade.get('price', 0))
                 outcome = trade.get('outcome', 'Yes')
