@@ -589,7 +589,7 @@ Wallet: {wallet_short}"""
     # AI Context (if available)
     ai_context = alert.get('ai_context')
     if ai_context:
-        message += f"\n\nCONTEXT\n→ {ai_context}"
+        message += f"\n\n🤖 AI\n→ {ai_context}"
 
     message += f"""
 

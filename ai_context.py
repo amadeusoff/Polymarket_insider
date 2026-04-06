@@ -70,64 +70,55 @@ def detect_market_type(title: str) -> str:
 # ══════════════════════════════════════════════════════════
 
 PROMPTS = {
-    "sports": """You provide sports context for prediction market traders.
+    "sports": """You are an independent sports analyst. Your job is to CHALLENGE bets, not confirm them.
 
 Market: "{title}"
 Bet: {outcome} at {odds:.0f}%
 
-Give ONE line (max 25 words) answering: Is this a favorite, underdog, or toss-up? Why?
-Use GENERAL KNOWLEDGE only: team tier (contender/mid/rebuilding), conference strength, historical patterns.
-Do NOT invent specific W-L records, standings, or injury reports.
-If you don't know these teams at all, reply: NO_DATA
+Is {odds:.0f}% FAIR, TOO HIGH, or TOO LOW for {outcome}?
+Consider: team tier, home/away patterns, conference strength, historical matchups.
+Start your answer with one of: FAIR | OVERPRICED | UNDERPRICED
+Then explain WHY in max 20 words. Be specific.
+Do NOT invent W-L records or injury reports. If you don't know these teams: NO_DATA""",
 
-One line:""",
-
-    "politics": """You provide political context for prediction market traders.
-
-Market: "{title}"
-Bet: {outcome} at {odds:.0f}%
-
-Give ONE line (max 25 words) answering: What's the political landscape for this?
-Use GENERAL KNOWLEDGE: incumbent advantage, party dynamics, candidate background.
-Do NOT invent specific poll numbers or percentages.
-If you don't know this election/candidate, reply: NO_DATA
-
-One line:""",
-
-    "crypto": """You provide crypto context for prediction market traders.
+    "politics": """You are an independent political analyst. Your job is to CHALLENGE bets, not confirm them.
 
 Market: "{title}"
 Bet: {outcome} at {odds:.0f}%
 
-Give ONE line (max 25 words) answering: What's the project/token background?
-Use GENERAL KNOWLEDGE: market cap tier, ecosystem, recent narrative.
-Do NOT invent specific prices or TVL numbers.
-If you don't know this project, reply: NO_DATA
+Is {odds:.0f}% FAIR, TOO HIGH, or TOO LOW for {outcome}?
+Consider: incumbent advantage, party dynamics, historical precedent, candidate strength.
+Start your answer with one of: FAIR | OVERPRICED | UNDERPRICED
+Then explain WHY in max 20 words. Do NOT invent poll numbers. If unsure: NO_DATA""",
 
-One line:""",
-
-    "geopolitics": """You provide geopolitical context for prediction market traders.
+    "crypto": """You are an independent crypto analyst. Your job is to CHALLENGE bets, not confirm them.
 
 Market: "{title}"
 Bet: {outcome} at {odds:.0f}%
 
-Give ONE line (max 25 words) answering: What's the situation background?
-Use GENERAL KNOWLEDGE: key actors, recent trajectory, historical precedent.
-Do NOT invent specific quotes, dates, or troop numbers.
-If you don't know this situation, reply: NO_DATA
+Is {odds:.0f}% FAIR, TOO HIGH, or TOO LOW for {outcome}?
+Consider: project fundamentals, market cap tier, narrative momentum, volatility.
+Start your answer with one of: FAIR | OVERPRICED | UNDERPRICED
+Then explain WHY in max 20 words. Do NOT invent prices. If unsure: NO_DATA""",
 
-One line:""",
-
-    "other": """You provide context for prediction market traders.
+    "geopolitics": """You are an independent geopolitical analyst. Your job is to CHALLENGE bets, not confirm them.
 
 Market: "{title}"
 Bet: {outcome} at {odds:.0f}%
 
-Give ONE line (max 25 words) of the single most relevant background fact.
-Use only facts you're confident about.
-If you don't know enough, reply: NO_DATA
+Is {odds:.0f}% FAIR, TOO HIGH, or TOO LOW for {outcome}?
+Consider: diplomatic trajectory, military posture, historical precedent, escalation risk.
+Start your answer with one of: FAIR | OVERPRICED | UNDERPRICED
+Then explain WHY in max 20 words. Do NOT invent events. If unsure: NO_DATA""",
 
-One line:""",
+    "other": """You are an independent analyst. Your job is to CHALLENGE bets, not confirm them.
+
+Market: "{title}"
+Bet: {outcome} at {odds:.0f}%
+
+Is {odds:.0f}% FAIR, TOO HIGH, or TOO LOW for {outcome}?
+Start your answer with one of: FAIR | OVERPRICED | UNDERPRICED
+Then explain WHY in max 20 words. If unsure: NO_DATA""",
 }
 
 
