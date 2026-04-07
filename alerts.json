@@ -1,72 +1,5 @@
 [
   {
-    "market": "Will Jon Stewart win the 2028 Democratic presidential nomination?",
-    "market_slug": "will-jon-stewart-win-the-2028-democratic-presidential-nomination-518",
-    "wallet": "0x40c0dd4a4c97ec27b715161643596129f3e2e028",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (97.7% odds)",
-        "Large bet ($7,956)"
-      ],
-      "amount": 7956.06272,
-      "odds": 0.977,
-      "wallet_age_days": 0,
-      "total_activities": 10
-    },
-    "timestamp": "2026-02-02T11:49:04.129549",
-    "trade_hash": "0xb7b43f5c565cf5715af9f7669bc6a154df9324ac5618ffec8b15628a5102b71d",
-    "trade_timestamp": 1770032720,
-    "latency": null,
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "SELL",
-      "price": 0.977,
-      "size": 8143.36,
-      "amount": 7956.06272
-    },
-    "resolution_last_check": "2026-03-29T06:54:53.838304+00:00"
-  },
-  {
-    "market": "US strikes Iran by February 6, 2026?",
-    "market_slug": "us-strikes-iran-by-february-6-2026-242-933-289-312-673-611",
-    "wallet": "0x89415363658d88a8914beee6ac6b203df686cb10",
-    "analysis": {
-      "score": 105,
-      "flags": [
-        "New wallet (3d old)",
-        "Extreme confidence (96.7% odds)",
-        "Large bet ($28,738)",
-        "Pre-event latency: 4864m"
-      ],
-      "amount": 28738.439968,
-      "odds": 0.9674991375189317,
-      "wallet_age_days": 3,
-      "total_activities": 100
-    },
-    "timestamp": "2026-02-02T14:58:22.654481",
-    "trade_hash": "0x5ab88494627bc54f83b82eeae89de8018b5ceafb9f8d962098c199dbbbb97378",
-    "trade_timestamp": 1770044136,
-    "latency": {
-      "latency_seconds": 291864.0,
-      "latency_minutes": 4864.4,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-02-02T14:55:36+00:00",
-      "event_time": "2026-02-06T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "BUY",
-      "price": 0.9674991375189317,
-      "size": 29703.8404,
-      "amount": 28738.439968
-    }
-  },
-  {
     "market": "US strikes Iran by February 6, 2026?",
     "market_slug": "us-strikes-iran-by-february-6-2026-242-933-289-312-673-611",
     "wallet": "0x23a3ad8a4793a8dbed19079634dcc8e80ad6bddf",
@@ -35737,5 +35670,93 @@
     "market_slug": "ucl-spo1-ars-2026-04-07",
     "amount": 4329.5981047000005,
     "ai_context": "FAIR | The odds reflect Sporting CP's competitive form and historical performance, making 79% reasonable for a loss."
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xe51fbfe7a0b22143324ac781495a9a596626230c90d6e8e85d4d4d9f01493308",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xead152b855effa6b5b5837f53b24c0756830c76a",
+      "side": "BUY",
+      "asset": "68460077924802366528730773153761191019390915013434646128811780345158625826042",
+      "conditionId": "0x34aa21fa8c2913b00485f493664b4fa2f309d680184185e2aa0e1e66687a6c8f",
+      "size": 34127.26,
+      "price": 0.56,
+      "timestamp": 1775579873,
+      "title": "Oilers vs. Utah",
+      "slug": "nhl-edm-utah-2026-04-07",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nhl.png",
+      "eventSlug": "nhl-edm-utah-2026-04-07",
+      "outcome": "Utah",
+      "outcomeIndex": 1,
+      "name": "elkmonkey",
+      "pseudonym": "Unconscious-Penguin",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xe51fbfe7a0b22143324ac781495a9a596626230c90d6e8e85d4d4d9f01493308",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Oilers vs. Utah",
+    "market_slug": "nhl-edm-utah-2026-04-07",
+    "amount": 19111.265600000002
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xdd9be935ffbe8910813bdd23500fcf6d390d3f420097d900756658424760e259",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xead152b855effa6b5b5837f53b24c0756830c76a",
+      "side": "BUY",
+      "asset": "68460077924802366528730773153761191019390915013434646128811780345158625826042",
+      "conditionId": "0x34aa21fa8c2913b00485f493664b4fa2f309d680184185e2aa0e1e66687a6c8f",
+      "size": 2683.83,
+      "price": 0.56,
+      "timestamp": 1775579873,
+      "title": "Oilers vs. Utah",
+      "slug": "nhl-edm-utah-2026-04-07",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nhl.png",
+      "eventSlug": "nhl-edm-utah-2026-04-07",
+      "outcome": "Utah",
+      "outcomeIndex": 1,
+      "name": "elkmonkey",
+      "pseudonym": "Unconscious-Penguin",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xdd9be935ffbe8910813bdd23500fcf6d390d3f420097d900756658424760e259",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Oilers vs. Utah",
+    "market_slug": "nhl-edm-utah-2026-04-07",
+    "amount": 1502.9448000000002
   }
 ]
