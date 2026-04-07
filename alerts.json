@@ -1,72 +1,5 @@
 [
   {
-    "market": "US strikes Iran by February 6, 2026?",
-    "market_slug": "us-strikes-iran-by-february-6-2026-242-933-289-312-673-611",
-    "wallet": "0x23a3ad8a4793a8dbed19079634dcc8e80ad6bddf",
-    "analysis": {
-      "score": 135,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (96.5% odds)",
-        "Large bet ($2,399)",
-        "Low activity (1 txns)",
-        "Pre-event latency: 4713m"
-      ],
-      "amount": 2398.7399979999996,
-      "odds": 0.9649999998330477,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-02-02T17:28:06.276248",
-    "trade_hash": "0x759eb805b8abf0c62426176209bbce789c884c0199acf23e9b0924a267dac61f",
-    "trade_timestamp": 1770053206,
-    "latency": {
-      "latency_seconds": 282794.0,
-      "latency_minutes": 4713.233333333334,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-02-02T17:26:46+00:00",
-      "event_time": "2026-02-06T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "BUY",
-      "price": 0.9649999998330477,
-      "size": 2485.740931,
-      "amount": 2398.7399979999996
-    }
-  },
-  {
-    "market": "Gardner-Webb Runnin' Bulldogs vs. Charleston Southern Buccaneers",
-    "market_slug": "cbb-gardwb-chsou-2026",
-    "wallet": "0xf9581df65d2283bc3298bcf4f8a39c832cfd5a02",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (1d old)",
-        "Extreme confidence (96.9% odds)",
-        "Large bet ($1,181)"
-      ],
-      "amount": 1181.12997,
-      "odds": 0.9693024826513127,
-      "wallet_age_days": 1,
-      "total_activities": 50
-    },
-    "timestamp": "2026-02-03T01:15:59.685886",
-    "trade_hash": "0x1a61686cbaaa51ad8cc6c829315310d43016fe926c1630def60ac119d83bfd23",
-    "trade_timestamp": 1770081028,
-    "latency": null,
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "Charleston Southern Buccaneers",
-      "side": "BUY",
-      "price": 0.9693024826513127,
-      "size": 1218.536,
-      "amount": 1181.12997
-    }
-  },
-  {
     "market": "Will Trump admin release any more Epstein related files by February 6?",
     "market_slug": "will-trump-admin-release-any-more-epstein-related-files-by-777",
     "wallet": "0x7131cb618fb195c70e8e629c45199096833c29cc",
@@ -35758,5 +35691,95 @@
     "market": "Oilers vs. Utah",
     "market_slug": "nhl-edm-utah-2026-04-07",
     "amount": 1502.9448000000002
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x8cc183980bf588fc3bc3443a5275ca383e68a41bbea0ec58ccdfd0daa9c6aaa2",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xb866e020d08a3257efd7ea991e56a8bcb8d7977f",
+      "side": "SELL",
+      "asset": "91234452361450605263734013436205650165110345459845371466629272470861583403438",
+      "conditionId": "0x81b06cb917c9a2aabc67a7765bc3c640e88a699bbf451b29915049c0766cde04",
+      "size": 3000.02,
+      "price": 0.59,
+      "timestamp": 1775583175,
+      "title": "US x Iran ceasefire by June 30?",
+      "slug": "us-x-iran-ceasefire-by-june-30-752-741-257-982-725",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-ceasefire-by-Cgmx3GCuOwjs.jpg",
+      "eventSlug": "us-x-iran-ceasefire-by",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "hanchaohanchao",
+      "pseudonym": "Nonstop-Pawnshop",
+      "bio": "nfn",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x8cc183980bf588fc3bc3443a5275ca383e68a41bbea0ec58ccdfd0daa9c6aaa2",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "US x Iran ceasefire by June 30?",
+    "market_slug": "us-x-iran-ceasefire-by",
+    "amount": 1770.0118,
+    "ai_context": "OVERPRICED. Diplomatic tensions remain high, military posturing continues, and historical precedents suggest limited likelihood of a ceasefire by J..."
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x48229c8a8c0e14cfa046e3080f19c925ecd121828ff33fd499161ce6f2b7bd2c",
+    "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+    "trader": {
+      "rank": 11,
+      "address": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+      "username": "KeyTransporter",
+      "profit": 5711459.802519929,
+      "volume": 20086062.154324993,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xa8fac068d32639c40188563c83c206b320e57dda",
+      "side": "BUY",
+      "asset": "110932785305116437321568684436832830333671458459560759642131758382899831590385",
+      "conditionId": "0x04a03cf0e8b452cccba67b93378b65854a89a4f77e7f1aaf775fd9816de9158f",
+      "size": 5000,
+      "price": 0.73,
+      "timestamp": 1775583775,
+      "title": "Will MrBeast's latest video get between 64 and 65 million views on day 4?",
+      "slug": "will-mrbeasts-latest-video-get-between-64-and-65-million-views-on-day-4",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/of-views-of-next-mrbeast-video-on-day-1--HcOnJGLLP3O.jpg",
+      "eventSlug": "of-views-of-mrbeast-video-day-4-892",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "0xA8fAC068d32639c40188563C83c206b320E57Dda-1773425391498",
+      "pseudonym": "Tough-Filing",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x48229c8a8c0e14cfa046e3080f19c925ecd121828ff33fd499161ce6f2b7bd2c",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will MrBeast's latest video get between 64 and 65 million views on day 4?",
+    "market_slug": "of-views-of-mrbeast-video-day-4-892",
+    "amount": 3650.0,
+    "ai_context": "OVERPRICED. MrBeast's videos typically exceed 65 million views; a 73% chance for \"No\" seems too high."
   }
 ]
