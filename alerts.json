@@ -1,43 +1,5 @@
 [
   {
-    "market": "Will the price of Bitcoin be above $76,000 on February 8?",
-    "market_slug": "bitcoin-above-76k-on-february-8",
-    "wallet": "0x5bd881f87bc81fe1ea0e460c86ce6746fb77d455",
-    "analysis": {
-      "score": 110,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($2,280)",
-        "Low activity (1 txns)",
-        "Pre-event latency: 5341m"
-      ],
-      "amount": 2280.0,
-      "odds": 0.57,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-02-04T07:03:15.654065",
-    "trade_hash": "0x194aca6401307ac114e0baec2684023e5aec3498f8467b37bf78278152913d05",
-    "trade_timestamp": 1770188364,
-    "latency": {
-      "latency_seconds": 320436.0,
-      "latency_minutes": 5340.6,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-02-04T06:59:24+00:00",
-      "event_time": "2026-02-08T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "side": "BUY",
-      "price": 0.57,
-      "size": 4000.0,
-      "amount": 2280.0
-    },
-    "resolution_last_check": "2026-03-29T06:54:56.971945+00:00"
-  },
-  {
     "market": "Will Jon Stewart win the 2028 Democratic presidential nomination?",
     "market_slug": "will-jon-stewart-win-the-2028-democratic-presidential-nomination-518",
     "wallet": "0xa15b6c0ed7a3c6c57c38a41675d4a7c373c97812",
@@ -34331,5 +34293,50 @@
       "risk_note": "High stake detected \u2014 copy with reduced sizing (25-40% of source risk)."
     },
     "resolution_last_check": "2026-04-08T07:15:20.437228+00:00"
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x261c963e19095e718144c833788692e033361f395bd1e6964e37c335ce341a9c",
+    "wallet": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+    "trader": {
+      "rank": 9,
+      "address": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+      "username": "walletmobile",
+      "profit": 5942685.45339684,
+      "volume": 32196692.075936034,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x116db6298abcdefe06f9f5458c293c7de185fbf1",
+      "side": "BUY",
+      "asset": "85943656054682262596342511874298705853564805253013213963635615255215203982111",
+      "conditionId": "0xd17a98a803c76564e973ed3a4a724d75216afd38838510ea3f4997d2c5792f6a",
+      "size": 2158.61747,
+      "price": 0.9200607997120815,
+      "timestamp": 1775635701,
+      "title": "Will the highest temperature in Shenzhen be 26\u00b0C on April 8?",
+      "slug": "highest-temperature-in-shenzhen-on-april-8-2026-26c",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/shenzhen-cf834873c6.jpg",
+      "eventSlug": "highest-temperature-in-shenzhen-on-april-8-2026",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "opopv",
+      "pseudonym": "Euphoric-Entirety",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x261c963e19095e718144c833788692e033361f395bd1e6964e37c335ce341a9c",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will the highest temperature in Shenzhen be 26\u00b0C on April 8?",
+    "market_slug": "highest-temperature-in-shenzhen-on-april-8-2026",
+    "amount": 1986.0593157206704,
+    "ai_context": "OVERPRICED. Historical data shows April temperatures in Shenzhen often exceed 26\u00b0C, making a 92% likelihood too high."
   }
 ]
