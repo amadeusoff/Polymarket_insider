@@ -2,36 +2,6 @@
   {
     "market": "Will Jon Stewart win the 2028 Democratic presidential nomination?",
     "market_slug": "will-jon-stewart-win-the-2028-democratic-presidential-nomination-518",
-    "wallet": "0xd8753ff3f8955f9373a3ff5eeda633d0d95acec2",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (97.8% odds)",
-        "Large bet ($3,131)"
-      ],
-      "amount": 3130.578,
-      "odds": 0.978,
-      "wallet_age_days": 0,
-      "total_activities": 5
-    },
-    "timestamp": "2026-02-04T13:15:55.226223",
-    "trade_hash": "0xa7a1763a1e2a3976b183bcb236d203a1a333b71d4bcd94ff7a72a62316563644",
-    "trade_timestamp": 1770210668,
-    "latency": null,
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "BUY",
-      "price": 0.978,
-      "size": 3201.0,
-      "amount": 3130.578
-    },
-    "resolution_last_check": "2026-03-29T06:54:56.971971+00:00"
-  },
-  {
-    "market": "Will Jon Stewart win the 2028 Democratic presidential nomination?",
-    "market_slug": "will-jon-stewart-win-the-2028-democratic-presidential-nomination-518",
     "wallet": "0xd70812c70367e97ef7b0481041b6244f6e418399",
     "analysis": {
       "score": 95,
@@ -34380,5 +34350,50 @@
     "market_slug": "iran-x-israelus-conflict-ends-by",
     "amount": 3107.66717,
     "ai_context": "OVERPRICED. The geopolitical situation is complex and unpredictable; a 62% chance of resolution by April 15 seems overly optimistic."
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xc3523dbe988554b846b20d07034db55af59eb4b0e95e20888b907b1bd78d55a2",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "trader": {
+      "rank": 11,
+      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "username": "swisstony",
+      "profit": 5690470.32453503,
+      "volume": 635010333.03912,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x04fe6d659b91fdfa9fcbef2c048fc2435c063688",
+      "side": "BUY",
+      "asset": "57671111904343297017035559331206968340219293155722507171442770347401653986711",
+      "conditionId": "0xc31f282a30746ae49954e23d92d23aa6c129d008d07b0f47686db178554e32d8",
+      "size": 7159.25393,
+      "price": 0.69,
+      "timestamp": 1775678049,
+      "title": "Thunder vs. Clippers",
+      "slug": "nba-okc-lac-2026-04-08",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-okc-lac-2026-04-08",
+      "outcome": "Thunder",
+      "outcomeIndex": 0,
+      "name": "0x04fE6D659B91fdfa9FCBEF2c048fc2435c063688-1773212153836",
+      "pseudonym": "Miserly-Wheat",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xc3523dbe988554b846b20d07034db55af59eb4b0e95e20888b907b1bd78d55a2",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Thunder vs. Clippers",
+    "market_slug": "nba-okc-lac-2026-04-08",
+    "amount": 4939.8852117,
+    "ai_context": "OVERPRICED. The Clippers have a strong roster and recent matchups favor them, making 69% too high for the Thunder."
   }
 ]
