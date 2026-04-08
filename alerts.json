@@ -2,37 +2,6 @@
   {
     "market": "Will Jon Stewart win the 2028 Democratic presidential nomination?",
     "market_slug": "will-jon-stewart-win-the-2028-democratic-presidential-nomination-518",
-    "wallet": "0xa15b6c0ed7a3c6c57c38a41675d4a7c373c97812",
-    "analysis": {
-      "score": 95,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (97.8% odds)",
-        "Large bet ($3,008)",
-        "Low activity (4 txns)"
-      ],
-      "amount": 3008.19108,
-      "odds": 0.978,
-      "wallet_age_days": 0,
-      "total_activities": 4
-    },
-    "timestamp": "2026-02-04T09:04:03.380348",
-    "trade_hash": "0x68a76bc5608fc40c5fa4fbe84593bd30e2dffd4d88b1687de79c804bc3f9902f",
-    "trade_timestamp": 1770195724,
-    "latency": null,
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "BUY",
-      "price": 0.978,
-      "size": 3075.86,
-      "amount": 3008.19108
-    },
-    "resolution_last_check": "2026-03-29T06:54:56.971962+00:00"
-  },
-  {
-    "market": "Will Jon Stewart win the 2028 Democratic presidential nomination?",
-    "market_slug": "will-jon-stewart-win-the-2028-democratic-presidential-nomination-518",
     "wallet": "0x15fd51f6275f89b20176046fc43b57c0b4353da8",
     "analysis": {
       "score": 95,
@@ -34338,5 +34307,50 @@
     "market_slug": "highest-temperature-in-shenzhen-on-april-8-2026",
     "amount": 1986.0593157206704,
     "ai_context": "OVERPRICED. Historical data shows April temperatures in Shenzhen often exceed 26\u00b0C, making a 92% likelihood too high."
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x2101d79d7a0afd478f72e03484da866d2d91a4921378151b106af1b889b1ed4f",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "trader": {
+      "rank": 7,
+      "address": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+      "username": "RN1",
+      "profit": 7054344.673449626,
+      "volume": 378484586.48524207,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+      "side": "BUY",
+      "asset": "60910303088181151568772843146360189858140638839767805744363557735676315652524",
+      "conditionId": "0xea5e0efe27a124bd21a402529acbc0996ec39f40341f05c9480f50888371ac39",
+      "size": 10737.49198,
+      "price": 0.37,
+      "timestamp": 1775639903,
+      "title": "LoL: Ninjas in Pyjamas vs Invictus Gaming - Game 1 Winner",
+      "slug": "lol-nip-ig1-2026-04-08-game1",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
+      "eventSlug": "lol-nip-ig1-2026-04-08",
+      "outcome": "Ninjas in Pyjamas",
+      "outcomeIndex": 0,
+      "name": "fkgggg2mouzfuria",
+      "pseudonym": "Misty-Request",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x2101d79d7a0afd478f72e03484da866d2d91a4921378151b106af1b889b1ed4f",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "LoL: Ninjas in Pyjamas vs Invictus Gaming - Game 1 Winner",
+    "market_slug": "lol-nip-ig1-2026-04-08",
+    "amount": 3972.8720326000002,
+    "ai_context": "FAIR. Ninjas in Pyjamas' 37% reflects their competitive tier and historical performance against Invictus Gaming."
   }
 ]
