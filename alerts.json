@@ -2,37 +2,6 @@
   {
     "market": "Will Jon Stewart win the 2028 Democratic presidential nomination?",
     "market_slug": "will-jon-stewart-win-the-2028-democratic-presidential-nomination-518",
-    "wallet": "0x15fd51f6275f89b20176046fc43b57c0b4353da8",
-    "analysis": {
-      "score": 95,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (97.8% odds)",
-        "Large bet ($3,089)",
-        "Low activity (2 txns)"
-      ],
-      "amount": 3089.3552999999997,
-      "odds": 0.978,
-      "wallet_age_days": 0,
-      "total_activities": 2
-    },
-    "timestamp": "2026-02-04T09:04:15.015679",
-    "trade_hash": "0x9980c7f85b05c364db4c039dfb54c64f36b9cb99a567732531d70ed6ebd5b577",
-    "trade_timestamp": 1770195600,
-    "latency": null,
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "BUY",
-      "price": 0.978,
-      "size": 3158.85,
-      "amount": 3089.3552999999997
-    },
-    "resolution_last_check": "2026-03-29T06:54:56.971966+00:00"
-  },
-  {
-    "market": "Will Jon Stewart win the 2028 Democratic presidential nomination?",
-    "market_slug": "will-jon-stewart-win-the-2028-democratic-presidential-nomination-518",
     "wallet": "0xa28704e0738e5ef2107cb034fda0e85ea0e48b9c",
     "analysis": {
       "score": 95,
@@ -34352,5 +34321,50 @@
     "market_slug": "lol-nip-ig1-2026-04-08",
     "amount": 3972.8720326000002,
     "ai_context": "FAIR. Ninjas in Pyjamas' 37% reflects their competitive tier and historical performance against Invictus Gaming."
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x5ef6c20a112f539b6d15f6dacbbce010a8c741f9110db3f0fc8fd5c4f20fbe91",
+    "wallet": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+    "trader": {
+      "rank": 9,
+      "address": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+      "username": "walletmobile",
+      "profit": 5942685.45339684,
+      "volume": 32196692.075936034,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xead152b855effa6b5b5837f53b24c0756830c76a",
+      "side": "BUY",
+      "asset": "57671111904343297017035559331206968340219293155722507171442770347401653986711",
+      "conditionId": "0xc31f282a30746ae49954e23d92d23aa6c129d008d07b0f47686db178554e32d8",
+      "size": 8009.17281,
+      "price": 0.7,
+      "timestamp": 1775650111,
+      "title": "Thunder vs. Clippers",
+      "slug": "nba-okc-lac-2026-04-08",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-okc-lac-2026-04-08",
+      "outcome": "Thunder",
+      "outcomeIndex": 0,
+      "name": "elkmonkey",
+      "pseudonym": "Unconscious-Penguin",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x5ef6c20a112f539b6d15f6dacbbce010a8c741f9110db3f0fc8fd5c4f20fbe91",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Thunder vs. Clippers",
+    "market_slug": "nba-okc-lac-2026-04-08",
+    "amount": 5606.420967,
+    "ai_context": "FAIR. Thunder's home advantage and recent form against Clippers justify a 70% probability in this matchup."
   }
 ]
