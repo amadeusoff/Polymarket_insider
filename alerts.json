@@ -1,35 +1,5 @@
 [
   {
-    "market": "Will Trump nominate Kevin Warsh as the next Fed chair?",
-    "market_slug": "will-trump-nominate-kevin-warsh-as-the-next-fed-chair",
-    "wallet": "0x48e375943b5cab0aa003bb983844bec80fe7e4c8",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (1d old)",
-        "Extreme confidence (97.1% odds)",
-        "Large bet ($2,913)"
-      ],
-      "amount": 2913.0,
-      "odds": 0.971,
-      "wallet_age_days": 1,
-      "total_activities": 15
-    },
-    "timestamp": "2026-02-05T03:28:24.778502",
-    "trade_hash": "0x71ddcab10e2e10010bb213acdaabd41b332bcd924fa23be031ff2ab2a28760a0",
-    "trade_timestamp": 1770261841,
-    "latency": null,
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "side": "SELL",
-      "price": 0.971,
-      "size": 3000.0,
-      "amount": 2913.0
-    },
-    "resolution_last_check": "2026-03-29T06:54:57.621020+00:00"
-  },
-  {
     "market": "US strikes Iran by February 7, 2026?",
     "market_slug": "us-strikes-iran-by-february-7-2026",
     "wallet": "0xbfc0b182bccd0ca188254b1d07f2c38de89525f8",
@@ -34418,5 +34388,50 @@
     "market_slug": "nba-okc-lac-2026-04-08",
     "amount": 2003.4680188000002,
     "ai_context": "OVERPRICED. The Clippers have shown competitiveness, and historical matchups suggest closer contests than a 76% likelihood for the Thunder."
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x0b4ad9bd87486e9ed82a3cb19390c9da049c56c60ce110bc350c2cd073f98596",
+    "wallet": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
+    "trader": {
+      "rank": 18,
+      "address": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
+      "username": "GamblingIsAllYouNeed",
+      "profit": 4432158.4542936785,
+      "volume": 324433293.5431151,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x5011224f4848cb2cf2d87cf2b823551dfd0e220e",
+      "side": "BUY",
+      "asset": "56586792301513309661830983074764407783984105524394420250711247786038410052324",
+      "conditionId": "0x00373f48342212cfc74833f43e61eed5efd678b37ec212622fc68c551249e963",
+      "size": 2321.78,
+      "price": 0.7677458673948436,
+      "timestamp": 1775713165,
+      "title": "Will Trump announce that the US x Iran ceasefire has been broken by April 14, 2026?",
+      "slug": "will-trump-announce-that-the-us-x-iran-ceasefire-has-been-broken-by-april-14-2026",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-announces-us-x-iran-ceasefire-broken-by-X3wf-2Pi8W96.jpg",
+      "eventSlug": "trump-announces-us-x-iran-ceasefire-broken-by",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "GCNO1",
+      "pseudonym": "Huge-Brain",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x0b4ad9bd87486e9ed82a3cb19390c9da049c56c60ce110bc350c2cd073f98596",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Trump announce that the US x Iran ceasefire has been broken by April 14, 2026?",
+    "market_slug": "trump-announces-us-x-iran-ceasefire-broken-by",
+    "amount": 1782.5370000000003,
+    "ai_context": "OVERPRICED. Diplomatic efforts may stabilize relations, reducing likelihood of a ceasefire breakdown by 2026."
   }
 ]
