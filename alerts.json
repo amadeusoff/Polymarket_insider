@@ -1,64 +1,5 @@
 [
   {
-    "market": "Paradex FDV above $1.5B one day after launch?",
-    "market_slug": "paradex-fdv-above-1pt5b-one-day-after-launch",
-    "wallet": "0x7cd9528e633108567ea69b05aeb9192942387ef2",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (97.7% odds)",
-        "Large bet ($1,739)"
-      ],
-      "amount": 1739.06,
-      "odds": 0.977,
-      "wallet_age_days": 0,
-      "total_activities": 5
-    },
-    "timestamp": "2026-02-05T15:56:01.686952",
-    "trade_hash": "0xeac09a2915bc0c96bc4d462d53ec89e602bcc46160a9551ddff474b0dadf93a2",
-    "trade_timestamp": 1770306761,
-    "latency": null,
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "BUY",
-      "price": 0.977,
-      "size": 1780.0,
-      "amount": 1739.06
-    }
-  },
-  {
-    "market": "Will \"DtMF\" be played first at the Super Bowl halftime show?",
-    "market_slug": "will-dtmf-be-played-first-at-the-super-bowl-halftime-show",
-    "wallet": "0x72ab736811d4a70f23a680ed4684b3ba65a72ee6",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (95.2% odds)",
-        "Large bet ($1,742)"
-      ],
-      "amount": 1742.1599999999999,
-      "odds": 0.952,
-      "wallet_age_days": 0,
-      "total_activities": 5
-    },
-    "timestamp": "2026-02-05T15:56:10.860071",
-    "trade_hash": "0x75808ba1b5a25f38f40d1aa53474c61c59aa9fe090b7dd79155ca1d83d8aa2f2",
-    "trade_timestamp": 1770306829,
-    "latency": null,
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "BUY",
-      "price": 0.952,
-      "size": 1830.0,
-      "amount": 1742.1599999999999
-    },
-    "resolution_last_check": "2026-03-29T06:55:00.110532+00:00"
-  },
-  {
     "market": "Will Ethereum reach $2,800 in February?",
     "market_slug": "will-ethereum-reach-2800-in-february-2026",
     "wallet": "0x0925cd4208fe6de01aafa972e983e7fd7bdd3160",
@@ -34441,5 +34382,95 @@
     "market_slug": "mlb-cin-mia-2026-04-09",
     "amount": 2411.5204536039782,
     "ai_context": "FAIR. The Reds have shown competitive performance, but the Marlins' recent form and home advantage make it a balanced matchup."
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xc54d069ab655cf7d843874db4643211303a491306341f7d3fb25b130bf60522c",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x40471b34671887546013ceb58740625c2efe7293",
+      "side": "BUY",
+      "asset": "115244086768882877525516513397533392349337694963923162013382920248577349413134",
+      "conditionId": "0xba8af64c1b08f322ca7f66f3cfdbdfd50c0eae6fc88d2fcf29c30ceb62682421",
+      "size": 4805.68,
+      "price": 0.49,
+      "timestamp": 1775750079,
+      "title": "Will Crude Oil (CL) hit (HIGH) $120 by end of June?",
+      "slug": "will-crude-oil-cl-hit-high-120-by-end-of-june-949-198-741-748",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/crude-oil-9a850ce2a2.png",
+      "eventSlug": "cl-hit-jun-2026",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "esports095",
+      "pseudonym": "Oval-Gasp",
+      "bio": "hahaha",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-1612623-69a46f7f-2905-4f22-9d46-43d32df5e7d4.png",
+      "profileImageOptimized": "",
+      "transactionHash": "0xc54d069ab655cf7d843874db4643211303a491306341f7d3fb25b130bf60522c",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Crude Oil (CL) hit (HIGH) $120 by end of June?",
+    "market_slug": "cl-hit-jun-2026",
+    "amount": 2354.7832000000003,
+    "ai_context": "FAIR. Current market conditions and forecasts suggest $120 is unlikely, making 49% a reasonable assessment for \"No."
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xba9372840d7058277c5b9cd4c7be401cf2ee2746ad7ca740b7e571a69a7197e2",
+    "wallet": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
+    "trader": {
+      "rank": 3,
+      "address": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
+      "username": "kch123",
+      "profit": 11757966.44804662,
+      "volume": 278149345.046671,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xead152b855effa6b5b5837f53b24c0756830c76a",
+      "side": "BUY",
+      "asset": "101263462382582728685927173513365351357125224626256987459161918581750018137206",
+      "conditionId": "0x4ff6250981611560e2c35d56c404e109c152fdc40c43c1c277f5129770d79fd6",
+      "size": 10309.69433,
+      "price": 0.53,
+      "timestamp": 1775750381,
+      "title": "Cincinnati Reds vs. Miami Marlins",
+      "slug": "mlb-cin-mia-2026-04-09",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
+      "eventSlug": "mlb-cin-mia-2026-04-09",
+      "outcome": "Miami Marlins",
+      "outcomeIndex": 1,
+      "name": "elkmonkey",
+      "pseudonym": "Unconscious-Penguin",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xba9372840d7058277c5b9cd4c7be401cf2ee2746ad7ca740b7e571a69a7197e2",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Cincinnati Reds vs. Miami Marlins",
+    "market_slug": "mlb-cin-mia-2026-04-09",
+    "amount": 5464.1379949,
+    "ai_context": "FAIR. Miami Marlins have shown competitive play, but Cincinnati Reds' home advantage and historical matchups could balance the odds."
   }
 ]
