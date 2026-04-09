@@ -1,42 +1,5 @@
 [
   {
-    "market": "US strikes Iran by February 7, 2026?",
-    "market_slug": "us-strikes-iran-by-february-7-2026",
-    "wallet": "0xbfc0b182bccd0ca188254b1d07f2c38de89525f8",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "Extreme confidence (95.9% odds)",
-        "Large bet ($3,000)",
-        "Pre-event latency: 2058m"
-      ],
-      "amount": 2999.999983,
-      "odds": 0.958999999995205,
-      "wallet_age_days": 7,
-      "total_activities": 100
-    },
-    "timestamp": "2026-02-05T13:44:13.774463",
-    "trade_hash": "0x012766f1f50a03561cc37fc43146c4382fd4cb758dd97860a72b78cb7dd5c406",
-    "trade_timestamp": 1770298923,
-    "latency": {
-      "latency_seconds": 123477.0,
-      "latency_minutes": 2057.95,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-02-05T13:42:03+00:00",
-      "event_time": "2026-02-07T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "BUY",
-      "price": 0.958999999995205,
-      "size": 3128.258585,
-      "amount": 2999.999983
-    },
-    "resolution_last_check": "2026-03-29T06:54:58.273320+00:00"
-  },
-  {
     "market": "Paradex FDV above $1.5B one day after launch?",
     "market_slug": "paradex-fdv-above-1pt5b-one-day-after-launch",
     "wallet": "0x7cd9528e633108567ea69b05aeb9192942387ef2",
@@ -34433,5 +34396,50 @@
     "market_slug": "trump-announces-us-x-iran-ceasefire-broken-by",
     "amount": 1782.5370000000003,
     "ai_context": "OVERPRICED. Diplomatic efforts may stabilize relations, reducing likelihood of a ceasefire breakdown by 2026."
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x6eb63f34d1bc52edf8bd5891d012ee1489a2fb2e922c6b39855eb91b77f48e6a",
+    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+    "trader": {
+      "rank": 12,
+      "address": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+      "username": "BetTom42",
+      "profit": 5642135.735356,
+      "volume": 11212839.523403,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xd1001f4ef07ee37774934a8bc0083185ef6b853d",
+      "side": "BUY",
+      "asset": "20231811853655481545057633462480601574938055495839824387330267229179183297479",
+      "conditionId": "0x4ff6250981611560e2c35d56c404e109c152fdc40c43c1c277f5129770d79fd6",
+      "size": 4921.470314,
+      "price": 0.48999999994797855,
+      "timestamp": 1775738975,
+      "title": "Cincinnati Reds vs. Miami Marlins",
+      "slug": "mlb-cin-mia-2026-04-09",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
+      "eventSlug": "mlb-cin-mia-2026-04-09",
+      "outcome": "Cincinnati Reds",
+      "outcomeIndex": 0,
+      "name": "",
+      "pseudonym": "",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x6eb63f34d1bc52edf8bd5891d012ee1489a2fb2e922c6b39855eb91b77f48e6a",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Cincinnati Reds vs. Miami Marlins",
+    "market_slug": "mlb-cin-mia-2026-04-09",
+    "amount": 2411.5204536039782,
+    "ai_context": "FAIR. The Reds have shown competitive performance, but the Marlins' recent form and home advantage make it a balanced matchup."
   }
 ]
