@@ -2,36 +2,6 @@
   {
     "market": "Will Rahm Emanuel win the 2028 Democratic presidential nomination?",
     "market_slug": "will-rahm-emanuel-win-the-2028-democratic-presidential-nomination-299",
-    "wallet": "0x6b997694fcaa2e3c6f759acd7d8ee5ef54e120cc",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (97.7% odds)",
-        "Large bet ($3,343)"
-      ],
-      "amount": 3343.294,
-      "odds": 0.977,
-      "wallet_age_days": 0,
-      "total_activities": 5
-    },
-    "timestamp": "2026-02-06T11:53:04.388501",
-    "trade_hash": "0x88149302bb9023efc647975d6c14980ebbba4d0ad873592a540f3b32ba5f9eba",
-    "trade_timestamp": 1770378585,
-    "latency": null,
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "SELL",
-      "price": 0.977,
-      "size": 3422.0,
-      "amount": 3343.294
-    },
-    "resolution_last_check": "2026-03-29T06:55:02.068291+00:00"
-  },
-  {
-    "market": "Will Rahm Emanuel win the 2028 Democratic presidential nomination?",
-    "market_slug": "will-rahm-emanuel-win-the-2028-democratic-presidential-nomination-299",
     "wallet": "0xa45aff8556d47e37260127cdfca1666c8429828a",
     "analysis": {
       "score": 85,
@@ -34613,5 +34583,49 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x4ffb989771e433631f2bafae13d9096c092f47d5a2db59f73608a4282c301b55",
+    "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+    "trader": {
+      "rank": 11,
+      "address": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+      "username": "KeyTransporter",
+      "profit": 5711459.802519929,
+      "volume": 20086062.154324997,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xd1001f4ef07ee37774934a8bc0083185ef6b853d",
+      "side": "BUY",
+      "asset": "80233603906840199723166341893893457990772232104675468228850490793625329146706",
+      "conditionId": "0x958fc86fe0aea306a62b3dd2312424fc3050c28b52f23172c4853727ee1cdbb8",
+      "size": 20496.88148,
+      "price": 0.48,
+      "timestamp": 1775858731,
+      "title": "Nets vs. Bucks: O/U 217.5",
+      "slug": "nba-bkn-mil-2026-04-10-total-217pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-bkn-mil-2026-04-10",
+      "outcome": "Under",
+      "outcomeIndex": 1,
+      "name": "",
+      "pseudonym": "",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x4ffb989771e433631f2bafae13d9096c092f47d5a2db59f73608a4282c301b55",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Nets vs. Bucks: O/U 217.5",
+    "market_slug": "nba-bkn-mil-2026-04-10",
+    "amount": 9838.503110399999
   }
 ]
