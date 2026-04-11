@@ -2,36 +2,6 @@
   {
     "market": "Will Ron DeSantis win the 2028 Republican presidential nomination?",
     "market_slug": "will-ron-desantis-win-the-2028-republican-presidential-nomination",
-    "wallet": "0x8bb7cfc810d991bc37e37b552d31699febd63f74",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (97.6% odds)",
-        "Large bet ($1,679)"
-      ],
-      "amount": 1678.72,
-      "odds": 0.976,
-      "wallet_age_days": 0,
-      "total_activities": 26
-    },
-    "timestamp": "2026-02-06T21:47:08.382804",
-    "trade_hash": "0xba1c2ec8ec485610e542664bd4778b90907a6fe12e79772304f795b51ce97031",
-    "trade_timestamp": 1770414301,
-    "latency": null,
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "SELL",
-      "price": 0.976,
-      "size": 1720.0,
-      "amount": 1678.72
-    },
-    "resolution_last_check": "2026-03-29T06:55:04.027577+00:00"
-  },
-  {
-    "market": "Will Ron DeSantis win the 2028 Republican presidential nomination?",
-    "market_slug": "will-ron-desantis-win-the-2028-republican-presidential-nomination",
     "wallet": "0x027a4d34e77da6cb14d8b93ddb812014ec69720d",
     "analysis": {
       "score": 85,
@@ -34676,5 +34646,49 @@
     "market": "LoL: Top Esports vs JD Gaming - Game 1 Winner",
     "market_slug": "lol-tes-jdg-2026-04-11",
     "amount": 2023.586863370672
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xb58f65864058e3442690c6dc7cc567ad6c24d9f7a3b0354867019cd905a7c5e9",
+    "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
+    "trader": {
+      "rank": 18,
+      "address": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
+      "username": "432614799197",
+      "profit": 4526176.046413317,
+      "volume": 185485956.8620829,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x83d9c8fe37f1b5141f3219219403d87f4513651b",
+      "side": "BUY",
+      "asset": "41258360498047732696011506853943916604266422723806077173801955350268225469280",
+      "conditionId": "0xa016f5a9196c51bcc42fbbbde0243dfa428f8cb607993fb23aff0c6c18f56de2",
+      "size": 2182.18,
+      "price": 0.73,
+      "timestamp": 1775930463,
+      "title": "FC Barcelona vs. RCD Espanyol de Barcelona: O/U 3.5",
+      "slug": "lal-bar-esp-2026-04-11-total-3pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-lal.png",
+      "eventSlug": "lal-bar-esp-2026-04-11-more-markets",
+      "outcome": "Over",
+      "outcomeIndex": 0,
+      "name": "4buc0",
+      "pseudonym": "Giddy-Stepuncle",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xb58f65864058e3442690c6dc7cc567ad6c24d9f7a3b0354867019cd905a7c5e9",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "FC Barcelona vs. RCD Espanyol de Barcelona: O/U 3.5",
+    "market_slug": "lal-bar-esp-2026-04-11-more-markets",
+    "amount": 1592.9913999999999
   }
 ]
