@@ -1,72 +1,5 @@
 [
   {
-    "market": "Will Andy Beshear win the 2028 Democratic presidential nomination?",
-    "market_slug": "will-andy-beshear-win-the-2028-democratic-presidential-nomination-832",
-    "wallet": "0x4c9f8d0037f511eb18086272d9e15ae2351855ef",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (97.2% odds)",
-        "Large bet ($1,730)"
-      ],
-      "amount": 1730.1599999999999,
-      "odds": 0.972,
-      "wallet_age_days": 0,
-      "total_activities": 22
-    },
-    "timestamp": "2026-02-06T20:18:30.367469",
-    "trade_hash": "0x0bff65e5bb807908a815ccf57fcbdeceea2cb5746be70e4779f3bcc2fb726a48",
-    "trade_timestamp": 1770408967,
-    "latency": null,
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "BUY",
-      "price": 0.972,
-      "size": 1780.0,
-      "amount": 1730.1599999999999
-    },
-    "resolution_last_check": "2026-03-29T06:55:02.715061+00:00"
-  },
-  {
-    "market": "US x Iran meeting by February 13, 2026?",
-    "market_slug": "us-x-iran-meeting-by-february-13-2026",
-    "wallet": "0xe8a2057abd53d285f7bea590b8f1dff1f04454c2",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "Extreme confidence (95.4% odds)",
-        "Large bet ($1,547)",
-        "Pre-event latency: 8831m"
-      ],
-      "amount": 1547.1662,
-      "odds": 0.9539926500511783,
-      "wallet_age_days": 7,
-      "total_activities": 100
-    },
-    "timestamp": "2026-02-06T20:52:23.688823",
-    "trade_hash": "0x81495949784422fc50b6d81e8ce94b8b2e121de742a99211cf6e4e9c6c4a1b19",
-    "trade_timestamp": 1770410967,
-    "latency": {
-      "latency_seconds": 529833.0,
-      "latency_minutes": 8830.55,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-02-06T20:49:27+00:00",
-      "event_time": "2026-02-13T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "side": "BUY",
-      "price": 0.9539926500511783,
-      "size": 1621.78,
-      "amount": 1547.1662
-    },
-    "resolution_last_check": "2026-03-29T06:55:03.378238+00:00"
-  },
-  {
     "market": "Will Ron DeSantis win the 2028 Republican presidential nomination?",
     "market_slug": "will-ron-desantis-win-the-2028-republican-presidential-nomination",
     "wallet": "0x8bb7cfc810d991bc37e37b552d31699febd63f74",
@@ -34655,5 +34588,93 @@
     "market": "Thunder vs. Nuggets",
     "market_slug": "nba-okc-den-2026-04-10",
     "amount": 2961.300002900129
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x8746006b3a4e5f7d002a10aba983c22c5d1ae6c3f777d14cfbd1ac173f2b8567",
+    "wallet": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+    "trader": {
+      "rank": 8,
+      "address": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+      "username": "PrincessCaro",
+      "profit": 6083643.099591745,
+      "volume": 23520809.952867005,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xfc1243854e34aea5e8c577e467ef148cbc7e18a9",
+      "side": "BUY",
+      "asset": "56231474151770057648855426299021396541474371449092934400587810748856711049761",
+      "conditionId": "0x924a2942747dd75703321a7c8d809c68f6a514c3b0f2a2e64274e02310634669",
+      "size": 2435.897431,
+      "price": 0.7799999999261052,
+      "timestamp": 1775908251,
+      "title": "Strait of Hormuz traffic returns to normal by end of April?",
+      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-april-30",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ships-transit-the-strait-of-hormuz-on-any-day-in-march-ERARnetK0FJm.jpg",
+      "eventSlug": "strait-of-hormuz-traffic-returns-to-normal-by-april-30",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "Skinner77",
+      "pseudonym": "Thunderous-Spasm",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-4719586-d18c9bd8-2b3c-4ce8-bf3b-48fa310436b3.jpeg",
+      "profileImageOptimized": "",
+      "transactionHash": "0x8746006b3a4e5f7d002a10aba983c22c5d1ae6c3f777d14cfbd1ac173f2b8567",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Strait of Hormuz traffic returns to normal by end of April?",
+    "market_slug": "strait-of-hormuz-traffic-returns-to-normal-by-april-30",
+    "amount": 1899.9999959999998
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xcdb42f451e906fe98694c87b742198eeaf458263afcca51a4261aa8d40de6d44",
+    "wallet": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+    "trader": {
+      "rank": 8,
+      "address": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+      "username": "PrincessCaro",
+      "profit": 6083643.099591745,
+      "volume": 23520809.952867005,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x01e6e3c5cfe50943e7721398054cb1e22032e7e0",
+      "side": "BUY",
+      "asset": "27463835349984391671863665214379526251077104225242551638673470406148681255464",
+      "conditionId": "0xbd6083a6ca7daa6f9226ffd11600cc45028deb3a5f1ed00fc7c7abe2f2f39a2c",
+      "size": 2442.3715,
+      "price": 0.8285336048879837,
+      "timestamp": 1775908251,
+      "title": "LoL: Top Esports vs JD Gaming - Game 1 Winner",
+      "slug": "lol-tes-jdg-2026-04-11-game1",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
+      "eventSlug": "lol-tes-jdg-2026-04-11",
+      "outcome": "JD Gaming",
+      "outcomeIndex": 1,
+      "name": "BirdMan.",
+      "pseudonym": "Well-Made-Sovereignty",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-6981540-65626b91-dc80-4b1c-99ee-de73d651cf10.webp",
+      "profileImageOptimized": "",
+      "transactionHash": "0xcdb42f451e906fe98694c87b742198eeaf458263afcca51a4261aa8d40de6d44",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "LoL: Top Esports vs JD Gaming - Game 1 Winner",
+    "market_slug": "lol-tes-jdg-2026-04-11",
+    "amount": 2023.586863370672
   }
 ]
