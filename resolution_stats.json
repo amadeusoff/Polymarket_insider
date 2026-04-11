@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-04-10T10:05:28.703666+00:00",
-  "total_checked": 85,
+  "last_run": "2026-04-11T08:09:12.349153+00:00",
+  "total_checked": 108,
   "total_resolved": 2,
   "total_unresolved": 0,
   "insider_wins": 0,
@@ -53,6 +53,16 @@
       "date": "2026-04-10",
       "newly_resolved": 0,
       "still_open": 26,
+      "total_resolved": 2,
+      "insider_wins": 0,
+      "insider_losses": 0,
+      "model_correct": 0,
+      "model_wrong": 0
+    },
+    {
+      "date": "2026-04-11",
+      "newly_resolved": 0,
+      "still_open": 23,
       "total_resolved": 2,
       "insider_wins": 0,
       "insider_losses": 0,
