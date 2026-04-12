@@ -34571,7 +34571,8 @@
     },
     "market": "Strait of Hormuz traffic returns to normal by end of April?",
     "market_slug": "strait-of-hormuz-traffic-returns-to-normal-by-april-30",
-    "amount": 1899.9999959999998
+    "amount": 1899.9999959999998,
+    "resolution_last_check": "2026-04-12T08:39:55.494703+00:00"
   },
   {
     "type": "TOP_TRADER",
@@ -34764,6 +34765,7 @@
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
+    },
+    "resolution_last_check": "2026-04-12T08:39:59.128352+00:00"
   }
 ]
