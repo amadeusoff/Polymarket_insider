@@ -1,42 +1,5 @@
 [
   {
-    "market": "Will the price of Bitcoin be above $78,000 on February 9?",
-    "market_slug": "bitcoin-above-78k-on-february-9",
-    "wallet": "0xa42f127d7e8df9f16881ffcc9ed0bc0326875f5a",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "Extreme confidence (96.5% odds)",
-        "Large bet ($1,072)",
-        "Pre-event latency: 2922m"
-      ],
-      "amount": 1072.259992,
-      "odds": 0.9647743408626627,
-      "wallet_age_days": 24,
-      "total_activities": 100
-    },
-    "timestamp": "2026-02-06T23:27:11.118774",
-    "trade_hash": "0x21cb392a4229a4ec5bf55e5f0ea008e86ba59e2da090871717061771690fa06f",
-    "trade_timestamp": 1770419871,
-    "latency": {
-      "latency_seconds": 175329.0,
-      "latency_minutes": 2922.15,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-02-06T23:17:51+00:00",
-      "event_time": "2026-02-09T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "BUY",
-      "price": 0.9647743408626627,
-      "size": 1111.410147,
-      "amount": 1072.259992
-    },
-    "resolution_last_check": "2026-03-29T06:55:05.345348+00:00"
-  },
-  {
     "market": "US strikes Iran by February 13, 2026?",
     "market_slug": "us-strikes-iran-by-february-13-2026-721-759-497-124-197-797-992-641-418-789-676-262",
     "wallet": "0x7b02b2bac2a30ed5e40b7094e734f4c3dc2a4991",
@@ -34780,5 +34743,49 @@
     "market": "Will Rafael L\u00f3pez Aliaga win the 2026 Peruvian presidential election?",
     "market_slug": "peru-presidential-election-winner",
     "amount": 2243.209999
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x794279983db66cef63e5abfac348cd57506b7378398b2bb5620829253ebb95cc",
+    "wallet": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
+    "trader": {
+      "rank": 16,
+      "address": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
+      "username": "GamblingIsAllYouNeed",
+      "profit": 4743296.994874363,
+      "volume": 342686462.67575395,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x40471b34671887546013ceb58740625c2efe7293",
+      "side": "BUY",
+      "asset": "32341687274788201899478881548952314427337883629625135260703748269761856076766",
+      "conditionId": "0xeda0e0633f131b761cbe6c6e5e16ae347c48d9448a08c5826bfc2c794b63758e",
+      "size": 1815,
+      "price": 0.83,
+      "timestamp": 1776121973,
+      "title": "Will Crude Oil (CL) hit (HIGH) $150 by end of June?",
+      "slug": "will-crude-oil-cl-hit-high-150-by-end-of-june-788-691",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/crude-oil-9a850ce2a2.png",
+      "eventSlug": "cl-hit-jun-2026",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "esports095",
+      "pseudonym": "Oval-Gasp",
+      "bio": "fun",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-1612623-69a46f7f-2905-4f22-9d46-43d32df5e7d4.png",
+      "profileImageOptimized": "",
+      "transactionHash": "0x794279983db66cef63e5abfac348cd57506b7378398b2bb5620829253ebb95cc",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Crude Oil (CL) hit (HIGH) $150 by end of June?",
+    "market_slug": "cl-hit-jun-2026",
+    "amount": 1506.4499999999998
   }
 ]
