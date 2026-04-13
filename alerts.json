@@ -1,36 +1,5 @@
 [
   {
-    "market": "Jeffrey Epstein confirmed to be alive before 2027?",
-    "market_slug": "is-jeffrey-epstein-alive-498",
-    "wallet": "0xffed687882ea20e77879f0cf0897060c49554706",
-    "analysis": {
-      "score": 95,
-      "flags": [
-        "New wallet (0d old)",
-        "Against trend (7.4% odds)",
-        "Large bet ($5,774)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 5774.3699990000005,
-      "odds": 0.07444795131183997,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-02-06T21:47:33.000489",
-    "trade_hash": "0x242377d11acf46f7a028cab252ee7632bf2183e3f577b8ad01219a2052a89905",
-    "trade_timestamp": 1770414193,
-    "latency": null,
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "side": "BUY",
-      "price": 0.07444795131183997,
-      "size": 77562.510415,
-      "amount": 5774.3699990000005
-    },
-    "resolution_last_check": "2026-03-29T06:55:04.673339+00:00"
-  },
-  {
     "market": "Will the price of Bitcoin be above $78,000 on February 9?",
     "market_slug": "bitcoin-above-78k-on-february-9",
     "wallet": "0xa42f127d7e8df9f16881ffcc9ed0bc0326875f5a",
@@ -34767,5 +34736,49 @@
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     },
     "resolution_last_check": "2026-04-12T08:39:59.128352+00:00"
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xf9cdd7e242ec8e4e1f7d82492fcf6ce46d17883f0810e5f6795c247f43b35f07",
+    "wallet": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
+    "trader": {
+      "rank": 3,
+      "address": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
+      "username": "kch123",
+      "profit": 12046708.246806102,
+      "volume": 281310471.65188605,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x6cbb4ad84f064f6aa197f3965f291a626ce1cf39",
+      "side": "BUY",
+      "asset": "91464516107556165907566387619157396733019262339196802152206657889196699256450",
+      "conditionId": "0xae6d3d20bc8f742922dc40880cd8a8671c10385a9912fa7cd670fba0643dfe96",
+      "size": 4876.543477,
+      "price": 0.4599999999138734,
+      "timestamp": 1776081449,
+      "title": "Will Rafael L\u00f3pez Aliaga win the 2026 Peruvian presidential election?",
+      "slug": "will-rafael-lpez-aliaga-win-the-2026-peruvian-presidential-election",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-rafael-lpez-aliaga-win-the-2026-peruvian-presidential-election-X72XjUcYKC0d.jpg",
+      "eventSlug": "peru-presidential-election-winner",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "nickolasvitte",
+      "pseudonym": "Each-Lambkin",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xf9cdd7e242ec8e4e1f7d82492fcf6ce46d17883f0810e5f6795c247f43b35f07",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Rafael L\u00f3pez Aliaga win the 2026 Peruvian presidential election?",
+    "market_slug": "peru-presidential-election-winner",
+    "amount": 2243.209999
   }
 ]
