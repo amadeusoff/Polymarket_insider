@@ -1,42 +1,5 @@
 [
   {
-    "market": "76ers vs. Suns",
-    "market_slug": "nba-phi-phx-2026",
-    "wallet": "0x94807f36a7a1c57e8e19d7531e75f1b48bd17456",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (0d old)",
-        "Extreme confidence (96.9% effective odds)",
-        "Large bet ($6,152)"
-      ],
-      "amount": 6151.929977999999,
-      "odds": 0.9685138998912362,
-      "raw_price": 0.9685138998912362,
-      "outcome": "76ers",
-      "potential_pnl": 199.99742200000003,
-      "pnl_multiplier": 0.03250970390027415,
-      "wallet_age_days": 0,
-      "total_activities": 7
-    },
-    "timestamp": "2026-02-08T04:08:08.200965",
-    "trade_hash": "0x96ed7cf03a3ff41fa7d1aa8470624e3081792bfcfb01f5d0841cbd5704c8204b",
-    "trade_timestamp": 1770523449,
-    "latency": null,
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "76ers",
-      "side": "BUY",
-      "price": 0.9685138998912362,
-      "effective_price": 0.9685138998912362,
-      "size": 6351.9274,
-      "amount": 6151.929977999999,
-      "potential_pnl": 199.99742200000003,
-      "pnl_multiplier": 0.03250970390027415,
-      "is_no": false
-    }
-  },
-  {
     "market": "LoL: DRX vs Nongshim Red Force - Game 3 Winner",
     "market_slug": "lol-drx-ns-2026-02-08-game3",
     "wallet": "0x5db56d12501f3c52300e194999da136530f05df8",
@@ -34795,5 +34758,49 @@
     "market": "LoL: Solary vs Misa Esports - Game 1 Winner",
     "market_slug": "lol-sly-me1-2026-04-14",
     "amount": 3116.47612299706
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x6ba7a6233550b77b320caddd2e615fd74f34d482afe7829c428349aa4cf68fdc",
+    "wallet": "0xdb27bf2ac5d428a9c63dbc914611036855a6c56e",
+    "trader": {
+      "rank": 19,
+      "address": "0xdb27bf2ac5d428a9c63dbc914611036855a6c56e",
+      "username": "DrPufferfish",
+      "profit": 4134943.9909985224,
+      "volume": 231139159.535997,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x49007e1e636d0e922d0122a02ea743e41d194a72",
+      "side": "BUY",
+      "asset": "24860834250192315460956200527856213346792846581703276065798600456143295617592",
+      "conditionId": "0x4b1c26fd7c6266cfb8a5837d44f28b3afef7af2e7b7c138f18f9e53dccf4f689",
+      "size": 4358.9443599999995,
+      "price": 0.71,
+      "timestamp": 1776184102,
+      "title": "Barcelona Open: Brandon Nakashima vs Juan Manuel Cerundolo",
+      "slug": "atp-nakashi-cerund-2026-04-14",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+      "eventSlug": "atp-nakashi-cerund-2026-04-14",
+      "outcome": "Brandon Nakashima",
+      "outcomeIndex": 0,
+      "name": "08AF",
+      "pseudonym": "International-Hackwork",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x6ba7a6233550b77b320caddd2e615fd74f34d482afe7829c428349aa4cf68fdc",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Barcelona Open: Brandon Nakashima vs Juan Manuel Cerundolo",
+    "market_slug": "atp-nakashi-cerund-2026-04-14",
+    "amount": 3094.8504955999997
   }
 ]
