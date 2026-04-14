@@ -1,42 +1,5 @@
 [
   {
-    "market": "LoL: DRX vs Nongshim Red Force - Game 3 Winner",
-    "market_slug": "lol-drx-ns-2026-02-08-game3",
-    "wallet": "0x5db56d12501f3c52300e194999da136530f05df8",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (1d old)",
-        "Extreme confidence (96.0% effective odds)",
-        "Large bet ($1,036)"
-      ],
-      "amount": 1035.5232,
-      "odds": 0.96,
-      "raw_price": 0.96,
-      "outcome": "DRX",
-      "potential_pnl": 43.14680000000004,
-      "pnl_multiplier": 0.041666666666666706,
-      "wallet_age_days": 1,
-      "total_activities": 100
-    },
-    "timestamp": "2026-02-08T10:20:36.222229",
-    "trade_hash": "0x3342dbcd27846955bc681c9627f4ec660af3970063ac75e524777e2cb2351c4c",
-    "trade_timestamp": 1770545719,
-    "latency": null,
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "DRX",
-      "side": "SELL",
-      "price": 0.96,
-      "effective_price": 0.96,
-      "size": 1078.67,
-      "amount": 1035.5232,
-      "potential_pnl": 43.14680000000004,
-      "pnl_multiplier": 0.041666666666666706,
-      "is_no": false
-    }
-  },
-  {
     "market": "Will Bhumjaithai Party (BJT) win the most seats in the 2026 Thai legislative election?",
     "market_slug": "will-bhumjaithai-party-bjt-win-the-most-seats-in-the-2026-thai-legislative-election",
     "wallet": "0x98a1f7612f8132dd3772f33558d03c88997061b6",
@@ -34802,5 +34765,49 @@
     "market": "Barcelona Open: Brandon Nakashima vs Juan Manuel Cerundolo",
     "market_slug": "atp-nakashi-cerund-2026-04-14",
     "amount": 3094.8504955999997
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x758d30cf28a16dd37d6815be8f0211d1d95bcdca8bc2ce5df22ea549d96d9569",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "trader": {
+      "rank": 7,
+      "address": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+      "username": "RN1",
+      "profit": 7311369.503055311,
+      "volume": 411475725.998495,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+      "side": "BUY",
+      "asset": "101382360356708202153837682549732355572190849223664494489440636504424347677122",
+      "conditionId": "0x6a7fac1da50244e250bb8d1b8c68257df3df29a6fa2169ad2d83eb75de6d5d66",
+      "size": 19424.574,
+      "price": 0.22,
+      "timestamp": 1776188306,
+      "title": "Barcelona Open: Mariano Navone vs Andrey Rublev",
+      "slug": "atp-navone-rublev-2026-04-13",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+      "eventSlug": "atp-navone-rublev-2026-04-13",
+      "outcome": "Mariano Navone",
+      "outcomeIndex": 0,
+      "name": "RN1",
+      "pseudonym": "Scary-Edible",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-1567750-84001aec-310a-470f-9584-67dfcaa61267.png",
+      "profileImageOptimized": "",
+      "transactionHash": "0x758d30cf28a16dd37d6815be8f0211d1d95bcdca8bc2ce5df22ea549d96d9569",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Barcelona Open: Mariano Navone vs Andrey Rublev",
+    "market_slug": "atp-navone-rublev-2026-04-13",
+    "amount": 4273.40628
   }
 ]
