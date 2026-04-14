@@ -1,41 +1,5 @@
 [
   {
-    "market": "US strikes Iran by February 13, 2026?",
-    "market_slug": "us-strikes-iran-by-february-13-2026-721-759-497-124-197-797-992-641-418-789-676-262",
-    "wallet": "0x7b02b2bac2a30ed5e40b7094e734f4c3dc2a4991",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "Against trend (7.0% odds)",
-        "Large bet ($1,483)",
-        "Pre-event latency: 7730m"
-      ],
-      "amount": 1482.6483,
-      "odds": 0.07,
-      "wallet_age_days": 9,
-      "total_activities": 100
-    },
-    "timestamp": "2026-02-07T15:12:47.769566",
-    "trade_hash": "0xd1289280054ca1fedcbf72296322e566c4bef6c8f5d0c6706b7ccd216918eebc",
-    "trade_timestamp": 1770477007,
-    "latency": {
-      "latency_seconds": 463793.0,
-      "latency_minutes": 7729.883333333333,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-02-07T15:10:07+00:00",
-      "event_time": "2026-02-13T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "side": "BUY",
-      "price": 0.07,
-      "size": 21180.69,
-      "amount": 1482.6483
-    }
-  },
-  {
     "market": "76ers vs. Suns",
     "market_slug": "nba-phi-phx-2026",
     "wallet": "0x94807f36a7a1c57e8e19d7531e75f1b48bd17456",
@@ -34787,5 +34751,49 @@
     "market": "Will Crude Oil (CL) hit (HIGH) $150 by end of June?",
     "market_slug": "cl-hit-jun-2026",
     "amount": 1506.4499999999998
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x7c2c62277c2bfffca4a9d8a893f1f7e1060ef7cadc70da92b8544521e70a82f8",
+    "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
+    "trader": {
+      "rank": 18,
+      "address": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
+      "username": "432614799197",
+      "profit": 4526176.046413323,
+      "volume": 185485956.8620829,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x43ff8626d5eea59f1b87893a23070ce4322ba491",
+      "side": "BUY",
+      "asset": "34863415224485052221062435240480956528659169769914742114148999480855876384133",
+      "conditionId": "0x03fc0b8b73d45000fc84e375ec2757d24bf715cedef8154a910b563e380228eb",
+      "size": 7431.26172,
+      "price": 0.41937375380140157,
+      "timestamp": 1776179297,
+      "title": "LoL: Solary vs Misa Esports - Game 1 Winner",
+      "slug": "lol-sly-me1-2026-04-14-game1",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
+      "eventSlug": "lol-sly-me1-2026-04-14",
+      "outcome": "Solary",
+      "outcomeIndex": 0,
+      "name": "ekko253",
+      "pseudonym": "Silver-Motion",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x7c2c62277c2bfffca4a9d8a893f1f7e1060ef7cadc70da92b8544521e70a82f8",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "LoL: Solary vs Misa Esports - Game 1 Winner",
+    "market_slug": "lol-sly-me1-2026-04-14",
+    "amount": 3116.47612299706
   }
 ]
