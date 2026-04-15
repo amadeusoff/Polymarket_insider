@@ -1,43 +1,5 @@
 [
   {
-    "market": "Will Bhumjaithai Party (BJT) win the most seats in the 2026 Thai legislative election?",
-    "market_slug": "will-bhumjaithai-party-bjt-win-the-most-seats-in-the-2026-thai-legislative-election",
-    "wallet": "0x98a1f7612f8132dd3772f33558d03c88997061b6",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (1d old)",
-        "Extreme confidence (96.0% effective odds)",
-        "Large bet ($2,230)"
-      ],
-      "amount": 2229.9999980000002,
-      "odds": 0.9599999998278027,
-      "raw_price": 0.9599999998278027,
-      "outcome": "Yes",
-      "potential_pnl": 92.91666699999998,
-      "pnl_multiplier": 0.04166666685351269,
-      "wallet_age_days": 1,
-      "total_activities": 11
-    },
-    "timestamp": "2026-02-08T14:00:01.838971",
-    "trade_hash": "0x24d81850c8cbddec57a777cb73a5b236b8141695eb87eca1c00e2c80e83f37a8",
-    "trade_timestamp": 1770558985,
-    "latency": null,
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "side": "BUY",
-      "price": 0.9599999998278027,
-      "effective_price": 0.9599999998278027,
-      "size": 2322.916665,
-      "amount": 2229.9999980000002,
-      "potential_pnl": 92.91666699999998,
-      "pnl_multiplier": 0.04166666685351269,
-      "is_no": false
-    },
-    "resolution_last_check": "2026-03-29T06:55:09.006147+00:00"
-  },
-  {
     "market": "Another US government shutdown by February 14?",
     "market_slug": "another-us-government-shutdown-by-february-14",
     "wallet": "0xfd9bf631ab106c4a4ec9a51073d9e3ef2802934e",
@@ -34809,5 +34771,49 @@
     "market": "Barcelona Open: Mariano Navone vs Andrey Rublev",
     "market_slug": "atp-navone-rublev-2026-04-13",
     "amount": 4273.40628
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x6996a82059578710336064c64f08022abf23f92b4c458960523bc0fb758f40f1",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xfdf2044cfc60a9c5e792b31d06e8903f301723e3",
+      "side": "BUY",
+      "asset": "2580756844752111353079997113530362469425122018708342066576508492586746974879",
+      "conditionId": "0x6f9b09e17b881d9efe897014e6bcbc15e7605055d71759e61d9a970d86980d71",
+      "size": 1959.7676,
+      "price": 0.9281670061099796,
+      "timestamp": 1776224024,
+      "title": "Trail Blazers vs. Suns: O/U 216.5",
+      "slug": "nba-por-phx-2026-04-14-total-216pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-por-phx-2026-04-14",
+      "outcome": "Over",
+      "outcomeIndex": 0,
+      "name": "godzilltyrer",
+      "pseudonym": "Agreeable-Bust",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x6996a82059578710336064c64f08022abf23f92b4c458960523bc0fb758f40f1",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Trail Blazers vs. Suns: O/U 216.5",
+    "market_slug": "nba-por-phx-2026-04-14",
+    "amount": 1818.9916259633399
   }
 ]
