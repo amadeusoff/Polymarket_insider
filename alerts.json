@@ -1,50 +1,5 @@
 [
   {
-    "market": "Another US government shutdown by February 14?",
-    "market_slug": "another-us-government-shutdown-by-february-14",
-    "wallet": "0xfd9bf631ab106c4a4ec9a51073d9e3ef2802934e",
-    "analysis": {
-      "score": 100,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,103)",
-        "Pre-event latency: 6952m"
-      ],
-      "amount": 1103.137931,
-      "odds": 0.7102639821564334,
-      "raw_price": 0.28973601784356656,
-      "outcome": "No",
-      "potential_pnl": 449.99999900000006,
-      "pnl_multiplier": 0.40792722863955266,
-      "wallet_age_days": 0,
-      "total_activities": 18
-    },
-    "timestamp": "2026-02-09T04:12:24.810579",
-    "trade_hash": "0xdb2296238e6ebaab03c170e4d9b9f081f821808fbdfb708a637a6ed8663917bc",
-    "trade_timestamp": 1770610065,
-    "latency": {
-      "latency_seconds": 417135.0,
-      "latency_minutes": 6952.25,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-02-09T04:07:45+00:00",
-      "event_time": "2026-02-14T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "BUY",
-      "price": 0.28973601784356656,
-      "effective_price": 0.7102639821564334,
-      "size": 1553.13793,
-      "amount": 1103.137931,
-      "potential_pnl": 449.99999900000006,
-      "pnl_multiplier": 0.40792722863955266,
-      "is_no": true
-    },
-    "resolution_last_check": "2026-03-29T06:55:09.678987+00:00"
-  },
-  {
     "market": "Will the next Prime Minister of Hungary be Istv\u00e1n Kapit\u00e1ny?",
     "market_slug": "will-the-next-prime-minister-of-hungary-be-istvn-kapitny",
     "wallet": "0x8de4df81dd97012c7c7b4bd5a2c4fc6752820427",
@@ -34815,5 +34770,49 @@
     "market": "Trail Blazers vs. Suns: O/U 216.5",
     "market_slug": "nba-por-phx-2026-04-14",
     "amount": 1818.9916259633399
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x7b2eb8dbaeaff310f2a0e44633ab51d0b032b8043c24dbb2a645dc27ff33534d",
+    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+    "trader": {
+      "rank": 12,
+      "address": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+      "username": "BetTom42",
+      "profit": 5642135.735356,
+      "volume": 11212839.523403,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x8f04167129929f0065859ad7a7d10921e4407994",
+      "side": "BUY",
+      "asset": "1698351804014207393200490923682973287199816363070898873936455526555194454651",
+      "conditionId": "0xdc78e1e6ec17471f57442fbd455bbb4f048ce3ea203ac30dd811ad7bd7f5840f",
+      "size": 7002.487461999999,
+      "price": 0.4209999999688477,
+      "timestamp": 1776375044,
+      "title": "Porsche Tennis Grand Prix: Leylah Fernandez vs Zeynep Sonmez",
+      "slug": "wta-fernand-sonmez-2026-04-16",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wta-logo-41f331bdf1.png",
+      "eventSlug": "wta-fernand-sonmez-2026-04-16",
+      "outcome": "Leylah Fernandez",
+      "outcomeIndex": 0,
+      "name": "Properdin",
+      "pseudonym": "Wary-Dose",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x7b2eb8dbaeaff310f2a0e44633ab51d0b032b8043c24dbb2a645dc27ff33534d",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Porsche Tennis Grand Prix: Leylah Fernandez vs Zeynep Sonmez",
+    "market_slug": "wta-fernand-sonmez-2026-04-16",
+    "amount": 2948.047221283856
   }
 ]
