@@ -1,117 +1,5 @@
 [
   {
-    "market": "US strikes Iran by February 26, 2026?",
-    "market_slug": "us-strikes-iran-by-february-26-2026-368",
-    "wallet": "0x1abe1368601330a310162064e04d3c2628cb6497",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "Against trend (9.8% effective odds)",
-        "Large bet ($2,000)",
-        "Pre-event latency: 5949m"
-      ],
-      "amount": 1999.9999999999998,
-      "odds": 0.0978215722783055,
-      "raw_price": 0.0978215722783055,
-      "outcome": "Yes",
-      "potential_pnl": 18445.388,
-      "pnl_multiplier": 9.222694,
-      "wallet_age_days": 45,
-      "total_activities": 100
-    },
-    "timestamp": "2026-02-21T20:57:17.045978",
-    "trade_hash": "0xddf62f651d554b540102a1f9da7c436284955d5c2f8a44ecbc059a0fc0c4857a",
-    "trade_timestamp": 1771707044,
-    "latency": {
-      "latency_seconds": 356956.0,
-      "latency_minutes": 5949.266666666666,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-02-21T20:50:44+00:00",
-      "event_time": "2026-02-26T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "side": "BUY",
-      "price": 0.0978215722783055,
-      "effective_price": 0.0978215722783055,
-      "size": 20445.388,
-      "amount": 1999.9999999999998,
-      "potential_pnl": 18445.388,
-      "pnl_multiplier": 9.222694,
-      "is_no": false
-    },
-    "irrationality": {
-      "irrationality_score": 58,
-      "flags": [
-        "Longshot (10%) in high bias category (geopolitics)",
-        "Category structurally prone to longshot bias",
-        "Crisis keyword detected ('strike')",
-        "Moderate mispricing edge (+5.4%)"
-      ],
-      "category": "geopolitics",
-      "category_info": {
-        "strength": "high",
-        "typical_overpricing": 0.05,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.0435643144556611,
-      "market_price": 0.0978215722783055,
-      "edge": 0.0542572578226444,
-      "edge_percent": 5.42572578226444,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "MODERATE",
-      "base_rate_class": "rare",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "rare",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Escalation of tensions between the US and Iran",
-          "Political support within the US government for military action",
-          "Public sentiment favoring intervention"
-        ],
-        "weakest_link": "Public sentiment favoring intervention"
-      },
-      "category": "geopolitics",
-      "narrative_drivers": [
-        "Regional instability in the Middle East",
-        "Influence of external actors such as Russia or China"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "CONFLICT",
-      "signal_emoji": "\u26a0\ufe0f",
-      "signal_strength": 85,
-      "interpretation": "Insider buying YES despite statistical overpricing",
-      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
-      "insider_score": 85,
-      "insider_position": "YES",
-      "irrationality_score": 58,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.0542572578226444,
-      "edge_percent": 5.42572578226444
-    },
-    "financial_analyst": {
-      "signal_quality": 36.7,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 5.43,
-      "signal_strength": 85.0,
-      "insider_score": 85.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-03-29T06:55:13.465923+00:00"
-  },
-  {
     "market": "US strikes Iran by February 25, 2026?",
     "market_slug": "us-strikes-iran-by-february-25-2026",
     "wallet": "0x47dcc568e33970cfd99d0924300195d2d8f24342",
@@ -34763,5 +34651,49 @@
     "market": "Will Claude Opus 4.7 by Anthropic debut at a score of at least 1500?",
     "market_slug": "next-anthropic-model-arena-debut",
     "amount": 2078.7509312051398
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xf28864f37ebdf8782b929e7325f7af02aa2f3c2cb8220fa91ea7339c4590af6e",
+    "wallet": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+    "trader": {
+      "rank": 9,
+      "address": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+      "username": "walletmobile",
+      "profit": 5942685.45339684,
+      "volume": 32196692.075936034,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+      "side": "BUY",
+      "asset": "50616872541920603433884460284719684864747679304436856188500328292452712898715",
+      "conditionId": "0x0656d25241a8b09abaa640fdfce92a942085a46bf0ef876b4e65990ed0ec9d49",
+      "size": 2713.696,
+      "price": 0.68,
+      "timestamp": 1776467210,
+      "title": "Atlanta Braves vs. Philadelphia Phillies",
+      "slug": "mlb-atl-phi-2026-04-17",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
+      "eventSlug": "mlb-atl-phi-2026-04-17",
+      "outcome": "Atlanta Braves",
+      "outcomeIndex": 0,
+      "name": "RN1",
+      "pseudonym": "Scary-Edible",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-1567750-84001aec-310a-470f-9584-67dfcaa61267.png",
+      "profileImageOptimized": "",
+      "transactionHash": "0xf28864f37ebdf8782b929e7325f7af02aa2f3c2cb8220fa91ea7339c4590af6e",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Atlanta Braves vs. Philadelphia Phillies",
+    "market_slug": "mlb-atl-phi-2026-04-17",
+    "amount": 1845.31328
   }
 ]
