@@ -1,49 +1,5 @@
 [
   {
-    "market": "Will FC Barcelona win on 2026-02-16?",
-    "market_slug": "lal-gir-bar-2026-02-16-bar",
-    "wallet": "0xada56a3f1a9d7d3fe7ec8cbcaa0865109c57db70",
-    "analysis": {
-      "score": 100,
-      "flags": [
-        "New wallet (2d old)",
-        "Large bet ($2,264)",
-        "Pre-event latency: 1519m"
-      ],
-      "amount": 2263.68,
-      "odds": 0.72,
-      "raw_price": 0.72,
-      "outcome": "Yes",
-      "potential_pnl": 880.32,
-      "pnl_multiplier": 0.38888888888888895,
-      "wallet_age_days": 2,
-      "total_activities": 100
-    },
-    "timestamp": "2026-02-14T22:43:36.875813",
-    "trade_hash": "0xe787fa03f93318c1c316da91ea406d6d5a7a8878b15667e953f52822a4d5317a",
-    "trade_timestamp": 1771108889,
-    "latency": {
-      "latency_seconds": 91111.0,
-      "latency_minutes": 1518.5166666666667,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-02-14T22:41:29+00:00",
-      "event_time": "2026-02-16T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "side": "BUY",
-      "price": 0.72,
-      "effective_price": 0.72,
-      "size": 3144.0,
-      "amount": 2263.68,
-      "potential_pnl": 880.32,
-      "pnl_multiplier": 0.38888888888888895,
-      "is_no": false
-    }
-  },
-  {
     "market": "US strikes Iran by February 20, 2026?",
     "market_slug": "us-strikes-iran-by-february-20-2026-151-468-624-297-614-778-872-127-349-448-499-337",
     "wallet": "0xc13cbd011bc02c0c9fd9a5d4dbd236ecc0e8a202",
@@ -34820,5 +34776,49 @@
     "market": "Will the Democratic Party control the House after the 2026 Midterm elections?",
     "market_slug": "which-party-will-win-the-house-in-2026",
     "amount": 1999.9999950000001
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x416fe7d87591d5ebbd07515ff94a9d5c21b72c862db4fe9202bdd17bb99fc602",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x042e97eb744462e9109e71a340a1e8e51745d6dd",
+      "side": "BUY",
+      "asset": "65892530750232246342273648992064742042382898919201083513241874070914353628268",
+      "conditionId": "0x2053d8515f1b8cbeea4ccdb56e60e89c2617e43a8660d95166b8e71d27865277",
+      "size": 4162,
+      "price": 0.896,
+      "timestamp": 1776416768,
+      "title": "Will Marco Rubio win the 2028 US Presidential Election?",
+      "slug": "will-marco-rubio-win-the-2028-us-presidential-election",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-marco-rubio-win-the-2028-us-presidential-election-snF_pVUw4Ymx.png",
+      "eventSlug": "presidential-election-winner-2028",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "ahidemante",
+      "pseudonym": "Well-Informed-Past",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x416fe7d87591d5ebbd07515ff94a9d5c21b72c862db4fe9202bdd17bb99fc602",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Marco Rubio win the 2028 US Presidential Election?",
+    "market_slug": "presidential-election-winner-2028",
+    "amount": 3729.152
   }
 ]
