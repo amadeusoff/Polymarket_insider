@@ -1,113 +1,5 @@
 [
   {
-    "market": "US strikes Iran by February 27, 2026?",
-    "market_slug": "us-strikes-iran-by-february-27-2026",
-    "wallet": "0x3b8e02169093576f525679d8863d6ceb57f6d77a",
-    "analysis": {
-      "score": 110,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($9,984)",
-        "Low activity (2 txns)",
-        "Pre-event latency: 8781m"
-      ],
-      "amount": 9983.999999,
-      "odds": 0.23474923313551133,
-      "raw_price": 0.23474923313551133,
-      "outcome": "Yes",
-      "potential_pnl": 32546.49037,
-      "pnl_multiplier": 3.25986482103965,
-      "wallet_age_days": 0,
-      "total_activities": 2
-    },
-    "timestamp": "2026-02-20T21:44:15.178802",
-    "trade_hash": "0x6a823fd529e39f5f177f79c30b4101075fef53207525c10b153abe0f06baad3a",
-    "trade_timestamp": 1771623522,
-    "latency": {
-      "latency_seconds": 526878.0,
-      "latency_minutes": 8781.3,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-02-20T21:38:42+00:00",
-      "event_time": "2026-02-27T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "side": "BUY",
-      "price": 0.23474923313551133,
-      "effective_price": 0.23474923313551133,
-      "size": 42530.490369,
-      "amount": 9983.999999,
-      "potential_pnl": 32546.49037,
-      "pnl_multiplier": 3.25986482103965,
-      "is_no": false
-    },
-    "irrationality": {
-      "irrationality_score": 5,
-      "flags": [],
-      "category": "geopolitics",
-      "category_info": {
-        "strength": "low",
-        "typical_overpricing": 0.02,
-        "min_edge": 0.08
-      },
-      "is_irrational": false
-    },
-    "mispricing": {
-      "rational_estimate": 0.07094984662710227,
-      "market_price": 0.23474923313551133,
-      "edge": 0.16379938650840906,
-      "edge_percent": 16.379938650840906,
-      "min_edge_required": 0.08,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "rare",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "rare",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Escalation of regional tensions",
-          "Support from key allies",
-          "Domestic political pressure in the US"
-        ],
-        "weakest_link": "Support from key allies"
-      },
-      "category": "geopolitics",
-      "narrative_drivers": [
-        "Rising Iranian influence in the region",
-        "US response to perceived threats"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "CONFLICT",
-      "signal_emoji": "\u26a0\ufe0f",
-      "signal_strength": 110,
-      "interpretation": "Insider buying YES despite statistical overpricing",
-      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
-      "insider_score": 110,
-      "insider_position": "YES",
-      "irrationality_score": 5,
-      "is_irrational": false,
-      "is_mispriced": true,
-      "edge": 0.16379938650840906,
-      "edge_percent": 16.379938650840906
-    },
-    "financial_analyst": {
-      "signal_quality": 45.6,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 16.38,
-      "signal_strength": 110.0,
-      "insider_score": 110.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-03-29T06:55:12.809834+00:00"
-  },
-  {
     "market": "US strikes Iran by February 26, 2026?",
     "market_slug": "us-strikes-iran-by-february-26-2026-368",
     "wallet": "0x1abe1368601330a310162064e04d3c2628cb6497",
@@ -34827,5 +34719,49 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x78da71c2a3429af7e412a51f6be9d2e0f1f9d58021b50db8bc341d73a55081d5",
+    "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
+    "trader": {
+      "rank": 19,
+      "address": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
+      "username": "432614799197",
+      "profit": 4526176.046413314,
+      "volume": 185485956.86208296,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x048215305cbcf7cc790735bf00119551d75c6b0a",
+      "side": "BUY",
+      "asset": "99985480231595209289205680639216607642038010757082967822434868866876778708832",
+      "conditionId": "0x16b01984e98d5293525171323e520918c94c0906e0527be523ce7d0036da85e0",
+      "size": 2310.38725,
+      "price": 0.8997413447486518,
+      "timestamp": 1776443788,
+      "title": "Will Claude Opus 4.7 by Anthropic debut at a score of at least 1500?",
+      "slug": "will-claude-opus-4pt7-by-anthropic-debut-at-a-score-of-at-least-1500-969",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/claude-4pt7-released-by-LSHFPBEUsncm.png",
+      "eventSlug": "next-anthropic-model-arena-debut",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "dumbfuqLIQUIDITYprovider",
+      "pseudonym": "Incomparable-Surprise",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-6756185-ddc8cdc3-e08b-4c87-a7e4-60bca7688ba5.webp",
+      "profileImageOptimized": "",
+      "transactionHash": "0x78da71c2a3429af7e412a51f6be9d2e0f1f9d58021b50db8bc341d73a55081d5",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Claude Opus 4.7 by Anthropic debut at a score of at least 1500?",
+    "market_slug": "next-anthropic-model-arena-debut",
+    "amount": 2078.7509312051398
   }
 ]
