@@ -1,209 +1,5 @@
 [
   {
-    "market": "Will the Colorado Avalanche win the 2026 NHL Stanley Cup?",
-    "market_slug": "will-the-colorado-avalanche-win-the-2026-nhl-stanley-cup",
-    "wallet": "0x55972446c7db764b26ceb96f3a9cd1888449ef37",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($3,802)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 3802.48,
-      "odds": 0.22,
-      "raw_price": 0.22,
-      "outcome": "Yes",
-      "potential_pnl": 13481.52,
-      "pnl_multiplier": 3.5454545454545454,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-02-23T04:28:41.568819",
-    "trade_hash": "0xe718bab06080853fb5b6e5a1411e90d27c89968e76dc8e4399fa5ef77487ae28",
-    "trade_timestamp": 1771820782,
-    "latency": null,
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "side": "BUY",
-      "price": 0.22,
-      "effective_price": 0.22,
-      "size": 17284.0,
-      "amount": 3802.48,
-      "potential_pnl": 13481.52,
-      "pnl_multiplier": 3.5454545454545454,
-      "is_no": false
-    },
-    "irrationality": {
-      "irrationality_score": 25,
-      "flags": [
-        "Significant mispricing edge (+11.6%)"
-      ],
-      "category": "politics_near",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.02,
-        "min_edge": 0.03
-      },
-      "is_irrational": false
-    },
-    "mispricing": {
-      "rational_estimate": 0.10400000000000001,
-      "market_price": 0.22,
-      "edge": 0.11599999999999999,
-      "edge_percent": 11.6,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "occasional",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "occasional",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "The team maintains a competitive roster with key players performing at a high level.",
-          "The coaching staff implements effective strategies and adapts to opponents.",
-          "The team avoids significant injuries to star players throughout the season."
-        ],
-        "weakest_link": "The team avoids significant injuries to star players throughout the season."
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent performance trends and playoff success of the team.",
-        "Strength of competition in the NHL during the 2025-2026 season."
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "CONFLICT",
-      "signal_emoji": "\u26a0\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider buying YES despite statistical overpricing",
-      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
-      "insider_score": 70,
-      "insider_position": "YES",
-      "irrationality_score": 25,
-      "is_irrational": false,
-      "is_mispriced": true,
-      "edge": 0.11599999999999999,
-      "edge_percent": 11.6
-    },
-    "financial_analyst": {
-      "signal_quality": 36.4,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 11.6,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-03-29T06:55:14.669894+00:00"
-  },
-  {
-    "market": "Will the Colorado Avalanche win the 2026 NHL Stanley Cup?",
-    "market_slug": "will-the-colorado-avalanche-win-the-2026-nhl-stanley-cup",
-    "wallet": "0x7290b236fbf5a33a2236f888f9b5166c495734b8",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,010)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 1009.58,
-      "odds": 0.22,
-      "raw_price": 0.22,
-      "outcome": "Yes",
-      "potential_pnl": 3579.42,
-      "pnl_multiplier": 3.5454545454545454,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-02-23T04:28:47.722957",
-    "trade_hash": "0x487dc5535bc70a95ee43f1495ce1cf979e767d22e428a2da69fe29924a91c2b4",
-    "trade_timestamp": 1771820780,
-    "latency": null,
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "side": "BUY",
-      "price": 0.22,
-      "effective_price": 0.22,
-      "size": 4589.0,
-      "amount": 1009.58,
-      "potential_pnl": 3579.42,
-      "pnl_multiplier": 3.5454545454545454,
-      "is_no": false
-    },
-    "irrationality": {
-      "irrationality_score": 25,
-      "flags": [
-        "Significant mispricing edge (+11.6%)"
-      ],
-      "category": "politics_near",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.02,
-        "min_edge": 0.03
-      },
-      "is_irrational": false
-    },
-    "mispricing": {
-      "rational_estimate": 0.10400000000000001,
-      "market_price": 0.22,
-      "edge": 0.11599999999999999,
-      "edge_percent": 11.6,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "occasional",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "occasional",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "The team maintains a strong roster with minimal injuries.",
-          "The coaching staff effectively develops player potential and strategies.",
-          "The team performs well in the regular season to secure a favorable playoff position."
-        ],
-        "weakest_link": "The team performs well in the regular season to secure a favorable playoff position."
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent performance trends of the team and key players.",
-        "Changes in team management or player acquisitions leading up to the season."
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "CONFLICT",
-      "signal_emoji": "\u26a0\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider buying YES despite statistical overpricing",
-      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
-      "insider_score": 70,
-      "insider_position": "YES",
-      "irrationality_score": 25,
-      "is_irrational": false,
-      "is_mispriced": true,
-      "edge": 0.11599999999999999,
-      "edge_percent": 11.6
-    },
-    "financial_analyst": {
-      "signal_quality": 36.4,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 11.6,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-03-29T06:55:14.669906+00:00"
-  },
-  {
     "market": "US strikes Iran by March 2, 2026?",
     "market_slug": "us-strikes-iran-by-march-2-2026",
     "wallet": "0x45fb8b9fcbdb768d33e9e7301dc626e38625aad0",
@@ -34627,5 +34423,153 @@
     "market_slug": "nba-hou-lal-2026-04-18",
     "amount": 2402.225,
     "resolution_last_check": "2026-04-18T07:12:14.211292+00:00"
+  },
+  {
+    "market": "Map Handicap: VIT (-1.5) vs FURIA (+1.5)",
+    "market_slug": "cs2-furia-vit-2026-04-18-map-handicap-home-1pt5",
+    "event_slug": "cs2-furia-vit-2026-04-18-map-handicap-home-1pt5",
+    "wallet": "0x3059404e586f3849b04663d1807c0232ac93fcff",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (1d old)",
+        "Large bet ($4,903)",
+        "Low activity (3 txns)"
+      ],
+      "amount": 4902.926803339844,
+      "odds": 0.563450549078851,
+      "raw_price": 0.563450549078851,
+      "outcome": "FURIA",
+      "potential_pnl": 3798.6829676601556,
+      "pnl_multiplier": 0.7747786414173093,
+      "wallet_age_days": 1,
+      "total_activities": 3
+    },
+    "timestamp": "2026-04-18T08:28:49.229055",
+    "trade_hash": "0x2a64b17759d13751de6777a15e04f0ce590b83feb1cba6589f2492bb8acc20b1",
+    "trade_timestamp": 1776500252,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "FURIA",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.563450549078851,
+      "effective_price": 0.563450549078851,
+      "size": 8701.609771,
+      "amount": 4902.926803339844,
+      "potential_pnl": 3798.6829676601556,
+      "pnl_multiplier": 0.7747786414173093,
+      "is_no": false,
+      "slug": "cs2-furia-vit-2026-04-18-map-handicap-home-1pt5",
+      "eventSlug": "cs2-furia-vit-2026-04-18"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+18.1%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.3828802196315404,
+      "market_price": 0.563450549078851,
+      "edge": 0.18057032944731055,
+      "edge_percent": 18.057032944731056,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 105,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 70,
+      "insider_position": "NO",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.18057032944731055,
+      "edge_percent": 18.057032944731056
+    },
+    "financial_analyst": {
+      "signal_quality": 81.0,
+      "stance": "HIGH_CONVICTION",
+      "edge_percent": 18.06,
+      "signal_strength": 105.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x120d0c51babefdc15e7a642eeeb4f186d4130269829f4d841aa86fc02712f4a9",
+    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
+    "trader": {
+      "rank": 5,
+      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
+      "username": "zxgngl",
+      "profit": 7807265.5892408835,
+      "volume": 40551790.62184699,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x8f04167129929f0065859ad7a7d10921e4407994",
+      "side": "SELL",
+      "asset": "77893140510362582253172593084218413010407941075415081594586195705930819989216",
+      "conditionId": "0x924a2942747dd75703321a7c8d809c68f6a514c3b0f2a2e64274e02310634669",
+      "size": 13152.89,
+      "price": 0.39,
+      "timestamp": 1776500822,
+      "title": "Strait of Hormuz traffic returns to normal by end of April?",
+      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-april-30",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ships-transit-the-strait-of-hormuz-on-any-day-in-march-ERARnetK0FJm.jpg",
+      "eventSlug": "strait-of-hormuz-traffic-returns-to-normal-by-april-30",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "Properdin",
+      "pseudonym": "Wary-Dose",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x120d0c51babefdc15e7a642eeeb4f186d4130269829f4d841aa86fc02712f4a9",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Strait of Hormuz traffic returns to normal by end of April?",
+    "market_slug": "strait-of-hormuz-traffic-returns-to-normal-by-april-30",
+    "amount": 5129.6271
   }
 ]
