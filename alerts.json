@@ -1,107 +1,5 @@
 [
   {
-    "market": "Will Axiom be accused of insider trading?",
-    "market_slug": "will-axiom-be-accused-of-insider-trading",
-    "wallet": "0xfd33347a3f0f6f1af318a3242a1a6ea3541ccbbb",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,200)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 1199.9999990000001,
-      "odds": 0.39542106381700026,
-      "raw_price": 0.39542106381700026,
-      "outcome": "Yes",
-      "potential_pnl": 1834.7396970000002,
-      "pnl_multiplier": 1.5289497487741248,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-02-26T06:12:24.429038",
-    "trade_hash": "0x43b8e09c1ed1401c5a7c82cb983dcc58dc56f3dcbb46e7b45597fd6b0daf66b4",
-    "trade_timestamp": 1772086234,
-    "latency": null,
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "side": "BUY",
-      "price": 0.39542106381700026,
-      "effective_price": 0.39542106381700026,
-      "size": 3034.739696,
-      "amount": 1199.9999990000001,
-      "potential_pnl": 1834.7396970000002,
-      "pnl_multiplier": 1.5289497487741248,
-      "is_no": false
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+29.6%)"
-      ],
-      "category": "other",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.09908421276340006,
-      "market_price": 0.39542106381700026,
-      "edge": 0.2963368510536002,
-      "edge_percent": 29.63368510536002,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "rare",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "rare",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Evidence of non-public information being used by Axiom executives",
-          "Regulatory scrutiny or investigation initiated by authorities",
-          "Whistleblower or insider testimony supporting the accusation"
-        ],
-        "weakest_link": "Regulatory scrutiny or investigation initiated by authorities"
-      },
-      "category": "other",
-      "narrative_drivers": [
-        "Increased media attention on corporate governance and insider trading",
-        "Recent high-profile cases influencing public perception and regulatory action"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "CONFLICT",
-      "signal_emoji": "\u26a0\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider buying YES despite statistical overpricing",
-      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
-      "insider_score": 70,
-      "insider_position": "YES",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.2963368510536002,
-      "edge_percent": 29.63368510536002
-    },
-    "financial_analyst": {
-      "signal_quality": 46.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 29.63,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-03-29T06:55:17.786414+00:00"
-  },
-  {
     "market": "Will Lens win the 2025\u201326 French Ligue 1?",
     "market_slug": "will-lens-win-the-202526-french-ligue-1",
     "wallet": "0x83b9801cb7b58fdedba42d96fd313a7c2ac2e9bf",
@@ -34433,5 +34331,49 @@
     "market": "1. FC Union Berlin vs. VfL Wolfsburg: O/U 3.5",
     "market_slug": "bun-uni-wol-2026-04-18-more-markets",
     "amount": 1526.2733282551198
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xb8fc91c1a5b5f71db3e7b5a329dd35418689e9c7748105f075bf71e6e6550f32",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x05ab749a8554fb7c852238c271d384bae6798145",
+      "side": "BUY",
+      "asset": "91851388830923641218615793149765322805282194001900444983744404881757241655792",
+      "conditionId": "0x5c2e6aef8af5931e9bfa3750364626d754531d2fada2885d45c356b175962a25",
+      "size": 2000,
+      "price": 0.833,
+      "timestamp": 1776531144,
+      "title": "Iran x Israel/US conflict ends by April 15?",
+      "slug": "iran-x-israelus-conflict-ends-by-april-15-618-586-982",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/iran-x-israel-conflict-ends-by-next-friday-3FmhGylfITaT.jpg",
+      "eventSlug": "iran-x-israelus-conflict-ends-by",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "SeniorLaghetto",
+      "pseudonym": "Rusty-Fava",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xb8fc91c1a5b5f71db3e7b5a329dd35418689e9c7748105f075bf71e6e6550f32",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Iran x Israel/US conflict ends by April 15?",
+    "market_slug": "iran-x-israelus-conflict-ends-by",
+    "amount": 1666.0
   }
 ]
