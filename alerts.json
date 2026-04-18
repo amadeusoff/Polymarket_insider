@@ -1,117 +1,5 @@
 [
   {
-    "market": "US strikes Iran by March 2, 2026?",
-    "market_slug": "us-strikes-iran-by-march-2-2026",
-    "wallet": "0x45fb8b9fcbdb768d33e9e7301dc626e38625aad0",
-    "analysis": {
-      "score": 80,
-      "flags": [
-        "New wallet (3d old)",
-        "Large bet ($1,012)",
-        "Pre-event latency: 8910m"
-      ],
-      "amount": 1011.9753000000001,
-      "odds": 0.2711282371411884,
-      "raw_price": 0.2711282371411884,
-      "outcome": "Yes",
-      "potential_pnl": 2720.4847,
-      "pnl_multiplier": 2.6882916015835563,
-      "wallet_age_days": 3,
-      "total_activities": 12
-    },
-    "timestamp": "2026-02-23T19:31:27.296473",
-    "trade_hash": "0x64450d3b4721b9009d7f21ec60979773fefc32abe1eabd4126dccc1ab6839732",
-    "trade_timestamp": 1771874974,
-    "latency": {
-      "latency_seconds": 534626.0,
-      "latency_minutes": 8910.433333333332,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-02-23T19:29:34+00:00",
-      "event_time": "2026-03-02T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "side": "SELL",
-      "price": 0.2711282371411884,
-      "effective_price": 0.2711282371411884,
-      "size": 3732.46,
-      "amount": 1011.9753000000001,
-      "potential_pnl": 2720.4847,
-      "pnl_multiplier": 2.6882916015835563,
-      "is_no": false
-    },
-    "irrationality": {
-      "irrationality_score": 75,
-      "flags": [
-        "Longshot (27%) in high bias category (geopolitics)",
-        "Category structurally prone to longshot bias",
-        "Crisis keyword detected ('strike')",
-        "Large mispricing edge (+19.3%)"
-      ],
-      "category": "geopolitics",
-      "category_info": {
-        "strength": "high",
-        "typical_overpricing": 0.05,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.07822564742823768,
-      "market_price": 0.2711282371411884,
-      "edge": 0.1929025897129507,
-      "edge_percent": 19.29025897129507,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "rare",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "rare",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Escalation of tensions between the US and Iran",
-          "Support from key allies for military action",
-          "Domestic political climate favoring military intervention"
-        ],
-        "weakest_link": "Domestic political climate favoring military intervention"
-      },
-      "category": "geopolitics",
-      "narrative_drivers": [
-        "Rising regional conflicts involving Iran",
-        "Influence of military-industrial complex on US foreign policy"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "CONFLICT",
-      "signal_emoji": "\u26a0\ufe0f",
-      "signal_strength": 80,
-      "interpretation": "Insider buying YES despite statistical overpricing",
-      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
-      "insider_score": 80,
-      "insider_position": "YES",
-      "irrationality_score": 75,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.1929025897129507,
-      "edge_percent": 19.29025897129507
-    },
-    "financial_analyst": {
-      "signal_quality": 56.0,
-      "stance": "SELECTIVE",
-      "edge_percent": 19.29,
-      "signal_strength": 80.0,
-      "insider_score": 80.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-03-29T06:55:15.318195+00:00"
-  },
-  {
     "market": "Will the 2026 State of the Union address last 100 minutes or longer?",
     "market_slug": "will-the-2026-state-of-the-union-address-last-100-minutes-or-longer",
     "wallet": "0x2ede67fcc8d39a8b8ccd9941bd63cdd730ae3a1d",
@@ -34571,5 +34459,49 @@
     "market": "Strait of Hormuz traffic returns to normal by end of April?",
     "market_slug": "strait-of-hormuz-traffic-returns-to-normal-by-april-30",
     "amount": 5129.6271
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xf01060f5147ee04d803d970a52e7290c98e458caf9b216711325bd1a5cbfa1c0",
+    "wallet": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
+    "trader": {
+      "rank": 15,
+      "address": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
+      "username": "GamblingIsAllYouNeed",
+      "profit": 4817034.966032629,
+      "volume": 356299254.334755,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x01e6e3c5cfe50943e7721398054cb1e22032e7e0",
+      "side": "SELL",
+      "asset": "42258521043242178810128018923400394810320802897356131657066499754635776048873",
+      "conditionId": "0x305230429a0bc9717e7d7d519333ac43ebc6a9047a0a98839f3abebb76e0301c",
+      "size": 4612.83,
+      "price": 0.58,
+      "timestamp": 1776508328,
+      "title": "LoL: Invictus Gaming vs Bilibili Gaming - Game 2 Winner",
+      "slug": "lol-ig1-blg-2026-04-18-game2",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
+      "eventSlug": "lol-ig1-blg-2026-04-18",
+      "outcome": "Bilibili Gaming",
+      "outcomeIndex": 1,
+      "name": "BirdMan.",
+      "pseudonym": "Well-Made-Sovereignty",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-6981540-65626b91-dc80-4b1c-99ee-de73d651cf10.webp",
+      "profileImageOptimized": "",
+      "transactionHash": "0xf01060f5147ee04d803d970a52e7290c98e458caf9b216711325bd1a5cbfa1c0",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "LoL: Invictus Gaming vs Bilibili Gaming - Game 2 Winner",
+    "market_slug": "lol-ig1-blg-2026-04-18",
+    "amount": 2675.4413999999997
   }
 ]
