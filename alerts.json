@@ -1,218 +1,5 @@
 [
   {
-    "market": "Will Lens win the 2025\u201326 French Ligue 1?",
-    "market_slug": "will-lens-win-the-202526-french-ligue-1",
-    "wallet": "0x83b9801cb7b58fdedba42d96fd313a7c2ac2e9bf",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,087)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 1087.2549999999999,
-      "odds": 0.12198530236732862,
-      "raw_price": 0.12198530236732862,
-      "outcome": "Yes",
-      "potential_pnl": 7825.744999999999,
-      "pnl_multiplier": 7.197708909133552,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-02-26T11:11:09.923762",
-    "trade_hash": "0x5c7dd0dd44f72d39af3e0f7bc4706b89015abfd9d051d88c9cdd67cc1f6d732a",
-    "trade_timestamp": 1772104126,
-    "latency": null,
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "side": "BUY",
-      "price": 0.12198530236732862,
-      "effective_price": 0.12198530236732862,
-      "size": 8913.0,
-      "amount": 1087.2549999999999,
-      "potential_pnl": 7825.744999999999,
-      "pnl_multiplier": 7.197708909133552,
-      "is_no": false
-    },
-    "irrationality": {
-      "irrationality_score": 25,
-      "flags": [
-        "Longshot (12%) in medium bias category (politics_near)"
-      ],
-      "category": "politics_near",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.02,
-        "min_edge": 0.03
-      },
-      "is_irrational": false
-    },
-    "mispricing": {
-      "rational_estimate": 0.08439706047346572,
-      "market_price": 0.12198530236732862,
-      "edge": 0.037588241893862895,
-      "edge_percent": 3.7588241893862895,
-      "min_edge_required": 0.05,
-      "is_mispriced": false,
-      "edge_quality": "WEAK",
-      "base_rate_class": "occasional",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "occasional",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Lens maintains a strong squad with minimal injuries",
-          "Key rivals underperform throughout the season",
-          "Effective management and tactical execution by coaching staff"
-        ],
-        "weakest_link": "Key rivals underperform throughout the season"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Lens' recent performance trends in Ligue 1",
-        "Potential transfers and squad improvements"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "YES",
-      "irrationality_score": 25,
-      "is_irrational": false,
-      "is_mispriced": false,
-      "edge": 0.037588241893862895,
-      "edge_percent": 3.7588241893862895
-    },
-    "financial_analyst": {
-      "signal_quality": 29.6,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 3.76,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-03-29T06:55:18.445657+00:00"
-  },
-  {
-    "market": "US strikes Iran by March 1, 2026?",
-    "market_slug": "us-strikes-iran-by-march-1-2026-492",
-    "wallet": "0x9b72ac67ce1f7dbecf68ef3d8e1f17847bcbbb38",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "Against trend (8.0% effective odds)",
-        "Large bet ($1,014)",
-        "Pre-event latency: 2549m"
-      ],
-      "amount": 1014.1730430000006,
-      "odds": 0.08000000000315532,
-      "raw_price": 0.9199999999968447,
-      "outcome": "No",
-      "potential_pnl": 11662.989994,
-      "pnl_multiplier": 11.499999999506981,
-      "wallet_age_days": 7,
-      "total_activities": 100
-    },
-    "timestamp": "2026-02-27T05:33:11.511891",
-    "trade_hash": "0x1c2ed03d83b1e17fd8ef7181691b955b9ede2fdbab58cd03107bfd968bf21a86",
-    "trade_timestamp": 1772170234,
-    "latency": {
-      "latency_seconds": 152966.0,
-      "latency_minutes": 2549.4333333333334,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-02-27T05:30:34+00:00",
-      "event_time": "2026-03-01T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "BUY",
-      "price": 0.9199999999968447,
-      "effective_price": 0.08000000000315532,
-      "size": 12677.163037,
-      "amount": 1014.1730430000006,
-      "potential_pnl": 11662.989994,
-      "pnl_multiplier": 11.499999999506981,
-      "is_no": true
-    },
-    "irrationality": {
-      "irrationality_score": 50,
-      "flags": [
-        "Category structurally prone to longshot bias",
-        "Crisis keyword detected ('strike')",
-        "Large mispricing edge (+71.2%)"
-      ],
-      "category": "geopolitics",
-      "category_info": {
-        "strength": "high",
-        "typical_overpricing": 0.05,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.20799999999936894,
-      "market_price": 0.9199999999968447,
-      "edge": 0.7119999999974758,
-      "edge_percent": 71.19999999974758,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "rare",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "rare",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Escalation of tensions between the US and Iran",
-          "Political support within the US government for military action",
-          "Public sentiment favoring intervention"
-        ],
-        "weakest_link": "Public sentiment favoring intervention"
-      },
-      "category": "geopolitics",
-      "narrative_drivers": [
-        "Rising geopolitical tensions in the Middle East",
-        "Influence of domestic politics on foreign policy decisions"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "ALPHA",
-      "signal_emoji": "\ud83d\udd25",
-      "signal_strength": 135,
-      "interpretation": "Smart money (NO) confirms YES is overpriced",
-      "action_suggestion": "High conviction: insider + statistics aligned",
-      "insider_score": 85,
-      "insider_position": "NO",
-      "irrationality_score": 50,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.7119999999974758,
-      "edge_percent": 71.19999999974758
-    },
-    "financial_analyst": {
-      "signal_quality": 87.0,
-      "stance": "HIGH_CONVICTION",
-      "edge_percent": 71.2,
-      "signal_strength": 135.0,
-      "insider_score": 85.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-03-29T06:55:19.103763+00:00"
-  },
-  {
     "market": "Will the Colorado Avalanche win the 2026 NHL Stanley Cup?",
     "market_slug": "will-the-colorado-avalanche-win-the-2026-nhl-stanley-cup",
     "wallet": "0x0493b9966845de32820c19a3583b267efb454662",
@@ -34375,5 +34162,93 @@
     "market": "Iran x Israel/US conflict ends by April 15?",
     "market_slug": "iran-x-israelus-conflict-ends-by",
     "amount": 1666.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x95597034db2556286bb22a772e2c2eee14df4b892a37c9d293244986ec10a6c5",
+    "wallet": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+    "trader": {
+      "rank": 8,
+      "address": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+      "username": "PrincessCaro",
+      "profit": 6083643.099591745,
+      "volume": 23520809.952866998,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x5d1d9cfd66ee3068c2a8a57dedf1e1b006dcafd2",
+      "side": "BUY",
+      "asset": "101707776312993433788247578166605474286576082916033807919279395386959077302104",
+      "conditionId": "0xd0fd76b4a90073854a9c27362d7bd1c54fe1acfd28d85b93e67de6cd5c19e69f",
+      "size": 2543.448716,
+      "price": 0.7799999998112799,
+      "timestamp": 1776534762,
+      "title": "Raptors vs. Cavaliers",
+      "slug": "nba-tor-cle-2026-04-18",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-tor-cle-2026-04-18",
+      "outcome": "Cavaliers",
+      "outcomeIndex": 1,
+      "name": "",
+      "pseudonym": "",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x95597034db2556286bb22a772e2c2eee14df4b892a37c9d293244986ec10a6c5",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Raptors vs. Cavaliers",
+    "market_slug": "nba-tor-cle-2026-04-18",
+    "amount": 1983.8899979999999
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x03299204fd270ca18ef780c748fb223e90d116caa1c3bc46d9242f56789a3f46",
+    "wallet": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
+    "trader": {
+      "rank": 17,
+      "address": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
+      "username": "GamblingIsAllYouNeed",
+      "profit": 4780674.9736147905,
+      "volume": 359414182.836651,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x1d7ab6473e55405bb5bc62cb3377a6d37989b22f",
+      "side": "BUY",
+      "asset": "63607136635141849577323095401348239344725937578509063590083452995393076912711",
+      "conditionId": "0x84355255438feacd3e194197f86dafdca8d6e92a11904577166fa026b8febb87",
+      "size": 3940,
+      "price": 0.5,
+      "timestamp": 1776535060,
+      "title": "New York Mets vs. Chicago Cubs: O/U 8.5",
+      "slug": "mlb-nym-chc-2026-04-18-total-8pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
+      "eventSlug": "mlb-nym-chc-2026-04-18",
+      "outcome": "Over",
+      "outcomeIndex": 0,
+      "name": "Garyg9870",
+      "pseudonym": "Accurate-Pitcher",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x03299204fd270ca18ef780c748fb223e90d116caa1c3bc46d9242f56789a3f46",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "New York Mets vs. Chicago Cubs: O/U 8.5",
+    "market_slug": "mlb-nym-chc-2026-04-18",
+    "amount": 1970.0
   }
 ]
