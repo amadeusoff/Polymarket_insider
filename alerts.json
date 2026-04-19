@@ -1,107 +1,5 @@
 [
   {
-    "market": "T20 World Cup: England vs India",
-    "market_slug": "crint-gbr-ind-2026",
-    "wallet": "0xb6b78496d98e50fc1fe607e8f3e4610c3f5a9e6c",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,987)",
-        "Low activity (3 txns)"
-      ],
-      "amount": 1986.999999,
-      "odds": 0.3399999998904882,
-      "raw_price": 0.3399999998904882,
-      "outcome": "England",
-      "potential_pnl": 3857.117647,
-      "pnl_multiplier": 1.9411764715355695,
-      "wallet_age_days": 0,
-      "total_activities": 3
-    },
-    "timestamp": "2026-03-05T12:02:30.245341",
-    "trade_hash": "0x02bf2db8d5300a300bb5b62a8bb36476d265f9c26405be56b47292e7b99fb297",
-    "trade_timestamp": 1772711903,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "England",
-      "side": "BUY",
-      "price": 0.3399999998904882,
-      "effective_price": 0.3399999998904882,
-      "size": 5844.117646,
-      "amount": 1986.999999,
-      "potential_pnl": 3857.117647,
-      "pnl_multiplier": 1.9411764715355695,
-      "is_no": false
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+21.2%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.12799999997809763,
-      "market_price": 0.3399999998904882,
-      "edge": 0.21199999991239055,
-      "edge_percent": 21.199999991239054,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "occasional",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "occasional",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "England's key players perform exceptionally well",
-          "India's performance declines significantly",
-          "Weather conditions favor England"
-        ],
-        "weakest_link": "India's performance declines significantly"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "England's historical performance in knockout stages",
-        "India's recent form and injuries"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "ENGLAND",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.21199999991239055,
-      "edge_percent": 21.199999991239054
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 21.2,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "market": "Will the price of Bitcoin be above $66,000 on March 10?",
     "market_slug": "bitcoin-above-66k-on-march-10",
     "wallet": "0xde17f7144fbd0eddb2679132c10ff5e74b120988",
@@ -33821,5 +33719,49 @@
     "market": "Counter-Strike: Spirit vs Vitality - Map 2 Winner",
     "market_slug": "cs2-ts7-vit-2026-04-19",
     "amount": 1559.6215351569285
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x09408ee8a36a66c1469bcbc630aa00f5d1f6b2fb81b78046b5b127fd3f470122",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+      "side": "BUY",
+      "asset": "4791567048491574173993165446666256209660521602487304170590950292402594200873",
+      "conditionId": "0x14b1e3fed1ad6a77c7bf2f2582b048d1a558ab1c192a46e5f4d6584a63e4f547",
+      "size": 3591.66961,
+      "price": 0.49986562014929875,
+      "timestamp": 1776630418,
+      "title": "Los Angeles Dodgers vs. Colorado Rockies: O/U 9.5",
+      "slug": "mlb-lad-col-2026-04-19-total-9pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
+      "eventSlug": "mlb-lad-col-2026-04-19",
+      "outcome": "Under",
+      "outcomeIndex": 1,
+      "name": "ferrariChampions2026",
+      "pseudonym": "Glaring-Salt",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x09408ee8a36a66c1469bcbc630aa00f5d1f6b2fb81b78046b5b127fd3f470122",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Los Angeles Dodgers vs. Colorado Rockies: O/U 9.5",
+    "market_slug": "mlb-lad-col-2026-04-19",
+    "amount": 1795.3521569740399
   }
 ]
