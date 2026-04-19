@@ -33391,7 +33391,8 @@
     },
     "market": "Strait of Hormuz traffic returns to normal by end of April?",
     "market_slug": "strait-of-hormuz-traffic-returns-to-normal-by-april-30",
-    "amount": 5129.6271
+    "amount": 5129.6271,
+    "resolution_last_check": "2026-04-19T07:24:08.465337+00:00"
   },
   {
     "type": "TOP_TRADER",
@@ -33540,7 +33541,8 @@
       "signal_strength": 90.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
+    },
+    "resolution_last_check": "2026-04-19T07:24:10.117330+00:00"
   },
   {
     "market": "UFC Fight Night: Jafel Filho vs. Lucas Rocha (Flyweight, Prelims)",
