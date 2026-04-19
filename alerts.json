@@ -2,110 +2,6 @@
   {
     "market": "Will Mojtaba Khamenei be the next Supreme Leader of Iran?",
     "market_slug": "will-mojtaba-khamenei-be-the-next-supreme-leader-of-iran-573",
-    "wallet": "0x7814fea2092726c2d892a65e4fda3bf502ff8d4e",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,340)",
-        "Low activity (3 txns)"
-      ],
-      "amount": 1340.1199980000001,
-      "odds": 0.6911327627215427,
-      "raw_price": 0.6911327627215427,
-      "outcome": "Yes",
-      "potential_pnl": 598.899638,
-      "pnl_multiplier": 0.4469000081289735,
-      "wallet_age_days": 0,
-      "total_activities": 3
-    },
-    "timestamp": "2026-03-03T22:02:44.155390",
-    "trade_hash": "0xd91b2b04f7247d4e0b0f59136b3b38dc485b4e16d5be24c0ca0438ce6bf83f93",
-    "trade_timestamp": 1772575237,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "side": "BUY",
-      "price": 0.6911327627215427,
-      "effective_price": 0.6911327627215427,
-      "size": 1939.019636,
-      "amount": 1340.1199980000001,
-      "potential_pnl": 598.899638,
-      "pnl_multiplier": 0.4469000081289735,
-      "is_no": false
-    },
-    "irrationality": {
-      "irrationality_score": 40,
-      "flags": [
-        "Category structurally prone to longshot bias",
-        "Large mispricing edge (+49.3%)"
-      ],
-      "category": "geopolitics",
-      "category_info": {
-        "strength": "high",
-        "typical_overpricing": 0.05,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.19822655254430854,
-      "market_price": 0.6911327627215427,
-      "edge": 0.4929062101772341,
-      "edge_percent": 49.29062101772341,
-      "min_edge_required": 0.03,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "occasional",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "occasional",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Mojtaba Khamenei gains significant political support within the ruling elite.",
-          "The current Supreme Leader's health deteriorates or he passes away.",
-          "There is no strong alternative candidate emerging from the political landscape."
-        ],
-        "weakest_link": "The emergence of a strong alternative candidate who could unify opposition against Mojtaba."
-      },
-      "category": "politics_near",
-      "narrative_drivers": [
-        "Mojtaba Khamenei's familial connection to the current Supreme Leader.",
-        "The political landscape in Iran and potential shifts in power dynamics."
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "CONFLICT",
-      "signal_emoji": "\u26a0\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider buying YES despite statistical overpricing",
-      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
-      "insider_score": 70,
-      "insider_position": "YES",
-      "irrationality_score": 40,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.4929062101772341,
-      "edge_percent": 49.29062101772341
-    },
-    "financial_analyst": {
-      "signal_quality": 47.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 49.29,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-03-29T06:55:22.308141+00:00"
-  },
-  {
-    "market": "Will Mojtaba Khamenei be the next Supreme Leader of Iran?",
-    "market_slug": "will-mojtaba-khamenei-be-the-next-supreme-leader-of-iran-573",
     "wallet": "0x920f2c01f3e904ca268bd018257d91cd3ae0490d",
     "analysis": {
       "score": 70,
@@ -34000,5 +33896,49 @@
     "market": "Timberwolves vs. Nuggets",
     "market_slug": "nba-min-den-2026-04-18",
     "amount": 1605.1084658000002
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xdbc5918b34ade3ff37dd3eba1d2d0b83e98cf8db8350f5b7d216db09c169472c",
+    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
+    "trader": {
+      "rank": 5,
+      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
+      "username": "zxgngl",
+      "profit": 7807265.5892408835,
+      "volume": 40551790.62184699,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x3f975d4186c87b3b4a39997cc37e71cc70ca4059",
+      "side": "BUY",
+      "asset": "51561501851177237085104015162795355178563009242924296214051729651645864006212",
+      "conditionId": "0x445eba7653ea7e18d4a43e6b6ba0fdc578e9e7bac1a309c6cec82bbd4686984f",
+      "size": 5247.084,
+      "price": 0.42,
+      "timestamp": 1776607304,
+      "title": "Dota 2: Team Spirit vs Team Falcons - Game 2 Winner",
+      "slug": "dota2-ts8-flc-2026-04-19-game2",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/dota2-7ffacddb21.jpg",
+      "eventSlug": "dota2-ts8-flc-2026-04-19",
+      "outcome": "Team Spirit",
+      "outcomeIndex": 0,
+      "name": "adfhgasdfhadfhadseerrr",
+      "pseudonym": "Wide-Sprout",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xdbc5918b34ade3ff37dd3eba1d2d0b83e98cf8db8350f5b7d216db09c169472c",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Dota 2: Team Spirit vs Team Falcons - Game 2 Winner",
+    "market_slug": "dota2-ts8-flc-2026-04-19",
+    "amount": 2203.77528
   }
 ]
