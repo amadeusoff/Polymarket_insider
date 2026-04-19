@@ -1,115 +1,5 @@
 [
   {
-    "market": "Will the price of Bitcoin be above $66,000 on March 10?",
-    "market_slug": "bitcoin-above-66k-on-march-10",
-    "wallet": "0xde17f7144fbd0eddb2679132c10ff5e74b120988",
-    "analysis": {
-      "score": 80,
-      "flags": [
-        "New wallet (4d old)",
-        "Large bet ($1,500)",
-        "Pre-event latency: 6304m"
-      ],
-      "amount": 1500.3,
-      "odds": 0.9,
-      "raw_price": 0.9,
-      "outcome": "Yes",
-      "potential_pnl": 166.69999999999993,
-      "pnl_multiplier": 0.11111111111111108,
-      "wallet_age_days": 4,
-      "total_activities": 100
-    },
-    "timestamp": "2026-03-05T15:00:49.525014",
-    "trade_hash": "0xae1c0b51cd6199b95c09edbd653bbc9e2bdb65510e660c3b635fc61d6503b318",
-    "trade_timestamp": 1772722563,
-    "latency": {
-      "latency_seconds": 378237.0,
-      "latency_minutes": 6303.95,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-03-05T14:56:03+00:00",
-      "event_time": "2026-03-10T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "side": "BUY",
-      "price": 0.9,
-      "effective_price": 0.9,
-      "size": 1667.0,
-      "amount": 1500.3,
-      "potential_pnl": 166.69999999999993,
-      "pnl_multiplier": 0.11111111111111108,
-      "is_no": false
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+66.0%)"
-      ],
-      "category": "crypto",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.24000000000000002,
-      "market_price": 0.9,
-      "edge": 0.66,
-      "edge_percent": 66.0,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "occasional",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "occasional",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Increased institutional adoption of Bitcoin",
-          "Positive regulatory developments in major markets",
-          "Significant macroeconomic factors favoring cryptocurrency investments"
-        ],
-        "weakest_link": "Positive regulatory developments in major markets"
-      },
-      "category": "crypto",
-      "narrative_drivers": [
-        "Market sentiment driven by technological advancements in blockchain",
-        "Speculation around Bitcoin as a hedge against inflation"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "CONFLICT",
-      "signal_emoji": "\u26a0\ufe0f",
-      "signal_strength": 80,
-      "interpretation": "Insider buying YES despite statistical overpricing",
-      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
-      "insider_score": 80,
-      "insider_position": "YES",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.66,
-      "edge_percent": 66.0
-    },
-    "financial_analyst": {
-      "signal_quality": 48.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 66.0,
-      "signal_strength": 80.0,
-      "insider_score": 80.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-03-29T06:55:24.800388+00:00"
-  },
-  {
     "market": "Will the price of Solana be above $80 on March 10?",
     "market_slug": "solana-above-80-on-march-10",
     "wallet": "0xa82afc3751a2e58ec985989eb7d51b3f0f179055",
@@ -33763,5 +33653,49 @@
     "market": "Los Angeles Dodgers vs. Colorado Rockies: O/U 9.5",
     "market_slug": "mlb-lad-col-2026-04-19",
     "amount": 1795.3521569740399
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x27db3d7adbd2e6dde083e8d5ba95e3f404d5a9b368eafa5bd01af921ac464b10",
+    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
+    "trader": {
+      "rank": 16,
+      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
+      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
+      "profit": 4552132.231316398,
+      "volume": 60070586.07364798,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x38f0b76ed812c24166a4f6293f991ac4b9972768",
+      "side": "BUY",
+      "asset": "68236451017667063834906245517272897636778551005959093400368716257354261431058",
+      "conditionId": "0xcf2962a09b376c1a433ff9ae0737953bb78c3b1d255a4dfd68693feeabd2d66f",
+      "size": 2578.39216,
+      "price": 0.5996045199904971,
+      "timestamp": 1776638526,
+      "title": "Fortaleza EC vs. Crici\u00fama EC: O/U 2.5",
+      "slug": "bra2-fec-cri-2026-04-19-total-2pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "bra2-fec-cri-2026-04-19-more-markets",
+      "outcome": "Under",
+      "outcomeIndex": 1,
+      "name": "initial77a",
+      "pseudonym": "Motionless-Peer",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x27db3d7adbd2e6dde083e8d5ba95e3f404d5a9b368eafa5bd01af921ac464b10",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Fortaleza EC vs. Crici\u00fama EC: O/U 2.5",
+    "market_slug": "bra2-fec-cri-2026-04-19-more-markets",
+    "amount": 1546.015593444061
   }
 ]
