@@ -1,107 +1,5 @@
 [
   {
-    "market": "Pelicans vs. Suns",
-    "market_slug": "nba-nop-phx-2026",
-    "wallet": "0x00cd0f647f35c2ad9f50459373a498c14986997d",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($2,135)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 2135.2000000000003,
-      "odds": 0.68,
-      "raw_price": 0.68,
-      "outcome": "Suns",
-      "potential_pnl": 1004.7999999999998,
-      "pnl_multiplier": 0.47058823529411753,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-03-06T08:34:31.531610",
-    "trade_hash": "0xe4dc239704515e9e7b1fba7a62c77373fd103cbbc11177286faca1d3d86ee95b",
-    "trade_timestamp": 1772785921,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Suns",
-      "side": "BUY",
-      "price": 0.68,
-      "effective_price": 0.68,
-      "size": 3140.0,
-      "amount": 2135.2000000000003,
-      "potential_pnl": 1004.7999999999998,
-      "pnl_multiplier": 0.47058823529411753,
-      "is_no": false
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+40.4%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.276,
-      "market_price": 0.68,
-      "edge": 0.404,
-      "edge_percent": 40.400000000000006,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Pelicans maintain key player health",
-          "Suns struggle with injuries",
-          "Recent performance trends favor Pelicans"
-        ],
-        "weakest_link": "Suns struggle with injuries"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Pelicans' recent winning streak",
-        "Suns' inconsistent performance"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "SUNS",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.404,
-      "edge_percent": 40.400000000000006
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 40.4,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "market": "Will the next Prime Minister of Hungary be P\u00e9ter Magyar?",
     "market_slug": "will-the-next-prime-minister-of-hungary-be-pter-magyar",
     "wallet": "0x366fb20534129f9a8c9812a62437089cd892c0ef",
@@ -33632,5 +33530,49 @@
     "market_slug": "dota2-bb4-flc-2026-04-20",
     "amount": 4516.7426099,
     "resolution_last_check": "2026-04-20T08:12:41.791540+00:00"
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x8ba1ce1b8df406ec8de6810ec90a29e80be4d534134a784bffa71dd58533d919",
+    "wallet": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
+    "trader": {
+      "rank": 20,
+      "address": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
+      "username": "Jenzigo",
+      "profit": 4049827.0941029997,
+      "volume": 9457725.034338009,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xaa98a97f71cbe19348798775b23696c9baa290bb",
+      "side": "SELL",
+      "asset": "1763499447893722841151717880045088448114980237819225955430888477412022919997",
+      "conditionId": "0x2e1dbfe52d176f3febc6cd7337331ff20d1136acabd7ae052949cad898899fa4",
+      "size": 3640.53,
+      "price": 0.58,
+      "timestamp": 1776708762,
+      "title": "Dota 2: MOUZ vs Tundra Esports (BO3) - PGL Wallachia Group Stage",
+      "slug": "dota2-mouz-tundra-2026-04-20",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/dota2-7ffacddb21.jpg",
+      "eventSlug": "dota2-mouz-tundra-2026-04-20",
+      "outcome": "MOUZ",
+      "outcomeIndex": 0,
+      "name": "Hexagon555",
+      "pseudonym": "Glorious-Recreation",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x8ba1ce1b8df406ec8de6810ec90a29e80be4d534134a784bffa71dd58533d919",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Dota 2: MOUZ vs Tundra Esports (BO3) - PGL Wallachia Group Stage",
+    "market_slug": "dota2-mouz-tundra-2026-04-20",
+    "amount": 2111.5074
   }
 ]
