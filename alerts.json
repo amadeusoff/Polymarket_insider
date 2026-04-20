@@ -1,115 +1,5 @@
 [
   {
-    "market": "Will the price of Solana be above $80 on March 10?",
-    "market_slug": "solana-above-80-on-march-10",
-    "wallet": "0xa82afc3751a2e58ec985989eb7d51b3f0f179055",
-    "analysis": {
-      "score": 80,
-      "flags": [
-        "New wallet (4d old)",
-        "Large bet ($1,865)",
-        "Pre-event latency: 5313m"
-      ],
-      "amount": 1865.34,
-      "odds": 0.86,
-      "raw_price": 0.86,
-      "outcome": "Yes",
-      "potential_pnl": 303.66,
-      "pnl_multiplier": 0.16279069767441862,
-      "wallet_age_days": 4,
-      "total_activities": 100
-    },
-    "timestamp": "2026-03-06T07:31:12.619614",
-    "trade_hash": "0x918964cda42c7d13673e0309f92663a869ff4aee52f6d31a5c5e528f5632cefe",
-    "trade_timestamp": 1772782001,
-    "latency": {
-      "latency_seconds": 318799.0,
-      "latency_minutes": 5313.316666666667,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-03-06T07:26:41+00:00",
-      "event_time": "2026-03-10T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "side": "BUY",
-      "price": 0.86,
-      "effective_price": 0.86,
-      "size": 2169.0,
-      "amount": 1865.34,
-      "potential_pnl": 303.66,
-      "pnl_multiplier": 0.16279069767441862,
-      "is_no": false
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+54.8%)"
-      ],
-      "category": "crypto",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.312,
-      "market_price": 0.86,
-      "edge": 0.548,
-      "edge_percent": 54.800000000000004,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Increased adoption of Solana for decentralized applications",
-          "Positive market sentiment towards cryptocurrencies",
-          "Regulatory clarity and favorable policies for crypto assets"
-        ],
-        "weakest_link": "Regulatory clarity and favorable policies for crypto assets"
-      },
-      "category": "crypto",
-      "narrative_drivers": [
-        "Technological advancements in Solana's ecosystem",
-        "Market trends indicating a bullish sentiment for altcoins"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "CONFLICT",
-      "signal_emoji": "\u26a0\ufe0f",
-      "signal_strength": 80,
-      "interpretation": "Insider buying YES despite statistical overpricing",
-      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
-      "insider_score": 80,
-      "insider_position": "YES",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.548,
-      "edge_percent": 54.800000000000004
-    },
-    "financial_analyst": {
-      "signal_quality": 48.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 54.8,
-      "signal_strength": 80.0,
-      "insider_score": 80.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-03-29T06:55:25.492846+00:00"
-  },
-  {
     "market": "Pelicans vs. Suns",
     "market_slug": "nba-nop-phx-2026",
     "wallet": "0x00cd0f647f35c2ad9f50459373a498c14986997d",
@@ -33697,5 +33587,49 @@
     "market": "Fortaleza EC vs. Crici\u00fama EC: O/U 2.5",
     "market_slug": "bra2-fec-cri-2026-04-19-more-markets",
     "amount": 1546.015593444061
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x56b3e02bf6463e305c0a9d2e109908779b317375ba8b32250c154f15f097cb39",
+    "wallet": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+    "trader": {
+      "rank": 10,
+      "address": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+      "username": "walletmobile",
+      "profit": 5942685.45339684,
+      "volume": 32196692.075936034,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x38337de21ff0bb0a11a40761507d51e318d633d1",
+      "side": "BUY",
+      "asset": "81223244974656269538378720037727267807135860272551319580685311544518722081755",
+      "conditionId": "0x9f23be55da3b5eaa357564591aaf182bf3e2b3a11887b94396a3d927f9db7f99",
+      "size": 11016.44539,
+      "price": 0.41,
+      "timestamp": 1776670644,
+      "title": "Dota 2: BetBoom Team vs Team Falcons (BO3) - PGL Wallachia Group Stage",
+      "slug": "dota2-bb4-flc-2026-04-20",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/dota2-7ffacddb21.jpg",
+      "eventSlug": "dota2-bb4-flc-2026-04-20",
+      "outcome": "BetBoom Team",
+      "outcomeIndex": 0,
+      "name": "SineNooneEI",
+      "pseudonym": "Any-Keystone",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x56b3e02bf6463e305c0a9d2e109908779b317375ba8b32250c154f15f097cb39",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Dota 2: BetBoom Team vs Team Falcons (BO3) - PGL Wallachia Group Stage",
+    "market_slug": "dota2-bb4-flc-2026-04-20",
+    "amount": 4516.7426099
   }
 ]
