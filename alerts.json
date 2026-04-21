@@ -2,108 +2,6 @@
   {
     "market": "Magic vs. Timberwolves: O/U 226.5",
     "market_slug": "nba-orl-min-2026-03-07-total-226pt5",
-    "wallet": "0xaaab0f60f9c0aded1a2611dc0296fa6f5cc7d885",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,152)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 1152.5,
-      "odds": 0.5,
-      "raw_price": 0.5,
-      "outcome": "Under",
-      "potential_pnl": 1152.5,
-      "pnl_multiplier": 1.0,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-03-07T12:00:55.743936",
-    "trade_hash": "0xd719fee7d4b4f6ec16d9c761f103863b84f82c39b7d328beb61776de76ad3f29",
-    "trade_timestamp": 1772884783,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Under",
-      "side": "BUY",
-      "price": 0.5,
-      "effective_price": 0.5,
-      "size": 2305.0,
-      "amount": 1152.5,
-      "potential_pnl": 1152.5,
-      "pnl_multiplier": 1.0,
-      "is_no": false
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+26.0%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.24,
-      "market_price": 0.5,
-      "edge": 0.26,
-      "edge_percent": 26.0,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Both teams score efficiently",
-          "Defensive strategies are ineffective",
-          "Game pace is fast"
-        ],
-        "weakest_link": "Defensive strategies are ineffective"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent offensive performances",
-        "Injury status of key players"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "UNDER",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.26,
-      "edge_percent": 26.0
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 26.0,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "Magic vs. Timberwolves: O/U 226.5",
-    "market_slug": "nba-orl-min-2026-03-07-total-226pt5",
     "wallet": "0x78ff4b238411f37be04cc35c7c9890bd0032925b",
     "analysis": {
       "score": 70,
@@ -33403,5 +33301,49 @@
       "insider_score": 75.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x5e070e2ae24a551e87a8ddb3dd0e1efc64b5bc362c84c75d4754fc5511ad57dd",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "trader": {
+      "rank": 7,
+      "address": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+      "username": "RN1",
+      "profit": 7497756.44910792,
+      "volume": 441900999.307571,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+      "side": "BUY",
+      "asset": "63850146365634654173061706811003869360459366413637150712651185028882958840267",
+      "conditionId": "0x7fd88811a81d545baac869bd204bedb206ae0b2691eee1fd6dccbd5a84344a7f",
+      "size": 7943.97166,
+      "price": 0.5575066965020442,
+      "timestamp": 1776783504,
+      "title": "Madrid Open, Qualification: Yulia Starodubtseva vs Anastasia Pavlyuchenkova",
+      "slug": "wta-starodu-pavlyuc-2026-04-21",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wta-logo-41f331bdf1.png",
+      "eventSlug": "wta-starodu-pavlyuc-2026-04-21",
+      "outcome": "Yulia Starodubtseva",
+      "outcomeIndex": 0,
+      "name": "RN1",
+      "pseudonym": "Scary-Edible",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-1567750-84001aec-310a-470f-9584-67dfcaa61267.png",
+      "profileImageOptimized": "",
+      "transactionHash": "0x5e070e2ae24a551e87a8ddb3dd0e1efc64b5bc362c84c75d4754fc5511ad57dd",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Madrid Open, Qualification: Yulia Starodubtseva vs Anastasia Pavlyuchenkova",
+    "market_slug": "wta-starodu-pavlyuc-2026-04-21",
+    "amount": 4428.817397272461
   }
 ]
