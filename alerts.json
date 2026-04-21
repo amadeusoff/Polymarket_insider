@@ -1,209 +1,5 @@
 [
   {
-    "market": "UFC 326: Charles Oliveira vs. Max Holloway (Lightweight, Main Card)",
-    "market_slug": "ufc-cha1-max1-2026",
-    "wallet": "0xeb814eece52f0a86570bfbcba253848479b1d3eb",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,500)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 1499.999999,
-      "odds": 0.359999999904,
-      "raw_price": 0.359999999904,
-      "outcome": "Charles Oliveira",
-      "potential_pnl": 2666.6666659999996,
-      "pnl_multiplier": 1.7777777785185185,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-03-07T01:13:48.841591",
-    "trade_hash": "0x3746ab59ea734a97e5819fe53e8891ae5543d4d0c7e5940f2b4e5ad9984ccf7a",
-    "trade_timestamp": 1772845641,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Charles Oliveira",
-      "side": "BUY",
-      "price": 0.359999999904,
-      "effective_price": 0.359999999904,
-      "size": 4166.666665,
-      "amount": 1499.999999,
-      "potential_pnl": 2666.6666659999996,
-      "pnl_multiplier": 1.7777777785185185,
-      "is_no": false
-    },
-    "irrationality": {
-      "irrationality_score": 25,
-      "flags": [
-        "Significant mispricing edge (+14.8%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": false
-    },
-    "mispricing": {
-      "rational_estimate": 0.2119999999808,
-      "market_price": 0.359999999904,
-      "edge": 0.1479999999232,
-      "edge_percent": 14.79999999232,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Charles Oliveira must successfully defend against Max Holloway's striking",
-          "Max Holloway must avoid being taken down or submitted",
-          "The fight must go the distance without a knockout or submission"
-        ],
-        "weakest_link": "Max Holloway must avoid being taken down or submitted"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Oliveira's grappling skills versus Holloway's striking",
-        "Recent performance trends of both fighters"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "CHARLES OLIVEIRA",
-      "irrationality_score": 25,
-      "is_irrational": false,
-      "is_mispriced": true,
-      "edge": 0.1479999999232,
-      "edge_percent": 14.79999999232
-    },
-    "financial_analyst": {
-      "signal_quality": 46.2,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 14.8,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "Clippers vs. Grizzlies",
-    "market_slug": "nba-lac-mem-2026",
-    "wallet": "0x598606a7179c2a9b3747340022a17194bb2843c5",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,207)",
-        "Low activity (3 txns)"
-      ],
-      "amount": 1207.259998,
-      "odds": 0.6999844519796053,
-      "raw_price": 0.6999844519796053,
-      "outcome": "Clippers",
-      "potential_pnl": 517.4354500000001,
-      "pnl_multiplier": 0.42860315993009496,
-      "wallet_age_days": 0,
-      "total_activities": 3
-    },
-    "timestamp": "2026-03-07T07:35:56.306053",
-    "trade_hash": "0x2bfa1687fcd0b3dd0a89084af413460186112b5e8a95b1c76eb7327ccb156e9d",
-    "trade_timestamp": 1772868823,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Clippers",
-      "side": "BUY",
-      "price": 0.6999844519796053,
-      "effective_price": 0.6999844519796053,
-      "size": 1724.695448,
-      "amount": 1207.259998,
-      "potential_pnl": 517.4354500000001,
-      "pnl_multiplier": 0.42860315993009496,
-      "is_no": false
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+42.0%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.27999689039592107,
-      "market_price": 0.6999844519796053,
-      "edge": 0.4199875615836843,
-      "edge_percent": 41.99875615836843,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Clippers maintain key player health",
-          "Grizzlies struggle with team cohesion",
-          "External factors like trades or injuries affect performance"
-        ],
-        "weakest_link": "Grizzlies struggle with team cohesion"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Clippers' recent performance trends",
-        "Injury reports affecting key players"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "CLIPPERS",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.4199875615836843,
-      "edge_percent": 41.99875615836843
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 42.0,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "market": "Will VfL Wolfsburg vs. Hamburger SV end in a draw?",
     "market_slug": "bun-wol-hsv-2026-03-07-draw",
     "wallet": "0x1cc4f3587dbf3482dc216181455148baba95803d",
@@ -33515,5 +33311,93 @@
     "market": "Raptors vs. Cavaliers: O/U 221.5",
     "market_slug": "nba-tor-cle-2026-04-20",
     "amount": 9356.3345094
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xedc8a8cb13d2309da01c32847291f28b07ae2e914c379c94ff3e67a82fd736b4",
+    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
+    "trader": {
+      "rank": 5,
+      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
+      "username": "zxgngl",
+      "profit": 7807265.589240883,
+      "volume": 40551790.62184699,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x6d9fc316c3b8377060a44b852ba664adbfd59790",
+      "side": "BUY",
+      "asset": "77893140510362582253172593084218413010407941075415081594586195705930819989216",
+      "conditionId": "0x924a2942747dd75703321a7c8d809c68f6a514c3b0f2a2e64274e02310634669",
+      "size": 15000,
+      "price": 0.29,
+      "timestamp": 1776750784,
+      "title": "Strait of Hormuz traffic returns to normal by end of April?",
+      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-april-30",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ships-transit-the-strait-of-hormuz-on-any-day-in-march-ERARnetK0FJm.jpg",
+      "eventSlug": "strait-of-hormuz-traffic-returns-to-normal-by-april-30",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "MEPP",
+      "pseudonym": "Bleak-Full",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-956250-f296deb1-2e5d-47fd-b4dd-ea1d62c61e47.png",
+      "profileImageOptimized": "",
+      "transactionHash": "0xedc8a8cb13d2309da01c32847291f28b07ae2e914c379c94ff3e67a82fd736b4",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Strait of Hormuz traffic returns to normal by end of April?",
+    "market_slug": "strait-of-hormuz-traffic-returns-to-normal-by-april-30",
+    "amount": 4350.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x91f36c962e58d838cdb7a10254adf108810777262b4dd58a68c57ba30010a238",
+    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
+    "trader": {
+      "rank": 5,
+      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
+      "username": "zxgngl",
+      "profit": 7807265.589240883,
+      "volume": 40551790.62184699,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x6e3a4537d61fce64853a071529ccf86e5a3bba94",
+      "side": "BUY",
+      "asset": "98122994775741225498657013696157283373079444264276714364299129682869750969478",
+      "conditionId": "0xba0e7ea79f5cf07a4b0a8d8962b429e026b40044e746ab5a7874d0b36c03f742",
+      "size": 6822.198719,
+      "price": 0.8899999999985391,
+      "timestamp": 1776750782,
+      "title": "76ers vs. Celtics",
+      "slug": "nba-phi-bos-2026-04-21",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-phi-bos-2026-04-21",
+      "outcome": "Celtics",
+      "outcomeIndex": 1,
+      "name": "randomperson1628712",
+      "pseudonym": "Whole-Hiccups",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x91f36c962e58d838cdb7a10254adf108810777262b4dd58a68c57ba30010a238",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "76ers vs. Celtics",
+    "market_slug": "nba-phi-bos-2026-04-21",
+    "amount": 6071.756859900033
   }
 ]
