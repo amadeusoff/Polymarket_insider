@@ -1,313 +1,5 @@
 [
   {
-    "market": "Magic vs. Timberwolves: O/U 226.5",
-    "market_slug": "nba-orl-min-2026-03-07-total-226pt5",
-    "wallet": "0x92239fa20401fa98664a3eb5d41fc52c92d5c94d",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,112)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 1112.5,
-      "odds": 0.5,
-      "raw_price": 0.5,
-      "outcome": "Under",
-      "potential_pnl": 1112.5,
-      "pnl_multiplier": 1.0,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-03-07T12:01:08.313399",
-    "trade_hash": "0xd54f91a0064ec8d788da47fe7bb128888b98a4b4a94fa2981e8655f9c28d617a",
-    "trade_timestamp": 1772884781,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Under",
-      "side": "BUY",
-      "price": 0.5,
-      "effective_price": 0.5,
-      "size": 2225.0,
-      "amount": 1112.5,
-      "potential_pnl": 1112.5,
-      "pnl_multiplier": 1.0,
-      "is_no": false
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+26.0%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.24,
-      "market_price": 0.5,
-      "edge": 0.26,
-      "edge_percent": 26.0,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "both teams score efficiently",
-          "defensive performance is below average",
-          "game pace is high"
-        ],
-        "weakest_link": "defensive performance is below average"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "offensive matchups",
-        "recent team performance"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "UNDER",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.26,
-      "edge_percent": 26.0
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 26.0,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "Will Jesus Christ return before GTA VI?",
-    "market_slug": "will-jesus-christ-return-before-gta-vi-665",
-    "wallet": "0x20d63920177ae7e3996d397f5d3c5a1dc38abb8e",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($2,025)",
-        "Low activity (2 txns)"
-      ],
-      "amount": 2025.259388,
-      "odds": 0.4800000000758421,
-      "raw_price": 0.5199999999241579,
-      "outcome": "No",
-      "potential_pnl": 2194.0310030000005,
-      "pnl_multiplier": 1.0833333330041577,
-      "wallet_age_days": 0,
-      "total_activities": 2
-    },
-    "timestamp": "2026-03-07T19:19:29.528151",
-    "trade_hash": "0xb66b5d34a5e860e6fb96310b59c6b7f0b6a1ab621d7f26cf173c80142d292ca0",
-    "trade_timestamp": 1772910981,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "BUY",
-      "price": 0.5199999999241579,
-      "effective_price": 0.4800000000758421,
-      "size": 4219.290391,
-      "amount": 2025.259388,
-      "potential_pnl": 2194.0310030000005,
-      "pnl_multiplier": 1.0833333330041577,
-      "is_no": true
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+41.2%)"
-      ],
-      "category": "other",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.10799999998483159,
-      "market_price": 0.5199999999241579,
-      "edge": 0.41199999993932634,
-      "edge_percent": 41.199999993932636,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "historically_near_zero",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "historically_near_zero",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Widespread belief in the imminent return of Jesus Christ",
-          "Significant global events interpreted as signs of the end times",
-          "Cultural or religious shifts prompting renewed interest in eschatology"
-        ],
-        "weakest_link": "Widespread belief in the imminent return of Jesus Christ"
-      },
-      "category": "other",
-      "narrative_drivers": [
-        "Cultural fascination with religious prophecies",
-        "Anticipation of major video game releases and their cultural impact"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "ALPHA",
-      "signal_emoji": "\ud83d\udd25",
-      "signal_strength": 105,
-      "interpretation": "Smart money (NO) confirms YES is overpriced",
-      "action_suggestion": "High conviction: insider + statistics aligned",
-      "insider_score": 70,
-      "insider_position": "NO",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.41199999993932634,
-      "edge_percent": 41.199999993932636
-    },
-    "financial_analyst": {
-      "signal_quality": 81.0,
-      "stance": "HIGH_CONVICTION",
-      "edge_percent": 41.2,
-      "signal_strength": 105.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-03-29T06:55:31.660329+00:00"
-  },
-  {
-    "market": "Will MrBeast's next video get 90 million or more views on week 1?",
-    "market_slug": "will-mrbeasts-next-video-get-90-million-or-more-views-on-week-1",
-    "wallet": "0x94fc0c95d002ed35c6b415d1afb8fc71ef5f26ac",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($2,419)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 2419.099997,
-      "odds": 0.12139967438345003,
-      "raw_price": 0.12139967438345003,
-      "outcome": "Yes",
-      "potential_pnl": 17507.642057999998,
-      "pnl_multiplier": 7.237254383742616,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-03-07T21:40:10.970599",
-    "trade_hash": "0x1ee3141fdb242dba6db515fe8f2e9e79fa6cf74665d59f68dfaa72ac17ed1fc6",
-    "trade_timestamp": 1772919475,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "side": "BUY",
-      "price": 0.12139967438345003,
-      "effective_price": 0.12139967438345003,
-      "size": 19926.742055,
-      "amount": 2419.099997,
-      "potential_pnl": 17507.642057999998,
-      "pnl_multiplier": 7.237254383742616,
-      "is_no": false
-    },
-    "irrationality": {
-      "irrationality_score": 25,
-      "flags": [
-        "Longshot (12%) in medium bias category (other)"
-      ],
-      "category": "other",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": false
-    },
-    "mispricing": {
-      "rational_estimate": 0.08427993487669,
-      "market_price": 0.12139967438345003,
-      "edge": 0.037119739506760036,
-      "edge_percent": 3.7119739506760037,
-      "min_edge_required": 0.05,
-      "is_mispriced": false,
-      "edge_quality": "WEAK",
-      "base_rate_class": "occasional",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "occasional",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "MrBeast's current subscriber count and engagement levels",
-          "The video's content and its appeal to the audience",
-          "Timing of the release relative to competing content"
-        ],
-        "weakest_link": "The video's content and its appeal to the audience"
-      },
-      "category": "other",
-      "narrative_drivers": [
-        "Previous videos have reached high view counts quickly",
-        "Social media promotion and trends affecting viewership"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "YES",
-      "irrationality_score": 25,
-      "is_irrational": false,
-      "is_mispriced": false,
-      "edge": 0.037119739506760036,
-      "edge_percent": 3.7119739506760037
-    },
-    "financial_analyst": {
-      "signal_quality": 29.6,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 3.71,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-03-29T06:55:32.310106+00:00"
-  },
-  {
     "market": "US forces enter Iran by March 14?",
     "market_slug": "us-forces-enter-iran-by-march",
     "wallet": "0xf6f458a357a58eec16d767b3a78decda8b373144",
@@ -33347,5 +33039,203 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "market": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by April 23, 2026?",
+    "market_slug": "will-donald-trump-announce-that-the-united-states-blockade-of-the-strait-of-hormuz-has-been-lifted-by-april-23-2026",
+    "event_slug": "will-donald-trump-announce-that-the-united-states-blockade-of-the-strait-of-hormuz-has-been-lifted-by-april-23-2026",
+    "wallet": "0x523aaa8a5fe2135cf45de1e696084ac1cbcc8e28",
+    "analysis": {
+      "score": 80,
+      "flags": [
+        "New wallet (1d old)",
+        "Pre-event latency: 1631m"
+      ],
+      "amount": 465.00000000000006,
+      "odds": 0.30000000000000004,
+      "raw_price": 0.7,
+      "outcome": "No",
+      "potential_pnl": 1085.0,
+      "pnl_multiplier": 2.333333333333333,
+      "wallet_age_days": 1,
+      "total_activities": 100
+    },
+    "timestamp": "2026-04-21T20:57:45.419321",
+    "trade_hash": "0x436a9025da569259b891da9606d26616c7989e19f98fcaefd454fe06267011fa",
+    "trade_timestamp": 1776804564,
+    "latency": {
+      "latency_seconds": 97836.0,
+      "latency_minutes": 1630.6,
+      "is_pre_event": true,
+      "severity": "CRITICAL",
+      "trade_time": "2026-04-21T20:49:24+00:00",
+      "event_time": "2026-04-23T00:00:00+00:00"
+    },
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.7,
+      "effective_price": 0.7,
+      "size": 1550.0,
+      "amount": 1085.0,
+      "potential_pnl": 465.0,
+      "pnl_multiplier": 0.42857142857142855,
+      "is_no": true,
+      "slug": "will-donald-trump-announce-that-the-united-states-blockade-of-the-strait-of-hormuz-has-been-lifted-by-april-23-2026",
+      "eventSlug": "trump-announces-us-blockade-of-hormuz-lifted-by"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+26.2%)"
+      ],
+      "category": "politics_near",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.02,
+        "min_edge": 0.03
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.43749999999999994,
+      "market_price": 0.7,
+      "edge": 0.2625,
+      "edge_percent": 26.25,
+      "min_edge_required": 0.03,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 115,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 80,
+      "insider_position": "NO",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.2625,
+      "edge_percent": 26.25
+    },
+    "financial_analyst": {
+      "signal_quality": 83.0,
+      "stance": "HIGH_CONVICTION",
+      "edge_percent": 26.25,
+      "signal_strength": 115.0,
+      "insider_score": 80.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xa46f4d4176b9e226eb9b7df7af06e5cb66f529f9bbd06384d21940b9343f2ce3",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x058327e8fec1fdf218c4c2c20f3a30db18887dd4",
+      "side": "BUY",
+      "asset": "92025851279698570995227088248875664874725239104709097751216036692718739438123",
+      "conditionId": "0xf2cef43706744b1e589950473dd8b7646a3e70c9406cd0bf607204c18b9d41b9",
+      "size": 2157.8663,
+      "price": 0.891376894890881,
+      "timestamp": 1776804828,
+      "title": "Will the highest temperature in Los Angeles be between 68-69\u00b0F on April 21?",
+      "slug": "highest-temperature-in-los-angeles-on-april-21-2026-68-69f",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/los-angeles-cdae9380c7.jpg",
+      "eventSlug": "highest-temperature-in-los-angeles-on-april-21-2026",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "casus",
+      "pseudonym": "Illustrious-Quota",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-4417639-576aa73f-37ca-431c-a3d8-7fb395dd10c7.webp",
+      "profileImageOptimized": "",
+      "transactionHash": "0xa46f4d4176b9e226eb9b7df7af06e5cb66f529f9bbd06384d21940b9343f2ce3",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will the highest temperature in Los Angeles be between 68-69\u00b0F on April 21?",
+    "market_slug": "highest-temperature-in-los-angeles-on-april-21-2026",
+    "amount": 1923.4721620836744
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xbad9a832e54993c5cd0f00ceaca5cbfa263cf30f4b9630f9a281573a3503d8df",
+    "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
+    "trader": {
+      "rank": 18,
+      "address": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
+      "username": "432614799197",
+      "profit": 4526176.046413327,
+      "volume": 185485956.86208293,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xf658c7860763abde250bfe9793b10110430b655e",
+      "side": "BUY",
+      "asset": "13546316504859718104889815157970689113639428454208281053288341354346349283004",
+      "conditionId": "0x0bc3ed61794fffa362af7c41d8c9185e2a1e436efb72cfebda678477cabd9a55",
+      "size": 7812.79246,
+      "price": 0.53,
+      "timestamp": 1776805428,
+      "title": "Spread: Celtics (-13.5)",
+      "slug": "nba-phi-bos-2026-04-21-spread-home-13pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-phi-bos-2026-04-21",
+      "outcome": "Celtics",
+      "outcomeIndex": 0,
+      "name": "pinkboy",
+      "pseudonym": "Astonishing-Partnership",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-7033643-f82cecba-ed52-4073-9756-a664ca0b05d2.webp",
+      "profileImageOptimized": "",
+      "transactionHash": "0xbad9a832e54993c5cd0f00ceaca5cbfa263cf30f4b9630f9a281573a3503d8df",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spread: Celtics (-13.5)",
+    "market_slug": "nba-phi-bos-2026-04-21",
+    "amount": 4140.7800038
   }
 ]
