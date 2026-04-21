@@ -33354,7 +33354,8 @@
     },
     "market": "Strait of Hormuz traffic returns to normal by end of April?",
     "market_slug": "strait-of-hormuz-traffic-returns-to-normal-by-april-30",
-    "amount": 4350.0
+    "amount": 4350.0,
+    "resolution_last_check": "2026-04-21T07:55:03.379177+00:00"
   },
   {
     "type": "TOP_TRADER",
@@ -33398,6 +33399,7 @@
     },
     "market": "76ers vs. Celtics",
     "market_slug": "nba-phi-bos-2026-04-21",
-    "amount": 6071.756859900033
+    "amount": 6071.756859900033,
+    "resolution_last_check": "2026-04-21T07:55:03.935563+00:00"
   }
 ]
