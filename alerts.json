@@ -1,107 +1,5 @@
 [
   {
-    "market": "Will VfL Wolfsburg vs. Hamburger SV end in a draw?",
-    "market_slug": "bun-wol-hsv-2026-03-07-draw",
-    "wallet": "0x1cc4f3587dbf3482dc216181455148baba95803d",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (1d old)",
-        "Large bet ($1,519)",
-        "Low activity (4 txns)"
-      ],
-      "amount": 1519.0000000000002,
-      "odds": 0.28,
-      "raw_price": 0.28,
-      "outcome": "Yes",
-      "potential_pnl": 3906.0,
-      "pnl_multiplier": 2.571428571428571,
-      "wallet_age_days": 1,
-      "total_activities": 4
-    },
-    "timestamp": "2026-03-07T11:46:19.663858",
-    "trade_hash": "0x4458b700e0afc179dd66dfd3eaf768ebe0fcf3015b8a519af6343f5d9c1cc4f6",
-    "trade_timestamp": 1772883771,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "side": "BUY",
-      "price": 0.28,
-      "effective_price": 0.28,
-      "size": 5425.0,
-      "amount": 1519.0000000000002,
-      "potential_pnl": 3906.0,
-      "pnl_multiplier": 2.571428571428571,
-      "is_no": false
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+16.4%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.116,
-      "market_price": 0.28,
-      "edge": 0.16400000000000003,
-      "edge_percent": 16.400000000000002,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "occasional",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "occasional",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Both teams have similar form leading into the match",
-          "Defensive strategies are prioritized by both coaches",
-          "Key players are absent or underperforming"
-        ],
-        "weakest_link": "Key players are absent or underperforming"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent matches between the teams have ended in draws",
-        "Current league standings create pressure for both teams to secure at least a point"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "CONFLICT",
-      "signal_emoji": "\u26a0\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider buying YES despite statistical overpricing",
-      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
-      "insider_score": 70,
-      "insider_position": "YES",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.16400000000000003,
-      "edge_percent": 16.400000000000002
-    },
-    "financial_analyst": {
-      "signal_quality": 45.6,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 16.4,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "market": "Magic vs. Timberwolves: O/U 226.5",
     "market_slug": "nba-orl-min-2026-03-07-total-226pt5",
     "wallet": "0xaaab0f60f9c0aded1a2611dc0296fa6f5cc7d885",
@@ -33401,5 +33299,109 @@
     "market_slug": "nba-phi-bos-2026-04-21",
     "amount": 6071.756859900033,
     "resolution_last_check": "2026-04-21T07:55:03.935563+00:00"
+  },
+  {
+    "market": "Will Donald Trump win the Nobel Peace Prize in 2026?",
+    "market_slug": "will-donald-trump-win-the-nobel-peace-prize-in-2026-382",
+    "event_slug": "will-donald-trump-win-the-nobel-peace-prize-in-2026-382",
+    "wallet": "0xbab9adc4a882e97e481619984789ee9d66dab809",
+    "analysis": {
+      "score": 75,
+      "flags": [
+        "New wallet (0d old)",
+        "Against trend (6.0% effective odds)",
+        "Low activity (3 txns)"
+      ],
+      "amount": 127.65957400000002,
+      "odds": 0.060000000018800015,
+      "raw_price": 0.9399999999812,
+      "outcome": "No",
+      "potential_pnl": 1999.9999919999998,
+      "pnl_multiplier": 15.66666666144444,
+      "wallet_age_days": 0,
+      "total_activities": 3
+    },
+    "timestamp": "2026-04-21T11:50:48.179803",
+    "trade_hash": "0x260d4a2c92c0b03c7a850691137ecd3494c2b807e83d744d2990174bb5aef9d2",
+    "trade_timestamp": 1776771964,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.9399999999812,
+      "effective_price": 0.9399999999812,
+      "size": 2127.659566,
+      "amount": 1999.9999919999998,
+      "potential_pnl": 127.65957400000002,
+      "pnl_multiplier": 0.06382978725531917,
+      "is_no": true,
+      "slug": "will-donald-trump-win-the-nobel-peace-prize-in-2026-382",
+      "eventSlug": "nobel-peace-prize-winner-2026-139"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+44.0%)"
+      ],
+      "category": "politics_near",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.02,
+        "min_edge": 0.03
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.5,
+      "market_price": 0.9399999999812,
+      "edge": 0.4399999999812,
+      "edge_percent": 43.999999998119996,
+      "min_edge_required": 0.03,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 110,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 75,
+      "insider_position": "NO",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.4399999999812,
+      "edge_percent": 43.999999998119996
+    },
+    "financial_analyst": {
+      "signal_quality": 82.0,
+      "stance": "HIGH_CONVICTION",
+      "edge_percent": 44.0,
+      "signal_strength": 110.0,
+      "insider_score": 75.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
