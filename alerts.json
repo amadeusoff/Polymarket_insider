@@ -2,108 +2,6 @@
   {
     "market": "Knicks vs. Lakers: O/U 228.5",
     "market_slug": "nba-nyk-lal-2026-03-08-total-228pt5",
-    "wallet": "0x7c83834dd1df7f591b5765e632a8a4ce2c4d5fc6",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($2,445)",
-        "Low activity (3 txns)"
-      ],
-      "amount": 2444.94,
-      "odds": 0.51,
-      "raw_price": 0.51,
-      "outcome": "Under",
-      "potential_pnl": 2349.06,
-      "pnl_multiplier": 0.9607843137254901,
-      "wallet_age_days": 0,
-      "total_activities": 3
-    },
-    "timestamp": "2026-03-08T11:34:57.587086",
-    "trade_hash": "0x573529d5182f40c2c57d21e75a6400c0eb5d414fe91226023ea34511229ea127",
-    "trade_timestamp": 1772969439,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Under",
-      "side": "BUY",
-      "price": 0.51,
-      "effective_price": 0.51,
-      "size": 4794.0,
-      "amount": 2444.94,
-      "potential_pnl": 2349.06,
-      "pnl_multiplier": 0.9607843137254901,
-      "is_no": false
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+26.8%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.242,
-      "market_price": 0.51,
-      "edge": 0.268,
-      "edge_percent": 26.8,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Both teams have high-scoring offenses",
-          "Defensive strategies are ineffective",
-          "Game pace is fast"
-        ],
-        "weakest_link": "Defensive strategies are ineffective"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent performance trends of both teams",
-        "Injury reports affecting key players"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "UNDER",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.268,
-      "edge_percent": 26.8
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 26.8,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "Knicks vs. Lakers: O/U 228.5",
-    "market_slug": "nba-nyk-lal-2026-03-08-total-228pt5",
     "wallet": "0x139cd387fd13ef3b1a82a49ff3a7bd2bc4cf36db",
     "analysis": {
       "score": 70,
@@ -33114,5 +33012,49 @@
     "market": "Madrid Open: Ignacio Buse vs Adrian Mannarino",
     "market_slug": "atp-buse-mannari-2026-04-22",
     "amount": 2314.1855499999997
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x7ce6a8269311ba51a5ef55295ab9f1c6ab2998924255d9ac1c82eb5c3f2ba2b5",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "trader": {
+      "rank": 7,
+      "address": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+      "username": "RN1",
+      "profit": 7378865.850865024,
+      "volume": 445869547.2197669,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xf0d5eb1cbe7350f1f896ade6c172e6700414c665",
+      "side": "BUY",
+      "asset": "110959653450933276250915064669875552310439627880508793089816880777942697720191",
+      "conditionId": "0x1d2787cb8aed975d092b2799ed6f4083e9445f7420cdc09e9d47e7d54356c6cd",
+      "size": 2215.97,
+      "price": 0.82,
+      "timestamp": 1776858554,
+      "title": "US x Iran ceasefire extended by April 22, 2026?",
+      "slug": "us-x-iran-ceasefire-extended-by-april-22-2026",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-ceasefire-by-Cgmx3GCuOwjs.jpg",
+      "eventSlug": "us-x-iran-ceasefire-extended-by",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "yen4u",
+      "pseudonym": "Key-Sovereignty",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-6949826-4cc07b96-61fb-489e-9643-a134dd6a0b50.webp",
+      "profileImageOptimized": "",
+      "transactionHash": "0x7ce6a8269311ba51a5ef55295ab9f1c6ab2998924255d9ac1c82eb5c3f2ba2b5",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "US x Iran ceasefire extended by April 22, 2026?",
+    "market_slug": "us-x-iran-ceasefire-extended-by",
+    "amount": 1817.0953999999997
   }
 ]
