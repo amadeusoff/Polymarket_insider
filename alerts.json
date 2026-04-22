@@ -1,212 +1,5 @@
 [
   {
-    "market": "Will L\u00ea Minh H\u01b0ng be the next Prime Minister of Vietnam?",
-    "market_slug": "will-l-minh-hng-be-the-next-prime-minister-of-vietnam",
-    "wallet": "0x24819a90bd0199170504166d823f3b7547d64ae4",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,684)",
-        "Low activity (4 txns)"
-      ],
-      "amount": 1684.152,
-      "odds": 0.904,
-      "raw_price": 0.096,
-      "outcome": "No",
-      "potential_pnl": 178.848,
-      "pnl_multiplier": 0.10619469026548672,
-      "wallet_age_days": 0,
-      "total_activities": 4
-    },
-    "timestamp": "2026-03-08T14:40:35.841183",
-    "trade_hash": "0xe8eebf7b4200b9ea0921db37e1e66ae6451927715b81b200e94c83c8058425a1",
-    "trade_timestamp": 1772980739,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "SELL",
-      "price": 0.096,
-      "effective_price": 0.904,
-      "size": 1863.0,
-      "amount": 1684.152,
-      "potential_pnl": 178.848,
-      "pnl_multiplier": 0.10619469026548672,
-      "is_no": true
-    },
-    "irrationality": {
-      "irrationality_score": 33,
-      "flags": [
-        "Longshot (10%) in medium bias category (other)",
-        "Moderate mispricing edge (+5.7%)"
-      ],
-      "category": "other",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.039200000000000006,
-      "market_price": 0.096,
-      "edge": 0.056799999999999996,
-      "edge_percent": 5.68,
-      "min_edge_required": 0.03,
-      "is_mispriced": true,
-      "edge_quality": "MODERATE",
-      "base_rate_class": "rare",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "rare",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "L\u00ea Minh H\u01b0ng gains significant political support within the ruling party",
-          "Current Prime Minister steps down or is removed",
-          "Public sentiment shifts favorably towards L\u00ea Minh H\u01b0ng"
-        ],
-        "weakest_link": "Public sentiment shifts favorably towards L\u00ea Minh H\u01b0ng"
-      },
-      "category": "politics_near",
-      "narrative_drivers": [
-        "Internal party dynamics",
-        "Public opinion and media portrayal"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "ALPHA",
-      "signal_emoji": "\ud83d\udd25",
-      "signal_strength": 103,
-      "interpretation": "Smart money (NO) confirms YES is overpriced",
-      "action_suggestion": "High conviction: insider + statistics aligned",
-      "insider_score": 70,
-      "insider_position": "NO",
-      "irrationality_score": 33,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.056799999999999996,
-      "edge_percent": 5.68
-    },
-    "financial_analyst": {
-      "signal_quality": 64.1,
-      "stance": "SELECTIVE",
-      "edge_percent": 5.68,
-      "signal_strength": 103.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-03-29T06:55:36.000201+00:00"
-  },
-  {
-    "market": "Will L\u00ea Minh H\u01b0ng be the next Prime Minister of Vietnam?",
-    "market_slug": "will-l-minh-hng-be-the-next-prime-minister-of-vietnam",
-    "wallet": "0x3507ba25957a1c75f1a76153d84f839ef6bd0cb4",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,543)",
-        "Low activity (4 txns)"
-      ],
-      "amount": 1543.1280000000002,
-      "odds": 0.904,
-      "raw_price": 0.904,
-      "outcome": "Yes",
-      "potential_pnl": 163.87199999999999,
-      "pnl_multiplier": 0.1061946902654867,
-      "wallet_age_days": 0,
-      "total_activities": 4
-    },
-    "timestamp": "2026-03-08T14:40:46.524763",
-    "trade_hash": "0x552e37b6c5c88cba527682d8637b7847791240db272f630dcd7e94bc67f17e08",
-    "trade_timestamp": 1772980739,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "side": "SELL",
-      "price": 0.904,
-      "effective_price": 0.904,
-      "size": 1707.0,
-      "amount": 1543.1280000000002,
-      "potential_pnl": 163.87199999999999,
-      "pnl_multiplier": 0.1061946902654867,
-      "is_no": false
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+70.3%)"
-      ],
-      "category": "other",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.20080000000000003,
-      "market_price": 0.904,
-      "edge": 0.7032,
-      "edge_percent": 70.32000000000001,
-      "min_edge_required": 0.03,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "rare",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "rare",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "L\u00ea Minh H\u01b0ng gains significant political support within the ruling party",
-          "Current Prime Minister resigns or is removed",
-          "Public sentiment shifts favorably towards L\u00ea Minh H\u01b0ng"
-        ],
-        "weakest_link": "Public sentiment shifts favorably towards L\u00ea Minh H\u01b0ng"
-      },
-      "category": "politics_near",
-      "narrative_drivers": [
-        "Political maneuvering within the Communist Party",
-        "Public perception of leadership qualities"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "CONFLICT",
-      "signal_emoji": "\u26a0\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider buying YES despite statistical overpricing",
-      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
-      "insider_score": 70,
-      "insider_position": "YES",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.7032,
-      "edge_percent": 70.32000000000001
-    },
-    "financial_analyst": {
-      "signal_quality": 46.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 70.32,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-03-29T06:55:36.000218+00:00"
-  },
-  {
     "market": "76ers vs. Cavaliers: O/U 225.5",
     "market_slug": "nba-phi-cle-2026-03-09-total-225pt5",
     "wallet": "0x4617ec733b6ae9307db22ba0d71eda1e1ce10575",
@@ -33001,5 +32794,93 @@
     "market": "Will WTI Crude Oil (WTI) hit (HIGH) $110 in April?",
     "market_slug": "what-price-will-wti-hit-in-april-2026",
     "amount": 2337.3531248016125
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xf5d3e1239efbfd825b288eba0ce68fab5ba546609037db1bdca05277efd42227",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x31c1a77f809dd278c7c66a4941cad97072b87047",
+      "side": "BUY",
+      "asset": "55559547769066008843244764039128521987529289197392603933931790689348187543069",
+      "conditionId": "0x08dcab0cf35c074aa330c1c0d65673914131423fc38be6b5dfcd1731ed90c771",
+      "size": 4013.506621,
+      "price": 0.619982757725285,
+      "timestamp": 1776869060,
+      "title": "Rome: Gianluca Cadenasso vs Jacopo Vasami",
+      "slug": "atp-cadenas-vasami-2026-04-22",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+      "eventSlug": "atp-cadenas-vasami-2026-04-22",
+      "outcome": "Gianluca Cadenasso",
+      "outcomeIndex": 0,
+      "name": "shistp",
+      "pseudonym": "Conscious-Portion",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xf5d3e1239efbfd825b288eba0ce68fab5ba546609037db1bdca05277efd42227",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Rome: Gianluca Cadenasso vs Jacopo Vasami",
+    "market_slug": "atp-cadenas-vasami-2026-04-22",
+    "amount": 2488.3049030362704
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x3dd94c85a6e72e3fff6a1d01c898e455778465b94d3a6eaa565906cb8479fa62",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "trader": {
+      "rank": 7,
+      "address": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+      "username": "RN1",
+      "profit": 7351603.703023012,
+      "volume": 446407063.864202,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x46992d0e547e3822a9c28723f51bfa804ae4e03c",
+      "side": "BUY",
+      "asset": "110959653450933276250915064669875552310439627880508793089816880777942697720191",
+      "conditionId": "0x1d2787cb8aed975d092b2799ed6f4083e9445f7420cdc09e9d47e7d54356c6cd",
+      "size": 6332.14,
+      "price": 0.8193027001929837,
+      "timestamp": 1776869360,
+      "title": "US x Iran ceasefire extended by April 22, 2026?",
+      "slug": "us-x-iran-ceasefire-extended-by-april-22-2026",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-ceasefire-by-Cgmx3GCuOwjs.jpg",
+      "eventSlug": "us-x-iran-ceasefire-extended-by",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "anon.1980.123",
+      "pseudonym": "Happy-Default",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x3dd94c85a6e72e3fff6a1d01c898e455778465b94d3a6eaa565906cb8479fa62",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "US x Iran ceasefire extended by April 22, 2026?",
+    "market_slug": "us-x-iran-ceasefire-extended-by",
+    "amount": 5187.9394
   }
 ]
