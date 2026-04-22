@@ -32778,7 +32778,8 @@
       "signal_strength": 110.0,
       "insider_score": 75.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
+    },
+    "resolution_last_check": "2026-04-22T07:52:01.059139+00:00"
   },
   {
     "type": "TOP_TRADER",
@@ -32926,7 +32927,8 @@
       "signal_strength": 88.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
+    },
+    "resolution_last_check": "2026-04-22T07:52:03.273126+00:00"
   },
   {
     "market": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by April 23, 2026?",
@@ -33036,7 +33038,8 @@
       "signal_strength": 115.0,
       "insider_score": 80.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
+    },
+    "resolution_last_check": "2026-04-22T07:52:03.905232+00:00"
   },
   {
     "type": "TOP_TRADER",
