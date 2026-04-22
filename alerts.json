@@ -2,108 +2,6 @@
   {
     "market": "76ers vs. Cavaliers: O/U 225.5",
     "market_slug": "nba-phi-cle-2026-03-09-total-225pt5",
-    "wallet": "0x4617ec733b6ae9307db22ba0d71eda1e1ce10575",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,663)",
-        "Low activity (2 txns)"
-      ],
-      "amount": 1663.2,
-      "odds": 0.55,
-      "raw_price": 0.55,
-      "outcome": "Over",
-      "potential_pnl": 1360.7999999999997,
-      "pnl_multiplier": 0.818181818181818,
-      "wallet_age_days": 0,
-      "total_activities": 2
-    },
-    "timestamp": "2026-03-09T08:37:24.507622",
-    "trade_hash": "0x8c623f0a2ccff9a84e32a265196f24899828e3c1a78f4cfa45850b7c7c972e3f",
-    "trade_timestamp": 1773045311,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Over",
-      "side": "BUY",
-      "price": 0.55,
-      "effective_price": 0.55,
-      "size": 3024.0,
-      "amount": 1663.2,
-      "potential_pnl": 1360.7999999999997,
-      "pnl_multiplier": 0.818181818181818,
-      "is_no": false
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+30.0%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.25,
-      "market_price": 0.55,
-      "edge": 0.30000000000000004,
-      "edge_percent": 30.000000000000004,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Both teams have strong offensive performances",
-          "Defensive strategies are ineffective",
-          "Game pace is fast"
-        ],
-        "weakest_link": "Defensive strategies are ineffective"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent scoring trends of both teams",
-        "Injury reports affecting key players"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "OVER",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.30000000000000004,
-      "edge_percent": 30.000000000000004
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 30.0,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "76ers vs. Cavaliers: O/U 225.5",
-    "market_slug": "nba-phi-cle-2026-03-09-total-225pt5",
     "wallet": "0x7c6b56538c69832b5eb30980f2bbeaab1b0f1651",
     "analysis": {
       "score": 70,
@@ -32882,5 +32780,49 @@
     "market": "US x Iran ceasefire extended by April 22, 2026?",
     "market_slug": "us-x-iran-ceasefire-extended-by",
     "amount": 5187.9394
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x43c3a8c01e4e4c2c236f2664489b48704da1ebdddf5f4b7846637db8ea1be8fc",
+    "wallet": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
+    "trader": {
+      "rank": 19,
+      "address": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
+      "username": "Jenzigo",
+      "profit": 4049827.0941029997,
+      "volume": 9457725.034338009,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x63d43bbb87f85af03b8f2f9e2fad7b54334fa2f1",
+      "side": "BUY",
+      "asset": "64622848174080349355505680625481066249195809702245025265549356236367119746958",
+      "conditionId": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
+      "size": 2969.14,
+      "price": 0.61,
+      "timestamp": 1776897878,
+      "title": "Starmer out by June 30, 2026?",
+      "slug": "starmer-out-by-june-30-2026-862-594-548",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/starmer-out-in-2025-teE3zEaEEyuO.jpg",
+      "eventSlug": "starmer-out-in-2025",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "wokerjoesleeper",
+      "pseudonym": "Vivid-Macrofauna",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x43c3a8c01e4e4c2c236f2664489b48704da1ebdddf5f4b7846637db8ea1be8fc",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Starmer out by June 30, 2026?",
+    "market_slug": "starmer-out-in-2025",
+    "amount": 1811.1753999999999
   }
 ]
