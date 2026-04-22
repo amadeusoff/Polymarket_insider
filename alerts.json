@@ -1,209 +1,5 @@
 [
   {
-    "market": "Knicks vs. Lakers: O/U 228.5",
-    "market_slug": "nba-nyk-lal-2026-03-08-total-228pt5",
-    "wallet": "0x139cd387fd13ef3b1a82a49ff3a7bd2bc4cf36db",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($2,390)",
-        "Low activity (4 txns)"
-      ],
-      "amount": 2389.86,
-      "odds": 0.51,
-      "raw_price": 0.51,
-      "outcome": "Under",
-      "potential_pnl": 2296.14,
-      "pnl_multiplier": 0.9607843137254901,
-      "wallet_age_days": 0,
-      "total_activities": 4
-    },
-    "timestamp": "2026-03-08T11:35:01.661339",
-    "trade_hash": "0x7b2f637dbbafe371e8d8848cc7c01ce74dce562175c2e3918d037a2080f29659",
-    "trade_timestamp": 1772969437,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Under",
-      "side": "BUY",
-      "price": 0.51,
-      "effective_price": 0.51,
-      "size": 4686.0,
-      "amount": 2389.86,
-      "potential_pnl": 2296.14,
-      "pnl_multiplier": 0.9607843137254901,
-      "is_no": false
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+26.8%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.242,
-      "market_price": 0.51,
-      "edge": 0.268,
-      "edge_percent": 26.8,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Both teams have strong offensive performances",
-          "Defensive strategies are ineffective",
-          "Game pace is fast with high possessions"
-        ],
-        "weakest_link": "Defensive strategies are ineffective"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent scoring trends of both teams",
-        "Injury reports affecting key players"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "UNDER",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.268,
-      "edge_percent": 26.8
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 26.8,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "Knicks vs. Lakers: O/U 228.5",
-    "market_slug": "nba-nyk-lal-2026-03-08-total-228pt5",
-    "wallet": "0x4062435dfc8b90326b78b1b7d1d5f1d33951655e",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($2,372)",
-        "Low activity (3 txns)"
-      ],
-      "amount": 2372.01,
-      "odds": 0.51,
-      "raw_price": 0.51,
-      "outcome": "Under",
-      "potential_pnl": 2278.9900000000002,
-      "pnl_multiplier": 0.9607843137254901,
-      "wallet_age_days": 0,
-      "total_activities": 3
-    },
-    "timestamp": "2026-03-08T11:35:06.752918",
-    "trade_hash": "0x8d97388197fcbeeeb077bb061ae5bd3645599d691b05ef7dc2f12094260d4edf",
-    "trade_timestamp": 1772969437,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Under",
-      "side": "BUY",
-      "price": 0.51,
-      "effective_price": 0.51,
-      "size": 4651.0,
-      "amount": 2372.01,
-      "potential_pnl": 2278.9900000000002,
-      "pnl_multiplier": 0.9607843137254901,
-      "is_no": false
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+26.8%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.242,
-      "market_price": 0.51,
-      "edge": 0.268,
-      "edge_percent": 26.8,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Both teams have strong offensive performances",
-          "Defensive weaknesses from both teams",
-          "Game pace is fast with many possessions"
-        ],
-        "weakest_link": "Defensive weaknesses from both teams"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent scoring trends of both teams",
-        "Injury status of key players affecting scoring"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "UNDER",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.268,
-      "edge_percent": 26.8
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 26.8,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "market": "Will L\u00ea Minh H\u01b0ng be the next Prime Minister of Vietnam?",
     "market_slug": "will-l-minh-hng-be-the-next-prime-minister-of-vietnam",
     "wallet": "0x24819a90bd0199170504166d823f3b7547d64ae4",
@@ -33056,5 +32852,154 @@
     "market": "US x Iran ceasefire extended by April 22, 2026?",
     "market_slug": "us-x-iran-ceasefire-extended-by",
     "amount": 1817.0953999999997
+  },
+  {
+    "market": "Madrid Open: Daria Snigur vs Daria Kasatkina",
+    "market_slug": "wta-snigur-kasatki-2026",
+    "event_slug": "wta-snigur-kasatki-2026",
+    "wallet": "0xf1fa0c20cd9cafd19cd69d231e0a81ac7c102a96",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,474)",
+        "Low activity (3 txns)"
+      ],
+      "amount": 1474.032837202025,
+      "odds": 0.7299999998771929,
+      "raw_price": 0.7299999998771929,
+      "outcome": "Daria Snigur",
+      "potential_pnl": 545.190227797975,
+      "pnl_multiplier": 0.3698630139290808,
+      "wallet_age_days": 0,
+      "total_activities": 3
+    },
+    "timestamp": "2026-04-22T12:52:09.970647",
+    "trade_hash": "0x459c7e5744f95b65e2e134ab606086b1b58006b0a4d226fe6d907735316bbc10",
+    "trade_timestamp": 1776862076,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Daria Snigur",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.7299999998771929,
+      "effective_price": 0.7299999998771929,
+      "size": 2019.223065,
+      "amount": 1474.032837202025,
+      "potential_pnl": 545.190227797975,
+      "pnl_multiplier": 0.3698630139290808,
+      "is_no": false,
+      "slug": "wta-snigur-kasatki-2026",
+      "eventSlug": "wta-snigur-kasatki-2026-04-22"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+28.0%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.44949999995087714,
+      "market_price": 0.7299999998771929,
+      "edge": 0.28049999992631575,
+      "edge_percent": 28.049999992631573,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.28049999992631575,
+      "edge_percent": 28.049999992631573
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 46.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 28.05,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xb0d7ea1328d62953d2a60bd632e4830b99c5ab2d5d0e07abda552adee373912c",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xe734e7bf7cfb9e464681f71822f6c2f6be514f0c",
+      "side": "BUY",
+      "asset": "70864498837909304673347902458025849576188725084547259491384143083098151011359",
+      "conditionId": "0x35d8c42a467d4e485ffba50c5d2d984ed0793f4935319ca923b494798051c8ef",
+      "size": 12384.62984,
+      "price": 0.18873015625,
+      "timestamp": 1776862156,
+      "title": "Will WTI Crude Oil (WTI) hit (HIGH) $110 in April?",
+      "slug": "will-wti-crude-oil-wti-hit-high-110-in-april",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/crude-oil-9a850ce2a2.png",
+      "eventSlug": "what-price-will-wti-hit-in-april-2026",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "boyau",
+      "pseudonym": "Frozen-Antler",
+      "bio": "Tg",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-6142404-4a26f787-169f-4eac-ad75-b638832f118c.webp",
+      "profileImageOptimized": "",
+      "transactionHash": "0xb0d7ea1328d62953d2a60bd632e4830b99c5ab2d5d0e07abda552adee373912c",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will WTI Crude Oil (WTI) hit (HIGH) $110 in April?",
+    "market_slug": "what-price-will-wti-hit-in-april-2026",
+    "amount": 2337.3531248016125
   }
 ]
