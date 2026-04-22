@@ -1,107 +1,5 @@
 [
   {
-    "market": "Will Crude Oil (CL) hit (HIGH) $110 by end of March?",
-    "market_slug": "will-crude-oil-cl-hit-high-110-by-end-of-march-732-945",
-    "wallet": "0xa9865f94138dd1fc01eb17bf990560f2f2dc9a46",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (1d old)",
-        "Large bet ($1,956)",
-        "Low activity (2 txns)"
-      ],
-      "amount": 1956.4775,
-      "odds": 0.7126825439034252,
-      "raw_price": 0.7126825439034252,
-      "outcome": "Yes",
-      "potential_pnl": 788.7524999999999,
-      "pnl_multiplier": 0.40314928231988356,
-      "wallet_age_days": 1,
-      "total_activities": 2
-    },
-    "timestamp": "2026-03-08T08:48:58.101724",
-    "trade_hash": "0x2966054e2f803668722ff4a51f0754eaf04dca161bfef2b3edcbd48efa86aa4f",
-    "trade_timestamp": 1772959419,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "side": "SELL",
-      "price": 0.7126825439034252,
-      "effective_price": 0.7126825439034252,
-      "size": 2745.23,
-      "amount": 1956.4775,
-      "potential_pnl": 788.7524999999999,
-      "pnl_multiplier": 0.40314928231988356,
-      "is_no": false
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+49.8%)"
-      ],
-      "category": "other",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.21453650878068503,
-      "market_price": 0.7126825439034252,
-      "edge": 0.4981460351227402,
-      "edge_percent": 49.81460351227402,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "occasional",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "occasional",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Significant geopolitical tensions affecting oil supply",
-          "Unexpected disruptions in major oil-producing regions",
-          "Strong global economic recovery driving up demand"
-        ],
-        "weakest_link": "Unexpected disruptions in major oil-producing regions"
-      },
-      "category": "geopolitics",
-      "narrative_drivers": [
-        "Ongoing conflicts in oil-rich regions",
-        "Changes in OPEC production policies"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "CONFLICT",
-      "signal_emoji": "\u26a0\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider buying YES despite statistical overpricing",
-      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
-      "insider_score": 70,
-      "insider_position": "YES",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.4981460351227402,
-      "edge_percent": 49.81460351227402
-    },
-    "financial_analyst": {
-      "signal_quality": 46.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 49.81,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "market": "Knicks vs. Lakers: O/U 228.5",
     "market_slug": "nba-nyk-lal-2026-03-08-total-228pt5",
     "wallet": "0x7c83834dd1df7f591b5765e632a8a4ce2c4d5fc6",
@@ -33172,5 +33070,49 @@
     "market": "Trail Blazers vs. Spurs: O/U 219.5",
     "market_slug": "nba-por-sas-2026-04-21",
     "amount": 2438.16192
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xf88699c55cd188522930b915d9b1a465f220fe671bb5fb8c44afc2588a5ab8ab",
+    "wallet": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+    "trader": {
+      "rank": 9,
+      "address": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+      "username": "PrincessCaro",
+      "profit": 6083643.099591745,
+      "volume": 23520809.952866998,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+      "side": "BUY",
+      "asset": "12980065325359166640977057330648639529528068040517926910446520266960690396921",
+      "conditionId": "0x28a736701110c5e8d400356b8a960da1107c14e4673189851259b7d944522543",
+      "size": 2822.1775,
+      "price": 0.82,
+      "timestamp": 1776854652,
+      "title": "Madrid Open: Ignacio Buse vs Adrian Mannarino",
+      "slug": "atp-buse-mannari-2026-04-22",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+      "eventSlug": "atp-buse-mannari-2026-04-22",
+      "outcome": "Ignacio Buse",
+      "outcomeIndex": 0,
+      "name": "ferrariChampions2026",
+      "pseudonym": "Glaring-Salt",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xf88699c55cd188522930b915d9b1a465f220fe671bb5fb8c44afc2588a5ab8ab",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Madrid Open: Ignacio Buse vs Adrian Mannarino",
+    "market_slug": "atp-buse-mannari-2026-04-22",
+    "amount": 2314.1855499999997
   }
 ]
