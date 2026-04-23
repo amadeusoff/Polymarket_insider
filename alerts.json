@@ -1,107 +1,5 @@
 [
   {
-    "market": "Spread: Pistons (-15.5)",
-    "market_slug": "nba-det-bkn-2026-03-10-spread-away-15pt5",
-    "wallet": "0xd23c26e64b46f220b58a2af5f3a2cb53cf4cd954",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,250)",
-        "Low activity (4 txns)"
-      ],
-      "amount": 1249.73,
-      "odds": 0.47,
-      "raw_price": 0.47,
-      "outcome": "Pistons",
-      "potential_pnl": 1409.2700000000002,
-      "pnl_multiplier": 1.1276595744680853,
-      "wallet_age_days": 0,
-      "total_activities": 4
-    },
-    "timestamp": "2026-03-10T11:09:46.157272",
-    "trade_hash": "0xe35a1c0fe1290b43c418a71eba6208eb202d654c4eb9edad6783d7d62e61bf60",
-    "trade_timestamp": 1773140923,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Pistons",
-      "side": "BUY",
-      "price": 0.47,
-      "effective_price": 0.47,
-      "size": 2659.0,
-      "amount": 1249.73,
-      "potential_pnl": 1409.2700000000002,
-      "pnl_multiplier": 1.1276595744680853,
-      "is_no": false
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+23.6%)"
-      ],
-      "category": "other",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.23399999999999999,
-      "market_price": 0.47,
-      "edge": 0.236,
-      "edge_percent": 23.599999999999998,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Pistons must outperform their average performance",
-          "Opponent must underperform their average performance",
-          "Injuries or absences must impact key players on the opposing team"
-        ],
-        "weakest_link": "Opponent must underperform their average performance"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Team performance trends",
-        "Injury reports and player availability"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "PISTONS",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.236,
-      "edge_percent": 23.599999999999998
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 23.6,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "market": "Spread: Raptors (-2.5)",
     "market_slug": "nba-tor-nop-2026-03-11-spread-away-2pt5",
     "wallet": "0xf59313057aad47d0b3bcd6e5903d5f651406b6a1",
@@ -32534,5 +32432,49 @@
     "market": "Will MegaETH launch a token by April 30, 2026?",
     "market_slug": "will-megaeth-launch-a-token-by",
     "amount": 2268.6135999999997
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x474357cbc105caeb0196239f6ac992cebd5384cc5e5254147a784c64084de552",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "trader": {
+      "rank": 8,
+      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "username": "swisstony",
+      "profit": 6378876.572044285,
+      "volume": 683527935.2884711,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xa2c60f064b58ca18be11b22b8ab9adc6c502d14d",
+      "side": "BUY",
+      "asset": "12851403675167917203269362036178502355667846901843274308621662454843684996009",
+      "conditionId": "0x7febcd6728753347be73dae0a5dd7c459a5a459cb863090891712d32b9365c5a",
+      "size": 3968.8,
+      "price": 0.74,
+      "timestamp": 1776966934,
+      "title": "Will RCD Espanyol de Barcelona win on 2026-04-23?",
+      "slug": "lal-ray-esp-2026-04-23-esp",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-lal.png",
+      "eventSlug": "lal-ray-esp-2026-04-23",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "aiweatherman",
+      "pseudonym": "Blaring-Roast",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x474357cbc105caeb0196239f6ac992cebd5384cc5e5254147a784c64084de552",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will RCD Espanyol de Barcelona win on 2026-04-23?",
+    "market_slug": "lal-ray-esp-2026-04-23",
+    "amount": 2936.9120000000003
   }
 ]
