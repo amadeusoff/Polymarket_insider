@@ -1,209 +1,5 @@
 [
   {
-    "market": "Spread: Raptors (-2.5)",
-    "market_slug": "nba-tor-nop-2026-03-11-spread-away-2pt5",
-    "wallet": "0x9fa0cd5e73033a9ba221fa7ed8a0c7a9d8fc7667",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,099)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 1099.2,
-      "odds": 0.48,
-      "raw_price": 0.48,
-      "outcome": "Raptors",
-      "potential_pnl": 1190.8000000000002,
-      "pnl_multiplier": 1.0833333333333335,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-03-11T14:11:32.738431",
-    "trade_hash": "0x35163e43a9255a9abde5c1903143539c006cd1ba64860d57f605ed9485016bd4",
-    "trade_timestamp": 1773238189,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Raptors",
-      "side": "BUY",
-      "price": 0.48,
-      "effective_price": 0.48,
-      "size": 2290.0,
-      "amount": 1099.2,
-      "potential_pnl": 1190.8000000000002,
-      "pnl_multiplier": 1.0833333333333335,
-      "is_no": false
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+24.4%)"
-      ],
-      "category": "other",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.236,
-      "market_price": 0.48,
-      "edge": 0.244,
-      "edge_percent": 24.4,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Raptors maintain player health",
-          "Raptors perform well against spread",
-          "Opponent's performance variability"
-        ],
-        "weakest_link": "Opponent's performance variability"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "team performance trends",
-        "injury reports"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "RAPTORS",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.244,
-      "edge_percent": 24.4
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 24.4,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "Spread: Knicks (-14.5)",
-    "market_slug": "nba-nyk-uta-2026-03-11-spread-away-14pt5",
-    "wallet": "0x4fee279cfb6eb5b01c0aac25fece01fb73589f33",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,176)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 1176.0,
-      "odds": 0.49,
-      "raw_price": 0.49,
-      "outcome": "Knicks",
-      "potential_pnl": 1224.0,
-      "pnl_multiplier": 1.0408163265306123,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-03-11T15:57:37.206746",
-    "trade_hash": "0x56d7f891adc6d8032337e0eac403711f01aed1157be39f55cb1e4b571c421ae9",
-    "trade_timestamp": 1773244527,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Knicks",
-      "side": "BUY",
-      "price": 0.49,
-      "effective_price": 0.49,
-      "size": 2400.0,
-      "amount": 1176.0,
-      "potential_pnl": 1224.0,
-      "pnl_multiplier": 1.0408163265306123,
-      "is_no": false
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+25.2%)"
-      ],
-      "category": "other",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.238,
-      "market_price": 0.49,
-      "edge": 0.252,
-      "edge_percent": 25.2,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Knicks maintain a strong offensive performance",
-          "Opposing team struggles defensively",
-          "Injuries to key players on the opposing team"
-        ],
-        "weakest_link": "Opposing team struggles defensively"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Knicks' recent performance trends",
-        "Public sentiment around the Knicks' potential"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "KNICKS",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.252,
-      "edge_percent": 25.2
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 25.2,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "market": "Knicks vs. Jazz: O/U 229.5",
     "market_slug": "nba-nyk-uta-2026-03-11-total-229pt5",
     "wallet": "0xbe30ca541dc580f921f2a6ca8903825d2c519b00",
@@ -32418,5 +32214,93 @@
     "market": "VfB Stuttgart vs. SC Freiburg: O/U 2.5",
     "market_slug": "dfb-stu-scf-2026-04-23-more-markets",
     "amount": 1971.342095969221
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x29d8e12e4e8e1e3535d1cdbfecfe0fb24f82df703a2ad1e47971b9d34ae2e081",
+    "wallet": "0xd0c042c08f755ff940249f62745e82d356345565",
+    "trader": {
+      "rank": 16,
+      "address": "0xd0c042c08f755ff940249f62745e82d356345565",
+      "username": "alexmulti",
+      "profit": 4804855.613376001,
+      "volume": 9949068.653841998,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+      "side": "BUY",
+      "asset": "93708045915820559964012762549341487347332679529558469364029698133739296890890",
+      "conditionId": "0xd8470dc598b48bf60248989f5298fd5b89a0bbcc17c0b78c3ae171ce536da5df",
+      "size": 4693.59952,
+      "price": 0.48,
+      "timestamp": 1776986028,
+      "title": "Spread: Knicks (-1.5)",
+      "slug": "nba-nyk-atl-2026-04-23-spread-away-1pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-nyk-atl-2026-04-23",
+      "outcome": "Knicks",
+      "outcomeIndex": 0,
+      "name": "ferrariChampions2026",
+      "pseudonym": "Glaring-Salt",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x29d8e12e4e8e1e3535d1cdbfecfe0fb24f82df703a2ad1e47971b9d34ae2e081",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spread: Knicks (-1.5)",
+    "market_slug": "nba-nyk-atl-2026-04-23",
+    "amount": 2252.9277696
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x8070f50ed2b441d9bbe22c50f438082dcd5d047b8e501fc6fd7f4667092f069d",
+    "wallet": "0xd0c042c08f755ff940249f62745e82d356345565",
+    "trader": {
+      "rank": 16,
+      "address": "0xd0c042c08f755ff940249f62745e82d356345565",
+      "username": "alexmulti",
+      "profit": 4804855.613376001,
+      "volume": 9949068.653841998,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+      "side": "BUY",
+      "asset": "93708045915820559964012762549341487347332679529558469364029698133739296890890",
+      "conditionId": "0xd8470dc598b48bf60248989f5298fd5b89a0bbcc17c0b78c3ae171ce536da5df",
+      "size": 4922,
+      "price": 0.48,
+      "timestamp": 1776986028,
+      "title": "Spread: Knicks (-1.5)",
+      "slug": "nba-nyk-atl-2026-04-23-spread-away-1pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-nyk-atl-2026-04-23",
+      "outcome": "Knicks",
+      "outcomeIndex": 0,
+      "name": "STOPTHECAP",
+      "pseudonym": "Self-Reliant-Camp",
+      "bio": "We are not here to make money  We are here to make history",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x8070f50ed2b441d9bbe22c50f438082dcd5d047b8e501fc6fd7f4667092f069d",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spread: Knicks (-1.5)",
+    "market_slug": "nba-nyk-atl-2026-04-23",
+    "amount": 2362.56
   }
 ]
