@@ -1,209 +1,5 @@
 [
   {
-    "market": "76ers vs. Cavaliers: O/U 226.5",
-    "market_slug": "nba-phi-cle-2026-03-09-total-226pt5",
-    "wallet": "0x474e0c60fd6c590ef157b99cfd932a125fdd6d16",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,298)",
-        "Low activity (2 txns)"
-      ],
-      "amount": 1298.0,
-      "odds": 0.5,
-      "raw_price": 0.5,
-      "outcome": "Under",
-      "potential_pnl": 1298.0,
-      "pnl_multiplier": 1.0,
-      "wallet_age_days": 0,
-      "total_activities": 2
-    },
-    "timestamp": "2026-03-09T10:12:39.718494",
-    "trade_hash": "0x2c180f723c65a40f1877eaa8f7fb287b4dc9c41271121de6a703c89c285013ba",
-    "trade_timestamp": 1773051021,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Under",
-      "side": "BUY",
-      "price": 0.5,
-      "effective_price": 0.5,
-      "size": 2596.0,
-      "amount": 1298.0,
-      "potential_pnl": 1298.0,
-      "pnl_multiplier": 1.0,
-      "is_no": false
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+26.0%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.24,
-      "market_price": 0.5,
-      "edge": 0.26,
-      "edge_percent": 26.0,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Both teams have high-scoring offenses",
-          "Defensive strategies are ineffective",
-          "Game pace is fast"
-        ],
-        "weakest_link": "Defensive strategies are ineffective"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent offensive performances",
-        "Injury reports affecting key players"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "UNDER",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.26,
-      "edge_percent": 26.0
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 26.0,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "Knicks vs. Clippers",
-    "market_slug": "nba-nyk-lac-2026",
-    "wallet": "0x8aa04f4ce591fd86e59603efa1aa4cfca9f5ae70",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,111)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 1110.8293,
-      "odds": 0.5598740467826236,
-      "raw_price": 0.5598740467826236,
-      "outcome": "Knicks",
-      "potential_pnl": 873.2407,
-      "pnl_multiplier": 0.7861160126042767,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-03-09T14:11:41.586555",
-    "trade_hash": "0x329102cc5c3cf69b640ceaa1d6474c41aea9dfdadb1feb3b42c20b0dc03d1171",
-    "trade_timestamp": 1773065379,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Knicks",
-      "side": "BUY",
-      "price": 0.5598740467826236,
-      "effective_price": 0.5598740467826236,
-      "size": 1984.07,
-      "amount": 1110.8293,
-      "potential_pnl": 873.2407,
-      "pnl_multiplier": 0.7861160126042767,
-      "is_no": false
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+30.8%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.2519748093565247,
-      "market_price": 0.5598740467826236,
-      "edge": 0.3078992374260989,
-      "edge_percent": 30.789923742609894,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Knicks maintain a strong performance",
-          "Clippers face significant injuries",
-          "Market sentiment shifts favorably towards Knicks"
-        ],
-        "weakest_link": "Clippers face significant injuries"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "team performance fluctuations",
-        "injury impacts on key players"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "KNICKS",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.3078992374260989,
-      "edge_percent": 30.789923742609894
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 30.79,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "market": "LoL: Bilibili Gaming vs BNK FEARX (BO5) - First Stand Group A",
     "market_slug": "lol-blg-fox1-2026",
     "wallet": "0xbea2c79311175c5dffdf0e9f3b6ead503aa92662",
@@ -32708,5 +32504,93 @@
     "market": "Suns vs. Thunder",
     "market_slug": "nba-phx-okc-2026-04-22",
     "amount": 4094.9727000000003
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x2bc8da293571c799294f87a2d9eb4b45be057ee2a10ef6ff64009b0c0b2b9da6",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x02571ed3bfa4162c80b288310745503275a822b2",
+      "side": "SELL",
+      "asset": "43039489606620012356637526705255798725566831498132376180838488246982982629742",
+      "conditionId": "0x348e242d17cacf0c0c9455c8238d0d5bfb5f42f7faf7e54aa0547f0e09543253",
+      "size": 2000,
+      "price": 0.9,
+      "timestamp": 1776938392,
+      "title": "Madrid Open: Belinda Bencic vs Petra Marcinko",
+      "slug": "wta-bencic-marcink-2026-04-23",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wta-logo-41f331bdf1.png",
+      "eventSlug": "wta-bencic-marcink-2026-04-23",
+      "outcome": "Belinda Bencic",
+      "outcomeIndex": 0,
+      "name": "kkkkkkmoji",
+      "pseudonym": "Good-Natured-Announcement",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3421351-a281d01d-a9b8-448d-a53c-046f3bbaf770.webp",
+      "profileImageOptimized": "",
+      "transactionHash": "0x2bc8da293571c799294f87a2d9eb4b45be057ee2a10ef6ff64009b0c0b2b9da6",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Madrid Open: Belinda Bencic vs Petra Marcinko",
+    "market_slug": "wta-bencic-marcink-2026-04-23",
+    "amount": 1800.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xbb0f569813d9c2cd6e17197a06d509f35799e113e5309f2827c2f04639c34393",
+    "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
+    "trader": {
+      "rank": 18,
+      "address": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
+      "username": "432614799197",
+      "profit": 4526176.046413309,
+      "volume": 185485956.8620829,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x3a090da22b2bcfee0f3125a26265efbcd356f9f7",
+      "side": "BUY",
+      "asset": "71525312381644432493211198050974139882914121079051960247193554836663916459490",
+      "conditionId": "0x6fcd7cf359c2f7f2e29fc422dc259dc0b47d639a7322d5bd6febaad58885112c",
+      "size": 10283.6422,
+      "price": 0.18,
+      "timestamp": 1776939294,
+      "title": "LoL: Gen.G vs DN SOOPers - Game 1 Winner",
+      "slug": "lol-gen-dnf-2026-04-23-game1",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
+      "eventSlug": "lol-gen-dnf-2026-04-23",
+      "outcome": "DN SOOPers",
+      "outcomeIndex": 1,
+      "name": "sika110",
+      "pseudonym": "Fat-Solidarity",
+      "bio": "2026 worlds winner",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3301960-396aefda-fea0-44e2-99f7-86b1198c3307.webp",
+      "profileImageOptimized": "",
+      "transactionHash": "0xbb0f569813d9c2cd6e17197a06d509f35799e113e5309f2827c2f04639c34393",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "LoL: Gen.G vs DN SOOPers - Game 1 Winner",
+    "market_slug": "lol-gen-dnf-2026-04-23",
+    "amount": 1851.055596
   }
 ]
