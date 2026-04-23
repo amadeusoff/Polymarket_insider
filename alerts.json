@@ -2,108 +2,6 @@
   {
     "market": "Spread: Raptors (-2.5)",
     "market_slug": "nba-tor-nop-2026-03-11-spread-away-2pt5",
-    "wallet": "0xf59313057aad47d0b3bcd6e5903d5f651406b6a1",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,230)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 1229.8,
-      "odds": 0.52,
-      "raw_price": 0.52,
-      "outcome": "Pelicans",
-      "potential_pnl": 1135.1999999999998,
-      "pnl_multiplier": 0.923076923076923,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-03-11T14:11:27.355455",
-    "trade_hash": "0x9120f69ceb1cd8706cb6a1b00d65941c46bf82fdcf06b5236780a0481ed0cb02",
-    "trade_timestamp": 1773238189,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Pelicans",
-      "side": "BUY",
-      "price": 0.52,
-      "effective_price": 0.52,
-      "size": 2365.0,
-      "amount": 1229.8,
-      "potential_pnl": 1135.1999999999998,
-      "pnl_multiplier": 0.923076923076923,
-      "is_no": false
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+27.6%)"
-      ],
-      "category": "other",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.244,
-      "market_price": 0.52,
-      "edge": 0.276,
-      "edge_percent": 27.6,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Raptors' key players perform at peak levels",
-          "Opposing team has significant injuries",
-          "Home court advantage favors Raptors"
-        ],
-        "weakest_link": "Opposing team has significant injuries"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Raptors' recent performance trends",
-        "Public sentiment around Raptors' playoff chances"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "PELICANS",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.276,
-      "edge_percent": 27.6
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 27.6,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "Spread: Raptors (-2.5)",
-    "market_slug": "nba-tor-nop-2026-03-11-spread-away-2pt5",
     "wallet": "0x9fa0cd5e73033a9ba221fa7ed8a0c7a9d8fc7667",
     "analysis": {
       "score": 70,
@@ -32476,5 +32374,49 @@
     "market": "Will RCD Espanyol de Barcelona win on 2026-04-23?",
     "market_slug": "lal-ray-esp-2026-04-23",
     "amount": 2936.9120000000003
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x61b58f1e4eed054cf8499786f8a826f14d969388b07d378e077e932b62028482",
+    "wallet": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+    "trader": {
+      "rank": 10,
+      "address": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+      "username": "walletmobile",
+      "profit": 5942685.45339684,
+      "volume": 32196692.075936034,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x6638149a08e420622058af61eb120913dc580b09",
+      "side": "BUY",
+      "asset": "12860177217366999072400617750762974759063549768492200443696925713456154239676",
+      "conditionId": "0xc6077546b7a4cf35162c6c483fc8b15c40358cee7985cd5837a0152736d2c90c",
+      "size": 3773.85548,
+      "price": 0.5223682004826589,
+      "timestamp": 1776971440,
+      "title": "VfB Stuttgart vs. SC Freiburg: O/U 2.5",
+      "slug": "dfb-stu-scf-2026-04-23-total-2pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/DFB-Pokal-ebed3c1834.png",
+      "eventSlug": "dfb-stu-scf-2026-04-23-more-markets",
+      "outcome": "Under",
+      "outcomeIndex": 1,
+      "name": "leopaw",
+      "pseudonym": "Sinful-Nature",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x61b58f1e4eed054cf8499786f8a826f14d969388b07d378e077e932b62028482",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "VfB Stuttgart vs. SC Freiburg: O/U 2.5",
+    "market_slug": "dfb-stu-scf-2026-04-23-more-markets",
+    "amount": 1971.342095969221
   }
 ]
