@@ -1,107 +1,5 @@
 [
   {
-    "market": "Knicks vs. Jazz: O/U 229.5",
-    "market_slug": "nba-nyk-uta-2026-03-11-total-229pt5",
-    "wallet": "0xbe30ca541dc580f921f2a6ca8903825d2c519b00",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,873)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 1872.78,
-      "odds": 0.49,
-      "raw_price": 0.49,
-      "outcome": "Under",
-      "potential_pnl": 1949.22,
-      "pnl_multiplier": 1.0408163265306123,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-03-11T16:41:50.157931",
-    "trade_hash": "0xb862c9b0c349147048021a503f1486a928f5ed7fd739dd0c61f3c94828be029b",
-    "trade_timestamp": 1773247271,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Under",
-      "side": "BUY",
-      "price": 0.49,
-      "effective_price": 0.49,
-      "size": 3822.0,
-      "amount": 1872.78,
-      "potential_pnl": 1949.22,
-      "pnl_multiplier": 1.0408163265306123,
-      "is_no": false
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+25.2%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.238,
-      "market_price": 0.49,
-      "edge": 0.252,
-      "edge_percent": 25.2,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Both teams have high-scoring offenses",
-          "Defensive strategies are less effective than usual",
-          "Game pace is faster than average"
-        ],
-        "weakest_link": "Defensive strategies are less effective than usual"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent performance of both teams suggests offensive strength",
-        "Injuries or absences affecting defensive players"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "UNDER",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.252,
-      "edge_percent": 25.2
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 25.2,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "market": "Will Bayer 04 Leverkusen win on 2026-03-17?",
     "market_slug": "ucl-ars-lev-2026-03-17-lev",
     "wallet": "0x790e8a6d067a0dab20de637b38add04f75080e43",
@@ -32302,5 +32200,49 @@
     "market": "Spread: Knicks (-1.5)",
     "market_slug": "nba-nyk-atl-2026-04-23",
     "amount": 2362.56
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x09d8990d0bdf86bed4337cded63b818e9a6a6200e9fba119ba70a2ee610798e6",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "trader": {
+      "rank": 7,
+      "address": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+      "username": "RN1",
+      "profit": 7480867.234999885,
+      "volume": 452298967.955869,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x0eb75bf6f54794a83bd26095811f30b530161f17",
+      "side": "SELL",
+      "asset": "92430469735954963360049025962310229515467044409334320200786108488083599918032",
+      "conditionId": "0xc637ae2f8d5c241d44b93950a422bbd0988a872abb2d6f4f4c4e895681af5f29",
+      "size": 70414.29,
+      "price": 0.16758628113696808,
+      "timestamp": 1776989028,
+      "title": "Knicks vs. Hawks",
+      "slug": "nba-nyk-atl-2026-04-23",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-nyk-atl-2026-04-23",
+      "outcome": "Knicks",
+      "outcomeIndex": 0,
+      "name": "elshark206",
+      "pseudonym": "Untried-Android",
+      "bio": "All glory to GOD praisethelordjesuschrist",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-5838103-f07161f5-62c8-4041-a834-5e418d7f280e.webp",
+      "profileImageOptimized": "",
+      "transactionHash": "0x09d8990d0bdf86bed4337cded63b818e9a6a6200e9fba119ba70a2ee610798e6",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Knicks vs. Hawks",
+    "market_slug": "nba-nyk-atl-2026-04-23",
+    "amount": 11800.469
   }
 ]
