@@ -2,108 +2,6 @@
   {
     "market": "76ers vs. Pistons: O/U 220.5",
     "market_slug": "nba-phi-det-2026-03-12-total-220pt5",
-    "wallet": "0x96d303d0675ceee8f6ff74f1522af5108c84ab05",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,757)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 1757.46,
-      "odds": 0.51,
-      "raw_price": 0.51,
-      "outcome": "Under",
-      "potential_pnl": 1688.54,
-      "pnl_multiplier": 0.9607843137254901,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-03-12T11:54:53.258831",
-    "trade_hash": "0x808089b6ca8ed3ffb6d1edf6dc5b6fcbc099d0d40eddb2ba4be017df1d294569",
-    "trade_timestamp": 1773316127,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Under",
-      "side": "BUY",
-      "price": 0.51,
-      "effective_price": 0.51,
-      "size": 3446.0,
-      "amount": 1757.46,
-      "potential_pnl": 1688.54,
-      "pnl_multiplier": 0.9607843137254901,
-      "is_no": false
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+26.8%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.242,
-      "market_price": 0.51,
-      "edge": 0.268,
-      "edge_percent": 26.8,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Both teams have high offensive efficiency",
-          "Both teams have low defensive efficiency",
-          "Game pace is fast"
-        ],
-        "weakest_link": "Both teams have low defensive efficiency"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent scoring trends of both teams",
-        "Injury status of key players"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "UNDER",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.268,
-      "edge_percent": 26.8
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 26.8,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "76ers vs. Pistons: O/U 220.5",
-    "market_slug": "nba-phi-det-2026-03-12-total-220pt5",
     "wallet": "0x2e2cd607c6c6309801823cc17c11162b3d195992",
     "analysis": {
       "score": 70,
@@ -32126,5 +32024,117 @@
     "market": "LoL: JD Gaming vs Invictus Gaming - Game 2 Winner",
     "market_slug": "lol-jdg-ig1-2026-04-24",
     "amount": 3381.176
+  },
+  {
+    "market": "Kharg Island no longer under Iranian control by April 30?",
+    "market_slug": "kharg-island-no-longer-under-iranian-control-by-april",
+    "event_slug": "kharg-island-no-longer-under-iranian-control-by-april",
+    "wallet": "0x74471a007ddcc488f6d57b5e86dfb35a8d48a16d",
+    "analysis": {
+      "score": 85,
+      "flags": [
+        "Against trend (4.2% effective odds)",
+        "Large bet ($1,236)",
+        "Pre-event latency: 7795m"
+      ],
+      "amount": 1235.8987,
+      "odds": 0.041936523394422255,
+      "raw_price": 0.041936523394422255,
+      "outcome": "Yes",
+      "potential_pnl": 28234.8013,
+      "pnl_multiplier": 22.84556274717337,
+      "wallet_age_days": 215,
+      "total_activities": 100
+    },
+    "timestamp": "2026-04-24T14:10:50.692416",
+    "trade_hash": "0x6e51d0750f74388386db447fb8ebacd633f1935a6bc0f5f53608170335ff1bb1",
+    "trade_timestamp": 1777039508,
+    "latency": {
+      "latency_seconds": 467692.0,
+      "latency_minutes": 7794.866666666667,
+      "is_pre_event": true,
+      "severity": "CRITICAL",
+      "trade_time": "2026-04-24T14:05:08+00:00",
+      "event_time": "2026-04-30T00:00:00+00:00"
+    },
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.041936523394422255,
+      "effective_price": 0.041936523394422255,
+      "size": 29470.7,
+      "amount": 1235.8987,
+      "potential_pnl": 28234.8013,
+      "pnl_multiplier": 22.84556274717337,
+      "is_no": false,
+      "slug": "kharg-island-no-longer-under-iranian-control-by-april",
+      "eventSlug": "kharg-island-no-longer-under-iranian-control-by-march-31"
+    },
+    "irrationality": {
+      "irrationality_score": 40,
+      "flags": [
+        "Longshot (4%) in high bias category (geopolitics)",
+        "Category structurally prone to longshot bias"
+      ],
+      "category": "geopolitics",
+      "category_info": {
+        "strength": "high",
+        "typical_overpricing": 0.05,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.022174609357768903,
+      "market_price": 0.041936523394422255,
+      "edge": 0.019761914036653352,
+      "edge_percent": 1.9761914036653352,
+      "min_edge_required": 0.05,
+      "is_mispriced": false,
+      "edge_quality": "WEAK",
+      "base_rate_class": "historically_near_zero",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "historically_near_zero",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "geopolitics",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 85,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 85,
+      "insider_position": "YES",
+      "irrationality_score": 40,
+      "is_irrational": true,
+      "is_mispriced": false,
+      "edge": 0.019761914036653352,
+      "edge_percent": 1.9761914036653352
+    },
+    "financial_analyst": {
+      "signal_quality": 33.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 1.98,
+      "signal_strength": 85.0,
+      "insider_score": 85.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
