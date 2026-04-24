@@ -1,107 +1,5 @@
 [
   {
-    "market": "Spread: Rockets (-7.5)",
-    "market_slug": "nba-nop-hou-2026-03-13-spread-home-7pt5",
-    "wallet": "0xe2f01eda99dd66bbd841bf69a6b5b62a8ee68b05",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($2,340)",
-        "Low activity (3 txns)"
-      ],
-      "amount": 2339.9500000000003,
-      "odds": 0.53,
-      "raw_price": 0.53,
-      "outcome": "Pelicans",
-      "potential_pnl": 2075.05,
-      "pnl_multiplier": 0.8867924528301886,
-      "wallet_age_days": 0,
-      "total_activities": 3
-    },
-    "timestamp": "2026-03-13T08:24:03.600762",
-    "trade_hash": "0xbf0726fedb278fc3bc219fdc79dbefd0f1007fe276c4ad8707fea3c05549af7a",
-    "trade_timestamp": 1773389955,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Pelicans",
-      "side": "BUY",
-      "price": 0.53,
-      "effective_price": 0.53,
-      "size": 4415.0,
-      "amount": 2339.9500000000003,
-      "potential_pnl": 2075.05,
-      "pnl_multiplier": 0.8867924528301886,
-      "is_no": false
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+28.4%)"
-      ],
-      "category": "other",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.246,
-      "market_price": 0.53,
-      "edge": 0.28400000000000003,
-      "edge_percent": 28.400000000000002,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Rockets perform well at home",
-          "Key players on the opposing team are injured",
-          "Recent performance trends favor the Rockets"
-        ],
-        "weakest_link": "Key players on the opposing team are injured"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Rockets' recent form",
-        "Public sentiment towards the Rockets"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "PELICANS",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.28400000000000003,
-      "edge_percent": 28.400000000000002
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 28.4,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "market": "Timberwolves vs. Warriors: O/U 227.5",
     "market_slug": "nba-min-gsw-2026-03-13-total-227pt5",
     "wallet": "0xfaa2bde02ebef4cec23e23fb5b775b04f7837abf",
@@ -31962,5 +31860,49 @@
     "market": "Will Real Madrid CF win on 2026-04-24?",
     "market_slug": "lal-bet-rea-2026-04-24",
     "amount": 1982.403895403234
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x1b68a7800f6e4b79a783b8b6c6deea25fdfacee6a63ade92d3042440d8863060",
+    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
+    "trader": {
+      "rank": 17,
+      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
+      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
+      "profit": 4552086.420657738,
+      "volume": 60196808.493647985,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xa6766cd5995896bd3515023b519132a83e3ea4c5",
+      "side": "BUY",
+      "asset": "36396155640721324596105868810203565776864709102749790060802942779378515528532",
+      "conditionId": "0x230ce01b35d4adbccac6f3424eceddb141a153cf22beea08f8e9800a16602e9e",
+      "size": 7662.6781,
+      "price": 0.51,
+      "timestamp": 1777062858,
+      "title": "Spread: Spurs (-2.5)",
+      "slug": "nba-sas-por-2026-04-24-spread-away-2pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-sas-por-2026-04-24",
+      "outcome": "Spurs",
+      "outcomeIndex": 0,
+      "name": "0xA6766cD5995896bd3515023b519132a83E3ea4c5-1721373149931",
+      "pseudonym": "Fuzzy-Yoga",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x1b68a7800f6e4b79a783b8b6c6deea25fdfacee6a63ade92d3042440d8863060",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spread: Spurs (-2.5)",
+    "market_slug": "nba-sas-por-2026-04-24",
+    "amount": 3907.965831
   }
 ]
