@@ -2,210 +2,6 @@
   {
     "market": "Spread: Rockets (-7.5)",
     "market_slug": "nba-nop-hou-2026-03-13-spread-home-7pt5",
-    "wallet": "0x3180d6bb60420e0303ba04ef741f3ee40accb045",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($2,250)",
-        "Low activity (3 txns)"
-      ],
-      "amount": 2249.85,
-      "odds": 0.53,
-      "raw_price": 0.53,
-      "outcome": "Pelicans",
-      "potential_pnl": 1995.1499999999996,
-      "pnl_multiplier": 0.8867924528301886,
-      "wallet_age_days": 0,
-      "total_activities": 3
-    },
-    "timestamp": "2026-03-13T08:23:51.883548",
-    "trade_hash": "0xdd5f0e836f3f4e16fe417c4e378077448c51f20df5fd18e576839b8e88d85af5",
-    "trade_timestamp": 1773389959,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Pelicans",
-      "side": "BUY",
-      "price": 0.53,
-      "effective_price": 0.53,
-      "size": 4245.0,
-      "amount": 2249.85,
-      "potential_pnl": 1995.1499999999996,
-      "pnl_multiplier": 0.8867924528301886,
-      "is_no": false
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+28.4%)"
-      ],
-      "category": "other",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.246,
-      "market_price": 0.53,
-      "edge": 0.28400000000000003,
-      "edge_percent": 28.400000000000002,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Rockets perform well at home",
-          "Opponent struggles against spread",
-          "Key players remain healthy"
-        ],
-        "weakest_link": "Opponent struggles against spread"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Rockets' recent performance trends",
-        "Public sentiment on team strength"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "PELICANS",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.28400000000000003,
-      "edge_percent": 28.400000000000002
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 28.4,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "Spread: Rockets (-7.5)",
-    "market_slug": "nba-nop-hou-2026-03-13-spread-home-7pt5",
-    "wallet": "0xb449651abe04a8eb378d22c758887100d123ad68",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,976)",
-        "Low activity (3 txns)"
-      ],
-      "amount": 1975.8400000000001,
-      "odds": 0.53,
-      "raw_price": 0.53,
-      "outcome": "Pelicans",
-      "potential_pnl": 1752.1599999999999,
-      "pnl_multiplier": 0.8867924528301886,
-      "wallet_age_days": 0,
-      "total_activities": 3
-    },
-    "timestamp": "2026-03-13T08:23:58.813493",
-    "trade_hash": "0x96df89044c43d2a63eecc16d3c80e45e6ae358174125970ea5c7113e2b19d69f",
-    "trade_timestamp": 1773389955,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Pelicans",
-      "side": "BUY",
-      "price": 0.53,
-      "effective_price": 0.53,
-      "size": 3728.0,
-      "amount": 1975.8400000000001,
-      "potential_pnl": 1752.1599999999999,
-      "pnl_multiplier": 0.8867924528301886,
-      "is_no": false
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+28.4%)"
-      ],
-      "category": "other",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.246,
-      "market_price": 0.53,
-      "edge": 0.28400000000000003,
-      "edge_percent": 28.400000000000002,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Rockets' key players perform at peak level",
-          "Opposing team has significant injuries",
-          "Home court advantage favors Rockets"
-        ],
-        "weakest_link": "Opposing team has significant injuries"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Rockets' recent performance trends",
-        "Public sentiment around the team's chances"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "PELICANS",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.28400000000000003,
-      "edge_percent": 28.400000000000002
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 28.4,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "Spread: Rockets (-7.5)",
-    "market_slug": "nba-nop-hou-2026-03-13-spread-home-7pt5",
     "wallet": "0xe2f01eda99dd66bbd841bf69a6b5b62a8ee68b05",
     "analysis": {
       "score": 70,
@@ -32078,5 +31874,93 @@
     "market": "Will WTI Crude Oil (WTI) hit (HIGH) $100 in April?",
     "market_slug": "what-price-will-wti-hit-in-april-2026",
     "amount": 1941.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xa1e30c5aed9e486ddfe3ee5596a2ffd1ec1816b4cfb7de94836fd9ca344da368",
+    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+    "trader": {
+      "rank": 12,
+      "address": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+      "username": "BetTom42",
+      "profit": 5642135.735356,
+      "volume": 11212839.523403,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x0dcf5b49627c5194805bd1af846fd0bd3388c556",
+      "side": "BUY",
+      "asset": "45364622190952946837768686530752491505159705356265147972295578210659774777014",
+      "conditionId": "0x1a50551e34da9eb966dee2fb74cbb9984cc459fb6b721144b21dd2a0fd64a36e",
+      "size": 3825.74,
+      "price": 0.5,
+      "timestamp": 1777055954,
+      "title": "Dota 2: Team Liquid vs BetBoom Team - Game 2 Winner",
+      "slug": "dota2-liquid-bb4-2026-04-24-game2",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/dota2-7ffacddb21.jpg",
+      "eventSlug": "dota2-liquid-bb4-2026-04-24",
+      "outcome": "BetBoom Team",
+      "outcomeIndex": 1,
+      "name": "0x0dcf5B49627C5194805bD1AF846Fd0bd3388c556-1769755919166",
+      "pseudonym": "Insignificant-Wrestler",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xa1e30c5aed9e486ddfe3ee5596a2ffd1ec1816b4cfb7de94836fd9ca344da368",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Dota 2: Team Liquid vs BetBoom Team - Game 2 Winner",
+    "market_slug": "dota2-liquid-bb4-2026-04-24",
+    "amount": 1912.87
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x378e19e09d3a3dc174c02862933a3c10a84a7ee50a5e2b7060ed1c617b1d7856",
+    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+    "trader": {
+      "rank": 12,
+      "address": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+      "username": "BetTom42",
+      "profit": 5642135.735356,
+      "volume": 11212839.523403,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x7c14ab160d9a8587b281dcbedb7fcf83cc0552c8",
+      "side": "BUY",
+      "asset": "1025166382000609751009726938143922559179829173906940972697092796893369839377",
+      "conditionId": "0x6c5d0f491c20cb5ba6adaee566a4655f7da7a94212015fcd082fceadebb2168a",
+      "size": 3887.066462,
+      "price": 0.5099999999442341,
+      "timestamp": 1777055954,
+      "title": "Will Real Madrid CF win on 2026-04-24?",
+      "slug": "lal-bet-rea-2026-04-24-rea",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-lal.png",
+      "eventSlug": "lal-bet-rea-2026-04-24",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "0x7C14aB160d9A8587b281DCbedb7fcf83Cc0552C8-1775500920860",
+      "pseudonym": "Discrete-Extremist-Spot",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x378e19e09d3a3dc174c02862933a3c10a84a7ee50a5e2b7060ed1c617b1d7856",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Real Madrid CF win on 2026-04-24?",
+    "market_slug": "lal-bet-rea-2026-04-24",
+    "amount": 1982.403895403234
   }
 ]
