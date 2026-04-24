@@ -1,218 +1,5 @@
 [
   {
-    "market": "Will Bayer 04 Leverkusen win on 2026-03-17?",
-    "market_slug": "ucl-ars-lev-2026-03-17-lev",
-    "wallet": "0x790e8a6d067a0dab20de637b38add04f75080e43",
-    "analysis": {
-      "score": 80,
-      "flags": [
-        "New wallet (3d old)",
-        "Large bet ($1,500)",
-        "Pre-event latency: 7492m"
-      ],
-      "amount": 1500.0000000000002,
-      "odds": 0.11254943030292117,
-      "raw_price": 0.11254943030292117,
-      "outcome": "Yes",
-      "potential_pnl": 11827.4775,
-      "pnl_multiplier": 7.8849849999999995,
-      "wallet_age_days": 3,
-      "total_activities": 47
-    },
-    "timestamp": "2026-03-11T19:09:21.086562",
-    "trade_hash": "0x33a1617566772efb286140397605a52460d4661680929dd0876c9dd3b148e3a5",
-    "trade_timestamp": 1773256073,
-    "latency": {
-      "latency_seconds": 449527.0,
-      "latency_minutes": 7492.116666666667,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-03-11T19:07:53+00:00",
-      "event_time": "2026-03-17T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "side": "BUY",
-      "price": 0.11254943030292117,
-      "effective_price": 0.11254943030292117,
-      "size": 13327.4775,
-      "amount": 1500.0000000000002,
-      "potential_pnl": 11827.4775,
-      "pnl_multiplier": 7.8849849999999995,
-      "is_no": false
-    },
-    "irrationality": {
-      "irrationality_score": 25,
-      "flags": [
-        "Longshot (11%) in medium bias category (politics_near)"
-      ],
-      "category": "politics_near",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.02,
-        "min_edge": 0.03
-      },
-      "is_irrational": false
-    },
-    "mispricing": {
-      "rational_estimate": 0.08250988606058424,
-      "market_price": 0.11254943030292117,
-      "edge": 0.03003954424233693,
-      "edge_percent": 3.003954424233693,
-      "min_edge_required": 0.05,
-      "is_mispriced": false,
-      "edge_quality": "WEAK",
-      "base_rate_class": "occasional",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "occasional",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "team form leading up to the match",
-          "injury status of key players",
-          "performance against similar opponents"
-        ],
-        "weakest_link": "injury status of key players"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "team's current league standing",
-        "historical performance in similar matches"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 80,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 80,
-      "insider_position": "YES",
-      "irrationality_score": 25,
-      "is_irrational": false,
-      "is_mispriced": false,
-      "edge": 0.03003954424233693,
-      "edge_percent": 3.003954424233693
-    },
-    "financial_analyst": {
-      "signal_quality": 30.5,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 3.0,
-      "signal_strength": 80.0,
-      "insider_score": 80.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "Will L\u00ea Minh H\u01b0ng be the next Prime Minister of Vietnam?",
-    "market_slug": "will-l-minh-hng-be-the-next-prime-minister-of-vietnam",
-    "wallet": "0x6cc61b8b06caaa7c30f60fc19555cbc9d0477b8b",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($3,028)",
-        "Low activity (2 txns)"
-      ],
-      "amount": 3028.455065,
-      "odds": 0.8590252917771979,
-      "raw_price": 0.14097470822280206,
-      "outcome": "No",
-      "potential_pnl": 496.99999899999995,
-      "pnl_multiplier": 0.1641100786813226,
-      "wallet_age_days": 0,
-      "total_activities": 2
-    },
-    "timestamp": "2026-03-12T03:32:24.585733",
-    "trade_hash": "0x77d49f16b7571b083e1e2e183b3c45faa0ff0f4b94bc11c6e8594ae8ef62dfe0",
-    "trade_timestamp": 1773286027,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "BUY",
-      "price": 0.14097470822280206,
-      "effective_price": 0.8590252917771979,
-      "size": 3525.455064,
-      "amount": 3028.455065,
-      "potential_pnl": 496.99999899999995,
-      "pnl_multiplier": 0.1641100786813226,
-      "is_no": true
-    },
-    "irrationality": {
-      "irrationality_score": 33,
-      "flags": [
-        "Longshot (14%) in medium bias category (other)",
-        "Moderate mispricing edge (+9.3%)"
-      ],
-      "category": "other",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.04819494164456042,
-      "market_price": 0.14097470822280206,
-      "edge": 0.09277976657824163,
-      "edge_percent": 9.277976657824164,
-      "min_edge_required": 0.03,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "rare",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "rare",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "L\u00ea Minh H\u01b0ng gains significant political support within the ruling party",
-          "L\u00ea Minh H\u01b0ng is nominated as a candidate for Prime Minister",
-          "The current Prime Minister resigns or is removed from office"
-        ],
-        "weakest_link": "L\u00ea Minh H\u01b0ng gaining significant political support within the ruling party"
-      },
-      "category": "politics_near",
-      "narrative_drivers": [
-        "Internal party dynamics and power struggles",
-        "Public perception and approval ratings of current leadership"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "ALPHA",
-      "signal_emoji": "\ud83d\udd25",
-      "signal_strength": 103,
-      "interpretation": "Smart money (NO) confirms YES is overpriced",
-      "action_suggestion": "High conviction: insider + statistics aligned",
-      "insider_score": 70,
-      "insider_position": "NO",
-      "irrationality_score": 33,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.09277976657824163,
-      "edge_percent": 9.277976657824164
-    },
-    "financial_analyst": {
-      "signal_quality": 69.5,
-      "stance": "SELECTIVE",
-      "edge_percent": 9.28,
-      "signal_strength": 103.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-03-29T06:55:43.642380+00:00"
-  },
-  {
     "market": "Will L\u00ea Minh H\u01b0ng be the next Prime Minister of Vietnam?",
     "market_slug": "will-l-minh-hng-be-the-next-prime-minister-of-vietnam",
     "wallet": "0x6cc61b8b06caaa7c30f60fc19555cbc9d0477b8b",
@@ -32244,5 +32031,160 @@
     "market": "Knicks vs. Hawks",
     "market_slug": "nba-nyk-atl-2026-04-23",
     "amount": 11800.469
+  },
+  {
+    "market": "US x Iran permanent peace deal by April 30, 2026?",
+    "market_slug": "us-x-iran-permanent-peace-deal-by-april-30-2026-925",
+    "event_slug": "us-x-iran-permanent-peace-deal-by-april-30-2026-925",
+    "wallet": "0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b",
+    "analysis": {
+      "score": 85,
+      "flags": [
+        "Against trend (6.0% effective odds)",
+        "Large bet ($1,200)",
+        "Pre-event latency: 7971m"
+      ],
+      "amount": 1200.0,
+      "odds": 0.06,
+      "raw_price": 0.06,
+      "outcome": "Yes",
+      "potential_pnl": 18800.0,
+      "pnl_multiplier": 15.666666666666666,
+      "wallet_age_days": 805,
+      "total_activities": 100
+    },
+    "timestamp": "2026-04-24T11:20:10.101640",
+    "trade_hash": "0xd4c367dc7641866b7b8871fdb3bf74afb38da07d74450bc95f9d5942449bc1e7",
+    "trade_timestamp": 1777028966,
+    "latency": {
+      "latency_seconds": 478234.0,
+      "latency_minutes": 7970.566666666667,
+      "is_pre_event": true,
+      "severity": "CRITICAL",
+      "trade_time": "2026-04-24T11:09:26+00:00",
+      "event_time": "2026-04-30T00:00:00+00:00"
+    },
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.06,
+      "effective_price": 0.06,
+      "size": 20000.0,
+      "amount": 1200.0,
+      "potential_pnl": 18800.0,
+      "pnl_multiplier": 15.666666666666666,
+      "is_no": false,
+      "slug": "us-x-iran-permanent-peace-deal-by-april-30-2026-925",
+      "eventSlug": "us-x-iran-permanent-peace-deal-by"
+    },
+    "irrationality": {
+      "irrationality_score": 25,
+      "flags": [
+        "Longshot (6%) in medium bias category (politics_near)"
+      ],
+      "category": "politics_near",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.02,
+        "min_edge": 0.03
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.0465,
+      "market_price": 0.06,
+      "edge": 0.013499999999999998,
+      "edge_percent": 1.3499999999999999,
+      "min_edge_required": 0.03,
+      "is_mispriced": false,
+      "edge_quality": "WEAK",
+      "base_rate_class": "rare",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "rare",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 85,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 85,
+      "insider_position": "YES",
+      "irrationality_score": 25,
+      "is_irrational": false,
+      "is_mispriced": false,
+      "edge": 0.013499999999999998,
+      "edge_percent": 1.3499999999999999
+    },
+    "financial_analyst": {
+      "signal_quality": 29.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 1.35,
+      "signal_strength": 85.0,
+      "insider_score": 85.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x3d87aa6cce70324b0c58f660f89e3834140b9855c106f04ef82e24d757c93b6e",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x7553e42ce1b37727b819dfe4bac495b3968f65ca",
+      "side": "BUY",
+      "asset": "32206743748604931479581753411293025827930003832852185250826466137108716627870",
+      "conditionId": "0xf64a48ee6bfba69e06d8c521a55174c31ba2e3b4251070ee213b3caec836b577",
+      "size": 5050,
+      "price": 0.63,
+      "timestamp": 1777029546,
+      "title": "LoL: JD Gaming vs Invictus Gaming - Game 1 Winner",
+      "slug": "lol-jdg-ig1-2026-04-24-game1",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
+      "eventSlug": "lol-jdg-ig1-2026-04-24",
+      "outcome": "JD Gaming",
+      "outcomeIndex": 0,
+      "name": "HomelessSoon",
+      "pseudonym": "Distinct-Sack",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x3d87aa6cce70324b0c58f660f89e3834140b9855c106f04ef82e24d757c93b6e",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "LoL: JD Gaming vs Invictus Gaming - Game 1 Winner",
+    "market_slug": "lol-jdg-ig1-2026-04-24",
+    "amount": 3181.5
   }
 ]
