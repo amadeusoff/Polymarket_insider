@@ -1,109 +1,5 @@
 [
   {
-    "market": "Will L\u00ea Minh H\u01b0ng be the next Prime Minister of Vietnam?",
-    "market_slug": "will-l-minh-hng-be-the-next-prime-minister-of-vietnam",
-    "wallet": "0x6cc61b8b06caaa7c30f60fc19555cbc9d0477b8b",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($3,835)",
-        "Low activity (2 txns)"
-      ],
-      "amount": 3835.31437,
-      "odds": 0.8846681102124246,
-      "raw_price": 0.1153318897875754,
-      "outcome": "No",
-      "potential_pnl": 499.999999,
-      "pnl_multiplier": 0.1303674094908679,
-      "wallet_age_days": 0,
-      "total_activities": 2
-    },
-    "timestamp": "2026-03-12T03:32:30.542020",
-    "trade_hash": "0xc78c01ee10f999e572610449184540d0d3c05c9b33cdc3f52f79e1ddfe60f11b",
-    "trade_timestamp": 1773285983,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "BUY",
-      "price": 0.1153318897875754,
-      "effective_price": 0.8846681102124246,
-      "size": 4335.314369,
-      "amount": 3835.31437,
-      "potential_pnl": 499.999999,
-      "pnl_multiplier": 0.1303674094908679,
-      "is_no": true
-    },
-    "irrationality": {
-      "irrationality_score": 33,
-      "flags": [
-        "Longshot (12%) in medium bias category (other)",
-        "Moderate mispricing edge (+7.2%)"
-      ],
-      "category": "other",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.043066377957515084,
-      "market_price": 0.1153318897875754,
-      "edge": 0.07226551183006032,
-      "edge_percent": 7.226551183006031,
-      "min_edge_required": 0.03,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "rare",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "rare",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "L\u00ea Minh H\u01b0ng gains significant political support within the ruling party",
-          "Current Prime Minister steps down or is removed from office",
-          "Public sentiment shifts favorably towards L\u00ea Minh H\u01b0ng"
-        ],
-        "weakest_link": "Public sentiment shifts favorably towards L\u00ea Minh H\u01b0ng"
-      },
-      "category": "politics_near",
-      "narrative_drivers": [
-        "Internal party dynamics and leadership struggles",
-        "Public perception of government performance and leadership"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "ALPHA",
-      "signal_emoji": "\ud83d\udd25",
-      "signal_strength": 103,
-      "interpretation": "Smart money (NO) confirms YES is overpriced",
-      "action_suggestion": "High conviction: insider + statistics aligned",
-      "insider_score": 70,
-      "insider_position": "NO",
-      "irrationality_score": 33,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.07226551183006032,
-      "edge_percent": 7.226551183006031
-    },
-    "financial_analyst": {
-      "signal_quality": 66.4,
-      "stance": "SELECTIVE",
-      "edge_percent": 7.23,
-      "signal_strength": 103.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-03-29T06:55:43.642383+00:00"
-  },
-  {
     "market": "76ers vs. Pistons: O/U 220.5",
     "market_slug": "nba-phi-det-2026-03-12-total-220pt5",
     "wallet": "0x96d303d0675ceee8f6ff74f1522af5108c84ab05",
@@ -32186,5 +32082,49 @@
     "market": "LoL: JD Gaming vs Invictus Gaming - Game 1 Winner",
     "market_slug": "lol-jdg-ig1-2026-04-24",
     "amount": 3181.5
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x4ac74cd04ed2dd41142a760caf2f161255fecd5ef38538815c6a3adeb8605e61",
+    "wallet": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+    "trader": {
+      "rank": 9,
+      "address": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+      "username": "PrincessCaro",
+      "profit": 6083643.099591745,
+      "volume": 23520809.952867,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x01e6e3c5cfe50943e7721398054cb1e22032e7e0",
+      "side": "BUY",
+      "asset": "87565411781242289962996960936354583194122517987127486270140405021001026024443",
+      "conditionId": "0xa06b4da4c592436f44ebcc5f9f870a06d7c450cfba9a8d58934049482563a061",
+      "size": 7863.2,
+      "price": 0.43,
+      "timestamp": 1777032846,
+      "title": "LoL: JD Gaming vs Invictus Gaming - Game 2 Winner",
+      "slug": "lol-jdg-ig1-2026-04-24-game2",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
+      "eventSlug": "lol-jdg-ig1-2026-04-24",
+      "outcome": "Invictus Gaming",
+      "outcomeIndex": 1,
+      "name": "BirdMan.",
+      "pseudonym": "Well-Made-Sovereignty",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-6981540-65626b91-dc80-4b1c-99ee-de73d651cf10.webp",
+      "profileImageOptimized": "",
+      "transactionHash": "0x4ac74cd04ed2dd41142a760caf2f161255fecd5ef38538815c6a3adeb8605e61",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "LoL: JD Gaming vs Invictus Gaming - Game 2 Winner",
+    "market_slug": "lol-jdg-ig1-2026-04-24",
+    "amount": 3381.176
   }
 ]
