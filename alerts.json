@@ -1,107 +1,5 @@
 [
   {
-    "market": "Suns vs. Raptors: O/U 218.5",
-    "market_slug": "nba-phx-tor-2026-03-13-total-218pt5",
-    "wallet": "0x2aa9619a31243e078a28617e71f5176b738c8fca",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,341)",
-        "Low activity (2 txns)"
-      ],
-      "amount": 1340.8359,
-      "odds": 0.51,
-      "raw_price": 0.51,
-      "outcome": "Over",
-      "potential_pnl": 1288.2540999999999,
-      "pnl_multiplier": 0.9607843137254901,
-      "wallet_age_days": 0,
-      "total_activities": 2
-    },
-    "timestamp": "2026-03-13T13:37:46.302229",
-    "trade_hash": "0xa3d636e4bd2771e7918176b2e86eac0107f1806b913d78a380814b93577745d0",
-    "trade_timestamp": 1773408911,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Over",
-      "side": "BUY",
-      "price": 0.51,
-      "effective_price": 0.51,
-      "size": 2629.09,
-      "amount": 1340.8359,
-      "potential_pnl": 1288.2540999999999,
-      "pnl_multiplier": 0.9607843137254901,
-      "is_no": false
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+26.8%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.242,
-      "market_price": 0.51,
-      "edge": 0.268,
-      "edge_percent": 26.8,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Both teams have strong offensive performances",
-          "Defensive weaknesses from both teams",
-          "Game pace favors high scoring"
-        ],
-        "weakest_link": "Defensive weaknesses from both teams"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent scoring trends of both teams",
-        "Injury status of key players affecting scoring"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "OVER",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.268,
-      "edge_percent": 26.8
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 26.8,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "market": "Knicks vs. Pacers: O/U 227.5",
     "market_slug": "nba-nyk-ind-2026-03-13-total-227pt5",
     "wallet": "0x55f3a72a6d35b730ba9602cc1a8d6d6227c7d5aa",
@@ -31565,5 +31463,49 @@
     "market": "LoL: Dplus KIA vs DN SOOPers - Game 1 Winner",
     "market_slug": "lol-dk-dnf-2026-04-25",
     "amount": 4434.9544000000005
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x057879044ed7ebbed43780293dcc102f651395a7b8048242800e76bf34802791",
+    "wallet": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
+    "trader": {
+      "rank": 15,
+      "address": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
+      "username": "gmanas",
+      "profit": 4955880.748692186,
+      "volume": 529047708.505991,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xef62ee9c449b67cbeaed565e8fade3aef2cfcf76",
+      "side": "BUY",
+      "asset": "75791588939410112639384693046978638410356588482978726924796539273380756317963",
+      "conditionId": "0x5b3f43ea99e3782e460ecd5ac5ed1d4e8fb179ddab7190a58cb41faee61db1fa",
+      "size": 5102.040815,
+      "price": 0.4899999999314,
+      "timestamp": 1777129706,
+      "title": "Dota 2: Aurora vs BetBoom Team (BO3) - PGL Wallachia Playoffs",
+      "slug": "dota2-aur1-bb4-2026-04-25",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/dota2-7ffacddb21.jpg",
+      "eventSlug": "dota2-aur1-bb4-2026-04-25",
+      "outcome": "BetBoom Team",
+      "outcomeIndex": 1,
+      "name": "montechristo777",
+      "pseudonym": "Frayed-Nursery",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x057879044ed7ebbed43780293dcc102f651395a7b8048242800e76bf34802791",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Dota 2: Aurora vs BetBoom Team (BO3) - PGL Wallachia Playoffs",
+    "market_slug": "dota2-aur1-bb4-2026-04-25",
+    "amount": 2499.999999
   }
 ]
