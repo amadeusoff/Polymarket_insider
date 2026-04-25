@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x41e833aaf15ad9587ba43d971959ca75e43433fe03560bd3661bb759bd0ab70b",
-    "wallet": "0xdb27bf2ac5d428a9c63dbc914611036855a6c56e",
-    "trader": {
-      "rank": 9,
-      "address": "0xdb27bf2ac5d428a9c63dbc914611036855a6c56e",
-      "username": "DrPufferfish",
-      "profit": 5930657.142345107,
-      "volume": 207370505.65727097,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x797255f4701331610041687268d246071343594f",
-      "side": "BUY",
-      "asset": "61918351525266368144491942093593650711768658828622730755963270233988351275979",
-      "conditionId": "0x056e5327893e1488134b69ef7bff7c600219227939211974645e1f6ac1da0735",
-      "size": 2408.679022,
-      "price": 0.8095723756421705,
-      "timestamp": 1773500539,
-      "title": "Counter-Strike: Natus Vincere vs FUT Esports (BO3) - ESL Pro League Playoffs",
-      "slug": "cs2-navi-fut-2026-03-14",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/counter-strike-image-16c415c538.png",
-      "eventSlug": "cs2-navi-fut-2026-03-14",
-      "outcome": "Natus Vincere",
-      "outcomeIndex": 0,
-      "name": "1337zzz1337",
-      "pseudonym": "Guilty-Aide",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x41e833aaf15ad9587ba43d971959ca75e43433fe03560bd3661bb759bd0ab70b",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Unknown market",
-    "market_slug": "",
-    "amount": 1949.9999979999998
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xaa368e04ae2014a78fc85b480d232e4081f08d407ecd95fd7c4c74a376c6d0dd",
     "wallet": "0xdb27bf2ac5d428a9c63dbc914611036855a6c56e",
     "trader": {
@@ -31332,5 +31288,49 @@
     "market": "Will Club Atl\u00e9tico de Madrid win on 2026-04-25?",
     "market_slug": "lal-mad-bil-2026-04-25",
     "amount": 1818.5406750000002
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x2c5fa8e84ef53d8fa610d3b15282a56dcc3ba50e3c53afe0f3778f72252d86e6",
+    "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
+    "trader": {
+      "rank": 7,
+      "address": "0x863134d00841b2e200492805a01e1e2f5defaa53",
+      "username": "RepTrump",
+      "profit": 7532409.671579,
+      "volume": 13983231.103425002,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x53757615de1c42b83f893b79d4241a009dc2aeea",
+      "side": "BUY",
+      "asset": "41772102129198252435268395441232788537892915035660994488552295928531028880890",
+      "conditionId": "0xf752c3ec9526de39530718246fcf9a69c4bc883191c8fc994eb4d43990c49030",
+      "size": 6148.3871,
+      "price": 0.39,
+      "timestamp": 1777147114,
+      "title": "Thunder vs. Suns",
+      "slug": "nba-okc-phx-2026-04-25",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-okc-phx-2026-04-25",
+      "outcome": "Suns",
+      "outcomeIndex": 1,
+      "name": "",
+      "pseudonym": "",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x2c5fa8e84ef53d8fa610d3b15282a56dcc3ba50e3c53afe0f3778f72252d86e6",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Thunder vs. Suns",
+    "market_slug": "nba-okc-phx-2026-04-25",
+    "amount": 2397.870969
   }
 ]
