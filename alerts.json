@@ -2,210 +2,6 @@
   {
     "market": "Suns vs. Raptors: O/U 218.5",
     "market_slug": "nba-phx-tor-2026-03-13-total-218pt5",
-    "wallet": "0xc756725ef0de18e645d25b1b414c089b2cd6d19f",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,459)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 1459.22,
-      "odds": 0.49,
-      "raw_price": 0.49,
-      "outcome": "Under",
-      "potential_pnl": 1518.7800000000002,
-      "pnl_multiplier": 1.0408163265306123,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-03-13T13:37:37.835811",
-    "trade_hash": "0x363cb2dfd54c26e38b0cf717abafa152e6c762c75da995d4b327c3f2a32c65ed",
-    "trade_timestamp": 1773408911,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Under",
-      "side": "BUY",
-      "price": 0.49,
-      "effective_price": 0.49,
-      "size": 2978.0,
-      "amount": 1459.22,
-      "potential_pnl": 1518.7800000000002,
-      "pnl_multiplier": 1.0408163265306123,
-      "is_no": false
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+25.2%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.238,
-      "market_price": 0.49,
-      "edge": 0.252,
-      "edge_percent": 25.2,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Both teams have high-scoring offenses",
-          "Defensive strategies are ineffective",
-          "Game pace is fast"
-        ],
-        "weakest_link": "Defensive strategies are ineffective"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent offensive performances",
-        "Injuries affecting defensive players"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "UNDER",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.252,
-      "edge_percent": 25.2
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 25.2,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "Suns vs. Raptors: O/U 218.5",
-    "market_slug": "nba-phx-tor-2026-03-13-total-218pt5",
-    "wallet": "0x027b07e66d668fa0d470b56630724002e5664f1d",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,297)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 1296.54,
-      "odds": 0.49,
-      "raw_price": 0.49,
-      "outcome": "Under",
-      "potential_pnl": 1349.46,
-      "pnl_multiplier": 1.0408163265306123,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-03-13T13:37:42.041868",
-    "trade_hash": "0x6aa75b682b0d1f3027868575f7505e68123dfbc97bb0ea4741827b7259b9375b",
-    "trade_timestamp": 1773408911,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Under",
-      "side": "BUY",
-      "price": 0.49,
-      "effective_price": 0.49,
-      "size": 2646.0,
-      "amount": 1296.54,
-      "potential_pnl": 1349.46,
-      "pnl_multiplier": 1.0408163265306123,
-      "is_no": false
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+25.2%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.238,
-      "market_price": 0.49,
-      "edge": 0.252,
-      "edge_percent": 25.2,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Both teams have high offensive efficiency",
-          "Defensive strategies are lax",
-          "Pace of play is fast"
-        ],
-        "weakest_link": "Defensive strategies are lax"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent scoring trends of both teams",
-        "Injuries affecting key players"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "UNDER",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.252,
-      "edge_percent": 25.2
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 25.2,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "Suns vs. Raptors: O/U 218.5",
-    "market_slug": "nba-phx-tor-2026-03-13-total-218pt5",
     "wallet": "0x2aa9619a31243e078a28617e71f5176b738c8fca",
     "analysis": {
       "score": 70,
@@ -31613,5 +31409,161 @@
     "market": "LoL: Top Esports vs Ninjas in Pyjamas - Game 2 Winner",
     "market_slug": "lol-tes-nip-2026-04-25",
     "amount": 1830.448
+  },
+  {
+    "market": "Israel x Iran permanent peace deal by April 30, 2026?",
+    "market_slug": "israel-x-iran-permanent-peace-deal-by-april-30-2026",
+    "event_slug": "israel-x-iran-permanent-peace-deal-by-april-30-2026",
+    "wallet": "0x1f5e99b7049afa2649c5c5a1bef453ed9dea3881",
+    "analysis": {
+      "score": 105,
+      "flags": [
+        "New wallet (1d old)",
+        "Against trend (3.0% effective odds)",
+        "Pre-event latency: 6545m"
+      ],
+      "amount": 60.00690800000007,
+      "odds": 0.030050078108539102,
+      "raw_price": 0.9699499218914609,
+      "outcome": "No",
+      "potential_pnl": 1936.8899979999999,
+      "pnl_multiplier": 32.27778371783458,
+      "wallet_age_days": 1,
+      "total_activities": 5
+    },
+    "timestamp": "2026-04-25T11:04:30.507383",
+    "trade_hash": "0x36119fa40bb8dc96ab69707e1fec4447522369228b9de99aae9301bcfeb3324b",
+    "trade_timestamp": 1777114510,
+    "latency": {
+      "latency_seconds": 392690.0,
+      "latency_minutes": 6544.833333333333,
+      "is_pre_event": true,
+      "severity": "CRITICAL",
+      "trade_time": "2026-04-25T10:55:10+00:00",
+      "event_time": "2026-04-30T00:00:00+00:00"
+    },
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.9699499218914609,
+      "effective_price": 0.9699499218914609,
+      "size": 1996.896906,
+      "amount": 1936.8899979999999,
+      "potential_pnl": 60.00690800000007,
+      "pnl_multiplier": 0.030981061424222436,
+      "is_no": true,
+      "slug": "israel-x-iran-permanent-peace-deal-by-april-30-2026",
+      "eventSlug": "israel-x-iran-permanent-peace-deal-by"
+    },
+    "irrationality": {
+      "irrationality_score": 40,
+      "flags": [
+        "Category structurally prone to longshot bias",
+        "Large mispricing edge (+47.0%)"
+      ],
+      "category": "geopolitics",
+      "category_info": {
+        "strength": "high",
+        "typical_overpricing": 0.05,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.5,
+      "market_price": 0.9699499218914609,
+      "edge": 0.4699499218914609,
+      "edge_percent": 46.99499218914609,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "geopolitics",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 145,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 105,
+      "insider_position": "NO",
+      "irrationality_score": 40,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.4699499218914609,
+      "edge_percent": 46.99499218914609
+    },
+    "financial_analyst": {
+      "signal_quality": 88.0,
+      "stance": "HIGH_CONVICTION",
+      "edge_percent": 46.99,
+      "signal_strength": 145.0,
+      "insider_score": 105.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xe333b8d92a9836aadece422bede1cb7e928df6b9834aa96388d7f0505fa1d09a",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x85d53efdd055aa88fb00a914f5615bfd585545ee",
+      "side": "BUY",
+      "asset": "61747352553467640079819859591628914841222586089567071357008386638333293250154",
+      "conditionId": "0x174ce5eab470d0e8b588f2e02ee5a41ab29d2af6185e5f4fb272507000474399",
+      "size": 4945.02,
+      "price": 0.8968526719811042,
+      "timestamp": 1777115080,
+      "title": "LoL: Dplus KIA vs DN SOOPers - Game 1 Winner",
+      "slug": "lol-dk-dnf-2026-04-25-game1",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
+      "eventSlug": "lol-dk-dnf-2026-04-25",
+      "outcome": "Dplus KIA",
+      "outcomeIndex": 0,
+      "name": "retroactivesource",
+      "pseudonym": "Black-And-White-Catalogue",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xe333b8d92a9836aadece422bede1cb7e928df6b9834aa96388d7f0505fa1d09a",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "LoL: Dplus KIA vs DN SOOPers - Game 1 Winner",
+    "market_slug": "lol-dk-dnf-2026-04-25",
+    "amount": 4434.9544000000005
   }
 ]
