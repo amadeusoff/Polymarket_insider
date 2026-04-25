@@ -1,213 +1,5 @@
 [
   {
-    "market": "Timberwolves vs. Warriors: O/U 227.5",
-    "market_slug": "nba-min-gsw-2026-03-13-total-227pt5",
-    "wallet": "0x5f667876039bd260198495a30f0a3f74ed51ea74",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($2,478)",
-        "Low activity (3 txns)"
-      ],
-      "amount": 2477.79,
-      "odds": 0.57,
-      "raw_price": 0.57,
-      "outcome": "Under",
-      "potential_pnl": 1869.2100000000003,
-      "pnl_multiplier": 0.7543859649122808,
-      "wallet_age_days": 0,
-      "total_activities": 3
-    },
-    "timestamp": "2026-03-13T11:29:07.321892",
-    "trade_hash": "0xbe6c6013f654065b9c3062960f6bbdcd8d7b66dba51acbf9a5f9e5be5f74dc23",
-    "trade_timestamp": 1773401229,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Under",
-      "side": "BUY",
-      "price": 0.57,
-      "effective_price": 0.57,
-      "size": 4347.0,
-      "amount": 2477.79,
-      "potential_pnl": 1869.2100000000003,
-      "pnl_multiplier": 0.7543859649122808,
-      "is_no": false
-    },
-    "irrationality": {
-      "irrationality_score": 50,
-      "flags": [
-        "Category structurally prone to longshot bias",
-        "Crisis keyword detected ('war')",
-        "Large mispricing edge (+31.6%)"
-      ],
-      "category": "geopolitics",
-      "category_info": {
-        "strength": "high",
-        "typical_overpricing": 0.05,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.254,
-      "market_price": 0.57,
-      "edge": 0.31599999999999995,
-      "edge_percent": 31.599999999999994,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Both teams maintain high offensive efficiency",
-          "Defensive lapses from both teams",
-          "Favorable refereeing leading to more free throws"
-        ],
-        "weakest_link": "Favorable refereeing leading to more free throws"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent offensive performances of both teams",
-        "Injury status of key players affecting scoring"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "UNDER",
-      "irrationality_score": 50,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.31599999999999995,
-      "edge_percent": 31.599999999999994
-    },
-    "financial_analyst": {
-      "signal_quality": 54.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 31.6,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "Timberwolves vs. Warriors: O/U 227.5",
-    "market_slug": "nba-min-gsw-2026-03-13-total-227pt5",
-    "wallet": "0x5b1d82e56e8a63cb21089d6eb699f33113c20d57",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (1d old)",
-        "Large bet ($2,308)",
-        "Low activity (3 txns)"
-      ],
-      "amount": 2307.93,
-      "odds": 0.57,
-      "raw_price": 0.57,
-      "outcome": "Under",
-      "potential_pnl": 1741.0700000000002,
-      "pnl_multiplier": 0.7543859649122808,
-      "wallet_age_days": 1,
-      "total_activities": 3
-    },
-    "timestamp": "2026-03-13T11:29:13.077550",
-    "trade_hash": "0xc18dccfa3d4d255a23817eed156eb52d503a8dc92ed155d5256a22d4ac5e5a23",
-    "trade_timestamp": 1773401225,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Under",
-      "side": "BUY",
-      "price": 0.57,
-      "effective_price": 0.57,
-      "size": 4049.0,
-      "amount": 2307.93,
-      "potential_pnl": 1741.0700000000002,
-      "pnl_multiplier": 0.7543859649122808,
-      "is_no": false
-    },
-    "irrationality": {
-      "irrationality_score": 50,
-      "flags": [
-        "Category structurally prone to longshot bias",
-        "Crisis keyword detected ('war')",
-        "Large mispricing edge (+31.6%)"
-      ],
-      "category": "geopolitics",
-      "category_info": {
-        "strength": "high",
-        "typical_overpricing": 0.05,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.254,
-      "market_price": 0.57,
-      "edge": 0.31599999999999995,
-      "edge_percent": 31.599999999999994,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Both teams have high-scoring offenses",
-          "Defensive performance is below average",
-          "Game pace is fast"
-        ],
-        "weakest_link": "Defensive performance is below average"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent high-scoring games by both teams",
-        "Injuries affecting defensive players"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "UNDER",
-      "irrationality_score": 50,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.31599999999999995,
-      "edge_percent": 31.599999999999994
-    },
-    "financial_analyst": {
-      "signal_quality": 54.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 31.6,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "market": "Spread: Cavaliers (-11.5)",
     "market_slug": "nba-cle-dal-2026-03-13-spread-away-11pt5",
     "wallet": "0xa7fb2b87b7d3301c3b7dd91317dac5c8a5a5ea35",
@@ -31844,5 +31636,154 @@
     "market": "Spread: Rockets (-8.5)",
     "market_slug": "nba-lal-hou-2026-04-24",
     "amount": 1972.983217612735
+  },
+  {
+    "market": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
+    "market_slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
+    "event_slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
+    "wallet": "0xb77ea34e3f66de616f14eedbc9555ef1dde51d11",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,049)",
+        "Low activity (2 txns)"
+      ],
+      "amount": 1048.999999,
+      "odds": 0.39590841559686224,
+      "raw_price": 0.39590841559686224,
+      "outcome": "Yes",
+      "potential_pnl": 1600.602681,
+      "pnl_multiplier": 1.5258366849626663,
+      "wallet_age_days": 0,
+      "total_activities": 2
+    },
+    "timestamp": "2026-04-24T23:57:06.527556",
+    "trade_hash": "0xdb9ce19f962ab49695b539f033fb608d3de28e008522e5cf7b279ff4321fbd15",
+    "trade_timestamp": 1777074650,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.39590841559686224,
+      "effective_price": 0.39590841559686224,
+      "size": 2649.60268,
+      "amount": 1048.999999,
+      "potential_pnl": 1600.602681,
+      "pnl_multiplier": 1.5258366849626663,
+      "is_no": false,
+      "slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
+      "eventSlug": "brazil-presidential-election"
+    },
+    "irrationality": {
+      "irrationality_score": 18,
+      "flags": [
+        "Moderate mispricing edge (+8.0%)"
+      ],
+      "category": "politics_near",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.02,
+        "min_edge": 0.03
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.3158633662387449,
+      "market_price": 0.39590841559686224,
+      "edge": 0.08004504935811735,
+      "edge_percent": 8.004504935811735,
+      "min_edge_required": 0.03,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 18,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.08004504935811735,
+      "edge_percent": 8.004504935811735
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 29.6,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 8.0,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x23f9c7f896c632cde961e5bc883f10aa18641a607e9f497d21a576e897dcb9ed",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568202,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x6498f9eab8018b2d61fe0186bee145f53e4d8910",
+      "side": "BUY",
+      "asset": "53169322474137459807878074916634032842140371813395623975278808814438046191479",
+      "conditionId": "0x05b474a8d2045b72c9dfd573873cfbcf6ee505063cddbecac5acf93194bada64",
+      "size": 5917.2,
+      "price": 0.54,
+      "timestamp": 1777074866,
+      "title": "Spread: Detroit Tigers (-4.5)",
+      "slug": "mlb-det-cin-2026-04-24-spread-away-4pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
+      "eventSlug": "mlb-det-cin-2026-04-24",
+      "outcome": "Detroit Tigers",
+      "outcomeIndex": 0,
+      "name": "whycantilose",
+      "pseudonym": "Elastic-Estuary-Clef",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x23f9c7f896c632cde961e5bc883f10aa18641a607e9f497d21a576e897dcb9ed",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spread: Detroit Tigers (-4.5)",
+    "market_slug": "mlb-det-cin-2026-04-24",
+    "amount": 3195.288
   }
 ]
