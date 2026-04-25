@@ -1,107 +1,5 @@
 [
   {
-    "market": "Games Total: O/U 2.5",
-    "market_slug": "val-pr1-g21-2026-03-13-total-games-2pt5",
-    "wallet": "0xeafb91b8bb7c0b8dd2cda8e68988045ee0461897",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($2,346)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 2345.54,
-      "odds": 0.46,
-      "raw_price": 0.46,
-      "outcome": "Under",
-      "potential_pnl": 2753.46,
-      "pnl_multiplier": 1.173913043478261,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-03-13T17:02:25.982952",
-    "trade_hash": "0xc5c1760b29f5e2d12f324cc1e1e7844f43844662c6a0bf779dc443e1777b0baf",
-    "trade_timestamp": 1773421043,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Under",
-      "side": "BUY",
-      "price": 0.46,
-      "effective_price": 0.46,
-      "size": 5099.0,
-      "amount": 2345.54,
-      "potential_pnl": 2753.46,
-      "pnl_multiplier": 1.173913043478261,
-      "is_no": false
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+22.8%)"
-      ],
-      "category": "other",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.23199999999999998,
-      "market_price": 0.46,
-      "edge": 0.22800000000000004,
-      "edge_percent": 22.800000000000004,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Both teams have strong offensive capabilities",
-          "Weather conditions favor scoring",
-          "Refereeing decisions do not hinder scoring"
-        ],
-        "weakest_link": "Weather conditions favor scoring"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent high-scoring games",
-        "Injury reports affecting key defensive players"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "UNDER",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.22800000000000004,
-      "edge_percent": 22.800000000000004
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 22.8,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "market": "Counter-Strike: EYEBALLERS vs Liquid (BO3) - Roman Imperium Cup Playoffs",
     "market_slug": "cs2-eye-tl1-2026",
     "wallet": "0x697821bebfdd65cc472da1e302b90b430dd09897",
@@ -31449,5 +31347,49 @@
     "market": "Dota 2: Team Liquid vs Team Falcons - Game 1 Winner",
     "market_slug": "dota2-liquid-flc-2026-04-25",
     "amount": 2515.7555533
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x5fbf45209fa5b500c77397ac858cf819772c25326aa05c71c4a5be4832a9727d",
+    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
+    "trader": {
+      "rank": 17,
+      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
+      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
+      "profit": 4552078.393957778,
+      "volume": 60197195.49364801,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x2aaa9e6d341e69387bd27e8e969b5b7ae63594e5",
+      "side": "BUY",
+      "asset": "27911616648163853231017805596118911526202185567944724228908312975649746722206",
+      "conditionId": "0xaeea5f917fc5746387b5f9c0a4263dba035dbb3f0ac6ad72bf92183d21e26739",
+      "size": 2410.932431,
+      "price": 0.7399999996101093,
+      "timestamp": 1777138410,
+      "title": "Russia x Ukraine ceasefire by end of 2026?",
+      "slug": "russia-x-ukraine-ceasefire-before-2027",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/russia-x-ukraine-ceasefire-in-2025-w2voYOygx80B.jpg",
+      "eventSlug": "russia-x-ukraine-ceasefire-before-2027",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "WhaleHunter21",
+      "pseudonym": "Fine-Tractor",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x5fbf45209fa5b500c77397ac858cf819772c25326aa05c71c4a5be4832a9727d",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Russia x Ukraine ceasefire by end of 2026?",
+    "market_slug": "russia-x-ukraine-ceasefire-before-2027",
+    "amount": 1784.0899980000002
   }
 ]
