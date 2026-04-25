@@ -1,107 +1,5 @@
 [
   {
-    "market": "Knicks vs. Pacers: O/U 227.5",
-    "market_slug": "nba-nyk-ind-2026-03-13-total-227pt5",
-    "wallet": "0x55f3a72a6d35b730ba9602cc1a8d6d6227c7d5aa",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,197)",
-        "Low activity (2 txns)"
-      ],
-      "amount": 1196.6399999999999,
-      "odds": 0.48,
-      "raw_price": 0.48,
-      "outcome": "Under",
-      "potential_pnl": 1296.3600000000001,
-      "pnl_multiplier": 1.0833333333333335,
-      "wallet_age_days": 0,
-      "total_activities": 2
-    },
-    "timestamp": "2026-03-13T14:25:22.617388",
-    "trade_hash": "0x7a55c7e91832838402e24b15eb6d415cd8c5a6303bbad272a944f2011d9658fa",
-    "trade_timestamp": 1773411701,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Under",
-      "side": "BUY",
-      "price": 0.48,
-      "effective_price": 0.48,
-      "size": 2493.0,
-      "amount": 1196.6399999999999,
-      "potential_pnl": 1296.3600000000001,
-      "pnl_multiplier": 1.0833333333333335,
-      "is_no": false
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+24.4%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.236,
-      "market_price": 0.48,
-      "edge": 0.244,
-      "edge_percent": 24.4,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Both teams score efficiently",
-          "Defensive lapses by both teams",
-          "Game pace is fast"
-        ],
-        "weakest_link": "Defensive lapses by both teams"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent scoring trends of both teams",
-        "Injury status of key offensive players"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "UNDER",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.244,
-      "edge_percent": 24.4
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 24.4,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "market": "Games Total: O/U 2.5",
     "market_slug": "val-pr1-g21-2026-03-13-total-games-2pt5",
     "wallet": "0xeafb91b8bb7c0b8dd2cda8e68988045ee0461897",
@@ -31507,5 +31405,49 @@
     "market": "Dota 2: Aurora vs BetBoom Team (BO3) - PGL Wallachia Playoffs",
     "market_slug": "dota2-aur1-bb4-2026-04-25",
     "amount": 2499.999999
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x17fdf661dd0b1f5e3c6ae98e8637b327b7382286d9838063e745151fb19a20b1",
+    "wallet": "0xd0c042c08f755ff940249f62745e82d356345565",
+    "trader": {
+      "rank": 16,
+      "address": "0xd0c042c08f755ff940249f62745e82d356345565",
+      "username": "alexmulti",
+      "profit": 4804855.613376001,
+      "volume": 9949068.653841998,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x0dcf5b49627c5194805bd1af846fd0bd3388c556",
+      "side": "BUY",
+      "asset": "113514244840619112802238952898464411188202811774558136222366354249053927253113",
+      "conditionId": "0x89e9151028e238723e8c7de9126d44c4f15c362eba8828a5a3c1408c3ea9c71f",
+      "size": 5850.59431,
+      "price": 0.43,
+      "timestamp": 1777136008,
+      "title": "Dota 2: Team Liquid vs Team Falcons - Game 1 Winner",
+      "slug": "dota2-liquid-flc-2026-04-25-game1",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/dota2-7ffacddb21.jpg",
+      "eventSlug": "dota2-liquid-flc-2026-04-25",
+      "outcome": "Team Liquid",
+      "outcomeIndex": 0,
+      "name": "0x0dcf5B49627C5194805bD1AF846Fd0bd3388c556-1769755919166",
+      "pseudonym": "Insignificant-Wrestler",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x17fdf661dd0b1f5e3c6ae98e8637b327b7382286d9838063e745151fb19a20b1",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Dota 2: Team Liquid vs Team Falcons - Game 1 Winner",
+    "market_slug": "dota2-liquid-flc-2026-04-25",
+    "amount": 2515.7555533
   }
 ]
