@@ -31113,7 +31113,8 @@
       "signal_strength": 85.0,
       "insider_score": 85.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
+    },
+    "resolution_last_check": "2026-04-25T07:20:38.054103+00:00"
   },
   {
     "type": "TOP_TRADER",
@@ -31638,7 +31639,8 @@
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
+    },
+    "resolution_last_check": "2026-04-25T07:20:45.772771+00:00"
   },
   {
     "type": "TOP_TRADER",
