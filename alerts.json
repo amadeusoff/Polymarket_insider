@@ -1,108 +1,5 @@
 [
   {
-    "market": "Counter-Strike: EYEBALLERS vs Liquid (BO3) - Roman Imperium Cup Playoffs",
-    "market_slug": "cs2-eye-tl1-2026",
-    "wallet": "0x697821bebfdd65cc472da1e302b90b430dd09897",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($2,794)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 2794.39,
-      "odds": 0.636015104388566,
-      "raw_price": 0.636015104388566,
-      "outcome": "Liquid",
-      "potential_pnl": 1599.2006250000002,
-      "pnl_multiplier": 0.5722897036562542,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-03-14T10:50:55.261158",
-    "trade_hash": "0xcc008e0534692be39c32ec621d5312187ff0c4e8d113ff8d112c0037555fb320",
-    "trade_timestamp": 1773485185,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Liquid",
-      "side": "BUY",
-      "price": 0.636015104388566,
-      "effective_price": 0.636015104388566,
-      "size": 4393.590625,
-      "amount": 2794.39,
-      "potential_pnl": 1599.2006250000002,
-      "pnl_multiplier": 0.5722897036562542,
-      "is_no": false
-    },
-    "irrationality": {
-      "irrationality_score": 45,
-      "flags": [
-        "Crisis keyword detected ('strike')",
-        "Large mispricing edge (+36.9%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.2672030208777132,
-      "market_price": 0.636015104388566,
-      "edge": 0.3688120835108528,
-      "edge_percent": 36.881208351085284,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "EYEBALLERS perform exceptionally well in the match",
-          "Liquid underperform due to internal issues",
-          "External factors such as player injuries or unexpected events"
-        ],
-        "weakest_link": "Liquid underperform due to internal issues"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent performance trends of both teams",
-        "Fan sentiment and support for EYEBALLERS"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "LIQUID",
-      "irrationality_score": 45,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.3688120835108528,
-      "edge_percent": 36.881208351085284
-    },
-    "financial_analyst": {
-      "signal_quality": 53.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 36.88,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0x41e833aaf15ad9587ba43d971959ca75e43433fe03560bd3661bb759bd0ab70b",
     "wallet": "0xdb27bf2ac5d428a9c63dbc914611036855a6c56e",
@@ -31391,5 +31288,49 @@
     "market": "Russia x Ukraine ceasefire by end of 2026?",
     "market_slug": "russia-x-ukraine-ceasefire-before-2027",
     "amount": 1784.0899980000002
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x5de0956759e457688c32766d498538c756951e056f2deb392ff2c3fb705dc933",
+    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
+    "trader": {
+      "rank": 17,
+      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
+      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
+      "profit": 4552078.393957778,
+      "volume": 60197195.49364801,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x0f3433d8b7596000bf1046aa822308d93cf67684",
+      "side": "BUY",
+      "asset": "81158099902982127767655382821085776846834135588627211437287604861607234240992",
+      "conditionId": "0x2192a9594fcbba5de511de143814109a0874897b9c2ffa4f53f37194400dc276",
+      "size": 4041.2015,
+      "price": 0.45,
+      "timestamp": 1777144714,
+      "title": "Will Club Atl\u00e9tico de Madrid win on 2026-04-25?",
+      "slug": "lal-mad-bil-2026-04-25-mad",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-lal.png",
+      "eventSlug": "lal-mad-bil-2026-04-25",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "",
+      "pseudonym": "",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x5de0956759e457688c32766d498538c756951e056f2deb392ff2c3fb705dc933",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Club Atl\u00e9tico de Madrid win on 2026-04-25?",
+    "market_slug": "lal-mad-bil-2026-04-25",
+    "amount": 1818.5406750000002
   }
 ]
