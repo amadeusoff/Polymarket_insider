@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x6441ea6e6509371eee9e82ce594ec6cfa909277a074d081b0e8078b238530d00",
-    "wallet": "0xdb27bf2ac5d428a9c63dbc914611036855a6c56e",
-    "trader": {
-      "rank": 9,
-      "address": "0xdb27bf2ac5d428a9c63dbc914611036855a6c56e",
-      "username": "DrPufferfish",
-      "profit": 5929636.811514213,
-      "volume": 207381131.84704196,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-      "side": "BUY",
-      "asset": "21481513434957951470354179752999472975927720761536541086327227757236107211668",
-      "conditionId": "0xc69700750371973efc10a74f50e831958a4d07456a86ecd670d7bfc59db9c6a5",
-      "size": 2075,
-      "price": 0.51,
-      "timestamp": 1773502039,
-      "title": "Will Eintracht Frankfurt win on 2026-03-14?",
-      "slug": "bun-ein-hei-2026-03-14-ein",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-bun.jpg",
-      "eventSlug": "bun-ein-hei-2026-03-14",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "swisstony",
-      "pseudonym": "Frail-Possible",
-      "bio": "loincloth chic",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x6441ea6e6509371eee9e82ce594ec6cfa909277a074d081b0e8078b238530d00",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Unknown market",
-    "market_slug": "",
-    "amount": 1058.25
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x079e3f270e69ada764840f6f7fe5c05634fd9460e5024aee95fa98b99632ce24",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -31334,5 +31290,49 @@
     "market": "Will CF Am\u00e9rica win on 2026-04-25?",
     "market_slug": "mex-ame-atl-2026-04-25",
     "amount": 1910.9840919
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x1badfeea978e16515d9dd146d021062c9e345cf1b1f0b4bb0ae3679b34b4724c",
+    "wallet": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
+    "trader": {
+      "rank": 14,
+      "address": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
+      "username": "GamblingIsAllYouNeed",
+      "profit": 5030768.841690985,
+      "volume": 380714051.7402691,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xda5fff24aa9d889d6366da205029c73093102e9b",
+      "side": "BUY",
+      "asset": "80071141988471662123549462701882786392780118273608213710699662464539701109452",
+      "conditionId": "0xc40bfaf96d1c2a57fdeae99c92c2cdcb15b5397f863c1e00fb94c6e56fe6da49",
+      "size": 4836.013486999999,
+      "price": 0.4061965082800984,
+      "timestamp": 1777199936,
+      "title": "Madrid Open: Sorana Cirstea vs Coco Gauff",
+      "slug": "wta-cirstea-gauff-2026-04-26",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wta-logo-41f331bdf1.png",
+      "eventSlug": "wta-cirstea-gauff-2026-04-26",
+      "outcome": "Coco Gauff",
+      "outcomeIndex": 1,
+      "name": "Kangtamqf",
+      "pseudonym": "Unruly-Rocker",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3469197-2c4bf42b-dd61-4cd7-9198-b20313b5440b.jpeg",
+      "profileImageOptimized": "",
+      "transactionHash": "0x1badfeea978e16515d9dd146d021062c9e345cf1b1f0b4bb0ae3679b34b4724c",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Madrid Open: Sorana Cirstea vs Coco Gauff",
+    "market_slug": "wta-cirstea-gauff-2026-04-26",
+    "amount": 1964.3717924148627
   }
 ]
