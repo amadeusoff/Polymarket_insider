@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xa457a2010d2388bcdd7780a47b9ad90e7c7835fc7297e33e32c2aea6f4f43f67",
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "trader": {
-      "rank": 12,
-      "address": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-      "username": "RN1",
-      "profit": 5508349.537842194,
-      "volume": 256087173.314408,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x7a46461485f11d87e052478f289107d06920ab25",
-      "side": "BUY",
-      "asset": "109687659091032593005758651408024211875079361601128910605877731084341190532149",
-      "conditionId": "0x202f8a3b6c091248dd95762e115fb5d13e2e74e08a837ad06040ba171be17f74",
-      "size": 1800,
-      "price": 0.68,
-      "timestamp": 1773504441,
-      "title": "LoL: Frites Esports Club vs S2G Esports - Game 1 Winner",
-      "slug": "lol-fec-s2g-2026-03-14-game1",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
-      "eventSlug": "lol-fec-s2g-2026-03-14",
-      "outcome": "S2G Esports",
-      "outcomeIndex": 1,
-      "name": "Mario7979",
-      "pseudonym": "Beloved-Plea",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xa457a2010d2388bcdd7780a47b9ad90e7c7835fc7297e33e32c2aea6f4f43f67",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Unknown market",
-    "market_slug": "",
-    "amount": 1224.0
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x2dc5d0e1d8ab7d262a457a601e667e1e226a1031a972c621e00b2a2502b948d3",
     "wallet": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
     "trader": {
@@ -31267,5 +31223,49 @@
     "market": "Spurs vs. Trail Blazers",
     "market_slug": "nba-sas-por-2026-04-26",
     "amount": 20067.046899999998
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x71b7a6a4b532ef5c4e1b204c1a7aa733dd74089ecccd8db05fecbaff7cefa056",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x2e01832a5646266682fe53adb6e428bc9d7c0875",
+      "side": "BUY",
+      "asset": "96017834667277346209400595012200511732225955280429218140922779061424591683484",
+      "conditionId": "0x9b94e927fdd5228e9063a2793fac3206065e1f970e988a33f3664ce76430b638",
+      "size": 3940,
+      "price": 0.5,
+      "timestamp": 1777236554,
+      "title": "Celtics vs. 76ers: O/U 213.5",
+      "slug": "nba-bos-phi-2026-04-26-total-213pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-bos-phi-2026-04-26",
+      "outcome": "Over",
+      "outcomeIndex": 0,
+      "name": "yyd33886",
+      "pseudonym": "Chubby-Special",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x71b7a6a4b532ef5c4e1b204c1a7aa733dd74089ecccd8db05fecbaff7cefa056",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Celtics vs. 76ers: O/U 213.5",
+    "market_slug": "nba-bos-phi-2026-04-26",
+    "amount": 1970.0
   }
 ]
