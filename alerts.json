@@ -1,116 +1,5 @@
 [
   {
-    "market": "Will Anthropic have the best AI model at the end of March 2026?",
-    "market_slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-march-2026-437",
-    "wallet": "0x4c4ed674fde7dc998036b3ae92445d00fcdb297b",
-    "analysis": {
-      "score": 80,
-      "flags": [
-        "New wallet (3d old)",
-        "Large bet ($1,292)",
-        "Pre-event latency: 7685m"
-      ],
-      "amount": 1291.6989600000002,
-      "odds": 0.8976427633270558,
-      "raw_price": 0.8976427633270558,
-      "outcome": "Yes",
-      "potential_pnl": 147.29103999999995,
-      "pnl_multiplier": 0.11402892203304082,
-      "wallet_age_days": 3,
-      "total_activities": 79
-    },
-    "timestamp": "2026-03-14T16:00:20.501101",
-    "trade_hash": "0xc9cb8d2e6a8d7486a157fd1bf5df4ee5962e1ded64ea81f620b3ee1ba8ab7f9b",
-    "trade_timestamp": 1773503699,
-    "latency": {
-      "latency_seconds": 461101.0,
-      "latency_minutes": 7685.016666666666,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-03-14T15:54:59+00:00",
-      "event_time": "2026-03-20T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "side": "BUY",
-      "price": 0.8976427633270558,
-      "effective_price": 0.8976427633270558,
-      "size": 1438.99,
-      "amount": 1291.6989600000002,
-      "potential_pnl": 147.29103999999995,
-      "pnl_multiplier": 0.11402892203304082,
-      "is_no": false
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+57.8%)"
-      ],
-      "category": "politics_near",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.02,
-        "min_edge": 0.03
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.31952855266541114,
-      "market_price": 0.8976427633270558,
-      "edge": 0.5781142106616447,
-      "edge_percent": 57.81142106616447,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 4,
-        "conditions": [
-          "Anthropic successfully develops a superior AI model compared to competitors",
-          "Sustained funding and resources for research and development",
-          "Attraction and retention of top AI talent",
-          "Positive regulatory environment for AI development"
-        ],
-        "weakest_link": "Sustained funding and resources for research and development"
-      },
-      "category": "other",
-      "narrative_drivers": [
-        "Advancements in AI technology and research",
-        "Competitive landscape among AI companies"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "CONFLICT",
-      "signal_emoji": "\u26a0\ufe0f",
-      "signal_strength": 80,
-      "interpretation": "Insider buying YES despite statistical overpricing",
-      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
-      "insider_score": 80,
-      "insider_position": "YES",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.5781142106616447,
-      "edge_percent": 57.81142106616447
-    },
-    "financial_analyst": {
-      "signal_quality": 48.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 57.81,
-      "signal_strength": 80.0,
-      "insider_score": 80.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-03-29T06:55:50.568485+00:00"
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0x028ba0dab0668c0675e28956bdcf3b92d3205fa17eb05a1ab75570b1bb0f43f0",
     "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
@@ -31334,5 +31223,49 @@
     "market": "Dota 2: BetBoom Team vs Aurora - Game 3 Winner",
     "market_slug": "dota2-bb4-aur1-2026-04-26",
     "amount": 4952.055795203295
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x747da877cfa1871328f4e00d32526d88fb9232c119f14c5aa8040d549ed93d4f",
+    "wallet": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+    "trader": {
+      "rank": 9,
+      "address": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+      "username": "PrincessCaro",
+      "profit": 6083643.099591745,
+      "volume": 23520809.952867,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x6815040a7176c958e6ff8818bfe188e80dbd9edb",
+      "side": "BUY",
+      "asset": "89064299181143394148709327473509743882930252400518549241798110493431019910983",
+      "conditionId": "0xe9cde4bf7fa69dd5832fef13a2e6a0c6ebd322e4a1658b8a5f8c41c05494528a",
+      "size": 31393.650795,
+      "price": 0.629999999988975,
+      "timestamp": 1777223344,
+      "title": "Cavaliers vs. Raptors",
+      "slug": "nba-cle-tor-2026-04-26",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-cle-tor-2026-04-26",
+      "outcome": "Cavaliers",
+      "outcomeIndex": 0,
+      "name": "pilotbaby",
+      "pseudonym": "Cylindrical-Ambulance",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x747da877cfa1871328f4e00d32526d88fb9232c119f14c5aa8040d549ed93d4f",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Cavaliers vs. Raptors",
+    "market_slug": "nba-cle-tor-2026-04-26",
+    "amount": 19778.000000503886
   }
 ]
