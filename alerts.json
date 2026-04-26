@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x028ba0dab0668c0675e28956bdcf3b92d3205fa17eb05a1ab75570b1bb0f43f0",
-    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-    "trader": {
-      "rank": 5,
-      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-      "username": "zxgngl",
-      "profit": 7807265.5892408835,
-      "volume": 40551790.621846996,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xf828161eee129d0247f6a495865b351e13b68333",
-      "side": "SELL",
-      "asset": "57817609187638877082051374086608861977598876793124526827718549020543647406808",
-      "conditionId": "0xa7a9755e95e3809cd57814a2e32bcae9c752f5403a5eef12c6cc509ea10b1c9e",
-      "size": 640,
-      "price": 0.997,
-      "timestamp": 1773504139,
-      "title": "Will Ethereum reach $4,000 in March?",
-      "slug": "will-ethereum-reach-4000-in-march-2026",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ETH+fullsize.jpg",
-      "eventSlug": "what-price-will-ethereum-hit-in-march-2026",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "",
-      "pseudonym": "",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x028ba0dab0668c0675e28956bdcf3b92d3205fa17eb05a1ab75570b1bb0f43f0",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Unknown market",
-    "market_slug": "",
-    "amount": 638.08
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xf71ce50cd41e6dee70484ae17e97354a642817a55a63e96d26be604084e4fee5",
     "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
     "trader": {
@@ -31267,5 +31223,49 @@
     "market": "Cavaliers vs. Raptors",
     "market_slug": "nba-cle-tor-2026-04-26",
     "amount": 19778.000000503886
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x6256cf77f4cbdf87e64441bb163d7dbfb86c90c48c1deefa25e16711226cac66",
+    "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+    "trader": {
+      "rank": 11,
+      "address": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+      "username": "KeyTransporter",
+      "profit": 5711459.802519929,
+      "volume": 20086062.154324993,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+      "side": "BUY",
+      "asset": "28361611297894296220106652816156387722904488459439756959702531570452828905731",
+      "conditionId": "0xbfa3689c2c61f92575b132d84da852981f6e7e50ef05b6050b90cd7170fb1f5a",
+      "size": 4920.5,
+      "price": 0.47,
+      "timestamp": 1777230848,
+      "title": "Colorado Rockies vs. New York Mets: O/U 7.5",
+      "slug": "mlb-col-nym-2026-04-25-total-7pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
+      "eventSlug": "mlb-col-nym-2026-04-25",
+      "outcome": "Over",
+      "outcomeIndex": 0,
+      "name": "mooseborzoi",
+      "pseudonym": "Agitated-Bricklaying",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x6256cf77f4cbdf87e64441bb163d7dbfb86c90c48c1deefa25e16711226cac66",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Colorado Rockies vs. New York Mets: O/U 7.5",
+    "market_slug": "mlb-col-nym-2026-04-25",
+    "amount": 2312.6349999999998
   }
 ]
