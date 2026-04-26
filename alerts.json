@@ -31023,7 +31023,8 @@
       "signal_strength": 145.0,
       "insider_score": 105.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
+    },
+    "resolution_last_check": "2026-04-26T07:34:57.611593+00:00"
   },
   {
     "type": "TOP_TRADER",
@@ -31199,7 +31200,8 @@
     },
     "market": "Russia x Ukraine ceasefire by end of 2026?",
     "market_slug": "russia-x-ukraine-ceasefire-before-2027",
-    "amount": 1784.0899980000002
+    "amount": 1784.0899980000002,
+    "resolution_last_check": "2026-04-26T07:35:01.721496+00:00"
   },
   {
     "type": "TOP_TRADER",
