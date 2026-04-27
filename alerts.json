@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x85e1fa6b9164d92054f4fd6602662f6339dfe06fee7ab83da371e72a67ea716d",
-    "wallet": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
-    "trader": {
-      "rank": 7,
-      "address": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
-      "username": "PrincessCaro",
-      "profit": 6083643.099591745,
-      "volume": 23520809.952866998,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xd4d96e332b3a71000a4e1538df805790c77dbdd5",
-      "side": "BUY",
-      "asset": "51603557647605526784272094285656249935467020057355371392584885347569984808630",
-      "conditionId": "0x3bc69cb672591e4fcd2ef856b64b219a906e15d4601b50066ac81a446574dfaf",
-      "size": 754.064,
-      "price": 0.999,
-      "timestamp": 1773507741,
-      "title": "Will Cape Verde win the 2026 FIFA World Cup?",
-      "slug": "will-cape-verde-win-the-2026-fifa-world-cup",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-cape-verde-win-the-2026-fifa-world-cup-3ZMQE_Hk7WJ4.jpg",
-      "eventSlug": "2026-fifa-world-cup-winner-595",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "rgfbhgv",
-      "pseudonym": "Used-Fiction",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x85e1fa6b9164d92054f4fd6602662f6339dfe06fee7ab83da371e72a67ea716d",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Cape Verde win the 2026 FIFA World Cup?",
-    "market_slug": "2026-fifa-world-cup-winner-595",
-    "amount": 753.309936
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x8d8cd8bfe5de0130cd25aab85f9ece89f0821de4e37788f4120b186d6768f305",
     "wallet": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
     "trader": {
@@ -31333,5 +31289,49 @@
     "market": "Thunder vs. Suns: O/U 214.5",
     "market_slug": "nba-okc-phx-2026-04-27",
     "amount": 2717.64292540312
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xca4dc797d2597a07a34991efde0485afda4d434b58a6fc9906d83b4810f79949",
+    "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
+    "trader": {
+      "rank": 13,
+      "address": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
+      "username": "mikatrade77",
+      "profit": 5147998.544602999,
+      "volume": 10884765.388775,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xd1e0c0db26fb636fb557704f05f7cd8ae4148913",
+      "side": "BUY",
+      "asset": "23474129862538016355769921752602588362727749687612650738794086635241500644505",
+      "conditionId": "0xff8c930d1d882a7c0e80852535badf1fe1bf831de3f4b3606c109bc556b5e927",
+      "size": 5670.432931,
+      "price": 0.819999999996492,
+      "timestamp": 1777333190,
+      "title": "Timberwolves vs. Nuggets",
+      "slug": "nba-min-den-2026-04-27",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-min-den-2026-04-27",
+      "outcome": "Nuggets",
+      "outcomeIndex": 1,
+      "name": "DjPonyboots",
+      "pseudonym": "Extraneous-Porpoise",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xca4dc797d2597a07a34991efde0485afda4d434b58a6fc9906d83b4810f79949",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Timberwolves vs. Nuggets",
+    "market_slug": "nba-min-den-2026-04-27",
+    "amount": 4649.755003400108
   }
 ]
