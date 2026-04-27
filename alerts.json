@@ -1,94 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xf6804c842c2fbfa1ddd59bdeea6d61dd5b05d55107e9d1fac45b2c33cba31fb9",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.51568201,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
-      "side": "SELL",
-      "asset": "23908744235029436668032187407696757858496393436364928402129538177797433532204",
-      "conditionId": "0x1ebce1a078e88ce3b05e46d6c67f3e0b4a49b5a9ec362ec59c8ad3324c42f233",
-      "size": 3000,
-      "price": 0.67,
-      "timestamp": 1773507441,
-      "title": "Will SSC Napoli win on 2026-03-14?",
-      "slug": "sea-nap-lec-2026-03-14-nap",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Serie-A-Logo.png",
-      "eventSlug": "sea-nap-lec-2026-03-14",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "VeryLucky888",
-      "pseudonym": "Scornful-West",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xf6804c842c2fbfa1ddd59bdeea6d61dd5b05d55107e9d1fac45b2c33cba31fb9",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will SSC Napoli win on 2026-03-14?",
-    "market_slug": "sea-nap-lec-2026-03-14",
-    "amount": 2010.0000000000002
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x01242ecee739e953b4824f448a707db1e394fafb473fef777974634875696dc7",
-    "wallet": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
-    "trader": {
-      "rank": 7,
-      "address": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
-      "username": "PrincessCaro",
-      "profit": 6083643.099591745,
-      "volume": 23520809.952866998,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xc94a8dfd7ab2e06c4ec8ca42832dcbd5ca7acfca",
-      "side": "BUY",
-      "asset": "66615266624359354060400093448369771789228282833780928627869485822387307717041",
-      "conditionId": "0xc34af25221919b98a6c1a743f76cb5f2dca39eccaff88327adb160cf8e4ce2a9",
-      "size": 1402.631577,
-      "price": 0.37999999981463417,
-      "timestamp": 1773507741,
-      "title": "Magic vs. Heat",
-      "slug": "nba-orl-mia-2026-03-14",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-orl-mia-2026-03-14",
-      "outcome": "Magic",
-      "outcomeIndex": 0,
-      "name": "aninooo",
-      "pseudonym": "Vital-Respite",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x01242ecee739e953b4824f448a707db1e394fafb473fef777974634875696dc7",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Magic vs. Heat",
-    "market_slug": "nba-orl-mia-2026-03-14",
-    "amount": 532.9999990000001
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x85e1fa6b9164d92054f4fd6602662f6339dfe06fee7ab83da371e72a67ea716d",
     "wallet": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
     "trader": {
@@ -31333,5 +31245,93 @@
     "market": "Cagliari Calcio vs. Atalanta BC: O/U 2.5",
     "market_slug": "sea-cag-ata-2026-04-27-more-markets",
     "amount": 3065.2683
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x7cd1aaf6100534a3157dbadb9d0fc6bfcd69e75d033820d36dab6b97167ea01b",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x0ebbb3e9fde570bb7f6c452e9f9eee4ec6eacb1a",
+      "side": "BUY",
+      "asset": "10485721502839380683153878984328375781937554169039361319472933917079263823234",
+      "conditionId": "0x8b45ecd8fe2159061c7dcca8fb2d7444b216f7ced521a72be3d0a3a84df3246a",
+      "size": 6495.40367,
+      "price": 0.8356394932892538,
+      "timestamp": 1777316090,
+      "title": "Madrid Open: Adolfo Vallejo vs Flavio Cobolli",
+      "slug": "atp-vallejo-cobolli-2026-04-27",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+      "eventSlug": "atp-vallejo-cobolli-2026-04-27",
+      "outcome": "Flavio Cobolli",
+      "outcomeIndex": 1,
+      "name": "0x0eBBb3e9fDe570Bb7F6c452E9F9Eee4EC6EaCB1A-1773005453663",
+      "pseudonym": "Confused-Birthday",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x7cd1aaf6100534a3157dbadb9d0fc6bfcd69e75d033820d36dab6b97167ea01b",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Madrid Open: Adolfo Vallejo vs Flavio Cobolli",
+    "market_slug": "atp-vallejo-cobolli-2026-04-27",
+    "amount": 5427.815831507959
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xb08b8cfacd8bc18a485465c529e2d753aa301cba8853d9810dc435adfe97267f",
+    "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
+    "trader": {
+      "rank": 18,
+      "address": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
+      "username": "432614799197",
+      "profit": 4526176.046413314,
+      "volume": 185485956.86208293,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x86fbea68d619daf670185ecd38a69aa90f7703d4",
+      "side": "BUY",
+      "asset": "45950374825619701867429122499068372200543863600736957914988198537942446359559",
+      "conditionId": "0xec0f149daa9c98f04d1aaf159cda42b7fc177a2fc57852e591cd0a6e1ae05b8b",
+      "size": 5661.756095,
+      "price": 0.47999999996522635,
+      "timestamp": 1777316990,
+      "title": "Thunder vs. Suns: O/U 214.5",
+      "slug": "nba-okc-phx-2026-04-27-total-214pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-okc-phx-2026-04-27",
+      "outcome": "Under",
+      "outcomeIndex": 1,
+      "name": "",
+      "pseudonym": "",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xb08b8cfacd8bc18a485465c529e2d753aa301cba8853d9810dc435adfe97267f",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Thunder vs. Suns: O/U 214.5",
+    "market_slug": "nba-okc-phx-2026-04-27",
+    "amount": 2717.64292540312
   }
 ]
