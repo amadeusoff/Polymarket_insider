@@ -1,156 +1,5 @@
 [
   {
-    "market": "Will L\u00ea Minh H\u01b0ng be the next Prime Minister of Vietnam?",
-    "market_slug": "will-l-minh-hng-be-the-next-prime-minister-of-vietnam",
-    "event_slug": "will-l-minh-hng-be-the-next-prime-minister-of-vietnam",
-    "wallet": "0x6d4a67f9d5ef3f1fe8366e18bb36885da6fc3288",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,397)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 1396.765746,
-      "odds": 0.8763933786266689,
-      "raw_price": 0.12360662137333112,
-      "outcome": "No",
-      "potential_pnl": 196.999999,
-      "pnl_multiplier": 0.14104011325031449,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-03-14T16:32:54.368102",
-    "trade_hash": "0x02ce46edd4a1d1b589b26bbd301ef729f98019ea8507e71cec2b7eb7cfe110de",
-    "trade_timestamp": 1773505613,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "BUY",
-      "price": 0.12360662137333112,
-      "effective_price": 0.8763933786266689,
-      "size": 1593.765745,
-      "amount": 1396.765746,
-      "potential_pnl": 196.999999,
-      "pnl_multiplier": 0.14104011325031449,
-      "is_no": true,
-      "slug": "will-l-minh-hng-be-the-next-prime-minister-of-vietnam",
-      "eventSlug": "next-prime-minister-of-vietnam"
-    },
-    "irrationality": {
-      "irrationality_score": 33,
-      "flags": [
-        "Longshot (12%) in medium bias category (other)",
-        "Moderate mispricing edge (+7.9%)"
-      ],
-      "category": "other",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.04472132427466623,
-      "market_price": 0.12360662137333112,
-      "edge": 0.07888529709866489,
-      "edge_percent": 7.888529709866489,
-      "min_edge_required": 0.03,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "rare",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "rare",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "L\u00ea Minh H\u01b0ng gains significant political support within the ruling party",
-          "Current Prime Minister steps down or is replaced",
-          "Public sentiment shifts favorably towards L\u00ea Minh H\u01b0ng"
-        ],
-        "weakest_link": "Public sentiment shifts favorably towards L\u00ea Minh H\u01b0ng"
-      },
-      "category": "politics_near",
-      "narrative_drivers": [
-        "Internal party dynamics and leadership contests",
-        "Public perception of L\u00ea Minh H\u01b0ng's policies and capabilities"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "ALPHA",
-      "signal_emoji": "\ud83d\udd25",
-      "signal_strength": 103,
-      "interpretation": "Smart money (NO) confirms YES is overpriced",
-      "action_suggestion": "High conviction: insider + statistics aligned",
-      "insider_score": 70,
-      "insider_position": "NO",
-      "irrationality_score": 33,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.07888529709866489,
-      "edge_percent": 7.888529709866489
-    },
-    "financial_analyst": {
-      "signal_quality": 67.4,
-      "stance": "SELECTIVE",
-      "edge_percent": 7.89,
-      "signal_strength": 103.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-03-29T06:55:50.568534+00:00"
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x0a34aef2179e97548cd9b0abe789225ca3183687e0ce8009f3ce61b329871983",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.51568201,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
-      "side": "SELL",
-      "asset": "23908744235029436668032187407696757858496393436364928402129538177797433532204",
-      "conditionId": "0x1ebce1a078e88ce3b05e46d6c67f3e0b4a49b5a9ec362ec59c8ad3324c42f233",
-      "size": 10000,
-      "price": 0.67,
-      "timestamp": 1773507441,
-      "title": "Will SSC Napoli win on 2026-03-14?",
-      "slug": "sea-nap-lec-2026-03-14-nap",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Serie-A-Logo.png",
-      "eventSlug": "sea-nap-lec-2026-03-14",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "VeryLucky888",
-      "pseudonym": "Scornful-West",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x0a34aef2179e97548cd9b0abe789225ca3183687e0ce8009f3ce61b329871983",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will SSC Napoli win on 2026-03-14?",
-    "market_slug": "sea-nap-lec-2026-03-14",
-    "amount": 6700.0
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0x7d52e0e8d93310ce50c92d4e41eb83f5f5b0f115452e6e7cf1e114b59109d4f8",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
@@ -31335,5 +31184,154 @@
       "insider_score": 85.0,
       "risk_note": "High stake detected \u2014 copy with reduced sizing (25-40% of source risk)."
     }
+  },
+  {
+    "market": "Dota 2: 1win vs Power Rangers (BO3) - DreamLeague Division 2 Playoffs",
+    "market_slug": "dota2-1win-pr1-2026",
+    "event_slug": "dota2-1win-pr1-2026",
+    "wallet": "0xf0f0a2724c6ce58375e8770ba52cd50f57489a41",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,176)",
+        "Low activity (2 txns)"
+      ],
+      "amount": 1176.4948769999999,
+      "odds": 0.57,
+      "raw_price": 0.57,
+      "outcome": "1win",
+      "potential_pnl": 887.5312230000002,
+      "pnl_multiplier": 0.7543859649122809,
+      "wallet_age_days": 0,
+      "total_activities": 2
+    },
+    "timestamp": "2026-04-27T12:18:06.797652",
+    "trade_hash": "0x50eef07d8ea8059b9ebdf9c8829cab7650f35041a281fa69613f95550eed1ebd",
+    "trade_timestamp": 1777291944,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "1win",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.57,
+      "effective_price": 0.57,
+      "size": 2064.0261,
+      "amount": 1176.4948769999999,
+      "potential_pnl": 887.5312230000002,
+      "pnl_multiplier": 0.7543859649122809,
+      "is_no": false,
+      "slug": "dota2-1win-pr1-2026",
+      "eventSlug": "dota2-1win-pr1-2026-04-27"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+18.4%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.38549999999999995,
+      "market_price": 0.57,
+      "edge": 0.1845,
+      "edge_percent": 18.45,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.1845,
+      "edge_percent": 18.45
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 46.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 18.45,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x1cadb65cd646c765bbe311b305a02666753303dfadb32da15273ad337ae59bd4",
+    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+    "trader": {
+      "rank": 12,
+      "address": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+      "username": "BetTom42",
+      "profit": 5642135.735356,
+      "volume": 11212839.523403,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
+      "side": "SELL",
+      "asset": "52358889909720195745618623525148656756791707640957024648520970508331778531217",
+      "conditionId": "0x2f7ce337a25e4802e60a200fb451167b0807f619657aa2802c097861672cfefd",
+      "size": 5083.65,
+      "price": 0.92,
+      "timestamp": 1777292680,
+      "title": "Madrid Open: Solana Sierra vs Karolina Pliskova",
+      "slug": "wta-sierra-pliskov-2026-04-27",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wta-logo-41f331bdf1.png",
+      "eventSlug": "wta-sierra-pliskov-2026-04-27",
+      "outcome": "Karolina Pliskova",
+      "outcomeIndex": 1,
+      "name": "tradecraft",
+      "pseudonym": "Slow-Escape",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-1439403-31bec8e6-a9d5-45d6-8c20-964f07c7fdb2.webp",
+      "profileImageOptimized": "",
+      "transactionHash": "0x1cadb65cd646c765bbe311b305a02666753303dfadb32da15273ad337ae59bd4",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Madrid Open: Solana Sierra vs Karolina Pliskova",
+    "market_slug": "wta-sierra-pliskov-2026-04-27",
+    "amount": 4676.958
   }
 ]
