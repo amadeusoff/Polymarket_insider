@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x2dc5d0e1d8ab7d262a457a601e667e1e226a1031a972c621e00b2a2502b948d3",
-    "wallet": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
-    "trader": {
-      "rank": 20,
-      "address": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
-      "username": "Jenzigo",
-      "profit": 4049827.0941029997,
-      "volume": 9457725.034338009,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x2df9846123020b713df044c2de80658ad2eceffb",
-      "side": "BUY",
-      "asset": "77380687248235165829626529947585403336717643793859834077265401852756749653222",
-      "conditionId": "0x9bb4aa05c25fab72f939e1ef11c167366fea872a3400f9efdcbed0c5139ecb4c",
-      "size": 700,
-      "price": 0.992,
-      "timestamp": 1773504739,
-      "title": "Will Crude Oil (CL) hit (LOW) $45 by end of March?",
-      "slug": "will-crude-oil-cl-hit-low-45-by-end-of-march-524-288-596-421-318-497-667",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/crude-oil-9a850ce2a2.png",
-      "eventSlug": "will-crude-oil-cl-hit-by-end-of-march",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "0x2df9846123020B713DF044C2de80658ad2ecEffb-1764940894320",
-      "pseudonym": "Swift-Stuff",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x2dc5d0e1d8ab7d262a457a601e667e1e226a1031a972c621e00b2a2502b948d3",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Unknown market",
-    "market_slug": "",
-    "amount": 694.4
-  },
-  {
     "market": "Will L\u00ea Minh H\u01b0ng be the next Prime Minister of Vietnam?",
     "market_slug": "will-l-minh-hng-be-the-next-prime-minister-of-vietnam",
     "event_slug": "will-l-minh-hng-be-the-next-prime-minister-of-vietnam",
@@ -31267,5 +31223,117 @@
     "market": "Celtics vs. 76ers: O/U 213.5",
     "market_slug": "nba-bos-phi-2026-04-26",
     "amount": 1970.0
+  },
+  {
+    "market": "Trump announces end of military operations against Iran by April 30th?",
+    "market_slug": "trump-announces-end-of-military-operations-against-iran-by-april-30th-753-882-164-769-641",
+    "event_slug": "trump-announces-end-of-military-operations-against-iran-by-april-30th-753-882-164-769-641",
+    "wallet": "0xf9c1190aa8184bcbe418e6f5321c53b0bfbc39e2",
+    "analysis": {
+      "score": 85,
+      "flags": [
+        "New wallet (4d old)",
+        "Against trend (4.0% effective odds)",
+        "Pre-event latency: 4334m"
+      ],
+      "amount": 444.7424000000004,
+      "odds": 0.040000000000000036,
+      "raw_price": 0.96,
+      "outcome": "No",
+      "potential_pnl": 10673.817599999998,
+      "pnl_multiplier": 23.999999999999975,
+      "wallet_age_days": 4,
+      "total_activities": 100
+    },
+    "timestamp": "2026-04-26T23:55:14.534698",
+    "trade_hash": "0x250c25e688ed22aeb31827d9032695f2a9ed4661266debe22011a05c976dd2cd",
+    "trade_timestamp": 1777247144,
+    "latency": {
+      "latency_seconds": 260056.0,
+      "latency_minutes": 4334.266666666666,
+      "is_pre_event": true,
+      "severity": "CRITICAL",
+      "trade_time": "2026-04-26T23:45:44+00:00",
+      "event_time": "2026-04-30T00:00:00+00:00"
+    },
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.96,
+      "effective_price": 0.96,
+      "size": 11118.56,
+      "amount": 10673.817599999998,
+      "potential_pnl": 444.742400000001,
+      "pnl_multiplier": 0.04166666666666677,
+      "is_no": true,
+      "slug": "trump-announces-end-of-military-operations-against-iran-by-april-30th-753-882-164-769-641",
+      "eventSlug": "trump-announces-end-of-military-operations-against-iran-by"
+    },
+    "irrationality": {
+      "irrationality_score": 40,
+      "flags": [
+        "Category structurally prone to longshot bias",
+        "Large mispricing edge (+46.0%)"
+      ],
+      "category": "geopolitics",
+      "category_info": {
+        "strength": "high",
+        "typical_overpricing": 0.05,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.5,
+      "market_price": 0.96,
+      "edge": 0.45999999999999996,
+      "edge_percent": 46.0,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "geopolitics",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 125,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 85,
+      "insider_position": "NO",
+      "irrationality_score": 40,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.45999999999999996,
+      "edge_percent": 46.0
+    },
+    "financial_analyst": {
+      "signal_quality": 85.0,
+      "stance": "HIGH_CONVICTION",
+      "edge_percent": 46.0,
+      "signal_strength": 125.0,
+      "insider_score": 85.0,
+      "risk_note": "High stake detected \u2014 copy with reduced sizing (25-40% of source risk)."
+    }
   }
 ]
