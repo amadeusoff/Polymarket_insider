@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x7d52e0e8d93310ce50c92d4e41eb83f5f5b0f115452e6e7cf1e114b59109d4f8",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.51568201,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x3b5c629f114098b0dee345fb78b7a3a013c7126e",
-      "side": "BUY",
-      "asset": "38994064194073482228229509993277184534677234863592159586324882995065445332711",
-      "conditionId": "0x25ae0b3ce0af14431a45ce7f36f7f07f5ea0fc8a0fa8051a9ed61db5ceeb79c1",
-      "size": 3472.27,
-      "price": 0.7,
-      "timestamp": 1773507441,
-      "title": "Will Arsenal FC win on 2026-03-14?",
-      "slug": "epl-ars-eve-2026-03-14-ars",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/premier+league.jpg",
-      "eventSlug": "epl-ars-eve-2026-03-14",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "SMCAOMCRL",
-      "pseudonym": "Majestic-Hyena",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x7d52e0e8d93310ce50c92d4e41eb83f5f5b0f115452e6e7cf1e114b59109d4f8",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Arsenal FC win on 2026-03-14?",
-    "market_slug": "epl-ars-eve-2026-03-14",
-    "amount": 2430.589
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xf6804c842c2fbfa1ddd59bdeea6d61dd5b05d55107e9d1fac45b2c33cba31fb9",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -31333,5 +31289,49 @@
     "market": "Madrid Open: Solana Sierra vs Karolina Pliskova",
     "market_slug": "wta-sierra-pliskov-2026-04-27",
     "amount": 4676.958
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x4f9ee7c243ba37eeb7a1f5cd519bca447b970289cbe6ccb8218cc303ad29bfbe",
+    "wallet": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
+    "trader": {
+      "rank": 19,
+      "address": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
+      "username": "Jenzigo",
+      "profit": 4049827.0941029997,
+      "volume": 9457725.034338009,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x2f7cd634523ecb61679968d46895ead857a87a19",
+      "side": "BUY",
+      "asset": "97899463070935170772266311992988422599848423832270942708182053817690798148094",
+      "conditionId": "0xaeda8b5eec71d1565f40641abaacc363e129e32a2c21f3bd8b91edba282e8026",
+      "size": 6010.33,
+      "price": 0.51,
+      "timestamp": 1777307084,
+      "title": "Cagliari Calcio vs. Atalanta BC: O/U 2.5",
+      "slug": "sea-cag-ata-2026-04-27-total-2pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Serie-A-Logo.png",
+      "eventSlug": "sea-cag-ata-2026-04-27-more-markets",
+      "outcome": "Over",
+      "outcomeIndex": 0,
+      "name": "naglaya",
+      "pseudonym": "Bewitched-Prospect",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-7088990-fd1e6e47-e893-42cd-95c7-3ca9e7a4ad9b.webp",
+      "profileImageOptimized": "",
+      "transactionHash": "0x4f9ee7c243ba37eeb7a1f5cd519bca447b970289cbe6ccb8218cc303ad29bfbe",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Cagliari Calcio vs. Atalanta BC: O/U 2.5",
+    "market_slug": "sea-cag-ata-2026-04-27-more-markets",
+    "amount": 3065.2683
   }
 ]
