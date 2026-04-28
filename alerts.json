@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x728c4f56632a7407789506854faa32b88a6b9630a7f0d531735058ea80bb551e",
-    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-    "trader": {
-      "rank": 5,
-      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-      "username": "zxgngl",
-      "profit": 7807265.589240883,
-      "volume": 40551790.62184699,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x94379d1db8799dad247a11edc34ff19c09cae75f",
-      "side": "SELL",
-      "asset": "102559817034631022221500208641784929295731053857601013029449249654006364919935",
-      "conditionId": "0x257b18205f908aef01ef2d1d50e6fea7d29cf5486fe04031d8b101394476faed",
-      "size": 1583,
-      "price": 0.995,
-      "timestamp": 1773509243,
-      "title": "Will there be no change in Fed interest rates after the March 2026 meeting?",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-march-2026-meeting",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/jerome+powell+glasses1.png",
-      "eventSlug": "fed-decision-in-march-885",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "MirAsifRodeni",
-      "pseudonym": "Upset-Suede",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x728c4f56632a7407789506854faa32b88a6b9630a7f0d531735058ea80bb551e",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will there be no change in Fed interest rates after the March 2026 meeting?",
-    "market_slug": "fed-decision-in-march-885",
-    "amount": 1575.085
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xecb16e782dcc69f6f48d7f30de2b01213bd3dfd59e97097e6c550eb7ce20292f",
     "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
     "trader": {
@@ -31333,5 +31289,49 @@
     "market": "Madrid Open: Aryna Sabalenka vs Hailey Baptiste",
     "market_slug": "wta-sabalen-baptist-2026-04-28",
     "amount": 2949.959999
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x1c9011b92412a82cb6d0ecfce891b88957cfc5b346988beaf96f219de9484b14",
+    "wallet": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
+    "trader": {
+      "rank": 16,
+      "address": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
+      "username": "GamblingIsAllYouNeed",
+      "profit": 4764639.758240484,
+      "volume": 386988045.98067296,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xc0ff6a9ac424210cf218fda5c5753324c34a9953",
+      "side": "BUY",
+      "asset": "90354743432236305475508196592143013969221071217938704969309359212626908715363",
+      "conditionId": "0x8bd45d7a46bf2903a0d25923f292eae410ad221ac499517f23f6c1aa49c9d3b2",
+      "size": 5562.47,
+      "price": 0.78,
+      "timestamp": 1777411334,
+      "title": "Madrid Open: Daniil Medvedev vs Flavio Cobolli",
+      "slug": "atp-medvede-cobolli-2026-04-28",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+      "eventSlug": "atp-medvede-cobolli-2026-04-28",
+      "outcome": "Daniil Medvedev",
+      "outcomeIndex": 0,
+      "name": "Runaround",
+      "pseudonym": "Strange-Guy",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x1c9011b92412a82cb6d0ecfce891b88957cfc5b346988beaf96f219de9484b14",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Madrid Open: Daniil Medvedev vs Flavio Cobolli",
+    "market_slug": "atp-medvede-cobolli-2026-04-28",
+    "amount": 4338.7266
   }
 ]
