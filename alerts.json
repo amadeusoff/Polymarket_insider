@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xecb16e782dcc69f6f48d7f30de2b01213bd3dfd59e97097e6c550eb7ce20292f",
-    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-    "trader": {
-      "rank": 5,
-      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-      "username": "zxgngl",
-      "profit": 7807265.589240883,
-      "volume": 40551790.62184699,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xc6ae4cdece4be7f21b747eb11f6eaaa37972afe9",
-      "side": "BUY",
-      "asset": "23908744235029436668032187407696757858496393436364928402129538177797433532204",
-      "conditionId": "0x1ebce1a078e88ce3b05e46d6c67f3e0b4a49b5a9ec362ec59c8ad3324c42f233",
-      "size": 2631.578946,
-      "price": 0.3799999998176,
-      "timestamp": 1773509243,
-      "title": "Will SSC Napoli win on 2026-03-14?",
-      "slug": "sea-nap-lec-2026-03-14-nap",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Serie-A-Logo.png",
-      "eventSlug": "sea-nap-lec-2026-03-14",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "RoadTo1MillionUsd",
-      "pseudonym": "Kosher-Wrong",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xecb16e782dcc69f6f48d7f30de2b01213bd3dfd59e97097e6c550eb7ce20292f",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will SSC Napoli win on 2026-03-14?",
-    "market_slug": "sea-nap-lec-2026-03-14",
-    "amount": 999.9999990000001
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xbe27fbd4dd19a8b376b2e313c0c9e6fac6868ced75d643869a979b7c66056d59",
     "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
     "trader": {
@@ -31338,5 +31294,49 @@
     "market": "Madrid Open: Daniil Medvedev vs Flavio Cobolli",
     "market_slug": "atp-medvede-cobolli-2026-04-28",
     "amount": 4338.7266
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x88e09c1f2cae963102818f33f4404efc26b6a21913213b35188159bf7fda1eb8",
+    "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
+    "trader": {
+      "rank": 13,
+      "address": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
+      "username": "mikatrade77",
+      "profit": 5147998.544602999,
+      "volume": 10884765.388775,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
+      "side": "BUY",
+      "asset": "27472202423687732407729356549910447971888419661396814056553564805517349013409",
+      "conditionId": "0xd06c1756f71a818fbce16d630ef0e61b2bc6f7870973406b7ff8026acf176af5",
+      "size": 2657.06,
+      "price": 0.64,
+      "timestamp": 1777460994,
+      "title": "Madrid Open: Karolina Pliskova vs Anastasia Potapova",
+      "slug": "wta-pliskov-potapov-2026-04-29",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wta-logo-41f331bdf1.png",
+      "eventSlug": "wta-pliskov-potapov-2026-04-29",
+      "outcome": "Anastasia Potapova",
+      "outcomeIndex": 1,
+      "name": "tradecraft",
+      "pseudonym": "Slow-Escape",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-1439403-31bec8e6-a9d5-45d6-8c20-964f07c7fdb2.webp",
+      "profileImageOptimized": "",
+      "transactionHash": "0x88e09c1f2cae963102818f33f4404efc26b6a21913213b35188159bf7fda1eb8",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Madrid Open: Karolina Pliskova vs Anastasia Potapova",
+    "market_slug": "wta-pliskov-potapov-2026-04-29",
+    "amount": 1700.5184
   }
 ]
