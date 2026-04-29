@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xbe27fbd4dd19a8b376b2e313c0c9e6fac6868ced75d643869a979b7c66056d59",
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "trader": {
-      "rank": 13,
-      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-      "username": "swisstony",
-      "profit": 5203903.2060777275,
-      "volume": 530048728.464979,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x98dfacc5ff8db7c42b56d0d7cceae05b47fa935a",
-      "side": "BUY",
-      "asset": "26376781271946282014525630058612486676221584995655328605829769157666212198653",
-      "conditionId": "0x1de39250613609a4b0bb415148b0e7173f641de9aa9bfa7a5ab324a6c339c2ba",
-      "size": 1305,
-      "price": 0.99,
-      "timestamp": 1773509543,
-      "title": "Will Hyperliquid dip to $20 in March?",
-      "slug": "will-hyperliquid-dip-to-20-in-march",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/hyperliquid-up-or-down-on-may-22-Fyo58T8HF0AC.jpg",
-      "eventSlug": "what-price-will-hyperliquid-hit-in-march",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "mexicola",
-      "pseudonym": "Jealous-Pimple",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xbe27fbd4dd19a8b376b2e313c0c9e6fac6868ced75d643869a979b7c66056d59",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Hyperliquid dip to $20 in March?",
-    "market_slug": "what-price-will-hyperliquid-hit-in-march",
-    "amount": 1291.95
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x6c6e2aba1ddb40640284d415ac645fb150a8f1482e80cf83c944b07aec14f544",
     "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
     "trader": {
@@ -31338,5 +31294,110 @@
     "market": "Madrid Open: Karolina Pliskova vs Anastasia Potapova",
     "market_slug": "wta-pliskov-potapov-2026-04-29",
     "amount": 1700.5184
+  },
+  {
+    "market": "Counter-Strike: Astralis vs G2 (BO3) - BLAST Rivals Group A",
+    "market_slug": "cs2-ast10-g2-2026",
+    "event_slug": "cs2-ast10-g2-2026",
+    "wallet": "0x9368eb0e0e2ff384095a88960c5a494fed1580a3",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($2,000)",
+        "Low activity (4 txns)"
+      ],
+      "amount": 1999.999999,
+      "odds": 0.559999999944,
+      "raw_price": 0.559999999944,
+      "outcome": "G2",
+      "potential_pnl": 1571.4285710000001,
+      "pnl_multiplier": 0.7857142858928573,
+      "wallet_age_days": 0,
+      "total_activities": 4
+    },
+    "timestamp": "2026-04-29T16:55:28.073982",
+    "trade_hash": "0xa884b22eaeade1aaea185a14695bb01fce404094f720d023e624735baed9de55",
+    "trade_timestamp": 1777481364,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "G2",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.559999999944,
+      "effective_price": 0.559999999944,
+      "size": 3571.42857,
+      "amount": 1999.999999,
+      "potential_pnl": 1571.4285710000001,
+      "pnl_multiplier": 0.7857142858928573,
+      "is_no": false,
+      "slug": "cs2-ast10-g2-2026",
+      "eventSlug": "cs2-ast10-g2-2026-04-29"
+    },
+    "irrationality": {
+      "irrationality_score": 45,
+      "flags": [
+        "Crisis keyword detected ('strike')",
+        "Large mispricing edge (+17.8%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.3814999999776,
+      "market_price": 0.559999999944,
+      "edge": 0.17849999996639998,
+      "edge_percent": 17.849999996639998,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 115,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 70,
+      "insider_position": "NO",
+      "irrationality_score": 45,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.17849999996639998,
+      "edge_percent": 17.849999996639998
+    },
+    "financial_analyst": {
+      "signal_quality": 83.0,
+      "stance": "HIGH_CONVICTION",
+      "edge_percent": 17.85,
+      "signal_strength": 115.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
