@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x6c6e2aba1ddb40640284d415ac645fb150a8f1482e80cf83c944b07aec14f544",
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "trader": {
-      "rank": 13,
-      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-      "username": "swisstony",
-      "profit": 5203903.2060777275,
-      "volume": 530048728.464979,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x8f53d63b8ad39cda2ddaba5c526a0d7c3eade7f8",
-      "side": "BUY",
-      "asset": "34698986821161564964962345431723645135539519380467061026166704508502688672466",
-      "conditionId": "0xb072272b19d54ed55e5f9eb11f4e43c533f89d068079ad944cdc6cee0065ad0e",
-      "size": 3709.74629,
-      "price": 0.887392220560722,
-      "timestamp": 1773509543,
-      "title": "Will Racing Club de Lens win on 2026-03-14?",
-      "slug": "fl1-lor-rcl-2026-03-14-rcl",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-fl1.png",
-      "eventSlug": "fl1-lor-rcl-2026-03-14",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "cryptohippie97",
-      "pseudonym": "Growling-Transcript",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x6c6e2aba1ddb40640284d415ac645fb150a8f1482e80cf83c944b07aec14f544",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Racing Club de Lens win on 2026-03-14?",
-    "market_slug": "fl1-lor-rcl-2026-03-14",
-    "amount": 3291.9999980000002
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x8d6b3fc69b859add67025e18f1e6e949dc340dbaea7cc337bb770c622157572e",
     "wallet": "0xdb27bf2ac5d428a9c63dbc914611036855a6c56e",
     "trader": {
@@ -31399,5 +31355,49 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xf85473003797251537b4046cc9687dd33fb915a5692c6898ed9b806bf6e37c3b",
+    "wallet": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
+    "trader": {
+      "rank": 3,
+      "address": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
+      "username": "kch123",
+      "profit": 12003748.66936255,
+      "volume": 287448607.2302161,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xa1360dbbc43a66cfdbccd72ee8aa868d478c97de",
+      "side": "BUY",
+      "asset": "105509530658065521929005822649620491538474208103684744366955937109627519057368",
+      "conditionId": "0x94a2b2a1b9227e44fc464614e63dfca6d4082310291c35623c3d34b70aa53693",
+      "size": 5000,
+      "price": 0.65,
+      "timestamp": 1777492666,
+      "title": "Will Arsenal FC win on 2026-04-29?",
+      "slug": "ucl-atm1-ars-2026-04-29-ars",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/champions-league-pic-QIUFsL8vaDdq.png",
+      "eventSlug": "ucl-atm1-ars-2026-04-29",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "jdsahgf",
+      "pseudonym": "Growing-Farmland-Emphasis",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xf85473003797251537b4046cc9687dd33fb915a5692c6898ed9b806bf6e37c3b",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Arsenal FC win on 2026-04-29?",
+    "market_slug": "ucl-atm1-ars-2026-04-29",
+    "amount": 3250.0
   }
 ]
