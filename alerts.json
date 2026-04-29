@@ -1,94 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x8d6b3fc69b859add67025e18f1e6e949dc340dbaea7cc337bb770c622157572e",
-    "wallet": "0xdb27bf2ac5d428a9c63dbc914611036855a6c56e",
-    "trader": {
-      "rank": 9,
-      "address": "0xdb27bf2ac5d428a9c63dbc914611036855a6c56e",
-      "username": "DrPufferfish",
-      "profit": 5928629.56148703,
-      "volume": 207419854.28716898,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x046c97f59f7067cd328467128c7a481742cd2a9c",
-      "side": "BUY",
-      "asset": "85413987627013463537299403775624784764986290375706333816888341570797481393421",
-      "conditionId": "0xbf86e797bbc7416a74a90123ce6781bf4fc76bd25a64bf0b94153e5f1d52a1d5",
-      "size": 2005.182922,
-      "price": 0.8198753230753877,
-      "timestamp": 1773510743,
-      "title": "Santiago: Thiago Monteiro vs Genaro Alberto Olivieri",
-      "slug": "atp-monteir-olivier-2026-03-14",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
-      "eventSlug": "atp-monteir-olivier-2026-03-14",
-      "outcome": "Genaro Alberto Olivieri",
-      "outcomeIndex": 1,
-      "name": "Icarus-",
-      "pseudonym": "Winding-Argument",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x8d6b3fc69b859add67025e18f1e6e949dc340dbaea7cc337bb770c622157572e",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Santiago: Thiago Monteiro vs Genaro Alberto Olivieri",
-    "market_slug": "atp-monteir-olivier-2026-03-14",
-    "amount": 1643.9999959999998
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x531457abe7e2b354fdb17bd87ffb51071251d17c806446116aae37972fc7a5c6",
-    "wallet": "0xdb27bf2ac5d428a9c63dbc914611036855a6c56e",
-    "trader": {
-      "rank": 9,
-      "address": "0xdb27bf2ac5d428a9c63dbc914611036855a6c56e",
-      "username": "DrPufferfish",
-      "profit": 5928629.56148703,
-      "volume": 207419854.28716898,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xd0e77a638c0b0ddeef9a59db053d596d63fab14f",
-      "side": "BUY",
-      "asset": "110869774625647847297483294625719024865442757690993620922476091681122575065947",
-      "conditionId": "0x5d4fbc606c90f11cf2217a86939df08e705348572acba2fcccc792ef8b7c1c4b",
-      "size": 5263,
-      "price": 0.34,
-      "timestamp": 1773510743,
-      "title": "Hornets vs. Spurs",
-      "slug": "nba-cha-sas-2026-03-14",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-cha-sas-2026-03-14",
-      "outcome": "Hornets",
-      "outcomeIndex": 0,
-      "name": "PleaseBro",
-      "pseudonym": "Determined-Play",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x531457abe7e2b354fdb17bd87ffb51071251d17c806446116aae37972fc7a5c6",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Hornets vs. Spurs",
-    "market_slug": "nba-cha-sas-2026-03-14",
-    "amount": 1789.42
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x219cf2a62d3ebc3c9b29325f2f7c08726e58a8f29a34a5b9c9b0d51520541e5c",
     "wallet": "0xdb27bf2ac5d428a9c63dbc914611036855a6c56e",
     "trader": {
@@ -31399,5 +31311,93 @@
     "market": "Will Arsenal FC win on 2026-04-29?",
     "market_slug": "ucl-atm1-ars-2026-04-29",
     "amount": 3250.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x549b8faaf3728aaef01b9eb2b0799f937cc145fd23372d13cc59f350a565d81f",
+    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
+    "trader": {
+      "rank": 5,
+      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
+      "username": "zxgngl",
+      "profit": 7807265.589240883,
+      "volume": 40551790.62184699,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xdd882a70680633a75516f6ed5fce443e2d96dadb",
+      "side": "SELL",
+      "asset": "48758486425438602097230699966267145027460929514527168155793090881385634316204",
+      "conditionId": "0x1b2ed75f75bebfa128fdd02a7e7165dd8c8bf71fda9be1dcf80fd16dbff67029",
+      "size": 4019,
+      "price": 0.92,
+      "timestamp": 1777497478,
+      "title": "Counter-Strike: Natus Vincere vs FaZe (BO3) - BLAST Rivals Group B",
+      "slug": "cs2-navi-faze-2026-04-29",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/counter-strike-image-16c415c538.png",
+      "eventSlug": "cs2-navi-faze-2026-04-29",
+      "outcome": "Natus Vincere",
+      "outcomeIndex": 0,
+      "name": "Taoli1",
+      "pseudonym": "Itchy-Caterpillar",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x549b8faaf3728aaef01b9eb2b0799f937cc145fd23372d13cc59f350a565d81f",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Counter-Strike: Natus Vincere vs FaZe (BO3) - BLAST Rivals Group B",
+    "market_slug": "cs2-navi-faze-2026-04-29",
+    "amount": 3697.48
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x42627392532e6753ada75ca308faffa57953c4a99e5d8c95ec5858cfa5ece210",
+    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
+    "trader": {
+      "rank": 5,
+      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
+      "username": "zxgngl",
+      "profit": 7807265.589240883,
+      "volume": 40551790.62184699,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xb652e5dabc3fccd3c939acab0108f99866842db4",
+      "side": "BUY",
+      "asset": "61898840087463782800760426272516099687509248068835370840234236658018605960733",
+      "conditionId": "0xf51f7017cb0eb424a5fec90065ed68cf088518932d049b2dbb74927d1507a52a",
+      "size": 17526.73,
+      "price": 0.49,
+      "timestamp": 1777497478,
+      "title": "Magic vs. Pistons: O/U 211.5",
+      "slug": "nba-orl-det-2026-04-29-total-211pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-orl-det-2026-04-29",
+      "outcome": "Under",
+      "outcomeIndex": 1,
+      "name": "0x2a2C53bD278c04DA9962Fcf96490E17F3DfB9B",
+      "pseudonym": "Several-Semicolon",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-952641-09ade205-c3b9-436f-a03a-f73023fc6740.png",
+      "profileImageOptimized": "",
+      "transactionHash": "0x42627392532e6753ada75ca308faffa57953c4a99e5d8c95ec5858cfa5ece210",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Magic vs. Pistons: O/U 211.5",
+    "market_slug": "nba-orl-det-2026-04-29",
+    "amount": 8588.0977
   }
 ]
