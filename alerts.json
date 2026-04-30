@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x219cf2a62d3ebc3c9b29325f2f7c08726e58a8f29a34a5b9c9b0d51520541e5c",
-    "wallet": "0xdb27bf2ac5d428a9c63dbc914611036855a6c56e",
-    "trader": {
-      "rank": 9,
-      "address": "0xdb27bf2ac5d428a9c63dbc914611036855a6c56e",
-      "username": "DrPufferfish",
-      "profit": 5928629.56148703,
-      "volume": 207419854.28716898,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x0eedcaba1be15492fa8a93ed9d52195953e464c2",
-      "side": "BUY",
-      "asset": "73644540400340051100413239419397966976965664001220634024759989419358258209918",
-      "conditionId": "0x7595bcd5544f75ae557c0dbc7649e06814e2d72600a5fd55eddc8a1e6a26db8e",
-      "size": 5555.555554,
-      "price": 0.2699999998956,
-      "timestamp": 1773510743,
-      "title": "Will Chelsea FC vs. Newcastle United FC end in a draw?",
-      "slug": "epl-che-new-2026-03-14-draw",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/premier+league.jpg",
-      "eventSlug": "epl-che-new-2026-03-14",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "CGUPO",
-      "pseudonym": "Chilly-Payee",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x219cf2a62d3ebc3c9b29325f2f7c08726e58a8f29a34a5b9c9b0d51520541e5c",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Chelsea FC vs. Newcastle United FC end in a draw?",
-    "market_slug": "epl-che-new-2026-03-14",
-    "amount": 1499.9999989999997
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x901dd2581deaa7ce0ad6ae2b8d6f4867119fa71d588011274ee51fcff1f9e5e7",
     "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
     "trader": {
@@ -31399,5 +31355,49 @@
     "market": "Magic vs. Pistons: O/U 211.5",
     "market_slug": "nba-orl-det-2026-04-29",
     "amount": 8588.0977
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x58922e8036b944ef14165e0c5108e5454c18e5c014e401c16b10f46bef5e2116",
+    "wallet": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
+    "trader": {
+      "rank": 4,
+      "address": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
+      "username": "Len9311238",
+      "profit": 8709972.988069998,
+      "volume": 16402744.764626998,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x98fbafc00de1b8ba747047835fce1b4c0f5eb06d",
+      "side": "SELL",
+      "asset": "78706080298155030253900942933463228256456824217748272444749582551608670728136",
+      "conditionId": "0x561e400fc730dd5d6d580c04e7ce626caab7277fb3cec60f78879e2228b6da9b",
+      "size": 53462.01,
+      "price": 0.036491216847252844,
+      "timestamp": 1777531410,
+      "title": "Over $10M committed to the Printr public sale?",
+      "slug": "over-10m-committed-to-the-printr-public-sale",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/printr-public-sale-total-commitments-bEQ-dWPkB96q.jpg",
+      "eventSlug": "printr-public-sale-total-commitments",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "odifof",
+      "pseudonym": "Turbulent-Sorghum",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x58922e8036b944ef14165e0c5108e5454c18e5c014e401c16b10f46bef5e2116",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Over $10M committed to the Printr public sale?",
+    "market_slug": "printr-public-sale-total-commitments",
+    "amount": 1950.8938
   }
 ]
