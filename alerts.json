@@ -1,51 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xba6ff2b42f595ea84c1ef37f47785b77d1c48eb6c1d439d1369fe7b1088e6e4d",
-    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-    "trader": {
-      "rank": 17,
-      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
-      "profit": 4548949.326175865,
-      "volume": 59926153.353648,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xe94bf89e66b852d60866667bddf7bff9dad65abe",
-      "side": "BUY",
-      "asset": "60396150294056475674860934419619480139938118116601719506967369709790058295210",
-      "conditionId": "0x705479cc3e7cf2907997c62b4245356c48b5133f7d82a47829a2354dd77a7c51",
-      "size": 2866.05,
-      "price": 0.197,
-      "timestamp": 1773511045,
-      "title": "Will the U.S. invade Iran by March 31?",
-      "slug": "will-the-us-invade-iran-by-march-31",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-the-us-invade-iran-in-2025-0Eh3J0ku_Fbj.jpg",
-      "eventSlug": "will-the-us-invade-iran-by-march-31",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "PhongLeXBT",
-      "pseudonym": "Cheerful-Parade",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xba6ff2b42f595ea84c1ef37f47785b77d1c48eb6c1d439d1369fe7b1088e6e4d",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will the U.S. invade Iran by March 31?",
-    "market_slug": "will-the-us-invade-iran-by-march-31",
-    "amount": 564.61185,
-    "resolution_last_check": "2026-03-29T06:56:05.864351+00:00"
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xccd1a790339c495405948b4c6f51802b6433919e6f954ada20c28dd61208a2c9",
     "wallet": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
     "trader": {
@@ -31399,5 +31354,49 @@
     "market": "LoL: Ultra Prime vs EDward Gaming (BO3) - LPL Group Nirvana",
     "market_slug": "lol-up-edg-2026-04-30",
     "amount": 1999.9999990000001
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x81fcc38f685a3f3f50272861e32ccfcbd8c7f6ce8208006ec2665b303e5f60fa",
+    "wallet": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
+    "trader": {
+      "rank": 19,
+      "address": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
+      "username": "Jenzigo",
+      "profit": 4049827.0941029997,
+      "volume": 9457725.034338009,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xe6dde73456b7f7c44801a6559c358d26bdfcedaf",
+      "side": "BUY",
+      "asset": "28566235647745140324272418211539415070831226197180722514331674870399690212442",
+      "conditionId": "0xa1fd631a50fccfea882246f7f90652e932f8f1cbc04154da3fd3af63ec322ea6",
+      "size": 4996.774192,
+      "price": 0.30999999989593285,
+      "timestamp": 1777553948,
+      "title": "LoL: Ultra Prime vs EDward Gaming - Game 2 Winner",
+      "slug": "lol-up-edg-2026-04-30-game2",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
+      "eventSlug": "lol-up-edg-2026-04-30",
+      "outcome": "Ultra Prime",
+      "outcomeIndex": 0,
+      "name": "NiuBot",
+      "pseudonym": "Affectionate-Blast",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x81fcc38f685a3f3f50272861e32ccfcbd8c7f6ce8208006ec2665b303e5f60fa",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "LoL: Ultra Prime vs EDward Gaming - Game 2 Winner",
+    "market_slug": "lol-up-edg-2026-04-30",
+    "amount": 1548.999999
   }
 ]
