@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x901dd2581deaa7ce0ad6ae2b8d6f4867119fa71d588011274ee51fcff1f9e5e7",
-    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-    "trader": {
-      "rank": 17,
-      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
-      "profit": 4548949.326175865,
-      "volume": 59926153.353648,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x897686df9783d71f198926b7cb61c0353327ebf3",
-      "side": "SELL",
-      "asset": "111245917748445356120705119950074393193967942028497826347734348592797775138872",
-      "conditionId": "0x233ce0c3969a5cd5079287f16fcd283be7c1db82263e08697f85dbe1b4d2113c",
-      "size": 678.38,
-      "price": 0.997,
-      "timestamp": 1773511045,
-      "title": "Will South Africa win the 2026 FIFA World Cup?",
-      "slug": "will-south-africa-win-the-2026-fifa-world-cup",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-south-africa-win-the-2026-fifa-world-cup-9KALZ7u_frRo.jpg",
-      "eventSlug": "2026-fifa-world-cup-winner-595",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "CBDHFNM",
-      "pseudonym": "Bright-Tragedy",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x901dd2581deaa7ce0ad6ae2b8d6f4867119fa71d588011274ee51fcff1f9e5e7",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will South Africa win the 2026 FIFA World Cup?",
-    "market_slug": "2026-fifa-world-cup-winner-595",
-    "amount": 676.34486
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xba6ff2b42f595ea84c1ef37f47785b77d1c48eb6c1d439d1369fe7b1088e6e4d",
     "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
     "trader": {
@@ -31399,5 +31355,49 @@
     "market": "Over $10M committed to the Printr public sale?",
     "market_slug": "printr-public-sale-total-commitments",
     "amount": 1950.8938
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x4f314e2e5a8bfed0d7642b55205e10bffd36db692443d1aac7cf37b67e15b37d",
+    "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
+    "trader": {
+      "rank": 18,
+      "address": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
+      "username": "432614799197",
+      "profit": 4526176.046413313,
+      "volume": 185485956.8620829,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x86885b4d9faab2d385b20df83f74c1376f119d8c",
+      "side": "BUY",
+      "asset": "13921638597738608611929604974363331791781320189422847138186025420137692085660",
+      "conditionId": "0xbc32282afb28052f3a7a16cd9514c3a64cc133b04f8c00ac78ec7bda0f130a5d",
+      "size": 7142.857141,
+      "price": 0.2799999999328,
+      "timestamp": 1777540422,
+      "title": "LoL: Ultra Prime vs EDward Gaming (BO3) - LPL Group Nirvana",
+      "slug": "lol-up-edg-2026-04-30",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
+      "eventSlug": "lol-up-edg-2026-04-30",
+      "outcome": "Ultra Prime",
+      "outcomeIndex": 0,
+      "name": "RANVABON",
+      "pseudonym": "Worthy-Rug",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x4f314e2e5a8bfed0d7642b55205e10bffd36db692443d1aac7cf37b67e15b37d",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "LoL: Ultra Prime vs EDward Gaming (BO3) - LPL Group Nirvana",
+    "market_slug": "lol-up-edg-2026-04-30",
+    "amount": 1999.9999990000001
   }
 ]
