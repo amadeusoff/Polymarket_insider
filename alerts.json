@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xfb087e5372ebfb24bf75f1e6e183dfa8ffc7356791c43554c345983f40f53b98",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x0c84d454825e9f42619497f6158b4753cd43a8ed",
-      "side": "BUY",
-      "asset": "49245549336290031579679695778378824875023636927679960174066912313036743279237",
-      "conditionId": "0x4de57496404e5e63c2d1d16a4875d7b18a40e2004990003dc6ea1c35e9912002",
-      "size": 2380.952379,
-      "price": 0.4199999999244,
-      "timestamp": 1773513743,
-      "title": "Will Manchester City FC win on 2026-03-14?",
-      "slug": "epl-wes-mac-2026-03-14-mac",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/premier+league.jpg",
-      "eventSlug": "epl-wes-mac-2026-03-14",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "ff3364",
-      "pseudonym": "Flimsy-Horizon",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xfb087e5372ebfb24bf75f1e6e183dfa8ffc7356791c43554c345983f40f53b98",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Manchester City FC win on 2026-03-14?",
-    "market_slug": "epl-wes-mac-2026-03-14",
-    "amount": 999.999999
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x4ccadffdd72e1e292822b5a5d3f5f968711ff7c76fc14d657700c9dab4d5b6a7",
     "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
     "trader": {
@@ -31469,5 +31425,49 @@
     "market": "LoL: Weibo Gaming vs Invictus Gaming - Game 1 Winner",
     "market_slug": "lol-wb-ig1-2026-05-01",
     "amount": 1547.3300000000002
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x7026cbdc9f4f37d28a3e7d227a12c27ba495b8330a003ed4bca4ee45ce012ed7",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "27119555845767968289932394557422754121689277879563254506110196283407170516084",
+      "conditionId": "0xd82dbbed1d037c229288034e590289393a32d3be41ac2dd81438b2c7b8b2320c",
+      "size": 4763,
+      "price": 0.34,
+      "timestamp": 1777664090,
+      "title": "Will US Lecce win on 2026-05-01?",
+      "slug": "sea-pis-lec-2026-05-01-lec",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Serie-A-Logo.png",
+      "eventSlug": "sea-pis-lec-2026-05-01",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "loincloth chic",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x7026cbdc9f4f37d28a3e7d227a12c27ba495b8330a003ed4bca4ee45ce012ed7",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will US Lecce win on 2026-05-01?",
+    "market_slug": "sea-pis-lec-2026-05-01",
+    "amount": 1619.42
   }
 ]
