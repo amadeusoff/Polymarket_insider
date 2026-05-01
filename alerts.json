@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xacb6c217228c62dd0649cb1d6a99eb420a9420f66b30a5dd3203344a62be3429",
-    "wallet": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
-    "trader": {
-      "rank": 20,
-      "address": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
-      "username": "Jenzigo",
-      "profit": 4049827.0941029997,
-      "volume": 9457725.034338009,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x01c78f8873c0c86d6b6b92ff627e3802237ee995",
-      "side": "BUY",
-      "asset": "65107413243926488023479269111195358219087194251948719321390217956437918610949",
-      "conditionId": "0x25ae0b3ce0af14431a45ce7f36f7f07f5ea0fc8a0fa8051a9ed61db5ceeb79c1",
-      "size": 2105.26,
-      "price": 0.39,
-      "timestamp": 1773511943,
-      "title": "Will Arsenal FC win on 2026-03-14?",
-      "slug": "epl-ars-eve-2026-03-14-ars",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/premier+league.jpg",
-      "eventSlug": "epl-ars-eve-2026-03-14",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "Lilybaeum",
-      "pseudonym": "Outlying-Recall",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xacb6c217228c62dd0649cb1d6a99eb420a9420f66b30a5dd3203344a62be3429",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Arsenal FC win on 2026-03-14?",
-    "market_slug": "epl-ars-eve-2026-03-14",
-    "amount": 821.0514000000001
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x32aa6345f169e0820abd39f697f62239fec9b30b98da58989f8e6fbd2cf23296",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -31398,5 +31354,119 @@
     "market": "Abidjan 2: Aziz Dougaz vs Florent Bax",
     "market_slug": "atp-dougaz-bax-2026-04-30",
     "amount": 1668.3500000000001
+  },
+  {
+    "market": "Xi Jinping out before 2027?",
+    "market_slug": "xi-jinping-out-before-2027",
+    "event_slug": "xi-jinping-out-before-2027",
+    "wallet": "0x5bffcf561bcae83af680ad600cb99f1184d6ffbe",
+    "analysis": {
+      "score": 75,
+      "flags": [
+        "Against trend (9.1% effective odds)",
+        "Large bet ($2,174)",
+        "Top trader #41 ($2,302,493 profit)"
+      ],
+      "amount": 2174.4787199999987,
+      "odds": 0.09060327999999995,
+      "raw_price": 0.90939672,
+      "outcome": "No",
+      "potential_pnl": 21825.52128,
+      "pnl_multiplier": 10.037128015674494,
+      "wallet_age_days": 686,
+      "total_activities": 100
+    },
+    "timestamp": "2026-05-01T01:28:09.930186",
+    "trade_hash": "0x404fac5ce3eb28d5865be237a60fe4b3f5df91900f261778de5538495e592a2c",
+    "trade_timestamp": 1777598328,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": {
+      "rank": 41,
+      "address": "0x5bffcf561bcae83af680ad600cb99f1184d6ffbe",
+      "username": "YatSen",
+      "profit": 2302492.971458835,
+      "volume": 343792476.0162029,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade_data": {
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.90939672,
+      "effective_price": 0.90939672,
+      "size": 24000.0,
+      "amount": 21825.52128,
+      "potential_pnl": 2174.478719999999,
+      "pnl_multiplier": 0.0996300932336769,
+      "is_no": true,
+      "slug": "xi-jinping-out-before-2027",
+      "eventSlug": "xi-jinping-out-before-2027"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+40.9%)"
+      ],
+      "category": "other",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.5,
+      "market_price": 0.90939672,
+      "edge": 0.40939672000000005,
+      "edge_percent": 40.939672,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "other",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 110,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 75,
+      "insider_position": "NO",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.40939672000000005,
+      "edge_percent": 40.939672
+    },
+    "financial_analyst": {
+      "signal_quality": 82.0,
+      "stance": "HIGH_CONVICTION",
+      "edge_percent": 40.94,
+      "signal_strength": 110.0,
+      "insider_score": 75.0,
+      "risk_note": "High stake detected \u2014 copy with reduced sizing (25-40% of source risk)."
+    }
   }
 ]
