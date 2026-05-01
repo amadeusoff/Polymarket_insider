@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x32aa6345f169e0820abd39f697f62239fec9b30b98da58989f8e6fbd2cf23296",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x2b9bc671f53325d5dc95884a1877fcf30ad80a88",
-      "side": "BUY",
-      "asset": "67257241906349232705880054817671247803154024437556078414309396160231441958063",
-      "conditionId": "0x4d4bceee5f59f75230c6438f69fc913a6da7afa4098ce0734655045c02a730fc",
-      "size": 517.006,
-      "price": 0.992,
-      "timestamp": 1773513745,
-      "title": "Will Josh Hawley win the 2028 Republican presidential nomination?",
-      "slug": "will-josh-hawley-win-the-2028-republican-presidential-nomination",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Josh_Hawley.png",
-      "eventSlug": "republican-presidential-nominee-2028",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "XiliX",
-      "pseudonym": "Ashamed-Surgeon",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x32aa6345f169e0820abd39f697f62239fec9b30b98da58989f8e6fbd2cf23296",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Josh Hawley win the 2028 Republican presidential nomination?",
-    "market_slug": "republican-presidential-nominee-2028",
-    "amount": 512.869952
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xfb087e5372ebfb24bf75f1e6e183dfa8ffc7356791c43554c345983f40f53b98",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -31469,5 +31425,49 @@
       "risk_note": "High stake detected \u2014 copy with reduced sizing (25-40% of source risk)."
     },
     "resolution_last_check": "2026-05-01T08:17:40.520520+00:00"
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x5b794a9b8f2480cd4b5b51d41b0927ef8825787bfcffe0dcad6017f473eb7752",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x13414a77a4be48988851c73dfd824d0168e70853",
+      "side": "BUY",
+      "asset": "20666024733457898655147468370671060346968198255485787443319573651607606614559",
+      "conditionId": "0x0ed57fcb218fe00090d39bbcb737fcc48ae35b815db884969cb6ace61708588c",
+      "size": 4552,
+      "price": 0.3399231107205624,
+      "timestamp": 1777636794,
+      "title": "LoL: Weibo Gaming vs Invictus Gaming - Game 1 Winner",
+      "slug": "lol-wb-ig1-2026-05-01-game1",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
+      "eventSlug": "lol-wb-ig1-2026-05-01",
+      "outcome": "Weibo Gaming",
+      "outcomeIndex": 0,
+      "name": "NRASCHATTER",
+      "pseudonym": "Practical-Alcohol",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-4043939-c1695cf1-492c-45e6-a5c4-537e510cea02.webp",
+      "profileImageOptimized": "",
+      "transactionHash": "0x5b794a9b8f2480cd4b5b51d41b0927ef8825787bfcffe0dcad6017f473eb7752",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "LoL: Weibo Gaming vs Invictus Gaming - Game 1 Winner",
+    "market_slug": "lol-wb-ig1-2026-05-01",
+    "amount": 1547.3300000000002
   }
 ]
