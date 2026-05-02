@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xa6c74bf5c9364f789cf18e267f35a49eb7099f1d58db631d750a304e722915e0",
-    "wallet": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
-    "trader": {
-      "rank": 2,
-      "address": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
-      "username": "Fredi9999",
-      "profit": 16619506.63173015,
-      "volume": 76611316.905154,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x3e73934b881659aa25a4f08bc8ab9067295bc4ec",
-      "side": "BUY",
-      "asset": "84154807193993320804234241686770276310233716339450749037375431570535699225801",
-      "conditionId": "0xc7fbdd5cf0a2dec10684002a814a97579415c16ac211ae19be541986f46fc794",
-      "size": 771.08,
-      "price": 0.99,
-      "timestamp": 1773515245,
-      "title": "Toronto FC vs. New York Red Bulls: O/U 1.5",
-      "slug": "mls-tor-nyr-2026-03-14-total-1pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/mls-soccer-all-star-game-winner-r8__FzcgT9JC.png",
-      "eventSlug": "mls-tor-nyr-2026-03-14-more-markets",
-      "outcome": "Over",
-      "outcomeIndex": 0,
-      "name": "0xc1dA8SO23a3D915E7FcA367bbBFSO4E74DSO27A",
-      "pseudonym": "Negligible-Certification",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xa6c74bf5c9364f789cf18e267f35a49eb7099f1d58db631d750a304e722915e0",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Toronto FC vs. New York Red Bulls: O/U 1.5",
-    "market_slug": "mls-tor-nyr-2026-03-14-more-markets",
-    "amount": 763.3692
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x25d5e0382d5e561cc7200428a92c16054e7effc2eacfa2dea14ff7745c5de8da",
     "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
     "trader": {
@@ -31530,5 +31486,49 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x15a4569b210313014478668634608180b8caccf47d38c82bc09d034ad9b2d3e1",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x4924c71c054637d76d0a96d6d097a0d95f77f328",
+      "side": "BUY",
+      "asset": "65596395217369351759847503685059651127401724807087821846097948300306625779018",
+      "conditionId": "0x40118c26a1fca2827a4501cab87609f2d4d0a62c4b56ff5cbec7a53b20e492c8",
+      "size": 4787.688489,
+      "price": 0.5179952715591142,
+      "timestamp": 1777696240,
+      "title": "Shymkent 2: Antoine Ghibaudo vs Manoj Dhamne Manas",
+      "slug": "atp-ghibaud-manas-2026-05-02",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+      "eventSlug": "atp-ghibaud-manas-2026-05-02",
+      "outcome": "Antoine Ghibaudo",
+      "outcomeIndex": 0,
+      "name": "Aussieoioioi",
+      "pseudonym": "Broken-Retouching",
+      "bio": "Memory is in the future",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-1327089-cc0ccbab-adab-40e5-a2eb-7a5aa20e6a9a.jpeg",
+      "profileImageOptimized": "",
+      "transactionHash": "0x15a4569b210313014478668634608180b8caccf47d38c82bc09d034ad9b2d3e1",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Shymkent 2: Antoine Ghibaudo vs Manoj Dhamne Manas",
+    "market_slug": "atp-ghibaud-manas-2026-05-02",
+    "amount": 2479.999999
   }
 ]
