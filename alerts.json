@@ -31485,7 +31485,8 @@
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
+    },
+    "resolution_last_check": "2026-05-02T07:50:04.614526+00:00"
   },
   {
     "type": "TOP_TRADER",
@@ -31529,6 +31530,7 @@
     },
     "market": "Shymkent 2: Antoine Ghibaudo vs Manoj Dhamne Manas",
     "market_slug": "atp-ghibaud-manas-2026-05-02",
-    "amount": 2479.999999
+    "amount": 2479.999999,
+    "resolution_last_check": "2026-05-02T07:50:05.385266+00:00"
   }
 ]
