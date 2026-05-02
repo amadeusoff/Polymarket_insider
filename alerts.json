@@ -1,95 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x603ab4794e9bd24ddee2f9b19ca6057fddaa4cf2fad077b89b743903a0068ea3",
-    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
-    "trader": {
-      "rank": 11,
-      "address": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
-      "username": "BetTom42",
-      "profit": 5642135.735356,
-      "volume": 11212839.523402998,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x199c0fc1a9d0d8f81dba600627c18c4e21257d79",
-      "side": "BUY",
-      "asset": "57216272564529548464686463691236811991956032201293786790337952253964682584376",
-      "conditionId": "0xd595eb9b81885ff018738300c79047e3ec89e87294424f57a29a7fa9162bf116",
-      "size": 1195,
-      "price": 0.898,
-      "timestamp": 1773515547,
-      "title": "Will Trump acquire Greenland before 2027?",
-      "slug": "will-trump-acquire-greenland-before-2027",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-trump-acquire-greenland-in-2025-5ZDkcIGhdBMW.jpg",
-      "eventSlug": "will-trump-acquire-greenland-before-2027",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "amethyst513sabrina",
-      "pseudonym": "Rotating-Pension",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x603ab4794e9bd24ddee2f9b19ca6057fddaa4cf2fad077b89b743903a0068ea3",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Trump acquire Greenland before 2027?",
-    "market_slug": "will-trump-acquire-greenland-before-2027",
-    "amount": 1073.1100000000001,
-    "resolution_last_check": "2026-03-29T06:56:13.045354+00:00"
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x652d71072ad7e22068d264e3142463f4a663a26d7d316d478f0373495a1cc927",
-    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
-    "trader": {
-      "rank": 11,
-      "address": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
-      "username": "BetTom42",
-      "profit": 5642135.735356,
-      "volume": 11212839.523402998,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xdf7c41ed782c7a9f67dae5ff22fa3f80b5e7288f",
-      "side": "BUY",
-      "asset": "16292998164437715433662093684375597033753256461863698881684021795789375814500",
-      "conditionId": "0x12ca08f950bb13cefe9c9daf2ff8cd406aa322cc1b1711dc9c6108c20f6fa83c",
-      "size": 951,
-      "price": 0.987,
-      "timestamp": 1773515547,
-      "title": "Will Adam Scott win the 2026 Masters tournament?",
-      "slug": "will-adam-scott-win-the-2026-masters-tournament",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-adam-scott-win-the-2026-masters-tournament-XrUqTEaeOK2x.png",
-      "eventSlug": "the-masters-winner",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "0xDF7c41ed782c7a9f67daE5Ff22fa3F80b5e7288f-1749091271696",
-      "pseudonym": "Messy-Batting",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x652d71072ad7e22068d264e3142463f4a663a26d7d316d478f0373495a1cc927",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Adam Scott win the 2026 Masters tournament?",
-    "market_slug": "the-masters-winner",
-    "amount": 938.637
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x501bb4ba9ba92da3a3bd921ddeeb6a89360b50aee286d2426761b4e9bd25e93f",
     "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
     "trader": {
@@ -31531,5 +31442,93 @@
     "market": "UFC Fight Night: Themba Gorimbo vs. Jonathan Micallef (Welterweight, Prelims)",
     "market_slug": "ufc-the2-jon21-2026-05-02",
     "amount": 10720.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xce22c5ec4a569112f43a9c7c7bfa2eb858f610876f8199f6e23eb3ce95cbc3f5",
+    "wallet": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
+    "trader": {
+      "rank": 15,
+      "address": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
+      "username": "GamblingIsAllYouNeed",
+      "profit": 4881181.912244495,
+      "volume": 394055261.12417907,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x7523cafcee7bcf2db9a79d80e0d79b88a9a54c4c",
+      "side": "BUY",
+      "asset": "109716724019363983618880291507628426436817303220087305938342349144073848356715",
+      "conditionId": "0xc6ddb19f848ac363330d0a690cfe6818d4c51e837161a41d42675eda27767ed0",
+      "size": 86454.67,
+      "price": 0.654,
+      "timestamp": 1777730770,
+      "title": "Will Finland win Eurovision 2026?",
+      "slug": "will-finland-win-eurovision-2026",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-finland-win-eurovision-2026-U6zsO_IBsxmn.png",
+      "eventSlug": "eurovision-winner-2026",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "DonaldinhoTrumpito",
+      "pseudonym": "Optimal-Pecan",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Donaldinho_94ac17c3-c2a3-4c98-afe1-f23770d0784d_1721814915831.PNG",
+      "profileImageOptimized": "",
+      "transactionHash": "0xce22c5ec4a569112f43a9c7c7bfa2eb858f610876f8199f6e23eb3ce95cbc3f5",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Finland win Eurovision 2026?",
+    "market_slug": "eurovision-winner-2026",
+    "amount": 56541.35418
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xdf827ba6116de2ce6d3be1e249c3b299b89d114296f38e32964ca50407397acb",
+    "wallet": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
+    "trader": {
+      "rank": 15,
+      "address": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
+      "username": "GamblingIsAllYouNeed",
+      "profit": 4881181.912244495,
+      "volume": 394055261.12417907,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xb66582886125a2a2ea966f1ea60ea60b6ecabf8f",
+      "side": "BUY",
+      "asset": "1910830010387565971650098373488592514702818137344973088263643820608151819241",
+      "conditionId": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "size": 8000,
+      "price": 0.7,
+      "timestamp": 1777730770,
+      "title": "Will the U.S. invade Iran before 2027?",
+      "slug": "will-the-us-invade-iran-before-2027",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-the-us-invade-iran-in-2025-0Eh3J0ku_Fbj.jpg",
+      "eventSlug": "will-the-us-invade-iran-before-2027",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "Aeglos",
+      "pseudonym": "Reflecting-Leisure",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xdf827ba6116de2ce6d3be1e249c3b299b89d114296f38e32964ca50407397acb",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will the U.S. invade Iran before 2027?",
+    "market_slug": "will-the-us-invade-iran-before-2027",
+    "amount": 5600.0
   }
 ]
