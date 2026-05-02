@@ -1,94 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x501bb4ba9ba92da3a3bd921ddeeb6a89360b50aee286d2426761b4e9bd25e93f",
-    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
-    "trader": {
-      "rank": 11,
-      "address": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
-      "username": "BetTom42",
-      "profit": 5642135.735356,
-      "volume": 11212839.523402998,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xf33c72c503231d5cb92ed191a59688c6d4a54c38",
-      "side": "BUY",
-      "asset": "104310686213836683567040090563385010068371618645775975297525226302352062873023",
-      "conditionId": "0x22748eda34a92b30beff5b475f0753bf26d10791c46260aed38549da4b821ffa",
-      "size": 1000,
-      "price": 0.659,
-      "timestamp": 1773515547,
-      "title": "LoL: Team Phantasma vs BOMBA Team - Game 2 Winner",
-      "slug": "lol-tp2-bombat-2026-03-14-game2",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
-      "eventSlug": "lol-tp2-bombat-2026-03-14",
-      "outcome": "Team Phantasma",
-      "outcomeIndex": 0,
-      "name": "849waga9wpfj4wa8fj449wa8fljwaf94wal9f8fj4a",
-      "pseudonym": "Large-Indication",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x501bb4ba9ba92da3a3bd921ddeeb6a89360b50aee286d2426761b4e9bd25e93f",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "LoL: Team Phantasma vs BOMBA Team - Game 2 Winner",
-    "market_slug": "lol-tp2-bombat-2026-03-14",
-    "amount": 659.0
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x728db180ea1d36cd50c10eccf6e68760a7fe97e5da65f1f739e858f749c16aff",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xefbb277c49e92bf109425fdd636156050954d067",
-      "side": "SELL",
-      "asset": "34220741429594258097073024559653293456941151791855242282623448356444769966538",
-      "conditionId": "0x0d7df475442dc327a13f0f5e8e46bebb22b1814b9707aa08b1188265616cc37c",
-      "size": 1354.6,
-      "price": 0.999,
-      "timestamp": 1773516747,
-      "title": "Will Chelsea FC win on 2026-03-14?",
-      "slug": "epl-che-new-2026-03-14-che",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/premier+league.jpg",
-      "eventSlug": "epl-che-new-2026-03-14",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "Canadaaa",
-      "pseudonym": "Empty-Sky",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x728db180ea1d36cd50c10eccf6e68760a7fe97e5da65f1f739e858f749c16aff",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Chelsea FC win on 2026-03-14?",
-    "market_slug": "epl-che-new-2026-03-14",
-    "amount": 1353.2454
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xeb735741ec4051d34416295d364ccff3096e94ccb75e9a23a1120dd5c71ed209",
     "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
     "trader": {
@@ -31530,5 +31442,154 @@
     "market": "Will the U.S. invade Iran before 2027?",
     "market_slug": "will-the-us-invade-iran-before-2027",
     "amount": 5600.0
+  },
+  {
+    "market": "Total Kills Over/Under 27.5 in Game 1?",
+    "market_slug": "lol-vit-sk-2026-05-02-game1-kill-over-27pt5",
+    "event_slug": "lol-vit-sk-2026-05-02-game1-kill-over-27pt5",
+    "wallet": "0x8a8407d1263ed088bd63430675b038725b0f8606",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($3,196)",
+        "Low activity (2 txns)"
+      ],
+      "amount": 3196.5,
+      "odds": 0.5,
+      "raw_price": 0.5,
+      "outcome": "Over",
+      "potential_pnl": 3196.5,
+      "pnl_multiplier": 1.0,
+      "wallet_age_days": 0,
+      "total_activities": 2
+    },
+    "timestamp": "2026-05-02T17:01:38.033023",
+    "trade_hash": "0x29e0b372699e533e3b0ad635b880e67cf1dd07bba2d715fb9ba1eb1631d2f6ec",
+    "trade_timestamp": 1777740986,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Over",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.5,
+      "effective_price": 0.5,
+      "size": 6393.0,
+      "amount": 3196.5,
+      "potential_pnl": 3196.5,
+      "pnl_multiplier": 1.0,
+      "is_no": false,
+      "slug": "lol-vit-sk-2026-05-02-game1-kill-over-27pt5",
+      "eventSlug": "lol-vit-sk-2026-05-02"
+    },
+    "irrationality": {
+      "irrationality_score": 25,
+      "flags": [
+        "Significant mispricing edge (+14.3%)"
+      ],
+      "category": "other",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.3575,
+      "market_price": 0.5,
+      "edge": 0.14250000000000002,
+      "edge_percent": 14.250000000000002,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "other",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 25,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.14250000000000002,
+      "edge_percent": 14.250000000000002
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 40.4,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 14.25,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x58d3d2eb15ae6cd241a5050139f7e94303fa32a591723335d31034f11f042d91",
+    "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+    "trader": {
+      "rank": 11,
+      "address": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+      "username": "KeyTransporter",
+      "profit": 5711459.802519929,
+      "volume": 20086062.154324993,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xbf1507f54ce14730c68e7e0bac98d25924472aa9",
+      "side": "SELL",
+      "asset": "57727829891857468055167010647476308301291771484265206100280566738850672830778",
+      "conditionId": "0x1a061debd170a1f1b7b9cd475a7c79ef1a8ce8f87bf106a1c15609c51f520457",
+      "size": 5496.16,
+      "price": 0.9100545835637973,
+      "timestamp": 1777741626,
+      "title": "Counter-Strike: NeverPlay vs VP.Future (BO3) - Exort Series Contenders Stage",
+      "slug": "cs2-np1-vpf-2026-05-02",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/counter-strike-image-16c415c538.png",
+      "eventSlug": "cs2-np1-vpf-2026-05-02",
+      "outcome": "NeverPlay",
+      "outcomeIndex": 0,
+      "name": "Vovanister123",
+      "pseudonym": "Violent-Diagram",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x58d3d2eb15ae6cd241a5050139f7e94303fa32a591723335d31034f11f042d91",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Counter-Strike: NeverPlay vs VP.Future (BO3) - Exort Series Contenders Stage",
+    "market_slug": "cs2-np1-vpf-2026-05-02",
+    "amount": 5001.8056
   }
 ]
