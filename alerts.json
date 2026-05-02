@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x9226f3ab4555bf0c174af3f430d719745f1277e8e07eeacfa1b19a6bd3c557d6",
-    "wallet": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
-    "trader": {
-      "rank": 20,
-      "address": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
-      "username": "Jenzigo",
-      "profit": 4049827.0941029997,
-      "volume": 9457725.03433801,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x92cf7a97f6b7183d705d8884313e9de3488ade6b",
-      "side": "SELL",
-      "asset": "33955781353214392337231265891840750509546891570180968521335335401684072357362",
-      "conditionId": "0x298157e618b5729dafd742eec9b21e040a13da0bb09ff1fa4492360c347e3824",
-      "size": 2763.81,
-      "price": 0.998,
-      "timestamp": 1773517647,
-      "title": "Will the Utah Jazz win the 2026 NBA Finals?",
-      "slug": "will-the-utah-jazz-win-the-2026-nba-finals",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nba-finals-points-leader-7g2ZEZvMXxLb.jpg",
-      "eventSlug": "2026-nba-champion",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "circuitChoctaw",
-      "pseudonym": "French-Making",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x9226f3ab4555bf0c174af3f430d719745f1277e8e07eeacfa1b19a6bd3c557d6",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will the Utah Jazz win the 2026 NBA Finals?",
-    "market_slug": "2026-nba-champion",
-    "amount": 2758.28238
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x598a9ac3240900c50043b66c48c26aa8b26a9fbe7e529f0f177fefa60107fd42",
     "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
     "trader": {
@@ -31651,5 +31607,49 @@
     "market": "Will Marco Rubio win the 2028 US Presidential Election?",
     "market_slug": "presidential-election-winner-2028",
     "amount": 1615.37273
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x67d9faabcea311bfdb342b90c8accc0d3518fa4c49425dbc435802266a3e4a76",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xb652e5dabc3fccd3c939acab0108f99866842db4",
+      "side": "BUY",
+      "asset": "107646571855528571179151689880725360637302367736699759018841667621188213338134",
+      "conditionId": "0xca7dbcb739e6a52cdf246ccc2200eea42bde2f1ca731eac8319a02e3ca916926",
+      "size": 10155.37,
+      "price": 0.49,
+      "timestamp": 1777764742,
+      "title": "76ers vs. Celtics: O/U 205.5",
+      "slug": "nba-phi-bos-2026-05-02-total-205pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-phi-bos-2026-05-02",
+      "outcome": "Over",
+      "outcomeIndex": 0,
+      "name": "0x2a2C53bD278c04DA9962Fcf96490E17F3DfB9B",
+      "pseudonym": "Several-Semicolon",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-952641-09ade205-c3b9-436f-a03a-f73023fc6740.png",
+      "profileImageOptimized": "",
+      "transactionHash": "0x67d9faabcea311bfdb342b90c8accc0d3518fa4c49425dbc435802266a3e4a76",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "76ers vs. Celtics: O/U 205.5",
+    "market_slug": "nba-phi-bos-2026-05-02",
+    "amount": 4976.1313
   }
 ]
