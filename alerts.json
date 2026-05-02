@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xbbab0b7bc806193ade6e94a5e4b7fcdb9c18396b7d3969fbf4765c833ffef10e",
-    "wallet": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
-    "trader": {
-      "rank": 20,
-      "address": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
-      "username": "Jenzigo",
-      "profit": 4049827.0941029997,
-      "volume": 9457725.03433801,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
-      "side": "BUY",
-      "asset": "41812155496900816044824504754141171010671068079781007506998777856072250533281",
-      "conditionId": "0xcd84d6e0058f2c83f5f9b560163504fbe37ca9367511ca44d76aa64b3845f545",
-      "size": 2487.36,
-      "price": 0.38,
-      "timestamp": 1773517647,
-      "title": "Avalanche vs. Jets",
-      "slug": "nhl-col-wpg-2026-03-14",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nhl.png",
-      "eventSlug": "nhl-col-wpg-2026-03-14",
-      "outcome": "Jets",
-      "outcomeIndex": 1,
-      "name": "tutedefore",
-      "pseudonym": "Corrupt-Poisoning",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-2123373-2afb1873-478c-4079-9d7b-229444e83c4c.webp",
-      "profileImageOptimized": "",
-      "transactionHash": "0xbbab0b7bc806193ade6e94a5e4b7fcdb9c18396b7d3969fbf4765c833ffef10e",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Avalanche vs. Jets",
-    "market_slug": "nhl-col-wpg-2026-03-14",
-    "amount": 945.1968
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x9226f3ab4555bf0c174af3f430d719745f1277e8e07eeacfa1b19a6bd3c557d6",
     "wallet": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
     "trader": {
@@ -31651,5 +31607,49 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xd271b23d5737d410bf905dcd7f5ebacc386268504baa4a6e61ef5990e78cb127",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x90de72fa8c59d6f01e2bc1be5e11fe87310421f7",
+      "side": "SELL",
+      "asset": "11171618905857319805355893398009978356002287408842633593535559412449299952250",
+      "conditionId": "0x2053d8515f1b8cbeea4ccdb56e60e89c2617e43a8660d95166b8e71d27865277",
+      "size": 15887.63,
+      "price": 0.10167487095306223,
+      "timestamp": 1777758440,
+      "title": "Will Marco Rubio win the 2028 US Presidential Election?",
+      "slug": "will-marco-rubio-win-the-2028-us-presidential-election",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-marco-rubio-win-the-2028-us-presidential-election-snF_pVUw4Ymx.png",
+      "eventSlug": "presidential-election-winner-2028",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "0x90DE72fA8c59d6F01E2Bc1bE5E11fE87310421F7-1769739832700",
+      "pseudonym": "Understated-Playwright",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xd271b23d5737d410bf905dcd7f5ebacc386268504baa4a6e61ef5990e78cb127",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Marco Rubio win the 2028 US Presidential Election?",
+    "market_slug": "presidential-election-winner-2028",
+    "amount": 1615.37273
   }
 ]
