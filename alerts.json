@@ -1,51 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xeb735741ec4051d34416295d364ccff3096e94ccb75e9a23a1120dd5c71ed209",
-    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
-    "trader": {
-      "rank": 11,
-      "address": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
-      "username": "BetTom42",
-      "profit": 5642135.735356,
-      "volume": 11212839.523403,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x64db84746e703cc03e24b31d0ff248e36cc189bb",
-      "side": "BUY",
-      "asset": "38397507750621893057346880033441136112987238933685677349709401910643842844855",
-      "conditionId": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
-      "size": 3151.333332,
-      "price": 0.26999999979691136,
-      "timestamp": 1773517345,
-      "title": "Will the Iranian regime fall by June 30?",
-      "slug": "will-the-iranian-regime-fall-by-june-30",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-the-iranian-regime-fall-in-2025-YLXIniTmQs4q.png",
-      "eventSlug": "will-the-iranian-regime-fall-by-june-30",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "TrumpFollower752x",
-      "pseudonym": "Flickering-Value",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-5156028-487599af-6102-4be2-9f3b-71c9ed581614.jpg",
-      "profileImageOptimized": "",
-      "transactionHash": "0xeb735741ec4051d34416295d364ccff3096e94ccb75e9a23a1120dd5c71ed209",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will the Iranian regime fall by June 30?",
-    "market_slug": "will-the-iranian-regime-fall-by-june-30",
-    "amount": 850.859999,
-    "resolution_last_check": "2026-03-29T06:56:14.243584+00:00"
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xbbab0b7bc806193ade6e94a5e4b7fcdb9c18396b7d3969fbf4765c833ffef10e",
     "wallet": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
     "trader": {
@@ -31591,5 +31546,110 @@
     "market": "Counter-Strike: NeverPlay vs VP.Future (BO3) - Exort Series Contenders Stage",
     "market_slug": "cs2-np1-vpf-2026-05-02",
     "amount": 5001.8056
+  },
+  {
+    "market": "San Francisco Giants vs. Tampa Bay Rays",
+    "market_slug": "mlb-sf-tb-2026",
+    "event_slug": "mlb-sf-tb-2026",
+    "wallet": "0x8a8407d1263ed088bd63430675b038725b0f8606",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($5,252)",
+        "Low activity (3 txns)"
+      ],
+      "amount": 5252.49,
+      "odds": 0.51,
+      "raw_price": 0.51,
+      "outcome": "San Francisco Giants",
+      "potential_pnl": 5046.51,
+      "pnl_multiplier": 0.9607843137254902,
+      "wallet_age_days": 0,
+      "total_activities": 3
+    },
+    "timestamp": "2026-05-02T17:59:48.898115",
+    "trade_hash": "0x0e67f96c558c1b011bd275d34ac0e320787c3bd45d6954f9b6a7d722b38005ad",
+    "trade_timestamp": 1777744614,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "San Francisco Giants",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.51,
+      "effective_price": 0.51,
+      "size": 10299.0,
+      "amount": 5252.49,
+      "potential_pnl": 5046.51,
+      "pnl_multiplier": 0.9607843137254902,
+      "is_no": false,
+      "slug": "mlb-sf-tb-2026",
+      "eventSlug": "mlb-sf-tb-2026-05-02"
+    },
+    "irrationality": {
+      "irrationality_score": 25,
+      "flags": [
+        "Significant mispricing edge (+14.9%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.3615,
+      "market_price": 0.51,
+      "edge": 0.14850000000000002,
+      "edge_percent": 14.850000000000001,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 25,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.14850000000000002,
+      "edge_percent": 14.850000000000001
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 41.3,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 14.85,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
