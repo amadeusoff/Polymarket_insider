@@ -31220,7 +31220,8 @@
     },
     "market": "Will the U.S. invade Iran before 2027?",
     "market_slug": "will-the-us-invade-iran-before-2027",
-    "amount": 5600.0
+    "amount": 5600.0,
+    "resolution_last_check": "2026-05-03T08:06:54.422513+00:00"
   },
   {
     "market": "Total Kills Over/Under 27.5 in Game 1?",
@@ -31562,7 +31563,13 @@
     },
     "market": "76ers vs. Celtics: O/U 205.5",
     "market_slug": "nba-phi-bos-2026-05-02",
-    "amount": 4976.1313
+    "amount": 4976.1313,
+    "resolution": {
+      "outcome": "76ers",
+      "checked_at": "2026-05-03T08:06:58.568909+00:00",
+      "insider_win": null,
+      "model_correct": null
+    }
   },
   {
     "type": "TOP_TRADER",
