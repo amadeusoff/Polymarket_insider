@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x05759f941c54183d12c4371b4ac5666ac7452418ed740c6caabc98e1e1530e87",
-    "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
-    "trader": {
-      "rank": 14,
-      "address": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
-      "username": "mikatrade77",
-      "profit": 5147998.544602999,
-      "volume": 10884765.388775,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x21f333307ac6d2e65ac82f014b3dd2b64cbc35e3",
-      "side": "BUY",
-      "asset": "44550673687211281434399813121338070566237772850887125134101981336514063288449",
-      "conditionId": "0xc26bb33bbcab925e550545e584e292e43d65bce9d8342fb6736c081219c898bb",
-      "size": 1446.76,
-      "price": 0.48,
-      "timestamp": 1773522147,
-      "title": "Spread: Celtics (-20.5)",
-      "slug": "nba-was-bos-2026-03-14-spread-home-20pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-was-bos-2026-03-14",
-      "outcome": "Celtics",
-      "outcomeIndex": 0,
-      "name": "hi774c",
-      "pseudonym": "Stylish-Jiffy",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x05759f941c54183d12c4371b4ac5666ac7452418ed740c6caabc98e1e1530e87",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Spread: Celtics (-20.5)",
-    "market_slug": "nba-was-bos-2026-03-14",
-    "amount": 694.4448
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x66952f7d70ad7eff0dadf6da538e9c22435a53669e0c6d90ac29b430c360fbac",
     "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
     "trader": {
@@ -31658,5 +31614,116 @@
     "market": "Will Juventus FC win on 2026-05-03?",
     "market_slug": "sea-juv-ver-2026-05-03",
     "amount": 22414.699999999997
+  },
+  {
+    "market": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 8, 2026?",
+    "market_slug": "will-donald-trump-announce-that-the-united-states-blockade-of-the-strait-of-hormuz-has-been-lifted-by-may-8-2026-522",
+    "event_slug": "will-donald-trump-announce-that-the-united-states-blockade-of-the-strait-of-hormuz-has-been-lifted-by-may-8-2026-522",
+    "wallet": "0x83dc2d909ceacda3a0965feb9dde3d4c38592623",
+    "analysis": {
+      "score": 105,
+      "flags": [
+        "New wallet (0d old)",
+        "Against trend (4.2% effective odds)",
+        "Pre-event latency: 6329m"
+      ],
+      "amount": 134.0220000000001,
+      "odds": 0.04200000000000004,
+      "raw_price": 0.958,
+      "outcome": "No",
+      "potential_pnl": 3056.9779999999996,
+      "pnl_multiplier": 22.80952380952379,
+      "wallet_age_days": 0,
+      "total_activities": 11
+    },
+    "timestamp": "2026-05-03T14:38:11.530454",
+    "trade_hash": "0x95c3431066726bd07006378834c1f0ebb05cf89864e527bd5dfdf01c77c9d656",
+    "trade_timestamp": 1777818648,
+    "latency": {
+      "latency_seconds": 379752.0,
+      "latency_minutes": 6329.2,
+      "is_pre_event": true,
+      "severity": "CRITICAL",
+      "trade_time": "2026-05-03T14:30:48+00:00",
+      "event_time": "2026-05-08T00:00:00+00:00"
+    },
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.958,
+      "effective_price": 0.958,
+      "size": 3191.0,
+      "amount": 3056.978,
+      "potential_pnl": 134.02199999999993,
+      "pnl_multiplier": 0.043841336116910205,
+      "is_no": true,
+      "slug": "will-donald-trump-announce-that-the-united-states-blockade-of-the-strait-of-hormuz-has-been-lifted-by-may-8-2026-522",
+      "eventSlug": "trump-announces-us-blockade-of-hormuz-lifted-by"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+45.8%)"
+      ],
+      "category": "politics_near",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.02,
+        "min_edge": 0.03
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.5,
+      "market_price": 0.958,
+      "edge": 0.45799999999999996,
+      "edge_percent": 45.8,
+      "min_edge_required": 0.03,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 140,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 105,
+      "insider_position": "NO",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.45799999999999996,
+      "edge_percent": 45.8
+    },
+    "financial_analyst": {
+      "signal_quality": 87.0,
+      "stance": "HIGH_CONVICTION",
+      "edge_percent": 45.8,
+      "signal_strength": 140.0,
+      "insider_score": 105.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
