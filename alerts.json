@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x66952f7d70ad7eff0dadf6da538e9c22435a53669e0c6d90ac29b430c360fbac",
-    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
-    "trader": {
-      "rank": 11,
-      "address": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
-      "username": "BetTom42",
-      "profit": 5642135.735356,
-      "volume": 11212839.523403002,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xafbacaeeda63f31202759eff7f8126e49adfe61b",
-      "side": "BUY",
-      "asset": "48875513370398749474044426577707295656374048483033898724290076722147339568829",
-      "conditionId": "0xd03c87c0b03680386aacb28a19e47f9243c0c0933be3d934d322325cc35e921f",
-      "size": 9010.04,
-      "price": 0.3,
-      "timestamp": 1773523351,
-      "title": "UFC Fight Night: SuYoung You vs. Elijah Smith (Bantamweight, Prelims)",
-      "slug": "ufc-suy-eli9-2026-03-14",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ufc-logo-37bbbd28e6.png",
-      "eventSlug": "ufc-suy-eli9-2026-03-14",
-      "outcome": "SuYoung You",
-      "outcomeIndex": 0,
-      "name": "SammySledge",
-      "pseudonym": "Elated-Bee",
-      "bio": "Man, money aint got no owners. Only spenders",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x66952f7d70ad7eff0dadf6da538e9c22435a53669e0c6d90ac29b430c360fbac",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "UFC Fight Night: SuYoung You vs. Elijah Smith (Bantamweight, Prelims)",
-    "market_slug": "ufc-suy-eli9-2026-03-14",
-    "amount": 2703.012
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xfd6977f34f4bf0a8f36231be3623230368a40f19892c11afb61c053cd8d7a0c7",
     "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
     "trader": {
@@ -31725,5 +31681,49 @@
       "insider_score": 105.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xd82d37ef5557c2e188250d02f99e34f67ac82248f5e1bec843f0643c8b6d4797",
+    "wallet": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
+    "trader": {
+      "rank": 19,
+      "address": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
+      "username": "Jenzigo",
+      "profit": 4049827.0941029997,
+      "volume": 9457725.034338009,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x91eee6b7cea1916214daebec3b92b7513079c5b8",
+      "side": "BUY",
+      "asset": "51100851787664828466723051492679629662642990767916606709996577893433115854246",
+      "conditionId": "0x030e3bd256805c33f271e2683e4cdbf2dbad25f93a38172d876acd30fff309cd",
+      "size": 20000,
+      "price": 0.47,
+      "timestamp": 1777833776,
+      "title": "Will Real Madrid CF win on 2026-05-03?",
+      "slug": "lal-esp-rea-2026-05-03-rea",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-lal.png",
+      "eventSlug": "lal-esp-rea-2026-05-03",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "everydaymortgage",
+      "pseudonym": "Boiling-Fill",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xd82d37ef5557c2e188250d02f99e34f67ac82248f5e1bec843f0643c8b6d4797",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Real Madrid CF win on 2026-05-03?",
+    "market_slug": "lal-esp-rea-2026-05-03",
+    "amount": 9400.0
   }
 ]
