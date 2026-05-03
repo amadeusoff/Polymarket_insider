@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xfd6977f34f4bf0a8f36231be3623230368a40f19892c11afb61c053cd8d7a0c7",
-    "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
-    "trader": {
-      "rank": 18,
-      "address": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
-      "username": "432614799197",
-      "profit": 4543549.165836023,
-      "volume": 185485956.86208287,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x706ccabb8023add7fe4e773aaaab812eb2d6a94b",
-      "side": "SELL",
-      "asset": "43844893274652694909493529099004269415454316401232185138819429254111040362035",
-      "conditionId": "0xc49142a0a94b68377bbc3f2e7f7f53a400274e2dcd4536cfa343be55a3c1fdf8",
-      "size": 9301.23,
-      "price": 0.7506351633063584,
-      "timestamp": 1773529051,
-      "title": "Will another country strike Iran by March 31?",
-      "slug": "will-another-country-strike-iran-by-march-31-833",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-another-country-strike-iran-by-march-31-zJNlYmZd_b7P.jpg",
-      "eventSlug": "will-another-country-strike-iran-by-march-31",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "Amrosein",
-      "pseudonym": "Untidy-Sensor",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xfd6977f34f4bf0a8f36231be3623230368a40f19892c11afb61c053cd8d7a0c7",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will another country strike Iran by March 31?",
-    "market_slug": "will-another-country-strike-iran-by-march-31",
-    "amount": 6981.8303
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x53785e70890bfa5d70279b6a1ced4c7072009b88a7b755deecca00dd79ea8ae9",
     "wallet": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
     "trader": {
@@ -31725,5 +31681,49 @@
     "market": "Will Real Madrid CF win on 2026-05-03?",
     "market_slug": "lal-esp-rea-2026-05-03",
     "amount": 9400.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xbc46e3dc1a78bd348d9ee8db9194038a18db963d81acc72c9fc1df7a90b37ada",
+    "wallet": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
+    "trader": {
+      "rank": 3,
+      "address": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
+      "username": "kch123",
+      "profit": 12072900.022657357,
+      "volume": 288148989.706795,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x4956f69ada024c5cb23ed4f38f0dc4c04d2ee2c7",
+      "side": "SELL",
+      "asset": "100223828145771557365481497973228524653584015683453730224651209016438239024987",
+      "conditionId": "0x441a76dd2bb884e6a35b0e29755b49c9296dca3855e1403e341ae5fcc698de5c",
+      "size": 11304.33,
+      "price": 0.37887086629636607,
+      "timestamp": 1777840080,
+      "title": "Will CA River Plate win on 2026-03-08?",
+      "slug": "arg-riv-cat-2026-03-08-riv",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/argentina-primera-division-fdedea0d80.png",
+      "eventSlug": "arg-riv-cat-2026-03-08",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "justbusiness1",
+      "pseudonym": "Cooperative-Nestmate",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xbc46e3dc1a78bd348d9ee8db9194038a18db963d81acc72c9fc1df7a90b37ada",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will CA River Plate win on 2026-03-08?",
+    "market_slug": "arg-riv-cat-2026-03-08",
+    "amount": 4282.8813
   }
 ]
