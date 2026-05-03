@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x4b0fa9c52e838870d404b61ed4bc0d263061a4ec045ee0cf8fbed72b99cb18aa",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xf0539f60c737e58ebdebd1b56ba9474f912e3939",
-      "side": "BUY",
-      "asset": "81736251650478859583744521687304624464914588466905965631299493107495824037594",
-      "conditionId": "0x8de6484aa16780433434f2b184f2dbbcdf332fbad31b42b11d7e64140462967d",
-      "size": 3497.92,
-      "price": 0.91,
-      "timestamp": 1773520345,
-      "title": "Will Elche CF win on 2026-03-14?",
-      "slug": "lal-rea-elc-2026-03-14-elc",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-lal.png",
-      "eventSlug": "lal-rea-elc-2026-03-14",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "lvcn",
-      "pseudonym": "Ringed-Makeup",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x4b0fa9c52e838870d404b61ed4bc0d263061a4ec045ee0cf8fbed72b99cb18aa",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Elche CF win on 2026-03-14?",
-    "market_slug": "lal-rea-elc-2026-03-14",
-    "amount": 3183.1072000000004
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x05759f941c54183d12c4371b4ac5666ac7452418ed740c6caabc98e1e1530e87",
     "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
     "trader": {
@@ -31658,5 +31614,49 @@
     "market": "LoL: ThunderTalk Gaming vs LNG Esports - Game 2 Winner",
     "market_slug": "lol-tt-lng-2026-05-03",
     "amount": 2007.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x3f22c313a43c0462373f9404b7575c22e74eb8bf70fc7d827752032e23e20243",
+    "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
+    "trader": {
+      "rank": 7,
+      "address": "0x863134d00841b2e200492805a01e1e2f5defaa53",
+      "username": "RepTrump",
+      "profit": 7532409.671579,
+      "volume": 13983231.103425,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x27f738fe203827445690339104aae35b20bc44b0",
+      "side": "BUY",
+      "asset": "18322317650032129911964612844300431868548845843782559545687904284950103143952",
+      "conditionId": "0x20ae9464a229d78473165315ac63b969f44184a8cb00c03bc5d130cc02a61e07",
+      "size": 27335,
+      "price": 0.82,
+      "timestamp": 1777816068,
+      "title": "Will Juventus FC win on 2026-05-03?",
+      "slug": "sea-juv-ver-2026-05-03-juv",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Serie-A-Logo.png",
+      "eventSlug": "sea-juv-ver-2026-05-03",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "ic4cream",
+      "pseudonym": "Hateful-Chord",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x3f22c313a43c0462373f9404b7575c22e74eb8bf70fc7d827752032e23e20243",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Juventus FC win on 2026-05-03?",
+    "market_slug": "sea-juv-ver-2026-05-03",
+    "amount": 22414.699999999997
   }
 ]
