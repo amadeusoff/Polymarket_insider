@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xe4018a59b56c89c131c7cd1cd4fb3696894b4e18df0999154a539371c7ffc6aa",
-    "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
-    "trader": {
-      "rank": 10,
-      "address": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
-      "username": "KeyTransporter",
-      "profit": 5711459.802519929,
-      "volume": 20086062.154324997,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x83b985ca1e92d9acdb406d38796a8bf776f1b664",
-      "side": "BUY",
-      "asset": "114507466536734360808195115190160357255467689128176113085692265197019898971527",
-      "conditionId": "0x29283b56d3eec6d1d89fff51793d9d2e01579d2379b1d3e9ebda175d3561e809",
-      "size": 1177.676766,
-      "price": 0.989999999711296,
-      "timestamp": 1773518247,
-      "title": "Will Phil Murphy win the 2028 Democratic presidential nomination?",
-      "slug": "will-phil-murphy-win-the-2028-democratic-presidential-nomination-611",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-phil-murphy-win-the-2028-democratic-presidential-nomination-611-TSpDwU2ocX34.png",
-      "eventSlug": "democratic-presidential-nominee-2028",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "dub46",
-      "pseudonym": "Failing-Chalk",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xe4018a59b56c89c131c7cd1cd4fb3696894b4e18df0999154a539371c7ffc6aa",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Phil Murphy win the 2028 Democratic presidential nomination?",
-    "market_slug": "democratic-presidential-nominee-2028",
-    "amount": 1165.899998
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x62778ec3455f1df81a3917b92952878938b76777db8ea72da5001e0d82b33ad3",
     "wallet": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
     "trader": {
@@ -31651,5 +31607,49 @@
     "market": "Will Arsenal FC win on 2026-05-05?",
     "market_slug": "ucl-ars-atm1-2026-05-05",
     "amount": 3799.9975999999997
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xceafdb21869ddac779d9c50c7c01bb86bbd6626b0c371d5138fb6e4938eee899",
+    "wallet": "0xd0c042c08f755ff940249f62745e82d356345565",
+    "trader": {
+      "rank": 16,
+      "address": "0xd0c042c08f755ff940249f62745e82d356345565",
+      "username": "alexmulti",
+      "profit": 4804855.613376001,
+      "volume": 9949068.653841998,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xa8b37cec5fa0b1b8cc3363e4f10a21a4049e4484",
+      "side": "BUY",
+      "asset": "107903187097064440993665243047237103234187359771702998268137476819081108572677",
+      "conditionId": "0x8cf61b7b84b6ac2e0c619867dd6966e688b43e4fd4c866423da2f757c58f0a9f",
+      "size": 4600.53,
+      "price": 0.74,
+      "timestamp": 1777793256,
+      "title": "Will Gold (GC) hit (LOW) $4,200 by end of June?",
+      "slug": "gc-hit-4200-low-jun-2026-737-562-112-239-328-831-356-185-544-513",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/gold-logo-0d00c80498.png",
+      "eventSlug": "gc-hit-jun-2026",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "pechenka2311",
+      "pseudonym": "Advanced-Shipper",
+      "bio": "tg: @pechenkatwink",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xceafdb21869ddac779d9c50c7c01bb86bbd6626b0c371d5138fb6e4938eee899",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Gold (GC) hit (LOW) $4,200 by end of June?",
+    "market_slug": "gc-hit-jun-2026",
+    "amount": 3404.3922
   }
 ]
