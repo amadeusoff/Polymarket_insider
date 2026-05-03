@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x598a9ac3240900c50043b66c48c26aa8b26a9fbe7e529f0f177fefa60107fd42",
-    "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
-    "trader": {
-      "rank": 10,
-      "address": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
-      "username": "KeyTransporter",
-      "profit": 5711459.802519929,
-      "volume": 20086062.154324997,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x4133bcbad1d9c41de776646696f41c34d0a65e70",
-      "side": "BUY",
-      "asset": "82800638025904309087579734586058289663668396199701874902606714160037753969982",
-      "conditionId": "0xfb2502ea04ff6b3f5dda76a6777beffe58557b1690dfebed0c3dae96588b62e8",
-      "size": 1822.84,
-      "price": 0.78,
-      "timestamp": 1773518247,
-      "title": "Will West Ham United FC vs. Manchester City FC end in a draw?",
-      "slug": "epl-wes-mac-2026-03-14-draw",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/premier+league.jpg",
-      "eventSlug": "epl-wes-mac-2026-03-14",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "EF203F2IPFC2ICP20W-CP3",
-      "pseudonym": "Bogus-Fix",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x598a9ac3240900c50043b66c48c26aa8b26a9fbe7e529f0f177fefa60107fd42",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will West Ham United FC vs. Manchester City FC end in a draw?",
-    "market_slug": "epl-wes-mac-2026-03-14",
-    "amount": 1421.8152
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xe4018a59b56c89c131c7cd1cd4fb3696894b4e18df0999154a539371c7ffc6aa",
     "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
     "trader": {
@@ -31651,5 +31607,49 @@
     "market": "76ers vs. Celtics: O/U 205.5",
     "market_slug": "nba-phi-bos-2026-05-02",
     "amount": 4976.1313
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x3078dd6b26ab15c846ea3fb66abbeee48bf05b1b8e181941a475b2836deef463",
+    "wallet": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
+    "trader": {
+      "rank": 19,
+      "address": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
+      "username": "Jenzigo",
+      "profit": 4049827.0941029997,
+      "volume": 9457725.034338009,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x4cb7d8f15053b1e716101945a9b16743a1c03644",
+      "side": "SELL",
+      "asset": "109097593723834860977466902606780660853528686081320280860347028728942311685209",
+      "conditionId": "0x069189619c7ae96da2abd767071f659190af6cadf9ef1c0b875f99268b5b4ebe",
+      "size": 6551.72,
+      "price": 0.58,
+      "timestamp": 1777784854,
+      "title": "Will Arsenal FC win on 2026-05-05?",
+      "slug": "ucl-ars-atm1-2026-05-05-ars",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/champions-league-pic-QIUFsL8vaDdq.png",
+      "eventSlug": "ucl-ars-atm1-2026-05-05",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "0x4Cb7D8F15053B1E716101945A9B16743A1c03644-1772613088724",
+      "pseudonym": "Young-Ruin",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x3078dd6b26ab15c846ea3fb66abbeee48bf05b1b8e181941a475b2836deef463",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Arsenal FC win on 2026-05-05?",
+    "market_slug": "ucl-ars-atm1-2026-05-05",
+    "amount": 3799.9975999999997
   }
 ]
