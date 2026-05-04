@@ -31548,7 +31548,8 @@
       "signal_strength": 140.0,
       "insider_score": 105.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
+    },
+    "resolution_last_check": "2026-05-04T08:35:12.644032+00:00"
   },
   {
     "type": "TOP_TRADER",
@@ -31724,6 +31725,7 @@
     },
     "market": "Strait of Hormuz traffic returns to normal by May 15?",
     "market_slug": "strait-of-hormuz-traffic-returns-to-normal-by-may-15",
-    "amount": 1735.9388000000001
+    "amount": 1735.9388000000001,
+    "resolution_last_check": "2026-05-04T08:35:16.882717+00:00"
   }
 ]
