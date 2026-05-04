@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x53785e70890bfa5d70279b6a1ced4c7072009b88a7b755deecca00dd79ea8ae9",
-    "wallet": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
-    "trader": {
-      "rank": 15,
-      "address": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
-      "username": "gmanas",
-      "profit": 5016784.7538586855,
-      "volume": 529047708.50599104,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xee613b3fc183ee44f9da9c05f53e2da107e3debf",
-      "side": "BUY",
-      "asset": "34869283377703440323383941894688217713531070205322598936747028741052007807950",
-      "conditionId": "0xc34af25221919b98a6c1a743f76cb5f2dca39eccaff88327adb160cf8e4ce2a9",
-      "size": 3087.3,
-      "price": 0.63,
-      "timestamp": 1773532955,
-      "title": "Magic vs. Heat",
-      "slug": "nba-orl-mia-2026-03-14",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-orl-mia-2026-03-14",
-      "outcome": "Heat",
-      "outcomeIndex": 1,
-      "name": "sovereign2013",
-      "pseudonym": "Ultimate-Locality",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x53785e70890bfa5d70279b6a1ced4c7072009b88a7b755deecca00dd79ea8ae9",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Magic vs. Heat",
-    "market_slug": "nba-orl-mia-2026-03-14",
-    "amount": 1944.999
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xc242a88ec6620643be06f642ded3e86d35e83dc55d294f9ea2470d49bb420bb7",
     "wallet": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
     "trader": {
@@ -31725,5 +31681,49 @@
     "market": "Will CA River Plate win on 2026-03-08?",
     "market_slug": "arg-riv-cat-2026-03-08",
     "amount": 4282.8813
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xeae865322f0344061b2c85e62d859e50b9d1638ff1faa6362c6bd441f17bad23",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x25869d34ca274c24da62b7d62e3c2f692d1df071",
+      "side": "BUY",
+      "asset": "75510141519593595592905756501303228790679147724769954526851640896726633288457",
+      "conditionId": "0x876f56564ac763be885001d0ab52c78d2b8a1dfb05b68d4a2ce6bdeb959cc93a",
+      "size": 4088,
+      "price": 0.8735053816046967,
+      "timestamp": 1777852686,
+      "title": "LoL: FlyQuest vs Shopify Rebellion (BO3) - LCS Regular Season",
+      "slug": "lol-fly-sr-2026-05-03",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
+      "eventSlug": "lol-fly-sr-2026-05-03",
+      "outcome": "FlyQuest",
+      "outcomeIndex": 0,
+      "name": "Anemoi",
+      "pseudonym": "Alert-Linguist",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3067950-90c4af65-1bc8-4487-94de-661c9afac744.jpg",
+      "profileImageOptimized": "",
+      "transactionHash": "0xeae865322f0344061b2c85e62d859e50b9d1638ff1faa6362c6bd441f17bad23",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "LoL: FlyQuest vs Shopify Rebellion (BO3) - LCS Regular Season",
+    "market_slug": "lol-fly-sr-2026-05-03",
+    "amount": 3570.8900000000003
   }
 ]
