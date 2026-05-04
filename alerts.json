@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xc242a88ec6620643be06f642ded3e86d35e83dc55d294f9ea2470d49bb420bb7",
-    "wallet": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
-    "trader": {
-      "rank": 15,
-      "address": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
-      "username": "gmanas",
-      "profit": 5016784.7538586855,
-      "volume": 529047708.50599104,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x7c93b791d698fc4c02099f57a87dd70d6bc8f0f6",
-      "side": "SELL",
-      "asset": "89413703435662076766671780767668367664284824115908819707674538237103927401639",
-      "conditionId": "0x5d4fbc606c90f11cf2217a86939df08e705348572acba2fcccc792ef8b7c1c4b",
-      "size": 3833.96,
-      "price": 0.999,
-      "timestamp": 1773532953,
-      "title": "Hornets vs. Spurs",
-      "slug": "nba-cha-sas-2026-03-14",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-cha-sas-2026-03-14",
-      "outcome": "Spurs",
-      "outcomeIndex": 1,
-      "name": "0x7c93b791d698fC4C02099F57a87DD70d6BC8f0F6-1767540586100",
-      "pseudonym": "Aggressive-Runaway",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xc242a88ec6620643be06f642ded3e86d35e83dc55d294f9ea2470d49bb420bb7",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Hornets vs. Spurs",
-    "market_slug": "nba-cha-sas-2026-03-14",
-    "amount": 3830.12604
-  },
-  {
     "market": "Spread: Thunder (-9.5)",
     "market_slug": "nba-min-okc-2026-03-15-spread-home-9pt5",
     "event_slug": "nba-min-okc-2026-03-15-spread-home-9pt5",
@@ -31725,5 +31681,49 @@
     "market": "LoL: FlyQuest vs Shopify Rebellion (BO3) - LCS Regular Season",
     "market_slug": "lol-fly-sr-2026-05-03",
     "amount": 3570.8900000000003
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x46c13766cd467ecf3268a66fa0c62aaeddcb4990aadac0a1f3140f20e6cc5e3b",
+    "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
+    "trader": {
+      "rank": 13,
+      "address": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
+      "username": "mikatrade77",
+      "profit": 5147998.544602999,
+      "volume": 10884765.388774998,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xc96cb25888f25ab1929b575834a6c406234f6a98",
+      "side": "BUY",
+      "asset": "11941591959393922646818837304923279193381647193368590717078836000466185896447",
+      "conditionId": "0xffe381a80c1e36f9e0b03a542aa8fe56e74a67d2566a4e29396d4427aa4244c9",
+      "size": 1886.89,
+      "price": 0.92,
+      "timestamp": 1777879696,
+      "title": "Strait of Hormuz traffic returns to normal by May 15?",
+      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-may-15",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ships-transit-the-strait-of-hormuz-on-any-day-in-march-ERARnetK0FJm.jpg",
+      "eventSlug": "strait-of-hormuz-traffic-returns-to-normal-by-may-15",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "James000",
+      "pseudonym": "Valid-Aim",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x46c13766cd467ecf3268a66fa0c62aaeddcb4990aadac0a1f3140f20e6cc5e3b",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Strait of Hormuz traffic returns to normal by May 15?",
+    "market_slug": "strait-of-hormuz-traffic-returns-to-normal-by-may-15",
+    "amount": 1735.9388000000001
   }
 ]
