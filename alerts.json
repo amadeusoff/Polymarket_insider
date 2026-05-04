@@ -1,110 +1,5 @@
 [
   {
-    "market": "Spread: Thunder (-9.5)",
-    "market_slug": "nba-min-okc-2026-03-15-spread-home-9pt5",
-    "event_slug": "nba-min-okc-2026-03-15-spread-home-9pt5",
-    "wallet": "0x67d550fb3d9facb1d6b317512715b236d597566e",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,382)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 1382.24,
-      "odds": 0.53,
-      "raw_price": 0.53,
-      "outcome": "Timberwolves",
-      "potential_pnl": 1225.76,
-      "pnl_multiplier": 0.8867924528301886,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-03-15T11:53:52.170498",
-    "trade_hash": "0x54dc1cff7d9c40a376e1a14193c9426db59a276c8b0a5e4aa495f37fb6493c90",
-    "trade_timestamp": 1773575535,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Timberwolves",
-      "side": "BUY",
-      "price": 0.53,
-      "effective_price": 0.53,
-      "size": 2608.0,
-      "amount": 1382.24,
-      "potential_pnl": 1225.76,
-      "pnl_multiplier": 0.8867924528301886,
-      "is_no": false,
-      "slug": "nba-min-okc-2026-03-15-spread-home-9pt5",
-      "eventSlug": "nba-min-okc-2026-03-15"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+28.4%)"
-      ],
-      "category": "other",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.246,
-      "market_price": 0.53,
-      "edge": 0.28400000000000003,
-      "edge_percent": 28.400000000000002,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Thunder's offensive performance",
-          "Opponent's defensive weaknesses",
-          "Injury status of key players"
-        ],
-        "weakest_link": "Injury status of key players"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent performance trends of the Thunder",
-        "Public sentiment and betting patterns"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "TIMBERWOLVES",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.28400000000000003,
-      "edge_percent": 28.400000000000002
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 28.4,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "market": "Timberwolves vs. Thunder: O/U 225.5",
     "market_slug": "nba-min-okc-2026-03-15-total-225pt5",
     "event_slug": "nba-min-okc-2026-03-15-total-225pt5",
@@ -31666,5 +31561,49 @@
     "market": "Will Chelsea FC win on 2026-05-04?",
     "market_slug": "epl-che-not-2026-05-04",
     "amount": 164028.5052
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xcbf1c7a1f7a3a91127f0e768773cce57c2c8b024f4c6f0b1529d066029faffa4",
+    "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
+    "trader": {
+      "rank": 13,
+      "address": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
+      "username": "mikatrade77",
+      "profit": 5147998.544602999,
+      "volume": 10884765.388775,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x9495425feeb0c250accb89275c97587011b19a27",
+      "side": "BUY",
+      "asset": "23226418080608532472908512655217307126575719771224687303527824044002460343936",
+      "conditionId": "0x998d69f881036ac580f6dc0a18b6c3ec48f167fd00799db9e58bf43e07b4b27e",
+      "size": 3448.27,
+      "price": 0.58,
+      "timestamp": 1777926520,
+      "title": "Will Manchester City FC win on 2026-05-04?",
+      "slug": "epl-eve-mac-2026-05-04-mac",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/premier+league.jpg",
+      "eventSlug": "epl-eve-mac-2026-05-04",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "LaBradfordSmith22",
+      "pseudonym": "Distant-Traditionalism",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xcbf1c7a1f7a3a91127f0e768773cce57c2c8b024f4c6f0b1529d066029faffa4",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Manchester City FC win on 2026-05-04?",
+    "market_slug": "epl-eve-mac-2026-05-04",
+    "amount": 1999.9966
   }
 ]
