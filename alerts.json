@@ -3,111 +3,6 @@
     "market": "Spread: Thunder (-9.5)",
     "market_slug": "nba-min-okc-2026-03-15-spread-home-9pt5",
     "event_slug": "nba-min-okc-2026-03-15-spread-home-9pt5",
-    "wallet": "0xb8ecd932bd3b3cb64647dbfeb036688d22532268",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,012)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 1011.91,
-      "odds": 0.47,
-      "raw_price": 0.47,
-      "outcome": "Thunder",
-      "potential_pnl": 1141.0900000000001,
-      "pnl_multiplier": 1.1276595744680853,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-03-15T11:53:48.953053",
-    "trade_hash": "0x22294f3d70b9ca6b007614e237d312b2fd30932dacd8c4d720ed4ee32576ac80",
-    "trade_timestamp": 1773575535,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Thunder",
-      "side": "BUY",
-      "price": 0.47,
-      "effective_price": 0.47,
-      "size": 2153.0,
-      "amount": 1011.91,
-      "potential_pnl": 1141.0900000000001,
-      "pnl_multiplier": 1.1276595744680853,
-      "is_no": false,
-      "slug": "nba-min-okc-2026-03-15-spread-home-9pt5",
-      "eventSlug": "nba-min-okc-2026-03-15"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+23.6%)"
-      ],
-      "category": "other",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.23399999999999999,
-      "market_price": 0.47,
-      "edge": 0.236,
-      "edge_percent": 23.599999999999998,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Thunder's key players perform at their peak",
-          "Opposing team struggles with injuries",
-          "Home court advantage for Thunder"
-        ],
-        "weakest_link": "Opposing team struggles with injuries"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Thunder's recent performance trends",
-        "Public sentiment towards Thunder's chances"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "THUNDER",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.236,
-      "edge_percent": 23.599999999999998
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 23.6,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "Spread: Thunder (-9.5)",
-    "market_slug": "nba-min-okc-2026-03-15-spread-home-9pt5",
-    "event_slug": "nba-min-okc-2026-03-15-spread-home-9pt5",
     "wallet": "0x67d550fb3d9facb1d6b317512715b236d597566e",
     "analysis": {
       "score": 70,
@@ -31727,5 +31622,49 @@
     "market_slug": "strait-of-hormuz-traffic-returns-to-normal-by-may-15",
     "amount": 1735.9388000000001,
     "resolution_last_check": "2026-05-04T08:35:16.882717+00:00"
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x52e087bdb9ee7158933cadcfdd0338a1fc4521ce1c28dda01cc8c222b073c6b4",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x0eb568f307e9a48af2c3e688ad6074236712c494",
+      "side": "BUY",
+      "asset": "64770641714156976989474964554615476798703886456878824308372674182516857874046",
+      "conditionId": "0x0433839be2e0889423ff0a0efae939272899d09c284d309b346d3991d003c4c0",
+      "size": 241218.39,
+      "price": 0.68,
+      "timestamp": 1777900104,
+      "title": "Will Chelsea FC win on 2026-05-04?",
+      "slug": "epl-che-not-2026-05-04-che",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/premier+league.jpg",
+      "eventSlug": "epl-che-not-2026-05-04",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "asdfjh",
+      "pseudonym": "Constant-Fit",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x52e087bdb9ee7158933cadcfdd0338a1fc4521ce1c28dda01cc8c222b073c6b4",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Chelsea FC win on 2026-05-04?",
+    "market_slug": "epl-che-not-2026-05-04",
+    "amount": 164028.5052
   }
 ]
