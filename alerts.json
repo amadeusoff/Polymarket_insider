@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x0385d21588903134b898daba933450eece094b7487891903886a786ffcc8f9b6",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.51568201,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x0b79ec091819b05dc86ff14a9b074e181654b400",
-      "side": "BUY",
-      "asset": "58229761249940950038002935478358286851735279378786458024611929797195551773462",
-      "conditionId": "0xea9cae2d80f3adc75f627599c96f9d25b39105c15343763ed545807b9de837f5",
-      "size": 2061.855666,
-      "price": 0.9699999999903,
-      "timestamp": 1773584273,
-      "title": "Bitcoin Up or Down - March 15, 10:15AM-10:20AM ET",
-      "slug": "btc-updown-5m-1773584100",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
-      "eventSlug": "btc-updown-5m-1773584100",
-      "outcome": "Down",
-      "outcomeIndex": 1,
-      "name": "ultraxion",
-      "pseudonym": "Lively-Pathology",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x0385d21588903134b898daba933450eece094b7487891903886a786ffcc8f9b6",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Bitcoin Up or Down - March 15, 10:15AM-10:20AM ET",
-    "market_slug": "btc-updown-5m-1773584100",
-    "amount": 1999.9999959999998
-  },
-  {
     "market": "Mavericks vs. Cavaliers: O/U 235.5",
     "market_slug": "nba-dal-cle-2026-03-15-total-235pt5",
     "event_slug": "nba-dal-cle-2026-03-15-total-235pt5",
@@ -31544,5 +31500,49 @@
     "market": "Flyers vs. Hurricanes",
     "market_slug": "nhl-phi-car-2026-05-04",
     "amount": 1770.6444
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xa93b17ae22ef3b24e8ea39e0c04603761b99bfdcfa1d4add33d29e68f2606cef",
+    "wallet": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
+    "trader": {
+      "rank": 15,
+      "address": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
+      "username": "gmanas",
+      "profit": 4955880.7486921875,
+      "volume": 529047708.505991,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xe3d4dee2427b98042822543f8e1e8ab7bafb2bac",
+      "side": "SELL",
+      "asset": "53651352879118353771933633088926471728398188649280092970151117711631710776244",
+      "conditionId": "0x4f5bdcfe8fecc66e5db147d8577af35fbff1b943c22f23bad2acfcc74baf9318",
+      "size": 8549.86,
+      "price": 0.48,
+      "timestamp": 1777983548,
+      "title": "Internazionali BNL d'Italia: Anna Bondar vs Qinwen Zheng",
+      "slug": "wta-bondar-zhen-2026-05-05",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wta-logo-41f331bdf1.png",
+      "eventSlug": "wta-bondar-zhen-2026-05-05",
+      "outcome": "Qinwen Zheng",
+      "outcomeIndex": 1,
+      "name": "swy01",
+      "pseudonym": "Illustrious-Pinecone",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xa93b17ae22ef3b24e8ea39e0c04603761b99bfdcfa1d4add33d29e68f2606cef",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Internazionali BNL d'Italia: Anna Bondar vs Qinwen Zheng",
+    "market_slug": "wta-bondar-zhen-2026-05-05",
+    "amount": 4103.9328000000005
   }
 ]
