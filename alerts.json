@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x517aa7fd0d60cf876563de019e344c7ee4e824a5619f0eebbf4376695c81d236",
-    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-    "trader": {
-      "rank": 5,
-      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-      "username": "zxgngl",
-      "profit": 7807265.589240883,
-      "volume": 40551790.62184699,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x4133bcbad1d9c41de776646696f41c34d0a65e70",
-      "side": "BUY",
-      "asset": "49199458578674299280518325446666793632087135647583739482099632115201280158865",
-      "conditionId": "0xa6e7b22c7450fbccf515ac7da064b6b6d1c76f187a626a6e6be5126e04c64e67",
-      "size": 5482.89,
-      "price": 0.76,
-      "timestamp": 1773587871,
-      "title": "Will Manchester United FC win on 2026-03-15?",
-      "slug": "epl-mun-ast-2026-03-15-mun",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/premier+league.jpg",
-      "eventSlug": "epl-mun-ast-2026-03-15",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "EF203F2IPFC2ICP20W-CP3",
-      "pseudonym": "Bogus-Fix",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x517aa7fd0d60cf876563de019e344c7ee4e824a5619f0eebbf4376695c81d236",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Manchester United FC win on 2026-03-15?",
-    "market_slug": "epl-mun-ast-2026-03-15",
-    "amount": 4166.9964
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x27077fc0c06bced726f03c48cdd09e1e548e461319d2e349efa17f2ddcf44c7f",
     "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
     "trader": {
@@ -31483,5 +31439,110 @@
     "market": "Will Arsenal FC vs. Club Atl\u00e9tico de Madrid end in a draw?",
     "market_slug": "ucl-ars-atm1-2026-05-05",
     "amount": 1999.9999990000001
+  },
+  {
+    "market": "Spread: Independiente del Valle (-1.5)",
+    "market_slug": "lib-ucv-ind1-2026-05-05-spread-away-1pt5",
+    "event_slug": "lib-ucv-ind1-2026-05-05-spread-away-1pt5",
+    "wallet": "0x6687e41422fe5c3129664d441d95d62e7fc1bf8c",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,758)",
+        "Low activity (3 txns)"
+      ],
+      "amount": 1757.7,
+      "odds": 0.63,
+      "raw_price": 0.63,
+      "outcome": "Universidad Central de Venezuela FC",
+      "potential_pnl": 1032.3,
+      "pnl_multiplier": 0.5873015873015872,
+      "wallet_age_days": 0,
+      "total_activities": 3
+    },
+    "timestamp": "2026-05-05T23:35:43.840260",
+    "trade_hash": "0x407ed394d2266dfb57b45f79fc55c621ca4037e82b02ead28abbd7f6bc0f6ea1",
+    "trade_timestamp": 1778023796,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Universidad Central de Venezuela FC",
+      "outcomeIndex": 1,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.63,
+      "effective_price": 0.63,
+      "size": 2790.0,
+      "amount": 1757.7,
+      "potential_pnl": 1032.3,
+      "pnl_multiplier": 0.5873015873015872,
+      "is_no": false,
+      "slug": "lib-ucv-ind1-2026-05-05-spread-away-1pt5",
+      "eventSlug": "lib-ucv-ind1-2026-05-05-more-markets"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+22.1%)"
+      ],
+      "category": "other",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.4095,
+      "market_price": 0.63,
+      "edge": 0.22050000000000003,
+      "edge_percent": 22.050000000000004,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "other",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.22050000000000003,
+      "edge_percent": 22.050000000000004
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 46.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 22.05,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
