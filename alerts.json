@@ -31350,7 +31350,8 @@
     },
     "market": "Internazionali BNL d'Italia: Federico Cina vs Alexander Blockx",
     "market_slug": "atp-cina-blockx-2026-05-06",
-    "amount": 3538.8663
+    "amount": 3538.8663,
+    "resolution_last_check": "2026-05-06T08:32:04.907958+00:00"
   },
   {
     "type": "TOP_TRADER",
