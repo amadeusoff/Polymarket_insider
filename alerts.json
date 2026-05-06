@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x27077fc0c06bced726f03c48cdd09e1e548e461319d2e349efa17f2ddcf44c7f",
-    "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
-    "trader": {
-      "rank": 6,
-      "address": "0x863134d00841b2e200492805a01e1e2f5defaa53",
-      "username": "RepTrump",
-      "profit": 7532409.671579,
-      "volume": 13983231.103425002,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-      "side": "BUY",
-      "asset": "60203334973257272102706335341054306862744031971487285043273692886903476022862",
-      "conditionId": "0xfcf1bbdfebe8a787f165e324b06706bf6cf55d9fc65f025d9fd532911eb14ec3",
-      "size": 2465,
-      "price": 0.83,
-      "timestamp": 1773589671,
-      "title": "Will RC Strasbourg Alsace vs. Paris FC end in a draw?",
-      "slug": "fl1-str-pfc-2026-03-15-draw",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-fl1.png",
-      "eventSlug": "fl1-str-pfc-2026-03-15",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "swisstony",
-      "pseudonym": "Frail-Possible",
-      "bio": "loincloth chic",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x27077fc0c06bced726f03c48cdd09e1e548e461319d2e349efa17f2ddcf44c7f",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will RC Strasbourg Alsace vs. Paris FC end in a draw?",
-    "market_slug": "fl1-str-pfc-2026-03-15",
-    "amount": 2045.9499999999998
-  },
-  {
     "market": "Spread: Thunder (-9.5)",
     "market_slug": "nba-min-okc-2026-03-15-spread-home-9pt5",
     "event_slug": "nba-min-okc-2026-03-15-spread-home-9pt5",
@@ -31545,5 +31501,49 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xcc2dda5d76971b0d0796bf9733e6c8ad43ba9dff8f44cd0c4c2148913db01997",
+    "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
+    "trader": {
+      "rank": 13,
+      "address": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
+      "username": "mikatrade77",
+      "profit": 5147998.544602999,
+      "volume": 10884765.388775002,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xbe601e361ea42a04ad0e761ecb3cd514986e377c",
+      "side": "BUY",
+      "asset": "114338491037600603552186377092291409913227518550796898229605893813092621964360",
+      "conditionId": "0x133031384e39838f3779ab472c088b4f51b8f97f14f6632ad77a325b84cd70ae",
+      "size": 3534.521047,
+      "price": 0.8487712926610845,
+      "timestamp": 1778079018,
+      "title": "Will Elon Musk post <40 tweets from May 4 to May 6, 2026?",
+      "slug": "elon-musk-of-tweets-may-4-may-6-0-39",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/elon-musk-of-tweets-nov-22-29-apMPG21-pzx_.jpg",
+      "eventSlug": "elon-musk-of-tweets-may-4-may-6",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "0xBE601E361EA42a04AD0e761eCb3cd514986E377c-1768676592217",
+      "pseudonym": "Dense-Muscat",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xcc2dda5d76971b0d0796bf9733e6c8ad43ba9dff8f44cd0c4c2148913db01997",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Elon Musk post <40 tweets from May 4 to May 6, 2026?",
+    "market_slug": "elon-musk-of-tweets-may-4-may-6",
+    "amount": 2999.9999980000002
   }
 ]
