@@ -1,94 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xeea83f630c393fe8e32c204b5025ac1779290eb1cf654389aabca05edafb1245",
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "trader": {
-      "rank": 13,
-      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-      "username": "swisstony",
-      "profit": 5504796.126363945,
-      "volume": 542071869.665497,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-      "side": "BUY",
-      "asset": "90071801684636083398271715498223621894709449110269798531671548679991177475234",
-      "conditionId": "0xd4c218c12c05c564c13afc72a3e99b52529aff64c3f55175b98d5501b704076c",
-      "size": 6155,
-      "price": 0.84,
-      "timestamp": 1773616081,
-      "title": "Will Coritiba FBC win on 2026-03-15?",
-      "slug": "bra-cor-cre-2026-03-15-cor",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/brasilerirao-image-52ef283574.png",
-      "eventSlug": "bra-cor-cre-2026-03-15",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "swisstony",
-      "pseudonym": "Frail-Possible",
-      "bio": "loincloth chic",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xeea83f630c393fe8e32c204b5025ac1779290eb1cf654389aabca05edafb1245",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Coritiba FBC win on 2026-03-15?",
-    "market_slug": "bra-cor-cre-2026-03-15",
-    "amount": 5170.2
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x7f1ce483a72909f7d5f2e0e2e8c24786295cd056df0ad310d1006a81cc13ce0a",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.51568201,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x6ade597c0e2b43c0bf3542cada8a5e330d73f5b0",
-      "side": "BUY",
-      "asset": "31218995787757592150682687098269291857896143833113429627320248318392649066334",
-      "conditionId": "0x58921ff5a49d1d2b13e6a4d4d8b6a6ab5a532cd86d9c36a951c785f9e99f689e",
-      "size": 10000,
-      "price": 0.5,
-      "timestamp": 1773619083,
-      "title": "Spread: Knicks (-14.5)",
-      "slug": "nba-gsw-nyk-2026-03-15-spread-home-14pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-gsw-nyk-2026-03-15",
-      "outcome": "Warriors",
-      "outcomeIndex": 1,
-      "name": "TheOnlyHuman",
-      "pseudonym": "Vital-Boy",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3880352-2c848d1c-d674-41af-a677-157d83998b8b.gif",
-      "profileImageOptimized": "",
-      "transactionHash": "0x7f1ce483a72909f7d5f2e0e2e8c24786295cd056df0ad310d1006a81cc13ce0a",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Spread: Knicks (-14.5)",
-    "market_slug": "nba-gsw-nyk-2026-03-15",
-    "amount": 5000.0
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x1f2230750fdf8973a96e6ab4362568c51bc21b0d8d8341efc74965db9ba0d41c",
     "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
     "trader": {
@@ -31353,5 +31265,93 @@
     "market": "76ers vs. Knicks: O/U 214.5",
     "market_slug": "nba-phi-nyk-2026-05-06",
     "amount": 3300.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xd26c9b1300d44241c90fdc5807305be38de51c47c25fecb4cc7d89cf395781b3",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x19d8b01c0e003f2199b1eb200146784fa5ec1691",
+      "side": "BUY",
+      "asset": "5518911566251899781889104128835691764907233834499578638252776650915687151064",
+      "conditionId": "0x1641148849a1d6adcc05d8767da224ba9c3bb271ab4d3eeca88b582defaacb11",
+      "size": 5000,
+      "price": 0.5565421,
+      "timestamp": 1778153181,
+      "title": "LoL: HANJIN BRION vs BNK FEARX - Game 2 Winner",
+      "slug": "lol-bro2-fox1-2026-05-07-game2",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
+      "eventSlug": "lol-bro2-fox1-2026-05-07",
+      "outcome": "BNK FEARX",
+      "outcomeIndex": 1,
+      "name": "hlzz",
+      "pseudonym": "Imaginary-Setback",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xd26c9b1300d44241c90fdc5807305be38de51c47c25fecb4cc7d89cf395781b3",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "LoL: HANJIN BRION vs BNK FEARX - Game 2 Winner",
+    "market_slug": "lol-bro2-fox1-2026-05-07",
+    "amount": 2782.7105
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xcae022ddcc386c234bb0c9465a611fceb94f798a886b36f57e49b80e297bf12b",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x4d5f6506f6a05537a3fd2e3424586888af0489d7",
+      "side": "SELL",
+      "asset": "114266735877811876021362945683127542532778925409590599016489267644246881997088",
+      "conditionId": "0x79afea6a94f0b3dffb5e0886fa1dbd740d688029f7aba351dc46911bcb1b1f95",
+      "size": 5060.47,
+      "price": 0.45808782583435925,
+      "timestamp": 1778153181,
+      "title": "Will NVIDIA be the largest company in the world by market cap on June 30?",
+      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-june-30-824",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-g6lIgsIlD7lN.jpg",
+      "eventSlug": "largest-company-end-of-june-712",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "0x4d5f6506f6A05537a3fd2e3424586888Af0489D7-1758109338239",
+      "pseudonym": "Unkempt-Argument",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xcae022ddcc386c234bb0c9465a611fceb94f798a886b36f57e49b80e297bf12b",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will NVIDIA be the largest company in the world by market cap on June 30?",
+    "market_slug": "largest-company-end-of-june-712",
+    "amount": 2318.1397
   }
 ]
