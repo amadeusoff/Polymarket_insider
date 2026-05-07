@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x1f2230750fdf8973a96e6ab4362568c51bc21b0d8d8341efc74965db9ba0d41c",
-    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-    "trader": {
-      "rank": 5,
-      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-      "username": "zxgngl",
-      "profit": 7807265.589240883,
-      "volume": 40551790.62184698,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xe8c964006c7cb6f19cc09b564dfa4a61cb850c0c",
-      "side": "BUY",
-      "asset": "98708532867680481207948754953486276901371999075437019970312557812356677883783",
-      "conditionId": "0xb4ef1d530bb7836d45232fff4f6348e5d3586cc55d37e4b86fd86810ae319382",
-      "size": 3554.46,
-      "price": 0.5056358490459872,
-      "timestamp": 1773626285,
-      "title": "Bitcoin Up or Down - March 15, 10:00PM-10:05PM ET",
-      "slug": "btc-updown-5m-1773626400",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
-      "eventSlug": "btc-updown-5m-1773626400",
-      "outcome": "Up",
-      "outcomeIndex": 0,
-      "name": "Kitchaa",
-      "pseudonym": "Legal-Barley",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x1f2230750fdf8973a96e6ab4362568c51bc21b0d8d8341efc74965db9ba0d41c",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Bitcoin Up or Down - March 15, 10:00PM-10:05PM ET",
-    "market_slug": "btc-updown-5m-1773626400",
-    "amount": 1797.2623999999998
-  },
-  {
     "market": "Magic vs. Hawks: O/U 229.5",
     "market_slug": "nba-orl-atl-2026-03-16-total-229pt5",
     "event_slug": "nba-orl-atl-2026-03-16-total-229pt5",
@@ -31353,5 +31309,49 @@
     "market": "Will NVIDIA be the largest company in the world by market cap on June 30?",
     "market_slug": "largest-company-end-of-june-712",
     "amount": 2318.1397
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x4a96f3285fa48b1f8bedf9227e8c6746b4f4e27c7fbfcbc0a2994cb10fe1b77b",
+    "wallet": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
+    "trader": {
+      "rank": 3,
+      "address": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
+      "username": "kch123",
+      "profit": 12332099.756684104,
+      "volume": 289023838.38010705,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+      "side": "BUY",
+      "asset": "67893779531886244553148405862732469990614757609484306666619162613782769656566",
+      "conditionId": "0x3e29051e392ced6f9ee559a48b272271e4599dbc41502483a90bbff4e79a23a2",
+      "size": 5087.720758,
+      "price": 0.7862066705823716,
+      "timestamp": 1778159786,
+      "title": "Internazionali BNL d'Italia: Jasmine Paolini vs Leolia Jeanjean",
+      "slug": "wta-paolini-jeanjea-2026-05-07",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wta-logo-41f331bdf1.png",
+      "eventSlug": "wta-paolini-jeanjea-2026-05-07",
+      "outcome": "Jasmine Paolini",
+      "outcomeIndex": 0,
+      "name": "8934394839",
+      "pseudonym": "Sardonic-Lentil",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x4a96f3285fa48b1f8bedf9227e8c6746b4f4e27c7fbfcbc0a2994cb10fe1b77b",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Internazionali BNL d'Italia: Jasmine Paolini vs Leolia Jeanjean",
+    "market_slug": "wta-paolini-jeanjea-2026-05-07",
+    "amount": 3999.9999980000002
   }
 ]
