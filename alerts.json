@@ -3,111 +3,6 @@
     "market": "Mavericks vs. Pelicans: O/U 239.5",
     "market_slug": "nba-dal-nop-2026-03-16-total-239pt5",
     "event_slug": "nba-dal-nop-2026-03-16-total-239pt5",
-    "wallet": "0xbe69ea24dadd1b0b1b2e107ca2b10fed99393f4b",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,436)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 1435.65,
-      "odds": 0.51,
-      "raw_price": 0.51,
-      "outcome": "Under",
-      "potential_pnl": 1379.35,
-      "pnl_multiplier": 0.9607843137254901,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-03-16T13:48:12.492820",
-    "trade_hash": "0xc8c333faedd1cd8b774b79791daa57250af40e606242f4c5d9ba406c78b0afb5",
-    "trade_timestamp": 1773668707,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Under",
-      "side": "BUY",
-      "price": 0.51,
-      "effective_price": 0.51,
-      "size": 2815.0,
-      "amount": 1435.65,
-      "potential_pnl": 1379.35,
-      "pnl_multiplier": 0.9607843137254901,
-      "is_no": false,
-      "slug": "nba-dal-nop-2026-03-16-total-239pt5",
-      "eventSlug": "nba-dal-nop-2026-03-16"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+26.8%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.242,
-      "market_price": 0.51,
-      "edge": 0.268,
-      "edge_percent": 26.8,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "both teams score efficiently",
-          "high pace of play",
-          "minimal defensive disruptions"
-        ],
-        "weakest_link": "minimal defensive disruptions"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "recent scoring trends of both teams",
-        "injury reports affecting key players"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "UNDER",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.268,
-      "edge_percent": 26.8
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 26.8,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "Mavericks vs. Pelicans: O/U 239.5",
-    "market_slug": "nba-dal-nop-2026-03-16-total-239pt5",
-    "event_slug": "nba-dal-nop-2026-03-16-total-239pt5",
     "wallet": "0xb84a93b4739475786eee74e4de71e789458d5918",
     "analysis": {
       "score": 70,
@@ -31231,5 +31126,49 @@
     "market": "Indian Premier League: Lucknow Super Giants vs Royal Challengers Bangalore",
     "market_slug": "cricipl-luc-roy-2026-05-07",
     "amount": 4050.0000000000005
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xd5aca04c0cd48143a5b8fada61f9b75e0919abc2f683a1b735b229d7c3896404",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xd10c004b80285efadba646a6478d7fa9304d0645",
+      "side": "BUY",
+      "asset": "74343583585615535952903875590437030153873607275999254039726816717733682844545",
+      "conditionId": "0xd28506d466a34de7df7e954f8c68332153eb8b398b91857d113972b79da213bb",
+      "size": 10097.599802,
+      "price": 0.49516717804657556,
+      "timestamp": 1778186496,
+      "title": "SC Freiburg vs. SC Braga: O/U 4.5",
+      "slug": "uel-scf-scb-2026-05-07-total-4pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/uel.png",
+      "eventSlug": "uel-scf-scb-2026-05-07-more-markets",
+      "outcome": "Over",
+      "outcomeIndex": 0,
+      "name": "Sjels",
+      "pseudonym": "Zigzag-Dough",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xd5aca04c0cd48143a5b8fada61f9b75e0919abc2f683a1b735b229d7c3896404",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "SC Freiburg vs. SC Braga: O/U 4.5",
+    "market_slug": "uel-scf-scb-2026-05-07-more-markets",
+    "amount": 4999.999999000001
   }
 ]
