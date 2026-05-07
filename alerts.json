@@ -1,215 +1,5 @@
 [
   {
-    "market": "Magic vs. Hawks: O/U 229.5",
-    "market_slug": "nba-orl-atl-2026-03-16-total-229pt5",
-    "event_slug": "nba-orl-atl-2026-03-16-total-229pt5",
-    "wallet": "0x615cacc891ee28869212a8cbac01f8304c41b09d",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,207)",
-        "Low activity (2 txns)"
-      ],
-      "amount": 1207.2,
-      "odds": 0.48,
-      "raw_price": 0.48,
-      "outcome": "Under",
-      "potential_pnl": 1307.8000000000002,
-      "pnl_multiplier": 1.0833333333333335,
-      "wallet_age_days": 0,
-      "total_activities": 2
-    },
-    "timestamp": "2026-03-16T12:04:59.682155",
-    "trade_hash": "0x7441336fffb8e2cade2c3521f82f476faa8a9cd93899f8ef92dbc6f73f7d4c82",
-    "trade_timestamp": 1773662335,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Under",
-      "side": "BUY",
-      "price": 0.48,
-      "effective_price": 0.48,
-      "size": 2515.0,
-      "amount": 1207.2,
-      "potential_pnl": 1307.8000000000002,
-      "pnl_multiplier": 1.0833333333333335,
-      "is_no": false,
-      "slug": "nba-orl-atl-2026-03-16-total-229pt5",
-      "eventSlug": "nba-orl-atl-2026-03-16"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+24.4%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.236,
-      "market_price": 0.48,
-      "edge": 0.244,
-      "edge_percent": 24.4,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Both teams score efficiently",
-          "Defensive strategies are ineffective",
-          "Game pace is fast"
-        ],
-        "weakest_link": "Defensive strategies are ineffective"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent offensive performances",
-        "Injury status of key players"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "UNDER",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.244,
-      "edge_percent": 24.4
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 24.4,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "Mavericks vs. Pelicans: O/U 239.5",
-    "market_slug": "nba-dal-nop-2026-03-16-total-239pt5",
-    "event_slug": "nba-dal-nop-2026-03-16-total-239pt5",
-    "wallet": "0xa634e0eaf2980073ebe08837183279f5f67cb1ba",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,288)",
-        "Low activity (2 txns)"
-      ],
-      "amount": 1287.9285,
-      "odds": 0.51,
-      "raw_price": 0.51,
-      "outcome": "Under",
-      "potential_pnl": 1237.4215,
-      "pnl_multiplier": 0.9607843137254901,
-      "wallet_age_days": 0,
-      "total_activities": 2
-    },
-    "timestamp": "2026-03-16T13:48:09.436977",
-    "trade_hash": "0x70f4910ab40074830bf36b73772ddeb4a9a8a7ca64330415587e29dd0ef4d786",
-    "trade_timestamp": 1773668707,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Under",
-      "side": "BUY",
-      "price": 0.51,
-      "effective_price": 0.51,
-      "size": 2525.35,
-      "amount": 1287.9285,
-      "potential_pnl": 1237.4215,
-      "pnl_multiplier": 0.9607843137254901,
-      "is_no": false,
-      "slug": "nba-dal-nop-2026-03-16-total-239pt5",
-      "eventSlug": "nba-dal-nop-2026-03-16"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+26.8%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.242,
-      "market_price": 0.51,
-      "edge": 0.268,
-      "edge_percent": 26.8,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Both teams score efficiently",
-          "Defensive lapses from both teams",
-          "High pace of play"
-        ],
-        "weakest_link": "Defensive lapses from both teams"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent offensive performances",
-        "Injury status of key players"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "UNDER",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.268,
-      "edge_percent": 26.8
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 26.8,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "market": "Mavericks vs. Pelicans: O/U 239.5",
     "market_slug": "nba-dal-nop-2026-03-16-total-239pt5",
     "event_slug": "nba-dal-nop-2026-03-16-total-239pt5",
@@ -31353,5 +31143,93 @@
     "market": "Internazionali BNL d'Italia: Jasmine Paolini vs Leolia Jeanjean",
     "market_slug": "wta-paolini-jeanjea-2026-05-07",
     "amount": 3999.9999980000002
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x58e91e87268517d647a5501ca3bc7f5718b9ca31cc3ff86f10b3b69b73977885",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x1e33447f03ad92e650a05e403cd7d69cbe7fafb3",
+      "side": "BUY",
+      "asset": "75953446785005609168449382055538054005266251148191205217002415226250184581142",
+      "conditionId": "0xe9b27cc28b660785b1fbdad3c1ea8ecb77d643f620e1659b52726a7f215b8c5d",
+      "size": 4581.104165,
+      "price": 0.4799999999563424,
+      "timestamp": 1778174778,
+      "title": "Internazionali BNL d'Italia: Solana Sierra vs Anhelina Kalinina",
+      "slug": "wta-sierra-kalinin-2026-05-07",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wta-logo-41f331bdf1.png",
+      "eventSlug": "wta-sierra-kalinin-2026-05-07",
+      "outcome": "Solana Sierra",
+      "outcomeIndex": 0,
+      "name": "Lne89",
+      "pseudonym": "Feisty-Fight",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x58e91e87268517d647a5501ca3bc7f5718b9ca31cc3ff86f10b3b69b73977885",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Internazionali BNL d'Italia: Solana Sierra vs Anhelina Kalinina",
+    "market_slug": "wta-sierra-kalinin-2026-05-07",
+    "amount": 2198.929999
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x058e044237cbb8b51f224c38fcaaba4125d216f3234d0faa12d275ebd2332365",
+    "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
+    "trader": {
+      "rank": 8,
+      "address": "0x863134d00841b2e200492805a01e1e2f5defaa53",
+      "username": "RepTrump",
+      "profit": 7532409.671579,
+      "volume": 13983231.103425,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x490e807c5a431752bee1a5b48cbfbcb4a45773ad",
+      "side": "BUY",
+      "asset": "76898730783142119322550299537881233029435621909497871841834116619428674801329",
+      "conditionId": "0xe0ac3a331b45e3aee718ca8b5d9a01bf93c6e80ffd0c8340a3b4d409fce025d6",
+      "size": 5000,
+      "price": 0.81,
+      "timestamp": 1778175079,
+      "title": "Indian Premier League: Lucknow Super Giants vs Royal Challengers Bangalore",
+      "slug": "cricipl-luc-roy-2026-05-07",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+      "eventSlug": "cricipl-luc-roy-2026-05-07",
+      "outcome": "Lucknow Super Giants",
+      "outcomeIndex": 0,
+      "name": "TheBall",
+      "pseudonym": "Breakable-Adviser",
+      "bio": "357774",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-1057415-5cd5789b-e66c-4a97-aa73-6d81847f4e54.png",
+      "profileImageOptimized": "",
+      "transactionHash": "0x058e044237cbb8b51f224c38fcaaba4125d216f3234d0faa12d275ebd2332365",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Indian Premier League: Lucknow Super Giants vs Royal Challengers Bangalore",
+    "market_slug": "cricipl-luc-roy-2026-05-07",
+    "amount": 4050.0000000000005
   }
 ]
