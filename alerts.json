@@ -1,259 +1,5 @@
 [
   {
-    "market": "Pacers vs. Bucks",
-    "market_slug": "nba-ind-mil-2026",
-    "event_slug": "nba-ind-mil-2026",
-    "wallet": "0xf191cd550623fac328501e75dee7eea4f1de5b58",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,650)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 1650.0,
-      "odds": 0.66,
-      "raw_price": 0.66,
-      "outcome": "Bucks",
-      "potential_pnl": 849.9999999999998,
-      "pnl_multiplier": 0.515151515151515,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-03-15T20:49:29.081382",
-    "trade_hash": "0xa6c2288e831f192300aa6d222e29a598e9910d3703f6b219a133918e97f5e734",
-    "trade_timestamp": 1773607419,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Bucks",
-      "side": "BUY",
-      "price": 0.66,
-      "effective_price": 0.66,
-      "size": 2500.0,
-      "amount": 1650.0,
-      "potential_pnl": 849.9999999999998,
-      "pnl_multiplier": 0.515151515151515,
-      "is_no": false,
-      "slug": "nba-ind-mil-2026",
-      "eventSlug": "nba-ind-mil-2026-03-15"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+38.8%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.272,
-      "market_price": 0.66,
-      "edge": 0.388,
-      "edge_percent": 38.800000000000004,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Pacers maintain key player health",
-          "Bucks perform consistently well",
-          "External factors (e.g., injuries to other teams) favor the Pacers"
-        ],
-        "weakest_link": "External factors (e.g., injuries to other teams) favor the Pacers"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Team performance trends",
-        "Injury reports and player availability"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "BUCKS",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.388,
-      "edge_percent": 38.800000000000004
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 38.8,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "Will Matt Fitzpatrick win the 2026 THE PLAYERS Championship?",
-    "market_slug": "2026-the-players-championship-winner-matt-fitzpatrick-win",
-    "event_slug": "2026-the-players-championship-winner-matt-fitzpatrick-win",
-    "wallet": "0xe5ebef8e455c9344a96706beb3c1aa69878ac512",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,499)",
-        "Low activity (3 txns)"
-      ],
-      "amount": 1499.049999,
-      "odds": 0.48867684742465706,
-      "raw_price": 0.48867684742465706,
-      "outcome": "Yes",
-      "potential_pnl": 1568.5191050000003,
-      "pnl_multiplier": 1.046342087352885,
-      "wallet_age_days": 0,
-      "total_activities": 3
-    },
-    "timestamp": "2026-03-15T21:05:06.688269",
-    "trade_hash": "0xf834f64610eb983b37eb193114dac6c12966f806d15ffa978c5cfe071d084a6a",
-    "trade_timestamp": 1773608623,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "side": "BUY",
-      "price": 0.48867684742465706,
-      "effective_price": 0.48867684742465706,
-      "size": 3067.569104,
-      "amount": 1499.049999,
-      "potential_pnl": 1568.5191050000003,
-      "pnl_multiplier": 1.046342087352885,
-      "is_no": false,
-      "slug": "2026-the-players-championship-winner-matt-fitzpatrick-win",
-      "eventSlug": "2026-the-players-championship-winner"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+33.1%)"
-      ],
-      "category": "politics_near",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.02,
-        "min_edge": 0.03
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.15773536948493141,
-      "market_price": 0.48867684742465706,
-      "edge": 0.3309414779397256,
-      "edge_percent": 33.09414779397256,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "occasional",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "occasional",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Matt Fitzpatrick maintains peak performance leading up to the tournament",
-          "Fitzpatrick avoids significant injuries in the years prior",
-          "Course conditions favor Fitzpatrick's playing style during the tournament"
-        ],
-        "weakest_link": "Fitzpatrick avoids significant injuries in the years prior"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Fitzpatrick's recent performance in major tournaments",
-        "Public perception and media coverage of Fitzpatrick leading up to the event"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "CONFLICT",
-      "signal_emoji": "\u26a0\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider buying YES despite statistical overpricing",
-      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
-      "insider_score": 70,
-      "insider_position": "YES",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.3309414779397256,
-      "edge_percent": 33.09414779397256
-    },
-    "financial_analyst": {
-      "signal_quality": 46.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 33.09,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x3bf9c861b87ea40e4cabeae28ee5b3f7875033cbecc83697be63424065d6b111",
-    "wallet": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
-    "trader": {
-      "rank": 2,
-      "address": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
-      "username": "Fredi9999",
-      "profit": 16619506.63173015,
-      "volume": 76611316.90515402,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
-      "side": "BUY",
-      "asset": "50574567645727124635653196810032330622350265808688675376294694711594635702125",
-      "conditionId": "0xd277196552fc532d3aa80aad1e84e293b57f8bc24499d86ff703cc14ab71713c",
-      "size": 1700,
-      "price": 0.95,
-      "timestamp": 1773610679,
-      "title": "Mavericks vs. Cavaliers",
-      "slug": "nba-dal-cle-2026-03-15",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-dal-cle-2026-03-15",
-      "outcome": "Mavericks",
-      "outcomeIndex": 0,
-      "name": "curie",
-      "pseudonym": "Illiterate-Counterforce",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x3bf9c861b87ea40e4cabeae28ee5b3f7875033cbecc83697be63424065d6b111",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Mavericks vs. Cavaliers",
-    "market_slug": "nba-dal-cle-2026-03-15",
-    "amount": 1615.0
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0xeea83f630c393fe8e32c204b5025ac1779290eb1cf654389aabca05edafb1245",
     "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
@@ -31474,5 +31220,137 @@
     "market": "Athletics vs. Philadelphia Phillies",
     "market_slug": "mlb-oak-phi-2026-05-06",
     "amount": 9546.408
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xb765ccc18e986ccd7ed2a14294d1f9b62d38848cb903a6217d1a4aa199d5a8a0",
+    "wallet": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
+    "trader": {
+      "rank": 4,
+      "address": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
+      "username": "Len9311238",
+      "profit": 8709972.988069998,
+      "volume": 16402744.764627,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x5b6331e7ff0831a3fe2ed12004747db1a9c911a4",
+      "side": "BUY",
+      "asset": "26104816692143190673703252988694101728161888777222466355318686994630337690105",
+      "conditionId": "0x0fb23b9a75c931152a17dcc8f659fd401c6e911f47a0e4088d5394581be0b3bd",
+      "size": 2314.153845,
+      "price": 0.6499999998919691,
+      "timestamp": 1778112478,
+      "title": "76ers vs. Knicks",
+      "slug": "nba-phi-nyk-2026-05-06",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-phi-nyk-2026-05-06",
+      "outcome": "Knicks",
+      "outcomeIndex": 1,
+      "name": "neutralwave23",
+      "pseudonym": "Monstrous-Dew",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xb765ccc18e986ccd7ed2a14294d1f9b62d38848cb903a6217d1a4aa199d5a8a0",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "76ers vs. Knicks",
+    "market_slug": "nba-phi-nyk-2026-05-06",
+    "amount": 1504.1999989999997
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x8bf679b54e1184cc6f412f2d759367a8117097936774d585f35adaebd6508ab2",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "trader": {
+      "rank": 5,
+      "address": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+      "username": "RN1",
+      "profit": 8473751.32797555,
+      "volume": 510247874.9789579,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x38c2734df152fcd3a27469770b5b08a0e62fd3a7",
+      "side": "BUY",
+      "asset": "26104816692143190673703252988694101728161888777222466355318686994630337690105",
+      "conditionId": "0x0fb23b9a75c931152a17dcc8f659fd401c6e911f47a0e4088d5394581be0b3bd",
+      "size": 8461.53846,
+      "price": 0.65,
+      "timestamp": 1778112494,
+      "title": "76ers vs. Knicks",
+      "slug": "nba-phi-nyk-2026-05-06",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-phi-nyk-2026-05-06",
+      "outcome": "Knicks",
+      "outcomeIndex": 1,
+      "name": "Bigboybandi",
+      "pseudonym": "Ready-Dissonance",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x8bf679b54e1184cc6f412f2d759367a8117097936774d585f35adaebd6508ab2",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "76ers vs. Knicks",
+    "market_slug": "nba-phi-nyk-2026-05-06",
+    "amount": 5499.999999
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x839e7c9fe2ab869390b41eb113e31ed3707eecdc879841f3d8114e6594bdbace",
+    "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+    "trader": {
+      "rank": 11,
+      "address": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+      "username": "KeyTransporter",
+      "profit": 5711459.802519929,
+      "volume": 20086062.154324993,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+      "side": "BUY",
+      "asset": "44392251743100304727748425899319496884238220968052430797034987021330564282108",
+      "conditionId": "0xeecb65b0273b431cc53a93f2b8af4bf35fff895837a53ca7c198c939be3b7f68",
+      "size": 3750,
+      "price": 0.88,
+      "timestamp": 1778112756,
+      "title": "76ers vs. Knicks: O/U 214.5",
+      "slug": "nba-phi-nyk-2026-05-06-total-214pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-phi-nyk-2026-05-06",
+      "outcome": "Over",
+      "outcomeIndex": 0,
+      "name": "curie",
+      "pseudonym": "Illiterate-Counterforce",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x839e7c9fe2ab869390b41eb113e31ed3707eecdc879841f3d8114e6594bdbace",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "76ers vs. Knicks: O/U 214.5",
+    "market_slug": "nba-phi-nyk-2026-05-06",
+    "amount": 3300.0
   }
 ]
