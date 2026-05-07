@@ -31131,7 +31131,8 @@
     },
     "market": "Internazionali BNL d'Italia: Marton Fucsovics vs Dino Prizmic",
     "market_slug": "atp-fucsovi-prizmic-2026-05-06",
-    "amount": 2499.999998
+    "amount": 2499.999998,
+    "resolution_last_check": "2026-05-07T08:39:27.251003+00:00"
   },
   {
     "type": "TOP_TRADER",
