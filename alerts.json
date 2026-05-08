@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x26014f48a94b3a617bf18fc4862f634a1141d1a2901db8f4bc9c858bbadd520e",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.51568201,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xbddf61af533ff524d27154e589d2d7a81510c684",
-      "side": "BUY",
-      "asset": "59196182479127058424522393851593000749354988996797395494656019696578345043239",
-      "conditionId": "0xaeec946d09b533cfef35473f0b406275273409721eef2b2cb309de9f4a93140e",
-      "size": 20537.68,
-      "price": 0.5,
-      "timestamp": 1773691113,
-      "title": "Spread: Hawks (-3.5)",
-      "slug": "nba-orl-atl-2026-03-16-spread-home-3pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-orl-atl-2026-03-16",
-      "outcome": "Magic",
-      "outcomeIndex": 1,
-      "name": "Countryside",
-      "pseudonym": "Unique-Congressperson",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x26014f48a94b3a617bf18fc4862f634a1141d1a2901db8f4bc9c858bbadd520e",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Spread: Hawks (-3.5)",
-    "market_slug": "nba-orl-atl-2026-03-16",
-    "amount": 10268.84
-  },
-  {
     "market": "Backpack FDV above $200M one day after launch?",
     "market_slug": "backpack-fdv-above-200m-one-day-after-launch-327-787",
     "event_slug": "backpack-fdv-above-200m-one-day-after-launch-327-787",
@@ -31110,5 +31066,49 @@
     "market_slug": "atp-minaur-arnaldi-2026-05-08",
     "amount": 3182.0076,
     "resolution_last_check": "2026-05-08T07:35:14.109141+00:00"
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x2f6411e0bf2ce31a2b505b7c16da09531162686ccb33e329b933a7c1e425ebc8",
+    "wallet": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+    "trader": {
+      "rank": 10,
+      "address": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+      "username": "walletmobile",
+      "profit": 5942685.45339684,
+      "volume": 32196692.075936034,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x4a2be7a7e6e3b41dc2de00706b4c09660ca9af20",
+      "side": "SELL",
+      "asset": "27911616648163853231017805596118911526202185567944724228908312975649746722206",
+      "conditionId": "0xaeea5f917fc5746387b5f9c0a4263dba035dbb3f0ac6ad72bf92183d21e26739",
+      "size": 7999.99,
+      "price": 0.5800954251192814,
+      "timestamp": 1778268007,
+      "title": "Russia x Ukraine ceasefire by end of 2026?",
+      "slug": "russia-x-ukraine-ceasefire-before-2027",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/russia-x-ukraine-ceasefire-in-2025-w2voYOygx80B.jpg",
+      "eventSlug": "russia-x-ukraine-ceasefire-before-2027",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "troim",
+      "pseudonym": "Optimal-Miss",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x2f6411e0bf2ce31a2b505b7c16da09531162686ccb33e329b933a7c1e425ebc8",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Russia x Ukraine ceasefire by end of 2026?",
+    "market_slug": "russia-x-ukraine-ceasefire-before-2027",
+    "amount": 4640.7576
   }
 ]
