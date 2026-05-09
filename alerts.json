@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xc15b73c6b0a0d89e7a43f1ce747874b4ea66a9e45819c0fdf5552dc4169a7383",
-    "wallet": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
-    "trader": {
-      "rank": 3,
-      "address": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
-      "username": "kch123",
-      "profit": 11396150.443990177,
-      "volume": 255210005.824312,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xb40977131a5718054172c3afe28c448f9f90dfa8",
-      "side": "SELL",
-      "asset": "64396688529621018200644229825696619354093368225452298628950042495300773740332",
-      "conditionId": "0xfed46bb3bf5d047635b71980aaf62f9f75596d19ef7d2435139f392baa0fda1d",
-      "size": 1805,
-      "price": 0.956,
-      "timestamp": 1773736131,
-      "title": "Will Iv\u00e1n Arias win the 2026 La Paz mayoral election?",
-      "slug": "will-ivn-arias-win-the-2026-la-paz-mayoral-election",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ivn-arias-win-the-2026-la-paz-mayoral-election-OJYFuc71CyeV.jpg",
-      "eventSlug": "la-paz-mayoral-election-winner-bolivia",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "wheatqt62",
-      "pseudonym": "Unwieldy-Redesign",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xc15b73c6b0a0d89e7a43f1ce747874b4ea66a9e45819c0fdf5552dc4169a7383",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Iv\u00e1n Arias win the 2026 La Paz mayoral election?",
-    "market_slug": "la-paz-mayoral-election-winner-bolivia",
-    "amount": 1725.58
-  },
-  {
     "market": "Heat vs. Hornets: O/U 233.5",
     "market_slug": "nba-mia-cha-2026-03-17-total-233pt5",
     "event_slug": "nba-mia-cha-2026-03-17-total-233pt5",
@@ -31169,5 +31125,49 @@
     "market": "Will Juventus FC win on 2026-05-09?",
     "market_slug": "sea-lec-juv-2026-05-09",
     "amount": 2320.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xbb8b37329a8f6a14c8b0498f6b374c3d3144fd1f7c3b012e394137eb6c3dd3c8",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xeaf34ea3f75a2eb1e1c34c36eb0a7a6fe855e802",
+      "side": "BUY",
+      "asset": "63656877111072583610256069882064834607537362469567749031727738080242820998000",
+      "conditionId": "0x471b914479dfad998d61946e1a1b1ee8abaad03c30a153eb645b562b470c5163",
+      "size": 4000,
+      "price": 0.5622369,
+      "timestamp": 1778355808,
+      "title": "Internazionali BNL d'Italia: Andrea Pellegrino vs Arthur Fils",
+      "slug": "atp-pellegr-fils-2026-05-08",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+      "eventSlug": "atp-pellegr-fils-2026-05-08",
+      "outcome": "Andrea Pellegrino",
+      "outcomeIndex": 0,
+      "name": "DCAETH",
+      "pseudonym": "Urban-Racing",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xbb8b37329a8f6a14c8b0498f6b374c3d3144fd1f7c3b012e394137eb6c3dd3c8",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Internazionali BNL d'Italia: Andrea Pellegrino vs Arthur Fils",
+    "market_slug": "atp-pellegr-fils-2026-05-08",
+    "amount": 2248.9476
   }
 ]
