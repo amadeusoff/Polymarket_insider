@@ -1,138 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xb9e649f105c637422dfa641a013af84f984067def06dadab1009fe53f144df46",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x8bee1c25494657af1ee36e31d25def0ef8680ca9",
-      "side": "BUY",
-      "asset": "72425682246575925701740850168767204929147408094914968980431475888298613010788",
-      "conditionId": "0xc1ff545fc923fadc12fa8b24f33daa633f9d65a93e8e711ddcd2fec9263d2ef5",
-      "size": 6062,
-      "price": 0.49,
-      "timestamp": 1773759539,
-      "title": "Pistons vs. Wizards: O/U 233.5",
-      "slug": "nba-det-was-2026-03-17-total-233pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-det-was-2026-03-17",
-      "outcome": "Over",
-      "outcomeIndex": 0,
-      "name": "",
-      "pseudonym": "",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xb9e649f105c637422dfa641a013af84f984067def06dadab1009fe53f144df46",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Pistons vs. Wizards: O/U 233.5",
-    "market_slug": "nba-det-was-2026-03-17",
-    "amount": 2970.38
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x51a44be188f19465d138fd1c51079d98ed540864cc58af7bef50ff405bb7f080",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x37c1874a60d348903594a96703e0507c518fc53a",
-      "side": "BUY",
-      "asset": "20602169730357470459553808928210865653293638873943342723222949937173619709192",
-      "conditionId": "0x0f897962828b30476bcb321821f341964e6633923f3d97d36039a53c4dff143b",
-      "size": 25118.93,
-      "price": 0.55,
-      "timestamp": 1773774847,
-      "title": "Will Chelsea FC win on 2026-03-17?",
-      "slug": "ucl-cfc1-psg1-2026-03-17-cfc1",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/champions-league-pic-QIUFsL8vaDdq.png",
-      "eventSlug": "ucl-cfc1-psg1-2026-03-17",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "CemeterySun",
-      "pseudonym": "Pale-Bend",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x51a44be188f19465d138fd1c51079d98ed540864cc58af7bef50ff405bb7f080",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Chelsea FC win on 2026-03-17?",
-    "market_slug": "ucl-cfc1-psg1-2026-03-17",
-    "amount": 13815.411500000002
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x2536b1164188ab131dd257cbca8f7a9656487910392d6662add0fd790cc2f59d",
-    "wallet": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
-    "trader": {
-      "rank": 19,
-      "address": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
-      "username": "GamblingIsAllYouNeed",
-      "profit": 4381356.815164947,
-      "volume": 263925515.290218,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x35417b3d09d7a0991f75d7cc95162a6e34d7462e",
-      "side": "BUY",
-      "asset": "11578806222441353507719115176638735578970248989819859302635595162497755626384",
-      "conditionId": "0x81b06cb917c9a2aabc67a7765bc3c640e88a699bbf451b29915049c0766cde04",
-      "size": 5000,
-      "price": 0.44,
-      "timestamp": 1773782349,
-      "title": "US x Iran ceasefire by June 30?",
-      "slug": "us-x-iran-ceasefire-by-june-30-752",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-ceasefire-by-Cgmx3GCuOwjs.jpg",
-      "eventSlug": "us-x-iran-ceasefire-by",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "Casdifer",
-      "pseudonym": "Emotional-Assignment",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-4798110-1d9f916f-7692-4971-8d44-8fe6be7e7927.jpg",
-      "profileImageOptimized": "",
-      "transactionHash": "0x2536b1164188ab131dd257cbca8f7a9656487910392d6662add0fd790cc2f59d",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "US x Iran ceasefire by June 30?",
-    "market_slug": "us-x-iran-ceasefire-by",
-    "amount": 2200.0
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xcca739a9bb520336911c0cb27e17bcfb25f09d88206116eb5dfe98d4ca1a2e85",
     "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
     "trader": {
@@ -30870,5 +30738,197 @@
     "market": "Washington Nationals vs. Miami Marlins",
     "market_slug": "mlb-wsh-mia-2026-05-09",
     "amount": 4999.999999
+  },
+  {
+    "market": "Thunder vs. Lakers",
+    "market_slug": "nba-okc-lal-2026",
+    "event_slug": "nba-okc-lal-2026",
+    "wallet": "0x6e21c8c169a0d919ff9e2145c669aacf4d86eeb6",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($2,697)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 2696.61,
+      "odds": 0.24,
+      "raw_price": 0.24,
+      "outcome": "Lakers",
+      "potential_pnl": 8539.265000000001,
+      "pnl_multiplier": 3.166666666666667,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-05-09T23:08:25.606404",
+    "trade_hash": "0xb33866f8789c1b44ab36fa33274a806868e29a19a2e6d2f644c5ef877be91d1f",
+    "trade_timestamp": 1778367559,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Lakers",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.24,
+      "effective_price": 0.24,
+      "size": 11235.875,
+      "amount": 2696.61,
+      "potential_pnl": 8539.265,
+      "pnl_multiplier": 3.1666666666666665,
+      "is_no": false,
+      "slug": "nba-okc-lal-2026",
+      "eventSlug": "nba-okc-lal-2026-05-09"
+    },
+    "irrationality": {
+      "irrationality_score": 18,
+      "flags": [
+        "Moderate mispricing edge (+7.7%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.16349999999999998,
+      "market_price": 0.24,
+      "edge": 0.07650000000000001,
+      "edge_percent": 7.650000000000001,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "MODERATE",
+      "base_rate_class": "occasional",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "occasional",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 88,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 70,
+      "insider_position": "NO",
+      "irrationality_score": 18,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.07650000000000001,
+      "edge_percent": 7.650000000000001
+    },
+    "financial_analyst": {
+      "signal_quality": 64.1,
+      "stance": "SELECTIVE",
+      "edge_percent": 7.65,
+      "signal_strength": 88.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xb0dde1f5b60af8eb71aed0120d7e0c8ee80e48f5ff993ec5787bfb10c4d81b5f",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x540dc6de6e398f277c07f6c0b1c3136bead6122b",
+      "side": "BUY",
+      "asset": "98720268412185959523314331648899768695016317325666977121948651561010855922465",
+      "conditionId": "0xd3f8b4d1c18bf141736eef231b343d75bb98b3ae3cabba516e8993734e92d6c6",
+      "size": 10000,
+      "price": 0.53101586,
+      "timestamp": 1778367939,
+      "title": "LoL: Disguised vs Dignitas - Game 2 Winner",
+      "slug": "lol-dsg-dig-2026-05-09-game2",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
+      "eventSlug": "lol-dsg-dig-2026-05-09",
+      "outcome": "Dignitas",
+      "outcomeIndex": 1,
+      "name": "sanuxo",
+      "pseudonym": "",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/venonat_160424_1719535767096.jpg",
+      "profileImageOptimized": "",
+      "transactionHash": "0xb0dde1f5b60af8eb71aed0120d7e0c8ee80e48f5ff993ec5787bfb10c4d81b5f",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "LoL: Disguised vs Dignitas - Game 2 Winner",
+    "market_slug": "lol-dsg-dig-2026-05-09",
+    "amount": 5310.1586
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x1b9303c31794624580a9020f952472676dd72aa5bcae1b0f547ee3b03351e7f6",
+    "wallet": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
+    "trader": {
+      "rank": 15,
+      "address": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
+      "username": "gmanas",
+      "profit": 4955880.748692185,
+      "volume": 529047708.505991,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xa38a455bbdd4b68486548b7e19da99903f4f821d",
+      "side": "BUY",
+      "asset": "402644917547456472472343413678778697707465640212257656753332444558814271321",
+      "conditionId": "0x0b6b409583f9e250a311876d8c1d224974dfc9a38e1f79be4b089a4b163fc646",
+      "size": 3524.95,
+      "price": 0.72,
+      "timestamp": 1778368537,
+      "title": "UFC 328: Jim Miller vs. Jared Gordon (Lightweight, Prelims)",
+      "slug": "ufc-jim2-jar1-2026-05-09",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ufc-logo-37bbbd28e6.png",
+      "eventSlug": "ufc-jim2-jar1-2026-05-09",
+      "outcome": "Jared Gordon",
+      "outcomeIndex": 1,
+      "name": "takeormake",
+      "pseudonym": "Scary-Fannypack",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x1b9303c31794624580a9020f952472676dd72aa5bcae1b0f547ee3b03351e7f6",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "UFC 328: Jim Miller vs. Jared Gordon (Lightweight, Prelims)",
+    "market_slug": "ufc-jim2-jar1-2026-05-09",
+    "amount": 2537.964
   }
 ]
