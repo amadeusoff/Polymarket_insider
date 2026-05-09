@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x57360d37173cd45f17032527b5330b791404604d9494cd8c97330f97d86b80cf",
-    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-    "trader": {
-      "rank": 5,
-      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-      "username": "zxgngl",
-      "profit": 7807265.589240883,
-      "volume": 40551790.62184699,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xd106952ebf30a3125affd8a23b6c1f30c35fc79c",
-      "side": "BUY",
-      "asset": "73430689641666162570208609687376950474748567262949087092171303688003662051888",
-      "conditionId": "0x9a400ea146eef3ab1671863b09968236bb1bacc9393d7f0b38285b66f9a355b5",
-      "size": 2991.31,
-      "price": 0.75,
-      "timestamp": 1773698315,
-      "title": "Mavericks vs. Pelicans",
-      "slug": "nba-dal-nop-2026-03-16",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-dal-nop-2026-03-16",
-      "outcome": "Pelicans",
-      "outcomeIndex": 1,
-      "name": "Herdonia",
-      "pseudonym": "Unkempt-Image",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x57360d37173cd45f17032527b5330b791404604d9494cd8c97330f97d86b80cf",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Mavericks vs. Pelicans",
-    "market_slug": "nba-dal-nop-2026-03-16",
-    "amount": 2243.4825
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xde8a2611db1ff56d36ba1df52aed1aecd0842b75e42cb07a09a4c733787bdb37",
     "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
     "trader": {
@@ -31049,5 +31005,49 @@
     "market": "Internazionali BNL d'Italia: Corentin Moutet vs Pablo Llamas Ruiz",
     "market_slug": "atp-moutet-ruiz-2026-05-09",
     "amount": 3934.6999980000005
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xa202be1f3ef0f7176b916db369f61753a36d75caf5913b76d6cdf36067db47c2",
+    "wallet": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
+    "trader": {
+      "rank": 14,
+      "address": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
+      "username": "GamblingIsAllYouNeed",
+      "profit": 5075793.954391033,
+      "volume": 407369193.103269,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x8a6c6811e8937f9e8afc1b9249fa540262c30b3f",
+      "side": "BUY",
+      "asset": "48839453182186355372624496099211608355051893626040724165366242163992402674901",
+      "conditionId": "0xc2d80585028dd8b6e1dfd4e5cbb72747b6695339ba54ae971ca35289a7560c41",
+      "size": 89587.481784,
+      "price": 0.2734757078904255,
+      "timestamp": 1778334813,
+      "title": "Will Fulham FC vs. AFC Bournemouth end in a draw?",
+      "slug": "epl-ful-bou-2026-05-09-draw",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/premier+league.jpg",
+      "eventSlug": "epl-ful-bou-2026-05-09",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "0x8a6C6811e8937F9E8aFc1b9249FA540262c30b3f-1771776258725",
+      "pseudonym": "Rare-Dishwasher",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xa202be1f3ef0f7176b916db369f61753a36d75caf5913b76d6cdf36067db47c2",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Fulham FC vs. AFC Bournemouth end in a draw?",
+    "market_slug": "epl-ful-bou-2026-05-09",
+    "amount": 24499.999999000003
   }
 ]
