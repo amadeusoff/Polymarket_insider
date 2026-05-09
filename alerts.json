@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xd8c869f3067d9f6f87e60b2ae3c21c587ec0f24ed2a371cccdafd19557b94d24",
-    "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
-    "trader": {
-      "rank": 14,
-      "address": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
-      "username": "mikatrade77",
-      "profit": 5147998.544602999,
-      "volume": 10884765.388774998,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xacae3c6efeedd75f2b34564f55356855e8fd6798",
-      "side": "BUY",
-      "asset": "64751719694941772414934464061668304793987531554294250511087236193806116783943",
-      "conditionId": "0xa0fc815e81411496f0263b63f76bf3a7a2cb4f468d763dd51ee9609bd478919f",
-      "size": 5367.63,
-      "price": 0.52,
-      "timestamp": 1773703719,
-      "title": "Trail Blazers vs. Nets: O/U 222.5",
-      "slug": "nba-por-bkn-2026-03-16-total-222pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-por-bkn-2026-03-16",
-      "outcome": "Under",
-      "outcomeIndex": 1,
-      "name": "b33t",
-      "pseudonym": "Frugal-Vengeance",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-6720194-889a5f4a-044c-4c24-9b84-72570af1229e.webp",
-      "profileImageOptimized": "",
-      "transactionHash": "0xd8c869f3067d9f6f87e60b2ae3c21c587ec0f24ed2a371cccdafd19557b94d24",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Trail Blazers vs. Nets: O/U 222.5",
-    "market_slug": "nba-por-bkn-2026-03-16",
-    "amount": 2791.1676
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xe79d27043c5d214c803363830dcceaecef764005139c4866b15d72327473bf96",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -31109,5 +31065,109 @@
     "market": "Pittsburgh Pirates vs. San Francisco Giants",
     "market_slug": "mlb-pit-sf-2026-05-09",
     "amount": 22988.3255
+  },
+  {
+    "market": "UFC 328: Sean Strickland vs. Khamzat Chimaev (Middleweight, Main Card)",
+    "market_slug": "ufc-sea2-kha7-2026",
+    "event_slug": "ufc-sea2-kha7-2026",
+    "wallet": "0xb140fb7a5352cd60ff94a07c9d4161c9dd3eb0d9",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($87,014)",
+        "Low activity (2 txns)"
+      ],
+      "amount": 87014.423,
+      "odds": 0.82,
+      "raw_price": 0.82,
+      "outcome": "Khamzat Chimaev",
+      "potential_pnl": 19100.727,
+      "pnl_multiplier": 0.21951219512195122,
+      "wallet_age_days": 0,
+      "total_activities": 2
+    },
+    "timestamp": "2026-05-09T17:35:44.724775",
+    "trade_hash": "0xd2f26822ac855a02973125acfd2e2c9e0edc3f31b73322dc70dc49e67636d95b",
+    "trade_timestamp": 1778347728,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Khamzat Chimaev",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.82,
+      "effective_price": 0.82,
+      "size": 106115.15,
+      "amount": 87014.423,
+      "potential_pnl": 19100.727,
+      "pnl_multiplier": 0.21951219512195122,
+      "is_no": false,
+      "slug": "ufc-sea2-kha7-2026",
+      "eventSlug": "ufc-sea2-kha7-2026-05-09"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+33.4%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.4855,
+      "market_price": 0.82,
+      "edge": 0.33449999999999996,
+      "edge_percent": 33.449999999999996,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 105,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 70,
+      "insider_position": "NO",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.33449999999999996,
+      "edge_percent": 33.449999999999996
+    },
+    "financial_analyst": {
+      "signal_quality": 81.0,
+      "stance": "HIGH_CONVICTION",
+      "edge_percent": 33.45,
+      "signal_strength": 105.0,
+      "insider_score": 70.0,
+      "risk_note": "High stake detected \u2014 copy with reduced sizing (25-40% of source risk)."
+    }
   }
 ]
