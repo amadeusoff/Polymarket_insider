@@ -3,216 +3,6 @@
     "market": "Thunder vs. Magic: O/U 223.5",
     "market_slug": "nba-okc-orl-2026-03-17-total-223pt5",
     "event_slug": "nba-okc-orl-2026-03-17-total-223pt5",
-    "wallet": "0xb88cbd70fab2d390591493dc8abc216d03aa4cc1",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($2,000)",
-        "Low activity (2 txns)"
-      ],
-      "amount": 2000.0,
-      "odds": 0.5,
-      "raw_price": 0.5,
-      "outcome": "Over",
-      "potential_pnl": 2000.0,
-      "pnl_multiplier": 1.0,
-      "wallet_age_days": 0,
-      "total_activities": 2
-    },
-    "timestamp": "2026-03-17T12:36:21.494882",
-    "trade_hash": "0xb54ca6a1493dfc12d42002b40479ef3dca63965a8d41c67e4ae22a20c6d10b0f",
-    "trade_timestamp": 1773750791,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Over",
-      "side": "BUY",
-      "price": 0.5,
-      "effective_price": 0.5,
-      "size": 4000.0,
-      "amount": 2000.0,
-      "potential_pnl": 2000.0,
-      "pnl_multiplier": 1.0,
-      "is_no": false,
-      "slug": "nba-okc-orl-2026-03-17-total-223pt5",
-      "eventSlug": "nba-okc-orl-2026-03-17"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+26.0%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.24,
-      "market_price": 0.5,
-      "edge": 0.26,
-      "edge_percent": 26.0,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Both teams have high-scoring players performing at their peak",
-          "Defensive strategies of both teams are ineffective",
-          "Game pace is fast with numerous possessions"
-        ],
-        "weakest_link": "Defensive strategies of both teams are ineffective"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent performance trends of both teams",
-        "Injury reports affecting key players"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "OVER",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.26,
-      "edge_percent": 26.0
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 26.0,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "Thunder vs. Magic: O/U 223.5",
-    "market_slug": "nba-okc-orl-2026-03-17-total-223pt5",
-    "event_slug": "nba-okc-orl-2026-03-17-total-223pt5",
-    "wallet": "0xfc94dc0609e44e4454434e275f81461fe000012c",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,252)",
-        "Low activity (3 txns)"
-      ],
-      "amount": 1251.5,
-      "odds": 0.5,
-      "raw_price": 0.5,
-      "outcome": "Over",
-      "potential_pnl": 1251.5,
-      "pnl_multiplier": 1.0,
-      "wallet_age_days": 0,
-      "total_activities": 3
-    },
-    "timestamp": "2026-03-17T12:36:25.114020",
-    "trade_hash": "0xd55fff00188f00ee649a01cbd1bce9315aea7fc6b8d99a3f8b67a554d7c28ec5",
-    "trade_timestamp": 1773750789,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Over",
-      "side": "BUY",
-      "price": 0.5,
-      "effective_price": 0.5,
-      "size": 2503.0,
-      "amount": 1251.5,
-      "potential_pnl": 1251.5,
-      "pnl_multiplier": 1.0,
-      "is_no": false,
-      "slug": "nba-okc-orl-2026-03-17-total-223pt5",
-      "eventSlug": "nba-okc-orl-2026-03-17"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+26.0%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.24,
-      "market_price": 0.5,
-      "edge": 0.26,
-      "edge_percent": 26.0,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Both teams have strong offensive performances",
-          "Defensive strategies are ineffective",
-          "Game pace is fast with limited fouls"
-        ],
-        "weakest_link": "Defensive strategies are ineffective"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent scoring trends of both teams",
-        "Injury reports affecting key players"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "OVER",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.26,
-      "edge_percent": 26.0
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 26.0,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "Thunder vs. Magic: O/U 223.5",
-    "market_slug": "nba-okc-orl-2026-03-17-total-223pt5",
-    "event_slug": "nba-okc-orl-2026-03-17-total-223pt5",
     "wallet": "0x9408145908ef106e52ba03958dfe42299ad3ed29",
     "analysis": {
       "score": 70,
@@ -31108,5 +30898,93 @@
     "market": "Internazionali BNL d'Italia: Taylor Townsend vs Iva Jovic",
     "market_slug": "wta-townsen-jovic-2026-05-08",
     "amount": 2107.6372
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x505492212e72af4821276a7df4d1944b5ad64468d641296a0d72218328e4d612",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x63d43bbb87f85af03b8f2f9e2fad7b54334fa2f1",
+      "side": "BUY",
+      "asset": "45479696037372467182478191834261239872698478854396666224142564576623679258811",
+      "conditionId": "0x4baacd56a879cb667d161e6175a59ea80844490de68bda339a859ec4498f8e35",
+      "size": 2536.91,
+      "price": 0.74,
+      "timestamp": 1778361913,
+      "title": "Counter-Strike: TheMongolz vs Spirit (BO3) - PGL Astana Group Stage",
+      "slug": "cs2-mglz-ts7-2026-05-10",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/counter-strike-image-16c415c538.png",
+      "eventSlug": "cs2-mglz-ts7-2026-05-10",
+      "outcome": "Spirit",
+      "outcomeIndex": 1,
+      "name": "wokerjoesleeper",
+      "pseudonym": "Vivid-Macrofauna",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x505492212e72af4821276a7df4d1944b5ad64468d641296a0d72218328e4d612",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Counter-Strike: TheMongolz vs Spirit (BO3) - PGL Astana Group Stage",
+    "market_slug": "cs2-mglz-ts7-2026-05-10",
+    "amount": 1877.3133999999998
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xd781fc81033a5e211cbf0f2d70385fcfcd690cc23c6f06ecb7482ff5ff9e91a4",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "trader": {
+      "rank": 7,
+      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "username": "swisstony",
+      "profit": 7612529.95459695,
+      "volume": 744365972.7273668,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x058f48b0fe2901214215aa53edf2ead7505c4883",
+      "side": "SELL",
+      "asset": "92656287244508248142836665587276966729287344656350027595890627546675094202484",
+      "conditionId": "0x2509daa236d3aea83c910be4e00f50027dd72e6fa0d350536d07cd079f58d7ab",
+      "size": 16254.39,
+      "price": 0.906574593079162,
+      "timestamp": 1778362218,
+      "title": "US x Iran permanent peace deal by May 13, 2026?",
+      "slug": "us-x-iran-permanent-peace-deal-by-may-13-2026",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-permanent-peace-deal-by-yYlzv70Hi7j9.jpg",
+      "eventSlug": "us-x-iran-permanent-peace-deal-by",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "0x058f48b0FE2901214215aA53eDF2EAd7505c4883-1777603428724",
+      "pseudonym": "Circular-Sandpaper-Larder",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xd781fc81033a5e211cbf0f2d70385fcfcd690cc23c6f06ecb7482ff5ff9e91a4",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "US x Iran permanent peace deal by May 13, 2026?",
+    "market_slug": "us-x-iran-permanent-peace-deal-by",
+    "amount": 14735.817
   }
 ]
