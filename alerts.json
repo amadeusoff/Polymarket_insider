@@ -31003,7 +31003,8 @@
     },
     "market": "Russia x Ukraine ceasefire by end of 2026?",
     "market_slug": "russia-x-ukraine-ceasefire-before-2027",
-    "amount": 4640.7576
+    "amount": 4640.7576,
+    "resolution_last_check": "2026-05-09T08:01:29.144508+00:00"
   },
   {
     "type": "TOP_TRADER",
