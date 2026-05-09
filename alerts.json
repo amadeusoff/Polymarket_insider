@@ -1,138 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xde8a2611db1ff56d36ba1df52aed1aecd0842b75e42cb07a09a4c733787bdb37",
-    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-    "trader": {
-      "rank": 5,
-      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-      "username": "zxgngl",
-      "profit": 7807265.589240883,
-      "volume": 40551790.62184699,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x36902408aee4f37b65941c5f47b5193f96c978df",
-      "side": "BUY",
-      "asset": "87544213799569933294336230280145976054538932789091787276012361304842388329784",
-      "conditionId": "0x114c20748505a98cb90050e15fcf076b5490891cacbceed9873b9234c7fd07de",
-      "size": 13000,
-      "price": 0.51,
-      "timestamp": 1773698315,
-      "title": "Spurs vs. Clippers: O/U 233.5",
-      "slug": "nba-sas-lac-2026-03-16-total-233pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-sas-lac-2026-03-16",
-      "outcome": "Over",
-      "outcomeIndex": 0,
-      "name": "0x36902408aEE4F37b65941C5f47B5193F96C978dF-1770665202240",
-      "pseudonym": "Phony-Loneliness",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xde8a2611db1ff56d36ba1df52aed1aecd0842b75e42cb07a09a4c733787bdb37",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Spurs vs. Clippers: O/U 233.5",
-    "market_slug": "nba-sas-lac-2026-03-16",
-    "amount": 6630.0
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x99de7c8434955e911adfe94f3376778855880c020ed429f73fa9f9e410cdbfa1",
-    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-    "trader": {
-      "rank": 5,
-      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-      "username": "zxgngl",
-      "profit": 7807265.589240883,
-      "volume": 40551790.62184699,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xd106952ebf30a3125affd8a23b6c1f30c35fc79c",
-      "side": "BUY",
-      "asset": "73430689641666162570208609687376950474748567262949087092171303688003662051888",
-      "conditionId": "0x9a400ea146eef3ab1671863b09968236bb1bacc9393d7f0b38285b66f9a355b5",
-      "size": 5433.87,
-      "price": 0.75,
-      "timestamp": 1773698315,
-      "title": "Mavericks vs. Pelicans",
-      "slug": "nba-dal-nop-2026-03-16",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-dal-nop-2026-03-16",
-      "outcome": "Pelicans",
-      "outcomeIndex": 1,
-      "name": "Herdonia",
-      "pseudonym": "Unkempt-Image",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x99de7c8434955e911adfe94f3376778855880c020ed429f73fa9f9e410cdbfa1",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Mavericks vs. Pelicans",
-    "market_slug": "nba-dal-nop-2026-03-16",
-    "amount": 4075.4025
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x3c82ee8325c042be7fa26e5a9e5b545f2ce11610e2809292c66be353a0c089d6",
-    "wallet": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
-    "trader": {
-      "rank": 7,
-      "address": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
-      "username": "PrincessCaro",
-      "profit": 6083643.099591745,
-      "volume": 23520809.952867,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x9976874011b081e1e408444c579f48aa5b5967da",
-      "side": "BUY",
-      "asset": "82775469261649210736874259051571934917837725075525643307576105611031294190720",
-      "conditionId": "0xbc740a23d69d927e4813c3f67aa37a0d4585c000da07e0e139d2f6f91bacb213",
-      "size": 42304.58,
-      "price": 0.61,
-      "timestamp": 1773701917,
-      "title": "Spread: Red Wings (-1.5)",
-      "slug": "nhl-cal-det-2026-03-16-spread-home-1pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nhl.png",
-      "eventSlug": "nhl-cal-det-2026-03-16",
-      "outcome": "Flames",
-      "outcomeIndex": 1,
-      "name": "BWArmageddon",
-      "pseudonym": "Metallic-Tractor",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x3c82ee8325c042be7fa26e5a9e5b545f2ce11610e2809292c66be353a0c089d6",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Spread: Red Wings (-1.5)",
-    "market_slug": "nhl-cal-det-2026-03-16",
-    "amount": 25805.7938
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xd8c869f3067d9f6f87e60b2ae3c21c587ec0f24ed2a371cccdafd19557b94d24",
     "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
     "trader": {
@@ -31049,5 +30917,197 @@
     "market": "Will Fulham FC vs. AFC Bournemouth end in a draw?",
     "market_slug": "epl-ful-bou-2026-05-09",
     "amount": 24499.999999000003
+  },
+  {
+    "market": "UFC 328: Sean Strickland vs. Khamzat Chimaev (Middleweight, Main Card)",
+    "market_slug": "ufc-sea2-kha7-2026",
+    "event_slug": "ufc-sea2-kha7-2026",
+    "wallet": "0x8decd265fd696e060b6b287202f87f9a1af70330",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,004)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 1003.819996,
+      "odds": 0.8199999998856369,
+      "raw_price": 0.8199999998856369,
+      "outcome": "Khamzat Chimaev",
+      "potential_pnl": 220.350731,
+      "pnl_multiplier": 0.21951219529203322,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-05-09T15:37:59.197295",
+    "trade_hash": "0xe4a97be74ff1c8406319afb9658c32bc5aa4b520dda44778f67c5cde34193ad1",
+    "trade_timestamp": 1778340661,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Khamzat Chimaev",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.8199999998856369,
+      "effective_price": 0.8199999998856369,
+      "size": 1224.170727,
+      "amount": 1003.819996,
+      "potential_pnl": 220.350731,
+      "pnl_multiplier": 0.21951219529203322,
+      "is_no": false,
+      "slug": "ufc-sea2-kha7-2026",
+      "eventSlug": "ufc-sea2-kha7-2026-05-09"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+33.4%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.48549999995425475,
+      "market_price": 0.8199999998856369,
+      "edge": 0.33449999993138213,
+      "edge_percent": 33.44999999313821,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 105,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 70,
+      "insider_position": "NO",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.33449999993138213,
+      "edge_percent": 33.44999999313821
+    },
+    "financial_analyst": {
+      "signal_quality": 81.0,
+      "stance": "HIGH_CONVICTION",
+      "edge_percent": 33.45,
+      "signal_strength": 105.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x28b7d143e8c5738604f6cf57d8283d118be1ca75baeb200c5333d8c351402978",
+    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
+    "trader": {
+      "rank": 6,
+      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
+      "username": "zxgngl",
+      "profit": 7807265.589240883,
+      "volume": 40551790.62184698,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xd1001f4ef07ee37774934a8bc0083185ef6b853d",
+      "side": "BUY",
+      "asset": "112761350448338898985514464542365964714664792956191496082898119593143821229626",
+      "conditionId": "0x149f392f9c3b155261d91d3fb34e05cc8bf9c259dabe1c266fc8e71d725e6dd2",
+      "size": 5175.270269,
+      "price": 0.3699999998975899,
+      "timestamp": 1778341302,
+      "title": "Will FC Bayern M\u00fcnchen win on 2026-05-09?",
+      "slug": "bun-wol-bay-2026-05-09-bay",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-bun.jpg",
+      "eventSlug": "bun-wol-bay-2026-05-09",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "",
+      "pseudonym": "",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x28b7d143e8c5738604f6cf57d8283d118be1ca75baeb200c5333d8c351402978",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will FC Bayern M\u00fcnchen win on 2026-05-09?",
+    "market_slug": "bun-wol-bay-2026-05-09",
+    "amount": 1914.849999
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x22aca39350f2137880ecccc6c0988e142b3855e7b40aa5ba07b55f1cc97e4712",
+    "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+    "trader": {
+      "rank": 20,
+      "address": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+      "username": "beachboy4",
+      "profit": 3883688.5939415954,
+      "volume": 217505017.31925595,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xc8075693f48668a264b9fa313b47f52712fcc12b",
+      "side": "BUY",
+      "asset": "90379475855156583231353902932686617540164427062932696530974488408424846460225",
+      "conditionId": "0x81b0a7efc30ad46f01c931c2e6cf8cad6c2a0315c41cd104d380f5a1c401a19d",
+      "size": 46914.95,
+      "price": 0.49,
+      "timestamp": 1778341825,
+      "title": "Pittsburgh Pirates vs. San Francisco Giants",
+      "slug": "mlb-pit-sf-2026-05-09",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
+      "eventSlug": "mlb-pit-sf-2026-05-09",
+      "outcome": "San Francisco Giants",
+      "outcomeIndex": 1,
+      "name": "texaskid",
+      "pseudonym": "Dutiful-Fur",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x22aca39350f2137880ecccc6c0988e142b3855e7b40aa5ba07b55f1cc97e4712",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Pittsburgh Pirates vs. San Francisco Giants",
+    "market_slug": "mlb-pit-sf-2026-05-09",
+    "amount": 22988.3255
   }
 ]
