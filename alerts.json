@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x1a424fa917df3b297c9504455975d56c660353cde0cf26b1f8e7ea608d2be191",
-    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-    "trader": {
-      "rank": 5,
-      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-      "username": "zxgngl",
-      "profit": 7807265.589240883,
-      "volume": 40551790.62184699,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xd106952ebf30a3125affd8a23b6c1f30c35fc79c",
-      "side": "BUY",
-      "asset": "73430689641666162570208609687376950474748567262949087092171303688003662051888",
-      "conditionId": "0x9a400ea146eef3ab1671863b09968236bb1bacc9393d7f0b38285b66f9a355b5",
-      "size": 6546.15,
-      "price": 0.75,
-      "timestamp": 1773698315,
-      "title": "Mavericks vs. Pelicans",
-      "slug": "nba-dal-nop-2026-03-16",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-dal-nop-2026-03-16",
-      "outcome": "Pelicans",
-      "outcomeIndex": 1,
-      "name": "Herdonia",
-      "pseudonym": "Unkempt-Image",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x1a424fa917df3b297c9504455975d56c660353cde0cf26b1f8e7ea608d2be191",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Mavericks vs. Pelicans",
-    "market_slug": "nba-dal-nop-2026-03-16",
-    "amount": 4909.612499999999
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x57360d37173cd45f17032527b5330b791404604d9494cd8c97330f97d86b80cf",
     "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
     "trader": {
@@ -31049,5 +31005,49 @@
     "market": "Will Racing Club de Lens win on 2026-05-08?",
     "market_slug": "fl1-rcl-nan-2026-05-08",
     "amount": 1821.807
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x15ba83696b1933b52db8bd9a9b1d10e0ade6684477b01293f91c1035bf4ebf34",
+    "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
+    "trader": {
+      "rank": 13,
+      "address": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
+      "username": "mikatrade77",
+      "profit": 5147998.544602999,
+      "volume": 10884765.388775,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x9d9346b36bfacf6858ae06c7401a72ad09162cf1",
+      "side": "BUY",
+      "asset": "65688559151866523851546503381530284157852209793844245182497053200054893582551",
+      "conditionId": "0xf6e73ab362d8df80c32b5da6d7f417d8700d0fc3376a4b4e42cb18b233867bc4",
+      "size": 5767.148694,
+      "price": 0.6822608895264943,
+      "timestamp": 1778328357,
+      "title": "Internazionali BNL d'Italia: Corentin Moutet vs Pablo Llamas Ruiz",
+      "slug": "atp-moutet-ruiz-2026-05-09",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+      "eventSlug": "atp-moutet-ruiz-2026-05-09",
+      "outcome": "Pablo Llamas Ruiz",
+      "outcomeIndex": 1,
+      "name": "lmzy9",
+      "pseudonym": "Automatic-Teepee",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x15ba83696b1933b52db8bd9a9b1d10e0ade6684477b01293f91c1035bf4ebf34",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Internazionali BNL d'Italia: Corentin Moutet vs Pablo Llamas Ruiz",
+    "market_slug": "atp-moutet-ruiz-2026-05-09",
+    "amount": 3934.6999980000005
   }
 ]
