@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xe79d27043c5d214c803363830dcceaecef764005139c4866b15d72327473bf96",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xcc4484e5e9f9bf20b3d2c99c01ec34b6e797c813",
-      "side": "BUY",
-      "asset": "31205576842060228192114296882902567548493402011934155919403465577774959369017",
-      "conditionId": "0xf0a5e353f2878cd91933115ad9cf9b33a63f4160c7ae7cb72f723eb6133097d0",
-      "size": 3742.82,
-      "price": 0.96,
-      "timestamp": 1773705517,
-      "title": "Will the price of Bitcoin be above $72,000 on March 17?",
-      "slug": "bitcoin-above-72k-on-march-17",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
-      "eventSlug": "bitcoin-above-on-march-17",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "madutu",
-      "pseudonym": "Spotless-Disadvantage",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xe79d27043c5d214c803363830dcceaecef764005139c4866b15d72327473bf96",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will the price of Bitcoin be above $72,000 on March 17?",
-    "market_slug": "bitcoin-above-on-march-17",
-    "amount": 3593.1072
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xc15b73c6b0a0d89e7a43f1ce747874b4ea66a9e45819c0fdf5552dc4169a7383",
     "wallet": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
     "trader": {
@@ -31169,5 +31125,49 @@
       "insider_score": 70.0,
       "risk_note": "High stake detected \u2014 copy with reduced sizing (25-40% of source risk)."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x4ee029bbd172117dd7962293b9ae23e84970ec20e250a75b584493e2c94acca8",
+    "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+    "trader": {
+      "rank": 11,
+      "address": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+      "username": "KeyTransporter",
+      "profit": 5711459.802519929,
+      "volume": 20086062.154324993,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x39d3c773be30fcc73161fc6768f46d563a779ef0",
+      "side": "BUY",
+      "asset": "81826285322214248373594124716159857863364161336290724953068284539573458241155",
+      "conditionId": "0x0d5b1a5fa9969af2a1eafb1011b4632b98e77aee9dd75249745696447a2ec591",
+      "size": 7250,
+      "price": 0.32,
+      "timestamp": 1778352169,
+      "title": "Will Juventus FC win on 2026-05-09?",
+      "slug": "sea-lec-juv-2026-05-09-juv",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Serie-A-Logo.png",
+      "eventSlug": "sea-lec-juv-2026-05-09",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "matanovik",
+      "pseudonym": "Lost-Property",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x4ee029bbd172117dd7962293b9ae23e84970ec20e250a75b584493e2c94acca8",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Juventus FC win on 2026-05-09?",
+    "market_slug": "sea-lec-juv-2026-05-09",
+    "amount": 2320.0
   }
 ]
