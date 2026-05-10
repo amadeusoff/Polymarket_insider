@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xcca739a9bb520336911c0cb27e17bcfb25f09d88206116eb5dfe98d4ca1a2e85",
-    "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
-    "trader": {
-      "rank": 14,
-      "address": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
-      "username": "mikatrade77",
-      "profit": 5147998.544602999,
-      "volume": 10884765.388775,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x8cc72766320fe830054348fdfb61040d6f650602",
-      "side": "BUY",
-      "asset": "1809681482951707674012395356212140615234154334581743465339144085976054396593",
-      "conditionId": "0xe40c6a429fe7a00bc682e6400bddd68e1a4455f0af681114d0fa557fbcc7efd1",
-      "size": 2682.8125,
-      "price": 0.64,
-      "timestamp": 1773784747,
-      "title": "Heat vs. Hornets",
-      "slug": "nba-mia-cha-2026-03-17",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-mia-cha-2026-03-17",
-      "outcome": "Hornets",
-      "outcomeIndex": 1,
-      "name": "jiheshuzixiake",
-      "pseudonym": "Partial-Hovel",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xcca739a9bb520336911c0cb27e17bcfb25f09d88206116eb5dfe98d4ca1a2e85",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Heat vs. Hornets",
-    "market_slug": "nba-mia-cha-2026-03-17",
-    "amount": 1717.0
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x9743bec577b08d4b9cb1b4b0f20296fb28e6e4e7ad2c7e83b9cb0eae3fccf0a3",
     "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
     "trader": {
@@ -30930,5 +30886,49 @@
     "market": "UFC 328: Jim Miller vs. Jared Gordon (Lightweight, Prelims)",
     "market_slug": "ufc-jim2-jar1-2026-05-09",
     "amount": 2537.964
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x897a7cfafb82fa369fd802c59371e1e031c40c094555838a96ce5d2f3059302e",
+    "wallet": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
+    "trader": {
+      "rank": 4,
+      "address": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
+      "username": "Len9311238",
+      "profit": 8709972.988069998,
+      "volume": 16402744.764627,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xe823252ba8634bd6c3723db9c300f703cb3a2a61",
+      "side": "SELL",
+      "asset": "88304163265734087403223321042172792808390195323159743956352682998398711353447",
+      "conditionId": "0x1db02ba50e2312a62b4104de691cc7a76065d8d0da40decf93eb1b914a3217b7",
+      "size": 11834.72,
+      "price": 0.1601705693079346,
+      "timestamp": 1778371587,
+      "title": "US x Iran permanent peace deal by May 15, 2026?",
+      "slug": "us-x-iran-permanent-peace-deal-by-may-15-2026-144-885-839",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-permanent-peace-deal-by-yYlzv70Hi7j9.jpg",
+      "eventSlug": "us-x-iran-permanent-peace-deal-by",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "Dymaknight",
+      "pseudonym": "Scientific-Vibration",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x897a7cfafb82fa369fd802c59371e1e031c40c094555838a96ce5d2f3059302e",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "US x Iran permanent peace deal by May 15, 2026?",
+    "market_slug": "us-x-iran-permanent-peace-deal-by",
+    "amount": 1895.5738399999998
   }
 ]
