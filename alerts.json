@@ -30257,7 +30257,8 @@
     },
     "market": "Counter-Strike: TheMongolz vs Spirit (BO3) - PGL Astana Group Stage",
     "market_slug": "cs2-mglz-ts7-2026-05-10",
-    "amount": 1877.3133999999998
+    "amount": 1877.3133999999998,
+    "resolution_last_check": "2026-05-10T08:13:03.488666+00:00"
   },
   {
     "type": "TOP_TRADER",
@@ -30412,7 +30413,8 @@
       "signal_strength": 85.0,
       "insider_score": 85.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
+    },
+    "resolution_last_check": "2026-05-10T08:13:04.684634+00:00"
   },
   {
     "type": "TOP_TRADER",
