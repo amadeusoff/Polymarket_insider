@@ -1,94 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xdb56d93e1fb7e3341c428c08ff88e93f1c0cee393e717bf53cb625cfe17baceb",
-    "wallet": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
-    "trader": {
-      "rank": 7,
-      "address": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
-      "username": "PrincessCaro",
-      "profit": 6083643.099591745,
-      "volume": 23520809.952867,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xc2c1a8c92e4c6d2628ef9c6a262411a44e459fe2",
-      "side": "BUY",
-      "asset": "82340757148621494901506589920533813396463383332540302061472601053550396300647",
-      "conditionId": "0xc8f3f366777706237e75edf74a60f7772d332d23013e08adca710ce689901a0f",
-      "size": 20635.829332,
-      "price": 0.43357259139208315,
-      "timestamp": 1773811161,
-      "title": "Map Handicap: FAL (-1.5) vs NRG (+1.5)",
-      "slug": "cs2-fal2-nrg-2026-03-18-map-handicap-away-1pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/counter-strike-image-16c415c538.png",
-      "eventSlug": "cs2-fal2-nrg-2026-03-18",
-      "outcome": "NRG",
-      "outcomeIndex": 1,
-      "name": "xXFrameMoggedByFratLeaderXx67",
-      "pseudonym": "Pricey-Rally",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xdb56d93e1fb7e3341c428c08ff88e93f1c0cee393e717bf53cb625cfe17baceb",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Map Handicap: FAL (-1.5) vs NRG (+1.5)",
-    "market_slug": "cs2-fal2-nrg-2026-03-18",
-    "amount": 8947.129999
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x12dab46ec36dc3594f662d0ca09dedc7c9030144cda4d2c3247fb9ce5f14470c",
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "trader": {
-      "rank": 10,
-      "address": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-      "username": "RN1",
-      "profit": 5680292.916432808,
-      "volume": 270473232.45483994,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x689ae12e11aa489adb3605afd8f39040ff52779e",
-      "side": "BUY",
-      "asset": "2078387433062678528341594284022090579269458787238990301986330427520767312650",
-      "conditionId": "0xb810ea8d468ab4783ac913dc8fc848bda0981c87dc5c0eb885067159a1edb2e0",
-      "size": 10496.21,
-      "price": 0.9396655249847325,
-      "timestamp": 1773814763,
-      "title": "Will Elon Musk post 320-339 tweets from March 13 to March 20, 2026?",
-      "slug": "elon-musk-of-tweets-march-13-march-20-320-339",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/elon-musk-of-tweets-nov-22-29-apMPG21-pzx_.jpg",
-      "eventSlug": "elon-musk-of-tweets-march-13-march-20",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "Annica",
-      "pseudonym": "Standard-Verification",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3285726-6228364d-2bca-43fb-9add-a2fb14aa18e0.jpg",
-      "profileImageOptimized": "",
-      "transactionHash": "0x12dab46ec36dc3594f662d0ca09dedc7c9030144cda4d2c3247fb9ce5f14470c",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Elon Musk post 320-339 tweets from March 13 to March 20, 2026?",
-    "market_slug": "elon-musk-of-tweets-march-13-march-20",
-    "amount": 9862.926679999999
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x7efe9167b3b8ebd707da520fff94117264dfb31f548cb97c7d896f9de89c773b",
     "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
     "trader": {
@@ -30931,5 +30843,93 @@
     "market": "UFC 328: Sean Strickland vs. Khamzat Chimaev (Middleweight, Main Card)",
     "market_slug": "ufc-sea2-kha7-2026-05-09",
     "amount": 2999.9999980000002
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xd4048cc6837f34ebe812310d1b49fb952606ed67839e13c60f27d28b8fbf997a",
+    "wallet": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+    "trader": {
+      "rank": 10,
+      "address": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+      "username": "walletmobile",
+      "profit": 5942685.45339684,
+      "volume": 32196692.075936034,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x46986132369d9c20140e2fbdedd008cc4bf3d7a5",
+      "side": "BUY",
+      "asset": "13047968615947519811776160909330278230792448673061377796402467143013321213613",
+      "conditionId": "0x517ce4d8507d79d7add5f264f63a87f945313689f92314f135e260d55973e71d",
+      "size": 2143.6,
+      "price": 0.6997574174286247,
+      "timestamp": 1778407762,
+      "title": "Internazionali BNL d'Italia: Madison Keys vs Nikola Bartunkova",
+      "slug": "wta-keys-bartunk-2026-05-10",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wta-logo-41f331bdf1.png",
+      "eventSlug": "wta-keys-bartunk-2026-05-10",
+      "outcome": "Madison Keys",
+      "outcomeIndex": 0,
+      "name": "Artfulone",
+      "pseudonym": "Merry-Boat",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xd4048cc6837f34ebe812310d1b49fb952606ed67839e13c60f27d28b8fbf997a",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Internazionali BNL d'Italia: Madison Keys vs Nikola Bartunkova",
+    "market_slug": "wta-keys-bartunk-2026-05-10",
+    "amount": 1500.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xff59c83f221081ff12a067867ee671c5baf5a10bff04fd01d5990991eb455511",
+    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
+    "trader": {
+      "rank": 17,
+      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
+      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
+      "profit": 4556758.869714961,
+      "volume": 60389075.37918498,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xe405483ff60ab58ce973479d3317045549fec67e",
+      "side": "BUY",
+      "asset": "93317890726281611492784555175585538245583797430112685037754345329346595811475",
+      "conditionId": "0xbbf9e414755c2bd65766666567005ed3abd4ddbfadbeea732d76324e63c2c2b4",
+      "size": 4000,
+      "price": 0.51,
+      "timestamp": 1778408063,
+      "title": "LoL: Weibo Gaming vs Ninjas in Pyjamas - Game 2 Winner",
+      "slug": "lol-wb-nip-2026-05-10-game2",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
+      "eventSlug": "lol-wb-nip-2026-05-10",
+      "outcome": "Weibo Gaming",
+      "outcomeIndex": 0,
+      "name": "CuteMelon",
+      "pseudonym": "Total-Counselor",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xff59c83f221081ff12a067867ee671c5baf5a10bff04fd01d5990991eb455511",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "LoL: Weibo Gaming vs Ninjas in Pyjamas - Game 2 Winner",
+    "market_slug": "lol-wb-nip-2026-05-10",
+    "amount": 2040.0
   }
 ]
