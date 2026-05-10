@@ -3,111 +3,6 @@
     "market": "LoL: BNK FEARX vs Team Secret Whales - Game 2 Winner",
     "market_slug": "lol-fox1-tsw-2026-03-18-game2",
     "event_slug": "lol-fox1-tsw-2026-03-18-game2",
-    "wallet": "0x39bb504fbaf8af888d4aa77d3d7482b23cd79126",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (1d old)",
-        "Large bet ($1,042)",
-        "Low activity (3 txns)"
-      ],
-      "amount": 1042.2,
-      "odds": 0.9,
-      "raw_price": 0.9,
-      "outcome": "BNK FEARX",
-      "potential_pnl": 115.79999999999995,
-      "pnl_multiplier": 0.11111111111111106,
-      "wallet_age_days": 1,
-      "total_activities": 3
-    },
-    "timestamp": "2026-03-18T16:46:57.868450",
-    "trade_hash": "0x4c559d54c97f53c1b72a7f4173918b37e55a5293a90ca18bcf67bd014594d249",
-    "trade_timestamp": 1773852093,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "BNK FEARX",
-      "side": "BUY",
-      "price": 0.9,
-      "effective_price": 0.9,
-      "size": 1158.0,
-      "amount": 1042.2,
-      "potential_pnl": 115.79999999999995,
-      "pnl_multiplier": 0.11111111111111106,
-      "is_no": false,
-      "slug": "lol-fox1-tsw-2026-03-18-game2",
-      "eventSlug": "lol-fox1-tsw-2026-03-18"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+58.0%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.32,
-      "market_price": 0.9,
-      "edge": 0.5800000000000001,
-      "edge_percent": 58.00000000000001,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Team Secret Whales' recent performance",
-          "BNK FEARX's roster stability",
-          "meta-game changes affecting team strategies"
-        ],
-        "weakest_link": "Team Secret Whales' recent performance"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "team morale and synergy",
-        "fan support and community sentiment"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "BNK FEARX",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.5800000000000001,
-      "edge_percent": 58.00000000000001
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 58.0,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "LoL: BNK FEARX vs Team Secret Whales - Game 2 Winner",
-    "market_slug": "lol-fox1-tsw-2026-03-18-game2",
-    "event_slug": "lol-fox1-tsw-2026-03-18-game2",
     "wallet": "0x636e348773fbbe9f3ab60041c7d815a55144900f",
     "analysis": {
       "score": 70,
@@ -30870,5 +30765,49 @@
     "market": "Spurs vs. Timberwolves: O/U 218.5",
     "market_slug": "nba-sas-min-2026-05-10",
     "amount": 1742.97
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x5a38b416c74eec82c9cc0abea4a8e9761f7b6954908954608db43dac1a667cbb",
+    "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+    "trader": {
+      "rank": 11,
+      "address": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+      "username": "KeyTransporter",
+      "profit": 5711459.802519929,
+      "volume": 20086062.154324993,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x323448bda09fe48d58af9ce1a858c91f79e08b1a",
+      "side": "BUY",
+      "asset": "108404978919790224219547536715231120510293159864146347287999005916224693174602",
+      "conditionId": "0xcbb320d8c838e59251997c4e76413863dff4d2466a7d9029dd8f4132cc1d2716",
+      "size": 2889.51,
+      "price": 0.6202423940391277,
+      "timestamp": 1778445112,
+      "title": "Spread: FC Barcelona (-2.5)",
+      "slug": "lal-bar-rea-2026-05-10-spread-home-2pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-lal.png",
+      "eventSlug": "lal-bar-rea-2026-05-10-more-markets",
+      "outcome": "Real Madrid CF",
+      "outcomeIndex": 1,
+      "name": "7777xexexe",
+      "pseudonym": "Ugly-Harmonica",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x5a38b416c74eec82c9cc0abea4a8e9761f7b6954908954608db43dac1a667cbb",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spread: FC Barcelona (-2.5)",
+    "market_slug": "lal-bar-rea-2026-05-10-more-markets",
+    "amount": 1792.1966000000002
   }
 ]
