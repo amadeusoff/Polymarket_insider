@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x96e882a52773df6c0b751c9c16b54150644457e4fb2cfa55665919f8a1f18830",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x3e04fbc51adb75418129f6ce2091ae633070564d",
-      "side": "BUY",
-      "asset": "35689688104413598251363110342390889096349920052486000395208478441743644342269",
-      "conditionId": "0x4ab8d086479d32ff52377289defc81f6c4f24769bf7ffd1e4f132ba4d04ec369",
-      "size": 4119.53,
-      "price": 0.42,
-      "timestamp": 1773848973,
-      "title": "Jets vs. Bruins",
-      "slug": "nhl-wpg-bos-2026-03-19",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nhl.png",
-      "eventSlug": "nhl-wpg-bos-2026-03-19",
-      "outcome": "Jets",
-      "outcomeIndex": 0,
-      "name": "roldy",
-      "pseudonym": "Tattered-Screamer",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x96e882a52773df6c0b751c9c16b54150644457e4fb2cfa55665919f8a1f18830",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Jets vs. Bruins",
-    "market_slug": "nhl-wpg-bos-2026-03-19",
-    "amount": 1730.2025999999998
-  },
-  {
     "market": "LoL: BNK FEARX vs Team Secret Whales - Game 2 Winner",
     "market_slug": "lol-fox1-tsw-2026-03-18-game2",
     "event_slug": "lol-fox1-tsw-2026-03-18-game2",
@@ -30870,5 +30826,49 @@
     "market": "Will Arsenal FC win on 2026-05-10?",
     "market_slug": "epl-wes-ars-2026-05-10",
     "amount": 1999.999999
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x53c3a03c4351224d0aeaf67b6453892ac37ec4d10e63204f6d1fdfb3a4950f9d",
+    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
+    "trader": {
+      "rank": 17,
+      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
+      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
+      "profit": 4557060.845219301,
+      "volume": 60389075.37918498,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x8d5d93af87298f1781fd96ba4ffa5d63e554191d",
+      "side": "BUY",
+      "asset": "78469849996176266203637948952747145294449226423168376738842790982994059808937",
+      "conditionId": "0xb6a4e708822037b5d4b33b5be735a4245895363da465aaa47fec68d12c567516",
+      "size": 3485.94,
+      "price": 0.5,
+      "timestamp": 1778433663,
+      "title": "Spurs vs. Timberwolves: O/U 218.5",
+      "slug": "nba-sas-min-2026-05-10-total-218pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-sas-min-2026-05-10",
+      "outcome": "Under",
+      "outcomeIndex": 1,
+      "name": "DZC188",
+      "pseudonym": "Warmhearted-Shame",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x53c3a03c4351224d0aeaf67b6453892ac37ec4d10e63204f6d1fdfb3a4950f9d",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spurs vs. Timberwolves: O/U 218.5",
+    "market_slug": "nba-sas-min-2026-05-10",
+    "amount": 1742.97
   }
 ]
