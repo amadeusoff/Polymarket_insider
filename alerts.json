@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x7efe9167b3b8ebd707da520fff94117264dfb31f548cb97c7d896f9de89c773b",
-    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
-    "trader": {
-      "rank": 12,
-      "address": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
-      "username": "BetTom42",
-      "profit": 5642135.735356,
-      "volume": 11212839.523402998,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x2cff434810d3e935c26d73d73704b0baca8c53b5",
-      "side": "BUY",
-      "asset": "82824767374596510800848431765722928802627379912522023443838598829419085141952",
-      "conditionId": "0x9394c6edf76d4f2a9d1eadec2a5a947c328b2e2c0d76a118d4148db7ef7dfcec",
-      "size": 1845.861266,
-      "price": 0.8948018035934018,
-      "timestamp": 1773818665,
-      "title": "Bitcoin Up or Down - March 18, 3:20AM-3:25AM ET",
-      "slug": "btc-updown-5m-1773818400",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
-      "eventSlug": "btc-updown-5m-1773818400",
-      "outcome": "Down",
-      "outcomeIndex": 1,
-      "name": "0x2CFF434810D3E935c26D73d73704B0BAca8c53B5-1772390178056",
-      "pseudonym": "Basic-Insurance",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x7efe9167b3b8ebd707da520fff94117264dfb31f548cb97c7d896f9de89c773b",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Bitcoin Up or Down - March 18, 3:20AM-3:25AM ET",
-    "market_slug": "btc-updown-5m-1773818400",
-    "amount": 1651.6799899999999
-  },
-  {
     "market": "Games Total: O/U 2.5",
     "market_slug": "val-tyloo-tec-2026-03-18-total-games-2pt5",
     "event_slug": "val-tyloo-tec-2026-03-18-total-games-2pt5",
@@ -30931,5 +30887,49 @@
     "market": "LoL: Weibo Gaming vs Ninjas in Pyjamas - Game 2 Winner",
     "market_slug": "lol-wb-nip-2026-05-10",
     "amount": 2040.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x6daa2730d0c7df26b46dbde96ced086dcb878f1f80c84900ae924ada70c96d42",
+    "wallet": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
+    "trader": {
+      "rank": 13,
+      "address": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
+      "username": "GamblingIsAllYouNeed",
+      "profit": 5193364.290176933,
+      "volume": 409600364.63931996,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xd7cb02e90b37878cb124b718ad8a6493e5144088",
+      "side": "BUY",
+      "asset": "49169786386271433827360909143789838968574401608849538362196269194645168118722",
+      "conditionId": "0x267858a85bea5200def00ed76ab908201147f3956d060599f03d9005234dea51",
+      "size": 3572.4,
+      "price": 0.65,
+      "timestamp": 1778411979,
+      "title": "Internazionali BNL d'Italia: Liudmila Samsonova vs Anastasia Potapova",
+      "slug": "wta-samsono-potapov-2026-05-09",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wta-logo-41f331bdf1.png",
+      "eventSlug": "wta-samsono-potapov-2026-05-09",
+      "outcome": "Anastasia Potapova",
+      "outcomeIndex": 1,
+      "name": "0xD7cB02e90B37878Cb124B718aD8a6493e5144088-1762204194275",
+      "pseudonym": "Irritating-Report",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x6daa2730d0c7df26b46dbde96ced086dcb878f1f80c84900ae924ada70c96d42",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Internazionali BNL d'Italia: Liudmila Samsonova vs Anastasia Potapova",
+    "market_slug": "wta-samsono-potapov-2026-05-09",
+    "amount": 2322.06
   }
 ]
