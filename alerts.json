@@ -1,364 +1,5 @@
 [
   {
-    "market": "LoL: BNK FEARX vs Team Secret Whales - Game 2 Winner",
-    "market_slug": "lol-fox1-tsw-2026-03-18-game2",
-    "event_slug": "lol-fox1-tsw-2026-03-18-game2",
-    "wallet": "0x636e348773fbbe9f3ab60041c7d815a55144900f",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (2d old)",
-        "Large bet ($1,140)",
-        "Low activity (3 txns)"
-      ],
-      "amount": 1139.989995,
-      "odds": 0.9,
-      "raw_price": 0.9,
-      "outcome": "BNK FEARX",
-      "potential_pnl": 126.66555500000004,
-      "pnl_multiplier": 0.11111111111111116,
-      "wallet_age_days": 2,
-      "total_activities": 3
-    },
-    "timestamp": "2026-03-18T16:47:02.798498",
-    "trade_hash": "0x4bb748f470f242fd8823c826f660d242f1a04f885fbd895247aca8f324ab953d",
-    "trade_timestamp": 1773852091,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "BNK FEARX",
-      "side": "BUY",
-      "price": 0.9,
-      "effective_price": 0.9,
-      "size": 1266.65555,
-      "amount": 1139.989995,
-      "potential_pnl": 126.66555500000004,
-      "pnl_multiplier": 0.11111111111111116,
-      "is_no": false,
-      "slug": "lol-fox1-tsw-2026-03-18-game2",
-      "eventSlug": "lol-fox1-tsw-2026-03-18"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+58.0%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.32,
-      "market_price": 0.9,
-      "edge": 0.5800000000000001,
-      "edge_percent": 58.00000000000001,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Team Secret Whales has a strong performance history",
-          "BNK FEARX has recent roster changes",
-          "Current meta favors Team Secret Whales' playstyle"
-        ],
-        "weakest_link": "BNK FEARX has recent roster changes"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Team Secret Whales' previous match performance",
-        "Fan sentiment and betting trends"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "BNK FEARX",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.5800000000000001,
-      "edge_percent": 58.00000000000001
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 58.0,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "LoL: BNK FEARX vs Team Secret Whales - Game 2 Winner",
-    "market_slug": "lol-fox1-tsw-2026-03-18-game2",
-    "event_slug": "lol-fox1-tsw-2026-03-18-game2",
-    "wallet": "0x07cfb250789345f181a4020b55ee821a7a0e964a",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (2d old)",
-        "Large bet ($1,071)",
-        "Low activity (3 txns)"
-      ],
-      "amount": 1071.09,
-      "odds": 0.9,
-      "raw_price": 0.9,
-      "outcome": "BNK FEARX",
-      "potential_pnl": 119.00999999999999,
-      "pnl_multiplier": 0.1111111111111111,
-      "wallet_age_days": 2,
-      "total_activities": 3
-    },
-    "timestamp": "2026-03-18T16:47:05.950244",
-    "trade_hash": "0x0a775b89f0c2f16ae5270e929f07b6e2076e6f1920290c10a28335c95b84c362",
-    "trade_timestamp": 1773852089,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "BNK FEARX",
-      "side": "BUY",
-      "price": 0.9,
-      "effective_price": 0.9,
-      "size": 1190.1,
-      "amount": 1071.09,
-      "potential_pnl": 119.00999999999999,
-      "pnl_multiplier": 0.1111111111111111,
-      "is_no": false,
-      "slug": "lol-fox1-tsw-2026-03-18-game2",
-      "eventSlug": "lol-fox1-tsw-2026-03-18"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+58.0%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.32,
-      "market_price": 0.9,
-      "edge": 0.5800000000000001,
-      "edge_percent": 58.00000000000001,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Team Secret Whales has a strong performance history",
-          "BNK FEARX has recent losses",
-          "Key players are in top form"
-        ],
-        "weakest_link": "Team Secret Whales has inconsistent performance in high-pressure situations"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "recent match outcomes",
-        "team morale and synergy"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "BNK FEARX",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.5800000000000001,
-      "edge_percent": 58.00000000000001
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 58.0,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "Liverpool FC vs. Galatasaray SK: O/U 3.5",
-    "market_slug": "ucl-liv1-gal-2026-03-18-total-3pt5",
-    "event_slug": "ucl-liv1-gal-2026-03-18-total-3pt5",
-    "wallet": "0xbb6fd332b37fc54d97643966ec606b3de1682653",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($2,000)",
-        "Low activity (2 txns)"
-      ],
-      "amount": 2000.0,
-      "odds": 0.5,
-      "raw_price": 0.5,
-      "outcome": "Over",
-      "potential_pnl": 2000.0,
-      "pnl_multiplier": 1.0,
-      "wallet_age_days": 0,
-      "total_activities": 2
-    },
-    "timestamp": "2026-03-18T18:37:54.463372",
-    "trade_hash": "0x031c95a5db9bdc3d750dfd8fb106f49f2d792eb88828fd3a35b00819724c94b7",
-    "trade_timestamp": 1773858767,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Over",
-      "side": "BUY",
-      "price": 0.5,
-      "effective_price": 0.5,
-      "size": 4000.0,
-      "amount": 2000.0,
-      "potential_pnl": 2000.0,
-      "pnl_multiplier": 1.0,
-      "is_no": false,
-      "slug": "ucl-liv1-gal-2026-03-18-total-3pt5",
-      "eventSlug": "ucl-liv1-gal-2026-03-18-more-markets"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+26.0%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.24,
-      "market_price": 0.5,
-      "edge": 0.26,
-      "edge_percent": 26.0,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Both teams have strong attacking line-ups",
-          "Defensive weaknesses in both teams",
-          "Recent matches have shown high-scoring trends"
-        ],
-        "weakest_link": "Defensive weaknesses in both teams"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent form of both teams",
-        "Historical matchups between Liverpool and Galatasaray"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "OVER",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.26,
-      "edge_percent": 26.0
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 26.0,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x927b885b9f4d08509c599de1519ad5fd0713996af3e602b36ade91c5fca219c4",
-    "wallet": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
-    "trader": {
-      "rank": 8,
-      "address": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
-      "username": "walletmobile",
-      "profit": 5942685.45339684,
-      "volume": 32196692.075936034,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-      "side": "BUY",
-      "asset": "87076643449674421025867563979305674986904094660200631728049568674877746093358",
-      "conditionId": "0x445bb75546efcbb18b15425b96d8f32c343998d8fae92f8964d8000534cd9947",
-      "size": 3794,
-      "price": 0.21,
-      "timestamp": 1773864279,
-      "title": "Will Liverpool FC win on 2026-03-18?",
-      "slug": "ucl-liv1-gal-2026-03-18-liv1",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/champions-league-pic-QIUFsL8vaDdq.png",
-      "eventSlug": "ucl-liv1-gal-2026-03-18",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "swisstony",
-      "pseudonym": "Frail-Possible",
-      "bio": "loincloth chic",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x927b885b9f4d08509c599de1519ad5fd0713996af3e602b36ade91c5fca219c4",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Liverpool FC win on 2026-03-18?",
-    "market_slug": "ucl-liv1-gal-2026-03-18",
-    "amount": 2997.26
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0x12e9fb4c075ec188e2262e195ce122311642c3891443bd94dcac8a66f88ea8df",
     "wallet": "0xdb27bf2ac5d428a9c63dbc914611036855a6c56e",
@@ -30809,5 +30450,181 @@
     "market": "Spread: FC Barcelona (-2.5)",
     "market_slug": "lal-bar-rea-2026-05-10-more-markets",
     "amount": 1792.1966000000002
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x20cc4b9119a946cb4c4e3bea4643d81dc5dfe041ee117bf2363d41f2d165a84a",
+    "wallet": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
+    "trader": {
+      "rank": 3,
+      "address": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
+      "username": "kch123",
+      "profit": 12428226.348636165,
+      "volume": 289774977.489376,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x9770ca178764cdca1271934ad613ad7ab4a10ff5",
+      "side": "BUY",
+      "asset": "64095267403273080114064844653990606728405616107464126539894679210648772017643",
+      "conditionId": "0x14883f424ce421e567c505ac2437147d5a695d6ee462483de304aa6ffbabb99d",
+      "size": 8650,
+      "price": 0.53,
+      "timestamp": 1778513392,
+      "title": "Game Handicap: TOG (-1.5) vs Kaufland Hangry Knights (+1.5)",
+      "slug": "lol-tog-khk-2026-05-11-game-handicap-away-1pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
+      "eventSlug": "lol-tog-khk-2026-05-11",
+      "outcome": "Team Orange Gaming",
+      "outcomeIndex": 0,
+      "name": "plmbechP",
+      "pseudonym": "Grumpy-Rawhide",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-7387840-d7fa8612-07e5-4fc6-870d-b2926527de72.png",
+      "profileImageOptimized": "",
+      "transactionHash": "0x20cc4b9119a946cb4c4e3bea4643d81dc5dfe041ee117bf2363d41f2d165a84a",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Game Handicap: TOG (-1.5) vs Kaufland Hangry Knights (+1.5)",
+    "market_slug": "lol-tog-khk-2026-05-11",
+    "amount": 4584.5
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x43f41157bc5be94e3a04288daa531bb8fda2eabbe79a3850b05a5c04d51f30d3",
+    "wallet": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
+    "trader": {
+      "rank": 3,
+      "address": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
+      "username": "kch123",
+      "profit": 12428226.348636165,
+      "volume": 289774977.489376,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x24c7e69e0f2383a5559896055b2dba6be74377c4",
+      "side": "BUY",
+      "asset": "1082151543302283096022426347994927116771583637684281181389564840964511914573",
+      "conditionId": "0xde59ad0f6f4ef49bcabc52ac8e0904630136c676d1a2fa152da6474a21ce83a8",
+      "size": 2500,
+      "price": 0.79,
+      "timestamp": 1778513392,
+      "title": "Map Handicap: VIT (-1.5) vs BC.Game Esports (+1.5)",
+      "slug": "cs2-vit-bcg-2026-05-11-map-handicap-away-1pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/counter-strike-image-16c415c538.png",
+      "eventSlug": "cs2-vit-bcg-2026-05-11",
+      "outcome": "Vitality",
+      "outcomeIndex": 0,
+      "name": "demonstrating",
+      "pseudonym": "Clear-Cut-Chive",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x43f41157bc5be94e3a04288daa531bb8fda2eabbe79a3850b05a5c04d51f30d3",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Map Handicap: VIT (-1.5) vs BC.Game Esports (+1.5)",
+    "market_slug": "cs2-vit-bcg-2026-05-11",
+    "amount": 1975.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x5c9fea57a88ce6901ba70a08605da324dc09ebc189dc1d11ef90b9548ba30406",
+    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+    "trader": {
+      "rank": 12,
+      "address": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+      "username": "BetTom42",
+      "profit": 5642135.735356,
+      "volume": 11212839.523403,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xb1776c353202760f34d11db124513284d2991914",
+      "side": "BUY",
+      "asset": "59836342300019107345192946293808628477027872407796331728953679301472500950301",
+      "conditionId": "0xcb264069f0b8f30a94ec11c1e0b639e8dcbed8c25138bb22da536dab705fd7bc",
+      "size": 3000,
+      "price": 0.5,
+      "timestamp": 1778513715,
+      "title": "Will Al Ahli Saudi Club win on 2026-05-11?",
+      "slug": "spl-taa-ahl-2026-05-11-ahl",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/saudi-league-0eb74ab5b8.png",
+      "eventSlug": "spl-taa-ahl-2026-05-11",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "leejuhuyn",
+      "pseudonym": "Secret-Turmeric",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x5c9fea57a88ce6901ba70a08605da324dc09ebc189dc1d11ef90b9548ba30406",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Al Ahli Saudi Club win on 2026-05-11?",
+    "market_slug": "spl-taa-ahl-2026-05-11",
+    "amount": 1500.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x8997b35f30d96a5d0a3f73df679fc9f616674cc234d2f92ce231a30bc12e7f7c",
+    "wallet": "0xd0c042c08f755ff940249f62745e82d356345565",
+    "trader": {
+      "rank": 16,
+      "address": "0xd0c042c08f755ff940249f62745e82d356345565",
+      "username": "alexmulti",
+      "profit": 4804855.613376001,
+      "volume": 9949068.653841998,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x56c9fbdeccf198f1f5ad95ace39b24f5f7fb0d9e",
+      "side": "SELL",
+      "asset": "58636364393189739747908234849789451671582846511475748669318962561708800175969",
+      "conditionId": "0x9f1fdea520794b3588b7f898e3051d8f2e06f84d4329ccc0888fa6ac0f9ee5a1",
+      "size": 8550.54,
+      "price": 0.92,
+      "timestamp": 1778513889,
+      "title": "Internazionali BNL d'Italia: Mariano Navone vs Hamad Medjedovic",
+      "slug": "atp-navone-medjedo-2026-05-11",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+      "eventSlug": "atp-navone-medjedo-2026-05-11",
+      "outcome": "Hamad Medjedovic",
+      "outcomeIndex": 1,
+      "name": "redvinny",
+      "pseudonym": "Wrathful-Row",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x8997b35f30d96a5d0a3f73df679fc9f616674cc234d2f92ce231a30bc12e7f7c",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Internazionali BNL d'Italia: Mariano Navone vs Hamad Medjedovic",
+    "market_slug": "atp-navone-medjedo-2026-05-11",
+    "amount": 7866.496800000001
   }
 ]
