@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x0acb73f956f04dc504f483b8e952d0f324e9020931fd87041970463eab8be19c",
-    "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
-    "trader": {
-      "rank": 6,
-      "address": "0x863134d00841b2e200492805a01e1e2f5defaa53",
-      "username": "RepTrump",
-      "profit": 7532409.671579,
-      "volume": 13983231.103425,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xd106952ebf30a3125affd8a23b6c1f30c35fc79c",
-      "side": "BUY",
-      "asset": "36961540922856473670872890994305065836143786629172347392664942684473699861012",
-      "conditionId": "0x2c969fd929ea89dd35f84893ee964e0e1264c298f8194ab1e683bcf0dde8d348",
-      "size": 6426.87,
-      "price": 0.73,
-      "timestamp": 1773877185,
-      "title": "Raptors vs. Bulls",
-      "slug": "nba-tor-chi-2026-03-18",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-tor-chi-2026-03-18",
-      "outcome": "Raptors",
-      "outcomeIndex": 0,
-      "name": "Herdonia",
-      "pseudonym": "Unkempt-Image",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x0acb73f956f04dc504f483b8e952d0f324e9020931fd87041970463eab8be19c",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Raptors vs. Bulls",
-    "market_slug": "nba-tor-chi-2026-03-18",
-    "amount": 4691.6151
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x6e22fb8c3b2b7a799bea901d933c58f92c99752fea73b0e56017b4b0a4535864",
     "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
     "trader": {
@@ -30626,5 +30582,49 @@
     "market": "Will Bayer 04 Leverkusen win on 2026-05-16?",
     "market_slug": "bun-b04-hsv-2026-05-16",
     "amount": 7607.1611
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x5e9827e47a5392a59e0fb14d36b077d773c919ccb2691e927b7759978a8f7f5d",
+    "wallet": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
+    "trader": {
+      "rank": 2,
+      "address": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
+      "username": "Fredi9999",
+      "profit": 16619506.631730152,
+      "volume": 76611316.905154,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xfc0cb8da7a6bfcb50bc3a99632d378316f0dcfc9",
+      "side": "BUY",
+      "asset": "73743377542069964453715067579756349621464364076494441273132538249288540943745",
+      "conditionId": "0x883ea143cf3c0b585bd48b6edf31c8925b52b24b15337c56ffaa5c74842299e5",
+      "size": 15339.56,
+      "price": 0.53,
+      "timestamp": 1778526812,
+      "title": "Will Tottenham Hotspur FC win on 2026-05-11?",
+      "slug": "epl-tot-lee-2026-05-11-tot",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/premier+league.jpg",
+      "eventSlug": "epl-tot-lee-2026-05-11",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "crappy",
+      "pseudonym": "Wilted-Warren",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x5e9827e47a5392a59e0fb14d36b077d773c919ccb2691e927b7759978a8f7f5d",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Tottenham Hotspur FC win on 2026-05-11?",
+    "market_slug": "epl-tot-lee-2026-05-11",
+    "amount": 8129.9668
   }
 ]
