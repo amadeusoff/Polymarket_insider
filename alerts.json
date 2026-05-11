@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x776c925ace2636cf3deb12cd53169af806b345d8bd2f5f9df7f9a9c5397d607d",
-    "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
-    "trader": {
-      "rank": 6,
-      "address": "0x863134d00841b2e200492805a01e1e2f5defaa53",
-      "username": "RepTrump",
-      "profit": 7532409.671579,
-      "volume": 13983231.103425,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xee613b3fc183ee44f9da9c05f53e2da107e3debf",
-      "side": "BUY",
-      "asset": "32842054609210488119922752190357515717710523303220919546795223113990709252921",
-      "conditionId": "0x2d759abe9d12448f2546b8bee9b92260bcada606eccebb6a6f6f317a20d87c3c",
-      "size": 2887.04,
-      "price": 0.54,
-      "timestamp": 1773877185,
-      "title": "Spread: Illinois State Redbirds (-5.5)",
-      "slug": "cbb-kentst-illst-2026-03-18-spread-home-5pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ncaa-c14995df96.png",
-      "eventSlug": "cbb-kentst-illst-2026-03-18",
-      "outcome": "Kent State Golden Flashes",
-      "outcomeIndex": 1,
-      "name": "sovereign2013",
-      "pseudonym": "Ultimate-Locality",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x776c925ace2636cf3deb12cd53169af806b345d8bd2f5f9df7f9a9c5397d607d",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Spread: Illinois State Redbirds (-5.5)",
-    "market_slug": "cbb-kentst-illst-2026-03-18",
-    "amount": 1559.0016
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x3216a6735483e7b1c651e3bb72dc110bfd50f3037b02313e474a68944b952168",
     "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
     "trader": {
@@ -30626,5 +30582,49 @@
     "market": "Starmer out by May 15, 2026?",
     "market_slug": "starmer-out-in-2025",
     "amount": 4497.91503
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x15385884f31214f3ed030095e9cd31123091587511f858c69247855c61882f15",
+    "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+    "trader": {
+      "rank": 19,
+      "address": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+      "username": "beachboy4",
+      "profit": 4062132.8696627845,
+      "volume": 218023719.259256,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xc2dee7a51349323637d32b1c7581ddba8683ef3a",
+      "side": "BUY",
+      "asset": "73202237238299039889130523430877944882369151336851431990911935047048378362723",
+      "conditionId": "0x52f953bd31997875e5f782fbed7f85b8707aa8fefe95b6854cf5b8c69370b3f0",
+      "size": 5797.619046,
+      "price": 0.4199999999448049,
+      "timestamp": 1778538245,
+      "title": "Pistons vs. Cavaliers",
+      "slug": "nba-det-cle-2026-05-11",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-det-cle-2026-05-11",
+      "outcome": "Pistons",
+      "outcomeIndex": 0,
+      "name": "Smartguys",
+      "pseudonym": "Descriptive-Reputation",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x15385884f31214f3ed030095e9cd31123091587511f858c69247855c61882f15",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Pistons vs. Cavaliers",
+    "market_slug": "nba-det-cle-2026-05-11",
+    "amount": 2434.9999989999997
   }
 ]
