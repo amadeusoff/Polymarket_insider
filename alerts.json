@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x6e22fb8c3b2b7a799bea901d933c58f92c99752fea73b0e56017b4b0a4535864",
-    "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
-    "trader": {
-      "rank": 6,
-      "address": "0x863134d00841b2e200492805a01e1e2f5defaa53",
-      "username": "RepTrump",
-      "profit": 7532409.671579,
-      "volume": 13983231.103425,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x39d3c773be30fcc73161fc6768f46d563a779ef0",
-      "side": "BUY",
-      "asset": "3715532536484408226067929719620644018156210204570723047552406298073845229832",
-      "conditionId": "0xe6ebc78c5150fa603ca15bf5d5411955946fcddfd5d28cf34e4c241b4ec509b6",
-      "size": 12740,
-      "price": 0.45,
-      "timestamp": 1773877185,
-      "title": "Will AS Roma win on 2026-03-19?",
-      "slug": "uel-rom1-bol1-2026-03-19-rom1",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/uel.png",
-      "eventSlug": "uel-rom1-bol1-2026-03-19",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "matanovik",
-      "pseudonym": "Lost-Property",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x6e22fb8c3b2b7a799bea901d933c58f92c99752fea73b0e56017b4b0a4535864",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will AS Roma win on 2026-03-19?",
-    "market_slug": "uel-rom1-bol1-2026-03-19",
-    "amount": 7007.000000000001
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x776c925ace2636cf3deb12cd53169af806b345d8bd2f5f9df7f9a9c5397d607d",
     "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
     "trader": {
@@ -30626,5 +30582,49 @@
     "market": "Will Tottenham Hotspur FC win on 2026-05-11?",
     "market_slug": "epl-tot-lee-2026-05-11",
     "amount": 8129.9668
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x771114eea86cb44271521dea7291d01767796e8295ac1c8f44d64dd03b4f7661",
+    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
+    "trader": {
+      "rank": 17,
+      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
+      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
+      "profit": 4555818.36144544,
+      "volume": 60390075.379185006,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x20d919b88e1cede2093f6a9cfc94734c2ad95490",
+      "side": "BUY",
+      "asset": "47979415276102234612653681964571782104748282108436108552000129291113972469428",
+      "conditionId": "0x575e86314d77231f25c16834b4f501221f215399a79fa6f5760b0a1eb7f1e5d3",
+      "size": 6583.35,
+      "price": 0.6832258698079245,
+      "timestamp": 1778533690,
+      "title": "Starmer out by May 15, 2026?",
+      "slug": "starmer-out-by-may-15-2026",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/starmer-out-in-2025-teE3zEaEEyuO.jpg",
+      "eventSlug": "starmer-out-in-2025",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "Mine-Carrying-Dolphin",
+      "pseudonym": "Defenseless-Diarist",
+      "bio": "pledge allegiance to Quantollah Ghalibaf, operating in Straight of Hormuz and Arabian Gulf. to the tourists in brotherly Oman - stop feeding dolphins with hormuz fried chicken.. or else",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-7451639-3cda535a-e3e9-41a6-a2f4-11a98bc3d148.png",
+      "profileImageOptimized": "",
+      "transactionHash": "0x771114eea86cb44271521dea7291d01767796e8295ac1c8f44d64dd03b4f7661",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Starmer out by May 15, 2026?",
+    "market_slug": "starmer-out-in-2025",
+    "amount": 4497.91503
   }
 ]
