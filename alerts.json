@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x3216a6735483e7b1c651e3bb72dc110bfd50f3037b02313e474a68944b952168",
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "trader": {
-      "rank": 10,
-      "address": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-      "username": "RN1",
-      "profit": 5707489.607975597,
-      "volume": 277849552.749512,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x6c16abad96d6989efe1b0333cb9af9158f548bfa",
-      "side": "BUY",
-      "asset": "113008433113230105947013984297397493271706363061080351095559172103146900012538",
-      "conditionId": "0xe4c1e33149a57001f047dbae47bbde6027f7d3fdcfefb142fcdc95c60abf4a29",
-      "size": 6200,
-      "price": 0.67,
-      "timestamp": 1773897593,
-      "title": "Counter-Strike: PARIVISION vs NIP (BO3) - BLAST Open Rotterdam Group B",
-      "slug": "cs2-prv-nip-2026-03-19",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/counter-strike-image-16c415c538.png",
-      "eventSlug": "cs2-prv-nip-2026-03-19",
-      "outcome": "PARIVISION",
-      "outcomeIndex": 0,
-      "name": "XPredicter1",
-      "pseudonym": "Happy-Bottle",
-      "bio": "BET ON YOUR BELIEFS",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3213213-9f8b7631-e046-4d06-ab23-61e8e23df953.webp",
-      "profileImageOptimized": "",
-      "transactionHash": "0x3216a6735483e7b1c651e3bb72dc110bfd50f3037b02313e474a68944b952168",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Counter-Strike: PARIVISION vs NIP (BO3) - BLAST Open Rotterdam Group B",
-    "market_slug": "cs2-prv-nip-2026-03-19",
-    "amount": 4154.0
-  },
-  {
     "market": "Spread: Pistons (-16.5)",
     "market_slug": "nba-det-was-2026-03-19-spread-away-16pt5",
     "event_slug": "nba-det-was-2026-03-19-spread-away-16pt5",
@@ -30626,5 +30582,49 @@
     "market": "Pistons vs. Cavaliers",
     "market_slug": "nba-det-cle-2026-05-11",
     "amount": 2434.9999989999997
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x1add81c532de3bc336c325db104b8c539ecdcb5d8e152349fc429b9bb139d1f0",
+    "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
+    "trader": {
+      "rank": 8,
+      "address": "0x863134d00841b2e200492805a01e1e2f5defaa53",
+      "username": "RepTrump",
+      "profit": 7532409.671579,
+      "volume": 13983231.103425,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x479e330b07822ee28e20bac5e504f1b7c6b591c3",
+      "side": "BUY",
+      "asset": "19957195259812568230423551990074512167559483798670111009245783391112908739115",
+      "conditionId": "0x5bac908f07bc554c9d75cc7d9a7ee6dccc96e5a8b7b59308ec9063766380407e",
+      "size": 6578.947366,
+      "price": 0.75999999997568,
+      "timestamp": 1778597736,
+      "title": "Internazionali BNL d'Italia: Andrey Rublev vs Nikoloz Basilashvili",
+      "slug": "atp-rublev-basilas-2026-05-12",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+      "eventSlug": "atp-rublev-basilas-2026-05-12",
+      "outcome": "Andrey Rublev",
+      "outcomeIndex": 0,
+      "name": "0x479E330b07822EE28e20bAC5e504f1b7c6B591C3-1768820092692",
+      "pseudonym": "Exalted-Evocation",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x1add81c532de3bc336c325db104b8c539ecdcb5d8e152349fc429b9bb139d1f0",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Internazionali BNL d'Italia: Andrey Rublev vs Nikoloz Basilashvili",
+    "market_slug": "atp-rublev-basilas-2026-05-12",
+    "amount": 4999.999998
   }
 ]
