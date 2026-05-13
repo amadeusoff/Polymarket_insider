@@ -3,111 +3,6 @@
     "market": "Spread: Pistons (-16.5)",
     "market_slug": "nba-det-was-2026-03-19-spread-away-16pt5",
     "event_slug": "nba-det-was-2026-03-19-spread-away-16pt5",
-    "wallet": "0x409e018892cf9ad5033416c58b7aaed7f1c22d13",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,136)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 1136.16,
-      "odds": 0.54,
-      "raw_price": 0.54,
-      "outcome": "Wizards",
-      "potential_pnl": 967.8399999999999,
-      "pnl_multiplier": 0.8518518518518517,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-03-19T07:13:22.250132",
-    "trade_hash": "0x5737b90386cf6f005ae7577ef3a04b4839088baacb12e44faef2af242fa2bd47",
-    "trade_timestamp": 1773904075,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Wizards",
-      "side": "BUY",
-      "price": 0.54,
-      "effective_price": 0.54,
-      "size": 2104.0,
-      "amount": 1136.16,
-      "potential_pnl": 967.8399999999999,
-      "pnl_multiplier": 0.8518518518518517,
-      "is_no": false,
-      "slug": "nba-det-was-2026-03-19-spread-away-16pt5",
-      "eventSlug": "nba-det-was-2026-03-19"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+29.2%)"
-      ],
-      "category": "other",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.248,
-      "market_price": 0.54,
-      "edge": 0.29200000000000004,
-      "edge_percent": 29.200000000000003,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Pistons perform exceptionally well",
-          "Opposing team underperforms significantly",
-          "Key players remain healthy"
-        ],
-        "weakest_link": "Opposing team underperforms significantly"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Pistons' recent performance trends",
-        "Injury reports of key players"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "WIZARDS",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.29200000000000004,
-      "edge_percent": 29.200000000000003
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 29.2,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "Spread: Pistons (-16.5)",
-    "market_slug": "nba-det-was-2026-03-19-spread-away-16pt5",
-    "event_slug": "nba-det-was-2026-03-19-spread-away-16pt5",
     "wallet": "0xda06e13ab6839980a0cd7e9d2c0db75f2870496c",
     "analysis": {
       "score": 70,
@@ -30626,5 +30521,49 @@
     "market": "Internazionali BNL d'Italia: Andrey Rublev vs Nikoloz Basilashvili",
     "market_slug": "atp-rublev-basilas-2026-05-12",
     "amount": 4999.999998
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xe9f7402bd57e08f09d76dd5a4d552efc10e915396a3830aeea781383571ed029",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x13414a77a4be48988851c73dfd824d0168e70853",
+      "side": "BUY",
+      "asset": "13454440687288881177874410338081412332045088110624770301467669612602229961469",
+      "conditionId": "0xef6ad681ae0d3a9caa55a407386449d40af10fd0d8239116033650035457ca18",
+      "size": 3630.45,
+      "price": 0.53,
+      "timestamp": 1778648787,
+      "title": "Counter-Strike: Gentle Mates vs magic (BO3) - PGL Astana Group Stage",
+      "slug": "cs2-m8-mgc-2026-05-13",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/counter-strike-image-16c415c538.png",
+      "eventSlug": "cs2-m8-mgc-2026-05-13",
+      "outcome": "Gentle Mates",
+      "outcomeIndex": 0,
+      "name": "NRASCHATTER",
+      "pseudonym": "Practical-Alcohol",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-4043939-c1695cf1-492c-45e6-a5c4-537e510cea02.webp",
+      "profileImageOptimized": "",
+      "transactionHash": "0xe9f7402bd57e08f09d76dd5a4d552efc10e915396a3830aeea781383571ed029",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Counter-Strike: Gentle Mates vs magic (BO3) - PGL Astana Group Stage",
+    "market_slug": "cs2-m8-mgc-2026-05-13",
+    "amount": 1924.1385
   }
 ]
