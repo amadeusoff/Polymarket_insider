@@ -30564,6 +30564,12 @@
     },
     "market": "Counter-Strike: Gentle Mates vs magic (BO3) - PGL Astana Group Stage",
     "market_slug": "cs2-m8-mgc-2026-05-13",
-    "amount": 1924.1385
+    "amount": 1924.1385,
+    "resolution": {
+      "outcome": "magic",
+      "checked_at": "2026-05-13T08:49:29.582183+00:00",
+      "insider_win": null,
+      "model_correct": null
+    }
   }
 ]
