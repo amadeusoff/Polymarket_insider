@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x1dc999c6b0ccd3736b84eb06c47c6b048606b91a4becd67a122dcebf902c0fb3",
-    "wallet": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
-    "trader": {
-      "rank": 3,
-      "address": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
-      "username": "kch123",
-      "profit": 11358581.724746734,
-      "volume": 256144838.006925,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x7d93f3c40c1f3da6c2c7ff1a8a6f81e3af0288bb",
-      "side": "BUY",
-      "asset": "101382087930113738078068588877810030862858420449201729866179463116442988178498",
-      "conditionId": "0x9079822f95376dae8797ecb6d5b2a0251bd24f102693cf667f3911d864c08f5a",
-      "size": 5692,
-      "price": 0.45,
-      "timestamp": 1773904495,
-      "title": "Cavaliers vs. Bulls: O/U 238.5",
-      "slug": "nba-cle-chi-2026-03-19-total-238pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-cle-chi-2026-03-19",
-      "outcome": "Under",
-      "outcomeIndex": 1,
-      "name": "Thunderf",
-      "pseudonym": "Useless-Fraud",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x1dc999c6b0ccd3736b84eb06c47c6b048606b91a4becd67a122dcebf902c0fb3",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Cavaliers vs. Bulls: O/U 238.5",
-    "market_slug": "nba-cle-chi-2026-03-19",
-    "amount": 2561.4
-  },
-  {
     "market": "Will T\u00f4 L\u00e2m be the next President of Vietnam?",
     "market_slug": "will-t-lm-be-the-next-president-of-vietnam",
     "event_slug": "will-t-lm-be-the-next-president-of-vietnam",
@@ -30449,5 +30405,49 @@
     "market": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
     "market_slug": "brazil-presidential-election",
     "amount": 3640.37
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xf524b252d8f60226c530a0897dd835b577648bb5655af77bb84d58e496798478",
+    "wallet": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
+    "trader": {
+      "rank": 5,
+      "address": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
+      "username": "Len9311238",
+      "profit": 8709972.988069998,
+      "volume": 16402744.764626998,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+      "side": "BUY",
+      "asset": "110030048924013926583098743519631193959360610507551584209076487663994554574293",
+      "conditionId": "0x6c0d6adb84ce01c0d2a3ace7cebfa8a49d9027cae6f03d8e8fd1f39a4bcc0dca",
+      "size": 3762.03,
+      "price": 0.5391531168013014,
+      "timestamp": 1778776177,
+      "title": "Washington Nationals vs. Cincinnati Reds: O/U 7.5",
+      "slug": "mlb-wsh-cin-2026-05-14-total-7pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
+      "eventSlug": "mlb-wsh-cin-2026-05-14",
+      "outcome": "Over",
+      "outcomeIndex": 0,
+      "name": "mooseborzoi",
+      "pseudonym": "Agitated-Bricklaying",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xf524b252d8f60226c530a0897dd835b577648bb5655af77bb84d58e496798478",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Washington Nationals vs. Cincinnati Reds: O/U 7.5",
+    "market_slug": "mlb-wsh-cin-2026-05-14",
+    "amount": 2028.3102000000001
   }
 ]
