@@ -1,113 +1,5 @@
 [
   {
-    "market": "Will T\u00f4 L\u00e2m be the next President of Vietnam?",
-    "market_slug": "will-t-lm-be-the-next-president-of-vietnam",
-    "event_slug": "will-t-lm-be-the-next-president-of-vietnam",
-    "wallet": "0x53c1363eb2613a74d7599d9d41ead8433db01490",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($2,460)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 2459.791666,
-      "odds": 0.8805532206936515,
-      "raw_price": 0.11944677930634856,
-      "outcome": "No",
-      "potential_pnl": 333.66999899999973,
-      "pnl_multiplier": 0.13564969896113133,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-03-19T10:38:01.738789",
-    "trade_hash": "0xd51e1e8288da4c32a4820e1fea6b53894aa503194136f9cef590fbc828c84107",
-    "trade_timestamp": 1773916367,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "BUY",
-      "price": 0.11944677930634856,
-      "effective_price": 0.8805532206936515,
-      "size": 2793.461665,
-      "amount": 2459.791666,
-      "potential_pnl": 333.66999899999973,
-      "pnl_multiplier": 0.13564969896113133,
-      "is_no": true,
-      "slug": "will-t-lm-be-the-next-president-of-vietnam",
-      "eventSlug": "next-president-of-vietnam"
-    },
-    "irrationality": {
-      "irrationality_score": 48,
-      "flags": [
-        "Longshot (12%) in high bias category (politics_far)",
-        "Category structurally prone to longshot bias",
-        "Moderate mispricing edge (+7.6%)"
-      ],
-      "category": "politics_far",
-      "category_info": {
-        "strength": "high",
-        "typical_overpricing": 0.05,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.04388935586126971,
-      "market_price": 0.11944677930634856,
-      "edge": 0.07555742344507885,
-      "edge_percent": 7.555742344507885,
-      "min_edge_required": 0.03,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "rare",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "rare",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Political support from the Communist Party",
-          "Public approval and acceptance",
-          "Absence of strong opposition candidates"
-        ],
-        "weakest_link": "Public approval and acceptance"
-      },
-      "category": "politics_near",
-      "narrative_drivers": [
-        "Internal party dynamics",
-        "Public sentiment towards leadership"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "ALPHA",
-      "signal_emoji": "\ud83d\udd25",
-      "signal_strength": 118,
-      "interpretation": "Smart money (NO) confirms YES is overpriced",
-      "action_suggestion": "High conviction: insider + statistics aligned",
-      "insider_score": 70,
-      "insider_position": "NO",
-      "irrationality_score": 48,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.07555742344507885,
-      "edge_percent": 7.555742344507885
-    },
-    "financial_analyst": {
-      "signal_quality": 69.9,
-      "stance": "SELECTIVE",
-      "edge_percent": 7.56,
-      "signal_strength": 118.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-03-29T06:57:04.289342+00:00"
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0xb4d9d85959a096723c375949b7e02bb1e97fd860bb8cf16d2a86431acb801b0a",
     "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
@@ -30449,5 +30341,49 @@
     "market": "Washington Nationals vs. Cincinnati Reds: O/U 7.5",
     "market_slug": "mlb-wsh-cin-2026-05-14",
     "amount": 2028.3102000000001
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x07f81c25a97a5c2b0a88e86b01f6479ccf643053ef8013cd918ae6ec5833bedb",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x5c3a1a602848565bb16165fcd460b00c3d43020b",
+      "side": "BUY",
+      "asset": "44083984433134791449643381962914689528873029835896481284610048939750832269539",
+      "conditionId": "0x8c80a48fccc83a330b330047cae1428c09005c571d80a077a6dc69f2c424027b",
+      "size": 64796.46,
+      "price": 0.63,
+      "timestamp": 1778794366,
+      "title": "Chicago Cubs vs. Atlanta Braves",
+      "slug": "mlb-chc-atl-2026-05-14",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
+      "eventSlug": "mlb-chc-atl-2026-05-14",
+      "outcome": "Atlanta Braves",
+      "outcomeIndex": 1,
+      "name": "embarrassment",
+      "pseudonym": "Immense-Facelift",
+      "bio": "Champion of Africa",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-5270322-1627dc07-3ce6-48cb-8791-2c12959cbad5.png",
+      "profileImageOptimized": "",
+      "transactionHash": "0x07f81c25a97a5c2b0a88e86b01f6479ccf643053ef8013cd918ae6ec5833bedb",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Chicago Cubs vs. Atlanta Braves",
+    "market_slug": "mlb-chc-atl-2026-05-14",
+    "amount": 40821.7698
   }
 ]
