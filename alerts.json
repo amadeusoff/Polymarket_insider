@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xb4d9d85959a096723c375949b7e02bb1e97fd860bb8cf16d2a86431acb801b0a",
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "trader": {
-      "rank": 9,
-      "address": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-      "username": "RN1",
-      "profit": 5737968.580120262,
-      "volume": 278031629.762783,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xd106952ebf30a3125affd8a23b6c1f30c35fc79c",
-      "side": "BUY",
-      "asset": "2674595536960933334332472878857052687249218836423245888706664492655136930708",
-      "conditionId": "0x4ab8d086479d32ff52377289defc81f6c4f24769bf7ffd1e4f132ba4d04ec369",
-      "size": 2891.03,
-      "price": 0.56,
-      "timestamp": 1773919501,
-      "title": "Jets vs. Bruins",
-      "slug": "nhl-wpg-bos-2026-03-19",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nhl.png",
-      "eventSlug": "nhl-wpg-bos-2026-03-19",
-      "outcome": "Bruins",
-      "outcomeIndex": 1,
-      "name": "Herdonia",
-      "pseudonym": "Unkempt-Image",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xb4d9d85959a096723c375949b7e02bb1e97fd860bb8cf16d2a86431acb801b0a",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Jets vs. Bruins",
-    "market_slug": "nhl-wpg-bos-2026-03-19",
-    "amount": 1618.9768000000004
-  },
-  {
     "market": "Spread: Hornets (-4.5)",
     "market_slug": "nba-orl-cha-2026-03-19-spread-home-4pt5",
     "event_slug": "nba-orl-cha-2026-03-19-spread-home-4pt5",
@@ -30385,5 +30341,49 @@
     "market": "Chicago Cubs vs. Atlanta Braves",
     "market_slug": "mlb-chc-atl-2026-05-14",
     "amount": 40821.7698
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x7ee3ff777461b308b85614f42e005ead4f05dba4dd64687fafa76f58cc9872d0",
+    "wallet": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
+    "trader": {
+      "rank": 3,
+      "address": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
+      "username": "kch123",
+      "profit": 12588588.799703138,
+      "volume": 290336654.184485,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x53757615de1c42b83f893b79d4241a009dc2aeea",
+      "side": "BUY",
+      "asset": "1595188389908704964590039616142867212219844488729598204584625804900479567316",
+      "conditionId": "0x493e55161a52f24c0be8f5094893669039e04d11e11285a066ce64b6610e7afa",
+      "size": 3823,
+      "price": 0.65,
+      "timestamp": 1778876517,
+      "title": "Will Aston Villa FC win on 2026-05-17?",
+      "slug": "epl-ast-liv-2026-05-17-ast",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/premier+league.jpg",
+      "eventSlug": "epl-ast-liv-2026-05-17",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "",
+      "pseudonym": "",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x7ee3ff777461b308b85614f42e005ead4f05dba4dd64687fafa76f58cc9872d0",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Aston Villa FC win on 2026-05-17?",
+    "market_slug": "epl-ast-liv-2026-05-17",
+    "amount": 2484.9500000000003
   }
 ]
