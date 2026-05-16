@@ -3,111 +3,6 @@
     "market": "Spread: Hornets (-5.5)",
     "market_slug": "nba-orl-cha-2026-03-19-spread-home-5pt5",
     "event_slug": "nba-orl-cha-2026-03-19-spread-home-5pt5",
-    "wallet": "0x73c5261c9ca237d4e34a803edece2f1d1abb26e9",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,697)",
-        "Low activity (2 txns)"
-      ],
-      "amount": 1696.835,
-      "odds": 0.5,
-      "raw_price": 0.5,
-      "outcome": "Hornets",
-      "potential_pnl": 1696.835,
-      "pnl_multiplier": 1.0,
-      "wallet_age_days": 0,
-      "total_activities": 2
-    },
-    "timestamp": "2026-03-19T14:36:56.307326",
-    "trade_hash": "0x58cccda82653d7155d0d0f983f582ee236ea5709042038ffce43be8e7f7e6c1d",
-    "trade_timestamp": 1773930723,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Hornets",
-      "side": "BUY",
-      "price": 0.5,
-      "effective_price": 0.5,
-      "size": 3393.67,
-      "amount": 1696.835,
-      "potential_pnl": 1696.835,
-      "pnl_multiplier": 1.0,
-      "is_no": false,
-      "slug": "nba-orl-cha-2026-03-19-spread-home-5pt5",
-      "eventSlug": "nba-orl-cha-2026-03-19"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+26.0%)"
-      ],
-      "category": "other",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.24,
-      "market_price": 0.5,
-      "edge": 0.26,
-      "edge_percent": 26.0,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Hornets maintain a strong home court advantage",
-          "Key players for Hornets perform exceptionally well",
-          "Opponent struggles with injuries or poor performance"
-        ],
-        "weakest_link": "Opponent struggles with injuries or poor performance"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Hornets' recent performance trends",
-        "Public sentiment towards the Hornets' chances"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "HORNETS",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.26,
-      "edge_percent": 26.0
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 26.0,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "Spread: Hornets (-5.5)",
-    "market_slug": "nba-orl-cha-2026-03-19-spread-home-5pt5",
-    "event_slug": "nba-orl-cha-2026-03-19-spread-home-5pt5",
     "wallet": "0x77a9f585405788ac801da061f2db51ce8b8bf7d7",
     "analysis": {
       "score": 70,
@@ -30263,5 +30158,49 @@
     "market": "Will Manchester City FC win on 2026-05-16?",
     "market_slug": "efa-cfc-mnc-2026-05-16",
     "amount": 1556.2154
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x5b0714190811138d1162cdb04154cf43521a28032c850f128a58d8d996e77576",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "trader": {
+      "rank": 6,
+      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "username": "swisstony",
+      "profit": 8173868.589065395,
+      "volume": 772381386.7799317,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "56292702775664168429027545050110644752361487635099425678404018376834449557613",
+      "conditionId": "0x0d55b1f13c05fbb04b51a4de8fdd4b32dd09dcbbf0bf7f5407589c0ad36219a2",
+      "size": 1977,
+      "price": 0.86,
+      "timestamp": 1778956938,
+      "title": "Will Gaziantep FK vs. Rams Ba\u015fak\u015fehir FK end in a draw?",
+      "slug": "tur-gfk-iba-2026-05-16-draw",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/tur.png",
+      "eventSlug": "tur-gfk-iba-2026-05-16",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "loincloth chic",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x5b0714190811138d1162cdb04154cf43521a28032c850f128a58d8d996e77576",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Gaziantep FK vs. Rams Ba\u015fak\u015fehir FK end in a draw?",
+    "market_slug": "tur-gfk-iba-2026-05-16",
+    "amount": 1700.22
   }
 ]
