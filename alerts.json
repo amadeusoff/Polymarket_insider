@@ -1,110 +1,5 @@
 [
   {
-    "market": "Spread: Hornets (-4.5)",
-    "market_slug": "nba-orl-cha-2026-03-19-spread-home-4pt5",
-    "event_slug": "nba-orl-cha-2026-03-19-spread-home-4pt5",
-    "wallet": "0xfc6381442d0dd6a65075ab453d0420e98f6d1775",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,989)",
-        "Low activity (3 txns)"
-      ],
-      "amount": 1989.3600000000001,
-      "odds": 0.54,
-      "raw_price": 0.54,
-      "outcome": "Hornets",
-      "potential_pnl": 1694.6399999999999,
-      "pnl_multiplier": 0.8518518518518517,
-      "wallet_age_days": 0,
-      "total_activities": 3
-    },
-    "timestamp": "2026-03-19T12:30:31.324868",
-    "trade_hash": "0xcfb2ca72077a06d99b4c9d1b6ae536c603f5c840853461ee1270022678943815",
-    "trade_timestamp": 1773923019,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Hornets",
-      "side": "BUY",
-      "price": 0.54,
-      "effective_price": 0.54,
-      "size": 3684.0,
-      "amount": 1989.3600000000001,
-      "potential_pnl": 1694.6399999999999,
-      "pnl_multiplier": 0.8518518518518517,
-      "is_no": false,
-      "slug": "nba-orl-cha-2026-03-19-spread-home-4pt5",
-      "eventSlug": "nba-orl-cha-2026-03-19"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+29.2%)"
-      ],
-      "category": "other",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.248,
-      "market_price": 0.54,
-      "edge": 0.29200000000000004,
-      "edge_percent": 29.200000000000003,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Hornets' key players perform at peak levels",
-          "Opposing team has significant injuries",
-          "Home court advantage for the Hornets"
-        ],
-        "weakest_link": "Opposing team has significant injuries"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Fan sentiment towards the Hornets",
-        "Recent performance trends of both teams"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "HORNETS",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.29200000000000004,
-      "edge_percent": 29.200000000000003
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 29.2,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "market": "Spread: Heat (-2.5)",
     "market_slug": "nba-lal-mia-2026-03-19-spread-home-2pt5",
     "event_slug": "nba-lal-mia-2026-03-19-spread-home-2pt5",
@@ -30385,5 +30280,49 @@
     "market": "Will Aston Villa FC win on 2026-05-17?",
     "market_slug": "epl-ast-liv-2026-05-17",
     "amount": 2484.9500000000003
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x0fd73bf791325b336f1d30adb9139514a3c3f04cbbb5732f8d11e8e5f8c42c49",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+      "side": "BUY",
+      "asset": "989640242438480136386606321389762267333095772455312977514537491131184301632",
+      "conditionId": "0x81b11f8ccc5f2454f7c7fd020e5526aadcb5f21bb33c875ecfcd5820578f9f9b",
+      "size": 2074.43,
+      "price": 0.7814830579966545,
+      "timestamp": 1778931416,
+      "title": "Parma: Dayana Yastremska vs Jessica Bouzas Maneiro",
+      "slug": "wta-yastrem-maneiro-2026-05-15",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wta-logo-41f331bdf1.png",
+      "eventSlug": "wta-yastrem-maneiro-2026-05-15",
+      "outcome": "Dayana Yastremska",
+      "outcomeIndex": 0,
+      "name": "RN1",
+      "pseudonym": "Scary-Edible",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-1567750-84001aec-310a-470f-9584-67dfcaa61267.png",
+      "profileImageOptimized": "",
+      "transactionHash": "0x0fd73bf791325b336f1d30adb9139514a3c3f04cbbb5732f8d11e8e5f8c42c49",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Parma: Dayana Yastremska vs Jessica Bouzas Maneiro",
+    "market_slug": "wta-yastrem-maneiro-2026-05-15",
+    "amount": 1621.1318999999999
   }
 ]
