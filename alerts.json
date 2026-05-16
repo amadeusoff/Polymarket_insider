@@ -1,110 +1,5 @@
 [
   {
-    "market": "Spread: Heat (-2.5)",
-    "market_slug": "nba-lal-mia-2026-03-19-spread-home-2pt5",
-    "event_slug": "nba-lal-mia-2026-03-19-spread-home-2pt5",
-    "wallet": "0xcdeeaad589985a4afd562f1c78091120ca47c456",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,191)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 1191.3600000000001,
-      "odds": 0.51,
-      "raw_price": 0.51,
-      "outcome": "Heat",
-      "potential_pnl": 1144.6399999999999,
-      "pnl_multiplier": 0.96078431372549,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-03-19T12:30:43.165772",
-    "trade_hash": "0xbdb8e14648d9cbb1baade1fe57564063689f39c3e54781e3bfcdaffde76793c1",
-    "trade_timestamp": 1773923101,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Heat",
-      "side": "BUY",
-      "price": 0.51,
-      "effective_price": 0.51,
-      "size": 2336.0,
-      "amount": 1191.3600000000001,
-      "potential_pnl": 1144.6399999999999,
-      "pnl_multiplier": 0.96078431372549,
-      "is_no": false,
-      "slug": "nba-lal-mia-2026-03-19-spread-home-2pt5",
-      "eventSlug": "nba-lal-mia-2026-03-19"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+26.8%)"
-      ],
-      "category": "other",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.242,
-      "market_price": 0.51,
-      "edge": 0.268,
-      "edge_percent": 26.8,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "team performance consistency",
-          "injury status of key players",
-          "coaching strategies"
-        ],
-        "weakest_link": "injury status of key players"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "team's recent performance trends",
-        "public sentiment towards the team"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "HEAT",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.268,
-      "edge_percent": 26.8
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 26.8,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "market": "Spread: Hornets (-5.5)",
     "market_slug": "nba-orl-cha-2026-03-19-spread-home-5pt5",
     "event_slug": "nba-orl-cha-2026-03-19-spread-home-5pt5",
@@ -30324,5 +30219,49 @@
     "market": "Parma: Dayana Yastremska vs Jessica Bouzas Maneiro",
     "market_slug": "wta-yastrem-maneiro-2026-05-15",
     "amount": 1621.1318999999999
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x245870467889f18dff8133dcd35c1028325520abfe89300a95f459d69592cd74",
+    "wallet": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
+    "trader": {
+      "rank": 5,
+      "address": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
+      "username": "Len9311238",
+      "profit": 8709972.988069998,
+      "volume": 16402744.764627,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x2cbc88c9145cc105b39bf42a090d7a7ed67bfaeb",
+      "side": "SELL",
+      "asset": "4252871261301863128731369056725053384530270232505191588908294054319555424411",
+      "conditionId": "0x30d49ac0a4ce091a98c3950d5bb84063676596a889890300adf24b0e2c410e3a",
+      "size": 1976.28,
+      "price": 0.7874468192766207,
+      "timestamp": 1778945526,
+      "title": "Will Manchester City FC win on 2026-05-16?",
+      "slug": "efa-cfc-mnc-2026-05-16-mnc",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/fa-cup-48b7f4b3c1.png",
+      "eventSlug": "efa-cfc-mnc-2026-05-16",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "0x2cbc88c9145Cc105b39bf42A090d7A7eD67bfaEB-1778886036211",
+      "pseudonym": "Weepy-Peacock",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x245870467889f18dff8133dcd35c1028325520abfe89300a95f459d69592cd74",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Manchester City FC win on 2026-05-16?",
+    "market_slug": "efa-cfc-mnc-2026-05-16",
+    "amount": 1556.2154
   }
 ]
