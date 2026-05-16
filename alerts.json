@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x2f6d22ed47d3095bd57a235994ba1aa48f24f6ce6492a3df0ebec2706b230628",
-    "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
-    "trader": {
-      "rank": 13,
-      "address": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
-      "username": "mikatrade77",
-      "profit": 5147998.544602999,
-      "volume": 10884765.388774998,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xb6aee7f281e13b23bd959127f6e2b3dccb4e4df8",
-      "side": "BUY",
-      "asset": "34003663288324402425719266566755962799186506367320329765748501440548333664169",
-      "conditionId": "0x16b320169de30b3f2e0ecd28228027e7de33639389c3487e3b22dadbffe32d9a",
-      "size": 6988,
-      "price": 0.5,
-      "timestamp": 1773959419,
-      "title": "Pistons vs. Wizards: O/U 232.5",
-      "slug": "nba-det-was-2026-03-19-total-232pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-det-was-2026-03-19",
-      "outcome": "Under",
-      "outcomeIndex": 1,
-      "name": "hugesportswhale",
-      "pseudonym": "Fuzzy-Oversight",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x2f6d22ed47d3095bd57a235994ba1aa48f24f6ce6492a3df0ebec2706b230628",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Pistons vs. Wizards: O/U 232.5",
-    "market_slug": "nba-det-was-2026-03-19",
-    "amount": 3494.0
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x5cdbc27187722f827420292b37566465ce0f8a74fa0c9b6ae570ee406f8e794f",
     "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
     "trader": {
@@ -30202,5 +30158,49 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x475b50a47393ebe945c79995940d6b895cace01abf9e6011c73aaa7fd0131fb9",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "trader": {
+      "rank": 6,
+      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "username": "swisstony",
+      "profit": 8111246.436550416,
+      "volume": 773440870.255557,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x1136368d7f6728e94ed14c532ab95a932f710c2e",
+      "side": "BUY",
+      "asset": "100433498178768911852652444703412104363156711977618298880437773030655869158777",
+      "conditionId": "0x49277ad01b812682abda52700fb0441a07ebf033ed6e9b31b34ddb8c0739de8f",
+      "size": 30000,
+      "price": 0.39,
+      "timestamp": 1778974359,
+      "title": "Sabres vs. Canadiens",
+      "slug": "nhl-buf-mon-2026-05-16",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nhl.png",
+      "eventSlug": "nhl-buf-mon-2026-05-16",
+      "outcome": "Sabres",
+      "outcomeIndex": 0,
+      "name": "arlanta",
+      "pseudonym": "Moral-Goat",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x475b50a47393ebe945c79995940d6b895cace01abf9e6011c73aaa7fd0131fb9",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Sabres vs. Canadiens",
+    "market_slug": "nhl-buf-mon-2026-05-16",
+    "amount": 11700.0
   }
 ]
