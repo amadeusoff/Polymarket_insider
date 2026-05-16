@@ -1,154 +1,5 @@
 [
   {
-    "market": "Spread: Hornets (-5.5)",
-    "market_slug": "nba-orl-cha-2026-03-19-spread-home-5pt5",
-    "event_slug": "nba-orl-cha-2026-03-19-spread-home-5pt5",
-    "wallet": "0x77a9f585405788ac801da061f2db51ce8b8bf7d7",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($2,397)",
-        "Low activity (2 txns)"
-      ],
-      "amount": 2397.165,
-      "odds": 0.5,
-      "raw_price": 0.5,
-      "outcome": "Magic",
-      "potential_pnl": 2397.165,
-      "pnl_multiplier": 1.0,
-      "wallet_age_days": 0,
-      "total_activities": 2
-    },
-    "timestamp": "2026-03-19T14:36:59.601162",
-    "trade_hash": "0x83a7e450890c88a2338f9381b76b7e4d75e4a292622f2f389dfac657a88bfb0a",
-    "trade_timestamp": 1773930723,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Magic",
-      "side": "BUY",
-      "price": 0.5,
-      "effective_price": 0.5,
-      "size": 4794.33,
-      "amount": 2397.165,
-      "potential_pnl": 2397.165,
-      "pnl_multiplier": 1.0,
-      "is_no": false,
-      "slug": "nba-orl-cha-2026-03-19-spread-home-5pt5",
-      "eventSlug": "nba-orl-cha-2026-03-19"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+26.0%)"
-      ],
-      "category": "other",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.24,
-      "market_price": 0.5,
-      "edge": 0.26,
-      "edge_percent": 26.0,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Hornets perform well offensively",
-          "Hornets maintain defensive consistency",
-          "Opponent struggles with key injuries"
-        ],
-        "weakest_link": "Opponent struggles with key injuries"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Hornets' recent performance trends",
-        "Injury reports affecting opponent"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "MAGIC",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.26,
-      "edge_percent": 26.0
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 26.0,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x29c3e47ad90aeb5d4771bacb7c5dbcdf7bcce9bfa304fd72ec072c4670309247",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.51568201,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x4133bcbad1d9c41de776646696f41c34d0a65e70",
-      "side": "BUY",
-      "asset": "62505429809364797963518971310518916509956092021742080639017340569942721490348",
-      "conditionId": "0xf0cbad2c1d75167939a31891bd89b8e4b5a94db0ecb1ad571152aa52c8f96013",
-      "size": 5345.88,
-      "price": 0.85,
-      "timestamp": 1773947411,
-      "title": "Will RC Celta de Vigo win on 2026-03-19?",
-      "slug": "uel-lyo1-cel4-2026-03-19-cel4",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/uel.png",
-      "eventSlug": "uel-lyo1-cel4-2026-03-19",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "EF203F2IPFC2ICP20W-CP3",
-      "pseudonym": "Bogus-Fix",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x29c3e47ad90aeb5d4771bacb7c5dbcdf7bcce9bfa304fd72ec072c4670309247",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will RC Celta de Vigo win on 2026-03-19?",
-    "market_slug": "uel-lyo1-cel4-2026-03-19",
-    "amount": 4543.998
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0x064a8e82008c576be1ffa2ceaf9959643abf23126f185a90391c06704f51ebaa",
     "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
@@ -30202,5 +30053,93 @@
     "market": "Will Gaziantep FK vs. Rams Ba\u015fak\u015fehir FK end in a draw?",
     "market_slug": "tur-gfk-iba-2026-05-16",
     "amount": 1700.22
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x80d57eabe582bffee939994b6e1f9d6fcbcea0bf3d77cfcb753de7fe2a3f1264",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x697821bebfdd65cc472da1e302b90b430dd09897",
+      "side": "BUY",
+      "asset": "26103060803217676150855038854420640078937735163114870465398559840340378714336",
+      "conditionId": "0x9046b0959d66c3ad5804e24535740c6ae41eff42a86f80a3aaee1a62b1da4328",
+      "size": 12995.9992,
+      "price": 0.739573760515467,
+      "timestamp": 1778963548,
+      "title": "Counter-Strike: BetBoom Team vs Natus Vincere (BO3) - IEM Atlanta Playoffs",
+      "slug": "cs2-bb3-navi-2026-05-16",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/counter-strike-image-16c415c538.png",
+      "eventSlug": "cs2-bb3-navi-2026-05-16",
+      "outcome": "Natus Vincere",
+      "outcomeIndex": 1,
+      "name": "0x697821BeBFdd65cC472dA1e302B90B430dD09897-1773477438905",
+      "pseudonym": "Ample-Motorcar",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x80d57eabe582bffee939994b6e1f9d6fcbcea0bf3d77cfcb753de7fe2a3f1264",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Counter-Strike: BetBoom Team vs Natus Vincere (BO3) - IEM Atlanta Playoffs",
+    "market_slug": "cs2-bb3-navi-2026-05-16",
+    "amount": 9611.5
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x0e156a29f6a926ce2168a49caf6504cc34f23c2616597782e9056f562a5ba121",
+    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
+    "trader": {
+      "rank": 7,
+      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
+      "username": "zxgngl",
+      "profit": 7807265.5892408835,
+      "volume": 40551790.62184699,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xcb894d56b6ed7f458e8534636a086b65e915a2e8",
+      "side": "SELL",
+      "asset": "97166107287234497412734496054463228470063422608173149121206267858484467672978",
+      "conditionId": "0xe0b6f4d40f33f456caba50434db5ea8c5ca93e84eb912054a80ca0c58ad70dd7",
+      "size": 2200,
+      "price": 0.85,
+      "timestamp": 1778964148,
+      "title": "Starmer out by May 31, 2026?",
+      "slug": "starmer-out-by-may-31-2026",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/starmer-out-in-2025-teE3zEaEEyuO.jpg",
+      "eventSlug": "starmer-out-in-2025",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "justme003",
+      "pseudonym": "Blaring-Surge",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x0e156a29f6a926ce2168a49caf6504cc34f23c2616597782e9056f562a5ba121",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Starmer out by May 31, 2026?",
+    "market_slug": "starmer-out-in-2025",
+    "amount": 1870.0
   }
 ]
