@@ -1,94 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x758fc49af99153046d7de036a05113ee9ec39e18450a72df33823918823ef554",
-    "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
-    "trader": {
-      "rank": 16,
-      "address": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
-      "username": "432614799197",
-      "profit": 4561126.663957323,
-      "volume": 185485956.8620829,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x5d58e38cd0a7e6f5fa67b7f9c2f70dd70df09a15",
-      "side": "SELL",
-      "asset": "84007361241758978489330197202827235700289078898880514910472901778979242019662",
-      "conditionId": "0xb44d28615f728f279f32cda4ab130f2edbb5dd1b53363a75502aaac06eb502ce",
-      "size": 10949.46,
-      "price": 0.29095242139795024,
-      "timestamp": 1773962719,
-      "title": "VCU Rams vs. North Carolina Tar Heels",
-      "slug": "cbb-vcu-ncar-2026-03-19",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ncaa-c14995df96.png",
-      "eventSlug": "cbb-vcu-ncar-2026-03-19",
-      "outcome": "VCU Rams",
-      "outcomeIndex": 0,
-      "name": "Dhdhsjsj",
-      "pseudonym": "Our-Cutover",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x758fc49af99153046d7de036a05113ee9ec39e18450a72df33823918823ef554",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "VCU Rams vs. North Carolina Tar Heels",
-    "market_slug": "cbb-vcu-ncar-2026-03-19",
-    "amount": 3185.7719
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xf5c43d67eb70a893de143e11a296c64bc9d40b250952e7e710dcaafb3c2d232d",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x37c1874a60d348903594a96703e0507c518fc53a",
-      "side": "BUY",
-      "asset": "51641649794013183299849597466077290512870157021080139376494985217022682240581",
-      "conditionId": "0x9af82525f62f45127301f661979e00c6de4f40566fadaa43361daa58a1a79941",
-      "size": 15978.26,
-      "price": 0.54,
-      "timestamp": 1773963919,
-      "title": "Utah vs. Golden Knights",
-      "slug": "nhl-utah-las-2026-03-19",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nhl.png",
-      "eventSlug": "nhl-utah-las-2026-03-19",
-      "outcome": "Golden Knights",
-      "outcomeIndex": 1,
-      "name": "CemeterySun",
-      "pseudonym": "Pale-Bend",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xf5c43d67eb70a893de143e11a296c64bc9d40b250952e7e710dcaafb3c2d232d",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Utah vs. Golden Knights",
-    "market_slug": "nhl-utah-las-2026-03-19",
-    "amount": 8628.260400000001
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xd682d6c6324622040849474efc12d55f6def1e863e63c0436d712fb59c4dca96",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -30203,5 +30115,93 @@
     "market": "MicroStrategy sells any Bitcoin by May 31, 2026?",
     "market_slug": "microstrategy-sell-any-bitcoin-in-2025",
     "amount": 22807.3245
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xe755bc688d25415a99fc509fae9f8ef9fe427479e66d1b3523f52b8179092b6d",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xa5eb75a35f54385a6aca513b65cbf67e93b093bf",
+      "side": "BUY",
+      "asset": "88765155582155219738107238955846356999201214769765032541097977609154432826009",
+      "conditionId": "0xf24c89f6ef2a4605ef951a5e501c36a86567c1422abd3ca26f5b6774dc47f1bc",
+      "size": 6490.648084,
+      "price": 0.4622034595274477,
+      "timestamp": 1779019551,
+      "title": "Will RC Deportivo La Coru\u00f1a win on 2026-05-17?",
+      "slug": "es2-dep-and-2026-05-17-dep",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/laliga-2-031640e567.jpg",
+      "eventSlug": "es2-dep-and-2026-05-17",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "0xA5eB75A35f54385a6aCA513b65Cbf67E93B093bf-1771166205129",
+      "pseudonym": "Nutty-Account",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xe755bc688d25415a99fc509fae9f8ef9fe427479e66d1b3523f52b8179092b6d",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will RC Deportivo La Coru\u00f1a win on 2026-05-17?",
+    "market_slug": "es2-dep-and-2026-05-17",
+    "amount": 2999.999999
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x278d4a9fcbc7b8505f83e4e8ae843102ae3dde6ab91508aa0d1424987bb01693",
+    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+    "trader": {
+      "rank": 12,
+      "address": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+      "username": "BetTom42",
+      "profit": 5642135.735356,
+      "volume": 11212839.523403002,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x7b4a89077438c7c5b1afaa79ac753de7b3db3b84",
+      "side": "SELL",
+      "asset": "3638140492068581471587238629189295522595088285992594012574580427308283713980",
+      "conditionId": "0x12b64eefddb103db63d26858af4fb4f13b23b17764f6cd7bae1d15daf939f195",
+      "size": 1915.96,
+      "price": 0.9,
+      "timestamp": 1779020153,
+      "title": "LoL: Kiwoom DRX vs HANJIN BRION (BO3) - LCK Rounds 1-2",
+      "slug": "lol-drx-bro2-2026-05-17",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
+      "eventSlug": "lol-drx-bro2-2026-05-17",
+      "outcome": "HANJIN BRION",
+      "outcomeIndex": 1,
+      "name": "Duratio5",
+      "pseudonym": "Competent-Biosphere",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x278d4a9fcbc7b8505f83e4e8ae843102ae3dde6ab91508aa0d1424987bb01693",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "LoL: Kiwoom DRX vs HANJIN BRION (BO3) - LCK Rounds 1-2",
+    "market_slug": "lol-drx-bro2-2026-05-17",
+    "amount": 1724.364
   }
 ]
