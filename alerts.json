@@ -1,94 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x87e46cce594aa8588d9c74937c709d27077fbd812bf489a7551c323ca884e8ff",
-    "wallet": "0xdb27bf2ac5d428a9c63dbc914611036855a6c56e",
-    "trader": {
-      "rank": 18,
-      "address": "0xdb27bf2ac5d428a9c63dbc914611036855a6c56e",
-      "username": "DrPufferfish",
-      "profit": 4477916.082784015,
-      "volume": 217871175.342916,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x03381244cf3b8d277aff3cbb6f4fd21a631904b7",
-      "side": "SELL",
-      "asset": "77739027788999909521244198087653826925663878907920170534312635645253556364467",
-      "conditionId": "0x532cabed36cad1b584ff8c7a2d135c38429932498f3736c52c6b27eacfb81cb2",
-      "size": 2600,
-      "price": 0.93,
-      "timestamp": 1773965421,
-      "title": "Magic vs. Hornets",
-      "slug": "nba-orl-cha-2026-03-19",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-orl-cha-2026-03-19",
-      "outcome": "Hornets",
-      "outcomeIndex": 1,
-      "name": "LoserArcMaxing",
-      "pseudonym": "Agile-Ravioli",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-6284149-dd948d36-0b81-4dec-b86a-a6c645d4c98e.webp",
-      "profileImageOptimized": "",
-      "transactionHash": "0x87e46cce594aa8588d9c74937c709d27077fbd812bf489a7551c323ca884e8ff",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Magic vs. Hornets",
-    "market_slug": "nba-orl-cha-2026-03-19",
-    "amount": 2418.0
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x1d36b7770fa4395056f4a7b45289aef87ab1c91f47db0962e5bdd16a4f107301",
-    "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
-    "trader": {
-      "rank": 16,
-      "address": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
-      "username": "432614799197",
-      "profit": 4561353.0761925345,
-      "volume": 185485956.86208293,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x3c9f5530be21210e977efa87fa5d40ee6398069f",
-      "side": "BUY",
-      "asset": "86686170345714548640495264483273453073159430878877527531251808275070557306239",
-      "conditionId": "0x88c4aba5a59b33313d41e9fe4f06d0005199bcb12b421083a9806e16a3e30d49",
-      "size": 3229.87,
-      "price": 0.057,
-      "timestamp": 1773985227,
-      "title": "Will Israel take military action in Gaza on March 18, 2026?",
-      "slug": "will-israel-take-military-action-in-gaza-on-march-18-2026",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-israel-strike-gaza-on-224-RxneqY3N4kMa.jpg",
-      "eventSlug": "israel-military-action-in-gaza-on",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "DiamondHands11",
-      "pseudonym": "Tinted-Lycra",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-6127549-ccb96031-a528-4d6e-8f17-3c746304ab72.png",
-      "profileImageOptimized": "",
-      "transactionHash": "0x1d36b7770fa4395056f4a7b45289aef87ab1c91f47db0962e5bdd16a4f107301",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Israel take military action in Gaza on March 18, 2026?",
-    "market_slug": "israel-military-action-in-gaza-on",
-    "amount": 3045.76741
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x42c9399b4b3e4eafb6bd5740d947a378903c188f52912ac2bde19cfdefbdd2fe",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -30203,5 +30115,161 @@
     "market": "Boston Red Sox vs. Atlanta Braves",
     "market_slug": "mlb-bos-atl-2026-05-17",
     "amount": 2235.1299989999998
+  },
+  {
+    "market": "Iran closes its airspace by May 24?",
+    "market_slug": "iran-closes-its-airspace-by-may-24",
+    "event_slug": "iran-closes-its-airspace-by-may-24",
+    "wallet": "0x3915bd94e985d73d634c403ec55f7013ae79faff",
+    "analysis": {
+      "score": 100,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($5,000)",
+        "Pre-event latency: 9032m"
+      ],
+      "amount": 4999.999999000001,
+      "odds": 0.27043912708609624,
+      "raw_price": 0.27043912708609624,
+      "outcome": "Yes",
+      "potential_pnl": 13488.448965,
+      "pnl_multiplier": 2.6976897935395376,
+      "wallet_age_days": 0,
+      "total_activities": 6
+    },
+    "timestamp": "2026-05-17T17:30:49.912631",
+    "trade_hash": "0x3c7e689aa4a92c5bb8cb0f7c54f588c1a84e18af381d5d023a81177356a80a2b",
+    "trade_timestamp": 1779038869,
+    "latency": {
+      "latency_seconds": 541931.0,
+      "latency_minutes": 9032.183333333332,
+      "is_pre_event": true,
+      "severity": "CRITICAL",
+      "trade_time": "2026-05-17T17:27:49+00:00",
+      "event_time": "2026-05-24T00:00:00+00:00"
+    },
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.27043912708609624,
+      "effective_price": 0.27043912708609624,
+      "size": 18488.448964,
+      "amount": 4999.999999000001,
+      "potential_pnl": 13488.448965,
+      "pnl_multiplier": 2.6976897935395376,
+      "is_no": false,
+      "slug": "iran-closes-its-airspace-by-may-24",
+      "eventSlug": "iran-closes-its-airspace-by"
+    },
+    "irrationality": {
+      "irrationality_score": 40,
+      "flags": [
+        "Longshot (27%) in high bias category (geopolitics)",
+        "Category structurally prone to longshot bias"
+      ],
+      "category": "geopolitics",
+      "category_info": {
+        "strength": "high",
+        "typical_overpricing": 0.05,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.2971756508344385,
+      "market_price": 0.27043912708609624,
+      "edge": -0.026736523748342234,
+      "edge_percent": -2.6736523748342234,
+      "min_edge_required": 0.05,
+      "is_mispriced": false,
+      "edge_quality": "NONE",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "geopolitics",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_CONFIRMED",
+      "signal_emoji": "\ud83d\udea8",
+      "signal_strength": 120,
+      "interpretation": "Insider + underpricing aligned \u2014 likely real information",
+      "action_suggestion": "Follow the insider: market may be underpricing the event",
+      "insider_score": 100,
+      "insider_position": "YES",
+      "irrationality_score": 40,
+      "is_irrational": true,
+      "is_mispriced": false,
+      "edge": -0.026736523748342234,
+      "edge_percent": -2.6736523748342234
+    },
+    "financial_analyst": {
+      "signal_quality": 53.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": -2.67,
+      "signal_strength": 120.0,
+      "insider_score": 100.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x05c908b9cb6589931b53a85caf317f7378475f4d4d404c6013d1b656e8340cc9",
+    "wallet": "0x2a2c53bd278c04da9962fcf96490e17f3dfb9bc1",
+    "trader": {
+      "rank": 20,
+      "address": "0x2a2c53bd278c04da9962fcf96490e17f3dfb9bc1",
+      "username": "0x2a2C53bD278c04DA9962Fcf96490E17F3DfB9Bc1-1772479215461",
+      "profit": 4197789.469762984,
+      "volume": 476611840.5478329,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xea45124c26c5fe50ab6d7786776b47f42da7284c",
+      "side": "BUY",
+      "asset": "51164266914155164078894125458599944121164000045642724059217688177813405604759",
+      "conditionId": "0x1fb51c9398ae0f164de29cfe3d53f291d4b953145c73a524135b35fb03fa6534",
+      "size": 6759.53,
+      "price": 0.837544799712406,
+      "timestamp": 1779039506,
+      "title": "Russia x Ukraine Peace Parlay",
+      "slug": "russia-x-ukraine-peace-parlay",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/russia-x-ukraine-peace-parlay-mMBwZ2hA8ndT.jpg",
+      "eventSlug": "russia-x-ukraine-peace-parlay",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "33923189",
+      "pseudonym": "Quarrelsome-Origin",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x05c908b9cb6589931b53a85caf317f7378475f4d4d404c6013d1b656e8340cc9",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Russia x Ukraine Peace Parlay",
+    "market_slug": "russia-x-ukraine-peace-parlay",
+    "amount": 5661.4092
   }
 ]
