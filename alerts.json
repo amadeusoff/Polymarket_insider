@@ -3,111 +3,6 @@
     "market": "Spread: Pistons (-5.5)",
     "market_slug": "nba-gsw-det-2026-03-20-spread-home-5pt5",
     "event_slug": "nba-gsw-det-2026-03-20-spread-home-5pt5",
-    "wallet": "0xa1f6a9f132fb6a19b2e7db58b14493de113e2a73",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,098)",
-        "Low activity (2 txns)"
-      ],
-      "amount": 1098.09,
-      "odds": 0.49,
-      "raw_price": 0.49,
-      "outcome": "Pistons",
-      "potential_pnl": 1142.91,
-      "pnl_multiplier": 1.0408163265306123,
-      "wallet_age_days": 0,
-      "total_activities": 2
-    },
-    "timestamp": "2026-03-20T13:45:20.550626",
-    "trade_hash": "0x04eb6aa5bdd58b9e690fff8cfaec48522e6aedba31cc2ec27e3a68c8cd985554",
-    "trade_timestamp": 1774013797,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Pistons",
-      "side": "BUY",
-      "price": 0.49,
-      "effective_price": 0.49,
-      "size": 2241.0,
-      "amount": 1098.09,
-      "potential_pnl": 1142.91,
-      "pnl_multiplier": 1.0408163265306123,
-      "is_no": false,
-      "slug": "nba-gsw-det-2026-03-20-spread-home-5pt5",
-      "eventSlug": "nba-gsw-det-2026-03-20"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+25.2%)"
-      ],
-      "category": "other",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.238,
-      "market_price": 0.49,
-      "edge": 0.252,
-      "edge_percent": 25.2,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Pistons perform well offensively",
-          "Pistons maintain defensive consistency",
-          "Opponent's key players underperform"
-        ],
-        "weakest_link": "Opponent's key players underperform"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Pistons' recent performance trends",
-        "Injury reports affecting opponent's lineup"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "PISTONS",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.252,
-      "edge_percent": 25.2
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 25.2,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "Spread: Pistons (-5.5)",
-    "market_slug": "nba-gsw-det-2026-03-20-spread-home-5pt5",
-    "event_slug": "nba-gsw-det-2026-03-20-spread-home-5pt5",
     "wallet": "0x3c772d12305e02373a0468566e5fccb9c5f540ea",
     "analysis": {
       "score": 70,
@@ -30395,5 +30290,49 @@
       "insider_score": 75.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x7be203a97eb81212754743311569b19823aa802fe230d282f1da1d5ea87a9c82",
+    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
+    "trader": {
+      "rank": 7,
+      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
+      "username": "zxgngl",
+      "profit": 7807265.589240883,
+      "volume": 40551790.62184699,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+      "side": "BUY",
+      "asset": "3000643392582080703292390145030283338267445740487580990483407334211623961941",
+      "conditionId": "0x9018f5b573e14f25ae37efed1224e8b277ac770cda745a3a35677d80a05f872a",
+      "size": 32909.2,
+      "price": 0.78,
+      "timestamp": 1779051219,
+      "title": "Los Angeles Dodgers vs. Los Angeles Angels",
+      "slug": "mlb-lad-laa-2026-05-17",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
+      "eventSlug": "mlb-lad-laa-2026-05-17",
+      "outcome": "Los Angeles Dodgers",
+      "outcomeIndex": 0,
+      "name": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+      "pseudonym": "Substantial-Service",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x7be203a97eb81212754743311569b19823aa802fe230d282f1da1d5ea87a9c82",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Los Angeles Dodgers vs. Los Angeles Angels",
+    "market_slug": "mlb-lad-laa-2026-05-17",
+    "amount": 25669.176
   }
 ]
