@@ -1,365 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x42c9399b4b3e4eafb6bd5740d947a378903c188f52912ac2bde19cfdefbdd2fe",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.51568201,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-      "side": "BUY",
-      "asset": "54937002596171897254957087647496237075615729995891528694194723032167451405823",
-      "conditionId": "0x659bca08f21a30cc5bdb0f5278f73d6a9d9f5c94977c24e195e245e4407ea1ca",
-      "size": 3127,
-      "price": 0.51,
-      "timestamp": 1773987029,
-      "title": "Will Real Madrid CF win on 2026-03-22?",
-      "slug": "lal-rea-mad-2026-03-22-rea",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-lal.png",
-      "eventSlug": "lal-rea-mad-2026-03-22",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "swisstony",
-      "pseudonym": "Frail-Possible",
-      "bio": "loincloth chic",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x42c9399b4b3e4eafb6bd5740d947a378903c188f52912ac2bde19cfdefbdd2fe",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Real Madrid CF win on 2026-03-22?",
-    "market_slug": "lal-rea-mad-2026-03-22",
-    "amount": 1532.23
-  },
-  {
-    "market": "Celtics vs. Grizzlies: O/U 228.5",
-    "market_slug": "nba-bos-mem-2026-03-20-total-228pt5",
-    "event_slug": "nba-bos-mem-2026-03-20-total-228pt5",
-    "wallet": "0xf2a66dce0b8490e72bcaffe9563f7256bdc57072",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (1d old)",
-        "Large bet ($1,131)",
-        "Low activity (3 txns)"
-      ],
-      "amount": 1131.0,
-      "odds": 0.5,
-      "raw_price": 0.5,
-      "outcome": "Over",
-      "potential_pnl": 1131.0,
-      "pnl_multiplier": 1.0,
-      "wallet_age_days": 1,
-      "total_activities": 3
-    },
-    "timestamp": "2026-03-20T09:03:28.222060",
-    "trade_hash": "0xe4186ea25effb6dd14a408f1dbba80e1bfde887786ea6d23da64ab81f9af03b9",
-    "trade_timestamp": 1773997099,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Over",
-      "side": "BUY",
-      "price": 0.5,
-      "effective_price": 0.5,
-      "size": 2262.0,
-      "amount": 1131.0,
-      "potential_pnl": 1131.0,
-      "pnl_multiplier": 1.0,
-      "is_no": false,
-      "slug": "nba-bos-mem-2026-03-20-total-228pt5",
-      "eventSlug": "nba-bos-mem-2026-03-20"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+26.0%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.24,
-      "market_price": 0.5,
-      "edge": 0.26,
-      "edge_percent": 26.0,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Both teams have high-scoring offenses",
-          "Defensive weaknesses are exploited",
-          "Game pace is fast"
-        ],
-        "weakest_link": "Defensive weaknesses are exploited"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent performance trends of both teams",
-        "Injury status of key players"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "OVER",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.26,
-      "edge_percent": 26.0
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 26.0,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "Celtics vs. Grizzlies: O/U 228.5",
-    "market_slug": "nba-bos-mem-2026-03-20-total-228pt5",
-    "event_slug": "nba-bos-mem-2026-03-20-total-228pt5",
-    "wallet": "0x9a17921faeded8fa00556bd783f402b8cc000b81",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (1d old)",
-        "Large bet ($1,122)",
-        "Low activity (3 txns)"
-      ],
-      "amount": 1122.5,
-      "odds": 0.5,
-      "raw_price": 0.5,
-      "outcome": "Over",
-      "potential_pnl": 1122.5,
-      "pnl_multiplier": 1.0,
-      "wallet_age_days": 1,
-      "total_activities": 3
-    },
-    "timestamp": "2026-03-20T09:03:32.367984",
-    "trade_hash": "0x4a93558e70844cca474c7b5302d39b21b3fe8c215cea3db5dfdb62141257dba8",
-    "trade_timestamp": 1773997099,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Over",
-      "side": "BUY",
-      "price": 0.5,
-      "effective_price": 0.5,
-      "size": 2245.0,
-      "amount": 1122.5,
-      "potential_pnl": 1122.5,
-      "pnl_multiplier": 1.0,
-      "is_no": false,
-      "slug": "nba-bos-mem-2026-03-20-total-228pt5",
-      "eventSlug": "nba-bos-mem-2026-03-20"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+26.0%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.24,
-      "market_price": 0.5,
-      "edge": 0.26,
-      "edge_percent": 26.0,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "high-scoring performance from both teams",
-          "defensive lapses from both teams",
-          "favorable officiating leading to more free throws"
-        ],
-        "weakest_link": "favorable officiating leading to more free throws"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "team offensive efficiency",
-        "recent player performances"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "OVER",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.26,
-      "edge_percent": 26.0
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 26.0,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "Celtics vs. Grizzlies: O/U 228.5",
-    "market_slug": "nba-bos-mem-2026-03-20-total-228pt5",
-    "event_slug": "nba-bos-mem-2026-03-20-total-228pt5",
-    "wallet": "0x1fc2b672a515b21e833d0a4e8add47f834786175",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (1d old)",
-        "Large bet ($1,168)",
-        "Low activity (4 txns)"
-      ],
-      "amount": 1167.5,
-      "odds": 0.5,
-      "raw_price": 0.5,
-      "outcome": "Over",
-      "potential_pnl": 1167.5,
-      "pnl_multiplier": 1.0,
-      "wallet_age_days": 1,
-      "total_activities": 4
-    },
-    "timestamp": "2026-03-20T09:03:36.646408",
-    "trade_hash": "0x8fe432f7b4e66add67ec581b789a1f23754d376b9e131059c5e687d9411c6929",
-    "trade_timestamp": 1773997103,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Over",
-      "side": "BUY",
-      "price": 0.5,
-      "effective_price": 0.5,
-      "size": 2335.0,
-      "amount": 1167.5,
-      "potential_pnl": 1167.5,
-      "pnl_multiplier": 1.0,
-      "is_no": false,
-      "slug": "nba-bos-mem-2026-03-20-total-228pt5",
-      "eventSlug": "nba-bos-mem-2026-03-20"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+26.0%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.24,
-      "market_price": 0.5,
-      "edge": 0.26,
-      "edge_percent": 26.0,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "high scoring performance by both teams",
-          "defensive weaknesses exploited",
-          "favorable game pace"
-        ],
-        "weakest_link": "favorable game pace"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "team offensive efficiency",
-        "injury status of key players"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "OVER",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.26,
-      "edge_percent": 26.0
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 26.0,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x9030f47ea9f63ffdf25c4bc4cbeb7c51af7883763c697d21624664827ebbd438",
     "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
     "trader": {
@@ -30271,5 +29912,428 @@
     "market": "Russia x Ukraine Peace Parlay",
     "market_slug": "russia-x-ukraine-peace-parlay",
     "amount": 5661.4092
+  },
+  {
+    "market": "Will Reza Pahlavi lead Iran in 2026?",
+    "market_slug": "will-reza-pahlavi-lead-iran-in-2026",
+    "event_slug": "will-reza-pahlavi-lead-iran-in-2026",
+    "wallet": "0x5be0a25b7853565b27176cd041b091eadec64be6",
+    "analysis": {
+      "score": 75,
+      "flags": [
+        "New wallet (0d old)",
+        "Against trend (7.0% effective odds)",
+        "Low activity (4 txns)"
+      ],
+      "amount": 566.9992999999996,
+      "odds": 0.06999999999999995,
+      "raw_price": 0.93,
+      "outcome": "No",
+      "potential_pnl": 7532.9907,
+      "pnl_multiplier": 13.285714285714295,
+      "wallet_age_days": 0,
+      "total_activities": 4
+    },
+    "timestamp": "2026-05-17T18:39:35.245443",
+    "trade_hash": "0x6aab98f51b771de72515599d77b0ef41e4c0029235b568e3a04dd754c76fbc5b",
+    "trade_timestamp": 1779043054,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.93,
+      "effective_price": 0.93,
+      "size": 8099.99,
+      "amount": 7532.9907,
+      "potential_pnl": 566.9992999999995,
+      "pnl_multiplier": 0.07526881720430101,
+      "is_no": true,
+      "slug": "will-reza-pahlavi-lead-iran-in-2026",
+      "eventSlug": "will-reza-pahlavi-lead-iran-in-2026"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+43.0%)"
+      ],
+      "category": "politics_near",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.02,
+        "min_edge": 0.03
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.5,
+      "market_price": 0.93,
+      "edge": 0.43000000000000005,
+      "edge_percent": 43.00000000000001,
+      "min_edge_required": 0.03,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 110,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 75,
+      "insider_position": "NO",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.43000000000000005,
+      "edge_percent": 43.00000000000001
+    },
+    "financial_analyst": {
+      "signal_quality": 82.0,
+      "stance": "HIGH_CONVICTION",
+      "edge_percent": 43.0,
+      "signal_strength": 110.0,
+      "insider_score": 75.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Iran closes its airspace by May 24?",
+    "market_slug": "iran-closes-its-airspace-by-may-24",
+    "event_slug": "iran-closes-its-airspace-by-may-24",
+    "wallet": "0x3915bd94e985d73d634c403ec55f7013ae79faff",
+    "analysis": {
+      "score": 100,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($5,800)",
+        "Pre-event latency: 8969m"
+      ],
+      "amount": 5799.999999,
+      "odds": 0.31986957072282857,
+      "raw_price": 0.31986957072282857,
+      "outcome": "Yes",
+      "potential_pnl": 12332.390606,
+      "pnl_multiplier": 2.1262742427803922,
+      "wallet_age_days": 0,
+      "total_activities": 53
+    },
+    "timestamp": "2026-05-17T18:39:45.060104",
+    "trade_hash": "0xaff42e08f1100b4b461d3beb9a566dd0c0d10272cdc198ed2d17f2b2e29eb015",
+    "trade_timestamp": 1779042648,
+    "latency": {
+      "latency_seconds": 538152.0,
+      "latency_minutes": 8969.2,
+      "is_pre_event": true,
+      "severity": "CRITICAL",
+      "trade_time": "2026-05-17T18:30:48+00:00",
+      "event_time": "2026-05-24T00:00:00+00:00"
+    },
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.31986957072282857,
+      "effective_price": 0.31986957072282857,
+      "size": 18132.390605,
+      "amount": 5799.999999,
+      "potential_pnl": 12332.390606,
+      "pnl_multiplier": 2.1262742427803922,
+      "is_no": false,
+      "slug": "iran-closes-its-airspace-by-may-24",
+      "eventSlug": "iran-closes-its-airspace-by"
+    },
+    "irrationality": {
+      "irrationality_score": 15,
+      "flags": [
+        "Category structurally prone to longshot bias"
+      ],
+      "category": "geopolitics",
+      "category_info": {
+        "strength": "high",
+        "typical_overpricing": 0.05,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.3169478282891314,
+      "market_price": 0.31986957072282857,
+      "edge": 0.0029217424336971942,
+      "edge_percent": 0.2921742433697194,
+      "min_edge_required": 0.05,
+      "is_mispriced": false,
+      "edge_quality": "WEAK",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "geopolitics",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 100,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 100,
+      "insider_position": "YES",
+      "irrationality_score": 15,
+      "is_irrational": false,
+      "is_mispriced": false,
+      "edge": 0.0029217424336971942,
+      "edge_percent": 0.2921742433697194
+    },
+    "financial_analyst": {
+      "signal_quality": 28.4,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 0.29,
+      "signal_strength": 100.0,
+      "insider_score": 100.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Will Reza Pahlavi lead Iran in 2026?",
+    "market_slug": "will-reza-pahlavi-lead-iran-in-2026",
+    "event_slug": "will-reza-pahlavi-lead-iran-in-2026",
+    "wallet": "0x5be0a25b7853565b27176cd041b091eadec64be6",
+    "analysis": {
+      "score": 75,
+      "flags": [
+        "New wallet (0d old)",
+        "Against trend (7.0% effective odds)",
+        "Low activity (4 txns)"
+      ],
+      "amount": 566.9992999999996,
+      "odds": 0.06999999999999995,
+      "raw_price": 0.93,
+      "outcome": "No",
+      "potential_pnl": 7532.9907,
+      "pnl_multiplier": 13.285714285714295,
+      "wallet_age_days": 0,
+      "total_activities": 4
+    },
+    "timestamp": "2026-05-17T18:39:47.909760",
+    "trade_hash": "0x819a7820a755974fed61b3cc695c3b0479453e4abc9e27458ea59051053fe43e",
+    "trade_timestamp": 1779043038,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.93,
+      "effective_price": 0.93,
+      "size": 8099.99,
+      "amount": 7532.9907,
+      "potential_pnl": 566.9992999999995,
+      "pnl_multiplier": 0.07526881720430101,
+      "is_no": true,
+      "slug": "will-reza-pahlavi-lead-iran-in-2026",
+      "eventSlug": "will-reza-pahlavi-lead-iran-in-2026"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+43.0%)"
+      ],
+      "category": "politics_near",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.02,
+        "min_edge": 0.03
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.5,
+      "market_price": 0.93,
+      "edge": 0.43000000000000005,
+      "edge_percent": 43.00000000000001,
+      "min_edge_required": 0.03,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 110,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 75,
+      "insider_position": "NO",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.43000000000000005,
+      "edge_percent": 43.00000000000001
+    },
+    "financial_analyst": {
+      "signal_quality": 82.0,
+      "stance": "HIGH_CONVICTION",
+      "edge_percent": 43.0,
+      "signal_strength": 110.0,
+      "insider_score": 75.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Will Reza Pahlavi lead Iran in 2026?",
+    "market_slug": "will-reza-pahlavi-lead-iran-in-2026",
+    "event_slug": "will-reza-pahlavi-lead-iran-in-2026",
+    "wallet": "0xd8cc1bb6e6f8903597d0a6f5260f9bff3da4862e",
+    "analysis": {
+      "score": 75,
+      "flags": [
+        "New wallet (0d old)",
+        "Against trend (7.0% effective odds)",
+        "Low activity (4 txns)"
+      ],
+      "amount": 566.9992999999996,
+      "odds": 0.06999999999999995,
+      "raw_price": 0.93,
+      "outcome": "No",
+      "potential_pnl": 7532.9907,
+      "pnl_multiplier": 13.285714285714295,
+      "wallet_age_days": 0,
+      "total_activities": 4
+    },
+    "timestamp": "2026-05-17T18:39:59.129565",
+    "trade_hash": "0x235589799d0efb045f89e148d24c10ea75aefbecaf2791d8775b5864baf0b4c3",
+    "trade_timestamp": 1779042613,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.93,
+      "effective_price": 0.93,
+      "size": 8099.99,
+      "amount": 7532.9907,
+      "potential_pnl": 566.9992999999995,
+      "pnl_multiplier": 0.07526881720430101,
+      "is_no": true,
+      "slug": "will-reza-pahlavi-lead-iran-in-2026",
+      "eventSlug": "will-reza-pahlavi-lead-iran-in-2026"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+43.0%)"
+      ],
+      "category": "politics_near",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.02,
+        "min_edge": 0.03
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.5,
+      "market_price": 0.93,
+      "edge": 0.43000000000000005,
+      "edge_percent": 43.00000000000001,
+      "min_edge_required": 0.03,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 110,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 75,
+      "insider_position": "NO",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.43000000000000005,
+      "edge_percent": 43.00000000000001
+    },
+    "financial_analyst": {
+      "signal_quality": 82.0,
+      "stance": "HIGH_CONVICTION",
+      "edge_percent": 43.0,
+      "signal_strength": 110.0,
+      "insider_score": 75.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
