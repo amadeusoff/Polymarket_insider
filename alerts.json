@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xd682d6c6324622040849474efc12d55f6def1e863e63c0436d712fb59c4dca96",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xa5aa873702c0b28480246b6b474d48cb12869134",
-      "side": "SELL",
-      "asset": "2053750301724228157370324704408926248138691501785348834429298312230383532126",
-      "conditionId": "0xc0550c87bd3f69afb7ee355ad4bd0f28d249d5ec27d6d383253d5ba121a57ca9",
-      "size": 59960,
-      "price": 0.19,
-      "timestamp": 1773963919,
-      "title": "Cavaliers vs. Bulls",
-      "slug": "nba-cle-chi-2026-03-19",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-cle-chi-2026-03-19",
-      "outcome": "Bulls",
-      "outcomeIndex": 1,
-      "name": "Wal1",
-      "pseudonym": "Impish-Cottage",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xd682d6c6324622040849474efc12d55f6def1e863e63c0436d712fb59c4dca96",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Cavaliers vs. Bulls",
-    "market_slug": "nba-cle-chi-2026-03-19",
-    "amount": 11392.4
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x87e46cce594aa8588d9c74937c709d27077fbd812bf489a7551c323ca884e8ff",
     "wallet": "0xdb27bf2ac5d428a9c63dbc914611036855a6c56e",
     "trader": {
@@ -30203,5 +30159,49 @@
     "market": "LoL: Kiwoom DRX vs HANJIN BRION (BO3) - LCK Rounds 1-2",
     "market_slug": "lol-drx-bro2-2026-05-17",
     "amount": 1724.364
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x609822dc438238d6d18d11c0f35661c3f9f8fff7958eeb389a7cdd53e8e2065e",
+    "wallet": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
+    "trader": {
+      "rank": 5,
+      "address": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
+      "username": "Len9311238",
+      "profit": 8709972.988069998,
+      "volume": 16402744.764626998,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x09af203b5af180c61d54eea118a4548a1f209728",
+      "side": "BUY",
+      "asset": "78297267189010283892292832496342546299317687450478187744268076673272845392904",
+      "conditionId": "0x8993ff88369ee04dfe751d0aebca649e1704a0b7dd14b0a55be1d561ed57d040",
+      "size": 3725.216665,
+      "price": 0.6,
+      "timestamp": 1779026453,
+      "title": "Boston Red Sox vs. Atlanta Braves",
+      "slug": "mlb-bos-atl-2026-05-17",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
+      "eventSlug": "mlb-bos-atl-2026-05-17",
+      "outcome": "Atlanta Braves",
+      "outcomeIndex": 1,
+      "name": "mlbman",
+      "pseudonym": "Warped-Partner",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x609822dc438238d6d18d11c0f35661c3f9f8fff7958eeb389a7cdd53e8e2065e",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Boston Red Sox vs. Atlanta Braves",
+    "market_slug": "mlb-bos-atl-2026-05-17",
+    "amount": 2235.1299989999998
   }
 ]
