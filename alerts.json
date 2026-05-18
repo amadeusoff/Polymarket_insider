@@ -1,94 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x095351f9b57cd1146344db66553ebbb5aa78b824b5adc2849c68b62639bb5943",
-    "wallet": "0xd0c042c08f755ff940249f62745e82d356345565",
-    "trader": {
-      "rank": 15,
-      "address": "0xd0c042c08f755ff940249f62745e82d356345565",
-      "username": "alexmulti",
-      "profit": 4804855.613376001,
-      "volume": 9949068.653841998,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x3846ff5c2983dc3f1ffa8ce91667150bfaeb9742",
-      "side": "BUY",
-      "asset": "67772032722109122315648727478903491905373836998422740507453239306076690243521",
-      "conditionId": "0x84d3129f3a06cfafc6698c098b1414658bf2d66af9ff99717571fdea8963c77d",
-      "size": 9952.66,
-      "price": 0.54,
-      "timestamp": 1774037447,
-      "title": "Miami Open: Zizou Bergs vs Tomas Etcheverry",
-      "slug": "atp-bergs-etcheve-2026-03-20",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
-      "eventSlug": "atp-bergs-etcheve-2026-03-20",
-      "outcome": "Zizou Bergs",
-      "outcomeIndex": 0,
-      "name": "8348sctmde",
-      "pseudonym": "Intelligent-Chemistry",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x095351f9b57cd1146344db66553ebbb5aa78b824b5adc2849c68b62639bb5943",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Miami Open: Zizou Bergs vs Tomas Etcheverry",
-    "market_slug": "atp-bergs-etcheve-2026-03-20",
-    "amount": 5374.4364000000005
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x2d4b854534931a5063217b407bd3069bed41e6b235f080c83a8348988c1b0283",
-    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
-    "trader": {
-      "rank": 11,
-      "address": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
-      "username": "BetTom42",
-      "profit": 5642135.735356,
-      "volume": 11212839.523403,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xf9885da150836378ce5689395ff4d194683fd63b",
-      "side": "BUY",
-      "asset": "57057247364592185484876280792184585102019040185109901206192058656888529238840",
-      "conditionId": "0xfc84015b6d6bcc170bb5477d56c61280cd7ec01f80e883ce4cfdafd24b3e4fc8",
-      "size": 4968.35,
-      "price": 0.42,
-      "timestamp": 1774040751,
-      "title": "Counter-Strike: FURIA vs Aurora Gaming (BO3) - BLAST Open Rotterdam Group A",
-      "slug": "cs2-furia-aur1-2026-03-20",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/counter-strike-image-16c415c538.png",
-      "eventSlug": "cs2-furia-aur1-2026-03-20",
-      "outcome": "Aurora Gaming",
-      "outcomeIndex": 1,
-      "name": "0xF9885Da150836378ce5689395FF4d194683fd63B-1767719836281",
-      "pseudonym": "Harmful-Wood",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x2d4b854534931a5063217b407bd3069bed41e6b235f080c83a8348988c1b0283",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Counter-Strike: FURIA vs Aurora Gaming (BO3) - BLAST Open Rotterdam Group A",
-    "market_slug": "cs2-furia-aur1-2026-03-20",
-    "amount": 2086.707
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xe025f77c5bd95fe77f04fbe07c2264655885ae846fc0d98338ba0f41461f13dd",
     "wallet": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
     "trader": {
@@ -30347,5 +30259,93 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x7a4d98be1ff1be063c350df5b957e7fd2983762912466a11dbb9f3816bc1cd23",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xb184c7a0e5172b5bedbf4492d702220f5522b6c6",
+      "side": "BUY",
+      "asset": "72190249039660107789554803255517537704779074454183501902633495733727085881571",
+      "conditionId": "0x81dd110b1f647b5bc3969abcc0841f4cf17a490fb961e576440e579f60f1319c",
+      "size": 6382.978722,
+      "price": 0.46999999994673336,
+      "timestamp": 1779141108,
+      "title": "Spurs vs. Thunder: O/U 222.5",
+      "slug": "nba-sas-okc-2026-05-18-total-222pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-sas-okc-2026-05-18",
+      "outcome": "Over",
+      "outcomeIndex": 0,
+      "name": "0xB184c7a0e5172b5BEdbf4492d702220F5522b6C6-1775929411929",
+      "pseudonym": "Vacant-Landscape",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x7a4d98be1ff1be063c350df5b957e7fd2983762912466a11dbb9f3816bc1cd23",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spurs vs. Thunder: O/U 222.5",
+    "market_slug": "nba-sas-okc-2026-05-18",
+    "amount": 2999.999999
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xd2655d3973a3a4c5cf62cca86d4b8c0227070cbd1dd834fe967efd78a215987a",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x448861155279dbf833d041b963e3ac854599e319",
+      "side": "BUY",
+      "asset": "1910830010387565971650098373488592514702818137344973088263643820608151819241",
+      "conditionId": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "size": 10000,
+      "price": 0.71,
+      "timestamp": 1779141106,
+      "title": "Will the U.S. invade Iran before 2027?",
+      "slug": "will-the-us-invade-iran-before-2027",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-the-us-invade-iran-in-2025-0Eh3J0ku_Fbj.jpg",
+      "eventSlug": "will-the-us-invade-iran-before-2027",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "Flipadelphia",
+      "pseudonym": "",
+      "bio": "Kygo Jo",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-108046-a7cbec59-4bd4-4efc-8ade-4e81e102acb0.png",
+      "profileImageOptimized": "",
+      "transactionHash": "0xd2655d3973a3a4c5cf62cca86d4b8c0227070cbd1dd834fe967efd78a215987a",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will the U.S. invade Iran before 2027?",
+    "market_slug": "will-the-us-invade-iran-before-2027",
+    "amount": 7100.0
   }
 ]
