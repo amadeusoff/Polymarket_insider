@@ -1,154 +1,5 @@
 [
   {
-    "market": "Spread: Pistons (-5.5)",
-    "market_slug": "nba-gsw-det-2026-03-20-spread-home-5pt5",
-    "event_slug": "nba-gsw-det-2026-03-20-spread-home-5pt5",
-    "wallet": "0xd83e967c9116da6b8e937971fa92a4038c4fb871",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,187)",
-        "Low activity (4 txns)"
-      ],
-      "amount": 1187.27,
-      "odds": 0.49,
-      "raw_price": 0.49,
-      "outcome": "Pistons",
-      "potential_pnl": 1235.73,
-      "pnl_multiplier": 1.0408163265306123,
-      "wallet_age_days": 0,
-      "total_activities": 4
-    },
-    "timestamp": "2026-03-20T13:45:29.154850",
-    "trade_hash": "0xb2b582e69cf14eb37dc04d3f4b3869f74ec3c93751518193122cd5b7d1770f78",
-    "trade_timestamp": 1774013797,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Pistons",
-      "side": "BUY",
-      "price": 0.49,
-      "effective_price": 0.49,
-      "size": 2423.0,
-      "amount": 1187.27,
-      "potential_pnl": 1235.73,
-      "pnl_multiplier": 1.0408163265306123,
-      "is_no": false,
-      "slug": "nba-gsw-det-2026-03-20-spread-home-5pt5",
-      "eventSlug": "nba-gsw-det-2026-03-20"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+25.2%)"
-      ],
-      "category": "other",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.238,
-      "market_price": 0.49,
-      "edge": 0.252,
-      "edge_percent": 25.2,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Pistons maintain strong home court advantage",
-          "Key players remain healthy",
-          "Opposing team underperforms"
-        ],
-        "weakest_link": "Opposing team underperforms"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Pistons' recent performance trends",
-        "Injury reports affecting key players"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "PISTONS",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.252,
-      "edge_percent": 25.2
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 25.2,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x51d66a6e4a45f8c52936c2972505104c4d0bd0cbe560e4c5ab15a5d2fbdac295",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xcb437c1cae90151d00fb55c014a9d3616ffd3c74",
-      "side": "BUY",
-      "asset": "96201733608502458627905480167652884986457888149548653845440039271543270786117",
-      "conditionId": "0x1877d73f4f3cb7fc56ac69f4b83dbaebbecefd8390da3b47265ed4cc7df0f80c",
-      "size": 2000,
-      "price": 0.903735,
-      "timestamp": 1774031145,
-      "title": "Santa Clara Broncos vs. Kentucky Wildcats",
-      "slug": "cbb-sanclr-uk-2026-03-20",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ncaa-c14995df96.png",
-      "eventSlug": "cbb-sanclr-uk-2026-03-20",
-      "outcome": "Kentucky Wildcats",
-      "outcomeIndex": 1,
-      "name": "Stupidity",
-      "pseudonym": "Bossy-Window",
-      "bio": "9206",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3401687-c0659135-dfd5-496d-8b0e-85cfdaff117a.png",
-      "profileImageOptimized": "",
-      "transactionHash": "0x51d66a6e4a45f8c52936c2972505104c4d0bd0cbe560e4c5ab15a5d2fbdac295",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Santa Clara Broncos vs. Kentucky Wildcats",
-    "market_slug": "cbb-sanclr-uk-2026-03-20",
-    "amount": 1807.4699999999998
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0x5081c119ea99a4e94ff499452a12ac431b131d0ebfb0bb63043a1b3a9cc75266",
     "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
@@ -30280,5 +30131,160 @@
     "market": "Nashville SC vs. Los Angeles FC: O/U 2.5",
     "market_slug": "mls-nas-laf-2026-05-17-more-markets",
     "amount": 3029.9999990000006
+  },
+  {
+    "market": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 22, 2026?",
+    "market_slug": "will-donald-trump-announce-that-the-united-states-blockade-of-the-strait-of-hormuz-has-been-lifted-by-may-22-2026",
+    "event_slug": "will-donald-trump-announce-that-the-united-states-blockade-of-the-strait-of-hormuz-has-been-lifted-by-may-22-2026",
+    "wallet": "0x134a63b764ac7b008356e8db1857db94e6b09e42",
+    "analysis": {
+      "score": 85,
+      "flags": [
+        "Against trend (7.6% effective odds)",
+        "Large bet ($2,539)",
+        "Pre-event latency: 4616m"
+      ],
+      "amount": 2538.5363,
+      "odds": 0.07628975628198166,
+      "raw_price": 0.07628975628198166,
+      "outcome": "Yes",
+      "potential_pnl": 30736.3937,
+      "pnl_multiplier": 12.107919709479829,
+      "wallet_age_days": 560,
+      "total_activities": 100
+    },
+    "timestamp": "2026-05-18T19:09:29.162686",
+    "trade_hash": "0x6455756a8ba30c92420fdc73aeb8848bb6872d6df6f735607bc8ecc8b3277ffc",
+    "trade_timestamp": 1779131019,
+    "latency": {
+      "latency_seconds": 276981.0,
+      "latency_minutes": 4616.35,
+      "is_pre_event": true,
+      "severity": "CRITICAL",
+      "trade_time": "2026-05-18T19:03:39+00:00",
+      "event_time": "2026-05-22T00:00:00+00:00"
+    },
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.07628975628198166,
+      "effective_price": 0.07628975628198166,
+      "size": 33274.93,
+      "amount": 2538.5363,
+      "potential_pnl": 30736.3937,
+      "pnl_multiplier": 12.107919709479829,
+      "is_no": false,
+      "slug": "will-donald-trump-announce-that-the-united-states-blockade-of-the-strait-of-hormuz-has-been-lifted-by-may-22-2026",
+      "eventSlug": "trump-announces-us-blockade-of-hormuz-lifted-by"
+    },
+    "irrationality": {
+      "irrationality_score": 25,
+      "flags": [
+        "Longshot (8%) in medium bias category (politics_near)"
+      ],
+      "category": "politics_near",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.02,
+        "min_edge": 0.03
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.05301590251279267,
+      "market_price": 0.07628975628198166,
+      "edge": 0.023273853769188987,
+      "edge_percent": 2.327385376918899,
+      "min_edge_required": 0.03,
+      "is_mispriced": false,
+      "edge_quality": "WEAK",
+      "base_rate_class": "rare",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "rare",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 85,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 85,
+      "insider_position": "YES",
+      "irrationality_score": 25,
+      "is_irrational": false,
+      "is_mispriced": false,
+      "edge": 0.023273853769188987,
+      "edge_percent": 2.327385376918899
+    },
+    "financial_analyst": {
+      "signal_quality": 30.5,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 2.33,
+      "signal_strength": 85.0,
+      "insider_score": 85.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xb917b034b6ebbe1b367c79494bd8e134f7ad8ec117276f176f8c4589f7f5dad0",
+    "wallet": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
+    "trader": {
+      "rank": 2,
+      "address": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
+      "username": "Fredi9999",
+      "profit": 16619506.631730152,
+      "volume": 76611316.90515403,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x8e4e400b90aaac3e158abd5677fd296134be1dfc",
+      "side": "BUY",
+      "asset": "93198016825632831952581842196758821366114477543736642456695391153677988828775",
+      "conditionId": "0x573cced1308f76a3e472e980898db7449ab845d2f960a208a95005444ba21313",
+      "size": 3880,
+      "price": 0.5,
+      "timestamp": 1779131170,
+      "title": "Spread: Dallas Wings (-4.5)",
+      "slug": "wnba-wsh-dal-2026-05-18-spread-home-4pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wnba-logo-PAR4befDAubM.png",
+      "eventSlug": "wnba-wsh-dal-2026-05-18",
+      "outcome": "Dallas Wings",
+      "outcomeIndex": 0,
+      "name": "PM1688",
+      "pseudonym": "Grouchy-Press",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xb917b034b6ebbe1b367c79494bd8e134f7ad8ec117276f176f8c4589f7f5dad0",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spread: Dallas Wings (-4.5)",
+    "market_slug": "wnba-wsh-dal-2026-05-18",
+    "amount": 1940.0
   }
 ]
