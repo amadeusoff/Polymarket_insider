@@ -29613,7 +29613,8 @@
       "signal_strength": 120.0,
       "insider_score": 100.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
+    },
+    "resolution_last_check": "2026-05-18T10:07:03.432584+00:00"
   },
   {
     "type": "TOP_TRADER",
@@ -29657,7 +29658,8 @@
     },
     "market": "Russia x Ukraine Peace Parlay",
     "market_slug": "russia-x-ukraine-peace-parlay",
-    "amount": 5661.4092
+    "amount": 5661.4092,
+    "resolution_last_check": "2026-05-18T10:07:04.072611+00:00"
   },
   {
     "market": "Will Reza Pahlavi lead Iran in 2026?",
@@ -29761,7 +29763,8 @@
       "signal_strength": 110.0,
       "insider_score": 75.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
+    },
+    "resolution_last_check": "2026-05-18T10:07:04.727406+00:00"
   },
   {
     "market": "Iran closes its airspace by May 24?",
@@ -29872,7 +29875,8 @@
       "signal_strength": 100.0,
       "insider_score": 100.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
+    },
+    "resolution_last_check": "2026-05-18T10:07:04.727419+00:00"
   },
   {
     "market": "Will Reza Pahlavi lead Iran in 2026?",
@@ -29976,7 +29980,8 @@
       "signal_strength": 110.0,
       "insider_score": 75.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
+    },
+    "resolution_last_check": "2026-05-18T10:07:04.727423+00:00"
   },
   {
     "market": "Will Reza Pahlavi lead Iran in 2026?",
@@ -30080,7 +30085,8 @@
       "signal_strength": 110.0,
       "insider_score": 75.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
+    },
+    "resolution_last_check": "2026-05-18T10:07:04.727426+00:00"
   },
   {
     "market": "Will Reza Pahlavi lead Iran in 2026?",
@@ -30184,7 +30190,8 @@
       "signal_strength": 110.0,
       "insider_score": 75.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
+    },
+    "resolution_last_check": "2026-05-18T10:07:04.727428+00:00"
   },
   {
     "type": "TOP_TRADER",
