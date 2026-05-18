@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x5081c119ea99a4e94ff499452a12ac431b131d0ebfb0bb63043a1b3a9cc75266",
-    "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
-    "trader": {
-      "rank": 6,
-      "address": "0x863134d00841b2e200492805a01e1e2f5defaa53",
-      "username": "RepTrump",
-      "profit": 7532409.671579,
-      "volume": 13983231.103425,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-      "side": "BUY",
-      "asset": "79308286211285981481697518081271815960844799414039636458581868757032388361925",
-      "conditionId": "0x04c109837e9c83aa410e4a1bfa32d5574b05fafd0a432514965c03a20e2511a6",
-      "size": 2040,
-      "price": 0.92,
-      "timestamp": 1774031445,
-      "title": "Akron Zips vs. Texas Tech Red Raiders",
-      "slug": "cbb-akron-txtech-2026-03-20",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ncaa-c14995df96.png",
-      "eventSlug": "cbb-akron-txtech-2026-03-20",
-      "outcome": "Texas Tech Red Raiders",
-      "outcomeIndex": 1,
-      "name": "RN1",
-      "pseudonym": "Scary-Edible",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-1567750-84001aec-310a-470f-9584-67dfcaa61267.png",
-      "profileImageOptimized": "",
-      "transactionHash": "0x5081c119ea99a4e94ff499452a12ac431b131d0ebfb0bb63043a1b3a9cc75266",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Akron Zips vs. Texas Tech Red Raiders",
-    "market_slug": "cbb-akron-txtech-2026-03-20",
-    "amount": 1876.8000000000002
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x095351f9b57cd1146344db66553ebbb5aa78b824b5adc2849c68b62639bb5943",
     "wallet": "0xd0c042c08f755ff940249f62745e82d356345565",
     "trader": {
@@ -30286,5 +30242,110 @@
     "market": "Spread: Dallas Wings (-4.5)",
     "market_slug": "wnba-wsh-dal-2026-05-18",
     "amount": 1940.0
+  },
+  {
+    "market": "Will Neymar play in the 2026 FIFA World Cup?",
+    "market_slug": "will-neymar-play-in-the-2026-fifa-world-cup-for-brazil",
+    "event_slug": "will-neymar-play-in-the-2026-fifa-world-cup-for-brazil",
+    "wallet": "0xf73ae2e833d34b6eb4e9f881773ca02bcdeea5f5",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,093)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 1093.219997,
+      "odds": 0.908945984472525,
+      "raw_price": 0.908945984472525,
+      "outcome": "Yes",
+      "potential_pnl": 109.51373600000011,
+      "pnl_multiplier": 0.10017538674788815,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-05-18T20:46:26.380394",
+    "trade_hash": "0x65d3f85f3fc101f1b71ca008106f23c3ad13a7ebe0050445e6347d2d8a9d8afa",
+    "trade_timestamp": 1779136584,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.908945984472525,
+      "effective_price": 0.908945984472525,
+      "size": 1202.733733,
+      "amount": 1093.219997,
+      "potential_pnl": 109.51373600000011,
+      "pnl_multiplier": 0.10017538674788815,
+      "is_no": false,
+      "slug": "will-neymar-play-in-the-2026-fifa-world-cup-for-brazil",
+      "eventSlug": "will-neymar-play-in-the-2026-fifa-world-cup-for-brazil"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+40.9%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.5,
+      "market_price": 0.908945984472525,
+      "edge": 0.40894598447252495,
+      "edge_percent": 40.89459844725249,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.40894598447252495,
+      "edge_percent": 40.89459844725249
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 46.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 40.89,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
