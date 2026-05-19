@@ -1,50 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xe025f77c5bd95fe77f04fbe07c2264655885ae846fc0d98338ba0f41461f13dd",
-    "wallet": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
-    "trader": {
-      "rank": 20,
-      "address": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
-      "username": "Jenzigo",
-      "profit": 4049827.0941029997,
-      "volume": 9457725.03433801,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x2c4ca29d332c67d3ad7bf22b3cfe9486e3b1cb39",
-      "side": "SELL",
-      "asset": "87073899845581463485186346288398658568334162612963837182986759797304993556208",
-      "conditionId": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
-      "size": 22222,
-      "price": 0.87,
-      "timestamp": 1774041049,
-      "title": "Putin out as President of Russia by December 31, 2026?",
-      "slug": "putin-out-before-2027",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/putin-out-as-president-of-russia-in-2025-nWuurkC8qfbi.jpg",
-      "eventSlug": "putin-out-before-2027",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "ololololololololo",
-      "pseudonym": "Better-Mention",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xe025f77c5bd95fe77f04fbe07c2264655885ae846fc0d98338ba0f41461f13dd",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Putin out as President of Russia by December 31, 2026?",
-    "market_slug": "putin-out-before-2027",
-    "amount": 2888.86,
-    "resolution_last_check": "2026-03-29T06:57:18.292885+00:00"
-  },
-  {
     "market": "Will the Freedom Movement (GS) win the most seats in the 2026 Slovenian parliamentary election?",
     "market_slug": "will-the-freedom-movement-gs-win-the-most-seats-in-the-2026-slovenian-parliamentary-election-529",
     "event_slug": "will-the-freedom-movement-gs-win-the-most-seats-in-the-2026-slovenian-parliamentary-election-529",
@@ -30350,5 +30305,49 @@
     "market_slug": "will-the-us-invade-iran-before-2027",
     "amount": 7100.0,
     "resolution_last_check": "2026-05-19T09:46:59.411292+00:00"
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x1ddfaf5aed2b8ec851fc9b204ef9e586a79bfd39af45b3b835a718c2bdaf8336",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+      "side": "BUY",
+      "asset": "5640241546217558971060359007181274828103866064417126173260416974343889598478",
+      "conditionId": "0x8f3496cb31c3120d0bb13c166e753d9eb0bab1b7110c7fef830f03561eac294b",
+      "size": 1905.68,
+      "price": 0.88,
+      "timestamp": 1779212991,
+      "title": "Roland Garros, Qualification ATP: Emilio Nava vs Yunchaokete Bu",
+      "slug": "atp-nava-bu-2026-05-19",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+      "eventSlug": "atp-nava-bu-2026-05-19",
+      "outcome": "Emilio Nava",
+      "outcomeIndex": 0,
+      "name": "HomeRunHazard",
+      "pseudonym": "Powerless-Savannah",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x1ddfaf5aed2b8ec851fc9b204ef9e586a79bfd39af45b3b835a718c2bdaf8336",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Roland Garros, Qualification ATP: Emilio Nava vs Yunchaokete Bu",
+    "market_slug": "atp-nava-bu-2026-05-19",
+    "amount": 1676.9984000000002
   }
 ]
