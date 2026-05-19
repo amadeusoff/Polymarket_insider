@@ -30109,7 +30109,8 @@
       "signal_strength": 85.0,
       "insider_score": 85.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
+    },
+    "resolution_last_check": "2026-05-19T09:46:56.385236+00:00"
   },
   {
     "type": "TOP_TRADER",
@@ -30258,7 +30259,8 @@
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
+    },
+    "resolution_last_check": "2026-05-19T09:46:58.332992+00:00"
   },
   {
     "type": "TOP_TRADER",
@@ -30346,6 +30348,7 @@
     },
     "market": "Will the U.S. invade Iran before 2027?",
     "market_slug": "will-the-us-invade-iran-before-2027",
-    "amount": 7100.0
+    "amount": 7100.0,
+    "resolution_last_check": "2026-05-19T09:46:59.411292+00:00"
   }
 ]
