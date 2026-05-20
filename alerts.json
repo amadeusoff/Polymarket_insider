@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xa1e025e01857815e6ba81d05895b6e9365123f88fd30ab2889feeb545da1d740",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xf9885da150836378ce5689395ff4d194683fd63b",
-      "side": "BUY",
-      "asset": "56593789520654207167956730621662106936287736112111884038056973001692803773958",
-      "conditionId": "0x67e1d25da2884ece5c0a77df04b98891fff3e18dde152e7443f6278cc296fdc8",
-      "size": 4210,
-      "price": 0.52,
-      "timestamp": 1774050951,
-      "title": "Spread: Connecticut Huskies (-20.5)",
-      "slug": "cbb-furman-uconn-2026-03-20-spread-home-20pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ncaa-c14995df96.png",
-      "eventSlug": "cbb-furman-uconn-2026-03-20",
-      "outcome": "Connecticut Huskies",
-      "outcomeIndex": 0,
-      "name": "0xF9885Da150836378ce5689395FF4d194683fd63B-1767719836281",
-      "pseudonym": "Harmful-Wood",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xa1e025e01857815e6ba81d05895b6e9365123f88fd30ab2889feeb545da1d740",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Spread: Connecticut Huskies (-20.5)",
-    "market_slug": "cbb-furman-uconn-2026-03-20",
-    "amount": 2189.2000000000003
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x354a3cd9f5aa73868546a517b195699457a8a65d345513a092650821c6777530",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -30287,5 +30243,49 @@
     "market": "Spread: Knicks (-5.5)",
     "market_slug": "nba-cle-nyk-2026-05-19",
     "amount": 1982.0799989999998
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xb92fdf0fe387839e81f45a6de40c78d562d9d246ee1e1527c96a59768bb75925",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x6b97ebe911d7f2e5e3e8c4a0faad4a5c7c0b8d30",
+      "side": "BUY",
+      "asset": "79322971862202857172726948507279945688358701847893484742277295190340699698778",
+      "conditionId": "0x30c29fbd56ee8fc3ace288fccd67cec682faf48c136e01690216cc802ebe39d3",
+      "size": 8500,
+      "price": 0.39,
+      "timestamp": 1779271052,
+      "title": "LoL: Nongshim Red Force vs KT Rolster (BO3) - LCK Rounds 1-2",
+      "slug": "lol-ns-kt-2026-05-20",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
+      "eventSlug": "lol-ns-kt-2026-05-20",
+      "outcome": "Nongshim Red Force",
+      "outcomeIndex": 0,
+      "name": "vibing123",
+      "pseudonym": "Steel-Bull",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xb92fdf0fe387839e81f45a6de40c78d562d9d246ee1e1527c96a59768bb75925",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "LoL: Nongshim Red Force vs KT Rolster (BO3) - LCK Rounds 1-2",
+    "market_slug": "lol-ns-kt-2026-05-20",
+    "amount": 3315.0
   }
 ]
