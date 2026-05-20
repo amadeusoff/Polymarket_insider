@@ -1,111 +1,5 @@
 [
   {
-    "market": "Will the Freedom Movement (GS) win the most seats in the 2026 Slovenian parliamentary election?",
-    "market_slug": "will-the-freedom-movement-gs-win-the-most-seats-in-the-2026-slovenian-parliamentary-election-529",
-    "event_slug": "will-the-freedom-movement-gs-win-the-most-seats-in-the-2026-slovenian-parliamentary-election-529",
-    "wallet": "0xeaa39d0aad995af0cb20dab9ae1cc2fef725545f",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($2,823)",
-        "Low activity (2 txns)"
-      ],
-      "amount": 2823.1099970000005,
-      "odds": 0.6744846903130101,
-      "raw_price": 0.6744846903130101,
-      "outcome": "Yes",
-      "potential_pnl": 1362.470547,
-      "pnl_multiplier": 0.4826133407652694,
-      "wallet_age_days": 0,
-      "total_activities": 2
-    },
-    "timestamp": "2026-03-20T22:21:43.988779",
-    "trade_hash": "0x9caef66b7018460e8f5f8819368ca26d7a676f3dec8941e3a783c68e41b46711",
-    "trade_timestamp": 1774044943,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "side": "BUY",
-      "price": 0.6744846903130101,
-      "effective_price": 0.6744846903130101,
-      "size": 4185.580544,
-      "amount": 2823.1099970000005,
-      "potential_pnl": 1362.470547,
-      "pnl_multiplier": 0.4826133407652694,
-      "is_no": false,
-      "slug": "will-the-freedom-movement-gs-win-the-most-seats-in-the-2026-slovenian-parliamentary-election-529",
-      "eventSlug": "slovenian-parliamentary-election-winner-791"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+40.0%)"
-      ],
-      "category": "politics_near",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.02,
-        "min_edge": 0.03
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.274896938062602,
-      "market_price": 0.6744846903130101,
-      "edge": 0.39958775225040805,
-      "edge_percent": 39.9587752250408,
-      "min_edge_required": 0.03,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "The Freedom Movement (GS) maintains strong public support leading up to the election.",
-          "No significant political scandals or crises impact the party negatively.",
-          "Opposition parties fail to unify or present a compelling alternative."
-        ],
-        "weakest_link": "Opposition parties failing to unify or present a compelling alternative, as this is contingent on various political dynamics."
-      },
-      "category": "politics_near",
-      "narrative_drivers": [
-        "Public sentiment towards the Freedom Movement remains favorable.",
-        "Shifts in voter demographics or key issues influencing the electorate."
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "CONFLICT",
-      "signal_emoji": "\u26a0\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider buying YES despite statistical overpricing",
-      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
-      "insider_score": 70,
-      "insider_position": "YES",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.39958775225040805,
-      "edge_percent": 39.9587752250408
-    },
-    "financial_analyst": {
-      "signal_quality": 46.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 39.96,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-03-29T06:57:18.925099+00:00"
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0xa1e025e01857815e6ba81d05895b6e9365123f88fd30ab2889feeb545da1d740",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
@@ -30349,5 +30243,49 @@
     "market": "Roland Garros, Qualification ATP: Emilio Nava vs Yunchaokete Bu",
     "market_slug": "atp-nava-bu-2026-05-19",
     "amount": 1676.9984000000002
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x29c5352bf9c13497406ac4a41efc72a785c5b6653aafc6aebdc5ec8405eb4088",
+    "wallet": "0xd0c042c08f755ff940249f62745e82d356345565",
+    "trader": {
+      "rank": 17,
+      "address": "0xd0c042c08f755ff940249f62745e82d356345565",
+      "username": "alexmulti",
+      "profit": 4804855.613376001,
+      "volume": 9949068.653841998,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xe2160eb837cd17de5915d460b1d69b5ba2ac7448",
+      "side": "BUY",
+      "asset": "42170139202950227361342020340108504893717935266919137169537408817822585300791",
+      "conditionId": "0xe560e0292413502be6c4db45dc1fca43f04bb99a4f2ea275d7a14d2f8c585fd4",
+      "size": 3811.692306,
+      "price": 0.5199999999685179,
+      "timestamp": 1779234969,
+      "title": "Spread: Knicks (-5.5)",
+      "slug": "nba-cle-nyk-2026-05-19-spread-home-5pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-cle-nyk-2026-05-19",
+      "outcome": "Knicks",
+      "outcomeIndex": 0,
+      "name": "PCK",
+      "pseudonym": "Wilted-Lecture",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-2739577.jpg",
+      "profileImageOptimized": "",
+      "transactionHash": "0x29c5352bf9c13497406ac4a41efc72a785c5b6653aafc6aebdc5ec8405eb4088",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spread: Knicks (-5.5)",
+    "market_slug": "nba-cle-nyk-2026-05-19",
+    "amount": 1982.0799989999998
   }
 ]
