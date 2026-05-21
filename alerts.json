@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x354a3cd9f5aa73868546a517b195699457a8a65d345513a092650821c6777530",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xead02f1568144be782d762e2b6a719302830f3ba",
-      "side": "SELL",
-      "asset": "113585316433123442536791100600311303712932916773596400542759753818685391890060",
-      "conditionId": "0xe7b777864caee67c1a016ca4b6e2ba6c5defda54948c8a51c38c279ace34c519",
-      "size": 9999.98,
-      "price": 0.55,
-      "timestamp": 1774057557,
-      "title": "Ducks vs. Utah",
-      "slug": "nhl-ana-utah-2026-03-20",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nhl.png",
-      "eventSlug": "nhl-ana-utah-2026-03-20",
-      "outcome": "Utah",
-      "outcomeIndex": 1,
-      "name": "",
-      "pseudonym": "",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x354a3cd9f5aa73868546a517b195699457a8a65d345513a092650821c6777530",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Ducks vs. Utah",
-    "market_slug": "nhl-ana-utah-2026-03-20",
-    "amount": 5499.9890000000005
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x4e1042d526ccb0d64f4e145933c781f8f8ed95ecd9efb95133786509eb3322db",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -30287,5 +30243,49 @@
     "market": "LoL: Nongshim Red Force vs KT Rolster (BO3) - LCK Rounds 1-2",
     "market_slug": "lol-ns-kt-2026-05-20",
     "amount": 3315.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x78a167b8dbd2043b1db73b2799d17c07391cfa528303f9bb064279b6f0eda3c9",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xef2684030d14a67c2a30a3e4fc00eed7a99505ba",
+      "side": "BUY",
+      "asset": "22135027695053644116004652721221449984355847642214483669529511833237451368051",
+      "conditionId": "0x99e479c2f326de78fe1d6948e551db1614ead7d829f8d77f30b3cfc95b9e29f8",
+      "size": 3486.77,
+      "price": 0.5,
+      "timestamp": 1779358888,
+      "title": "Counter-Strike: TheMongolz vs Liquid (BO3) - CS Asia Championships Group B",
+      "slug": "cs2-mglz-tl1-2026-05-21",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/counter-strike-image-16c415c538.png",
+      "eventSlug": "cs2-mglz-tl1-2026-05-21",
+      "outcome": "Liquid",
+      "outcomeIndex": 1,
+      "name": "eyesneverlie",
+      "pseudonym": "Shy-Ephyra",
+      "bio": "Your prophet will profit",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-4220835-c6473901-b3a0-4936-9c77-9589cc8ffa42.PNG",
+      "profileImageOptimized": "",
+      "transactionHash": "0x78a167b8dbd2043b1db73b2799d17c07391cfa528303f9bb064279b6f0eda3c9",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Counter-Strike: TheMongolz vs Liquid (BO3) - CS Asia Championships Group B",
+    "market_slug": "cs2-mglz-tl1-2026-05-21",
+    "amount": 1743.385
   }
 ]
