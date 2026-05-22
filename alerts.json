@@ -1,155 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x4e1042d526ccb0d64f4e145933c781f8f8ed95ecd9efb95133786509eb3322db",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.51568201,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xcb437c1cae90151d00fb55c014a9d3616ffd3c74",
-      "side": "BUY",
-      "asset": "89108373864437510966053279018117953216832793306244932425971907442192231322683",
-      "conditionId": "0xa975ba5b4a113fd1dab41d787d37d714ba0c5a144dba4a4e06491110d665522d",
-      "size": 1777.9,
-      "price": 0.939579335170707,
-      "timestamp": 1774065055,
-      "title": "Furman Paladins vs. Connecticut Huskies",
-      "slug": "cbb-furman-uconn-2026-03-20",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ncaa-c14995df96.png",
-      "eventSlug": "cbb-furman-uconn-2026-03-20",
-      "outcome": "Connecticut Huskies",
-      "outcomeIndex": 1,
-      "name": "Stupidity",
-      "pseudonym": "Bossy-Window",
-      "bio": "9206",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3401687-c0659135-dfd5-496d-8b0e-85cfdaff117a.png",
-      "profileImageOptimized": "",
-      "transactionHash": "0x4e1042d526ccb0d64f4e145933c781f8f8ed95ecd9efb95133786509eb3322db",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Furman Paladins vs. Connecticut Huskies",
-    "market_slug": "cbb-furman-uconn-2026-03-20",
-    "amount": 1670.4781
-  },
-  {
-    "market": "LoL: Gen.G vs G2 Esports - Game 1 Winner",
-    "market_slug": "lol-gen-g2-2026-03-21-game1",
-    "event_slug": "lol-gen-g2-2026-03-21-game1",
-    "wallet": "0x644d634d2995d4903ba19d14c7f3acbc962b6cf8",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($101,527)",
-        "Low activity (2 txns)"
-      ],
-      "amount": 101526.7496,
-      "odds": 0.86,
-      "raw_price": 0.86,
-      "outcome": "Gen.G",
-      "potential_pnl": 16527.610400000005,
-      "pnl_multiplier": 0.16279069767441867,
-      "wallet_age_days": 0,
-      "total_activities": 2
-    },
-    "timestamp": "2026-03-21T08:51:12.157803",
-    "trade_hash": "0x03e62faa6bbb015ed5eb60ed61e7a87e3ce60d3747e831f69705796ed03ab996",
-    "trade_timestamp": 1774082879,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Gen.G",
-      "side": "BUY",
-      "price": 0.86,
-      "effective_price": 0.86,
-      "size": 118054.36,
-      "amount": 101526.7496,
-      "potential_pnl": 16527.610400000005,
-      "pnl_multiplier": 0.16279069767441867,
-      "is_no": false,
-      "slug": "lol-gen-g2-2026-03-21-game1",
-      "eventSlug": "lol-gen-g2-2026-03-21"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+54.8%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.312,
-      "market_price": 0.86,
-      "edge": 0.548,
-      "edge_percent": 54.800000000000004,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "team performance in recent matches",
-          "individual player skill levels",
-          "strategic matchups between teams"
-        ],
-        "weakest_link": "team performance in recent matches"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "team synergy and coordination",
-        "historical performance in tournaments"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "GEN.G",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.548,
-      "edge_percent": 54.800000000000004
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 54.8,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x61e06e5ca5d423f3906ac23bba3c39233697fc037092dc37072550a0bc33887c",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -30287,5 +30138,161 @@
     "market": "Counter-Strike: TheMongolz vs Liquid (BO3) - CS Asia Championships Group B",
     "market_slug": "cs2-mglz-tl1-2026-05-21",
     "amount": 1743.385
+  },
+  {
+    "market": "US x Iran permanent peace deal by May 26, 2026?",
+    "market_slug": "us-x-iran-permanent-peace-deal-by-may-26-2026",
+    "event_slug": "us-x-iran-permanent-peace-deal-by-may-26-2026",
+    "wallet": "0xc73ae816662a007c7ec3d8a9487c140fe312ec83",
+    "analysis": {
+      "score": 115,
+      "flags": [
+        "New wallet (0d old)",
+        "Against trend (10.0% effective odds)",
+        "Low activity (1 txns)",
+        "Pre-event latency: 5749m"
+      ],
+      "amount": 119.69299999999998,
+      "odds": 0.09999999999999998,
+      "raw_price": 0.9,
+      "outcome": "No",
+      "potential_pnl": 1077.237,
+      "pnl_multiplier": 9.000000000000002,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-05-22T00:18:13.773026",
+    "trade_hash": "0x65abaddd10b888a98e2587ea6902471d0bf37f361325e7b697977bf474a42a2e",
+    "trade_timestamp": 1779408655,
+    "latency": {
+      "latency_seconds": 344945.0,
+      "latency_minutes": 5749.083333333333,
+      "is_pre_event": true,
+      "severity": "CRITICAL",
+      "trade_time": "2026-05-22T00:10:55+00:00",
+      "event_time": "2026-05-26T00:00:00+00:00"
+    },
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.9,
+      "effective_price": 0.9,
+      "size": 1196.93,
+      "amount": 1077.237,
+      "potential_pnl": 119.69299999999998,
+      "pnl_multiplier": 0.11111111111111109,
+      "is_no": true,
+      "slug": "us-x-iran-permanent-peace-deal-by-may-26-2026",
+      "eventSlug": "us-x-iran-permanent-peace-deal-by"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+40.0%)"
+      ],
+      "category": "politics_near",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.02,
+        "min_edge": 0.03
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.5,
+      "market_price": 0.9,
+      "edge": 0.4,
+      "edge_percent": 40.0,
+      "min_edge_required": 0.03,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 150,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 115,
+      "insider_position": "NO",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.4,
+      "edge_percent": 40.0
+    },
+    "financial_analyst": {
+      "signal_quality": 87.0,
+      "stance": "HIGH_CONVICTION",
+      "edge_percent": 40.0,
+      "signal_strength": 150.0,
+      "insider_score": 115.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x5b8388285c823683ec2a249273100a636a68db464d28e82b8de8c80f385ae706",
+    "wallet": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+    "trader": {
+      "rank": 9,
+      "address": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+      "username": "PrincessCaro",
+      "profit": 6083643.099591745,
+      "volume": 23520809.952867,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x895de0a084eff2617c25241f941d1698df5011d5",
+      "side": "BUY",
+      "asset": "91642412125038849990060800585010952720079030592656478439947074071247062600646",
+      "conditionId": "0xdf714b44de860d823607d116d96ed7fdb1abc42b4b96819518b2556689966376",
+      "size": 5658.417909,
+      "price": 0.6503584673636025,
+      "timestamp": 1779409126,
+      "title": "Spread: Knicks (-5.5)",
+      "slug": "nba-cle-nyk-2026-05-21-spread-home-5pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-cle-nyk-2026-05-21",
+      "outcome": "Cavaliers",
+      "outcomeIndex": 1,
+      "name": "jiangfh",
+      "pseudonym": "Unconscious-Benefit",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x5b8388285c823683ec2a249273100a636a68db464d28e82b8de8c80f385ae706",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spread: Knicks (-5.5)",
+    "market_slug": "nba-cle-nyk-2026-05-21",
+    "amount": 3679.999999
   }
 ]
