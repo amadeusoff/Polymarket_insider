@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x61e06e5ca5d423f3906ac23bba3c39233697fc037092dc37072550a0bc33887c",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xf8dc391ef182ef95cdc73aa3bd61fd88807000af",
-      "side": "SELL",
-      "asset": "72346193983167052704532134887896387209217761135880519903413176791759418897353",
-      "conditionId": "0x34ae6edef62d01800a54869009ccd6b9a1e08260a276e2e2348b630eaec7079e",
-      "size": 2635,
-      "price": 0.035,
-      "timestamp": 1774088767,
-      "title": "Will annual inflation increase by \u22652.8% in March?",
-      "slug": "will-annual-inflation-increase-by-2pt8-in-march",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/january-inflation-annual-vp5qkgK2R7Et.jpg",
-      "eventSlug": "march-inflation-us-annual",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "finnian995carmela",
-      "pseudonym": "Fixed-Middle",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x61e06e5ca5d423f3906ac23bba3c39233697fc037092dc37072550a0bc33887c",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will annual inflation increase by \u22652.8% in March?",
-    "market_slug": "march-inflation-us-annual",
-    "amount": 2542.775
-  },
-  {
     "market": "Thunder vs. Wizards: O/U 228.5",
     "market_slug": "nba-okc-was-2026-03-21-total-228pt5",
     "event_slug": "nba-okc-was-2026-03-21-total-228pt5",
@@ -30295,5 +30251,49 @@
     "market": "Spread: Knicks (-5.5)",
     "market_slug": "nba-cle-nyk-2026-05-21",
     "amount": 3679.999999
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x42f281d70b80f8428d54e92cf4e952a4efbc237553659e3a6b318e1b7eb63a37",
+    "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
+    "trader": {
+      "rank": 19,
+      "address": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
+      "username": "432614799197",
+      "profit": 4526176.046413317,
+      "volume": 185485956.8620829,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xc8075693f48668a264b9fa313b47f52712fcc12b",
+      "side": "BUY",
+      "asset": "109296116000591997684258556601662664726138174008340113625425262738492035522172",
+      "conditionId": "0x4742af12625579a8b3177bc9b312be9c1d73bb33c04442cc62ee3be5ed4f9b55",
+      "size": 2860.67,
+      "price": 0.63,
+      "timestamp": 1779494585,
+      "title": "Golden Knights vs. Avalanche",
+      "slug": "nhl-las-col-2026-05-22",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nhl.png",
+      "eventSlug": "nhl-las-col-2026-05-22",
+      "outcome": "Avalanche",
+      "outcomeIndex": 1,
+      "name": "texaskid",
+      "pseudonym": "Dutiful-Fur",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x42f281d70b80f8428d54e92cf4e952a4efbc237553659e3a6b318e1b7eb63a37",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Golden Knights vs. Avalanche",
+    "market_slug": "nhl-las-col-2026-05-22",
+    "amount": 1802.2221
   }
 ]
