@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xe239f46f28b6b89510082c382106365c66b9d4dc8c8ac324a340ae1b738c1097",
-    "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
-    "trader": {
-      "rank": 10,
-      "address": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
-      "username": "KeyTransporter",
-      "profit": 5711459.802519929,
-      "volume": 20086062.154324993,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xbedbc3808d939f1f7c648e11680ac05e77ca3b26",
-      "side": "BUY",
-      "asset": "17324138403773264782065491072828397370852575564967787743903824537196778719667",
-      "conditionId": "0x970f01dded96d14d23e729c1c77d05efc2a32ee63a4b6a8523015e0fc6fc1e3a",
-      "size": 3016.86,
-      "price": 0.6391348620751377,
-      "timestamp": 1774107371,
-      "title": "Fulham FC vs. Burnley FC: O/U 1.5",
-      "slug": "epl-ful-bur-2026-03-21-total-1pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/premier+league.jpg",
-      "eventSlug": "epl-ful-bur-2026-03-21-more-markets",
-      "outcome": "Over",
-      "outcomeIndex": 0,
-      "name": "Random3366",
-      "pseudonym": "Punctual-Classic",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xe239f46f28b6b89510082c382106365c66b9d4dc8c8ac324a340ae1b738c1097",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Fulham FC vs. Burnley FC: O/U 1.5",
-    "market_slug": "epl-ful-bur-2026-03-21-more-markets",
-    "amount": 1928.1804
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x950959467a26e452e0b75aa2653e95d9d13be16b0c6ee7c2d28db9d42fe697e8",
     "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
     "trader": {
@@ -30172,5 +30128,49 @@
     "market": "Internationaux de Strasbourg: Victoria Mboko vs Emma Navarro",
     "market_slug": "wta-mboko-navarro-2026-05-23",
     "amount": 4943.95
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x16fcdb5f331b9abc0a9030a3e10219887055a0570f430d97987c44c328b65da0",
+    "wallet": "0xd0c042c08f755ff940249f62745e82d356345565",
+    "trader": {
+      "rank": 18,
+      "address": "0xd0c042c08f755ff940249f62745e82d356345565",
+      "username": "alexmulti",
+      "profit": 4804855.613376001,
+      "volume": 9949068.653841998,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xdd517b727b1445d9744d23bba5856dd06e5f1041",
+      "side": "BUY",
+      "asset": "56859711240620816306068544538170709736429202210556865344659441535599141934781",
+      "conditionId": "0x052d611ba12b9916a9d3110366110977bfc15d2df798a748bafefc8b281df6e1",
+      "size": 5506.382977,
+      "price": 0.4699999999654946,
+      "timestamp": 1779558826,
+      "title": "Will Girona FC win on 2026-05-23?",
+      "slug": "lal-gir-elc-2026-05-23-gir",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-lal.png",
+      "eventSlug": "lal-gir-elc-2026-05-23",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "0xdd517b727B1445d9744D23BBa5856dd06E5F1041-1776442164856",
+      "pseudonym": "Nippy-Connection",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x16fcdb5f331b9abc0a9030a3e10219887055a0570f430d97987c44c328b65da0",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Girona FC win on 2026-05-23?",
+    "market_slug": "lal-gir-elc-2026-05-23",
+    "amount": 2587.999999
   }
 ]
