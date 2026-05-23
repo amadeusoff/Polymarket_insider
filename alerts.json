@@ -3,111 +3,6 @@
     "market": "Thunder vs. Wizards: O/U 228.5",
     "market_slug": "nba-okc-was-2026-03-21-total-228pt5",
     "event_slug": "nba-okc-was-2026-03-21-total-228pt5",
-    "wallet": "0xfd79d8441675ab2d2eb98035bba6dc54551a0f28",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,262)",
-        "Low activity (3 txns)"
-      ],
-      "amount": 1261.7,
-      "odds": 0.55,
-      "raw_price": 0.55,
-      "outcome": "Over",
-      "potential_pnl": 1032.3,
-      "pnl_multiplier": 0.8181818181818181,
-      "wallet_age_days": 0,
-      "total_activities": 3
-    },
-    "timestamp": "2026-03-21T11:50:04.368371",
-    "trade_hash": "0x889e18795a1be79341fc50b26d786a936cb19bd3a79b60ac2a370872b588669f",
-    "trade_timestamp": 1774093553,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Over",
-      "side": "BUY",
-      "price": 0.55,
-      "effective_price": 0.55,
-      "size": 2294.0,
-      "amount": 1261.7,
-      "potential_pnl": 1032.3,
-      "pnl_multiplier": 0.8181818181818181,
-      "is_no": false,
-      "slug": "nba-okc-was-2026-03-21-total-228pt5",
-      "eventSlug": "nba-okc-was-2026-03-21"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+30.0%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.25,
-      "market_price": 0.55,
-      "edge": 0.30000000000000004,
-      "edge_percent": 30.000000000000004,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Both teams score efficiently",
-          "Defensive lapses from both sides",
-          "Favorable officiating leading to free throws"
-        ],
-        "weakest_link": "Defensive lapses from both sides"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent offensive performances of both teams",
-        "Injury status of key players affecting scoring"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "OVER",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.30000000000000004,
-      "edge_percent": 30.000000000000004
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 30.0,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "Thunder vs. Wizards: O/U 228.5",
-    "market_slug": "nba-okc-was-2026-03-21-total-228pt5",
-    "event_slug": "nba-okc-was-2026-03-21-total-228pt5",
     "wallet": "0xc08543fdee8bbf07cb54b519fcf1fbb8c1ba2dbc",
     "analysis": {
       "score": 70,
@@ -30295,5 +30190,49 @@
     "market": "Golden Knights vs. Avalanche",
     "market_slug": "nhl-las-col-2026-05-22",
     "amount": 1802.2221
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xab06807dbc4491dfac5b7398fc1490cffad714c9c0f15bbd8597a9afa424cc69",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "109515150530719747786374418065685704373014509424005004461250549968647314480252",
+      "conditionId": "0xdf2126cc7577d33f7413618d7c8f2699b3185a04097d220300d4f497188d5f4b",
+      "size": 1827,
+      "price": 0.9,
+      "timestamp": 1779540131,
+      "title": "Istanbul: Andrej Nedic vs David Jorda Sanchis",
+      "slug": "atp-nedic-sanchis-2026-05-23",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+      "eventSlug": "atp-nedic-sanchis-2026-05-23",
+      "outcome": "David Jorda Sanchis",
+      "outcomeIndex": 1,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "loincloth chic",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xab06807dbc4491dfac5b7398fc1490cffad714c9c0f15bbd8597a9afa424cc69",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Istanbul: Andrej Nedic vs David Jorda Sanchis",
+    "market_slug": "atp-nedic-sanchis-2026-05-23",
+    "amount": 1644.3
   }
 ]
