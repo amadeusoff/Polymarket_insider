@@ -1,215 +1,5 @@
 [
   {
-    "market": "Thunder vs. Wizards: O/U 228.5",
-    "market_slug": "nba-okc-was-2026-03-21-total-228pt5",
-    "event_slug": "nba-okc-was-2026-03-21-total-228pt5",
-    "wallet": "0xc08543fdee8bbf07cb54b519fcf1fbb8c1ba2dbc",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,124)",
-        "Low activity (2 txns)"
-      ],
-      "amount": 1124.2,
-      "odds": 0.55,
-      "raw_price": 0.55,
-      "outcome": "Over",
-      "potential_pnl": 919.8,
-      "pnl_multiplier": 0.8181818181818181,
-      "wallet_age_days": 0,
-      "total_activities": 2
-    },
-    "timestamp": "2026-03-21T11:50:20.366005",
-    "trade_hash": "0xa17d49c7085bb80e5998b9d70c8847d5a0370449a216e19355fc4294cff444c9",
-    "trade_timestamp": 1774093529,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Over",
-      "side": "BUY",
-      "price": 0.55,
-      "effective_price": 0.55,
-      "size": 2044.0,
-      "amount": 1124.2,
-      "potential_pnl": 919.8,
-      "pnl_multiplier": 0.8181818181818181,
-      "is_no": false,
-      "slug": "nba-okc-was-2026-03-21-total-228pt5",
-      "eventSlug": "nba-okc-was-2026-03-21"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+30.0%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.25,
-      "market_price": 0.55,
-      "edge": 0.30000000000000004,
-      "edge_percent": 30.000000000000004,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Both teams score efficiently",
-          "Game pace is high",
-          "Defensive performance is below average"
-        ],
-        "weakest_link": "Defensive performance is below average"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent offensive trends of both teams",
-        "Injury reports affecting key players"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "OVER",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.30000000000000004,
-      "edge_percent": 30.000000000000004
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 30.0,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "Thunder vs. Wizards: O/U 228.5",
-    "market_slug": "nba-okc-was-2026-03-21-total-228pt5",
-    "event_slug": "nba-okc-was-2026-03-21-total-228pt5",
-    "wallet": "0x8df6f5439cbbb1a658228c38c0758b5f28b31285",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,041)",
-        "Low activity (2 txns)"
-      ],
-      "amount": 1040.8500000000001,
-      "odds": 0.45,
-      "raw_price": 0.45,
-      "outcome": "Under",
-      "potential_pnl": 1272.1500000000003,
-      "pnl_multiplier": 1.2222222222222223,
-      "wallet_age_days": 0,
-      "total_activities": 2
-    },
-    "timestamp": "2026-03-21T11:50:23.483847",
-    "trade_hash": "0xb89f568f0f3d0e5fbcd4f2f653d11d35141f575c2e1bac3897601777798b4292",
-    "trade_timestamp": 1774093529,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Under",
-      "side": "BUY",
-      "price": 0.45,
-      "effective_price": 0.45,
-      "size": 2313.0,
-      "amount": 1040.8500000000001,
-      "potential_pnl": 1272.1500000000003,
-      "pnl_multiplier": 1.2222222222222223,
-      "is_no": false,
-      "slug": "nba-okc-was-2026-03-21-total-228pt5",
-      "eventSlug": "nba-okc-was-2026-03-21"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+22.0%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.22999999999999998,
-      "market_price": 0.45,
-      "edge": 0.22000000000000003,
-      "edge_percent": 22.000000000000004,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Both teams have high-scoring offenses",
-          "Defensive strategies are ineffective",
-          "Game pace is fast"
-        ],
-        "weakest_link": "Defensive strategies are ineffective"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent high-scoring games by both teams",
-        "Injury reports affecting key defensive players"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "UNDER",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.22000000000000003,
-      "edge_percent": 22.000000000000004
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 22.0,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0xe239f46f28b6b89510082c382106365c66b9d4dc8c8ac324a340ae1b738c1097",
     "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
@@ -30234,5 +30024,153 @@
     "market": "Istanbul: Andrej Nedic vs David Jorda Sanchis",
     "market_slug": "atp-nedic-sanchis-2026-05-23",
     "amount": 1644.3
+  },
+  {
+    "market": "FC Cincinnati vs. Orlando City SC: O/U 3.5",
+    "market_slug": "mls-fcc-orl-2026-05-23-total-3pt5",
+    "event_slug": "mls-fcc-orl-2026-05-23-total-3pt5",
+    "wallet": "0xe4d6b67b76916d069a0a25b63df71e835cf0308a",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($6,007)",
+        "Low activity (3 txns)"
+      ],
+      "amount": 6006.7361,
+      "odds": 0.43876847974322847,
+      "raw_price": 0.43876847974322847,
+      "outcome": "Under",
+      "potential_pnl": 7683.2539,
+      "pnl_multiplier": 1.2791062853585327,
+      "wallet_age_days": 0,
+      "total_activities": 3
+    },
+    "timestamp": "2026-05-23T14:20:11.523134",
+    "trade_hash": "0x42354faf03a9e305dee187c13624caf280ff227cfaa06540ef926b03949bde5e",
+    "trade_timestamp": 1779545624,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Under",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.43876847974322847,
+      "effective_price": 0.43876847974322847,
+      "size": 13689.99,
+      "amount": 6006.7361,
+      "potential_pnl": 7683.2539,
+      "pnl_multiplier": 1.2791062853585327,
+      "is_no": true,
+      "slug": "mls-fcc-orl-2026-05-23-total-3pt5",
+      "eventSlug": "mls-fcc-orl-2026-05-23-more-markets"
+    },
+    "irrationality": {
+      "irrationality_score": 25,
+      "flags": [
+        "Significant mispricing edge (+10.6%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.33300739189729134,
+      "market_price": 0.43876847974322847,
+      "edge": 0.10576108784593713,
+      "edge_percent": 10.576108784593712,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 95,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 70,
+      "insider_position": "NO",
+      "irrationality_score": 25,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.10576108784593713,
+      "edge_percent": 10.576108784593712
+    },
+    "financial_analyst": {
+      "signal_quality": 69.9,
+      "stance": "SELECTIVE",
+      "edge_percent": 10.58,
+      "signal_strength": 95.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x41cf7743a7ef86c0b404e9f7001fd44a0d262ab01c5c580f5b633528e7607b55",
+    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
+    "trader": {
+      "rank": 19,
+      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
+      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
+      "profit": 4634172.468556148,
+      "volume": 60803769.26565602,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x56c9fbdeccf198f1f5ad95ace39b24f5f7fb0d9e",
+      "side": "BUY",
+      "asset": "29305251286127380219037449740238160825470566319549012920158109840256270908377",
+      "conditionId": "0xf54fd6723a8521e4af9b0c8b04bcbb1c74edea63b24f9168778ddcbee0c2e0fc",
+      "size": 5555,
+      "price": 0.89,
+      "timestamp": 1779546455,
+      "title": "Internationaux de Strasbourg: Victoria Mboko vs Emma Navarro",
+      "slug": "wta-mboko-navarro-2026-05-23",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wta-logo-41f331bdf1.png",
+      "eventSlug": "wta-mboko-navarro-2026-05-23",
+      "outcome": "Emma Navarro",
+      "outcomeIndex": 1,
+      "name": "redvinny",
+      "pseudonym": "Wrathful-Row",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x41cf7743a7ef86c0b404e9f7001fd44a0d262ab01c5c580f5b633528e7607b55",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Internationaux de Strasbourg: Victoria Mboko vs Emma Navarro",
+    "market_slug": "wta-mboko-navarro-2026-05-23",
+    "amount": 4943.95
   }
 ]
