@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x950959467a26e452e0b75aa2653e95d9d13be16b0c6ee7c2d28db9d42fe697e8",
-    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-    "trader": {
-      "rank": 19,
-      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
-      "profit": 4546432.1815561345,
-      "volume": 59957536.283648,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xc8075693f48668a264b9fa313b47f52712fcc12b",
-      "side": "BUY",
-      "asset": "34360627649972710482168483070145840887617437960922758761934471701797333950287",
-      "conditionId": "0x3d06aad3e67af81e9f28e13e059d97d1a844fc3788e5dc9973d3aab7a032880b",
-      "size": 6485.79,
-      "price": 0.51,
-      "timestamp": 1774107671,
-      "title": "Spread: Houston Cougars (-10.5)",
-      "slug": "cbb-txam-hou-2026-03-21-spread-home-10pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ncaa-c14995df96.png",
-      "eventSlug": "cbb-txam-hou-2026-03-21",
-      "outcome": "Texas A&M Aggies",
-      "outcomeIndex": 1,
-      "name": "texaskid",
-      "pseudonym": "Dutiful-Fur",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x950959467a26e452e0b75aa2653e95d9d13be16b0c6ee7c2d28db9d42fe697e8",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Spread: Houston Cougars (-10.5)",
-    "market_slug": "cbb-txam-hou-2026-03-21",
-    "amount": 3307.7529
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xfa261a471fd1191758ac2ec6e8b3f5c857202d257cbb55d894e0c0603a5c0845",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -30172,5 +30128,49 @@
     "market": "Will Girona FC win on 2026-05-23?",
     "market_slug": "lal-gir-elc-2026-05-23",
     "amount": 2587.999999
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xff81ea44a904fee154c4bed6db5628018f5d1c7f99cde492b409f9fde9007ffa",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xd576b9ee74c58fcb913675fd9c1d14c85312d5e3",
+      "side": "BUY",
+      "asset": "42918220085288219341491829385501246298233444593663440094436147850542032590016",
+      "conditionId": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
+      "size": 3798.03,
+      "price": 0.5499473411215815,
+      "timestamp": 1779561535,
+      "title": "US x Iran permanent peace deal by May 31, 2026?",
+      "slug": "us-x-iran-permanent-peace-deal-by-may-31-2026-333-871-241-192-799-449-125",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-permanent-peace-deal-by-yYlzv70Hi7j9.jpg",
+      "eventSlug": "us-x-iran-permanent-peace-deal-by",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "inrock30",
+      "pseudonym": "Hidden-Roadway",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xff81ea44a904fee154c4bed6db5628018f5d1c7f99cde492b409f9fde9007ffa",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "US x Iran permanent peace deal by May 31, 2026?",
+    "market_slug": "us-x-iran-permanent-peace-deal-by",
+    "amount": 2088.7165000000005
   }
 ]
