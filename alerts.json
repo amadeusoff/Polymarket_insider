@@ -1,94 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x955f8b0b9737f3f10dfd577a2068d5260917f1c71c44ff6212ccb2d46d95a070",
-    "wallet": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
-    "trader": {
-      "rank": 17,
-      "address": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
-      "username": "GamblingIsAllYouNeed",
-      "profit": 4583346.255325291,
-      "volume": 273255557.3555661,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xd0e77a638c0b0ddeef9a59db053d596d63fab14f",
-      "side": "BUY",
-      "asset": "50289193185074818749994898826577626996310933167349146380182091626366330502423",
-      "conditionId": "0xc495e735642f2f1381c60ac15d9146d75835a8e99edac82eaf7f34324a4fbafd",
-      "size": 15088,
-      "price": 0.45,
-      "timestamp": 1774122679,
-      "title": "Stars vs. Wild",
-      "slug": "nhl-dal-min-2026-03-21",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nhl.png",
-      "eventSlug": "nhl-dal-min-2026-03-21",
-      "outcome": "Wild",
-      "outcomeIndex": 1,
-      "name": "PleaseBro",
-      "pseudonym": "Determined-Play",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x955f8b0b9737f3f10dfd577a2068d5260917f1c71c44ff6212ccb2d46d95a070",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Stars vs. Wild",
-    "market_slug": "nhl-dal-min-2026-03-21",
-    "amount": 6789.6
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xd10c15f33d6330acf42c96b2cd32e4480a61a1dca6ad89ef24d2a25a4b302704",
-    "wallet": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
-    "trader": {
-      "rank": 9,
-      "address": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
-      "username": "walletmobile",
-      "profit": 5942685.45339684,
-      "volume": 32196692.075936034,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x53515c8447275edfac486e6d70a6e3bf49c19b3c",
-      "side": "BUY",
-      "asset": "90576790101411314186358099588684245267465903531290573999378152746429050365668",
-      "conditionId": "0x65933c93527508665229e5d49cd68907731f92e46f02672b02160504f4d111f4",
-      "size": 6610,
-      "price": 0.88,
-      "timestamp": 1774123879,
-      "title": "TCU Horned Frogs vs. Duke Blue Devils",
-      "slug": "cbb-tcu-duke-2026-03-21",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ncaa-c14995df96.png",
-      "eventSlug": "cbb-tcu-duke-2026-03-21",
-      "outcome": "Duke Blue Devils",
-      "outcomeIndex": 1,
-      "name": "Gambleguy123",
-      "pseudonym": "Querulous-Patrimony",
-      "bio": "Go gamba",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xd10c15f33d6330acf42c96b2cd32e4480a61a1dca6ad89ef24d2a25a4b302704",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "TCU Horned Frogs vs. Duke Blue Devils",
-    "market_slug": "cbb-tcu-duke-2026-03-21",
-    "amount": 5816.8
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x01b57bd4cee567f9b7b4ee10e5406ae5ecdf2d74e2f1730541e73fcdf2a9d419",
     "wallet": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
     "trader": {
@@ -30172,5 +30084,93 @@
     "market": "Counter-Strike: Team Falcons vs Legacy (BO5) - CS Asia Championships Playoffs",
     "market_slug": "cs2-fal2-lgc-2026-05-24",
     "amount": 1680.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xd0919a0e799161b6847d6e6c1c1d1b2c98730cd9e486323e718b6235d2279b4c",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x1eaf5d5f822dc5211c25b5839e5b7aa70f319bf0",
+      "side": "BUY",
+      "asset": "99275187541062011006807789863743159473501826021191837627956462037611652608627",
+      "conditionId": "0x8cd072c22615f0afcb9aeccf494bff56506444990d85f1ae5008808d12d07496",
+      "size": 19938,
+      "price": 0.3,
+      "timestamp": 1779624591,
+      "title": "Will C\u00e1diz CF vs. CD Legan\u00e9s end in a draw?",
+      "slug": "es2-cad-leg-2026-05-24-draw",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/laliga-2-031640e567.jpg",
+      "eventSlug": "es2-cad-leg-2026-05-24",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "LYnetLY",
+      "pseudonym": "Reckless-Silence",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xd0919a0e799161b6847d6e6c1c1d1b2c98730cd9e486323e718b6235d2279b4c",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will C\u00e1diz CF vs. CD Legan\u00e9s end in a draw?",
+    "market_slug": "es2-cad-leg-2026-05-24",
+    "amount": 5981.4
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xc49b02398bf8ba6c477b53b60e2c0f6c81b0fd99ad14b8ded3b865d31c79350f",
+    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
+    "trader": {
+      "rank": 19,
+      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
+      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
+      "profit": 4559405.134094985,
+      "volume": 60885325.785656005,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xae5123e8a2f7125e9479d5916b37b7274ab61d03",
+      "side": "BUY",
+      "asset": "47867773985840009536154438797531138745207475715068405225786084090456963764336",
+      "conditionId": "0xf1393f9076b29364f7db272a17882cc9a00792d440ecf1ea3a4ff9e795726f3b",
+      "size": 7159.02,
+      "price": 0.2992587812298331,
+      "timestamp": 1779625193,
+      "title": "Roland Garros ATP: Alejandro Davidovich Fokina vs Damir Dzumhur",
+      "slug": "atp-fokina-dzumhur-2026-05-24",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+      "eventSlug": "atp-fokina-dzumhur-2026-05-24",
+      "outcome": "Alejandro Davidovich Fokina",
+      "outcomeIndex": 0,
+      "name": "",
+      "pseudonym": "",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xc49b02398bf8ba6c477b53b60e2c0f6c81b0fd99ad14b8ded3b865d31c79350f",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Roland Garros ATP: Alejandro Davidovich Fokina vs Damir Dzumhur",
+    "market_slug": "atp-fokina-dzumhur-2026-05-24",
+    "amount": 2142.3996
   }
 ]
