@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xfa03d9a15f645beb58b91175c0ef7fe841a16e1088340544774a0cb2a3435cb6",
-    "wallet": "0xd0c042c08f755ff940249f62745e82d356345565",
-    "trader": {
-      "rank": 15,
-      "address": "0xd0c042c08f755ff940249f62745e82d356345565",
-      "username": "alexmulti",
-      "profit": 4804855.613376001,
-      "volume": 9949068.653841998,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xd6a3f0ec6c4a8ad680d580610c82ca57ff139489",
-      "side": "BUY",
-      "asset": "94844051458161093758408644748213964911062272689244334591279755394311450989118",
-      "conditionId": "0x05d8ff62e7335e4d5eb06cab8ee02726b1f38e677c2861e5e1119967fd6d1851",
-      "size": 2510.28,
-      "price": 0.8987660858549644,
-      "timestamp": 1774130181,
-      "title": "Thunder vs. Wizards",
-      "slug": "nba-okc-was-2026-03-21",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-okc-was-2026-03-21",
-      "outcome": "Thunder",
-      "outcomeIndex": 0,
-      "name": "knedloveprovelo",
-      "pseudonym": "Weighty-Rifle",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xfa03d9a15f645beb58b91175c0ef7fe841a16e1088340544774a0cb2a3435cb6",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Thunder vs. Wizards",
-    "market_slug": "nba-okc-was-2026-03-21",
-    "amount": 2256.1545300000002
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x8558b62eb731544d36d0571dbee584faf1fd8fe665d988c9ef8b064c3fa4ce88",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -30237,6 +30193,111 @@
       "signal_quality": 26.9,
       "stance": "WATCH_ONLY",
       "edge_percent": 3.93,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Thunder vs. Spurs",
+    "market_slug": "nba-okc-sas-2026",
+    "event_slug": "nba-okc-sas-2026",
+    "wallet": "0x9f14ef79628c107428d1082321995a7c1243a4eb",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (1d old)",
+        "Large bet ($1,500)",
+        "Low activity (4 txns)"
+      ],
+      "amount": 1499.9999990000001,
+      "odds": 0.4299999998394667,
+      "raw_price": 0.4299999998394667,
+      "outcome": "Thunder",
+      "potential_pnl": 1988.372093,
+      "pnl_multiplier": 1.3255813962170542,
+      "wallet_age_days": 1,
+      "total_activities": 4
+    },
+    "timestamp": "2026-05-24T19:59:25.243051",
+    "trade_hash": "0x80a0b293a455a82407a17cda0e170bc6b06572152607a0c55cc4f625fce8fa47",
+    "trade_timestamp": 1779652386,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Thunder",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.4299999998394667,
+      "effective_price": 0.4299999998394667,
+      "size": 3488.372092,
+      "amount": 1499.9999990000001,
+      "potential_pnl": 1988.372093,
+      "pnl_multiplier": 1.3255813962170542,
+      "is_no": false,
+      "slug": "nba-okc-sas-2026",
+      "eventSlug": "nba-okc-sas-2026-05-24"
+    },
+    "irrationality": {
+      "irrationality_score": 25,
+      "flags": [
+        "Significant mispricing edge (+10.0%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.32949999993578666,
+      "market_price": 0.4299999998394667,
+      "edge": 0.10049999990368003,
+      "edge_percent": 10.049999990368002,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 25,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.10049999990368003,
+      "edge_percent": 10.049999990368002
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 34.1,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 10.05,
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
