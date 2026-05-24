@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x2b5175760d1cfee74b21ee23048742bfc6255b345010fdd1a0775d6b1595f8ad",
-    "wallet": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
-    "trader": {
-      "rank": 17,
-      "address": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
-      "username": "GamblingIsAllYouNeed",
-      "profit": 4583346.255325291,
-      "volume": 273255557.3555661,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x3f5ea0a8053e81ce2f59814118869322c35fe7db",
-      "side": "BUY",
-      "asset": "59710325672987047484152804198498095977107600959651145229891529355298398088578",
-      "conditionId": "0x0954cc08de0ab8345bcf24f314d571e6a77d913ea9977ce2b4187983a70b450d",
-      "size": 8578.79,
-      "price": 0.4,
-      "timestamp": 1774122679,
-      "title": "Lakers vs. Magic",
-      "slug": "nba-lal-orl-2026-03-21",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-lal-orl-2026-03-21",
-      "outcome": "Magic",
-      "outcomeIndex": 1,
-      "name": "piggyery",
-      "pseudonym": "Pleasing-Biology",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x2b5175760d1cfee74b21ee23048742bfc6255b345010fdd1a0775d6b1595f8ad",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Lakers vs. Magic",
-    "market_slug": "nba-lal-orl-2026-03-21",
-    "amount": 3431.5160000000005
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x955f8b0b9737f3f10dfd577a2068d5260917f1c71c44ff6212ccb2d46d95a070",
     "wallet": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
     "trader": {
@@ -30172,5 +30128,49 @@
     "market": "US x Iran permanent peace deal by May 26, 2026?",
     "market_slug": "us-x-iran-permanent-peace-deal-by",
     "amount": 2880.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xa3bd38a53f6abe68b231a4583860291d12fcb5328d2f1cf9198ed6da3e91f946",
+    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
+    "trader": {
+      "rank": 19,
+      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
+      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
+      "profit": 4559437.168827762,
+      "volume": 60885325.785656,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x6832c74809f5b0ace45acacfed7ffa9195b0831f",
+      "side": "BUY",
+      "asset": "90125261950635082369999394077405627872400050152506106415139469381304502433896",
+      "conditionId": "0x0a6ba6cabc07c3022f7134d5bbaba7c04e1bd530b0812cd34da37089ed4ed22b",
+      "size": 2000,
+      "price": 0.84,
+      "timestamp": 1779616476,
+      "title": "Counter-Strike: Team Falcons vs Legacy (BO5) - CS Asia Championships Playoffs",
+      "slug": "cs2-fal2-lgc-2026-05-24",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/counter-strike-image-16c415c538.png",
+      "eventSlug": "cs2-fal2-lgc-2026-05-24",
+      "outcome": "Legacy",
+      "outcomeIndex": 1,
+      "name": "0x6832c74809F5b0aCe45acAcFeD7Ffa9195b0831F-1773664958328",
+      "pseudonym": "Forceful-Guilder",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xa3bd38a53f6abe68b231a4583860291d12fcb5328d2f1cf9198ed6da3e91f946",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Counter-Strike: Team Falcons vs Legacy (BO5) - CS Asia Championships Playoffs",
+    "market_slug": "cs2-fal2-lgc-2026-05-24",
+    "amount": 1680.0
   }
 ]
