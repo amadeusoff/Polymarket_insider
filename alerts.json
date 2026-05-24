@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x8558b62eb731544d36d0571dbee584faf1fd8fe665d988c9ef8b064c3fa4ce88",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x6ee4cc481bb553f9411cf2e0b1f165f67a1980f2",
-      "side": "BUY",
-      "asset": "42122201333723033774086282932652417053756259550890512898203118588772016262517",
-      "conditionId": "0x7e5f13f6e304e27a37567e21328de14cb711d2d02364552a80ecf73f08a8e9f5",
-      "size": 2165.449776,
-      "price": 0.8892702196756005,
-      "timestamp": 1774131681,
-      "title": "UFC Fight Night: Luke Riley vs. Michael Aswell (Featherweight, Main Card)",
-      "slug": "ufc-luk12-mic34-2026-03-21",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ufc-logo-37bbbd28e6.png",
-      "eventSlug": "ufc-luk12-mic34-2026-03-21",
-      "outcome": "Luke Riley",
-      "outcomeIndex": 0,
-      "name": "PolyChrome",
-      "pseudonym": "Absolute-Bake",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x8558b62eb731544d36d0571dbee584faf1fd8fe665d988c9ef8b064c3fa4ce88",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "UFC Fight Night: Luke Riley vs. Michael Aswell (Featherweight, Main Card)",
-    "market_slug": "ufc-luk12-mic34-2026-03-21",
-    "amount": 1925.6699979999999
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xd14412ceb7bc125cfb01af4a793c096961031b9e74bb7ff07ca3b00cd3eff89b",
     "wallet": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
     "trader": {
@@ -30302,5 +30258,49 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x9f2c0dd7e0f41acdf564eb7a899171d102e1e752e33a008c97196261f3c56fd7",
+    "wallet": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
+    "trader": {
+      "rank": 16,
+      "address": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
+      "username": "GamblingIsAllYouNeed",
+      "profit": 4900340.192962979,
+      "volume": 432289992.35136396,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x528ff0b0cc2c8228721b30828ea574aba54e2101",
+      "side": "SELL",
+      "asset": "72947246940304588589750879992844431173384079834463596446189152764221969215728",
+      "conditionId": "0x78e794527d21a251948dba9042c49197dc783349d76742daba2d2f048b707c29",
+      "size": 2092.88,
+      "price": 0.8419226138144567,
+      "timestamp": 1779657409,
+      "title": "Will Gavin McKenna be drafted 1st overall in the 2026 NHL Draft?",
+      "slug": "will-gavin-mckenna-be-drafted-1st-overall-in-the-2026-nhl-draft",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/2026-nhl-draft-1st-overall-pick-Phf-7oQIE86F.png",
+      "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "PFL27",
+      "pseudonym": "Long-Biopsy",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x9f2c0dd7e0f41acdf564eb7a899171d102e1e752e33a008c97196261f3c56fd7",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Gavin McKenna be drafted 1st overall in the 2026 NHL Draft?",
+    "market_slug": "2026-nhl-draft-1st-overall-pick-349",
+    "amount": 1762.0430000000001
   }
 ]
