@@ -1,94 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x01b57bd4cee567f9b7b4ee10e5406ae5ecdf2d74e2f1730541e73fcdf2a9d419",
-    "wallet": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
-    "trader": {
-      "rank": 9,
-      "address": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
-      "username": "walletmobile",
-      "profit": 5942685.45339684,
-      "volume": 32196692.075936034,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xb6aee7f281e13b23bd959127f6e2b3dccb4e4df8",
-      "side": "BUY",
-      "asset": "36598050262530853227068246431172433877550992270759643736223503368561328696518",
-      "conditionId": "0xd5b149e7c4d6b49824c2fd110983f3562f1f12c713ddf4905872ea009b2d4aa6",
-      "size": 7071,
-      "price": 0.52,
-      "timestamp": 1774123877,
-      "title": "Texas A&M Aggies vs. Houston Cougars: O/U 143.5",
-      "slug": "cbb-txam-hou-2026-03-21-total-143pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ncaa-c14995df96.png",
-      "eventSlug": "cbb-txam-hou-2026-03-21",
-      "outcome": "Under",
-      "outcomeIndex": 1,
-      "name": "hugesportswhale",
-      "pseudonym": "Fuzzy-Oversight",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x01b57bd4cee567f9b7b4ee10e5406ae5ecdf2d74e2f1730541e73fcdf2a9d419",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Texas A&M Aggies vs. Houston Cougars: O/U 143.5",
-    "market_slug": "cbb-txam-hou-2026-03-21",
-    "amount": 3676.92
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x0b70f06b0cd55921da3a06d404582eb829e15de2224cdcf6c43f5db7e1ddec7c",
-    "wallet": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
-    "trader": {
-      "rank": 4,
-      "address": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
-      "username": "Len9311238",
-      "profit": 8709972.988069998,
-      "volume": 16402744.764627,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x6e8d1343cb660fd7df754e126510bd01842fd730",
-      "side": "SELL",
-      "asset": "47571491404982934163378154396644887577737314993278215946872107495346386959353",
-      "conditionId": "0x56ebb4e4ffdf6ce04bc845e4cd27ae479359bc55b2b5a0c6073639c7a137912c",
-      "size": 3548.09,
-      "price": 0.8130638456183468,
-      "timestamp": 1774126279,
-      "title": "Leeds United FC vs. Brentford FC: O/U 2.5",
-      "slug": "epl-lee-bre-2026-03-21-total-2pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/premier+league.jpg",
-      "eventSlug": "epl-lee-bre-2026-03-21-more-markets",
-      "outcome": "Under",
-      "outcomeIndex": 1,
-      "name": "Collio21",
-      "pseudonym": "Practical-Military",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x0b70f06b0cd55921da3a06d404582eb829e15de2224cdcf6c43f5db7e1ddec7c",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Leeds United FC vs. Brentford FC: O/U 2.5",
-    "market_slug": "epl-lee-bre-2026-03-21-more-markets",
-    "amount": 2884.8237
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x3461e037c2538ac4b69eba46cde6bf606b9b6b686c490dfa809123cff901dab0",
     "wallet": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
     "trader": {
@@ -30172,5 +30084,170 @@
     "market": "Roland Garros ATP: Alejandro Davidovich Fokina vs Damir Dzumhur",
     "market_slug": "atp-fokina-dzumhur-2026-05-24",
     "amount": 2142.3996
+  },
+  {
+    "market": "US announces new Iran agreement/ceasefire extension by May 26?",
+    "market_slug": "us-announces-new-iran-agreementceasefire-extension-by-may-26",
+    "event_slug": "us-announces-new-iran-agreementceasefire-extension-by-may-26",
+    "wallet": "0xbaa2bcb5439e985ce4ccf815b4700027d1b92c73",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "Pre-event latency: 1964m",
+        "Top trader #50 ($2,000,115 profit)"
+      ],
+      "amount": 659.9999999999999,
+      "odds": 0.21999999999999997,
+      "raw_price": 0.78,
+      "outcome": "No",
+      "potential_pnl": 2340.0,
+      "pnl_multiplier": 3.545454545454546,
+      "wallet_age_days": 619,
+      "total_activities": 100
+    },
+    "timestamp": "2026-05-24T15:19:26.617160",
+    "trade_hash": "0x747782facd137d407756a073488c588cde3a9a6b53f585709b70e659557e0cae",
+    "trade_timestamp": 1779635737,
+    "latency": {
+      "latency_seconds": 117863.0,
+      "latency_minutes": 1964.3833333333334,
+      "is_pre_event": true,
+      "severity": "CRITICAL",
+      "trade_time": "2026-05-24T15:15:37+00:00",
+      "event_time": "2026-05-26T00:00:00+00:00"
+    },
+    "wallet_stats": null,
+    "top_trader": {
+      "rank": 50,
+      "address": "0xbaa2bcb5439e985ce4ccf815b4700027d1b92c73",
+      "username": "denizz",
+      "profit": 2000115.155466207,
+      "volume": 76203507.814764,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade_data": {
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.78,
+      "effective_price": 0.78,
+      "size": 3000.0,
+      "amount": 2340.0,
+      "potential_pnl": 660.0,
+      "pnl_multiplier": 0.28205128205128205,
+      "is_no": true,
+      "slug": "us-announces-new-iran-agreementceasefire-extension-by-may-26",
+      "eventSlug": "us-announces-new-iran-agreementceasefire-extension-by"
+    },
+    "irrationality": {
+      "irrationality_score": 40,
+      "flags": [
+        "Category structurally prone to longshot bias",
+        "Large mispricing edge (+28.0%)"
+      ],
+      "category": "geopolitics",
+      "category_info": {
+        "strength": "high",
+        "typical_overpricing": 0.05,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.5,
+      "market_price": 0.78,
+      "edge": 0.28,
+      "edge_percent": 28.000000000000004,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "geopolitics",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 110,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 70,
+      "insider_position": "NO",
+      "irrationality_score": 40,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.28,
+      "edge_percent": 28.000000000000004
+    },
+    "financial_analyst": {
+      "signal_quality": 82.0,
+      "stance": "HIGH_CONVICTION",
+      "edge_percent": 28.0,
+      "signal_strength": 110.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x852a688b63b33da2792ba12b3e799841fcf8df0faf1008d3ca39f6c245c2469f",
+    "wallet": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
+    "trader": {
+      "rank": 3,
+      "address": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
+      "username": "kch123",
+      "profit": 11870938.247376421,
+      "volume": 291998405.24754006,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x44c58184f89a5c2f699dc8943009cb3d75a08d45",
+      "side": "SELL",
+      "asset": "100802412482311950176831794268836517445142932463036659683561935538612212344064",
+      "conditionId": "0xbd1f142f4429d29a740419f424a5ad5f70d53c4b70762c47e91c98995aa84e89",
+      "size": 9310.13,
+      "price": 0.55,
+      "timestamp": 1779636032,
+      "title": "Will Liverpool FC win on 2026-05-24?",
+      "slug": "epl-liv-bre-2026-05-24-liv",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/premier+league.jpg",
+      "eventSlug": "epl-liv-bre-2026-05-24",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "JhonAlexanderHinestroza",
+      "pseudonym": "Plastic-Pet",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-4630487-c5ac6217-e02b-49cb-858e-73ab628847a6.jpeg",
+      "profileImageOptimized": "",
+      "transactionHash": "0x852a688b63b33da2792ba12b3e799841fcf8df0faf1008d3ca39f6c245c2469f",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Liverpool FC win on 2026-05-24?",
+    "market_slug": "epl-liv-bre-2026-05-24",
+    "amount": 5120.5715
   }
 ]
