@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xd14412ceb7bc125cfb01af4a793c096961031b9e74bb7ff07ca3b00cd3eff89b",
-    "wallet": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
-    "trader": {
-      "rank": 9,
-      "address": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
-      "username": "walletmobile",
-      "profit": 5942685.45339684,
-      "volume": 32196692.075936034,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x8bee36ea7cd823199ec20104d309d85bf544a369",
-      "side": "BUY",
-      "asset": "110148211468275658488762534192579152973732637194393043757965343084754830928130",
-      "conditionId": "0x2fa7ce3d3c58e8283273bcf81cae5b8699dbd4680b7992d64acfa1486afef58b",
-      "size": 5490.8,
-      "price": 0.48,
-      "timestamp": 1774131981,
-      "title": "Spread: Cavaliers (-5.5)",
-      "slug": "nba-cle-nop-2026-03-21-spread-away-5pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-cle-nop-2026-03-21",
-      "outcome": "Cavaliers",
-      "outcomeIndex": 0,
-      "name": "Wwsi233",
-      "pseudonym": "Dearest-Muscat",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-4558368-2c173502-84d8-43bb-841f-ade49f64ca3b.webp",
-      "profileImageOptimized": "",
-      "transactionHash": "0xd14412ceb7bc125cfb01af4a793c096961031b9e74bb7ff07ca3b00cd3eff89b",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Spread: Cavaliers (-5.5)",
-    "market_slug": "nba-cle-nop-2026-03-21",
-    "amount": 2635.584
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xb01a236ea77be314887e12bea3ebcca04916dadb51ef1228fc3ba2cf1cd29f79",
     "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
     "trader": {
@@ -30302,5 +30258,49 @@
     "market": "Will Gavin McKenna be drafted 1st overall in the 2026 NHL Draft?",
     "market_slug": "2026-nhl-draft-1st-overall-pick-349",
     "amount": 1762.0430000000001
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x800c7d18b2c4ae6e24798a4d73c3ed9f3bd5275c5ac4e61dd2eebd62e1b8a05e",
+    "wallet": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
+    "trader": {
+      "rank": 15,
+      "address": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
+      "username": "gmanas",
+      "profit": 4955880.748692174,
+      "volume": 529047708.50599086,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xef9b5d5e51eb4987240ed77422352d10604ed5ed",
+      "side": "BUY",
+      "asset": "52965156717339871692714186660785951310421831919562520539239006775699853846973",
+      "conditionId": "0x421bc1929df1429cf2cb94f80c1ce6a3ed0d1f0b7a2749b9890075f94eb549e9",
+      "size": 27242.6525,
+      "price": 0.9176786291276152,
+      "timestamp": 1779664939,
+      "title": "US x Iran permanent peace deal by May 26, 2026?",
+      "slug": "us-x-iran-permanent-peace-deal-by-may-26-2026",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-permanent-peace-deal-by-yYlzv70Hi7j9.jpg",
+      "eventSlug": "us-x-iran-permanent-peace-deal-by",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "Chelseaone",
+      "pseudonym": "Unnatural-Breakdown",
+      "bio": "up the Chels",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x800c7d18b2c4ae6e24798a4d73c3ed9f3bd5275c5ac4e61dd2eebd62e1b8a05e",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "US x Iran permanent peace deal by May 26, 2026?",
+    "market_slug": "us-x-iran-permanent-peace-deal-by",
+    "amount": 25000.0
   }
 ]
