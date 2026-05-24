@@ -1,138 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x94769849c1d74dac8d968fa9031b47c5798ba0e5be9daafb8a0fcc06a2f5dbe3",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.51568201,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x14a056c698f46d181d1e650e7a7a0f7d1d8a22bb",
-      "side": "SELL",
-      "asset": "74686534192387232360436892413215696562010774921877517880549748276397471176963",
-      "conditionId": "0xb05f87492cd379d27deccf1eb38a8aba71216317b31b5f15d1f41b9bc18319f3",
-      "size": 2912.46,
-      "price": 0.8174163765339266,
-      "timestamp": 1774112175,
-      "title": "LoL: Bilibili Gaming vs JD Gaming (BO5) - First Stand Playoffs",
-      "slug": "lol-blg-jdg-2026-03-21",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
-      "eventSlug": "lol-blg-jdg-2026-03-21",
-      "outcome": "Bilibili Gaming",
-      "outcomeIndex": 0,
-      "name": "gnose",
-      "pseudonym": "Neighboring-Snowsuit",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x94769849c1d74dac8d968fa9031b47c5798ba0e5be9daafb8a0fcc06a2f5dbe3",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "LoL: Bilibili Gaming vs JD Gaming (BO5) - First Stand Playoffs",
-    "market_slug": "lol-blg-jdg-2026-03-21",
-    "amount": 2380.6925
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x6f6f5ebd7cfee65e81a5ad210d446cc1187f87462343ecf624e6fb51e8702bdb",
-    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-    "trader": {
-      "rank": 5,
-      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-      "username": "zxgngl",
-      "profit": 7807265.589240883,
-      "volume": 40551790.62184699,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x99e42eb9038705165b22f821e27659c1dc41e4c4",
-      "side": "SELL",
-      "asset": "60832842270124197536093153288000759796820984556909516527686428747665816266639",
-      "conditionId": "0x05cd7f4580c9ec9b8f6ede3e7e0cf1aadfb0b2e8245e2e58619e2e770e6c8866",
-      "size": 5811.69,
-      "price": 0.279001770569318,
-      "timestamp": 1774117877,
-      "title": "Counter-Strike: PARIVISION vs Spirit (BO3) - BLAST Open Rotterdam Group B",
-      "slug": "cs2-prv-ts7-2026-03-21",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/counter-strike-image-16c415c538.png",
-      "eventSlug": "cs2-prv-ts7-2026-03-21",
-      "outcome": "PARIVISION",
-      "outcomeIndex": 0,
-      "name": "acorp",
-      "pseudonym": "Untimely-Spite",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x6f6f5ebd7cfee65e81a5ad210d446cc1187f87462343ecf624e6fb51e8702bdb",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Counter-Strike: PARIVISION vs Spirit (BO3) - BLAST Open Rotterdam Group B",
-    "market_slug": "cs2-prv-ts7-2026-03-21",
-    "amount": 1621.4717999999998
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x4eab03990fc00fde14caa59dfa6e758a2604f9a90895ad5b7c637214800e87f4",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x492442eab586f242b53bda933fd5de859c8a3782",
-      "side": "BUY",
-      "asset": "111667289987821867996523210098284403486242703860066560244877969999789712250266",
-      "conditionId": "0x95bc92b3899a98cb0e6adb127fcf503a3656f1d9c2104e6da3b7acfd80a53383",
-      "size": 20004.75,
-      "price": 0.45,
-      "timestamp": 1774120877,
-      "title": "OGC Nice vs. Paris Saint-Germain FC: O/U 3.5",
-      "slug": "fl1-ogc-psg-2026-03-21-total-3pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-fl1.png",
-      "eventSlug": "fl1-ogc-psg-2026-03-21-more-markets",
-      "outcome": "Over",
-      "outcomeIndex": 0,
-      "name": "0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188",
-      "pseudonym": "Multicolored-Self",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x4eab03990fc00fde14caa59dfa6e758a2604f9a90895ad5b7c637214800e87f4",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "OGC Nice vs. Paris Saint-Germain FC: O/U 3.5",
-    "market_slug": "fl1-ogc-psg-2026-03-21-more-markets",
-    "amount": 9002.1375
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x2b5175760d1cfee74b21ee23048742bfc6255b345010fdd1a0775d6b1595f8ad",
     "wallet": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
     "trader": {
@@ -30172,5 +30040,137 @@
     "market": "1H Spread: Cavaliers (-1.5)",
     "market_slug": "nba-nyk-cle-2026-05-23",
     "amount": 1648.3500000000001
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xa1304f02a818eaf57a83587c77844be9896435e8dcb3f86fbc3b4fb973747a4c",
+    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
+    "trader": {
+      "rank": 19,
+      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
+      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
+      "profit": 4559452.816527762,
+      "volume": 60885325.78565601,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x8a98109fb0f1d87d9bfcb4486ba3587b95c51b92",
+      "side": "SELL",
+      "asset": "99566541619640652317512639709808184120400767516277184685355777020179304540844",
+      "conditionId": "0x20af55ab35186377b81219db6cb8615240cba42cea41731091be9484a5f5b122",
+      "size": 4000,
+      "price": 0.59,
+      "timestamp": 1779598308,
+      "title": "US x Iran permanent peace deal by July 31, 2026?",
+      "slug": "us-x-iran-permanent-peace-deal-by-july-31-2026-831",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-permanent-peace-deal-by-yYlzv70Hi7j9.jpg",
+      "eventSlug": "us-x-iran-permanent-peace-deal-by",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "0xd8dA6BF26964aF9D7eEd9e03E53415D37aA9604",
+      "pseudonym": "Blaring-Backdrop",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xa1304f02a818eaf57a83587c77844be9896435e8dcb3f86fbc3b4fb973747a4c",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "US x Iran permanent peace deal by July 31, 2026?",
+    "market_slug": "us-x-iran-permanent-peace-deal-by",
+    "amount": 2360.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x47be066a0e829171ac4fb9e6d9498b3b7f87db9c2a29fdfc9f2828aef294c136",
+    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
+    "trader": {
+      "rank": 19,
+      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
+      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
+      "profit": 4559452.816527762,
+      "volume": 60885325.78565601,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x430fc12ac13646b962c98dd73e159488812f5947",
+      "side": "BUY",
+      "asset": "42918220085288219341491829385501246298233444593663440094436147850542032590016",
+      "conditionId": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
+      "size": 13365.68,
+      "price": 0.6355552055712841,
+      "timestamp": 1779598308,
+      "title": "US x Iran permanent peace deal by May 31, 2026?",
+      "slug": "us-x-iran-permanent-peace-deal-by-may-31-2026-333-871-241-192-799-449-125",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-permanent-peace-deal-by-yYlzv70Hi7j9.jpg",
+      "eventSlug": "us-x-iran-permanent-peace-deal-by",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "5245242",
+      "pseudonym": "Altruistic-Dirt",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x47be066a0e829171ac4fb9e6d9498b3b7f87db9c2a29fdfc9f2828aef294c136",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "US x Iran permanent peace deal by May 31, 2026?",
+    "market_slug": "us-x-iran-permanent-peace-deal-by",
+    "amount": 8494.6275
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x36ac02cda17b6867e9e643c5e6c5a99a7d95365e3c86efdb79d0e0093a1b4ffa",
+    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
+    "trader": {
+      "rank": 19,
+      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
+      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
+      "profit": 4559452.816527762,
+      "volume": 60885325.78565601,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x8a98109fb0f1d87d9bfcb4486ba3587b95c51b92",
+      "side": "BUY",
+      "asset": "52965156717339871692714186660785951310421831919562520539239006775699853846973",
+      "conditionId": "0x421bc1929df1429cf2cb94f80c1ce6a3ed0d1f0b7a2749b9890075f94eb549e9",
+      "size": 4000,
+      "price": 0.72,
+      "timestamp": 1779598308,
+      "title": "US x Iran permanent peace deal by May 26, 2026?",
+      "slug": "us-x-iran-permanent-peace-deal-by-may-26-2026",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-permanent-peace-deal-by-yYlzv70Hi7j9.jpg",
+      "eventSlug": "us-x-iran-permanent-peace-deal-by",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "0xd8dA6BF26964aF9D7eEd9e03E53415D37aA9604",
+      "pseudonym": "Blaring-Backdrop",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x36ac02cda17b6867e9e643c5e6c5a99a7d95365e3c86efdb79d0e0093a1b4ffa",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "US x Iran permanent peace deal by May 26, 2026?",
+    "market_slug": "us-x-iran-permanent-peace-deal-by",
+    "amount": 2880.0
   }
 ]
