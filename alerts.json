@@ -1,156 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xd23c95305e04fa064c62df5308bdb56ce76be26348ae491362e81e2b5c6595ef",
-    "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
-    "trader": {
-      "rank": 16,
-      "address": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
-      "username": "beachboy4",
-      "profit": 4700240.038541158,
-      "volume": 197853079.23528397,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xd1780c09a7c3622958c568ca96d10d9cd4ba6703",
-      "side": "BUY",
-      "asset": "27780015530816841645092394280407093968589144659260920816803085707643035137289",
-      "conditionId": "0xa284fceb04fbff30346ae8747e21378c6828b68aaee2cfc9fe13c718297846c0",
-      "size": 6619.91,
-      "price": 0.74,
-      "timestamp": 1774127481,
-      "title": "Will Brentford FC win on 2026-03-21?",
-      "slug": "epl-lee-bre-2026-03-21-bre",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/premier+league.jpg",
-      "eventSlug": "epl-lee-bre-2026-03-21",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "sinestia",
-      "pseudonym": "Stupendous-Tonality",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xd23c95305e04fa064c62df5308bdb56ce76be26348ae491362e81e2b5c6595ef",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Brentford FC win on 2026-03-21?",
-    "market_slug": "epl-lee-bre-2026-03-21",
-    "amount": 1721.1766
-  },
-  {
-    "market": "Will the Slovenian Democratic Party (SDS) win the most seats in the 2026 Slovenian parliamentary election?",
-    "market_slug": "will-the-slovenian-democratic-party-sds-win-the-most-seats-in-the-2026-slovenian-parliamentary-election-344",
-    "event_slug": "will-the-slovenian-democratic-party-sds-win-the-most-seats-in-the-2026-slovenian-parliamentary-election-344",
-    "wallet": "0x87063c9b127e58d09489becff3f4b0df5c749c71",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,000)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 1000.0,
-      "odds": 0.41993692547379385,
-      "raw_price": 0.41993692547379385,
-      "outcome": "Yes",
-      "potential_pnl": 1381.31,
-      "pnl_multiplier": 1.38131,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-03-21T21:32:03.048298",
-    "trade_hash": "0xd1aa81840fc21bb86f6ffd4176ec0cabbee1a342e4624c561aa86bc6a9578049",
-    "trade_timestamp": 1774128275,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "side": "BUY",
-      "price": 0.41993692547379385,
-      "effective_price": 0.41993692547379385,
-      "size": 2381.31,
-      "amount": 1000.0,
-      "potential_pnl": 1381.31,
-      "pnl_multiplier": 1.38131,
-      "is_no": false,
-      "slug": "will-the-slovenian-democratic-party-sds-win-the-most-seats-in-the-2026-slovenian-parliamentary-election-344",
-      "eventSlug": "slovenian-parliamentary-election-winner-791"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+19.6%)"
-      ],
-      "category": "politics_near",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.02,
-        "min_edge": 0.03
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.22398738509475877,
-      "market_price": 0.41993692547379385,
-      "edge": 0.1959495403790351,
-      "edge_percent": 19.59495403790351,
-      "min_edge_required": 0.03,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "SDS maintains strong party unity and leadership",
-          "Economic conditions remain stable or improve leading up to the election",
-          "Opposition parties fail to consolidate support or present a viable alternative"
-        ],
-        "weakest_link": "Opposition parties successfully unite and present a strong challenge"
-      },
-      "category": "politics_near",
-      "narrative_drivers": [
-        "Public sentiment towards current government performance",
-        "Impact of upcoming local or European elections on party visibility"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "CONFLICT",
-      "signal_emoji": "\u26a0\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider buying YES despite statistical overpricing",
-      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
-      "insider_score": 70,
-      "insider_position": "YES",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.1959495403790351,
-      "edge_percent": 19.59495403790351
-    },
-    "financial_analyst": {
-      "signal_quality": 46.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 19.59,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-03-29T06:57:33.672654+00:00"
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xfa03d9a15f645beb58b91175c0ef7fe841a16e1088340544774a0cb2a3435cb6",
     "wallet": "0xd0c042c08f755ff940249f62745e82d356345565",
     "trader": {
@@ -30187,5 +30037,209 @@
     "market": "Indian Premier League: Kolkata Knight Riders vs Delhi Capitals",
     "market_slug": "cricipl-kol-del-2026-05-24",
     "amount": 1799.999998
+  },
+  {
+    "market": "Will Spain win the 2026 FIFA World Cup?",
+    "market_slug": "will-spain-win-the-2026-fifa-world-cup-963",
+    "event_slug": "will-spain-win-the-2026-fifa-world-cup-963",
+    "wallet": "0x0f84feb1c67e777fe106e4412abb46c21ace60fb",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,500)",
+        "Low activity (4 txns)"
+      ],
+      "amount": 1499.9999990000001,
+      "odds": 0.1749999999125,
+      "raw_price": 0.1749999999125,
+      "outcome": "Yes",
+      "potential_pnl": 7071.428571,
+      "pnl_multiplier": 4.714285717142857,
+      "wallet_age_days": 0,
+      "total_activities": 4
+    },
+    "timestamp": "2026-05-24T18:48:24.573652",
+    "trade_hash": "0x48b26ef0893320fa1c781f264dce46d2b97919e589a736b2a5dc93fcdc846f01",
+    "trade_timestamp": 1779648092,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.1749999999125,
+      "effective_price": 0.1749999999125,
+      "size": 8571.42857,
+      "amount": 1499.9999990000001,
+      "potential_pnl": 7071.428571,
+      "pnl_multiplier": 4.714285717142857,
+      "is_no": false,
+      "slug": "will-spain-win-the-2026-fifa-world-cup-963",
+      "eventSlug": "2026-fifa-world-cup-winner-595"
+    },
+    "irrationality": {
+      "irrationality_score": 10,
+      "flags": [],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.137499999965,
+      "market_price": 0.1749999999125,
+      "edge": 0.0374999999475,
+      "edge_percent": 3.74999999475,
+      "min_edge_required": 0.05,
+      "is_mispriced": false,
+      "edge_quality": "WEAK",
+      "base_rate_class": "occasional",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "occasional",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 10,
+      "is_irrational": false,
+      "is_mispriced": false,
+      "edge": 0.0374999999475,
+      "edge_percent": 3.74999999475
+    },
+    "financial_analyst": {
+      "signal_quality": 26.6,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 3.75,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Will France win the 2026 FIFA World Cup?",
+    "market_slug": "will-france-win-the-2026-fifa-world-cup-924",
+    "event_slug": "will-france-win-the-2026-fifa-world-cup-924",
+    "wallet": "0x0f84feb1c67e777fe106e4412abb46c21ace60fb",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,500)",
+        "Low activity (4 txns)"
+      ],
+      "amount": 1499.9999990000001,
+      "odds": 0.177999999905304,
+      "raw_price": 0.177999999905304,
+      "outcome": "Yes",
+      "potential_pnl": 6926.966292000001,
+      "pnl_multiplier": 4.617977531078652,
+      "wallet_age_days": 0,
+      "total_activities": 4
+    },
+    "timestamp": "2026-05-24T18:48:29.667714",
+    "trade_hash": "0x26d22d8d850f790a0a1c3fe5e73212f7facd470f3725db01be7541bf6f08b119",
+    "trade_timestamp": 1779648081,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.177999999905304,
+      "effective_price": 0.177999999905304,
+      "size": 8426.966291,
+      "amount": 1499.9999990000001,
+      "potential_pnl": 6926.966292000001,
+      "pnl_multiplier": 4.617977531078652,
+      "is_no": false,
+      "slug": "will-france-win-the-2026-fifa-world-cup-924",
+      "eventSlug": "2026-fifa-world-cup-winner-595"
+    },
+    "irrationality": {
+      "irrationality_score": 10,
+      "flags": [],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.1386999999621216,
+      "market_price": 0.177999999905304,
+      "edge": 0.039299999943182395,
+      "edge_percent": 3.9299999943182398,
+      "min_edge_required": 0.05,
+      "is_mispriced": false,
+      "edge_quality": "WEAK",
+      "base_rate_class": "occasional",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "occasional",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 10,
+      "is_irrational": false,
+      "is_mispriced": false,
+      "edge": 0.039299999943182395,
+      "edge_percent": 3.9299999943182398
+    },
+    "financial_analyst": {
+      "signal_quality": 26.9,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 3.93,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
