@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xcc9d973ce4cbf92e75ba1108843cf68c58a0b75589edd44862628f945309a134",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.51568201,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xd6a3f0ec6c4a8ad680d580610c82ca57ff139489",
-      "side": "BUY",
-      "asset": "55259781684403218117288564174975779946821753193814610955413089191234400828127",
-      "conditionId": "0xbbb0e9aa6c87f1ebfb3636615c7b6f7ec69c78dfa4c1b2f2f4f77ccd3512d84c",
-      "size": 2311.77,
-      "price": 0.73,
-      "timestamp": 1774135283,
-      "title": "Texas Longhorns vs. Gonzaga Bulldogs",
-      "slug": "cbb-tx-gnzg-2026-03-21",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ncaa-c14995df96.png",
-      "eventSlug": "cbb-tx-gnzg-2026-03-21",
-      "outcome": "Gonzaga Bulldogs",
-      "outcomeIndex": 1,
-      "name": "knedloveprovelo",
-      "pseudonym": "Weighty-Rifle",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xcc9d973ce4cbf92e75ba1108843cf68c58a0b75589edd44862628f945309a134",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Texas Longhorns vs. Gonzaga Bulldogs",
-    "market_slug": "cbb-tx-gnzg-2026-03-21",
-    "amount": 1687.5920999999998
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x1f8a9c23c2fc26fcd2c23356a9f62cf748472e88f0ac9d6fa1448c126895a466",
     "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
     "trader": {
@@ -30305,5 +30261,109 @@
     "market": "US announces new Iran agreement/ceasefire extension by May 31?",
     "market_slug": "us-announces-new-iran-agreementceasefire-extension-by",
     "amount": 1608.3195
+  },
+  {
+    "market": "Will Portugal win the 2026 FIFA World Cup?",
+    "market_slug": "will-portugal-win-the-2026-fifa-world-cup-912",
+    "event_slug": "will-portugal-win-the-2026-fifa-world-cup-912",
+    "wallet": "0x3e3d631134a0bb18194cee06f505f761a0ccc0cd",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($3,100)",
+        "Low activity (3 txns)"
+      ],
+      "amount": 3099.999999,
+      "odds": 0.10299299624996716,
+      "raw_price": 0.10299299624996716,
+      "outcome": "Yes",
+      "potential_pnl": 26999.134038000004,
+      "pnl_multiplier": 8.709398079583679,
+      "wallet_age_days": 0,
+      "total_activities": 3
+    },
+    "timestamp": "2026-05-25T20:00:42.101662",
+    "trade_hash": "0xd9f9959f5cef475b8b5b9754a55a5815df80394bd268d185e44b8f0d5b483bdd",
+    "trade_timestamp": 1779738959,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.10299299624996716,
+      "effective_price": 0.10299299624996716,
+      "size": 30099.134037,
+      "amount": 3099.999999,
+      "potential_pnl": 26999.134038,
+      "pnl_multiplier": 8.709398079583677,
+      "is_no": false,
+      "slug": "will-portugal-win-the-2026-fifa-world-cup-912",
+      "eventSlug": "2026-fifa-world-cup-winner-595"
+    },
+    "irrationality": {
+      "irrationality_score": 25,
+      "flags": [
+        "Longshot (10%) in medium bias category (sports)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.06369719849998687,
+      "market_price": 0.10299299624996716,
+      "edge": 0.039295797749980294,
+      "edge_percent": 3.9295797749980292,
+      "min_edge_required": 0.05,
+      "is_mispriced": false,
+      "edge_quality": "WEAK",
+      "base_rate_class": "rare",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "rare",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 25,
+      "is_irrational": false,
+      "is_mispriced": false,
+      "edge": 0.039295797749980294,
+      "edge_percent": 3.9295797749980292
+    },
+    "financial_analyst": {
+      "signal_quality": 29.9,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 3.93,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
