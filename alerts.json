@@ -29772,7 +29772,8 @@
       "signal_strength": 110.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
+    },
+    "resolution_last_check": "2026-05-25T10:08:50.264477+00:00"
   },
   {
     "type": "TOP_TRADER",
@@ -30006,7 +30007,8 @@
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
+    },
+    "resolution_last_check": "2026-05-25T10:08:54.571347+00:00"
   },
   {
     "market": "Will France win the 2026 FIFA World Cup?",
@@ -30108,7 +30110,8 @@
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
+    },
+    "resolution_last_check": "2026-05-25T10:08:55.144521+00:00"
   },
   {
     "market": "Thunder vs. Spurs",
