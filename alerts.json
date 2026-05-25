@@ -1,94 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xb01a236ea77be314887e12bea3ebcca04916dadb51ef1228fc3ba2cf1cd29f79",
-    "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
-    "trader": {
-      "rank": 18,
-      "address": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
-      "username": "432614799197",
-      "profit": 4558348.7152132625,
-      "volume": 185485956.86208287,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xcd3638fea0107fe3355544251f96a10980daa8ac",
-      "side": "BUY",
-      "asset": "66419344206339468073253308897091364505984570816153869860212591505290583609104",
-      "conditionId": "0x0954cc08de0ab8345bcf24f314d571e6a77d913ea9977ce2b4187983a70b450d",
-      "size": 4116.83,
-      "price": 0.6,
-      "timestamp": 1774132281,
-      "title": "Lakers vs. Magic",
-      "slug": "nba-lal-orl-2026-03-21",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-lal-orl-2026-03-21",
-      "outcome": "Lakers",
-      "outcomeIndex": 0,
-      "name": "TheCheatCode",
-      "pseudonym": "Open-Supporter",
-      "bio": "3760",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xb01a236ea77be314887e12bea3ebcca04916dadb51ef1228fc3ba2cf1cd29f79",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Lakers vs. Magic",
-    "market_slug": "nba-lal-orl-2026-03-21",
-    "amount": 2470.098
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xe3aca6234442796483bc0e3ad846d2d1be1c4553417c8697b1ede6e9cd3eae4b",
-    "wallet": "0xdb27bf2ac5d428a9c63dbc914611036855a6c56e",
-    "trader": {
-      "rank": 20,
-      "address": "0xdb27bf2ac5d428a9c63dbc914611036855a6c56e",
-      "username": "DrPufferfish",
-      "profit": 4058404.252825029,
-      "volume": 220193609.19156295,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x1d7ab6473e55405bb5bc62cb3377a6d37989b22f",
-      "side": "BUY",
-      "asset": "108478613802402022030846297419595503435513409327357946197005967644010155220473",
-      "conditionId": "0x41f885dbd144ded625e536058251139c66b1f9904a28fa17631cfc80d7b4e20c",
-      "size": 5326,
-      "price": 0.5,
-      "timestamp": 1774134383,
-      "title": "VCU Rams vs. Illinois Fighting Illini: O/U 150.5",
-      "slug": "cbb-vcu-ill-2026-03-21-total-150pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ncaa-c14995df96.png",
-      "eventSlug": "cbb-vcu-ill-2026-03-21",
-      "outcome": "Under",
-      "outcomeIndex": 1,
-      "name": "Garyg9870",
-      "pseudonym": "Accurate-Pitcher",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xe3aca6234442796483bc0e3ad846d2d1be1c4553417c8697b1ede6e9cd3eae4b",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "VCU Rams vs. Illinois Fighting Illini: O/U 150.5",
-    "market_slug": "cbb-vcu-ill-2026-03-21",
-    "amount": 2663.0
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xcc9d973ce4cbf92e75ba1108843cf68c58a0b75589edd44862628f945309a134",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -30305,5 +30217,93 @@
     "market": "US x Iran permanent peace deal by May 26, 2026?",
     "market_slug": "us-x-iran-permanent-peace-deal-by",
     "amount": 25000.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x6264d97597f6eddd68f7a5f6ae156bf0210d6ae6d662f05b1921115470d74f50",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "trader": {
+      "rank": 4,
+      "address": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+      "username": "RN1",
+      "profit": 8995443.42632928,
+      "volume": 586383602.5788589,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x39d3c773be30fcc73161fc6768f46d563a779ef0",
+      "side": "BUY",
+      "asset": "66001559742387030009045005319044880402579242919401838312873830105346449852385",
+      "conditionId": "0x7c3b5bb93934c27d1478b9109477e4d7bbd8b5040ced572bfdadd6488856c09d",
+      "size": 5876,
+      "price": 0.44,
+      "timestamp": 1779732466,
+      "title": "Spread: Knicks (-3.5)",
+      "slug": "nba-nyk-cle-2026-05-25-spread-away-3pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-nyk-cle-2026-05-25",
+      "outcome": "Knicks",
+      "outcomeIndex": 0,
+      "name": "matanovik",
+      "pseudonym": "Lost-Property",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x6264d97597f6eddd68f7a5f6ae156bf0210d6ae6d662f05b1921115470d74f50",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spread: Knicks (-3.5)",
+    "market_slug": "nba-nyk-cle-2026-05-25",
+    "amount": 2585.44
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xf53b5a96379451b82d8b9dd2b1be31efbc7ed17b2bb7cf8f2a9ae62abf439c14",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "trader": {
+      "rank": 5,
+      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "username": "swisstony",
+      "profit": 8772961.47656197,
+      "volume": 816705692.8646659,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x4478d7bd8a295691ac84f60a5ec2b47e122102a4",
+      "side": "BUY",
+      "asset": "95319765794182093287927679833194607351139501701926036955896570172084718641711",
+      "conditionId": "0x6a8cfe84d17693425f27831db5949d7511f3393d4624b182ac6956164cd32b10",
+      "size": 3000,
+      "price": 0.5361065,
+      "timestamp": 1779732769,
+      "title": "US announces new Iran agreement/ceasefire extension by May 31?",
+      "slug": "us-announces-new-iran-agreementceasefire-extension-by-may-31-665",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-announces-new-iran-agreementceasefire-extension-by-may-31-H9gDFAYNtb5_.jpg",
+      "eventSlug": "us-announces-new-iran-agreementceasefire-extension-by",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "Warren-Buffett",
+      "pseudonym": "Hateful-Generation",
+      "bio": "Freak the fuck out and sell everything right now. Its fucking over.",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3416479-d3d86a2e-e805-4958-9ddb-29768f8a9601.webp",
+      "profileImageOptimized": "",
+      "transactionHash": "0xf53b5a96379451b82d8b9dd2b1be31efbc7ed17b2bb7cf8f2a9ae62abf439c14",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "US announces new Iran agreement/ceasefire extension by May 31?",
+    "market_slug": "us-announces-new-iran-agreementceasefire-extension-by",
+    "amount": 1608.3195
   }
 ]
