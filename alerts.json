@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x2b562f13b3582ebc26fcb32ba4094d9f29aede80e307ccdf385056693df36dbe",
-    "wallet": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
-    "trader": {
-      "rank": 3,
-      "address": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
-      "username": "kch123",
-      "profit": 11362797.902296938,
-      "volume": 258066304.289614,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xfd2930a094c0a6900a2dc947e5db462d11ae77ae",
-      "side": "BUY",
-      "asset": "55676427870922204922497360430044642436911050457023661200891637930737550561101",
-      "conditionId": "0x502545a1aa82d3b878766a696c6886c2b7a3bdbd8c94dc13898180cc30a19a7a",
-      "size": 5757.14,
-      "price": 0.51,
-      "timestamp": 1774166497,
-      "title": "Will Melbourne City FC win on 2026-03-22?",
-      "slug": "aus-per-mct-2026-03-22-mct",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/a-league-6595bd3047.jpg",
-      "eventSlug": "aus-per-mct-2026-03-22",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "NoLyon",
-      "pseudonym": "Immediate-Calcification",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x2b562f13b3582ebc26fcb32ba4094d9f29aede80e307ccdf385056693df36dbe",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Melbourne City FC win on 2026-03-22?",
-    "market_slug": "aus-per-mct-2026-03-22",
-    "amount": 2936.1414000000004
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xb64edd03c325df0d7c4776fb43cd013c87c8f1a2ca6ada569491e45b07bdccf8",
     "wallet": "0xdb27bf2ac5d428a9c63dbc914611036855a6c56e",
     "trader": {
@@ -30366,5 +30322,116 @@
     "market": "Roland Garros ATP: Tallon Griekspoor vs Matteo Arnaldi",
     "market_slug": "atp-grieksp-arnaldi-2026-05-24",
     "amount": 1531.9840000000002
+  },
+  {
+    "market": "US x Iran permanent peace deal by May 31, 2026?",
+    "market_slug": "us-x-iran-permanent-peace-deal-by-may-31-2026-333-871-241-192-799",
+    "event_slug": "us-x-iran-permanent-peace-deal-by-may-31-2026-333-871-241-192-799",
+    "wallet": "0x4e6e4fb0687fc1fd44eea9e6d75c5997beaed859",
+    "analysis": {
+      "score": 100,
+      "flags": [
+        "New wallet (2d old)",
+        "Large bet ($1,386)",
+        "Pre-event latency: 6062m"
+      ],
+      "amount": 1386.441621,
+      "odds": 0.26732039476177893,
+      "raw_price": 0.7326796052382211,
+      "outcome": "No",
+      "potential_pnl": 3799.9999980000002,
+      "pnl_multiplier": 2.7408294301343687,
+      "wallet_age_days": 2,
+      "total_activities": 100
+    },
+    "timestamp": "2026-05-26T19:07:55.083505",
+    "trade_hash": "0x90e31c148c3c3bd6feb74f87a9b495abd1cb4fefc702e531f32a96bcd210bd2e",
+    "trade_timestamp": 1779821903,
+    "latency": {
+      "latency_seconds": 363697.0,
+      "latency_minutes": 6061.616666666667,
+      "is_pre_event": true,
+      "severity": "CRITICAL",
+      "trade_time": "2026-05-26T18:58:23+00:00",
+      "event_time": "2026-05-31T00:00:00+00:00"
+    },
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.7326796052382211,
+      "effective_price": 0.7326796052382211,
+      "size": 5186.441619,
+      "amount": 3799.9999980000002,
+      "potential_pnl": 1386.441621,
+      "pnl_multiplier": 0.3648530583499226,
+      "is_no": true,
+      "slug": "us-x-iran-permanent-peace-deal-by-may-31-2026-333-871-241-192-799",
+      "eventSlug": "us-x-iran-permanent-peace-deal-by"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+28.2%)"
+      ],
+      "category": "politics_near",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.02,
+        "min_edge": 0.03
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.4505718420952884,
+      "market_price": 0.7326796052382211,
+      "edge": 0.2821077631429327,
+      "edge_percent": 28.210776314293266,
+      "min_edge_required": 0.03,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 135,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 100,
+      "insider_position": "NO",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.2821077631429327,
+      "edge_percent": 28.210776314293266
+    },
+    "financial_analyst": {
+      "signal_quality": 87.0,
+      "stance": "HIGH_CONVICTION",
+      "edge_percent": 28.21,
+      "signal_strength": 135.0,
+      "insider_score": 100.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
