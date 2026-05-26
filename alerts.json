@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x1f8a9c23c2fc26fcd2c23356a9f62cf748472e88f0ac9d6fa1448c126895a466",
-    "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
-    "trader": {
-      "rank": 17,
-      "address": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
-      "username": "432614799197",
-      "profit": 4558776.094847582,
-      "volume": 185485956.86208287,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xc257ea7e3a81ca8e16df8935d44d513959fa358e",
-      "side": "BUY",
-      "asset": "83774203144135081842355459897658116029968711621349149305109936193167343401256",
-      "conditionId": "0xa7c97170c8edfff309517bd76bfea38f85211bf8319a4688de553c7e87cc1159",
-      "size": 6051.1,
-      "price": 0.6998940688469865,
-      "timestamp": 1774165895,
-      "title": "Counter-Strike: Liquid vs TheMongolz (BO3) - BLAST Open Rotterdam Group B",
-      "slug": "cs2-tl1-mglz-2026-03-22",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/counter-strike-image-16c415c538.png",
-      "eventSlug": "cs2-tl1-mglz-2026-03-22",
-      "outcome": "TheMongolz",
-      "outcomeIndex": 1,
-      "name": "YT-JuicySlots",
-      "pseudonym": "Weepy-Frosting",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x1f8a9c23c2fc26fcd2c23356a9f62cf748472e88f0ac9d6fa1448c126895a466",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Counter-Strike: Liquid vs TheMongolz (BO3) - BLAST Open Rotterdam Group B",
-    "market_slug": "cs2-tl1-mglz-2026-03-22",
-    "amount": 4235.129
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x2b562f13b3582ebc26fcb32ba4094d9f29aede80e307ccdf385056693df36dbe",
     "wallet": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
     "trader": {
@@ -30366,5 +30322,49 @@
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     },
     "resolution_last_check": "2026-05-26T10:01:26.389335+00:00"
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xfcda863b1609a38c43928c665012a847ce0af10503e5efdc0541dcf94c6037e3",
+    "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
+    "trader": {
+      "rank": 8,
+      "address": "0x863134d00841b2e200492805a01e1e2f5defaa53",
+      "username": "RepTrump",
+      "profit": 7532409.671579,
+      "volume": 13983231.103425,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xc5df8855999cf80a995e6e48e024dc7032d2be66",
+      "side": "BUY",
+      "asset": "71846159079158880412881688806652125905814263661429871669049344735243873912554",
+      "conditionId": "0xda1b6a0fcfc617e6262ca1632c2552eef368f3431d1f9b65ac0f81d6c8adcd97",
+      "size": 1665.2,
+      "price": 0.92,
+      "timestamp": 1779799944,
+      "title": "Roland Garros ATP: Tallon Griekspoor vs Matteo Arnaldi",
+      "slug": "atp-grieksp-arnaldi-2026-05-24",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+      "eventSlug": "atp-grieksp-arnaldi-2026-05-24",
+      "outcome": "Matteo Arnaldi",
+      "outcomeIndex": 1,
+      "name": "Hred3r",
+      "pseudonym": "Meek-Calibre-Comestible",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xfcda863b1609a38c43928c665012a847ce0af10503e5efdc0541dcf94c6037e3",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Roland Garros ATP: Tallon Griekspoor vs Matteo Arnaldi",
+    "market_slug": "atp-grieksp-arnaldi-2026-05-24",
+    "amount": 1531.9840000000002
   }
 ]
