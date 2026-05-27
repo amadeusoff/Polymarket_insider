@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xb64edd03c325df0d7c4776fb43cd013c87c8f1a2ca6ada569491e45b07bdccf8",
-    "wallet": "0xdb27bf2ac5d428a9c63dbc914611036855a6c56e",
-    "trader": {
-      "rank": 20,
-      "address": "0xdb27bf2ac5d428a9c63dbc914611036855a6c56e",
-      "username": "DrPufferfish",
-      "profit": 4056629.606802935,
-      "volume": 220262445.53849897,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x4133bcbad1d9c41de776646696f41c34d0a65e70",
-      "side": "BUY",
-      "asset": "10896855212367307723189950420475121026134934942555179144663752031261193447967",
-      "conditionId": "0x21649378ed4a304e302f1d2ec5be7a6815d925bbb46dd891cdbf4ad0019a5fe8",
-      "size": 1941.03,
-      "price": 0.78,
-      "timestamp": 1774173099,
-      "title": "Will Como 1907 win on 2026-03-22?",
-      "slug": "sea-com-pis-2026-03-22-com",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Serie-A-Logo.png",
-      "eventSlug": "sea-com-pis-2026-03-22",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "EF203F2IPFC2ICP20W-CP3",
-      "pseudonym": "Bogus-Fix",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xb64edd03c325df0d7c4776fb43cd013c87c8f1a2ca6ada569491e45b07bdccf8",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Como 1907 win on 2026-03-22?",
-    "market_slug": "sea-com-pis-2026-03-22",
-    "amount": 1514.0034
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xc8de24a23ac64456caa25112d5c4ea918fdcce5c8113ac78b9ffb06b610c5a7e",
     "wallet": "0xd0c042c08f755ff940249f62745e82d356345565",
     "trader": {
@@ -30433,5 +30389,49 @@
       "insider_score": 100.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xb661776c3ab4d560f6e4a93de60b8479dd97831528f732415253be3d89d13fb3",
+    "wallet": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+    "trader": {
+      "rank": 10,
+      "address": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+      "username": "walletmobile",
+      "profit": 5942685.45339684,
+      "volume": 32196692.075936034,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xf6d0642148933ea5a0c5c9ad33c1c1b517e69391",
+      "side": "BUY",
+      "asset": "45942712780956716290595528630059826510539112426790184133339143529925294470101",
+      "conditionId": "0xb8724de28f0dcdb71b55abc89f54a5788f7d7fc364160ec6a45b941d5c332988",
+      "size": 3056.31,
+      "price": 0.87,
+      "timestamp": 1779847741,
+      "title": "Spurs vs. Thunder",
+      "slug": "nba-sas-okc-2026-05-26",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-sas-okc-2026-05-26",
+      "outcome": "Thunder",
+      "outcomeIndex": 1,
+      "name": "defbank",
+      "pseudonym": "Welcome-Carotene",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xb661776c3ab4d560f6e4a93de60b8479dd97831528f732415253be3d89d13fb3",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spurs vs. Thunder",
+    "market_slug": "nba-sas-okc-2026-05-26",
+    "amount": 2658.9897
   }
 ]
