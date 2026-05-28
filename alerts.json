@@ -3,216 +3,6 @@
     "market": "Wizards vs. Knicks: O/U 226.5",
     "market_slug": "nba-was-nyk-2026-03-22-total-226pt5",
     "event_slug": "nba-was-nyk-2026-03-22-total-226pt5",
-    "wallet": "0xfb77b4362da92980ebb22e671c6548de7fa35580",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,497)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 1497.25,
-      "odds": 0.53,
-      "raw_price": 0.53,
-      "outcome": "Over",
-      "potential_pnl": 1327.75,
-      "pnl_multiplier": 0.8867924528301887,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-03-22T13:33:40.362963",
-    "trade_hash": "0x26219b9919e5f4e4f79c8871efed935fe3975abaf729e54a9a6386de684320b1",
-    "trade_timestamp": 1774186243,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Over",
-      "side": "BUY",
-      "price": 0.53,
-      "effective_price": 0.53,
-      "size": 2825.0,
-      "amount": 1497.25,
-      "potential_pnl": 1327.75,
-      "pnl_multiplier": 0.8867924528301887,
-      "is_no": false,
-      "slug": "nba-was-nyk-2026-03-22-total-226pt5",
-      "eventSlug": "nba-was-nyk-2026-03-22"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+28.4%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.246,
-      "market_price": 0.53,
-      "edge": 0.28400000000000003,
-      "edge_percent": 28.400000000000002,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Both teams score efficiently",
-          "Defensive lapses from both teams",
-          "Game pace is fast"
-        ],
-        "weakest_link": "Defensive lapses from both teams"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent scoring trends of both teams",
-        "Injury reports affecting key players"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "OVER",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.28400000000000003,
-      "edge_percent": 28.400000000000002
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 28.4,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "Wizards vs. Knicks: O/U 226.5",
-    "market_slug": "nba-was-nyk-2026-03-22-total-226pt5",
-    "event_slug": "nba-was-nyk-2026-03-22-total-226pt5",
-    "wallet": "0xdde0b9ed3f0ef8b5af469edcd0628cd56432b9a2",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,447)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 1447.43,
-      "odds": 0.53,
-      "raw_price": 0.53,
-      "outcome": "Over",
-      "potential_pnl": 1283.57,
-      "pnl_multiplier": 0.8867924528301886,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-03-22T13:33:44.011758",
-    "trade_hash": "0xbbd2b591de8ae4172db4e31000bffd14eeba6c44521b88444dc60576dbcaf1b3",
-    "trade_timestamp": 1774186243,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Over",
-      "side": "BUY",
-      "price": 0.53,
-      "effective_price": 0.53,
-      "size": 2731.0,
-      "amount": 1447.43,
-      "potential_pnl": 1283.57,
-      "pnl_multiplier": 0.8867924528301886,
-      "is_no": false,
-      "slug": "nba-was-nyk-2026-03-22-total-226pt5",
-      "eventSlug": "nba-was-nyk-2026-03-22"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+28.4%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.246,
-      "market_price": 0.53,
-      "edge": 0.28400000000000003,
-      "edge_percent": 28.400000000000002,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Both teams have strong offensive performances",
-          "Defensive weaknesses from both teams",
-          "Game pace is fast"
-        ],
-        "weakest_link": "Defensive weaknesses from both teams"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent offensive trends of both teams",
-        "Injury reports affecting key players"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "OVER",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.28400000000000003,
-      "edge_percent": 28.400000000000002
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 28.4,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "Wizards vs. Knicks: O/U 226.5",
-    "market_slug": "nba-was-nyk-2026-03-22-total-226pt5",
-    "event_slug": "nba-was-nyk-2026-03-22-total-226pt5",
     "wallet": "0x1f72d79a2ef1e4f6ee2f1b1a2f6f143b9e4b3cb8",
     "analysis": {
       "score": 70,
@@ -30454,5 +30244,93 @@
     "market": "Dota 2: LGD Gaming vs PARIVISION (BO1) - BLAST Slam Group Stage",
     "market_slug": "dota2-lgd-pari-2026-05-28",
     "amount": 1860.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xd8015950c22d1bfb53b233d73149e533a81822198254062dee329c7c2fafc24e",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "trader": {
+      "rank": 4,
+      "address": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+      "username": "RN1",
+      "profit": 9053437.05155072,
+      "volume": 594160660.2021959,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xa1d82aa07258aac95b2a7f0893f740a37ef1a786",
+      "side": "BUY",
+      "asset": "10690391194840875541563517589463912963575786539307433160985752952931887140267",
+      "conditionId": "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633",
+      "size": 11107.81,
+      "price": 0.6348763527644063,
+      "timestamp": 1779986068,
+      "title": "US-Iran nuclear deal by June 30?",
+      "slug": "us-iran-nuclear-deal-by-june-30",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-nuclear-deal-in-2025-3rpCC4Kl23Lc.jpg",
+      "eventSlug": "us-iran-nuclear-deal-by-june-30",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "IHeardLoveisallyouNeed",
+      "pseudonym": "Impolite-Pasta",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xd8015950c22d1bfb53b233d73149e533a81822198254062dee329c7c2fafc24e",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "US-Iran nuclear deal by June 30?",
+    "market_slug": "us-iran-nuclear-deal-by-june-30",
+    "amount": 7052.0859
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x779d841ce5b9c10455d053cebc5d7f26b3c6afc6ea187fbb0cf81fb8582f2258",
+    "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
+    "trader": {
+      "rank": 19,
+      "address": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
+      "username": "432614799197",
+      "profit": 4526176.046413317,
+      "volume": 185491941.63208288,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xdba81c610fdf70043035b576bd7921e7605a9acc",
+      "side": "BUY",
+      "asset": "58351404807281795581476004998460954870930196953400439077076671439671359394705",
+      "conditionId": "0x6869dd21e8ca7c8f61cfd1c24bb95bb9325b6b8147ad3b1bfc276e8184f11e65",
+      "size": 8251.07,
+      "price": 0.64,
+      "timestamp": 1779986670,
+      "title": "Roland Garros ATP: Matteo Arnaldi vs Stefanos Tsitsipas",
+      "slug": "atp-arnaldi-tsitsip-2026-05-28",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+      "eventSlug": "atp-arnaldi-tsitsip-2026-05-28",
+      "outcome": "Stefanos Tsitsipas",
+      "outcomeIndex": 1,
+      "name": "tennis1488",
+      "pseudonym": "Equatorial-Cooking",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x779d841ce5b9c10455d053cebc5d7f26b3c6afc6ea187fbb0cf81fb8582f2258",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Roland Garros ATP: Matteo Arnaldi vs Stefanos Tsitsipas",
+    "market_slug": "atp-arnaldi-tsitsip-2026-05-28",
+    "amount": 5280.6848
   }
 ]
