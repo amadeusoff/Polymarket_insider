@@ -1,110 +1,5 @@
 [
   {
-    "market": "Spread: Kings (-5.5)",
-    "market_slug": "nba-bkn-sac-2026-03-22-spread-home-5pt5",
-    "event_slug": "nba-bkn-sac-2026-03-22-spread-home-5pt5",
-    "wallet": "0x4da57f2aa5992723836a14e7e2fff2c3970005cf",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,083)",
-        "Low activity (2 txns)"
-      ],
-      "amount": 1083.3899999999999,
-      "odds": 0.49,
-      "raw_price": 0.49,
-      "outcome": "Kings",
-      "potential_pnl": 1127.6100000000001,
-      "pnl_multiplier": 1.0408163265306125,
-      "wallet_age_days": 0,
-      "total_activities": 2
-    },
-    "timestamp": "2026-03-22T11:32:09.182972",
-    "trade_hash": "0xd3f6724a9bb5fc3da8bdb839637a5615cd6c646a60bf95d87b5158df2a605135",
-    "trade_timestamp": 1774178827,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Kings",
-      "side": "BUY",
-      "price": 0.49,
-      "effective_price": 0.49,
-      "size": 2211.0,
-      "amount": 1083.3899999999999,
-      "potential_pnl": 1127.6100000000001,
-      "pnl_multiplier": 1.0408163265306125,
-      "is_no": false,
-      "slug": "nba-bkn-sac-2026-03-22-spread-home-5pt5",
-      "eventSlug": "nba-bkn-sac-2026-03-22"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+25.2%)"
-      ],
-      "category": "other",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.238,
-      "market_price": 0.49,
-      "edge": 0.252,
-      "edge_percent": 25.2,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Kings maintain a strong home-court advantage",
-          "Opposing team struggles with injuries",
-          "Kings have a favorable matchup against the opponent"
-        ],
-        "weakest_link": "Opposing team struggles with injuries"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Kings' recent performance trends",
-        "Public sentiment around the team's chances"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "KINGS",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.252,
-      "edge_percent": 25.2
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 25.2,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0x41a93417aaca39be4b487a6d4dda0b1a76d39518f4eac352873504477ab9a238",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
@@ -30445,6 +30340,119 @@
       "signal_strength": 135.0,
       "insider_score": 100.0,
       "risk_note": "High stake detected \u2014 copy with reduced sizing (25-40% of source risk)."
+    }
+  },
+  {
+    "market": "US-Iran nuclear deal by May 31?",
+    "market_slug": "us-iran-nuclear-deal-by-may",
+    "event_slug": "us-iran-nuclear-deal-by-may",
+    "wallet": "0x5ed1af44aed100017a3a6e886c9f931f55c1e54a",
+    "analysis": {
+      "score": 105,
+      "flags": [
+        "New wallet (1d old)",
+        "Against trend (8.3% effective odds)",
+        "Pre-event latency: 3813m"
+      ],
+      "amount": 672.2999999999997,
+      "odds": 0.08299999999999996,
+      "raw_price": 0.917,
+      "outcome": "No",
+      "potential_pnl": 7427.700000000001,
+      "pnl_multiplier": 11.048192771084343,
+      "wallet_age_days": 1,
+      "total_activities": 6
+    },
+    "timestamp": "2026-05-28T08:35:31.972790",
+    "trade_hash": "0x93f7bf34440e600003dcf3953c959876073110978ad5adfdbb4b2e839a6b97ea",
+    "trade_timestamp": 1779956836,
+    "latency": {
+      "latency_seconds": 228764.0,
+      "latency_minutes": 3812.733333333333,
+      "is_pre_event": true,
+      "severity": "CRITICAL",
+      "trade_time": "2026-05-28T08:27:16+00:00",
+      "event_time": "2026-05-31T00:00:00+00:00"
+    },
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.917,
+      "effective_price": 0.917,
+      "size": 8100.0,
+      "amount": 7427.700000000001,
+      "potential_pnl": 672.2999999999993,
+      "pnl_multiplier": 0.09051254089422017,
+      "is_no": true,
+      "slug": "us-iran-nuclear-deal-by-may",
+      "eventSlug": "us-iran-nuclear-deal-by-may-31-974"
+    },
+    "irrationality": {
+      "irrationality_score": 50,
+      "flags": [
+        "Category structurally prone to longshot bias",
+        "Crisis keyword detected ('nuclear')",
+        "Large mispricing edge (+41.7%)"
+      ],
+      "category": "geopolitics",
+      "category_info": {
+        "strength": "high",
+        "typical_overpricing": 0.05,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.5,
+      "market_price": 0.917,
+      "edge": 0.41700000000000004,
+      "edge_percent": 41.7,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "geopolitics",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 155,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 105,
+      "insider_position": "NO",
+      "irrationality_score": 50,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.41700000000000004,
+      "edge_percent": 41.7
+    },
+    "financial_analyst": {
+      "signal_quality": 90.0,
+      "stance": "HIGH_CONVICTION",
+      "edge_percent": 41.7,
+      "signal_strength": 155.0,
+      "insider_score": 105.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
   }
 ]
