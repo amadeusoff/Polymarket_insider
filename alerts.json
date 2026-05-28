@@ -1,93 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x41a93417aaca39be4b487a6d4dda0b1a76d39518f4eac352873504477ab9a238",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x8c70d61931a76e0ae70d1b1117b1f079c7cd1d71",
-      "side": "BUY",
-      "asset": "28768249851410180909622261371472073512315499066065983745623858206669494712500",
-      "conditionId": "0x2491d56b8baeb8f355867f039b5915826bb1eee50b9b5c97b420e414df753790",
-      "size": 2000,
-      "price": 0.75,
-      "timestamp": 1774183303,
-      "title": "Counter-Strike: TYLOO vs Team Falcons (BO3) - BLAST Open Rotterdam Group A",
-      "slug": "cs2-tyloo-fal2-2026-03-22",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/counter-strike-image-16c415c538.png",
-      "eventSlug": "cs2-tyloo-fal2-2026-03-22",
-      "outcome": "Team Falcons",
-      "outcomeIndex": 1,
-      "name": "ShushAndro",
-      "pseudonym": "Graceful-Patriot",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x41a93417aaca39be4b487a6d4dda0b1a76d39518f4eac352873504477ab9a238",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Counter-Strike: TYLOO vs Team Falcons (BO3) - BLAST Open Rotterdam Group A",
-    "market_slug": "cs2-tyloo-fal2-2026-03-22",
-    "amount": 1500.0
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x906b6311f0a0de3964f1a0ba1cef11446c333b60c2f9eba5db5e3d952fc0ced9",
-    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-    "trader": {
-      "rank": 18,
-      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
-      "profit": 4543350.9968061345,
-      "volume": 60006795.13364801,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xb8d3df4227ae5f009297da3005e2042464f70e0f",
-      "side": "BUY",
-      "asset": "47356973464997605719605174397696115680094145199547305062587856474628607811266",
-      "conditionId": "0xd3f429ccc2d3b6280cb846678d9fdad454216e4285970dee67ec3e6dfe6992f5",
-      "size": 30900,
-      "price": 0.18,
-      "timestamp": 1774184205,
-      "title": "Will FC Barcelona win on 2026-03-22?",
-      "slug": "lal-bar-ray-2026-03-22-bar",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-lal.png",
-      "eventSlug": "lal-bar-ray-2026-03-22",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "SonOfAMillionaire",
-      "pseudonym": "Miniature-Conspiracy",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x906b6311f0a0de3964f1a0ba1cef11446c333b60c2f9eba5db5e3d952fc0ced9",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will FC Barcelona win on 2026-03-22?",
-    "market_slug": "lal-bar-ray-2026-03-22",
-    "amount": 25338.000000000004
-  },
-  {
     "market": "Wizards vs. Knicks: O/U 226.5",
     "market_slug": "nba-was-nyk-2026-03-22-total-226pt5",
     "event_slug": "nba-was-nyk-2026-03-22-total-226pt5",
@@ -30454,5 +30366,93 @@
       "insider_score": 105.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x566eb2271e8cc2b73bf7976319961a162179564af6e99a7d4f3529406c5efa0d",
+    "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+    "trader": {
+      "rank": 14,
+      "address": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+      "username": "beachboy4",
+      "profit": 5103013.884809761,
+      "volume": 221493209.143091,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+      "side": "BUY",
+      "asset": "89206935970489207321360719694280731678454546188325660408676485215059597410977",
+      "conditionId": "0x0d4913323a8df2db0f1bf1287e5a97a42eefa30d17eb84a5c22dad7932730dde",
+      "size": 5825.96,
+      "price": 0.75,
+      "timestamp": 1779970397,
+      "title": "Roland Garros ATP: Facundo Acosta vs Learner Tien",
+      "slug": "atp-acosta-tien-2026-05-28",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+      "eventSlug": "atp-acosta-tien-2026-05-28",
+      "outcome": "Facundo Acosta",
+      "outcomeIndex": 0,
+      "name": "HomeRunHazard",
+      "pseudonym": "Powerless-Savannah",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x566eb2271e8cc2b73bf7976319961a162179564af6e99a7d4f3529406c5efa0d",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Roland Garros ATP: Facundo Acosta vs Learner Tien",
+    "market_slug": "atp-acosta-tien-2026-05-28",
+    "amount": 4369.47
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x356c0afab9a85c40747c935d2810f01435ff6d2f040637119d4d36528b4e8f12",
+    "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+    "trader": {
+      "rank": 14,
+      "address": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+      "username": "beachboy4",
+      "profit": 5103013.884809761,
+      "volume": 221493209.143091,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xc0f5345be7d24194892f10627123ffe91c633d04",
+      "side": "BUY",
+      "asset": "3691093980078454138642535463026058774195331486659313246607852230171366739388",
+      "conditionId": "0x1a8060f47bb84d829475ca18fd997ee81e28b2a99dc0b1451612409383a6f4ac",
+      "size": 3000,
+      "price": 0.62,
+      "timestamp": 1779970395,
+      "title": "Dota 2: LGD Gaming vs PARIVISION (BO1) - BLAST Slam Group Stage",
+      "slug": "dota2-lgd-pari-2026-05-28",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/dota2-7ffacddb21.jpg",
+      "eventSlug": "dota2-lgd-pari-2026-05-28",
+      "outcome": "LGD Gaming",
+      "outcomeIndex": 0,
+      "name": "hff.",
+      "pseudonym": "Cautious-Vine",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x356c0afab9a85c40747c935d2810f01435ff6d2f040637119d4d36528b4e8f12",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Dota 2: LGD Gaming vs PARIVISION (BO1) - BLAST Slam Group Stage",
+    "market_slug": "dota2-lgd-pari-2026-05-28",
+    "amount": 1860.0
   }
 ]
