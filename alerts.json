@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xc8de24a23ac64456caa25112d5c4ea918fdcce5c8113ac78b9ffb06b610c5a7e",
-    "wallet": "0xd0c042c08f755ff940249f62745e82d356345565",
-    "trader": {
-      "rank": 15,
-      "address": "0xd0c042c08f755ff940249f62745e82d356345565",
-      "username": "alexmulti",
-      "profit": 4804855.613376001,
-      "volume": 9949068.653841998,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xd6a3f0ec6c4a8ad680d580610c82ca57ff139489",
-      "side": "BUY",
-      "asset": "103491216767210650067963311806500077290366308182875048024946526364182501056610",
-      "conditionId": "0xcee804b84eb7414c780ebb5d0bfcdde8b4b9c424a3b4bc5ef4792193048f5b44",
-      "size": 5588.77,
-      "price": 0.56,
-      "timestamp": 1774175499,
-      "title": "Como 1907 vs. Pisa SC: O/U 2.5",
-      "slug": "sea-com-pis-2026-03-22-total-2pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Serie-A-Logo.png",
-      "eventSlug": "sea-com-pis-2026-03-22-more-markets",
-      "outcome": "Over",
-      "outcomeIndex": 0,
-      "name": "knedloveprovelo",
-      "pseudonym": "Weighty-Rifle",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xc8de24a23ac64456caa25112d5c4ea918fdcce5c8113ac78b9ffb06b610c5a7e",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Como 1907 vs. Pisa SC: O/U 2.5",
-    "market_slug": "sea-com-pis-2026-03-22-more-markets",
-    "amount": 3129.7112000000006
-  },
-  {
     "market": "Spread: Kings (-5.5)",
     "market_slug": "nba-bkn-sac-2026-03-22-spread-home-5pt5",
     "event_slug": "nba-bkn-sac-2026-03-22-spread-home-5pt5",
@@ -30433,5 +30389,49 @@
     "market": "Spurs vs. Thunder",
     "market_slug": "nba-sas-okc-2026-05-26",
     "amount": 2658.9897
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x76e783943c62cfaa02a5cf8fe6cec0e356ea4a32d6a3757004ef31cce889451d",
+    "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+    "trader": {
+      "rank": 11,
+      "address": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+      "username": "KeyTransporter",
+      "profit": 5711459.802519929,
+      "volume": 20086062.154324997,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
+      "side": "BUY",
+      "asset": "55492439440677421927522420650735236866647329767839105951851747584950260767788",
+      "conditionId": "0x460a7b654c9c2d4f8c36fe5e2b67bc122e9d49b2fc7e2941796a3a465311a2d7",
+      "size": 18124.72,
+      "price": 0.5,
+      "timestamp": 1779927508,
+      "title": "LoL: Supernova vs Winthrop University (BO5) - North American Challengers League Playoffs",
+      "slug": "lol-sn-wu-2026-05-27",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
+      "eventSlug": "lol-sn-wu-2026-05-27",
+      "outcome": "Supernova",
+      "outcomeIndex": 0,
+      "name": "iDARKenjoyer",
+      "pseudonym": "Corrupt-Poisoning",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-2123373-d9b1d775-51b8-4b01-98c0-97369efe2abe.webp",
+      "profileImageOptimized": "",
+      "transactionHash": "0x76e783943c62cfaa02a5cf8fe6cec0e356ea4a32d6a3757004ef31cce889451d",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "LoL: Supernova vs Winthrop University (BO5) - North American Challengers League Playoffs",
+    "market_slug": "lol-sn-wu-2026-05-27",
+    "amount": 9062.36
   }
 ]
