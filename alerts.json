@@ -3,111 +3,6 @@
     "market": "Spread: Raptors (-1.5)",
     "market_slug": "nba-tor-phx-2026-03-22-spread-away-1pt5",
     "event_slug": "nba-tor-phx-2026-03-22-spread-away-1pt5",
-    "wallet": "0xebeb6fbee9f6cc7fc2386c4f5980292e57a1ce76",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,527)",
-        "Low activity (2 txns)"
-      ],
-      "amount": 1526.5800000000002,
-      "odds": 0.54,
-      "raw_price": 0.54,
-      "outcome": "Raptors",
-      "potential_pnl": 1300.4199999999998,
-      "pnl_multiplier": 0.8518518518518516,
-      "wallet_age_days": 0,
-      "total_activities": 2
-    },
-    "timestamp": "2026-03-22T14:32:44.219890",
-    "trade_hash": "0xb6388a8a8c36cac306709a956e17bdb9c4797629dcf079c696946299864a0b86",
-    "trade_timestamp": 1774189637,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Raptors",
-      "side": "BUY",
-      "price": 0.54,
-      "effective_price": 0.54,
-      "size": 2827.0,
-      "amount": 1526.5800000000002,
-      "potential_pnl": 1300.4199999999998,
-      "pnl_multiplier": 0.8518518518518516,
-      "is_no": false,
-      "slug": "nba-tor-phx-2026-03-22-spread-away-1pt5",
-      "eventSlug": "nba-tor-phx-2026-03-22"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+29.2%)"
-      ],
-      "category": "other",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.248,
-      "market_price": 0.54,
-      "edge": 0.29200000000000004,
-      "edge_percent": 29.200000000000003,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Raptors' key players perform at peak levels",
-          "Opposing team has significant injuries",
-          "Home court advantage plays a crucial role"
-        ],
-        "weakest_link": "Opposing team has significant injuries"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "team performance trends",
-        "injury reports"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "RAPTORS",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.29200000000000004,
-      "edge_percent": 29.200000000000003
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 29.2,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "Spread: Raptors (-1.5)",
-    "market_slug": "nba-tor-phx-2026-03-22-spread-away-1pt5",
-    "event_slug": "nba-tor-phx-2026-03-22-spread-away-1pt5",
     "wallet": "0xf03368ac163234dcae340f32fd3438786d316f43",
     "analysis": {
       "score": 70,
@@ -30215,5 +30110,109 @@
     "market": "Set Handicap: Ruud (-1.5) vs Paul (+1.5)",
     "market_slug": "atp-ruud-paul-2026-05-29",
     "amount": 1999.9999990000001
+  },
+  {
+    "market": "Los Angeles Angels vs. Tampa Bay Rays",
+    "market_slug": "mlb-laa-tb-2026",
+    "event_slug": "mlb-laa-tb-2026",
+    "wallet": "0x677a4402f0c71955ba7b017ffb7cd43756af1d52",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($4,760)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 4759.609999,
+      "odds": 0.5899999999652913,
+      "raw_price": 0.5899999999652913,
+      "outcome": "Tampa Bay Rays",
+      "potential_pnl": 3307.5255930000003,
+      "pnl_multiplier": 0.6949152543369972,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-05-29T22:41:44.756288",
+    "trade_hash": "0xeb0384af10c9bba0e10785a1675b84b3b8f33dde7b1cbd2b3a33c8e72413f6e3",
+    "trade_timestamp": 1780094174,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Tampa Bay Rays",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.5899999999652913,
+      "effective_price": 0.5899999999652913,
+      "size": 8067.135592,
+      "amount": 4759.609999,
+      "potential_pnl": 3307.5255929999994,
+      "pnl_multiplier": 0.6949152543369971,
+      "is_no": false,
+      "slug": "mlb-laa-tb-2026",
+      "eventSlug": "mlb-laa-tb-2026-05-29"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+19.6%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.3934999999861165,
+      "market_price": 0.5899999999652913,
+      "edge": 0.19649999997917478,
+      "edge_percent": 19.649999997917476,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 105,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 70,
+      "insider_position": "NO",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.19649999997917478,
+      "edge_percent": 19.649999997917476
+    },
+    "financial_analyst": {
+      "signal_quality": 81.0,
+      "stance": "HIGH_CONVICTION",
+      "edge_percent": 19.65,
+      "signal_strength": 105.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
