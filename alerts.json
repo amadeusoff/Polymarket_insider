@@ -1,110 +1,5 @@
 [
   {
-    "market": "Wizards vs. Knicks: O/U 226.5",
-    "market_slug": "nba-was-nyk-2026-03-22-total-226pt5",
-    "event_slug": "nba-was-nyk-2026-03-22-total-226pt5",
-    "wallet": "0x1f72d79a2ef1e4f6ee2f1b1a2f6f143b9e4b3cb8",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,191)",
-        "Low activity (2 txns)"
-      ],
-      "amount": 1191.44,
-      "odds": 0.53,
-      "raw_price": 0.53,
-      "outcome": "Over",
-      "potential_pnl": 1056.56,
-      "pnl_multiplier": 0.8867924528301886,
-      "wallet_age_days": 0,
-      "total_activities": 2
-    },
-    "timestamp": "2026-03-22T13:33:47.652375",
-    "trade_hash": "0x998a98401afa41f41a16ceeffe849c9683cbd74b1d382f1afd0aec88e3a50295",
-    "trade_timestamp": 1774186243,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Over",
-      "side": "BUY",
-      "price": 0.53,
-      "effective_price": 0.53,
-      "size": 2248.0,
-      "amount": 1191.44,
-      "potential_pnl": 1056.56,
-      "pnl_multiplier": 0.8867924528301886,
-      "is_no": false,
-      "slug": "nba-was-nyk-2026-03-22-total-226pt5",
-      "eventSlug": "nba-was-nyk-2026-03-22"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+28.4%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.246,
-      "market_price": 0.53,
-      "edge": 0.28400000000000003,
-      "edge_percent": 28.400000000000002,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Both teams have strong offensive performances",
-          "Defensive weaknesses from both teams",
-          "Favorable refereeing decisions leading to more fouls and free throws"
-        ],
-        "weakest_link": "Defensive weaknesses from both teams"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent high-scoring games by both teams",
-        "Injury reports affecting key defensive players"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "OVER",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.28400000000000003,
-      "edge_percent": 28.400000000000002
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 28.4,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "market": "UCLA Bruins vs. Connecticut Huskies: O/U 137.5",
     "market_slug": "cbb-ucla-uconn-2026-03-22-total-137pt5",
     "event_slug": "cbb-ucla-uconn-2026-03-22-total-137pt5",
@@ -30332,5 +30227,49 @@
     "market": "Roland Garros ATP: Matteo Arnaldi vs Stefanos Tsitsipas",
     "market_slug": "atp-arnaldi-tsitsip-2026-05-28",
     "amount": 5280.6848
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x72fff2f952a3830cfaeacaa5d2584bb9b91f30a81216843b801a9664dae5b27b",
+    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+    "trader": {
+      "rank": 12,
+      "address": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+      "username": "BetTom42",
+      "profit": 5642135.735356,
+      "volume": 11212839.523403002,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+      "side": "BUY",
+      "asset": "60115970267703212992426605505291140146512904439386478204146216848307664185101",
+      "conditionId": "0xaeed2fb5cf4ee503ba41e872ca2db0d7f3e04225dfd63fa109b0581a0d387f6e",
+      "size": 3817.63,
+      "price": 0.5,
+      "timestamp": 1780014019,
+      "title": "Spread: Spurs (-3.5)",
+      "slug": "nba-okc-sas-2026-05-28-spread-home-3pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-okc-sas-2026-05-28",
+      "outcome": "Spurs",
+      "outcomeIndex": 0,
+      "name": "mooseborzoi",
+      "pseudonym": "Agitated-Bricklaying",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x72fff2f952a3830cfaeacaa5d2584bb9b91f30a81216843b801a9664dae5b27b",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spread: Spurs (-3.5)",
+    "market_slug": "nba-okc-sas-2026-05-28",
+    "amount": 1908.815
   }
 ]
