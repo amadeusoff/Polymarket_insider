@@ -30182,7 +30182,8 @@
     },
     "market": "US-Iran nuclear deal by June 30?",
     "market_slug": "us-iran-nuclear-deal-by-june-30",
-    "amount": 7052.0859
+    "amount": 7052.0859,
+    "resolution_last_check": "2026-05-29T09:58:03.404818+00:00"
   },
   {
     "type": "TOP_TRADER",
