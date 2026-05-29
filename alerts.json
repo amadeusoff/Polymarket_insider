@@ -1,259 +1,5 @@
 [
   {
-    "market": "UCLA Bruins vs. Connecticut Huskies: O/U 137.5",
-    "market_slug": "cbb-ucla-uconn-2026-03-22-total-137pt5",
-    "event_slug": "cbb-ucla-uconn-2026-03-22-total-137pt5",
-    "wallet": "0xe5b6068b152a8afcbc73c91c3a9b3f3068bd5b6f",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($19,123)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 19123.121,
-      "odds": 0.5263877908973997,
-      "raw_price": 0.5263877908973997,
-      "outcome": "Under",
-      "potential_pnl": 17205.839,
-      "pnl_multiplier": 0.8997401104139853,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-03-22T13:33:53.860446",
-    "trade_hash": "0x0fa771fe429495c3b24ea7ca0e462a5d98e6d98c0f70908863148f89cd61472d",
-    "trade_timestamp": 1774186135,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Under",
-      "side": "BUY",
-      "price": 0.5263877908973997,
-      "effective_price": 0.5263877908973997,
-      "size": 36328.96,
-      "amount": 19123.121,
-      "potential_pnl": 17205.839,
-      "pnl_multiplier": 0.8997401104139853,
-      "is_no": false,
-      "slug": "cbb-ucla-uconn-2026-03-22-total-137pt5",
-      "eventSlug": "cbb-ucla-uconn-2026-03-22"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+28.1%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.24527755817947994,
-      "market_price": 0.5263877908973997,
-      "edge": 0.2811102327179198,
-      "edge_percent": 28.11102327179198,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Both teams have high-scoring offenses",
-          "Defensive strategies are ineffective",
-          "Game pace is fast"
-        ],
-        "weakest_link": "Defensive strategies are ineffective"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent high-scoring games by both teams",
-        "Increased pace of play in recent matchups"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "UNDER",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.2811102327179198,
-      "edge_percent": 28.11102327179198
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 28.11,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x965b9a99ccf86d247d7a7eddd35a9eedc8e1f2c3f9c79f4ad1a2a2fbf549e1d9",
-    "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
-    "trader": {
-      "rank": 16,
-      "address": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
-      "username": "beachboy4",
-      "profit": 4736823.768438156,
-      "volume": 197968001.744251,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x52b790b7de338e19e1e16acffdc73d3dbc10fefc",
-      "side": "BUY",
-      "asset": "71377433182851205680841246761509083153295115718889472943162377235871441027308",
-      "conditionId": "0x6d144dddc554495534ed86a1f678a30018a8c3e966050559b0590ebedf3c5367",
-      "size": 9415.909089,
-      "price": 0.4399999999830075,
-      "timestamp": 1774188701,
-      "title": "Will Arsenal FC win on 2026-03-22?",
-      "slug": "efl-ars-mnc-2026-03-22-ars-win",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/carabao-cup-logo-3ea964b550.png",
-      "eventSlug": "efl-ars-mnc-2026-03-22",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "0x52b790B7De338e19e1e16aCFFdC73D3dBC10feFc-1768233299614",
-      "pseudonym": "Reckless-Chronograph",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x965b9a99ccf86d247d7a7eddd35a9eedc8e1f2c3f9c79f4ad1a2a2fbf549e1d9",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Arsenal FC win on 2026-03-22?",
-    "market_slug": "efl-ars-mnc-2026-03-22",
-    "amount": 4142.999999000001
-  },
-  {
-    "market": "Spread: Raptors (-1.5)",
-    "market_slug": "nba-tor-phx-2026-03-22-spread-away-1pt5",
-    "event_slug": "nba-tor-phx-2026-03-22-spread-away-1pt5",
-    "wallet": "0xd8aaee0ab26d890c7e06170253a845fd3f61271b",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,507)",
-        "Low activity (2 txns)"
-      ],
-      "amount": 1506.6000000000001,
-      "odds": 0.54,
-      "raw_price": 0.54,
-      "outcome": "Raptors",
-      "potential_pnl": 1283.3999999999999,
-      "pnl_multiplier": 0.8518518518518516,
-      "wallet_age_days": 0,
-      "total_activities": 2
-    },
-    "timestamp": "2026-03-22T14:32:41.181635",
-    "trade_hash": "0x0c8020cea1ec6b97135f0dfd367c2c0994954e04168141155ace6da868f8cb27",
-    "trade_timestamp": 1774189639,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Raptors",
-      "side": "BUY",
-      "price": 0.54,
-      "effective_price": 0.54,
-      "size": 2790.0,
-      "amount": 1506.6000000000001,
-      "potential_pnl": 1283.3999999999999,
-      "pnl_multiplier": 0.8518518518518516,
-      "is_no": false,
-      "slug": "nba-tor-phx-2026-03-22-spread-away-1pt5",
-      "eventSlug": "nba-tor-phx-2026-03-22"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+29.2%)"
-      ],
-      "category": "other",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.248,
-      "market_price": 0.54,
-      "edge": 0.29200000000000004,
-      "edge_percent": 29.200000000000003,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Raptors maintain strong home court advantage",
-          "Key players perform at or above average",
-          "Opposing team struggles with injuries or poor performance"
-        ],
-        "weakest_link": "Opposing team struggles with injuries or poor performance"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent performance trends of the Raptors",
-        "Injuries affecting the opposing team"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "RAPTORS",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.29200000000000004,
-      "edge_percent": 29.200000000000003
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 29.2,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "market": "Spread: Raptors (-1.5)",
     "market_slug": "nba-tor-phx-2026-03-22-spread-away-1pt5",
     "event_slug": "nba-tor-phx-2026-03-22-spread-away-1pt5",
@@ -30272,5 +30018,202 @@
     "market": "Spread: Spurs (-3.5)",
     "market_slug": "nba-okc-sas-2026-05-28",
     "amount": 1908.815
+  },
+  {
+    "market": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 31, 2026?",
+    "market_slug": "will-donald-trump-announce-that-the-united-states-blockade-of-the-strait-of-hormuz-has-been-lifted-by-may-31-2026-313-388-459",
+    "event_slug": "will-donald-trump-announce-that-the-united-states-blockade-of-the-strait-of-hormuz-has-been-lifted-by-may-31-2026-313-388-459",
+    "wallet": "0xfe1cee9005401c8285a9d3bcfc4358c34d1802bb",
+    "analysis": {
+      "score": 80,
+      "flags": [
+        "New wallet (5d old)",
+        "Large bet ($2,912)",
+        "Pre-event latency: 1926m"
+      ],
+      "amount": 2911.764705,
+      "odds": 0.6600000000816,
+      "raw_price": 0.3399999999184,
+      "outcome": "No",
+      "potential_pnl": 1499.9999990000001,
+      "pnl_multiplier": 0.5151515149641873,
+      "wallet_age_days": 5,
+      "total_activities": 100
+    },
+    "timestamp": "2026-05-29T16:03:17.230372",
+    "trade_hash": "0x97abc09d1047b17c8f2fa75ea36dd3928d2b418e95b3469bf0fd147bba6e79bd",
+    "trade_timestamp": 1780070052,
+    "latency": {
+      "latency_seconds": 115548.0,
+      "latency_minutes": 1925.8,
+      "is_pre_event": true,
+      "severity": "CRITICAL",
+      "trade_time": "2026-05-29T15:54:12+00:00",
+      "event_time": "2026-05-31T00:00:00+00:00"
+    },
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.3399999999184,
+      "effective_price": 0.3399999999184,
+      "size": 4411.764704,
+      "amount": 1499.9999990000001,
+      "potential_pnl": 2911.764705,
+      "pnl_multiplier": 1.9411764712941175,
+      "is_no": true,
+      "slug": "will-donald-trump-announce-that-the-united-states-blockade-of-the-strait-of-hormuz-has-been-lifted-by-may-31-2026-313-388-459",
+      "eventSlug": "trump-announces-us-blockade-of-hormuz-lifted-by"
+    },
+    "irrationality": {
+      "irrationality_score": 10,
+      "flags": [],
+      "category": "politics_near",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.02,
+        "min_edge": 0.03
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.29349999996736,
+      "market_price": 0.3399999999184,
+      "edge": 0.04649999995104004,
+      "edge_percent": 4.649999995104004,
+      "min_edge_required": 0.03,
+      "is_mispriced": true,
+      "edge_quality": "MODERATE",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 90,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 80,
+      "insider_position": "NO",
+      "irrationality_score": 10,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.04649999995104004,
+      "edge_percent": 4.649999995104004
+    },
+    "financial_analyst": {
+      "signal_quality": 60.0,
+      "stance": "SELECTIVE",
+      "edge_percent": 4.65,
+      "signal_strength": 90.0,
+      "insider_score": 80.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x234a7d3c362a9d1c9995ec9b7738a4e46e9c1570538800ef8dacf7bfa361fb1c",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "trader": {
+      "rank": 5,
+      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "username": "swisstony",
+      "profit": 9032426.635924105,
+      "volume": 827838113.4084551,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x69adf268789f93b2c4da978870af74ae945f31e6",
+      "side": "BUY",
+      "asset": "463279187382621806897421646033808118564827302421257202657897938951312627330",
+      "conditionId": "0x3d86f4e2a626306b0ce92a0b3f3546bf5786467bb8742acbeee171691b62ede9",
+      "size": 3526,
+      "price": 0.63,
+      "timestamp": 1780070637,
+      "title": "Indian Premier League: Gujarat Titans vs Rajasthan Royals",
+      "slug": "cricipl-guj-raj-2026-05-29",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+      "eventSlug": "cricipl-guj-raj-2026-05-29",
+      "outcome": "Rajasthan Royals",
+      "outcomeIndex": 1,
+      "name": "ferenc89",
+      "pseudonym": "Zigzag-Logistics",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-6294534-c7fd83ce-7238-420c-89fb-f22e73fd423a.png",
+      "profileImageOptimized": "",
+      "transactionHash": "0x234a7d3c362a9d1c9995ec9b7738a4e46e9c1570538800ef8dacf7bfa361fb1c",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Indian Premier League: Gujarat Titans vs Rajasthan Royals",
+    "market_slug": "cricipl-guj-raj-2026-05-29",
+    "amount": 2221.38
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x8c618ef06f1cb52f53f5bd0985dad83d72e363d0624771cc17fcee905cf4b82c",
+    "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+    "trader": {
+      "rank": 11,
+      "address": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+      "username": "KeyTransporter",
+      "profit": 5711459.802519929,
+      "volume": 20086062.154324993,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xcd65c3279408a33866a9129bed6943064cb6ee96",
+      "side": "BUY",
+      "asset": "27461892481079191806611035709822971313974256723742380025599910772208378255132",
+      "conditionId": "0xbc220fdc68b5aa23c11d51b2b63bdd56c9615e4166674e40b155dbd61265a19c",
+      "size": 4449.351332,
+      "price": 0.44950372532190946,
+      "timestamp": 1780070938,
+      "title": "Set Handicap: Ruud (-1.5) vs Paul (+1.5)",
+      "slug": "atp-ruud-paul-2026-05-29-set-handicap-home-1pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+      "eventSlug": "atp-ruud-paul-2026-05-29",
+      "outcome": "Paul",
+      "outcomeIndex": 1,
+      "name": "NiNo999",
+      "pseudonym": "Frosty-Layer-Numismatist",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x8c618ef06f1cb52f53f5bd0985dad83d72e363d0624771cc17fcee905cf4b82c",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Set Handicap: Ruud (-1.5) vs Paul (+1.5)",
+    "market_slug": "atp-ruud-paul-2026-05-29",
+    "amount": 1999.9999990000001
   }
 ]
