@@ -1,110 +1,5 @@
 [
   {
-    "market": "Spread: Raptors (-1.5)",
-    "market_slug": "nba-tor-phx-2026-03-22-spread-away-1pt5",
-    "event_slug": "nba-tor-phx-2026-03-22-spread-away-1pt5",
-    "wallet": "0xf03368ac163234dcae340f32fd3438786d316f43",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,443)",
-        "Low activity (2 txns)"
-      ],
-      "amount": 1443.42,
-      "odds": 0.54,
-      "raw_price": 0.54,
-      "outcome": "Raptors",
-      "potential_pnl": 1229.58,
-      "pnl_multiplier": 0.8518518518518517,
-      "wallet_age_days": 0,
-      "total_activities": 2
-    },
-    "timestamp": "2026-03-22T14:32:58.236365",
-    "trade_hash": "0x220fa80554f2082bd392f7fddf5c2eacf3915f9ac6d19d85eb1ee680e7afa137",
-    "trade_timestamp": 1774189637,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Raptors",
-      "side": "BUY",
-      "price": 0.54,
-      "effective_price": 0.54,
-      "size": 2673.0,
-      "amount": 1443.42,
-      "potential_pnl": 1229.58,
-      "pnl_multiplier": 0.8518518518518517,
-      "is_no": false,
-      "slug": "nba-tor-phx-2026-03-22-spread-away-1pt5",
-      "eventSlug": "nba-tor-phx-2026-03-22"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+29.2%)"
-      ],
-      "category": "other",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.248,
-      "market_price": 0.54,
-      "edge": 0.29200000000000004,
-      "edge_percent": 29.200000000000003,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Raptors maintain strong home court advantage",
-          "Key players remain healthy",
-          "Opposing team underperforms"
-        ],
-        "weakest_link": "Opposing team underperforms"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent performance trends",
-        "Injury reports"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "RAPTORS",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.29200000000000004,
-      "edge_percent": 29.200000000000003
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 29.2,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "market": "Spread: Raptors (-2.5)",
     "market_slug": "nba-tor-phx-2026-03-22-spread-away-2pt5",
     "event_slug": "nba-tor-phx-2026-03-22-spread-away-2pt5",
@@ -30214,5 +30109,49 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x7ce1264b40adfe89887caf5c22b95eb83b393f94ff6580daa1d1b8659fe8b849",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "trader": {
+      "rank": 4,
+      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "username": "swisstony",
+      "profit": 9139777.246979974,
+      "volume": 832552653.2405623,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x86fbea68d619daf670185ecd38a69aa90f7703d4",
+      "side": "BUY",
+      "asset": "48266155784016844137166283546442505319002353733298913457784203021568892550163",
+      "conditionId": "0x5dc96d5b6d416507a833231f23a08c69cd04592031519e2d225e2d9860e978cf",
+      "size": 7575.757574,
+      "price": 0.32999999994456,
+      "timestamp": 1780155573,
+      "title": "Will Arsenal FC win on 2026-05-30?",
+      "slug": "ucl-psg-ars-2026-05-30-ars",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/champions-league-pic-QIUFsL8vaDdq.png",
+      "eventSlug": "ucl-psg-ars-2026-05-30",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "",
+      "pseudonym": "",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x7ce1264b40adfe89887caf5c22b95eb83b393f94ff6580daa1d1b8659fe8b849",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Arsenal FC win on 2026-05-30?",
+    "market_slug": "ucl-psg-ars-2026-05-30",
+    "amount": 2499.9999989999997
   }
 ]
