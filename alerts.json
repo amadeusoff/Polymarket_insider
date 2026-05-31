@@ -1,110 +1,5 @@
 [
   {
-    "market": "Spread: Celtics (-9.5)",
-    "market_slug": "nba-min-bos-2026-03-22-spread-home-9pt5",
-    "event_slug": "nba-min-bos-2026-03-22-spread-home-9pt5",
-    "wallet": "0x5205895f86bcf3c5b08eab7ef3796aee2115ca3e",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($2,246)",
-        "Low activity (4 txns)"
-      ],
-      "amount": 2245.92,
-      "odds": 0.48,
-      "raw_price": 0.48,
-      "outcome": "Timberwolves",
-      "potential_pnl": 2433.08,
-      "pnl_multiplier": 1.0833333333333333,
-      "wallet_age_days": 0,
-      "total_activities": 4
-    },
-    "timestamp": "2026-03-22T14:55:49.197366",
-    "trade_hash": "0x7d5b7af2c3185f8396dc1d9bf349746a300e12b4fe7a211cdd48d46467fb1ff6",
-    "trade_timestamp": 1774191235,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Timberwolves",
-      "side": "BUY",
-      "price": 0.48,
-      "effective_price": 0.48,
-      "size": 4679.0,
-      "amount": 2245.92,
-      "potential_pnl": 2433.08,
-      "pnl_multiplier": 1.0833333333333333,
-      "is_no": false,
-      "slug": "nba-min-bos-2026-03-22-spread-home-9pt5",
-      "eventSlug": "nba-min-bos-2026-03-22"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+24.4%)"
-      ],
-      "category": "other",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.236,
-      "market_price": 0.48,
-      "edge": 0.244,
-      "edge_percent": 24.4,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Celtics maintain a strong home court advantage",
-          "Celtics' key players perform at or above their average level",
-          "Opponent's performance is significantly below their average"
-        ],
-        "weakest_link": "Opponent's performance is significantly below their average"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Celtics' recent performance trends",
-        "Injury status of key players on both teams"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "TIMBERWOLVES",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.244,
-      "edge_percent": 24.4
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 24.4,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "market": "Raptors vs. Suns: O/U 220.5",
     "market_slug": "nba-tor-phx-2026-03-22-total-220pt5",
     "event_slug": "nba-tor-phx-2026-03-22-total-220pt5",
@@ -30031,5 +29926,109 @@
     "market": "LoL: FlyQuest vs Sentinels - Game 1 Winner",
     "market_slug": "lol-fly-sen-2026-05-30",
     "amount": 1509.69
+  },
+  {
+    "market": "Philadelphia Phillies vs. Los Angeles Dodgers: O/U 8.5",
+    "market_slug": "mlb-phi-lad-2026-05-30-total-8pt5",
+    "event_slug": "mlb-phi-lad-2026-05-30-total-8pt5",
+    "wallet": "0xb7ef3a620c91eccdf523094f604c84f6fcac372c",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,468)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 1468.389999,
+      "odds": 0.5099999999062238,
+      "raw_price": 0.5099999999062238,
+      "outcome": "Under",
+      "potential_pnl": 1410.806078,
+      "pnl_multiplier": 0.9607843140860292,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-05-31T01:53:40.608588",
+    "trade_hash": "0x8d4972bfb7a57965b7c57af2eba7969383b6383cd346e61acb27cd32a8a237ea",
+    "trade_timestamp": 1780191761,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Under",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.5099999999062238,
+      "effective_price": 0.5099999999062238,
+      "size": 2879.196077,
+      "amount": 1468.389999,
+      "potential_pnl": 1410.806078,
+      "pnl_multiplier": 0.9607843140860292,
+      "is_no": true,
+      "slug": "mlb-phi-lad-2026-05-30-total-8pt5",
+      "eventSlug": "mlb-phi-lad-2026-05-30"
+    },
+    "irrationality": {
+      "irrationality_score": 25,
+      "flags": [
+        "Significant mispricing edge (+14.8%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.3614999999624895,
+      "market_price": 0.5099999999062238,
+      "edge": 0.1484999999437343,
+      "edge_percent": 14.84999999437343,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 95,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 70,
+      "insider_position": "NO",
+      "irrationality_score": 25,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.1484999999437343,
+      "edge_percent": 14.84999999437343
+    },
+    "financial_analyst": {
+      "signal_quality": 76.3,
+      "stance": "HIGH_CONVICTION",
+      "edge_percent": 14.85,
+      "signal_strength": 95.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
