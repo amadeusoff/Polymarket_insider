@@ -3,111 +3,6 @@
     "market": "Raptors vs. Suns: O/U 220.5",
     "market_slug": "nba-tor-phx-2026-03-22-total-220pt5",
     "event_slug": "nba-tor-phx-2026-03-22-total-220pt5",
-    "wallet": "0x0e07f371edef3b5fd78c6ff8df8d41ac0ba61306",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($2,379)",
-        "Low activity (4 txns)"
-      ],
-      "amount": 2378.88,
-      "odds": 0.48,
-      "raw_price": 0.48,
-      "outcome": "Over",
-      "potential_pnl": 2577.12,
-      "pnl_multiplier": 1.0833333333333333,
-      "wallet_age_days": 0,
-      "total_activities": 4
-    },
-    "timestamp": "2026-03-22T14:55:55.280971",
-    "trade_hash": "0xbaaff5483e0bd54bacd2c12264e0f328fb9eb20fc7895944898afb0bc08f8c1f",
-    "trade_timestamp": 1774190981,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Over",
-      "side": "BUY",
-      "price": 0.48,
-      "effective_price": 0.48,
-      "size": 4956.0,
-      "amount": 2378.88,
-      "potential_pnl": 2577.12,
-      "pnl_multiplier": 1.0833333333333333,
-      "is_no": false,
-      "slug": "nba-tor-phx-2026-03-22-total-220pt5",
-      "eventSlug": "nba-tor-phx-2026-03-22"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+24.4%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.236,
-      "market_price": 0.48,
-      "edge": 0.244,
-      "edge_percent": 24.4,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Both teams score significantly above their average",
-          "Defensive performance is below average for both teams",
-          "Overtime is required to reach the total"
-        ],
-        "weakest_link": "Defensive performance is below average for both teams"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent scoring trends of both teams",
-        "Injury status of key offensive players"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "OVER",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.244,
-      "edge_percent": 24.4
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 24.4,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "Raptors vs. Suns: O/U 220.5",
-    "market_slug": "nba-tor-phx-2026-03-22-total-220pt5",
-    "event_slug": "nba-tor-phx-2026-03-22-total-220pt5",
     "wallet": "0xc11a7878fd136224fd53bb192c7596d5ed99960f",
     "analysis": {
       "score": 70,
@@ -30028,6 +29923,110 @@
       "edge_percent": 14.85,
       "signal_strength": 95.0,
       "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Will Portugal win the 2026 FIFA World Cup?",
+    "market_slug": "will-portugal-win-the-2026-fifa-world-cup-912",
+    "event_slug": "will-portugal-win-the-2026-fifa-world-cup-912",
+    "wallet": "0xdcb1c6631c5fe82afb0173ff05a0f2b914c0ee63",
+    "analysis": {
+      "score": 85,
+      "flags": [
+        "New wallet (0d old)",
+        "Against trend (9.3% effective odds)",
+        "Large bet ($2,505)"
+      ],
+      "amount": 2504.8545599999998,
+      "odds": 0.093,
+      "raw_price": 0.093,
+      "outcome": "Yes",
+      "potential_pnl": 24429.06544,
+      "pnl_multiplier": 9.752688172043012,
+      "wallet_age_days": 0,
+      "total_activities": 100
+    },
+    "timestamp": "2026-05-31T18:41:51.569105",
+    "trade_hash": "0x353858f9aade3a6e2ffb03649def46f0d50b4745b7f2e5da94bbee480caee5d4",
+    "trade_timestamp": 1780252341,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.093,
+      "effective_price": 0.093,
+      "size": 26933.92,
+      "amount": 2504.8545599999998,
+      "potential_pnl": 24429.06544,
+      "pnl_multiplier": 9.752688172043012,
+      "is_no": false,
+      "slug": "will-portugal-win-the-2026-fifa-world-cup-912",
+      "eventSlug": "world-cup-winner"
+    },
+    "irrationality": {
+      "irrationality_score": 25,
+      "flags": [
+        "Longshot (9%) in medium bias category (sports)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.0597,
+      "market_price": 0.093,
+      "edge": 0.033299999999999996,
+      "edge_percent": 3.3299999999999996,
+      "min_edge_required": 0.05,
+      "is_mispriced": false,
+      "edge_quality": "WEAK",
+      "base_rate_class": "rare",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "rare",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 85,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 85,
+      "insider_position": "YES",
+      "irrationality_score": 25,
+      "is_irrational": false,
+      "is_mispriced": false,
+      "edge": 0.033299999999999996,
+      "edge_percent": 3.3299999999999996
+    },
+    "financial_analyst": {
+      "signal_quality": 32.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 3.33,
+      "signal_strength": 85.0,
+      "insider_score": 85.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
   }
