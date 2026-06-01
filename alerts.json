@@ -1,110 +1,5 @@
 [
   {
-    "market": "Raptors vs. Suns: O/U 220.5",
-    "market_slug": "nba-tor-phx-2026-03-22-total-220pt5",
-    "event_slug": "nba-tor-phx-2026-03-22-total-220pt5",
-    "wallet": "0x36c20c0dc17f8ba65386bce29abf72cefb9ba2ce",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($2,381)",
-        "Low activity (4 txns)"
-      ],
-      "amount": 2381.2799999999997,
-      "odds": 0.48,
-      "raw_price": 0.48,
-      "outcome": "Over",
-      "potential_pnl": 2579.7200000000003,
-      "pnl_multiplier": 1.0833333333333335,
-      "wallet_age_days": 0,
-      "total_activities": 4
-    },
-    "timestamp": "2026-03-22T14:56:02.683841",
-    "trade_hash": "0xf9233067c8ca90d9c55ec7e50a6e3a4ea0bcba6e049a3a0379a1fa0061371b19",
-    "trade_timestamp": 1774190979,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Over",
-      "side": "BUY",
-      "price": 0.48,
-      "effective_price": 0.48,
-      "size": 4961.0,
-      "amount": 2381.2799999999997,
-      "potential_pnl": 2579.7200000000003,
-      "pnl_multiplier": 1.0833333333333335,
-      "is_no": false,
-      "slug": "nba-tor-phx-2026-03-22-total-220pt5",
-      "eventSlug": "nba-tor-phx-2026-03-22"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+24.4%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.236,
-      "market_price": 0.48,
-      "edge": 0.244,
-      "edge_percent": 24.4,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Both teams score above average",
-          "Defensive performance is below average",
-          "Game pace is high"
-        ],
-        "weakest_link": "Defensive performance is below average"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent offensive trends of both teams",
-        "Injury status of key players"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "OVER",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.244,
-      "edge_percent": 24.4
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 24.4,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0x96f9928ba8551baef816663a06a364c65fe673dff2593d22e08cf6f6320e34bf",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
@@ -29969,5 +29864,49 @@
     "market": "Roland Garros ATP: Jakub Mensik vs Andrey Rublev",
     "market_slug": "atp-mensik-rublev-2026-05-31",
     "amount": 3410.8711000000003
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x17a17320f64a65e784f8bfcc64b8e2b88a2b4c26213a162129a892be61d027fa",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xb91aeb5accc33a5f9a8615b8ed6b2d352e913987",
+      "side": "BUY",
+      "asset": "75562500483077469263457137050431291539829277064604108417948165751270019612132",
+      "conditionId": "0xec1bbf66ea29bb38901de03d34c232a7aa0e5803e989d4e04dc6133301b5770b",
+      "size": 72106.06,
+      "price": 0.5390016151208373,
+      "timestamp": 1780339418,
+      "title": "Kansas City Royals vs. Cincinnati Reds: O/U 8.5",
+      "slug": "mlb-kc-cin-2026-06-01-total-8pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
+      "eventSlug": "mlb-kc-cin-2026-06-01",
+      "outcome": "Over",
+      "outcomeIndex": 0,
+      "name": "afghj2421",
+      "pseudonym": "Humble-Deformation",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x17a17320f64a65e784f8bfcc64b8e2b88a2b4c26213a162129a892be61d027fa",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Kansas City Royals vs. Cincinnati Reds: O/U 8.5",
+    "market_slug": "mlb-kc-cin-2026-06-01",
+    "amount": 38865.2828
   }
 ]
