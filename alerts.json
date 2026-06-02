@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x96f9928ba8551baef816663a06a364c65fe673dff2593d22e08cf6f6320e34bf",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xb2a48372404e6a0bfb6c2f23d715d3acc5a8cf8a",
-      "side": "BUY",
-      "asset": "54482685038922497087585632773512092884765402793940516984313730210624050030439",
-      "conditionId": "0x96ae4f873b48a592088a4e5c92c046822d6aa5de8a62fc1088f85da624249cce",
-      "size": 10967.346937,
-      "price": 0.48999999998814664,
-      "timestamp": 1774191107,
-      "title": "Will CR Vasco da Gama win on 2026-03-22?",
-      "slug": "bra-vas-gre-2026-03-22-vas",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/brasilerirao-image-52ef283574.png",
-      "eventSlug": "bra-vas-gre-2026-03-22",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "chenpengzao",
-      "pseudonym": "Natural-Federation",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-5076365-4c4e1b0e-9dcc-428e-b12c-c8d35735aa59.jpeg",
-      "profileImageOptimized": "",
-      "transactionHash": "0x96f9928ba8551baef816663a06a364c65fe673dff2593d22e08cf6f6320e34bf",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will CR Vasco da Gama win on 2026-03-22?",
-    "market_slug": "bra-vas-gre-2026-03-22",
-    "amount": 5593.346938000001
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xcee6f76f14de84c5378dd6de9ada1270fa34580f694024ced538693d93e8ce14",
     "wallet": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
     "trader": {
@@ -29908,5 +29864,49 @@
     "market": "Kansas City Royals vs. Cincinnati Reds: O/U 8.5",
     "market_slug": "mlb-kc-cin-2026-06-01",
     "amount": 38865.2828
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x33b10b1bcf1790428e79b1b73d1a089011c4538b442fb4824f51c8020bb411d0",
+    "wallet": "0xd0c042c08f755ff940249f62745e82d356345565",
+    "trader": {
+      "rank": 15,
+      "address": "0xd0c042c08f755ff940249f62745e82d356345565",
+      "username": "alexmulti",
+      "profit": 4804855.613376001,
+      "volume": 9949068.653841998,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xccd81fbd3395dc43a0531f8484b21c2462daf4de",
+      "side": "SELL",
+      "asset": "37372956267738046097607904766840228699185997444023344675844789094668866330139",
+      "conditionId": "0x41ed8d0272391b0f7d97d70298b88395f26c104a27e1aac9e28f8b668507f4f9",
+      "size": 1988.78,
+      "price": 0.81,
+      "timestamp": 1780383756,
+      "title": "Birmingham: Alexandra Eala vs Priscilla Hon",
+      "slug": "wta-eala-hon-2026-06-01",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wta-logo-41f331bdf1.png",
+      "eventSlug": "wta-eala-hon-2026-06-01",
+      "outcome": "Alexandra Eala",
+      "outcomeIndex": 0,
+      "name": "0xCcd81FBd3395dC43A0531f8484b21C2462DaF4DE-1780382648298",
+      "pseudonym": "Trivial-Ravioli",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x33b10b1bcf1790428e79b1b73d1a089011c4538b442fb4824f51c8020bb411d0",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Birmingham: Alexandra Eala vs Priscilla Hon",
+    "market_slug": "wta-eala-hon-2026-06-01",
+    "amount": 1610.9118
   }
 ]
