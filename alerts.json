@@ -29864,7 +29864,8 @@
     },
     "market": "Roland Garros WTA: Anna Kalinskaya vs Maja Chwalinska",
     "market_slug": "wta-kalinsk-chwalin-2026-06-02",
-    "amount": 3309.8999999999996
+    "amount": 3309.8999999999996,
+    "resolution_last_check": "2026-06-03T11:03:54.142886+00:00"
   },
   {
     "type": "TOP_TRADER",
@@ -29908,6 +29909,7 @@
     },
     "market": "LoL: EDward Gaming vs Bilibili Gaming - Game 2 Winner",
     "market_slug": "lol-edg-blg-2026-06-03",
-    "amount": 1681.1194
+    "amount": 1681.1194,
+    "resolution_last_check": "2026-06-03T11:03:54.779530+00:00"
   }
 ]
