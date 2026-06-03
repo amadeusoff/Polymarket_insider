@@ -1,93 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xcee6f76f14de84c5378dd6de9ada1270fa34580f694024ced538693d93e8ce14",
-    "wallet": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
-    "trader": {
-      "rank": 2,
-      "address": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
-      "username": "Fredi9999",
-      "profit": 16619506.631730152,
-      "volume": 76611316.90515402,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x122c17cb5f9930a254523cdd6a3e830c67e8b48f",
-      "side": "BUY",
-      "asset": "19901222835944487203708466658821686468364428638367141880030486718568300324536",
-      "conditionId": "0xdae8a2bcd39b64c42e6d77ac9281660054b1d2d746773387b2dcd928cf34b91c",
-      "size": 3605.239125,
-      "price": 0.92,
-      "timestamp": 1774194107,
-      "title": "Will Atalanta BC win on 2026-03-22?",
-      "slug": "sea-ata-ver-2026-03-22-ata",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Serie-A-Logo.png",
-      "eventSlug": "sea-ata-ver-2026-03-22",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "sili-315",
-      "pseudonym": "Drab-Blind",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xcee6f76f14de84c5378dd6de9ada1270fa34580f694024ced538693d93e8ce14",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Atalanta BC win on 2026-03-22?",
-    "market_slug": "sea-ata-ver-2026-03-22",
-    "amount": 3316.8199950000003
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x495c5487563c0ce2faac08136ac85788ed2bc37b5b8ee5153f99159fbaa27617",
-    "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
-    "trader": {
-      "rank": 6,
-      "address": "0x863134d00841b2e200492805a01e1e2f5defaa53",
-      "username": "RepTrump",
-      "profit": 7532409.671579,
-      "volume": 13983231.103425,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x14a056c698f46d181d1e650e7a7a0f7d1d8a22bb",
-      "side": "SELL",
-      "asset": "11274039182758931042150227700555863794918591138703821713919300339232834919406",
-      "conditionId": "0x02c5217f323f111d1b2a76415903fe393d863a66faa3923312fa7c51692540dd",
-      "size": 1800,
-      "price": 0.8519174444444444,
-      "timestamp": 1774198307,
-      "title": "Counter-Strike: NRG vs FURIA (BO3) - BLAST Open Rotterdam Group A",
-      "slug": "cs2-nrg-furia-2026-03-22",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/counter-strike-image-16c415c538.png",
-      "eventSlug": "cs2-nrg-furia-2026-03-22",
-      "outcome": "FURIA",
-      "outcomeIndex": 1,
-      "name": "gnose",
-      "pseudonym": "Neighboring-Snowsuit",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x495c5487563c0ce2faac08136ac85788ed2bc37b5b8ee5153f99159fbaa27617",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Counter-Strike: NRG vs FURIA (BO3) - BLAST Open Rotterdam Group A",
-    "market_slug": "cs2-nrg-furia-2026-03-22",
-    "amount": 1533.4514
-  },
-  {
     "market": "Raptors vs. Suns: O/U 219.5",
     "market_slug": "nba-tor-phx-2026-03-22-total-219pt5",
     "event_slug": "nba-tor-phx-2026-03-22-total-219pt5",
@@ -29909,5 +29821,93 @@
     "market_slug": "wta-eala-hon-2026-06-01",
     "amount": 1610.9118,
     "resolution_last_check": "2026-06-02T10:29:01.712210+00:00"
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xa8a80cbab4e4e673cf4ea54d2d0478258c7d8ec629ec2961b94908d36ceeb267",
+    "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
+    "trader": {
+      "rank": 8,
+      "address": "0x863134d00841b2e200492805a01e1e2f5defaa53",
+      "username": "RepTrump",
+      "profit": 7532409.671579,
+      "volume": 13983231.103425,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xba559fa86f536d7d05d4cf1cc797d2257c0641f1",
+      "side": "BUY",
+      "asset": "108132231815813760957596926577069180677085335695098628754325111830763772771511",
+      "conditionId": "0x3c1059461ee1653041afabe37e9083004d46897223a59f18e775b69953244eba",
+      "size": 5610,
+      "price": 0.59,
+      "timestamp": 1780481343,
+      "title": "Roland Garros WTA: Anna Kalinskaya vs Maja Chwalinska",
+      "slug": "wta-kalinsk-chwalin-2026-06-02",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wta-logo-41f331bdf1.png",
+      "eventSlug": "wta-kalinsk-chwalin-2026-06-02",
+      "outcome": "Maja Chwalinska",
+      "outcomeIndex": 1,
+      "name": "Love-you",
+      "pseudonym": "Unlined-Competition-Median",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xa8a80cbab4e4e673cf4ea54d2d0478258c7d8ec629ec2961b94908d36ceeb267",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Roland Garros WTA: Anna Kalinskaya vs Maja Chwalinska",
+    "market_slug": "wta-kalinsk-chwalin-2026-06-02",
+    "amount": 3309.8999999999996
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x134e9d0e716b814c9f6c4849913d2fc72acca1fc517edc095b190aa05ddcd478",
+    "wallet": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
+    "trader": {
+      "rank": 16,
+      "address": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
+      "username": "GamblingIsAllYouNeed",
+      "profit": 4770064.495767243,
+      "volume": 435770742.86255205,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x13659c6a1aacd0e3bcb022e06261fff367f6c82a",
+      "side": "BUY",
+      "asset": "83576869700848977736962962097654977218167661784342664106864546592340500960843",
+      "conditionId": "0x22fe7940e99aca1cfc057c96e2db3a681bf7099940dc629752bce196897223f9",
+      "size": 1954.79,
+      "price": 0.86,
+      "timestamp": 1780481645,
+      "title": "LoL: EDward Gaming vs Bilibili Gaming - Game 2 Winner",
+      "slug": "lol-edg-blg-2026-06-03-game2",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
+      "eventSlug": "lol-edg-blg-2026-06-03",
+      "outcome": "Bilibili Gaming",
+      "outcomeIndex": 1,
+      "name": "what-the-dog-doin",
+      "pseudonym": "Blue-Refuse",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x134e9d0e716b814c9f6c4849913d2fc72acca1fc517edc095b190aa05ddcd478",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "LoL: EDward Gaming vs Bilibili Gaming - Game 2 Winner",
+    "market_slug": "lol-edg-blg-2026-06-03",
+    "amount": 1681.1194
   }
 ]
