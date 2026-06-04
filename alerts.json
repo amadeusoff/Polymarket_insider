@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x160b62077d040b817c920eaa9b76ba20ed755d32fc32ad942830df3f3c79f069",
-    "wallet": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
-    "trader": {
-      "rank": 19,
-      "address": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
-      "username": "GamblingIsAllYouNeed",
-      "profit": 4346682.887980655,
-      "volume": 277754341.03179693,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xd6a3f0ec6c4a8ad680d580610c82ca57ff139489",
-      "side": "BUY",
-      "asset": "75689244959277898341236032211117274245139122622096460977873312394709590336595",
-      "conditionId": "0xde5ff3427dcc8f53e95d9825721b011458b657837033a6237dc3cfc99777e827",
-      "size": 2928.2,
-      "price": 0.55,
-      "timestamp": 1774218419,
-      "title": "Tennessee Volunteers vs. Virginia Cavaliers",
-      "slug": "cbb-tenn-vir-2026-03-22",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ncaa-c14995df96.png",
-      "eventSlug": "cbb-tenn-vir-2026-03-22",
-      "outcome": "Virginia Cavaliers",
-      "outcomeIndex": 1,
-      "name": "knedloveprovelo",
-      "pseudonym": "Weighty-Rifle",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x160b62077d040b817c920eaa9b76ba20ed755d32fc32ad942830df3f3c79f069",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Tennessee Volunteers vs. Virginia Cavaliers",
-    "market_slug": "cbb-tenn-vir-2026-03-22",
-    "amount": 1610.51
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xe65a73c98b5349746390ce55e6d87ae89fe9669f38fd63c979f0cab3fdf408ff",
     "wallet": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
     "trader": {
@@ -29850,5 +29806,49 @@
     "market": "Will the San Antonio Spurs win the 2026 NBA Finals?",
     "market_slug": "2026-nba-champion",
     "amount": 3205.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xb4964d0dcdedfa8efc5f2fdd28edee8ea8b59a9f2dfd973c9e851e312697a83a",
+    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+    "trader": {
+      "rank": 12,
+      "address": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+      "username": "BetTom42",
+      "profit": 5642135.735356,
+      "volume": 11212839.523403,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xd84949634cf9aac74cab066cb978ac33ac676ac7",
+      "side": "BUY",
+      "asset": "75688209583286171056400034576676230176281287564453693089142022126787553034210",
+      "conditionId": "0x280f8e4b00877ddf567c6f95604ccefd5d08c171bffe80d71b0c0eb839e3b177",
+      "size": 2406.24,
+      "price": 0.65,
+      "timestamp": 1780573560,
+      "title": "Perugia: Andrea Pellegrino vs Roberto Carballes Baena",
+      "slug": "atp-pellegr-baena-2026-06-04",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+      "eventSlug": "atp-pellegr-baena-2026-06-04",
+      "outcome": "Andrea Pellegrino",
+      "outcomeIndex": 0,
+      "name": "angelat0",
+      "pseudonym": "Accurate-Discretion",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xb4964d0dcdedfa8efc5f2fdd28edee8ea8b59a9f2dfd973c9e851e312697a83a",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Perugia: Andrea Pellegrino vs Roberto Carballes Baena",
+    "market_slug": "atp-pellegr-baena-2026-06-04",
+    "amount": 1564.0559999999998
   }
 ]
