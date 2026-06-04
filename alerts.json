@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x16ba75f91488cf2fa36f4daf2bba4ced284a8741012200001b0a55765e9a4424",
-    "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
-    "trader": {
-      "rank": 6,
-      "address": "0x863134d00841b2e200492805a01e1e2f5defaa53",
-      "username": "RepTrump",
-      "profit": 7532409.671579,
-      "volume": 13983231.103425,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x849b410fc7a902250aa6d2a3f7993f558fd5e7a5",
-      "side": "BUY",
-      "asset": "49079122243198510968414959373457733219664128070398698070551374957467549389777",
-      "conditionId": "0xfb5cc69802663657da33ab2bbc8697f08faea2c57468bde75a1282730b7a7b75",
-      "size": 2518.9393,
-      "price": 0.1984962480040706,
-      "timestamp": 1774267339,
-      "title": "Backpack FDV above $200M one day after launch?",
-      "slug": "backpack-fdv-above-200m-one-day-after-launch-327-787-729-852",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-backpack-launch-a-token-by-k9RMGR8hRwMJ.jpg",
-      "eventSlug": "backpack-fdv-above-one-day-after-launch",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "evvvvv",
-      "pseudonym": "Negative-Tracksuit",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x16ba75f91488cf2fa36f4daf2bba4ced284a8741012200001b0a55765e9a4424",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Backpack FDV above $200M one day after launch?",
-    "market_slug": "backpack-fdv-above-one-day-after-launch",
-    "amount": 2018.9393
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x7a3c6e62f63d40460f47fdca4f5491ae0f65b59abff8bd7aaa99d8ae81b298cc",
     "wallet": "0xd0c042c08f755ff940249f62745e82d356345565",
     "trader": {
@@ -29911,5 +29867,49 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xbc58ebca2f586cd564200456425ba21948fa917500ef13709a95d114cc6fb224",
+    "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
+    "trader": {
+      "rank": 8,
+      "address": "0x863134d00841b2e200492805a01e1e2f5defaa53",
+      "username": "RepTrump",
+      "profit": 7532409.671579,
+      "volume": 13983231.103425002,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x182bd8bf2f11a572c4ec686aae3a0d919adcf3d3",
+      "side": "SELL",
+      "asset": "77669758102929718590160851391714019116736856202333459817343190730743895177270",
+      "conditionId": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+      "size": 35000,
+      "price": 0.83,
+      "timestamp": 1780613623,
+      "title": "Strait of Hormuz traffic returns to normal by end of June?",
+      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-june",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ships-transit-the-strait-of-hormuz-on-any-day-in-march-ERARnetK0FJm.jpg",
+      "eventSlug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-june",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "peoplearestrange",
+      "pseudonym": "Weird-Calorie",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xbc58ebca2f586cd564200456425ba21948fa917500ef13709a95d114cc6fb224",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Strait of Hormuz traffic returns to normal by end of June?",
+    "market_slug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-june",
+    "amount": 29050.0
   }
 ]
