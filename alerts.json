@@ -1,51 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x7a3c6e62f63d40460f47fdca4f5491ae0f65b59abff8bd7aaa99d8ae81b298cc",
-    "wallet": "0xd0c042c08f755ff940249f62745e82d356345565",
-    "trader": {
-      "rank": 15,
-      "address": "0xd0c042c08f755ff940249f62745e82d356345565",
-      "username": "alexmulti",
-      "profit": 4804855.613376001,
-      "volume": 9949068.653841998,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x0dcf5b49627c5194805bd1af846fd0bd3388c556",
-      "side": "BUY",
-      "asset": "21055190573360289252432522126172833836286579964552859587717109155156751675601",
-      "conditionId": "0xf608bb729492ce81bacff62f60fd364f8c4ef1d6a9c1d057dfb27908d14e8a98",
-      "size": 4905.76,
-      "price": 0.5286836698085515,
-      "timestamp": 1774267641,
-      "title": "Dota 2: PARIVISION vs BetBoom Team - Game 1 Winner",
-      "slug": "dota2-pari-bb4-2026-03-23-game1",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/dota2-7ffacddb21.jpg",
-      "eventSlug": "dota2-pari-bb4-2026-03-23",
-      "outcome": "PARIVISION",
-      "outcomeIndex": 0,
-      "name": "0x0dcf5B49627C5194805bD1AF846Fd0bd3388c556-1769755919166",
-      "pseudonym": "Insignificant-Wrestler",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x7a3c6e62f63d40460f47fdca4f5491ae0f65b59abff8bd7aaa99d8ae81b298cc",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Dota 2: PARIVISION vs BetBoom Team - Game 1 Winner",
-    "market_slug": "dota2-pari-bb4-2026-03-23",
-    "amount": 2593.5951999999997,
-    "resolution_last_check": "2026-03-29T06:57:55.451753+00:00"
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x23f79de6fea800d4c653dc7408c0ad9b93c4c96f03492d786d069c799b449204",
     "wallet": "0xd0c042c08f755ff940249f62745e82d356345565",
     "trader": {
@@ -29911,5 +29866,49 @@
     "market": "Strait of Hormuz traffic returns to normal by end of June?",
     "market_slug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-june",
     "amount": 29050.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x378bda105cca10008962a6424252d35e30149196cca3cfa2994d5dbda8171d67",
+    "wallet": "0xbddf61af533ff524d27154e589d2d7a81510c684",
+    "trader": {
+      "rank": 19,
+      "address": "0xbddf61af533ff524d27154e589d2d7a81510c684",
+      "username": "Countryside",
+      "profit": 4529890.867522519,
+      "volume": 371140379.09422,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+      "side": "BUY",
+      "asset": "9298716986084654212089808795927470189869441874998360382670367288864614228903",
+      "conditionId": "0x27eea2fd9a296dce236f03c67543e1dde2ad1c3e6e01108ac612c60d307efdf6",
+      "size": 17256.309135,
+      "price": 0.5794981951104228,
+      "timestamp": 1780649151,
+      "title": "Dota 2: Team Falcons vs BetBoom Team - Game 1 Winner",
+      "slug": "dota2-flc-bb4-2026-06-05-game1",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/dota2-7ffacddb21.jpg",
+      "eventSlug": "dota2-flc-bb4-2026-06-05",
+      "outcome": "BetBoom Team",
+      "outcomeIndex": 1,
+      "name": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+      "pseudonym": "Happy-Go-Lucky-Nestling",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x378bda105cca10008962a6424252d35e30149196cca3cfa2994d5dbda8171d67",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Dota 2: Team Falcons vs BetBoom Team - Game 1 Winner",
+    "market_slug": "dota2-flc-bb4-2026-06-05",
+    "amount": 9999.999998000001
   }
 ]
