@@ -1,155 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x23f79de6fea800d4c653dc7408c0ad9b93c4c96f03492d786d069c799b449204",
-    "wallet": "0xd0c042c08f755ff940249f62745e82d356345565",
-    "trader": {
-      "rank": 15,
-      "address": "0xd0c042c08f755ff940249f62745e82d356345565",
-      "username": "alexmulti",
-      "profit": 4804855.613376001,
-      "volume": 9949068.653841998,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x66fbe4344c1a9f6029a4e40ffd5ca7848e189f72",
-      "side": "BUY",
-      "asset": "21055190573360289252432522126172833836286579964552859587717109155156751675601",
-      "conditionId": "0xf608bb729492ce81bacff62f60fd364f8c4ef1d6a9c1d057dfb27908d14e8a98",
-      "size": 3846.153845,
-      "price": 0.519999999896,
-      "timestamp": 1774267639,
-      "title": "Dota 2: PARIVISION vs BetBoom Team - Game 1 Winner",
-      "slug": "dota2-pari-bb4-2026-03-23-game1",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/dota2-7ffacddb21.jpg",
-      "eventSlug": "dota2-pari-bb4-2026-03-23",
-      "outcome": "PARIVISION",
-      "outcomeIndex": 0,
-      "name": "bobbythedestroyer",
-      "pseudonym": "Incredible-Integer",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x23f79de6fea800d4c653dc7408c0ad9b93c4c96f03492d786d069c799b449204",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Dota 2: PARIVISION vs BetBoom Team - Game 1 Winner",
-    "market_slug": "dota2-pari-bb4-2026-03-23",
-    "amount": 1999.999999,
-    "resolution_last_check": "2026-03-29T06:57:55.451770+00:00"
-  },
-  {
-    "market": "Thunder vs. 76ers: O/U 225.5",
-    "market_slug": "nba-okc-phi-2026-03-23-total-225pt5",
-    "event_slug": "nba-okc-phi-2026-03-23-total-225pt5",
-    "wallet": "0x9138ea7a8baa81bd3bb403283d3f73c734474dc0",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,807)",
-        "Low activity (2 txns)"
-      ],
-      "amount": 1807.44,
-      "odds": 0.51,
-      "raw_price": 0.51,
-      "outcome": "Under",
-      "potential_pnl": 1736.56,
-      "pnl_multiplier": 0.9607843137254901,
-      "wallet_age_days": 0,
-      "total_activities": 2
-    },
-    "timestamp": "2026-03-23T15:17:27.356928",
-    "trade_hash": "0xd8e2610252fa0baad0600140c0fbb134f5a76b6e7c664ee413a4086e38475e3d",
-    "trade_timestamp": 1774278675,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Under",
-      "side": "BUY",
-      "price": 0.51,
-      "effective_price": 0.51,
-      "size": 3544.0,
-      "amount": 1807.44,
-      "potential_pnl": 1736.56,
-      "pnl_multiplier": 0.9607843137254901,
-      "is_no": false,
-      "slug": "nba-okc-phi-2026-03-23-total-225pt5",
-      "eventSlug": "nba-okc-phi-2026-03-23"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+26.8%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.242,
-      "market_price": 0.51,
-      "edge": 0.268,
-      "edge_percent": 26.8,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Both teams score efficiently",
-          "Defensive lapses from both teams",
-          "Favorable officiating leading to free throws"
-        ],
-        "weakest_link": "Favorable officiating leading to free throws"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent offensive trends of both teams",
-        "Injury reports affecting key players"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "UNDER",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.268,
-      "edge_percent": 26.8
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 26.8,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "market": "Lakers vs. Pistons: O/U 226.5",
     "market_slug": "nba-lal-det-2026-03-23-total-226pt5",
     "event_slug": "nba-lal-det-2026-03-23-total-226pt5",
@@ -29913,5 +29763,153 @@
     "market_slug": "dota2-flc-bb4-2026-06-05",
     "amount": 9999.999998000001,
     "resolution_last_check": "2026-06-05T09:50:37.831584+00:00"
+  },
+  {
+    "market": "Knicks vs. Spurs",
+    "market_slug": "nba-nyk-sas-2026",
+    "event_slug": "nba-nyk-sas-2026",
+    "wallet": "0xf8371076fb3df0fcfcdb4d9f16bbe98bb241bd42",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,905)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 1905.3899980000003,
+      "odds": 0.6799999999286236,
+      "raw_price": 0.6799999999286236,
+      "outcome": "Spurs",
+      "potential_pnl": 896.6541169999998,
+      "pnl_multiplier": 0.47058823544847833,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-06-05T23:36:19.856977",
+    "trade_hash": "0xd597e9c481ef1521b9f726aae7b2af232e2f0d484d58e67af1f3d3eb298a1a84",
+    "trade_timestamp": 1780702282,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Spurs",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.6799999999286236,
+      "effective_price": 0.6799999999286236,
+      "size": 2802.044115,
+      "amount": 1905.3899980000003,
+      "potential_pnl": 896.6541169999998,
+      "pnl_multiplier": 0.47058823544847833,
+      "is_no": false,
+      "slug": "nba-nyk-sas-2026",
+      "eventSlug": "nba-nyk-sas-2026-06-05"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+25.0%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.42949999997144944,
+      "market_price": 0.6799999999286236,
+      "edge": 0.25049999995717415,
+      "edge_percent": 25.049999995717414,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 105,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 70,
+      "insider_position": "NO",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.25049999995717415,
+      "edge_percent": 25.049999995717414
+    },
+    "financial_analyst": {
+      "signal_quality": 81.0,
+      "stance": "HIGH_CONVICTION",
+      "edge_percent": 25.05,
+      "signal_strength": 105.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x33aa2a4b1b33e0be65b94baa0be5c82d018ad9ff054a63ccf3b16aeeb9945539",
+    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
+    "trader": {
+      "rank": 7,
+      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
+      "username": "zxgngl",
+      "profit": 7807265.589240883,
+      "volume": 40551790.62184699,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xad89f899f1524533adfd1e6a07da692fcd92f6e1",
+      "side": "BUY",
+      "asset": "13020173070412670615774908798965378076656790704173643652212779423648275454798",
+      "conditionId": "0xccefe5550fe4d9e1fdf9888db50b800c1d8633d9d7404313b7b09e847f8e0692",
+      "size": 2330.38,
+      "price": 0.8148867566662947,
+      "timestamp": 1780702762,
+      "title": "Will Nithya Raman finish second in the first round of the 2026 Los Angeles mayoral election?",
+      "slug": "will-nithya-raman-finish-second-in-the-first-round-of-the-2026-los-angeles-mayoral-election",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-nithya-raman-win-the-2026-los-angeles-mayoral-election-sVKhbp4tGVUy.jpg",
+      "eventSlug": "la-mayoral-election-first-round-second-place",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "VivaMoldova",
+      "pseudonym": "Submissive-Clan",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-2856325-dde217ca-306a-441b-9aa0-1bef622a1f70.webp",
+      "profileImageOptimized": "",
+      "transactionHash": "0x33aa2a4b1b33e0be65b94baa0be5c82d018ad9ff054a63ccf3b16aeeb9945539",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Nithya Raman finish second in the first round of the 2026 Los Angeles mayoral election?",
+    "market_slug": "la-mayoral-election-first-round-second-place",
+    "amount": 1898.9958
   }
 ]
