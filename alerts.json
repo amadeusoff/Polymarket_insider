@@ -29821,7 +29821,8 @@
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
+    },
+    "resolution_last_check": "2026-06-05T09:50:37.291174+00:00"
   },
   {
     "type": "TOP_TRADER",
@@ -29865,7 +29866,8 @@
     },
     "market": "Strait of Hormuz traffic returns to normal by end of June?",
     "market_slug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-june",
-    "amount": 29050.0
+    "amount": 29050.0,
+    "resolution_last_check": "2026-06-05T09:50:37.291190+00:00"
   },
   {
     "type": "TOP_TRADER",
@@ -29909,6 +29911,7 @@
     },
     "market": "Dota 2: Team Falcons vs BetBoom Team - Game 1 Winner",
     "market_slug": "dota2-flc-bb4-2026-06-05",
-    "amount": 9999.999998000001
+    "amount": 9999.999998000001,
+    "resolution_last_check": "2026-06-05T09:50:37.831584+00:00"
   }
 ]
