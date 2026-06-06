@@ -1,215 +1,5 @@
 [
   {
-    "market": "Lakers vs. Pistons: O/U 226.5",
-    "market_slug": "nba-lal-det-2026-03-23-total-226pt5",
-    "event_slug": "nba-lal-det-2026-03-23-total-226pt5",
-    "wallet": "0x7288abe3f3e00c60ab31188728511a79edce6a13",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,179)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 1179.0,
-      "odds": 0.5,
-      "raw_price": 0.5,
-      "outcome": "Over",
-      "potential_pnl": 1179.0,
-      "pnl_multiplier": 1.0,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-03-23T16:12:32.805784",
-    "trade_hash": "0x77c488f25fb1d28fa22281ab4fc48cf597e4f411caec938ee00188bcf8b749c1",
-    "trade_timestamp": 1774281999,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Over",
-      "side": "BUY",
-      "price": 0.5,
-      "effective_price": 0.5,
-      "size": 2358.0,
-      "amount": 1179.0,
-      "potential_pnl": 1179.0,
-      "pnl_multiplier": 1.0,
-      "is_no": false,
-      "slug": "nba-lal-det-2026-03-23-total-226pt5",
-      "eventSlug": "nba-lal-det-2026-03-23"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+26.0%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.24,
-      "market_price": 0.5,
-      "edge": 0.26,
-      "edge_percent": 26.0,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "High-scoring performance from both teams",
-          "Defensive weaknesses exploited",
-          "Favorable officiating leading to more free throws"
-        ],
-        "weakest_link": "Favorable officiating leading to more free throws"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent offensive trends of both teams",
-        "Injury reports affecting key players"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "OVER",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.26,
-      "edge_percent": 26.0
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 26.0,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "Lakers vs. Pistons: O/U 226.5",
-    "market_slug": "nba-lal-det-2026-03-23-total-226pt5",
-    "event_slug": "nba-lal-det-2026-03-23-total-226pt5",
-    "wallet": "0x09d28973a8224c14dd02e2cdba287ea53abbfffc",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,024)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 1023.5,
-      "odds": 0.5,
-      "raw_price": 0.5,
-      "outcome": "Over",
-      "potential_pnl": 1023.5,
-      "pnl_multiplier": 1.0,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-03-23T16:12:35.999751",
-    "trade_hash": "0xc77ff339985e36e19343f6b1aa275b2bac76e7a13b0722cdeca045625d3b5149",
-    "trade_timestamp": 1774281997,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Over",
-      "side": "BUY",
-      "price": 0.5,
-      "effective_price": 0.5,
-      "size": 2047.0,
-      "amount": 1023.5,
-      "potential_pnl": 1023.5,
-      "pnl_multiplier": 1.0,
-      "is_no": false,
-      "slug": "nba-lal-det-2026-03-23-total-226pt5",
-      "eventSlug": "nba-lal-det-2026-03-23"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+26.0%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.24,
-      "market_price": 0.5,
-      "edge": 0.26,
-      "edge_percent": 26.0,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Lakers offense performs at peak efficiency",
-          "Pistons defense struggles significantly",
-          "Both teams have key players available"
-        ],
-        "weakest_link": "Pistons defense struggles significantly"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent high-scoring games",
-        "Injury reports affecting key players"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "OVER",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.26,
-      "edge_percent": 26.0
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 26.0,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0x08c731fd58ad1456b2cc0af3dcc4d9a2dc8ad1fa6afcca36af3f06f7eec1c702",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
@@ -29911,5 +29701,93 @@
     "market": "Will Nithya Raman finish second in the first round of the 2026 Los Angeles mayoral election?",
     "market_slug": "la-mayoral-election-first-round-second-place",
     "amount": 1898.9958
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x72f6f3b9de573be45bac22a9f8178d852b6f1149bfe75902b0b3fe3caeaf87ed",
+    "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
+    "trader": {
+      "rank": 8,
+      "address": "0x863134d00841b2e200492805a01e1e2f5defaa53",
+      "username": "RepTrump",
+      "profit": 7532409.671579,
+      "volume": 13983231.103425002,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x05a7aac83aefa8faf745507cf14806043fd442e6",
+      "side": "BUY",
+      "asset": "45817674357717976073695766565676345105285357956770828399642596915486113029202",
+      "conditionId": "0x54df2e7ec11670cc3586dbdfd7418e3f21ab0a69a154db12eec1c9a2ac95c7c0",
+      "size": 2981.12,
+      "price": 0.5815505581794762,
+      "timestamp": 1780768861,
+      "title": "Dota 2: Aurora vs LGD Gaming (BO3) - BLAST Slam Playoffs",
+      "slug": "dota2-aur1-lgd-2026-06-06",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/dota2-7ffacddb21.jpg",
+      "eventSlug": "dota2-aur1-lgd-2026-06-06",
+      "outcome": "LGD Gaming",
+      "outcomeIndex": 1,
+      "name": "Roulette1",
+      "pseudonym": "Putrid-Pup",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x72f6f3b9de573be45bac22a9f8178d852b6f1149bfe75902b0b3fe3caeaf87ed",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Dota 2: Aurora vs LGD Gaming (BO3) - BLAST Slam Playoffs",
+    "market_slug": "dota2-aur1-lgd-2026-06-06",
+    "amount": 1733.672
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xb1e553cb0b8f65a849f23f4a901029af1aac46a5313d98e64f2ce2a3940d664e",
+    "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+    "trader": {
+      "rank": 18,
+      "address": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+      "username": "beachboy4",
+      "profit": 4674284.400512226,
+      "volume": 222153209.14309105,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xdf804b17329a461425116c9e0f599e248b443259",
+      "side": "BUY",
+      "asset": "76914303257369043217544305150162786144300612868881630658120394554484134851872",
+      "conditionId": "0xa7fd67386e3a0756c27a71666fcc1f1924ab90fe3f5b40aa5be7d503f52ce1e9",
+      "size": 2938.14,
+      "price": 0.72,
+      "timestamp": 1780769166,
+      "title": "Counter-Strike: G2 vs Monte (BO1) - IEM Cologne Major Stage 2",
+      "slug": "cs2-g2-mnte-2026-06-06",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/counter-strike-image-16c415c538.png",
+      "eventSlug": "cs2-g2-mnte-2026-06-06",
+      "outcome": "G2",
+      "outcomeIndex": 0,
+      "name": "gasadfa",
+      "pseudonym": "Unacceptable-Barn",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xb1e553cb0b8f65a849f23f4a901029af1aac46a5313d98e64f2ce2a3940d664e",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Counter-Strike: G2 vs Monte (BO1) - IEM Cologne Major Stage 2",
+    "market_slug": "cs2-g2-mnte-2026-06-06",
+    "amount": 2115.4608
   }
 ]
