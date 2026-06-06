@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xb1ea1a9fc4ba40c24b20541fd7ee6ad22dbb72b6ad4d3c2a4de23e120556891a",
-    "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
-    "trader": {
-      "rank": 13,
-      "address": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
-      "username": "mikatrade77",
-      "profit": 5147998.544602999,
-      "volume": 10884765.388775,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x93abbc022ce98d6f45d4444b594791cc4b7a9723",
-      "side": "BUY",
-      "asset": "23506578023355411041243894417929730258183568005708382134166886599950653453180",
-      "conditionId": "0x3a218243afbb1d96c615b430d7c4f9e7907e4ed41cd3d1f738ac635d2b5c333a",
-      "size": 68000,
-      "price": 0.5,
-      "timestamp": 1774306957,
-      "title": "Spread: Hawks (-13.5)",
-      "slug": "nba-mem-atl-2026-03-23-spread-home-13pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-mem-atl-2026-03-23",
-      "outcome": "Hawks",
-      "outcomeIndex": 0,
-      "name": "gatorr",
-      "pseudonym": "Velvety-Relief",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xb1ea1a9fc4ba40c24b20541fd7ee6ad22dbb72b6ad4d3c2a4de23e120556891a",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Spread: Hawks (-13.5)",
-    "market_slug": "nba-mem-atl-2026-03-23",
-    "amount": 34000.0
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x65a5497b7b1bd32a59aa1c5de6ac8b8800440ff00573deda72cfd49fd9c60a4d",
     "wallet": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
     "trader": {
@@ -29789,5 +29745,49 @@
     "market": "Counter-Strike: Spirit vs MIBR (BO1) - IEM Cologne Major Stage 2",
     "market_slug": "cs2-ts7-mibr-2026-06-06",
     "amount": 1680.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x5da10e6f38a53a0a2a300191d25f7def96f3f9575646aef6d1285543e19ebcbe",
+    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
+    "trader": {
+      "rank": 7,
+      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
+      "username": "zxgngl",
+      "profit": 7807265.5892408835,
+      "volume": 40551790.62184699,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xa0c0b34875fd8b305231ceb0e7ef068d166f1bed",
+      "side": "BUY",
+      "asset": "25306308633191126681370630861212761303817403613373971570682934363249684823630",
+      "conditionId": "0x6dc9985b30d76cdc6247af66ec31eb30ad7ac011f8ed94bda10ff89cf8043265",
+      "size": 3761.698957,
+      "price": 0.4785071903881223,
+      "timestamp": 1780787233,
+      "title": "Indiana Fever vs. New York Liberty: O/U 174.5",
+      "slug": "wnba-ind-nyl-2026-06-06-total-174pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wnba-logo-PAR4befDAubM.png",
+      "eventSlug": "wnba-ind-nyl-2026-06-06",
+      "outcome": "Over",
+      "outcomeIndex": 0,
+      "name": "BLN030",
+      "pseudonym": "Several-Estrogen",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-8364323-e12b8d76-5a9c-4f3c-8084-75ecdfea28d9.png",
+      "profileImageOptimized": "",
+      "transactionHash": "0x5da10e6f38a53a0a2a300191d25f7def96f3f9575646aef6d1285543e19ebcbe",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Indiana Fever vs. New York Liberty: O/U 174.5",
+    "market_slug": "wnba-ind-nyl-2026-06-06",
+    "amount": 1799.9999990000001
   }
 ]
