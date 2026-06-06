@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x08c731fd58ad1456b2cc0af3dcc4d9a2dc8ad1fa6afcca36af3f06f7eec1c702",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.51568201,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xd0e77a638c0b0ddeef9a59db053d596d63fab14f",
-      "side": "BUY",
-      "asset": "36554252596750352536756041160933914502243849250270435904104107105252569326470",
-      "conditionId": "0x2442fd430fecccb337e64263589d16597d1a6098a3848cba9ff3bc382a1b16f9",
-      "size": 45454,
-      "price": 0.52,
-      "timestamp": 1774288647,
-      "title": "Lakers vs. Pistons",
-      "slug": "nba-lal-det-2026-03-23",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-lal-det-2026-03-23",
-      "outcome": "Lakers",
-      "outcomeIndex": 0,
-      "name": "PleaseBro",
-      "pseudonym": "Determined-Play",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x08c731fd58ad1456b2cc0af3dcc4d9a2dc8ad1fa6afcca36af3f06f7eec1c702",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Lakers vs. Pistons",
-    "market_slug": "nba-lal-det-2026-03-23",
-    "amount": 23636.08
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xb1ea1a9fc4ba40c24b20541fd7ee6ad22dbb72b6ad4d3c2a4de23e120556891a",
     "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
     "trader": {
@@ -29789,5 +29745,49 @@
     "market": "Counter-Strike: G2 vs Monte (BO1) - IEM Cologne Major Stage 2",
     "market_slug": "cs2-g2-mnte-2026-06-06",
     "amount": 2115.4608
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x89a496ea97468def06cba3199266592697f08c02ae899d217f20e5569e455dec",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xdd882a70680633a75516f6ed5fce443e2d96dadb",
+      "side": "BUY",
+      "asset": "66082139496573068391527272768095056664770234050481858085497036959626009943331",
+      "conditionId": "0x2470a9e877f1eb643dcd054cc11449ebfb0a11cf2c0f36a07a388a88aebc0085",
+      "size": 2000,
+      "price": 0.84,
+      "timestamp": 1780774593,
+      "title": "Counter-Strike: Spirit vs MIBR (BO1) - IEM Cologne Major Stage 2",
+      "slug": "cs2-ts7-mibr-2026-06-06",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/counter-strike-image-16c415c538.png",
+      "eventSlug": "cs2-ts7-mibr-2026-06-06",
+      "outcome": "Spirit",
+      "outcomeIndex": 0,
+      "name": "MeiGuNiuBi",
+      "pseudonym": "Itchy-Caterpillar",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x89a496ea97468def06cba3199266592697f08c02ae899d217f20e5569e455dec",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Counter-Strike: Spirit vs MIBR (BO1) - IEM Cologne Major Stage 2",
+    "market_slug": "cs2-ts7-mibr-2026-06-06",
+    "amount": 1680.0
   }
 ]
