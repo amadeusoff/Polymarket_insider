@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x0d4aebd729fe8192fff15adf814db635d8656d18f99be3a0cbf7b54a447a3d6a",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xa46143136df30aa5583fcd896a7f41e1141b182d",
-      "side": "BUY",
-      "asset": "25856514610130837649380983927848419003326588793008371077788379588860797425932",
-      "conditionId": "0xb7ca42c3a0324b32cad3e64b29cc372d5e941a41f7f23f787806439854be9021",
-      "size": 22350,
-      "price": 0.27,
-      "timestamp": 1774337869,
-      "title": "Will India strike Pakistan by December 31, 2026?",
-      "slug": "will-india-strike-pakistan-by-december-31-2026",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/india-strike-on-pakistan-before-august-x85XQfgodtQ_.jpg",
-      "eventSlug": "india-strike-on-pakistan-by",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "baxian",
-      "pseudonym": "Long-Harald",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x0d4aebd729fe8192fff15adf814db635d8656d18f99be3a0cbf7b54a447a3d6a",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will India strike Pakistan by December 31, 2026?",
-    "market_slug": "india-strike-on-pakistan-by",
-    "amount": 6034.5
-  },
-  {
     "market": "Kharg Island no longer under Iranian control by March 31?",
     "market_slug": "kharg-island-no-longer-under-iranian-control-by-march-31",
     "event_slug": "kharg-island-no-longer-under-iranian-control-by-march-31",
@@ -29729,5 +29685,49 @@
     "market_slug": "lol-tes-we-2026-06-07",
     "amount": 1999.9999989999997,
     "resolution_last_check": "2026-06-07T09:01:40.299740+00:00"
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x9550dff80ba2b24d8dd7329328375bd21d0aa246fba66401a5ef4230ca22d543",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xd008786fad743d0d5c60f99bff5d90ebc212135d",
+      "side": "SELL",
+      "asset": "20257190540739490630509657713144742134547949967093643458458133445357169845406",
+      "conditionId": "0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37",
+      "size": 3204.84,
+      "price": 0.7825391002358932,
+      "timestamp": 1780852860,
+      "title": "Will the New York Knicks win the 2026 NBA Finals?",
+      "slug": "will-the-new-york-knicks-win-the-2026-nba-finals",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nba-finals-points-leader-7g2ZEZvMXxLb.jpg",
+      "eventSlug": "2026-nba-champion",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "VOLVOLVOL",
+      "pseudonym": "0xd008786fad743d0d5c60f99bff5d90ebc212135d",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x9550dff80ba2b24d8dd7329328375bd21d0aa246fba66401a5ef4230ca22d543",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will the New York Knicks win the 2026 NBA Finals?",
+    "market_slug": "2026-nba-champion",
+    "amount": 2507.9126100000003
   }
 ]
