@@ -29727,6 +29727,7 @@
     },
     "market": "Game Handicap: TES (-1.5) vs Team WE (+1.5)",
     "market_slug": "lol-tes-we-2026-06-07",
-    "amount": 1999.9999989999997
+    "amount": 1999.9999989999997,
+    "resolution_last_check": "2026-06-07T09:01:40.299740+00:00"
   }
 ]
