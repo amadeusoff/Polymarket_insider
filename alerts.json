@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x65a5497b7b1bd32a59aa1c5de6ac8b8800440ff00573deda72cfd49fd9c60a4d",
-    "wallet": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
-    "trader": {
-      "rank": 14,
-      "address": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
-      "username": "gmanas",
-      "profit": 4955503.445282715,
-      "volume": 529047708.505991,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x2a2c53bd278c04da9962fcf96490e17f3dfb9bc1",
-      "side": "BUY",
-      "asset": "90898434341036885550167009542356127359697126382953020709355461557872368670502",
-      "conditionId": "0x2442fd430fecccb337e64263589d16597d1a6098a3848cba9ff3bc382a1b16f9",
-      "size": 29159.21,
-      "price": 0.49,
-      "timestamp": 1774308457,
-      "title": "Lakers vs. Pistons",
-      "slug": "nba-lal-det-2026-03-23",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-lal-det-2026-03-23",
-      "outcome": "Pistons",
-      "outcomeIndex": 1,
-      "name": "0x2a2C53bD278c04DA9962Fcf96490E17F3DfB9Bc1-1772479215461",
-      "pseudonym": "Dishonest-Bloom",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x65a5497b7b1bd32a59aa1c5de6ac8b8800440ff00573deda72cfd49fd9c60a4d",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Lakers vs. Pistons",
-    "market_slug": "nba-lal-det-2026-03-23",
-    "amount": 14288.0129
-  },
-  {
     "market": "Spread: Nuggets (-5.5)",
     "market_slug": "nba-den-phx-2026-03-24-spread-away-5pt5",
     "event_slug": "nba-den-phx-2026-03-24-spread-away-5pt5",
@@ -29789,5 +29745,49 @@
     "market": "Indiana Fever vs. New York Liberty: O/U 174.5",
     "market_slug": "wnba-ind-nyl-2026-06-06",
     "amount": 1799.9999990000001
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x5568725c69c71d6dfb0d14c79ba0a704e7226ce4d198048e53ea84d96e2bac6a",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+      "side": "BUY",
+      "asset": "72034199679685605777746108880436699468836661260225341006687916047384310465181",
+      "conditionId": "0x5833eb918b6df030934f699e3d477db4ededda8f4d1b7e118a91029ab2d4d152",
+      "size": 30000,
+      "price": 0.5,
+      "timestamp": 1780791151,
+      "title": "Hurricanes vs. Golden Knights",
+      "slug": "nhl-car-las-2026-06-06",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nhl.png",
+      "eventSlug": "nhl-car-las-2026-06-06",
+      "outcome": "Golden Knights",
+      "outcomeIndex": 1,
+      "name": "AV23IUa",
+      "pseudonym": "Courageous-Robin",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x5568725c69c71d6dfb0d14c79ba0a704e7226ce4d198048e53ea84d96e2bac6a",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Hurricanes vs. Golden Knights",
+    "market_slug": "nhl-car-las-2026-06-06",
+    "amount": 15000.0
   }
 ]
