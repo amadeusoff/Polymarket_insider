@@ -1,110 +1,5 @@
 [
   {
-    "market": "Spread: Nuggets (-5.5)",
-    "market_slug": "nba-den-phx-2026-03-24-spread-away-5pt5",
-    "event_slug": "nba-den-phx-2026-03-24-spread-away-5pt5",
-    "wallet": "0x23727d1fb51bd48d0f5236b10fdca0ef005581c6",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,912)",
-        "Low activity (4 txns)"
-      ],
-      "amount": 1911.99,
-      "odds": 0.51,
-      "raw_price": 0.51,
-      "outcome": "Suns",
-      "potential_pnl": 1837.01,
-      "pnl_multiplier": 0.9607843137254902,
-      "wallet_age_days": 0,
-      "total_activities": 4
-    },
-    "timestamp": "2026-03-24T07:40:56.696336",
-    "trade_hash": "0x5784112fc01c91ad030ea05f55fe1839e73b4e14e81fa1e828006bf38a6c3893",
-    "trade_timestamp": 1774337845,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Suns",
-      "side": "BUY",
-      "price": 0.51,
-      "effective_price": 0.51,
-      "size": 3749.0,
-      "amount": 1911.99,
-      "potential_pnl": 1837.01,
-      "pnl_multiplier": 0.9607843137254902,
-      "is_no": false,
-      "slug": "nba-den-phx-2026-03-24-spread-away-5pt5",
-      "eventSlug": "nba-den-phx-2026-03-24"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+26.8%)"
-      ],
-      "category": "other",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.242,
-      "market_price": 0.51,
-      "edge": 0.268,
-      "edge_percent": 26.8,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Nuggets' key players perform at or above expectations",
-          "Opposing team struggles defensively",
-          "Injury status of key players remains favorable"
-        ],
-        "weakest_link": "Opposing team struggles defensively"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent performance trends of the Nuggets",
-        "Injury reports and player availability"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "SUNS",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.268,
-      "edge_percent": 26.8
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 26.8,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0x0d4aebd729fe8192fff15adf814db635d8656d18f99be3a0cbf7b54a447a3d6a",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
@@ -29789,5 +29684,49 @@
     "market": "Hurricanes vs. Golden Knights",
     "market_slug": "nhl-car-las-2026-06-06",
     "amount": 15000.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xa1ee253bbc2a207139ad5bedab4fb34a983840c300aab2e5f8d3597ad14b9504",
+    "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
+    "trader": {
+      "rank": 14,
+      "address": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
+      "username": "mikatrade77",
+      "profit": 5147998.544602999,
+      "volume": 10884765.388775,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xdbca2d03c77b563b1391a2f5ca19597bb741ca8d",
+      "side": "BUY",
+      "asset": "114856123939206887228134340151369183717154730471078629695758744196002786259933",
+      "conditionId": "0x3aa3dbb98127b19b8a5f2b65c9a892cc4add08b8f2d4a92e2d175865d75e3016",
+      "size": 4445.564221,
+      "price": 0.4498866509570102,
+      "timestamp": 1780808911,
+      "title": "Game Handicap: TES (-1.5) vs Team WE (+1.5)",
+      "slug": "lol-tes-we-2026-06-07-game-handicap-away-1pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
+      "eventSlug": "lol-tes-we-2026-06-07",
+      "outcome": "Team WE",
+      "outcomeIndex": 1,
+      "name": "TIENWEI",
+      "pseudonym": "Handsome-Sousaphone",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xa1ee253bbc2a207139ad5bedab4fb34a983840c300aab2e5f8d3597ad14b9504",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Game Handicap: TES (-1.5) vs Team WE (+1.5)",
+    "market_slug": "lol-tes-we-2026-06-07",
+    "amount": 1999.9999989999997
   }
 ]
