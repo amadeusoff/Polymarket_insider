@@ -1,94 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x283ffe65ea52b2ca697aa8876dedc2b57e0d4397dbdfa897558d6906ac1d04e6",
-    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-    "trader": {
-      "rank": 5,
-      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-      "username": "zxgngl",
-      "profit": 7807265.5892408835,
-      "volume": 40551790.62184699,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xead152b855effa6b5b5837f53b24c0756830c76a",
-      "side": "BUY",
-      "asset": "113783662019454507967720129693467493325825726660314197671673023431409229815202",
-      "conditionId": "0x8d940577f973f2bc329022c4bc00ee63fec79e42e501302138815daa84217228",
-      "size": 4012,
-      "price": 0.4,
-      "timestamp": 1774390691,
-      "title": "Blackhawks vs. Islanders",
-      "slug": "nhl-chi-nyi-2026-03-24",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nhl.png",
-      "eventSlug": "nhl-chi-nyi-2026-03-24",
-      "outcome": "Blackhawks",
-      "outcomeIndex": 0,
-      "name": "elkmonkey",
-      "pseudonym": "Unconscious-Penguin",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x283ffe65ea52b2ca697aa8876dedc2b57e0d4397dbdfa897558d6906ac1d04e6",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Blackhawks vs. Islanders",
-    "market_slug": "nhl-chi-nyi-2026-03-24",
-    "amount": 1604.8000000000002
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x694f7b72027c3f6227b14c1afb528959ada98c12ba221876bf57f3e1a209ae09",
-    "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
-    "trader": {
-      "rank": 13,
-      "address": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
-      "username": "mikatrade77",
-      "profit": 5147998.544602999,
-      "volume": 10884765.388775002,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
-      "side": "SELL",
-      "asset": "16837684648635772950321658735457479320416455305373033538332622156443877105197",
-      "conditionId": "0xb76c2f1129b705f1a880df0050f8650b46970ff7d05f4a865c33b2491412ff50",
-      "size": 3000,
-      "price": 0.54,
-      "timestamp": 1774390989,
-      "title": "Hurricanes vs. Canadiens",
-      "slug": "nhl-car-mon-2026-03-24",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nhl.png",
-      "eventSlug": "nhl-car-mon-2026-03-24",
-      "outcome": "Hurricanes",
-      "outcomeIndex": 0,
-      "name": "VeryLucky888",
-      "pseudonym": "Scornful-West",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3980992-50a3f24e-e4d8-4388-86ae-d9c063867f3e.webp",
-      "profileImageOptimized": "",
-      "transactionHash": "0x694f7b72027c3f6227b14c1afb528959ada98c12ba221876bf57f3e1a209ae09",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Hurricanes vs. Canadiens",
-    "market_slug": "nhl-car-mon-2026-03-24",
-    "amount": 1620.0
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xebc6a66e5652de0f38e89b63e18ab5618c2326fa3a913334d10f460c5baa7492",
     "wallet": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
     "trader": {
@@ -29526,5 +29438,93 @@
     "market": "Jordan vs. Colombia: O/U 3.5",
     "market_slug": "fif-jor-col-2026-06-07-more-markets",
     "amount": 4234.146
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xce8ce848ca2cc6008a8bd97ba1276a3b73a8d1bd563dac2cd470dc47b9fae7d8",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x3dca854f147d9b9ecc56d37800f36b347ce23c13",
+      "side": "BUY",
+      "asset": "64703998724474008677827057135436893758254552168142785204605792475717308499827",
+      "conditionId": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
+      "size": 2649.42105,
+      "price": 0.7548819007080811,
+      "timestamp": 1780909287,
+      "title": "Will Keiko Fujimori win the 2026 Peruvian presidential election?",
+      "slug": "will-keiko-fujimori-win-the-2026-peruvian-presidential-election",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-keiko-fujimori-win-the-2026-peruvian-presidential-election-U834gpRSgT_T.jpg",
+      "eventSlug": "peru-presidential-election-winner",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "Ryxon21",
+      "pseudonym": "Handy-Ruffle",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3741982-fa6ae504-06b2-4a07-82e9-9d1726c7bd34.webp",
+      "profileImageOptimized": "",
+      "transactionHash": "0xce8ce848ca2cc6008a8bd97ba1276a3b73a8d1bd563dac2cd470dc47b9fae7d8",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Keiko Fujimori win the 2026 Peruvian presidential election?",
+    "market_slug": "peru-presidential-election-winner",
+    "amount": 1999.999998
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x3e20bb12d20179af2cd901e39466057487856da37c7ca0c02cf90805926f06fe",
+    "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
+    "trader": {
+      "rank": 8,
+      "address": "0x863134d00841b2e200492805a01e1e2f5defaa53",
+      "username": "RepTrump",
+      "profit": 7532409.671579,
+      "volume": 13983231.103425,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x18f3136f0984a0531623c81d3080f65b6c300c20",
+      "side": "BUY",
+      "asset": "48230928336222623931217730570159816280363513066385039677652279883283148484070",
+      "conditionId": "0xbd354ef71d51a63711f1fd8ee8716e67deb5fae1ffb5aea699b500f61a1a8a85",
+      "size": 4000,
+      "price": 0.379544725,
+      "timestamp": 1780909891,
+      "title": "Game Handicap: BLG (-1.5) vs Anyone's Legend (+1.5)",
+      "slug": "lol-al-blg-2026-06-08-game-handicap-home-1pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
+      "eventSlug": "lol-al-blg-2026-06-08",
+      "outcome": "Anyones Legend",
+      "outcomeIndex": 1,
+      "name": "mesmerizedx",
+      "pseudonym": "Worse-Supreme",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x3e20bb12d20179af2cd901e39466057487856da37c7ca0c02cf90805926f06fe",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Game Handicap: BLG (-1.5) vs Anyone's Legend (+1.5)",
+    "market_slug": "lol-al-blg-2026-06-08",
+    "amount": 1518.1789
   }
 ]
