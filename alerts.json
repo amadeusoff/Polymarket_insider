@@ -1,225 +1,5 @@
 [
   {
-    "market": "Kings vs. Hornets",
-    "market_slug": "nba-sac-cha-2026",
-    "event_slug": "nba-sac-cha-2026",
-    "wallet": "0x2a2c53bd278c04da9962fcf96490e17f3dfb9bc1",
-    "analysis": {
-      "score": 75,
-      "flags": [
-        "Against trend (7.0% effective odds)",
-        "Large bet ($3,305)",
-        "Top trader #36 ($2,352,325 profit)"
-      ],
-      "amount": 3304.9674000000005,
-      "odds": 0.07,
-      "raw_price": 0.07,
-      "outcome": "Kings",
-      "potential_pnl": 43908.8526,
-      "pnl_multiplier": 13.285714285714283,
-      "wallet_age_days": 22,
-      "total_activities": 100
-    },
-    "timestamp": "2026-03-24T23:17:57.802172",
-    "trade_hash": "0x4187deecd912ff2eb147282751488b06c3737917375fdd83c6576ec542323bae",
-    "trade_timestamp": 1774394031,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": {
-      "rank": 36,
-      "address": "0x2a2c53bd278c04da9962fcf96490e17f3dfb9bc1",
-      "username": "0x2a2C53bD278c04DA9962Fcf96490E17F3DfB9Bc1-1772479215461",
-      "profit": 2352325.0223185676,
-      "volume": 201431643.29081097,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade_data": {
-      "outcome": "Kings",
-      "side": "BUY",
-      "price": 0.07,
-      "effective_price": 0.07,
-      "size": 47213.82,
-      "amount": 3304.9674000000005,
-      "potential_pnl": 43908.8526,
-      "pnl_multiplier": 13.285714285714283,
-      "is_no": false,
-      "slug": "nba-sac-cha-2026",
-      "eventSlug": "nba-sac-cha-2026-03-24"
-    },
-    "irrationality": {
-      "irrationality_score": 25,
-      "flags": [
-        "Longshot (7%) in medium bias category (sports)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": false
-    },
-    "mispricing": {
-      "rational_estimate": 0.034,
-      "market_price": 0.07,
-      "edge": 0.036000000000000004,
-      "edge_percent": 3.6000000000000005,
-      "min_edge_required": 0.05,
-      "is_mispriced": false,
-      "edge_quality": "WEAK",
-      "base_rate_class": "rare",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "rare",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Kings must significantly improve their performance",
-          "Hornets must underperform relative to expectations",
-          "Injuries to key players on the Hornets"
-        ],
-        "weakest_link": "Kings must significantly improve their performance"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "team dynamics and player performance",
-        "injuries affecting team outcomes"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 75,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 75,
-      "insider_position": "KINGS",
-      "irrationality_score": 25,
-      "is_irrational": false,
-      "is_mispriced": false,
-      "edge": 0.036000000000000004,
-      "edge_percent": 3.6000000000000005
-    },
-    "financial_analyst": {
-      "signal_quality": 30.4,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 3.6,
-      "signal_strength": 75.0,
-      "insider_score": 75.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "Golden Knights vs. Jets: O/U 5.5",
-    "market_slug": "nhl-las-wpg-2026-03-24-total-5pt5",
-    "event_slug": "nhl-las-wpg-2026-03-24-total-5pt5",
-    "wallet": "0xe61e53d178e357eab709a37ae03c739240a3f5f7",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,334)",
-        "Low activity (4 txns)"
-      ],
-      "amount": 1333.86,
-      "odds": 0.47,
-      "raw_price": 0.47,
-      "outcome": "Under",
-      "potential_pnl": 1504.14,
-      "pnl_multiplier": 1.1276595744680853,
-      "wallet_age_days": 0,
-      "total_activities": 4
-    },
-    "timestamp": "2026-03-25T00:02:50.397394",
-    "trade_hash": "0xe8246979c77ce32685f5c85c90973f041291dd912fe67536b507f51955fc728d",
-    "trade_timestamp": 1774396681,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Under",
-      "side": "BUY",
-      "price": 0.47,
-      "effective_price": 0.47,
-      "size": 2838.0,
-      "amount": 1333.86,
-      "potential_pnl": 1504.14,
-      "pnl_multiplier": 1.1276595744680853,
-      "is_no": false,
-      "slug": "nhl-las-wpg-2026-03-24-total-5pt5",
-      "eventSlug": "nhl-las-wpg-2026-03-24"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+23.6%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.23399999999999999,
-      "market_price": 0.47,
-      "edge": 0.236,
-      "edge_percent": 23.599999999999998,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Both teams have strong offensive performances",
-          "Goalies perform below average",
-          "Game goes into overtime"
-        ],
-        "weakest_link": "Goalies perform below average"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent scoring trends of both teams",
-        "Injury status of key offensive players"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "UNDER",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.236,
-      "edge_percent": 23.599999999999998
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 23.6,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0xb71a260eb470c75c7f20718eb32c792353cf058022656b5ca4cb00d32702ca85",
     "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
@@ -29527,5 +29307,249 @@
     "market": "Counter-Strike: Monte vs BetBoom Team (BO3) - IEM Cologne Major Stage 2",
     "market_slug": "cs2-mnte-bb3-2026-06-08",
     "amount": 1974.5384999999999
+  },
+  {
+    "market": "Will Netherlands win on 2026-06-14?",
+    "market_slug": "fifwc-nld-jpn-2026-06-14-nld",
+    "event_slug": "fifwc-nld-jpn-2026-06-14-nld",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "analysis": {
+      "score": 90,
+      "flags": [
+        "Large bet ($2,324)",
+        "Pre-event latency: 7364m",
+        "Top trader #4 ($9,550,526 profit)"
+      ],
+      "amount": 2324.15,
+      "odds": 0.47,
+      "raw_price": 0.47,
+      "outcome": "Yes",
+      "potential_pnl": 2620.850000000001,
+      "pnl_multiplier": 1.1276595744680855,
+      "wallet_age_days": 303,
+      "total_activities": 100
+    },
+    "timestamp": "2026-06-08T21:23:23.338824",
+    "trade_hash": "0x04b2d9cec32eb85fc4690b32b6ba85fa7cb65454e9574e040c4c030a31b110e5",
+    "trade_timestamp": 1780953336,
+    "latency": {
+      "latency_seconds": 441864.0,
+      "latency_minutes": 7364.4,
+      "is_pre_event": true,
+      "severity": "CRITICAL",
+      "trade_time": "2026-06-08T21:15:36+00:00",
+      "event_time": "2026-06-14T00:00:00+00:00"
+    },
+    "wallet_stats": null,
+    "top_trader": {
+      "rank": 4,
+      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "username": "swisstony",
+      "profit": 9550525.933218317,
+      "volume": 862985892.8341107,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.47,
+      "effective_price": 0.47,
+      "size": 4945.0,
+      "amount": 2324.15,
+      "potential_pnl": 2620.85,
+      "pnl_multiplier": 1.127659574468085,
+      "is_no": false,
+      "slug": "fifwc-nld-jpn-2026-06-14-nld",
+      "eventSlug": "fifwc-nld-jpn-2026-06-14"
+    },
+    "irrationality": {
+      "irrationality_score": 25,
+      "flags": [
+        "Significant mispricing edge (+12.4%)"
+      ],
+      "category": "politics_near",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.02,
+        "min_edge": 0.03
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.3455,
+      "market_price": 0.47,
+      "edge": 0.1245,
+      "edge_percent": 12.45,
+      "min_edge_required": 0.03,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 90,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 90,
+      "insider_position": "YES",
+      "irrationality_score": 25,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.1245,
+      "edge_percent": 12.45
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 41.7,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 12.45,
+      "signal_strength": 90.0,
+      "insider_score": 90.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Will Netherlands win on 2026-06-14?",
+    "market_slug": "fifwc-nld-jpn-2026-06-14-nld",
+    "event_slug": "fifwc-nld-jpn-2026-06-14-nld",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "analysis": {
+      "score": 90,
+      "flags": [
+        "Large bet ($7,545)",
+        "Pre-event latency: 7364m",
+        "Top trader #4 ($9,550,526 profit)"
+      ],
+      "amount": 7544.91,
+      "odds": 0.47,
+      "raw_price": 0.47,
+      "outcome": "Yes",
+      "potential_pnl": 8508.09,
+      "pnl_multiplier": 1.127659574468085,
+      "wallet_age_days": 303,
+      "total_activities": 100
+    },
+    "timestamp": "2026-06-08T21:23:29.533383",
+    "trade_hash": "0xc3758038757e51b74c31547a178b91fb88d07ca6697e5389e6e576caba83c272",
+    "trade_timestamp": 1780953334,
+    "latency": {
+      "latency_seconds": 441866.0,
+      "latency_minutes": 7364.433333333333,
+      "is_pre_event": true,
+      "severity": "CRITICAL",
+      "trade_time": "2026-06-08T21:15:34+00:00",
+      "event_time": "2026-06-14T00:00:00+00:00"
+    },
+    "wallet_stats": null,
+    "top_trader": {
+      "rank": 4,
+      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "username": "swisstony",
+      "profit": 9550525.933218317,
+      "volume": 862985892.8341107,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.47,
+      "effective_price": 0.47,
+      "size": 16053.0,
+      "amount": 7544.91,
+      "potential_pnl": 8508.09,
+      "pnl_multiplier": 1.127659574468085,
+      "is_no": false,
+      "slug": "fifwc-nld-jpn-2026-06-14-nld",
+      "eventSlug": "fifwc-nld-jpn-2026-06-14"
+    },
+    "irrationality": {
+      "irrationality_score": 25,
+      "flags": [
+        "Significant mispricing edge (+12.4%)"
+      ],
+      "category": "politics_near",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.02,
+        "min_edge": 0.03
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.3455,
+      "market_price": 0.47,
+      "edge": 0.1245,
+      "edge_percent": 12.45,
+      "min_edge_required": 0.03,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 90,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 90,
+      "insider_position": "YES",
+      "irrationality_score": 25,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.1245,
+      "edge_percent": 12.45
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 41.7,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 12.45,
+      "signal_strength": 90.0,
+      "insider_score": 90.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
