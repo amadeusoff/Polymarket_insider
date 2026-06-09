@@ -1,121 +1,5 @@
 [
   {
-    "market": "US x Iran ceasefire by March 31?",
-    "market_slug": "us-x-iran-ceasefire-by-march-31",
-    "event_slug": "us-x-iran-ceasefire-by-march-31",
-    "wallet": "0x28845247d3f4085e759668252b0b1152b7a677e7",
-    "analysis": {
-      "score": 110,
-      "flags": [
-        "New wallet (2d old)",
-        "Large bet ($1,302)",
-        "Low activity (2 txns)",
-        "Pre-event latency: 7887m"
-      ],
-      "amount": 1301.8158,
-      "odds": 0.17,
-      "raw_price": 0.17,
-      "outcome": "Yes",
-      "potential_pnl": 6355.9241999999995,
-      "pnl_multiplier": 4.88235294117647,
-      "wallet_age_days": 2,
-      "total_activities": 2
-    },
-    "timestamp": "2026-03-25T12:33:57.608260",
-    "trade_hash": "0x9d46ca8a186f0866e3874083a21dec1c78280f7e5475683fdeaa38957c7ccfc6",
-    "trade_timestamp": 1774441961,
-    "latency": {
-      "latency_seconds": 473239.0,
-      "latency_minutes": 7887.316666666667,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-03-25T12:32:41+00:00",
-      "event_time": "2026-03-31T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "side": "SELL",
-      "price": 0.17,
-      "effective_price": 0.17,
-      "size": 7657.74,
-      "amount": 1301.8158,
-      "potential_pnl": 6355.9241999999995,
-      "pnl_multiplier": 4.88235294117647,
-      "is_no": false,
-      "slug": "us-x-iran-ceasefire-by-march-31",
-      "eventSlug": "us-x-iran-ceasefire-by"
-    },
-    "irrationality": {
-      "irrationality_score": 55,
-      "flags": [
-        "Longshot (17%) in high bias category (geopolitics)",
-        "Category structurally prone to longshot bias",
-        "Significant mispricing edge (+11.2%)"
-      ],
-      "category": "geopolitics",
-      "category_info": {
-        "strength": "high",
-        "typical_overpricing": 0.05,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.058,
-      "market_price": 0.17,
-      "edge": 0.11200000000000002,
-      "edge_percent": 11.200000000000001,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "rare",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "rare",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Mutual willingness to negotiate from both US and Iran",
-          "Reduction of hostilities and military actions in the region",
-          "Involvement of third-party mediators to facilitate discussions"
-        ],
-        "weakest_link": "Mutual willingness to negotiate from both US and Iran"
-      },
-      "category": "geopolitics",
-      "narrative_drivers": [
-        "International pressure for de-escalation",
-        "Economic sanctions impacting Iran's stability"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "CONFLICT",
-      "signal_emoji": "\u26a0\ufe0f",
-      "signal_strength": 110,
-      "interpretation": "Insider buying YES despite statistical overpricing",
-      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
-      "insider_score": 110,
-      "insider_position": "YES",
-      "irrationality_score": 55,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.11200000000000002,
-      "edge_percent": 11.200000000000001
-    },
-    "financial_analyst": {
-      "signal_quality": 47.8,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 11.2,
-      "signal_strength": 110.0,
-      "insider_score": 110.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-03-29T06:58:05.594096+00:00"
-  },
-  {
     "market": "Bucks vs. Trail Blazers: O/U 225.5",
     "market_slug": "nba-mil-por-2026-03-25-total-225pt5",
     "event_slug": "nba-mil-por-2026-03-25-total-225pt5",
@@ -29551,5 +29435,116 @@
     "market": "Spread: Knicks (-1.5)",
     "market_slug": "nba-sas-nyk-2026-06-08",
     "amount": 5000.0
+  },
+  {
+    "market": "US x Iran permanent peace deal by June 15, 2026?",
+    "market_slug": "us-x-iran-permanent-peace-deal-by-june-15-2026-734",
+    "event_slug": "us-x-iran-permanent-peace-deal-by-june-15-2026-734",
+    "wallet": "0x43ecf36be05a7991e2f46395784f45fcabd8afef",
+    "analysis": {
+      "score": 85,
+      "flags": [
+        "Against trend (5.0% effective odds)",
+        "Large bet ($1,579)",
+        "Pre-event latency: 8366m"
+      ],
+      "amount": 1578.9473680000012,
+      "odds": 0.050000000000000044,
+      "raw_price": 0.95,
+      "outcome": "No",
+      "potential_pnl": 29999.999991999997,
+      "pnl_multiplier": 18.999999999999982,
+      "wallet_age_days": 566,
+      "total_activities": 100
+    },
+    "timestamp": "2026-06-09T04:38:56.999347",
+    "trade_hash": "0x141f7a8d332020634a56fa4d45c271f7ee33a47b070ab15c82d5d749d51acaa0",
+    "trade_timestamp": 1780979613,
+    "latency": {
+      "latency_seconds": 501987.0,
+      "latency_minutes": 8366.45,
+      "is_pre_event": true,
+      "severity": "CRITICAL",
+      "trade_time": "2026-06-09T04:33:33+00:00",
+      "event_time": "2026-06-15T00:00:00+00:00"
+    },
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.95,
+      "effective_price": 0.95,
+      "size": 31578.94736,
+      "amount": 29999.999991999997,
+      "potential_pnl": 1578.947368000001,
+      "pnl_multiplier": 0.05263157894736846,
+      "is_no": true,
+      "slug": "us-x-iran-permanent-peace-deal-by-june-15-2026-734",
+      "eventSlug": "us-x-iran-permanent-peace-deal-by"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+45.0%)"
+      ],
+      "category": "politics_near",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.02,
+        "min_edge": 0.03
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.5,
+      "market_price": 0.95,
+      "edge": 0.44999999999999996,
+      "edge_percent": 44.99999999999999,
+      "min_edge_required": 0.03,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 120,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 85,
+      "insider_position": "NO",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.44999999999999996,
+      "edge_percent": 44.99999999999999
+    },
+    "financial_analyst": {
+      "signal_quality": 84.0,
+      "stance": "HIGH_CONVICTION",
+      "edge_percent": 45.0,
+      "signal_strength": 120.0,
+      "insider_score": 85.0,
+      "risk_note": "High stake detected \u2014 copy with reduced sizing (25-40% of source risk)."
+    }
   }
 ]
