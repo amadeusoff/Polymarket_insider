@@ -3,216 +3,6 @@
     "market": "Bucks vs. Trail Blazers: O/U 225.5",
     "market_slug": "nba-mil-por-2026-03-25-total-225pt5",
     "event_slug": "nba-mil-por-2026-03-25-total-225pt5",
-    "wallet": "0x1f73af2b56a99aae13ca464b5be90e4a8b01d3d6",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,033)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 1032.75,
-      "odds": 0.51,
-      "raw_price": 0.51,
-      "outcome": "Over",
-      "potential_pnl": 992.25,
-      "pnl_multiplier": 0.9607843137254902,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-03-25T14:54:10.190155",
-    "trade_hash": "0x600a78661dd594fc19aeb51b0a0bd3095fe8290faff0d777e7344774acd0af41",
-    "trade_timestamp": 1774450081,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Over",
-      "side": "BUY",
-      "price": 0.51,
-      "effective_price": 0.51,
-      "size": 2025.0,
-      "amount": 1032.75,
-      "potential_pnl": 992.25,
-      "pnl_multiplier": 0.9607843137254902,
-      "is_no": false,
-      "slug": "nba-mil-por-2026-03-25-total-225pt5",
-      "eventSlug": "nba-mil-por-2026-03-25"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+26.8%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.242,
-      "market_price": 0.51,
-      "edge": 0.268,
-      "edge_percent": 26.8,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Both teams score efficiently",
-          "Defensive strategies are less effective",
-          "Game pace is fast"
-        ],
-        "weakest_link": "Defensive strategies are less effective"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent offensive performances of both teams",
-        "Injury status of key players affecting scoring"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "OVER",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.268,
-      "edge_percent": 26.8
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 26.8,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "Bucks vs. Trail Blazers: O/U 225.5",
-    "market_slug": "nba-mil-por-2026-03-25-total-225pt5",
-    "event_slug": "nba-mil-por-2026-03-25-total-225pt5",
-    "wallet": "0xdc764e559fce0fa1d0c5bb8c79215a282928fd50",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,416)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 1415.76,
-      "odds": 0.51,
-      "raw_price": 0.51,
-      "outcome": "Over",
-      "potential_pnl": 1360.24,
-      "pnl_multiplier": 0.9607843137254902,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-03-25T14:54:14.475118",
-    "trade_hash": "0x7792e6a3f399b0467bec8bcdacaee73040ab5cffdacdab6d7c4c09acfb180bac",
-    "trade_timestamp": 1774450079,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Over",
-      "side": "BUY",
-      "price": 0.51,
-      "effective_price": 0.51,
-      "size": 2776.0,
-      "amount": 1415.76,
-      "potential_pnl": 1360.24,
-      "pnl_multiplier": 0.9607843137254902,
-      "is_no": false,
-      "slug": "nba-mil-por-2026-03-25-total-225pt5",
-      "eventSlug": "nba-mil-por-2026-03-25"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+26.8%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.242,
-      "market_price": 0.51,
-      "edge": 0.268,
-      "edge_percent": 26.8,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Both teams have high-scoring offenses",
-          "Defensive strategies are ineffective",
-          "Game pace is fast"
-        ],
-        "weakest_link": "Defensive strategies are ineffective"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent scoring trends of both teams",
-        "Injury reports affecting key players"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "OVER",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.268,
-      "edge_percent": 26.8
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 26.8,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "Bucks vs. Trail Blazers: O/U 225.5",
-    "market_slug": "nba-mil-por-2026-03-25-total-225pt5",
-    "event_slug": "nba-mil-por-2026-03-25-total-225pt5",
     "wallet": "0xe72381757595ffd1f9f0cbb13547b57e42563d61",
     "analysis": {
       "score": 70,
@@ -29548,5 +29338,93 @@
       "insider_score": 85.0,
       "risk_note": "High stake detected \u2014 copy with reduced sizing (25-40% of source risk)."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xb9929bfb1754bbb3c94631c7970b8533b550e703b989dc3c0888d10b57832216",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x0e64bde21d716711fbe59095eb0c88fae55e336d",
+      "side": "BUY",
+      "asset": "31143127808727949746960299429637294890846663029102260794770660497029088628147",
+      "conditionId": "0xeb9f322e9981a30a22b336aa9cb8148e7d497ed5d3152f61e815faff32de4821",
+      "size": 5356,
+      "price": 0.52,
+      "timestamp": 1781023332,
+      "title": "New York Yankees vs. Cleveland Guardians",
+      "slug": "mlb-nyy-cle-2026-06-09",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
+      "eventSlug": "mlb-nyy-cle-2026-06-09",
+      "outcome": "New York Yankees",
+      "outcomeIndex": 0,
+      "name": "KioskJammer",
+      "pseudonym": "Happy-Wife",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xb9929bfb1754bbb3c94631c7970b8533b550e703b989dc3c0888d10b57832216",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "New York Yankees vs. Cleveland Guardians",
+    "market_slug": "mlb-nyy-cle-2026-06-09",
+    "amount": 2785.12
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x3acf636915926b0dced3d663dbe91b061946d13f7357fe0465fb0e6d4fb5b451",
+    "wallet": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
+    "trader": {
+      "rank": 14,
+      "address": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
+      "username": "gmanas",
+      "profit": 4955880.748692185,
+      "volume": 529047708.50599104,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x736539924a5602b37a03a54fc12c1cc8f98964da",
+      "side": "BUY",
+      "asset": "88106247845177011019778308711468102017494660294785274075912466342696127797356",
+      "conditionId": "0xde5f6791fa13105b0902fe244345f1225decf68779f17444ce09953b65533d9c",
+      "size": 1984.14,
+      "price": 0.8887041741006179,
+      "timestamp": 1781023935,
+      "title": "Will a Claude Mythos model be released by June 9, 2026?",
+      "slug": "will-a-claude-mythos-model-be-released-by-june-9-2026",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/claude-5-released-by-JDewQT893n65.jpg",
+      "eventSlug": "claude-mythos-released-by",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "cqk",
+      "pseudonym": "Golden-Unemployment",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3375648-96e5757f-1e29-47e2-95ae-24c2082d1c35.jpg",
+      "profileImageOptimized": "",
+      "transactionHash": "0x3acf636915926b0dced3d663dbe91b061946d13f7357fe0465fb0e6d4fb5b451",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will a Claude Mythos model be released by June 9, 2026?",
+    "market_slug": "claude-mythos-released-by",
+    "amount": 1763.3135
   }
 ]
