@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xb71a260eb470c75c7f20718eb32c792353cf058022656b5ca4cb00d32702ca85",
-    "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
-    "trader": {
-      "rank": 13,
-      "address": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
-      "username": "mikatrade77",
-      "profit": 5147998.544602999,
-      "volume": 10884765.388775,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xd6a3f0ec6c4a8ad680d580610c82ca57ff139489",
-      "side": "BUY",
-      "asset": "23233394988453138676453756568931964683203148302915027263468721213424953033444",
-      "conditionId": "0xbd4c47f29092f81f777211bb56e17a6658e80992fb87db766f679160be3241c3",
-      "size": 3403.36,
-      "price": 0.8687263469042358,
-      "timestamp": 1774414401,
-      "title": "Nuggets vs. Suns",
-      "slug": "nba-den-phx-2026-03-24",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-den-phx-2026-03-24",
-      "outcome": "Nuggets",
-      "outcomeIndex": 0,
-      "name": "knedloveprovelo",
-      "pseudonym": "Weighty-Rifle",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xb71a260eb470c75c7f20718eb32c792353cf058022656b5ca4cb00d32702ca85",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Nuggets vs. Suns",
-    "market_slug": "nba-den-phx-2026-03-24",
-    "amount": 2956.5885
-  },
-  {
     "market": "US x Iran ceasefire by March 31?",
     "market_slug": "us-x-iran-ceasefire-by-march-31",
     "event_slug": "us-x-iran-ceasefire-by-march-31",
@@ -29551,5 +29507,49 @@
       "insider_score": 90.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xc4856ad19df2317f58136f4eb8b8fe8023e8babc3e5ad5455a97d05d565666e8",
+    "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+    "trader": {
+      "rank": 17,
+      "address": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+      "username": "beachboy4",
+      "profit": 4674291.491421243,
+      "volume": 222153209.143091,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x40479e113865299a028034742a31e7993bf4d46c",
+      "side": "BUY",
+      "asset": "81340665897445719165247299816476932621331162951218407818259915219464208622741",
+      "conditionId": "0xebfc4972fa10272d79851eeeffa93f91c7fbd51231b4e971af182d01c88fceb3",
+      "size": 10000,
+      "price": 0.5,
+      "timestamp": 1780964550,
+      "title": "Spread: Knicks (-1.5)",
+      "slug": "nba-sas-nyk-2026-06-08-spread-home-1pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-sas-nyk-2026-06-08",
+      "outcome": "Spurs",
+      "outcomeIndex": 1,
+      "name": "0x40479e113865299a028034742a31E7993bF4d46C-1779558404670",
+      "pseudonym": "Dear-Textual",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xc4856ad19df2317f58136f4eb8b8fe8023e8babc3e5ad5455a97d05d565666e8",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spread: Knicks (-1.5)",
+    "market_slug": "nba-sas-nyk-2026-06-08",
+    "amount": 5000.0
   }
 ]
