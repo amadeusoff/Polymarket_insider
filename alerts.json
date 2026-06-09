@@ -29268,7 +29268,8 @@
       "signal_strength": 90.0,
       "insider_score": 90.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
+    },
+    "resolution_last_check": "2026-06-09T09:47:24.544740+00:00"
   },
   {
     "market": "Will Netherlands win on 2026-06-14?",
@@ -29390,7 +29391,8 @@
       "signal_strength": 90.0,
       "insider_score": 90.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
+    },
+    "resolution_last_check": "2026-06-09T09:47:24.544762+00:00"
   },
   {
     "type": "TOP_TRADER",
