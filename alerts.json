@@ -1,110 +1,5 @@
 [
   {
-    "market": "Hawks vs. Pistons: O/U 228.5",
-    "market_slug": "nba-atl-det-2026-03-25-total-228pt5",
-    "event_slug": "nba-atl-det-2026-03-25-total-228pt5",
-    "wallet": "0x0e2d7e5fae80ff89c5ddf1f03829f5ab2d3ac099",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,490)",
-        "Low activity (2 txns)"
-      ],
-      "amount": 1490.5,
-      "odds": 0.5,
-      "raw_price": 0.5,
-      "outcome": "Under",
-      "potential_pnl": 1490.5,
-      "pnl_multiplier": 1.0,
-      "wallet_age_days": 0,
-      "total_activities": 2
-    },
-    "timestamp": "2026-03-25T18:36:37.518799",
-    "trade_hash": "0x45fe0e33ef13d295daff7a1b27177d1bb053b109d99773921b73bcd1a08582d2",
-    "trade_timestamp": 1774463545,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Under",
-      "side": "BUY",
-      "price": 0.5,
-      "effective_price": 0.5,
-      "size": 2981.0,
-      "amount": 1490.5,
-      "potential_pnl": 1490.5,
-      "pnl_multiplier": 1.0,
-      "is_no": false,
-      "slug": "nba-atl-det-2026-03-25-total-228pt5",
-      "eventSlug": "nba-atl-det-2026-03-25"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+26.0%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.24,
-      "market_price": 0.5,
-      "edge": 0.26,
-      "edge_percent": 26.0,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Both teams have strong offensive performances",
-          "Defensive weaknesses from both teams",
-          "Game pace is fast with high possessions"
-        ],
-        "weakest_link": "Defensive weaknesses from both teams"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent scoring trends of both teams",
-        "Injuries affecting key defensive players"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "UNDER",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.26,
-      "edge_percent": 26.0
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 26.0,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0x70c2bdae14f629cc16e48f5f93e4fda1ac33c2cb58c5dabe182f294ddb1db5b8",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
@@ -29373,5 +29268,49 @@
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     },
     "resolution_last_check": "2026-06-10T10:03:38.083311+00:00"
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xc91521fa26df202c96a47cf154b3df6bce01104ff00dd2427dcb107a8734dba8",
+    "wallet": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
+    "trader": {
+      "rank": 2,
+      "address": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
+      "username": "Fredi9999",
+      "profit": 16619506.631730152,
+      "volume": 76611316.90515402,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xde496f99cfcc61405dbe593f47d74bc5e85afe85",
+      "side": "BUY",
+      "asset": "9531397675191907100529154293716235104724856375638966260295598316263249115292",
+      "conditionId": "0xd5cb530c6ae7fb76fc164332a64718818a5397ac27c2e0eea2a674c83af57c28",
+      "size": 6934.65,
+      "price": 0.57,
+      "timestamp": 1781116860,
+      "title": "New York Yankees vs. Cleveland Guardians",
+      "slug": "mlb-nyy-cle-2026-06-10",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
+      "eventSlug": "mlb-nyy-cle-2026-06-10",
+      "outcome": "New York Yankees",
+      "outcomeIndex": 0,
+      "name": "biguser67",
+      "pseudonym": "Bouncy-Blight",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xc91521fa26df202c96a47cf154b3df6bce01104ff00dd2427dcb107a8734dba8",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "New York Yankees vs. Cleveland Guardians",
+    "market_slug": "mlb-nyy-cle-2026-06-10",
+    "amount": 3952.7504999999996
   }
 ]
