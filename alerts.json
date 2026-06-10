@@ -29371,6 +29371,7 @@
       "signal_strength": 135.0,
       "insider_score": 110.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
+    },
+    "resolution_last_check": "2026-06-10T10:03:38.083311+00:00"
   }
 ]
