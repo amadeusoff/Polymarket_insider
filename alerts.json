@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x70c2bdae14f629cc16e48f5f93e4fda1ac33c2cb58c5dabe182f294ddb1db5b8",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xead152b855effa6b5b5837f53b24c0756830c76a",
-      "side": "BUY",
-      "asset": "50181829773967147829359812554458694670840538126923475302035540013208537232772",
-      "conditionId": "0x582c66d505843a09b656d6d120d5616d1004150f9de25e3158b0037ee5104c0d",
-      "size": 4010,
-      "price": 0.45,
-      "timestamp": 1774477125,
-      "title": "Rangers vs. Maple Leafs",
-      "slug": "nhl-nyr-tor-2026-03-25",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nhl.png",
-      "eventSlug": "nhl-nyr-tor-2026-03-25",
-      "outcome": "Maple Leafs",
-      "outcomeIndex": 1,
-      "name": "elkmonkey",
-      "pseudonym": "Unconscious-Penguin",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x70c2bdae14f629cc16e48f5f93e4fda1ac33c2cb58c5dabe182f294ddb1db5b8",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Rangers vs. Maple Leafs",
-    "market_slug": "nhl-nyr-tor-2026-03-25",
-    "amount": 1804.5
-  },
-  {
     "market": "Russia x Ukraine ceasefire by end of 2026?",
     "market_slug": "russia-x-ukraine-ceasefire-before-2027",
     "event_slug": "russia-x-ukraine-ceasefire-before-2027",
@@ -29312,5 +29268,49 @@
     "market": "New York Yankees vs. Cleveland Guardians",
     "market_slug": "mlb-nyy-cle-2026-06-10",
     "amount": 3952.7504999999996
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x2643ef445b36252ee6aaf26f7a5579c536239b0847f4d67efa546c7aea872bee",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x459e7ee9927636d3eac73814753685ac26af7dd1",
+      "side": "BUY",
+      "asset": "30634149780694326427236486823922532015676899384485621009873249536425386898491",
+      "conditionId": "0xbe94379d5a8500bdebb9bf3a9b68eae26cff9e8e17b756e8b1f47263bd91da95",
+      "size": 3350,
+      "price": 0.5,
+      "timestamp": 1781132323,
+      "title": "St. Louis Cardinals vs. New York Mets: O/U 8.5",
+      "slug": "mlb-stl-nym-2026-06-10-total-8pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
+      "eventSlug": "mlb-stl-nym-2026-06-10",
+      "outcome": "Under",
+      "outcomeIndex": 1,
+      "name": "Chewinggums",
+      "pseudonym": "Responsible-Requirement",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x2643ef445b36252ee6aaf26f7a5579c536239b0847f4d67efa546c7aea872bee",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "St. Louis Cardinals vs. New York Mets: O/U 8.5",
+    "market_slug": "mlb-stl-nym-2026-06-10",
+    "amount": 1675.0
   }
 ]
