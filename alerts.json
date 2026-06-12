@@ -1,320 +1,5 @@
 [
   {
-    "market": "Pelicans vs. Pistons: O/U 225.5",
-    "market_slug": "nba-nop-det-2026-03-26-total-225pt5",
-    "event_slug": "nba-nop-det-2026-03-26-total-225pt5",
-    "wallet": "0x08f6aa11e4b14523712699549a3b88e4e75f7501",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,604)",
-        "Low activity (2 txns)"
-      ],
-      "amount": 1604.4080000000001,
-      "odds": 0.52,
-      "raw_price": 0.52,
-      "outcome": "Over",
-      "potential_pnl": 1480.992,
-      "pnl_multiplier": 0.923076923076923,
-      "wallet_age_days": 0,
-      "total_activities": 2
-    },
-    "timestamp": "2026-03-26T08:10:00.163205",
-    "trade_hash": "0x2f462867988011b9a5bffc76efc66fd5bc41d85b21ebada2bb7d0b3602cc8541",
-    "trade_timestamp": 1774512353,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Over",
-      "side": "BUY",
-      "price": 0.52,
-      "effective_price": 0.52,
-      "size": 3085.4,
-      "amount": 1604.4080000000001,
-      "potential_pnl": 1480.992,
-      "pnl_multiplier": 0.923076923076923,
-      "is_no": false,
-      "slug": "nba-nop-det-2026-03-26-total-225pt5",
-      "eventSlug": "nba-nop-det-2026-03-26"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+27.6%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.244,
-      "market_price": 0.52,
-      "edge": 0.276,
-      "edge_percent": 27.6,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Both teams have high-scoring offenses",
-          "Defensive weaknesses are exploited",
-          "Game pace is fast"
-        ],
-        "weakest_link": "Defensive weaknesses are exploited"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent performance trends of both teams",
-        "Injury reports affecting key players"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "OVER",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.276,
-      "edge_percent": 27.6
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 27.6,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "Pelicans vs. Pistons: O/U 225.5",
-    "market_slug": "nba-nop-det-2026-03-26-total-225pt5",
-    "event_slug": "nba-nop-det-2026-03-26-total-225pt5",
-    "wallet": "0xea65e51817ee0ae7b20de0a750b268abbb3c152b",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,191)",
-        "Low activity (2 txns)"
-      ],
-      "amount": 1191.32,
-      "odds": 0.52,
-      "raw_price": 0.52,
-      "outcome": "Over",
-      "potential_pnl": 1099.68,
-      "pnl_multiplier": 0.9230769230769231,
-      "wallet_age_days": 0,
-      "total_activities": 2
-    },
-    "timestamp": "2026-03-26T08:10:04.471286",
-    "trade_hash": "0x03a32ab68a28a283f825cf54553f3d9508fa8859bc60ff31aa69e20d14448227",
-    "trade_timestamp": 1774512427,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Over",
-      "side": "BUY",
-      "price": 0.52,
-      "effective_price": 0.52,
-      "size": 2291.0,
-      "amount": 1191.32,
-      "potential_pnl": 1099.68,
-      "pnl_multiplier": 0.9230769230769231,
-      "is_no": false,
-      "slug": "nba-nop-det-2026-03-26-total-225pt5",
-      "eventSlug": "nba-nop-det-2026-03-26"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+27.6%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.244,
-      "market_price": 0.52,
-      "edge": 0.276,
-      "edge_percent": 27.6,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Both teams have high-scoring offenses",
-          "Defensive weaknesses are exploited",
-          "Game pace is fast"
-        ],
-        "weakest_link": "Defensive weaknesses are exploited"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent offensive performances",
-        "Injury status of key players"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "OVER",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.276,
-      "edge_percent": 27.6
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 27.6,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "Knicks vs. Hornets: O/U 223.5",
-    "market_slug": "nba-nyk-cha-2026-03-26-total-223pt5",
-    "event_slug": "nba-nyk-cha-2026-03-26-total-223pt5",
-    "wallet": "0xd571c3f87ac6521ae06acc54217bd873aab4464f",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,724)",
-        "Low activity (4 txns)"
-      ],
-      "amount": 1723.5,
-      "odds": 0.5,
-      "raw_price": 0.5,
-      "outcome": "Over",
-      "potential_pnl": 1723.5,
-      "pnl_multiplier": 1.0,
-      "wallet_age_days": 0,
-      "total_activities": 4
-    },
-    "timestamp": "2026-03-26T08:10:07.582706",
-    "trade_hash": "0x3c0e0f807a082b2137c535098864450c09b2e5e7c2cfb3d7bc839da0a72d5df1",
-    "trade_timestamp": 1774512427,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Over",
-      "side": "BUY",
-      "price": 0.5,
-      "effective_price": 0.5,
-      "size": 3447.0,
-      "amount": 1723.5,
-      "potential_pnl": 1723.5,
-      "pnl_multiplier": 1.0,
-      "is_no": false,
-      "slug": "nba-nyk-cha-2026-03-26-total-223pt5",
-      "eventSlug": "nba-nyk-cha-2026-03-26"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+26.0%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.24,
-      "market_price": 0.5,
-      "edge": 0.26,
-      "edge_percent": 26.0,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Both teams have high-scoring offenses",
-          "Defensive weaknesses on both sides",
-          "Favorable game pace"
-        ],
-        "weakest_link": "Defensive weaknesses on both sides"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent performance trends of both teams",
-        "Injuries affecting key players"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "OVER",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.26,
-      "edge_percent": 26.0
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 26.0,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "market": "Knicks vs. Hornets: O/U 223.5",
     "market_slug": "nba-nyk-cha-2026-03-26-total-223pt5",
     "event_slug": "nba-nyk-cha-2026-03-26-total-223pt5",
@@ -29239,5 +28924,203 @@
     "market": "SpaceX IPO closing market cap above $1.8T?",
     "market_slug": "spacex-ipo-closing-market-cap-above",
     "amount": 2246.625
+  },
+  {
+    "market": "US x Iran permanent peace deal by June 15, 2026?",
+    "market_slug": "us-x-iran-permanent-peace-deal-by-june-15-2026-734",
+    "event_slug": "us-x-iran-permanent-peace-deal-by-june-15-2026-734",
+    "wallet": "0x31bd72f83eb411599a4058c1316ef1d6e6442649",
+    "analysis": {
+      "score": 80,
+      "flags": [
+        "New wallet (0d old)",
+        "Pre-event latency: 3095m"
+      ],
+      "amount": 271.7420000000001,
+      "odds": 0.16600000000000004,
+      "raw_price": 0.834,
+      "outcome": "No",
+      "potential_pnl": 1365.2579999999998,
+      "pnl_multiplier": 5.024096385542166,
+      "wallet_age_days": 0,
+      "total_activities": 92
+    },
+    "timestamp": "2026-06-12T20:29:48.084473",
+    "trade_hash": "0xd7f1b6f79dcd3b24431fe9820f49d2acf969430b2c8dabc2c2ff79ae96c57db6",
+    "trade_timestamp": 1781295873,
+    "latency": {
+      "latency_seconds": 185727.0,
+      "latency_minutes": 3095.45,
+      "is_pre_event": true,
+      "severity": "CRITICAL",
+      "trade_time": "2026-06-12T20:24:33+00:00",
+      "event_time": "2026-06-15T00:00:00+00:00"
+    },
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.834,
+      "effective_price": 0.834,
+      "size": 1637.0,
+      "amount": 1365.258,
+      "potential_pnl": 271.74199999999996,
+      "pnl_multiplier": 0.19904076738609108,
+      "is_no": true,
+      "slug": "us-x-iran-permanent-peace-deal-by-june-15-2026-734",
+      "eventSlug": "us-x-iran-permanent-peace-deal-by"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+34.3%)"
+      ],
+      "category": "politics_near",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.02,
+        "min_edge": 0.03
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.4911,
+      "market_price": 0.834,
+      "edge": 0.3429,
+      "edge_percent": 34.29,
+      "min_edge_required": 0.03,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 115,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 80,
+      "insider_position": "NO",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.3429,
+      "edge_percent": 34.29
+    },
+    "financial_analyst": {
+      "signal_quality": 83.0,
+      "stance": "HIGH_CONVICTION",
+      "edge_percent": 34.29,
+      "signal_strength": 115.0,
+      "insider_score": 80.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x45f6ca960c34996dd923a40e3c9d4c1d3f76122c8c7a25b4c63a43e8aa8650c1",
+    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
+    "trader": {
+      "rank": 7,
+      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
+      "username": "zxgngl",
+      "profit": 7807265.589240883,
+      "volume": 40551790.62184698,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "99893700803106495912847744309826318451822331764772710771806461448490545391908",
+      "conditionId": "0xb3b7c64733c75de6bcc210853c2174acd115c650aaa989a7483e08fed90d679a",
+      "size": 3056,
+      "price": 0.89,
+      "timestamp": 1781296368,
+      "title": "Spread: Bosnia and Herzegovina (-1.5)",
+      "slug": "fifwc-can-bih-2026-06-12-spread-away-1pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-can-bih-2026-06-12-more-markets",
+      "outcome": "Canada",
+      "outcomeIndex": 1,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "loincloth chic",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x45f6ca960c34996dd923a40e3c9d4c1d3f76122c8c7a25b4c63a43e8aa8650c1",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spread: Bosnia and Herzegovina (-1.5)",
+    "market_slug": "fifwc-can-bih-2026-06-12-more-markets",
+    "amount": 2719.84
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xe5d48f4bab84186f390a7008456d0be2ed293d066290703b5d104ad4bc365428",
+    "wallet": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
+    "trader": {
+      "rank": 16,
+      "address": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
+      "username": "GamblingIsAllYouNeed",
+      "profit": 4788744.866025824,
+      "volume": 436689305.38136697,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "99893700803106495912847744309826318451822331764772710771806461448490545391908",
+      "conditionId": "0xb3b7c64733c75de6bcc210853c2174acd115c650aaa989a7483e08fed90d679a",
+      "size": 1783,
+      "price": 0.89,
+      "timestamp": 1781296666,
+      "title": "Spread: Bosnia and Herzegovina (-1.5)",
+      "slug": "fifwc-can-bih-2026-06-12-spread-away-1pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-can-bih-2026-06-12-more-markets",
+      "outcome": "Canada",
+      "outcomeIndex": 1,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "loincloth chic",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xe5d48f4bab84186f390a7008456d0be2ed293d066290703b5d104ad4bc365428",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spread: Bosnia and Herzegovina (-1.5)",
+    "market_slug": "fifwc-can-bih-2026-06-12-more-markets",
+    "amount": 1586.8700000000001
   }
 ]
