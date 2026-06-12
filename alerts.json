@@ -1,215 +1,5 @@
 [
   {
-    "market": "Knicks vs. Hornets: O/U 223.5",
-    "market_slug": "nba-nyk-cha-2026-03-26-total-223pt5",
-    "event_slug": "nba-nyk-cha-2026-03-26-total-223pt5",
-    "wallet": "0x7d47970f2153c3ce229e9258eba44a1de61e367e",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,739)",
-        "Low activity (4 txns)"
-      ],
-      "amount": 1739.0,
-      "odds": 0.5,
-      "raw_price": 0.5,
-      "outcome": "Under",
-      "potential_pnl": 1739.0,
-      "pnl_multiplier": 1.0,
-      "wallet_age_days": 0,
-      "total_activities": 4
-    },
-    "timestamp": "2026-03-26T08:10:11.377995",
-    "trade_hash": "0xdccde596c8ead45cb7361cf402277ef4d3487f04af0243f77c94fa411930e7df",
-    "trade_timestamp": 1774512427,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Under",
-      "side": "BUY",
-      "price": 0.5,
-      "effective_price": 0.5,
-      "size": 3478.0,
-      "amount": 1739.0,
-      "potential_pnl": 1739.0,
-      "pnl_multiplier": 1.0,
-      "is_no": false,
-      "slug": "nba-nyk-cha-2026-03-26-total-223pt5",
-      "eventSlug": "nba-nyk-cha-2026-03-26"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+26.0%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.24,
-      "market_price": 0.5,
-      "edge": 0.26,
-      "edge_percent": 26.0,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Both teams have high-scoring offenses",
-          "Defensive weaknesses are exploited",
-          "Game pace is fast"
-        ],
-        "weakest_link": "Defensive weaknesses are exploited"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent scoring trends of both teams",
-        "Injury reports affecting key players"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "UNDER",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.26,
-      "edge_percent": 26.0
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 26.0,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "Pelicans vs. Pistons: O/U 225.5",
-    "market_slug": "nba-nop-det-2026-03-26-total-225pt5",
-    "event_slug": "nba-nop-det-2026-03-26-total-225pt5",
-    "wallet": "0xac5a1079c6acd48418550807068a6e11d985933b",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,358)",
-        "Low activity (3 txns)"
-      ],
-      "amount": 1358.24,
-      "odds": 0.52,
-      "raw_price": 0.52,
-      "outcome": "Over",
-      "potential_pnl": 1253.76,
-      "pnl_multiplier": 0.923076923076923,
-      "wallet_age_days": 0,
-      "total_activities": 3
-    },
-    "timestamp": "2026-03-26T09:12:23.946758",
-    "trade_hash": "0xd3fb735692770d2648558eae387feb97669eb782125cfa8d0f18ab9bb458745a",
-    "trade_timestamp": 1774516149,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Over",
-      "side": "BUY",
-      "price": 0.52,
-      "effective_price": 0.52,
-      "size": 2612.0,
-      "amount": 1358.24,
-      "potential_pnl": 1253.76,
-      "pnl_multiplier": 0.923076923076923,
-      "is_no": false,
-      "slug": "nba-nop-det-2026-03-26-total-225pt5",
-      "eventSlug": "nba-nop-det-2026-03-26"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+27.6%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.244,
-      "market_price": 0.52,
-      "edge": 0.276,
-      "edge_percent": 27.6,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Both teams have high offensive efficiency",
-          "Both teams have low defensive efficiency",
-          "Game pace is high"
-        ],
-        "weakest_link": "Both teams have low defensive efficiency"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent scoring trends of both teams",
-        "Injuries affecting player performance"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "OVER",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.276,
-      "edge_percent": 27.6
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 27.6,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "market": "US forces enter Iran by March 31?",
     "market_slug": "us-forces-enter-iran-by-march-31-222-191-243-517-878",
     "event_slug": "us-forces-enter-iran-by-march-31-222-191-243-517-878",
@@ -29122,5 +28912,93 @@
     "market": "Spread: Bosnia and Herzegovina (-1.5)",
     "market_slug": "fifwc-can-bih-2026-06-12-more-markets",
     "amount": 1586.8700000000001
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x81a45fafdbed97e9b7b2f95c9f3afc350b20b884b4c0a9d319d036f9578a088c",
+    "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
+    "trader": {
+      "rank": 13,
+      "address": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
+      "username": "mikatrade77",
+      "profit": 5147998.544602999,
+      "volume": 10884765.388775,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x032eb1bc893940263ad0b01889f262fc232f2a9e",
+      "side": "BUY",
+      "asset": "23543653827395155092208574186623214052528289417069003688302175305719223337003",
+      "conditionId": "0x1762375dc40cbf324cbd1c39d34537d176a525b3642ee6d0ddbca9e56b6a663d",
+      "size": 7500,
+      "price": 0.69,
+      "timestamp": 1781302669,
+      "title": "Philadelphia Phillies vs. Milwaukee Brewers",
+      "slug": "mlb-phi-mil-2026-06-12",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
+      "eventSlug": "mlb-phi-mil-2026-06-12",
+      "outcome": "Milwaukee Brewers",
+      "outcomeIndex": 1,
+      "name": "purplegatto",
+      "pseudonym": "Silky-Geometry",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x81a45fafdbed97e9b7b2f95c9f3afc350b20b884b4c0a9d319d036f9578a088c",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Philadelphia Phillies vs. Milwaukee Brewers",
+    "market_slug": "mlb-phi-mil-2026-06-12",
+    "amount": 5175.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xb039c18aea42e918404806cb7644ca075375db7dc3808b0685e039d11dcc6c2d",
+    "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
+    "trader": {
+      "rank": 13,
+      "address": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
+      "username": "mikatrade77",
+      "profit": 5147998.544602999,
+      "volume": 10884765.388775,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x032eb1bc893940263ad0b01889f262fc232f2a9e",
+      "side": "BUY",
+      "asset": "23543653827395155092208574186623214052528289417069003688302175305719223337003",
+      "conditionId": "0x1762375dc40cbf324cbd1c39d34537d176a525b3642ee6d0ddbca9e56b6a663d",
+      "size": 7500,
+      "price": 0.69,
+      "timestamp": 1781302669,
+      "title": "Philadelphia Phillies vs. Milwaukee Brewers",
+      "slug": "mlb-phi-mil-2026-06-12",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
+      "eventSlug": "mlb-phi-mil-2026-06-12",
+      "outcome": "Milwaukee Brewers",
+      "outcomeIndex": 1,
+      "name": "purplegatto",
+      "pseudonym": "Silky-Geometry",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xb039c18aea42e918404806cb7644ca075375db7dc3808b0685e039d11dcc6c2d",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Philadelphia Phillies vs. Milwaukee Brewers",
+    "market_slug": "mlb-phi-mil-2026-06-12",
+    "amount": 5175.0
   }
 ]
