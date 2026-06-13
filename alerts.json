@@ -1,111 +1,5 @@
 [
   {
-    "market": "Will the next Prime Minister of Hungary be Viktor Orb\u00e1n?",
-    "market_slug": "will-the-next-prime-minister-of-hungary-be-viktor-orbn",
-    "event_slug": "will-the-next-prime-minister-of-hungary-be-viktor-orbn",
-    "wallet": "0xc6c1645421c076d26bf117f8960553ede1fc3a9d",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($4,001)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 4000.959999,
-      "odds": 0.38221443099849767,
-      "raw_price": 0.38221443099849767,
-      "outcome": "Yes",
-      "potential_pnl": 6466.881282,
-      "pnl_multiplier": 1.6163324011278124,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-03-26T21:16:47.024644",
-    "trade_hash": "0x8acaa07487b74ddb432331f8604454134f4621474877bfc48d93d5f7749587bc",
-    "trade_timestamp": 1774559481,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "side": "BUY",
-      "price": 0.38221443099849767,
-      "effective_price": 0.38221443099849767,
-      "size": 10467.841281,
-      "amount": 4000.959999,
-      "potential_pnl": 6466.881282,
-      "pnl_multiplier": 1.6163324011278124,
-      "is_no": false,
-      "slug": "will-the-next-prime-minister-of-hungary-be-viktor-orbn",
-      "eventSlug": "next-prime-minister-of-hungary"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+16.6%)"
-      ],
-      "category": "other",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.21644288619969954,
-      "market_price": 0.38221443099849767,
-      "edge": 0.16577154479879813,
-      "edge_percent": 16.577154479879812,
-      "min_edge_required": 0.03,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Viktor Orb\u00e1n secures the nomination from his party",
-          "Orb\u00e1n maintains significant public support leading up to the next election",
-          "No major political scandals or crises arise that undermine his position"
-        ],
-        "weakest_link": "Orb\u00e1n's public support could wane due to economic issues or political scandals"
-      },
-      "category": "politics_near",
-      "narrative_drivers": [
-        "Orb\u00e1n's long-standing leadership and political experience",
-        "The current political climate and opposition strength"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "CONFLICT",
-      "signal_emoji": "\u26a0\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider buying YES despite statistical overpricing",
-      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
-      "insider_score": 70,
-      "insider_position": "YES",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.16577154479879813,
-      "edge_percent": 16.577154479879812
-    },
-    "financial_analyst": {
-      "signal_quality": 45.9,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 16.58,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-03-29T06:58:11.802160+00:00"
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0x8f4f6abd7ab34d0bc56c1129f26cbc0df352910632eca5f2c4a16d18fb89d645",
     "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
@@ -28860,5 +28754,49 @@
     "market": "Will Switzerland win on 2026-06-13?",
     "market_slug": "fifwc-qat-che-2026-06-13",
     "amount": 4504.809998999999
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xeea440e2a29f2ed4a19c4f7ffe4d4aa30ad78986703342c3f6d0011d331f2487",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "trader": {
+      "rank": 6,
+      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "username": "swisstony",
+      "profit": 8287085.339560288,
+      "volume": 891321307.725394,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xd9ffb3396b113304404cf0a64d1c11e8a23279dc",
+      "side": "BUY",
+      "asset": "5904694069529905826680225678119990013628860098514322777023141327768111791078",
+      "conditionId": "0xd86a816093fcd0a0e1ca440bc5ce199bd3c5a8d6139e044b076958164f8c5423",
+      "size": 7177.422306,
+      "price": 0.29258414922088327,
+      "timestamp": 1781353096,
+      "title": "US x Iran permanent peace deal by June 15, 2026?",
+      "slug": "us-x-iran-permanent-peace-deal-by-june-15-2026-734-856-129",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-permanent-peace-deal-by-yYlzv70Hi7j9.jpg",
+      "eventSlug": "us-x-iran-permanent-peace-deal-by",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "bambaaaa",
+      "pseudonym": "Vivid-Complex",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xeea440e2a29f2ed4a19c4f7ffe4d4aa30ad78986703342c3f6d0011d331f2487",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "US x Iran permanent peace deal by June 15, 2026?",
+    "market_slug": "us-x-iran-permanent-peace-deal-by",
+    "amount": 2099.999999
   }
 ]
