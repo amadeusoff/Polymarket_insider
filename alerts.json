@@ -1,359 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x0e0809517d0fdb94a06073096931c7342e9de7894b59215a5afe5e717ea08f42",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.51568201,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x9564e90a1b86222cfde0cae901ea009f02ef3a32",
-      "side": "BUY",
-      "asset": "43119954654172091737076568754752961536657693797313151491966940954651062056130",
-      "conditionId": "0xcbb539ff4f83cf45713ac7188ccb85a8ae7b3af2d183ecd25547e2bc75c4b3e1",
-      "size": 6605.12,
-      "price": 0.21762590233031345,
-      "timestamp": 1774565659,
-      "title": "EdgeX FDV above $300M one day after launch?",
-      "slug": "edgex-fdv-above-300m-one-day-after-launch-839",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-edgex-launch-a-token-in-2025-HYxLQtBesCT8.jpg",
-      "eventSlug": "edgex-fdv-above-one-day-after-launch",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "Armin-1Q",
-      "pseudonym": "Icky-Bootie",
-      "bio": "Data Researcher",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3333348-62526834-deee-402e-9218-1e74d8271785.jpg",
-      "profileImageOptimized": "",
-      "transactionHash": "0x0e0809517d0fdb94a06073096931c7342e9de7894b59215a5afe5e717ea08f42",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "EdgeX FDV above $300M one day after launch?",
-    "market_slug": "edgex-fdv-above-one-day-after-launch",
-    "amount": 5167.6748
-  },
-  {
-    "market": "Knicks vs. Hornets",
-    "market_slug": "nba-nyk-cha-2026",
-    "event_slug": "nba-nyk-cha-2026",
-    "wallet": "0x8718865882e085b764825b637788043c16185040",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($9,200)",
-        "Low activity (4 txns)"
-      ],
-      "amount": 9199.989998000001,
-      "odds": 0.719340481345369,
-      "raw_price": 0.719340481345369,
-      "outcome": "Hornets",
-      "potential_pnl": 3589.4890269999996,
-      "pnl_multiplier": 0.3901622749351166,
-      "wallet_age_days": 0,
-      "total_activities": 4
-    },
-    "timestamp": "2026-03-26T23:25:34.984907",
-    "trade_hash": "0xcd52c4c5024401afabdd0648cad2a7d159d922b391bc3d6d75e4376fe3d073b2",
-    "trade_timestamp": 1774567331,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Hornets",
-      "side": "BUY",
-      "price": 0.719340481345369,
-      "effective_price": 0.719340481345369,
-      "size": 12789.479025,
-      "amount": 9199.989998000001,
-      "potential_pnl": 3589.4890269999996,
-      "pnl_multiplier": 0.3901622749351166,
-      "is_no": false,
-      "slug": "nba-nyk-cha-2026",
-      "eventSlug": "nba-nyk-cha-2026-03-26"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+43.5%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.2838680962690738,
-      "market_price": 0.719340481345369,
-      "edge": 0.4354723850762952,
-      "edge_percent": 43.54723850762952,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Knicks maintain current roster health",
-          "Hornets underperform relative to expectations",
-          "Key players for Knicks exceed performance metrics"
-        ],
-        "weakest_link": "Hornets underperform relative to expectations"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Knicks' recent performance trends",
-        "Injuries or roster changes for the Hornets"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "HORNETS",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.4354723850762952,
-      "edge_percent": 43.54723850762952
-    },
-    "financial_analyst": {
-      "signal_quality": 51.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 43.55,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xed90726882e6524c411d9b8fde68c9617145e298da5d904c1db66ec038df7b43",
-    "wallet": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
-    "trader": {
-      "rank": 8,
-      "address": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
-      "username": "PrincessCaro",
-      "profit": 6083643.099591745,
-      "volume": 23520809.952867,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xde0463ea7f611b065e8ab06bbfbddad75e6dfa37",
-      "side": "BUY",
-      "asset": "107907338415976933532550388925205335990876677187021977689507641894936360729790",
-      "conditionId": "0xeb2456400fb4d6de5f8bf556449b86880cf4fba96291d4d1bd9158e8f62e9020",
-      "size": 2007.08,
-      "price": 0.7543716742730733,
-      "timestamp": 1774567761,
-      "title": "Texas Longhorns vs. Purdue Boilermakers",
-      "slug": "cbb-tx-pur-2026-03-26",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ncaa-c14995df96.png",
-      "eventSlug": "cbb-tx-pur-2026-03-26",
-      "outcome": "Purdue Boilermakers",
-      "outcomeIndex": 1,
-      "name": "mwenya",
-      "pseudonym": "Honest-Similarity",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xed90726882e6524c411d9b8fde68c9617145e298da5d904c1db66ec038df7b43",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Texas Longhorns vs. Purdue Boilermakers",
-    "market_slug": "cbb-tx-pur-2026-03-26",
-    "amount": 1514.0842999999998
-  },
-  {
-    "market": "Will Saudi Arabia strike Iran by March 31?",
-    "market_slug": "will-saudi-arabia-strike-iran-by-march-31",
-    "event_slug": "will-saudi-arabia-strike-iran-by-march-31",
-    "wallet": "0x23ebd66eb7eac485e01bdac08f89a0b3e11948d8",
-    "analysis": {
-      "score": 125,
-      "flags": [
-        "New wallet (0d old)",
-        "Against trend (7.4% effective odds)",
-        "Large bet ($1,000)",
-        "Pre-event latency: 5775m"
-      ],
-      "amount": 1000.0,
-      "odds": 0.07396409767905839,
-      "raw_price": 0.07396409767905839,
-      "outcome": "Yes",
-      "potential_pnl": 12520.073,
-      "pnl_multiplier": 12.520073,
-      "wallet_age_days": 0,
-      "total_activities": 6
-    },
-    "timestamp": "2026-03-26T23:53:47.983894",
-    "trade_hash": "0x39edec8a01a4fc3c97c83380ad4b3c94eec149bfc49c30194b8a38e6f3ced714",
-    "trade_timestamp": 1774568719,
-    "latency": {
-      "latency_seconds": 346481.0,
-      "latency_minutes": 5774.683333333333,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-03-26T23:45:19+00:00",
-      "event_time": "2026-03-31T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "side": "BUY",
-      "price": 0.07396409767905839,
-      "effective_price": 0.07396409767905839,
-      "size": 13520.073,
-      "amount": 1000.0,
-      "potential_pnl": 12520.073,
-      "pnl_multiplier": 12.520073,
-      "is_no": false,
-      "slug": "will-saudi-arabia-strike-iran-by-march-31",
-      "eventSlug": "which-countries-will-strike-iran-by-march-31"
-    },
-    "irrationality": {
-      "irrationality_score": 50,
-      "flags": [
-        "Longshot (7%) in high bias category (geopolitics)",
-        "Category structurally prone to longshot bias",
-        "Crisis keyword detected ('strike')"
-      ],
-      "category": "geopolitics",
-      "category_info": {
-        "strength": "high",
-        "typical_overpricing": 0.05,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.03879281953581168,
-      "market_price": 0.07396409767905839,
-      "edge": 0.035171278143246706,
-      "edge_percent": 3.5171278143246707,
-      "min_edge_required": 0.05,
-      "is_mispriced": false,
-      "edge_quality": "WEAK",
-      "base_rate_class": "rare",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "rare",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Escalation of regional tensions between Saudi Arabia and Iran",
-          "Support or acquiescence from key allies, such as the United States",
-          "Internal political stability within Saudi Arabia"
-        ],
-        "weakest_link": "Internal political stability within Saudi Arabia"
-      },
-      "category": "geopolitics",
-      "narrative_drivers": [
-        "Increased military posturing in the region",
-        "Influence of external powers on Saudi decision-making"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 125,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 125,
-      "insider_position": "YES",
-      "irrationality_score": 50,
-      "is_irrational": true,
-      "is_mispriced": false,
-      "edge": 0.035171278143246706,
-      "edge_percent": 3.5171278143246707
-    },
-    "financial_analyst": {
-      "signal_quality": 40.3,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 3.52,
-      "signal_strength": 125.0,
-      "insider_score": 125.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-03-29T06:58:17.335294+00:00"
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x9c04ad2ca39682b6dd675dc252ed1f3155c8beb34aa328b20c059561dc2302cc",
-    "wallet": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
-    "trader": {
-      "rank": 2,
-      "address": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
-      "username": "Fredi9999",
-      "profit": 16619506.631730152,
-      "volume": 76611316.90515402,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xa38a455bbdd4b68486548b7e19da99903f4f821d",
-      "side": "BUY",
-      "asset": "8407769013236185519523211059555999620435865750175863777492373951715898856141",
-      "conditionId": "0xe96bab86f43e9ae8647eedb5ed680747a8875571c027d11f1f2bae39867d4209",
-      "size": 6359.77,
-      "price": 0.34,
-      "timestamp": 1774569261,
-      "title": "Nebraska Cornhuskers vs. Iowa Hawkeyes",
-      "slug": "cbb-nebr-iowa-2026-03-26",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ncaa-c14995df96.png",
-      "eventSlug": "cbb-nebr-iowa-2026-03-26",
-      "outcome": "Iowa Hawkeyes",
-      "outcomeIndex": 1,
-      "name": "takeormake",
-      "pseudonym": "Scary-Fannypack",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x9c04ad2ca39682b6dd675dc252ed1f3155c8beb34aa328b20c059561dc2302cc",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Nebraska Cornhuskers vs. Iowa Hawkeyes",
-    "market_slug": "cbb-nebr-iowa-2026-03-26",
-    "amount": 2162.3218
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x0f0f310a56ca3c68d321d058f5d5c32485b4eaabede0df123ae71a08b5f7c1b9",
     "wallet": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
     "trader": {
@@ -28923,5 +28570,225 @@
     "market": "Will Switzerland win on 2026-06-13?",
     "market_slug": "fifwc-qat-che-2026-06-13",
     "amount": 11033.779998
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xb5f15a3ce754e9670b11a4ac1d43e8ca48ff01ffd446e35394b93bfe6eaf7f5d",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xd47107e357c4688bffc76504541f5280760bedf8",
+      "side": "BUY",
+      "asset": "88916950262519281845660462730559106233406659432376255449417860415942088252775",
+      "conditionId": "0xa75053ffa630e41fdc08a0885fe0614716ecb13061ac460914bfe498038d5364",
+      "size": 25862,
+      "price": 0.42,
+      "timestamp": 1781387235,
+      "title": "Will Brazil win on 2026-06-13?",
+      "slug": "fifwc-bra-mar-2026-06-13-bra",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-bra-mar-2026-06-13",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "Jittz",
+      "pseudonym": "Immense-Registry-Wasabi",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xb5f15a3ce754e9670b11a4ac1d43e8ca48ff01ffd446e35394b93bfe6eaf7f5d",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Brazil win on 2026-06-13?",
+    "market_slug": "fifwc-bra-mar-2026-06-13",
+    "amount": 10862.039999999999
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x3a26f439188337d80e709438f543bc8fe6e689cc6ac99235adbc75f834f26aa7",
+    "wallet": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+    "trader": {
+      "rank": 10,
+      "address": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+      "username": "walletmobile",
+      "profit": 5942685.45339684,
+      "volume": 32196692.075936034,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x1d603dad31fac599c1de6b6002d066993460453d",
+      "side": "BUY",
+      "asset": "14980395101219686311790400155305195450177495279506125856410695201352924550366",
+      "conditionId": "0xa4781f5d97b6fe28ca7a69353b89e3401a9483a4c7bfc2f493c6cca138bd9c82",
+      "size": 3690.476187,
+      "price": 0.8399999999783225,
+      "timestamp": 1781387535,
+      "title": "Will Morocco win on 2026-06-13?",
+      "slug": "fifwc-bra-mar-2026-06-13-mar",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-bra-mar-2026-06-13",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "Ru386",
+      "pseudonym": "Chilly-Surrounds",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x3a26f439188337d80e709438f543bc8fe6e689cc6ac99235adbc75f834f26aa7",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Morocco win on 2026-06-13?",
+    "market_slug": "fifwc-bra-mar-2026-06-13",
+    "amount": 3099.999997
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x1b2361ebea5c60e745f624373ff00726feefb30afb6ea33f8ecf3a5ebe4546be",
+    "wallet": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+    "trader": {
+      "rank": 10,
+      "address": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+      "username": "walletmobile",
+      "profit": 5942685.45339684,
+      "volume": 32196692.075936034,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x9f41b736a8d04891178df2495921a5a3e88b8f27",
+      "side": "BUY",
+      "asset": "88916950262519281845660462730559106233406659432376255449417860415942088252775",
+      "conditionId": "0xa75053ffa630e41fdc08a0885fe0614716ecb13061ac460914bfe498038d5364",
+      "size": 14900,
+      "price": 0.42,
+      "timestamp": 1781387533,
+      "title": "Will Brazil win on 2026-06-13?",
+      "slug": "fifwc-bra-mar-2026-06-13-bra",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-bra-mar-2026-06-13",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "hedgevaultmainnet1",
+      "pseudonym": "Misguided-Substance",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x1b2361ebea5c60e745f624373ff00726feefb30afb6ea33f8ecf3a5ebe4546be",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Brazil win on 2026-06-13?",
+    "market_slug": "fifwc-bra-mar-2026-06-13",
+    "amount": 6258.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xea44fcaf539b5b522e8d26b873ec8bf160506762d5e2989b212ae6d7020f08b6",
+    "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
+    "trader": {
+      "rank": 20,
+      "address": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
+      "username": "432614799197",
+      "profit": 4526176.046413306,
+      "volume": 185491941.6320829,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x9f41b736a8d04891178df2495921a5a3e88b8f27",
+      "side": "BUY",
+      "asset": "88916950262519281845660462730559106233406659432376255449417860415942088252775",
+      "conditionId": "0xa75053ffa630e41fdc08a0885fe0614716ecb13061ac460914bfe498038d5364",
+      "size": 4200,
+      "price": 0.42,
+      "timestamp": 1781387833,
+      "title": "Will Brazil win on 2026-06-13?",
+      "slug": "fifwc-bra-mar-2026-06-13-bra",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-bra-mar-2026-06-13",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "hedgevaultmainnet1",
+      "pseudonym": "Misguided-Substance",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xea44fcaf539b5b522e8d26b873ec8bf160506762d5e2989b212ae6d7020f08b6",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Brazil win on 2026-06-13?",
+    "market_slug": "fifwc-bra-mar-2026-06-13",
+    "amount": 1764.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x54680bf98cd542d13123fbb6e5f1db0269ef7bb57216009f89ae4f4fbe5c76dc",
+    "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
+    "trader": {
+      "rank": 20,
+      "address": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
+      "username": "432614799197",
+      "profit": 4526176.046413306,
+      "volume": 185491941.6320829,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x9f41b736a8d04891178df2495921a5a3e88b8f27",
+      "side": "BUY",
+      "asset": "14980395101219686311790400155305195450177495279506125856410695201352924550366",
+      "conditionId": "0xa4781f5d97b6fe28ca7a69353b89e3401a9483a4c7bfc2f493c6cca138bd9c82",
+      "size": 6000,
+      "price": 0.84,
+      "timestamp": 1781387833,
+      "title": "Will Morocco win on 2026-06-13?",
+      "slug": "fifwc-bra-mar-2026-06-13-mar",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-bra-mar-2026-06-13",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "hedgevaultmainnet1",
+      "pseudonym": "Misguided-Substance",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x54680bf98cd542d13123fbb6e5f1db0269ef7bb57216009f89ae4f4fbe5c76dc",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Morocco win on 2026-06-13?",
+    "market_slug": "fifwc-bra-mar-2026-06-13",
+    "amount": 5040.0
   }
 ]
