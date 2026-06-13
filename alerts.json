@@ -1,95 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x8f4f6abd7ab34d0bc56c1129f26cbc0df352910632eca5f2c4a16d18fb89d645",
-    "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
-    "trader": {
-      "rank": 13,
-      "address": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
-      "username": "mikatrade77",
-      "profit": 5147998.544602999,
-      "volume": 10884765.388774998,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x7b02b2bac2a30ed5e40b7094e734f4c3dc2a4991",
-      "side": "BUY",
-      "asset": "95949957895141858444199258452803633110472396604599808168788254125381075552218",
-      "conditionId": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
-      "size": 69420,
-      "price": 0.78,
-      "timestamp": 1774560257,
-      "title": "Will the Iranian regime fall by June 30?",
-      "slug": "will-the-iranian-regime-fall-by-june-30",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-the-iranian-regime-fall-in-2025-YLXIniTmQs4q.png",
-      "eventSlug": "will-the-iranian-regime-fall-by-june-30",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "foodenjoyer",
-      "pseudonym": "Similar-Balloonist",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-5560611-d85e5215-b379-4aef-a93c-e95b42d9dcbd.webp",
-      "profileImageOptimized": "",
-      "transactionHash": "0x8f4f6abd7ab34d0bc56c1129f26cbc0df352910632eca5f2c4a16d18fb89d645",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will the Iranian regime fall by June 30?",
-    "market_slug": "will-the-iranian-regime-fall-by-june-30",
-    "amount": 15272.399999999998,
-    "resolution_last_check": "2026-03-29T06:58:11.802169+00:00"
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xf212972a4b596bdecf1f0c0d3ddaab2e47d84d4935b82352dcef75d2374cb35b",
-    "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
-    "trader": {
-      "rank": 13,
-      "address": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
-      "username": "mikatrade77",
-      "profit": 5147998.544602999,
-      "volume": 10884765.388774998,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x6b09bc94d5742e2e76bc8e49605f101264692c43",
-      "side": "BUY",
-      "asset": "73468542564971447011632749901887590248473823547291538411904156367732432599020",
-      "conditionId": "0x5f0200e04c4d30da580bb997a8437e4f25675b7c93c8aba4ca6da0fe11a0a816",
-      "size": 4368.91,
-      "price": 0.52,
-      "timestamp": 1774560257,
-      "title": "Poland vs. Albania: O/U 3.5",
-      "slug": "uef-pol-alb-2026-03-26-total-3pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/uef.png",
-      "eventSlug": "uef-pol-alb-2026-03-26-more-markets",
-      "outcome": "Under",
-      "outcomeIndex": 1,
-      "name": "us98",
-      "pseudonym": "Giant-Effort",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xf212972a4b596bdecf1f0c0d3ddaab2e47d84d4935b82352dcef75d2374cb35b",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Poland vs. Albania: O/U 3.5",
-    "market_slug": "uef-pol-alb-2026-03-26-more-markets",
-    "amount": 2271.8332
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x22d98ed7a790e3d9aeff7696918d5a56694c8b8f8199aa035a7167d2ac08c5c8",
     "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
     "trader": {
@@ -28798,5 +28709,154 @@
     "market": "US x Iran permanent peace deal by June 15, 2026?",
     "market_slug": "us-x-iran-permanent-peace-deal-by",
     "amount": 2099.999999
+  },
+  {
+    "market": "Los Angeles Dodgers vs. Chicago White Sox",
+    "market_slug": "mlb-lad-cws-2026",
+    "event_slug": "mlb-lad-cws-2026",
+    "wallet": "0x1448911b204105c7acd793152babde9cae52e868",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,170)",
+        "Low activity (3 txns)"
+      ],
+      "amount": 1170.0,
+      "odds": 0.65,
+      "raw_price": 0.65,
+      "outcome": "Los Angeles Dodgers",
+      "potential_pnl": 630.0,
+      "pnl_multiplier": 0.5384615384615384,
+      "wallet_age_days": 0,
+      "total_activities": 3
+    },
+    "timestamp": "2026-06-13T17:43:07.266353",
+    "trade_hash": "0x3eee1404bfcac1152391e8763fd635d4f73e9d1ac4a8536e01a6f783b0601efc",
+    "trade_timestamp": 1781372136,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Los Angeles Dodgers",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.65,
+      "effective_price": 0.65,
+      "size": 1800.0,
+      "amount": 1170.0,
+      "potential_pnl": 630.0,
+      "pnl_multiplier": 0.5384615384615384,
+      "is_no": false,
+      "slug": "mlb-lad-cws-2026",
+      "eventSlug": "mlb-lad-cws-2026-06-13"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+23.3%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.4175,
+      "market_price": 0.65,
+      "edge": 0.23250000000000004,
+      "edge_percent": 23.250000000000004,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.23250000000000004,
+      "edge_percent": 23.250000000000004
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 46.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 23.25,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x0aaada12f7160b1f0d52c2a19b8cd2cd0473fa4edd9501de36c2b7b2ff6e9f8b",
+    "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
+    "trader": {
+      "rank": 8,
+      "address": "0x863134d00841b2e200492805a01e1e2f5defaa53",
+      "username": "RepTrump",
+      "profit": 7532409.671579,
+      "volume": 13983231.103425,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xbdb0e406400033ada6ffe03f8915b5e23873f8ba",
+      "side": "BUY",
+      "asset": "74188823737217999893113100388979936618874305853375127772018659762228006751484",
+      "conditionId": "0xa4047f2436a8a41fc192948418d64c157aeef4a678e76a8596d5220a66b63602",
+      "size": 3500,
+      "price": 0.75,
+      "timestamp": 1781372826,
+      "title": "HSBC Championships: Emma Raducanu vs Iva Jovic",
+      "slug": "wta-raducan-jovic-2026-06-13",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wta-logo-41f331bdf1.png",
+      "eventSlug": "wta-raducan-jovic-2026-06-13",
+      "outcome": "Emma Raducanu",
+      "outcomeIndex": 0,
+      "name": "8a7sh2",
+      "pseudonym": "Wet-Prey",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x0aaada12f7160b1f0d52c2a19b8cd2cd0473fa4edd9501de36c2b7b2ff6e9f8b",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "HSBC Championships: Emma Raducanu vs Iva Jovic",
+    "market_slug": "wta-raducan-jovic-2026-06-13",
+    "amount": 2625.0
   }
 ]
