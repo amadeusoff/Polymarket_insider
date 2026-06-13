@@ -1,94 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x22d98ed7a790e3d9aeff7696918d5a56694c8b8f8199aa035a7167d2ac08c5c8",
-    "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
-    "trader": {
-      "rank": 13,
-      "address": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
-      "username": "mikatrade77",
-      "profit": 5147998.544602999,
-      "volume": 10884765.388774998,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
-      "side": "BUY",
-      "asset": "73468542564971447011632749901887590248473823547291538411904156367732432599020",
-      "conditionId": "0x5f0200e04c4d30da580bb997a8437e4f25675b7c93c8aba4ca6da0fe11a0a816",
-      "size": 5788.192306,
-      "price": 0.5199999999792682,
-      "timestamp": 1774560257,
-      "title": "Poland vs. Albania: O/U 3.5",
-      "slug": "uef-pol-alb-2026-03-26-total-3pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/uef.png",
-      "eventSlug": "uef-pol-alb-2026-03-26-more-markets",
-      "outcome": "Under",
-      "outcomeIndex": 1,
-      "name": "0xdbdd45150249e229eB4cA8aa48A30Dca21Faa5de-1757094771846",
-      "pseudonym": "Vigilant-Environment",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x22d98ed7a790e3d9aeff7696918d5a56694c8b8f8199aa035a7167d2ac08c5c8",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Poland vs. Albania: O/U 3.5",
-    "market_slug": "uef-pol-alb-2026-03-26-more-markets",
-    "amount": 3009.8599990000002
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x43572e98c1926ae8be22cedf7103ea0f1ae531ec399ebaa06694eee60a279402",
-    "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
-    "trader": {
-      "rank": 6,
-      "address": "0x863134d00841b2e200492805a01e1e2f5defaa53",
-      "username": "RepTrump",
-      "profit": 7532409.671579,
-      "volume": 13983231.103425,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x492442eab586f242b53bda933fd5de859c8a3782",
-      "side": "BUY",
-      "asset": "54793039760028198288051345521020406655409246693562841156667902241978115290567",
-      "conditionId": "0x65cbd09f2cfe2efb582aa3a65a6d3425493befabcd4fa30a5ee0293c359fac00",
-      "size": 62341.26,
-      "price": 0.5197625344755624,
-      "timestamp": 1774564461,
-      "title": "Blackhawks vs. Flyers: O/U 5.5",
-      "slug": "nhl-chi-phi-2026-03-26-total-5pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nhl.png",
-      "eventSlug": "nhl-chi-phi-2026-03-26",
-      "outcome": "Over",
-      "outcomeIndex": 0,
-      "name": "0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188",
-      "pseudonym": "Multicolored-Self",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x43572e98c1926ae8be22cedf7103ea0f1ae531ec399ebaa06694eee60a279402",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Blackhawks vs. Flyers: O/U 5.5",
-    "market_slug": "nhl-chi-phi-2026-03-26",
-    "amount": 32402.6513
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x0e0809517d0fdb94a06073096931c7342e9de7894b59215a5afe5e717ea08f42",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -28858,5 +28770,158 @@
     "market": "HSBC Championships: Emma Raducanu vs Iva Jovic",
     "market_slug": "wta-raducan-jovic-2026-06-13",
     "amount": 2625.0
+  },
+  {
+    "market": "US x Iran permanent peace deal by June 15, 2026?",
+    "market_slug": "us-x-iran-permanent-peace-deal-by-june-15-2026-734",
+    "event_slug": "us-x-iran-permanent-peace-deal-by-june-15-2026-734",
+    "wallet": "0xe234959595e01dacd391a9502a6ad0edf4e3304a",
+    "analysis": {
+      "score": 100,
+      "flags": [
+        "New wallet (2d old)",
+        "Large bet ($2,719)",
+        "Pre-event latency: 1743m"
+      ],
+      "amount": 2719.4568,
+      "odds": 0.28668955018701797,
+      "raw_price": 0.28668955018701797,
+      "outcome": "Yes",
+      "potential_pnl": 6766.263199999999,
+      "pnl_multiplier": 2.4880936516439607,
+      "wallet_age_days": 2,
+      "total_activities": 100
+    },
+    "timestamp": "2026-06-13T19:00:15.711243",
+    "trade_hash": "0xe64057f5b631840651645bc4aa5ac0b6301773b284026054193a9e6111ae4c62",
+    "trade_timestamp": 1781377029,
+    "latency": {
+      "latency_seconds": 104571.0,
+      "latency_minutes": 1742.85,
+      "is_pre_event": true,
+      "severity": "CRITICAL",
+      "trade_time": "2026-06-13T18:57:09+00:00",
+      "event_time": "2026-06-15T00:00:00+00:00"
+    },
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.28668955018701797,
+      "effective_price": 0.28668955018701797,
+      "size": 9485.72,
+      "amount": 2719.4568,
+      "potential_pnl": 6766.263199999999,
+      "pnl_multiplier": 2.4880936516439607,
+      "is_no": false,
+      "slug": "us-x-iran-permanent-peace-deal-by-june-15-2026-734",
+      "eventSlug": "us-x-iran-permanent-peace-deal-by"
+    },
+    "irrationality": {
+      "irrationality_score": 10,
+      "flags": [],
+      "category": "politics_near",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.02,
+        "min_edge": 0.03
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.2721758200748072,
+      "market_price": 0.28668955018701797,
+      "edge": 0.014513730112210799,
+      "edge_percent": 1.4513730112210799,
+      "min_edge_required": 0.03,
+      "is_mispriced": false,
+      "edge_quality": "WEAK",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 100,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 100,
+      "insider_position": "YES",
+      "irrationality_score": 10,
+      "is_irrational": false,
+      "is_mispriced": false,
+      "edge": 0.014513730112210799,
+      "edge_percent": 1.4513730112210799
+    },
+    "financial_analyst": {
+      "signal_quality": 29.2,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 1.45,
+      "signal_strength": 100.0,
+      "insider_score": 100.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xf905d96014dda8e48dd9005fcd6a2d20b6b10732999c937f517af1a15e0855db",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xb5a5dca472a82c1b7770dc801d637b429032e3ca",
+      "side": "BUY",
+      "asset": "66066640081366099233010777058886646300763486736056057848435195209438713673265",
+      "conditionId": "0x6b864f35765706986a861d22fcc207872062186ddcb5fbc20275e991b20ff6ab",
+      "size": 13293.710841,
+      "price": 0.8299999999977433,
+      "timestamp": 1781377027,
+      "title": "Will Switzerland win on 2026-06-13?",
+      "slug": "fifwc-qat-che-2026-06-13-che",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-qat-che-2026-06-13",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "",
+      "pseudonym": "",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xf905d96014dda8e48dd9005fcd6a2d20b6b10732999c937f517af1a15e0855db",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Switzerland win on 2026-06-13?",
+    "market_slug": "fifwc-qat-che-2026-06-13",
+    "amount": 11033.779998
   }
 ]
