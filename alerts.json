@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x0f0f310a56ca3c68d321d058f5d5c32485b4eaabede0df123ae71a08b5f7c1b9",
-    "wallet": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
-    "trader": {
-      "rank": 2,
-      "address": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
-      "username": "Fredi9999",
-      "profit": 16619506.631730152,
-      "volume": 76611316.90515402,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xc257ea7e3a81ca8e16df8935d44d513959fa358e",
-      "side": "BUY",
-      "asset": "23138276531714290702025315283784371330732889711674327429046468121059683679512",
-      "conditionId": "0x2a7be326158a8ce78c4f38304fd489cf60ed7483a4ef5865c6303134a86898e1",
-      "size": 9316,
-      "price": 0.56,
-      "timestamp": 1774569261,
-      "title": "Penguins vs. Senators",
-      "slug": "nhl-pit-ott-2026-03-26",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nhl.png",
-      "eventSlug": "nhl-pit-ott-2026-03-26",
-      "outcome": "Senators",
-      "outcomeIndex": 1,
-      "name": "YT-JuicySlots",
-      "pseudonym": "Weepy-Frosting",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x0f0f310a56ca3c68d321d058f5d5c32485b4eaabede0df123ae71a08b5f7c1b9",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Penguins vs. Senators",
-    "market_slug": "nhl-pit-ott-2026-03-26",
-    "amount": 5216.960000000001
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x2c2858514b138a78fdd147a5aa2f1fcb2f04b93448ae58b0c8b47c0eb25afffc",
     "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
     "trader": {
@@ -28790,5 +28746,49 @@
     "market": "Will Morocco win on 2026-06-13?",
     "market_slug": "fifwc-bra-mar-2026-06-13",
     "amount": 5040.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xea0917eb28137a00572c4a3cf2106a60ea469b0d1437e2983f0bf5d8cf56c304",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "trader": {
+      "rank": 4,
+      "address": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+      "username": "RN1",
+      "profit": 9467893.918031465,
+      "volume": 641063427.061143,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x26437896ed9dfeb2f69765edcafe8fdceaab39ae",
+      "side": "BUY",
+      "asset": "110136933550893624733134445460153301975615510734202337526927943993346922198810",
+      "conditionId": "0xd90bf5f45f24c5de7881707cb5374f3d991388a2d220fa7e0fe2be912cd7642a",
+      "size": 100000,
+      "price": 0.37,
+      "timestamp": 1781391135,
+      "title": "Knicks vs. Spurs",
+      "slug": "nba-nyk-sas-2026-06-13",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-nyk-sas-2026-06-13",
+      "outcome": "Knicks",
+      "outcomeIndex": 0,
+      "name": "Latina",
+      "pseudonym": "Impractical-Fondue",
+      "bio": "follow on X: @LATINAXBT",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xea0917eb28137a00572c4a3cf2106a60ea469b0d1437e2983f0bf5d8cf56c304",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Knicks vs. Spurs",
+    "market_slug": "nba-nyk-sas-2026-06-13",
+    "amount": 37000.0
   }
 ]
