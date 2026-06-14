@@ -1,315 +1,5 @@
 [
   {
-    "market": "Wizards vs. Warriors: O/U 232.5",
-    "market_slug": "nba-was-gsw-2026-03-27-total-232pt5",
-    "event_slug": "nba-was-gsw-2026-03-27-total-232pt5",
-    "wallet": "0x9021b6258bf128be8d82f8de94254dfe73d73a8c",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,324)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 1324.5,
-      "odds": 0.5,
-      "raw_price": 0.5,
-      "outcome": "Under",
-      "potential_pnl": 1324.5,
-      "pnl_multiplier": 1.0,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-03-27T14:40:50.197220",
-    "trade_hash": "0xd5a0df5b9ae4988c7607111fdaf4d9cb47029fafeb855adb0a180129e2849083",
-    "trade_timestamp": 1774622045,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Under",
-      "side": "BUY",
-      "price": 0.5,
-      "effective_price": 0.5,
-      "size": 2649.0,
-      "amount": 1324.5,
-      "potential_pnl": 1324.5,
-      "pnl_multiplier": 1.0,
-      "is_no": false,
-      "slug": "nba-was-gsw-2026-03-27-total-232pt5",
-      "eventSlug": "nba-was-gsw-2026-03-27"
-    },
-    "irrationality": {
-      "irrationality_score": 50,
-      "flags": [
-        "Category structurally prone to longshot bias",
-        "Crisis keyword detected ('war')",
-        "Large mispricing edge (+26.0%)"
-      ],
-      "category": "geopolitics",
-      "category_info": {
-        "strength": "high",
-        "typical_overpricing": 0.05,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.24,
-      "market_price": 0.5,
-      "edge": 0.26,
-      "edge_percent": 26.0,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Both teams maintain high offensive efficiency",
-          "Defensive strategies are ineffective against opposing offenses",
-          "Game pace is fast, leading to more possessions"
-        ],
-        "weakest_link": "Defensive strategies are ineffective against opposing offenses"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent performance trends of both teams",
-        "Injury status of key players affecting scoring"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "UNDER",
-      "irrationality_score": 50,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.26,
-      "edge_percent": 26.0
-    },
-    "financial_analyst": {
-      "signal_quality": 54.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 26.0,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x9cae858b0f64c60b8082f64c8713bf6aa01746d2df8784f88df48e64250d91e6",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.51568201,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xb52b849135585ae55b92ce73b5deef788c3cb156",
-      "side": "BUY",
-      "asset": "80383678135037239311459666802134189802324733185374863640719100597518783329882",
-      "conditionId": "0x32f47d4b8159503195e670215bc7231e4062b7f3dcbb61075b0e5648d308fcd6",
-      "size": 2355.16,
-      "price": 0.32995005434874913,
-      "timestamp": 1774622379,
-      "title": "Will Cear\u00e1 SC vs. Vila Nova FC end in a draw?",
-      "slug": "bra2-csc-vln-2026-04-01-draw",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
-      "eventSlug": "bra2-csc-vln-2026-04-01",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "drinbet",
-      "pseudonym": "Medical-Deployment",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x9cae858b0f64c60b8082f64c8713bf6aa01746d2df8784f88df48e64250d91e6",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Cear\u00e1 SC vs. Vila Nova FC end in a draw?",
-    "market_slug": "bra2-csc-vln-2026-04-01",
-    "amount": 1578.0748299999998
-  },
-  {
-    "market": "US x Iran ceasefire by March 31?",
-    "market_slug": "us-x-iran-ceasefire-by-march-31",
-    "event_slug": "us-x-iran-ceasefire-by-march-31",
-    "wallet": "0x0b6d597962e5af2c5b193111791d5e3d58f845ff",
-    "analysis": {
-      "score": 105,
-      "flags": [
-        "New wallet (5d old)",
-        "Against trend (3.5% effective odds)",
-        "Large bet ($1,756)",
-        "Pre-event latency: 4836m"
-      ],
-      "amount": 1755.9260499999998,
-      "odds": 0.0347963347770325,
-      "raw_price": 0.0347963347770325,
-      "outcome": "Yes",
-      "potential_pnl": 48707.03395,
-      "pnl_multiplier": 27.738659011294924,
-      "wallet_age_days": 5,
-      "total_activities": 21
-    },
-    "timestamp": "2026-03-27T15:30:24.052007",
-    "trade_hash": "0x2c28ecf934f0c66d06695eca2540e0e3a686e6232c2eea2a4e85c429507fd7d1",
-    "trade_timestamp": 1774625063,
-    "latency": {
-      "latency_seconds": 290137.0,
-      "latency_minutes": 4835.616666666667,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-03-27T15:24:23+00:00",
-      "event_time": "2026-03-31T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "side": "SELL",
-      "price": 0.0347963347770325,
-      "effective_price": 0.0347963347770325,
-      "size": 50462.96,
-      "amount": 1755.9260499999998,
-      "potential_pnl": 48707.03395,
-      "pnl_multiplier": 27.738659011294924,
-      "is_no": false,
-      "slug": "us-x-iran-ceasefire-by-march-31",
-      "eventSlug": "us-x-iran-ceasefire-by"
-    },
-    "irrationality": {
-      "irrationality_score": 40,
-      "flags": [
-        "Longshot (3%) in high bias category (geopolitics)",
-        "Category structurally prone to longshot bias"
-      ],
-      "category": "geopolitics",
-      "category_info": {
-        "strength": "high",
-        "typical_overpricing": 0.05,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.0309592669554065,
-      "market_price": 0.0347963347770325,
-      "edge": 0.0038370678216259994,
-      "edge_percent": 0.38370678216259996,
-      "min_edge_required": 0.05,
-      "is_mispriced": false,
-      "edge_quality": "WEAK",
-      "base_rate_class": "rare",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "rare",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Diplomatic negotiations between the US and Iran show significant progress.",
-          "Both parties agree to a mutual cessation of hostilities.",
-          "External pressures (e.g., from allies or international organizations) encourage a ceasefire."
-        ],
-        "weakest_link": "Diplomatic negotiations between the US and Iran show significant progress."
-      },
-      "category": "geopolitics",
-      "narrative_drivers": [
-        "Escalating regional tensions prompting a need for de-escalation.",
-        "International pressure for stability in the Middle East."
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 105,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 105,
-      "insider_position": "YES",
-      "irrationality_score": 40,
-      "is_irrational": true,
-      "is_mispriced": false,
-      "edge": 0.0038370678216259994,
-      "edge_percent": 0.38370678216259996
-    },
-    "financial_analyst": {
-      "signal_quality": 33.6,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 0.38,
-      "signal_strength": 105.0,
-      "insider_score": 105.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-03-29T06:58:25.759932+00:00"
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xd1753c18945e5283ea3a6830ebe5f3ff8ddfce10567256db262b7fb5a8b0b4a7",
-    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-    "trader": {
-      "rank": 17,
-      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
-      "profit": 4554529.318828875,
-      "volume": 60068293.39364801,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x777d9f00c2b4f7b829c9de0049ca3e707db05143",
-      "side": "BUY",
-      "asset": "82637965911804763594025437964960183940831074167851978502344480273015333555801",
-      "conditionId": "0x2d7b1698e8b1ffc3fd4ef222416659270eab0ef375371b949d805c2fb513dc7d",
-      "size": 7525.03,
-      "price": 0.66,
-      "timestamp": 1774625979,
-      "title": "Spread: England (-1.5)",
-      "slug": "fif-eng-ury-2026-03-27-spread-home-1pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/fif.png",
-      "eventSlug": "fif-eng-ury-2026-03-27-more-markets",
-      "outcome": "Uruguay",
-      "outcomeIndex": 1,
-      "name": "CarlosMC",
-      "pseudonym": "Cheerful-Waistband",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xd1753c18945e5283ea3a6830ebe5f3ff8ddfce10567256db262b7fb5a8b0b4a7",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Spread: England (-1.5)",
-    "market_slug": "fif-eng-ury-2026-03-27-more-markets",
-    "amount": 4966.5198
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0xc075f7a42e90d244e32837e23431495bc6a115917405b2b8f50c4b37f03c0a63",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
@@ -28608,5 +28298,181 @@
     "market": "Will Japan win on 2026-06-14?",
     "market_slug": "fifwc-nld-jpn-2026-06-14",
     "amount": 3586.44
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x2f06b4e4cb46e9a2ba4954aed1decdb368a4c5bd9562bf312ab7d332707fcd26",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "trader": {
+      "rank": 5,
+      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "username": "swisstony",
+      "profit": 8929820.962691901,
+      "volume": 916024681.04474,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x8a6764a2da22d13ed16efd05ec67123b656de403",
+      "side": "SELL",
+      "asset": "93059662229388310772125885479755010376280295951649768550287640012239961388407",
+      "conditionId": "0xa5bffc6d7acf1f539b9af905860ebdbbc7a8e94932c4f90ee42fcfd575a05e31",
+      "size": 6136.39,
+      "price": 0.91,
+      "timestamp": 1781472181,
+      "title": "Arizona Diamondbacks vs. Cincinnati Reds",
+      "slug": "mlb-ari-cin-2026-06-14",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
+      "eventSlug": "mlb-ari-cin-2026-06-14",
+      "outcome": "Arizona Diamondbacks",
+      "outcomeIndex": 0,
+      "name": "megashvbwuy",
+      "pseudonym": "Cheery-Latitude",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x2f06b4e4cb46e9a2ba4954aed1decdb368a4c5bd9562bf312ab7d332707fcd26",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Arizona Diamondbacks vs. Cincinnati Reds",
+    "market_slug": "mlb-ari-cin-2026-06-14",
+    "amount": 5584.1149000000005
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xb3f5d600efd4f8497d10d5080deeb057cf166bfe8efe2b448a8fb30e953ef4c3",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "trader": {
+      "rank": 5,
+      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "username": "swisstony",
+      "profit": 8929820.962691901,
+      "volume": 916024681.04474,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x8a98109fb0f1d87d9bfcb4486ba3587b95c51b92",
+      "side": "BUY",
+      "asset": "31867385211987925701696042012772036156561382644688734856312468506547392739862",
+      "conditionId": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
+      "size": 3000,
+      "price": 0.77,
+      "timestamp": 1781472181,
+      "title": "US x Iran permanent peace deal by June 30, 2026?",
+      "slug": "us-x-iran-permanent-peace-deal-by-june-30-2026-837-641-896-877-363-892-537-597",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-permanent-peace-deal-by-yYlzv70Hi7j9.jpg",
+      "eventSlug": "us-x-iran-permanent-peace-deal-by",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "0xd8dA6BF26964aF9D7eEd9e03E53415D37aA9604",
+      "pseudonym": "Blaring-Backdrop",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xb3f5d600efd4f8497d10d5080deeb057cf166bfe8efe2b448a8fb30e953ef4c3",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "US x Iran permanent peace deal by June 30, 2026?",
+    "market_slug": "us-x-iran-permanent-peace-deal-by",
+    "amount": 2310.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xbcaf65ae66a0bd40b097441c4b3014d54200d4c9b70bc3e0ba27e09091668c71",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "trader": {
+      "rank": 5,
+      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "username": "swisstony",
+      "profit": 8929820.962691901,
+      "volume": 916024681.04474,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+      "side": "SELL",
+      "asset": "45154190570740387451042286875981508351549936245595530531196484920843427388914",
+      "conditionId": "0xc676b6ec53720888dcaa7ab62b5a69011ec9c309aea1b34a6088315631c9dcc1",
+      "size": 3000,
+      "price": 0.51,
+      "timestamp": 1781472181,
+      "title": "LoL: LYON vs Team Liquid - Game 2 Winner",
+      "slug": "lol-ly-tl2-2026-06-14-game2",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
+      "eventSlug": "lol-ly-tl2-2026-06-14",
+      "outcome": "LYON",
+      "outcomeIndex": 0,
+      "name": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+      "pseudonym": "Dearest-Urge",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xbcaf65ae66a0bd40b097441c4b3014d54200d4c9b70bc3e0ba27e09091668c71",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "LoL: LYON vs Team Liquid - Game 2 Winner",
+    "market_slug": "lol-ly-tl2-2026-06-14",
+    "amount": 1530.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xdabdc213fa16ede98d487edc00faaa5f279cd3054de99fcc44bcafcd805b6a5e",
+    "wallet": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
+    "trader": {
+      "rank": 15,
+      "address": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
+      "username": "gmanas",
+      "profit": 4955880.74869219,
+      "volume": 529047708.5059911,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x88aaaaa959fb8c81ecf14c38c68da915980e2f5e",
+      "side": "BUY",
+      "asset": "57353727543736530434448403451285666989700059599235782762910800664478248269257",
+      "conditionId": "0x8da627b7c1eaba23664611ad9a3f777b0412d837ebfdf93b7cd91375df2d83cd",
+      "size": 3565.1,
+      "price": 0.71,
+      "timestamp": 1781472481,
+      "title": "LoL: LYON vs Team Liquid (BO5) - LCS Playoffs",
+      "slug": "lol-ly-tl2-2026-06-14",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
+      "eventSlug": "lol-ly-tl2-2026-06-14",
+      "outcome": "LYON",
+      "outcomeIndex": 0,
+      "name": "clikecew1",
+      "pseudonym": "Profitable-Gaffe-Compost",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xdabdc213fa16ede98d487edc00faaa5f279cd3054de99fcc44bcafcd805b6a5e",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "LoL: LYON vs Team Liquid (BO5) - LCS Playoffs",
+    "market_slug": "lol-ly-tl2-2026-06-14",
+    "amount": 2531.221
   }
 ]
