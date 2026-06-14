@@ -28640,7 +28640,8 @@
     },
     "market": "LoL: T1 vs Gen.G (BO5) - LCK Road to MSI",
     "market_slug": "lol-t1-gen-2026-06-14",
-    "amount": 4856.258
+    "amount": 4856.258,
+    "resolution_last_check": "2026-06-14T09:38:21.258964+00:00"
   },
   {
     "type": "TOP_TRADER",
