@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xc075f7a42e90d244e32837e23431495bc6a115917405b2b8f50c4b37f03c0a63",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xbb15969cb69d5b430d40870aabdf2a1d91820f02",
-      "side": "BUY",
-      "asset": "43163282684901309138667654714362435628489629394534958193813776385065852352937",
-      "conditionId": "0x2453ea84977e69d114f2403427d2ada219822b6e527f99545c537b466cd05a5e",
-      "size": 5714.285713,
-      "price": 0.34999999990375,
-      "timestamp": 1774631383,
-      "title": "Hawks vs. Celtics",
-      "slug": "nba-atl-bos-2026-03-27",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-atl-bos-2026-03-27",
-      "outcome": "Hawks",
-      "outcomeIndex": 0,
-      "name": "kkap8897",
-      "pseudonym": "Vital-Rice",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xc075f7a42e90d244e32837e23431495bc6a115917405b2b8f50c4b37f03c0a63",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Hawks vs. Celtics",
-    "market_slug": "nba-atl-bos-2026-03-27",
-    "amount": 1999.9999990000001
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x12158d28c2318feb218b4ec8db5486744ccc598fc0a5b44c76b13c512693dde8",
     "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
     "trader": {
@@ -28474,5 +28430,49 @@
     "market": "LoL: LYON vs Team Liquid (BO5) - LCS Playoffs",
     "market_slug": "lol-ly-tl2-2026-06-14",
     "amount": 2531.221
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x20b3b7ad95607c5e8fbaf3f09716cbaf0340132abda45a85cdb7186c56501527",
+    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
+    "trader": {
+      "rank": 18,
+      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
+      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
+      "profit": 4764242.259353112,
+      "volume": 61526041.07357799,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x492442eab586f242b53bda933fd5de859c8a3782",
+      "side": "BUY",
+      "asset": "21700720256473719333395454864875592185474921581484279512044164998536706821116",
+      "conditionId": "0xe961a6323f6cc3cadbf941b51fecd3a82135d7f2d2a068547a642b5d41067067",
+      "size": 36544.44,
+      "price": 0.48,
+      "timestamp": 1781477586,
+      "title": "C\u00f4te d'Ivoire vs. Ecuador: O/U 7.5 Total Corners",
+      "slug": "fifwc-civ-ecu-2026-06-14-corners-total-7pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-civ-ecu-2026-06-14-total-corners",
+      "outcome": "Under",
+      "outcomeIndex": 1,
+      "name": "0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188",
+      "pseudonym": "Multicolored-Self",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x20b3b7ad95607c5e8fbaf3f09716cbaf0340132abda45a85cdb7186c56501527",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "C\u00f4te d'Ivoire vs. Ecuador: O/U 7.5 Total Corners",
+    "market_slug": "fifwc-civ-ecu-2026-06-14-total-corners",
+    "amount": 17541.3312
   }
 ]
