@@ -1,93 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x2c2858514b138a78fdd147a5aa2f1fcb2f04b93448ae58b0c8b47c0eb25afffc",
-    "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
-    "trader": {
-      "rank": 13,
-      "address": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
-      "username": "mikatrade77",
-      "profit": 5147998.544602999,
-      "volume": 10884765.388775,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x0071071c8df695b72fa46e47b0b806ff4e619e4d",
-      "side": "BUY",
-      "asset": "42681689509474313921994466296825751144460520075266714195393481209429064869806",
-      "conditionId": "0xa5ce8b5f517edb201d50dd020a358f8e3662097d7b406ed7ae87ea0a7bab7f1e",
-      "size": 3102.378489,
-      "price": 0.9669999997218264,
-      "timestamp": 1774573763,
-      "title": "Kings vs. Magic",
-      "slug": "nba-sac-orl-2026-03-26",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-sac-orl-2026-03-26",
-      "outcome": "Magic",
-      "outcomeIndex": 1,
-      "name": "sakee.e",
-      "pseudonym": "Previous-Altitude",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x2c2858514b138a78fdd147a5aa2f1fcb2f04b93448ae58b0c8b47c0eb25afffc",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Kings vs. Magic",
-    "market_slug": "nba-sac-orl-2026-03-26",
-    "amount": 2999.9999980000002
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x0056a98f58365580b4f4c365d783245afdd482ea96eb98dc129d5d5f4a165755",
-    "wallet": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
-    "trader": {
-      "rank": 3,
-      "address": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
-      "username": "kch123",
-      "profit": 10662148.786190014,
-      "volume": 262628667.78799492,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xde0463ea7f611b065e8ab06bbfbddad75e6dfa37",
-      "side": "BUY",
-      "asset": "32808458875366467745777044160603661512817861173859925631005519080722962618453",
-      "conditionId": "0x742cccb8094536132d2afee783308a6eb3498a094f2082dc26dd13bfd0bf3c2b",
-      "size": 2000.36,
-      "price": 0.9384760343138235,
-      "timestamp": 1774583667,
-      "title": "Illinois Fighting Illini vs. Houston Cougars",
-      "slug": "cbb-ill-hou-2026-03-26",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ncaa-c14995df96.png",
-      "eventSlug": "cbb-ill-hou-2026-03-26",
-      "outcome": "Illinois Fighting Illini",
-      "outcomeIndex": 0,
-      "name": "mwenya",
-      "pseudonym": "Honest-Similarity",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x0056a98f58365580b4f4c365d783245afdd482ea96eb98dc129d5d5f4a165755",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Illinois Fighting Illini vs. Houston Cougars",
-    "market_slug": "cbb-ill-hou-2026-03-26",
-    "amount": 1877.28992
-  },
-  {
     "market": "Spread: Lakers (-16.5)",
     "market_slug": "nba-bkn-lal-2026-03-27-spread-home-16pt5",
     "event_slug": "nba-bkn-lal-2026-03-27-spread-home-16pt5",
@@ -28790,5 +28702,93 @@
     "market": "Knicks vs. Spurs",
     "market_slug": "nba-nyk-sas-2026-06-13",
     "amount": 37000.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xabdcc945c53993709a259de3d83e7ff229689a3d1c31cec49b39d9bb4cc733f4",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xe9076a87c5ed90ef16e6fe6529c943baeca0cff6",
+      "side": "BUY",
+      "asset": "41932613203595071619431698703804072526418755950231544768912619444276257036769",
+      "conditionId": "0xf16a350408098cd7c231454f3899fa5fcbb92455f4961f66ba1f274cf7cc8162",
+      "size": 6839.8,
+      "price": 0.71,
+      "timestamp": 1781395335,
+      "title": "LoL: T1 vs Gen.G (BO5) - LCK Road to MSI",
+      "slug": "lol-t1-gen-2026-06-14",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
+      "eventSlug": "lol-t1-gen-2026-06-14",
+      "outcome": "Gen.G",
+      "outcomeIndex": 1,
+      "name": "suntori",
+      "pseudonym": "All-Peasant-Drug",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xabdcc945c53993709a259de3d83e7ff229689a3d1c31cec49b39d9bb4cc733f4",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "LoL: T1 vs Gen.G (BO5) - LCK Road to MSI",
+    "market_slug": "lol-t1-gen-2026-06-14",
+    "amount": 4856.258
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xcc585f7be6621cb149c6e8439f7bb30d7a4d4881e6734da3909cff513238aa7f",
+    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
+    "trader": {
+      "rank": 18,
+      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
+      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
+      "profit": 4643412.91756099,
+      "volume": 61471271.578546,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xcd3fe2f02819b8a9dc435a892251d3f226ef8e2b",
+      "side": "BUY",
+      "asset": "63046049136959947340290780921763837122788307399946386291198373363899441050643",
+      "conditionId": "0xdc44cd6b7aa4e581fb88f7a9feddb4db80e5901a5c53e0acfaec481ba08724ad",
+      "size": 6666,
+      "price": 0.55,
+      "timestamp": 1781395938,
+      "title": "Spread: Spurs (-4.5)",
+      "slug": "nba-nyk-sas-2026-06-13-spread-home-4pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+      "eventSlug": "nba-nyk-sas-2026-06-13",
+      "outcome": "Spurs",
+      "outcomeIndex": 0,
+      "name": "sweetcaroline",
+      "pseudonym": "Vengeful-Light",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-4151283-0f7b7419-430a-406f-963a-2ae6b4d2e1e2.jpg",
+      "profileImageOptimized": "",
+      "transactionHash": "0xcc585f7be6621cb149c6e8439f7bb30d7a4d4881e6734da3909cff513238aa7f",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spread: Spurs (-4.5)",
+    "market_slug": "nba-nyk-sas-2026-06-13",
+    "amount": 3666.3
   }
 ]
