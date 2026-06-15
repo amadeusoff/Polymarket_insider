@@ -1,163 +1,5 @@
 [
   {
-    "market": "US x Iran ceasefire by March 31?",
-    "market_slug": "us-x-iran-ceasefire-by-march-31",
-    "event_slug": "us-x-iran-ceasefire-by-march-31",
-    "wallet": "0x3b8de6b527425e9c19fb2634f9c3d2e7dfaf2ce6",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "Against trend (3.2% effective odds)",
-        "Large bet ($1,046)",
-        "Pre-event latency: 4515m"
-      ],
-      "amount": 1045.9452199999994,
-      "odds": 0.032453059124751604,
-      "raw_price": 0.9675469408752484,
-      "outcome": "No",
-      "potential_pnl": 31183.534780000005,
-      "pnl_multiplier": 29.813736115166744,
-      "wallet_age_days": 80,
-      "total_activities": 68
-    },
-    "timestamp": "2026-03-27T20:51:29.162547",
-    "trade_hash": "0xee30872afdbc8a08a36a7acaf8611cd995c8ceb8e944ee7a53a8cab5e9e170c4",
-    "trade_timestamp": 1774644307,
-    "latency": {
-      "latency_seconds": 270893.0,
-      "latency_minutes": 4514.883333333333,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-03-27T20:45:07+00:00",
-      "event_time": "2026-03-31T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "No",
-      "side": "SELL",
-      "price": 0.9675469408752484,
-      "effective_price": 0.032453059124751604,
-      "size": 32229.48,
-      "amount": 1045.9452199999994,
-      "potential_pnl": 31183.534780000005,
-      "pnl_multiplier": 29.813736115166744,
-      "is_no": true,
-      "slug": "us-x-iran-ceasefire-by-march-31",
-      "eventSlug": "us-x-iran-ceasefire-by"
-    },
-    "irrationality": {
-      "irrationality_score": 40,
-      "flags": [
-        "Category structurally prone to longshot bias",
-        "Large mispricing edge (+75.0%)"
-      ],
-      "category": "geopolitics",
-      "category_info": {
-        "strength": "high",
-        "typical_overpricing": 0.05,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.2175093881750497,
-      "market_price": 0.9675469408752484,
-      "edge": 0.7500375527001987,
-      "edge_percent": 75.00375527001987,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "rare",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "rare",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Mutual agreement on terms of ceasefire",
-          "Reduction in military hostilities",
-          "International pressure for de-escalation"
-        ],
-        "weakest_link": "Mutual agreement on terms of ceasefire"
-      },
-      "category": "geopolitics",
-      "narrative_drivers": [
-        "Increased diplomatic efforts from third-party nations",
-        "Domestic pressures within Iran and the US for peace"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "ALPHA",
-      "signal_emoji": "\ud83d\udd25",
-      "signal_strength": 125,
-      "interpretation": "Smart money (NO) confirms YES is overpriced",
-      "action_suggestion": "High conviction: insider + statistics aligned",
-      "insider_score": 85,
-      "insider_position": "NO",
-      "irrationality_score": 40,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.7500375527001987,
-      "edge_percent": 75.00375527001987
-    },
-    "financial_analyst": {
-      "signal_quality": 85.0,
-      "stance": "HIGH_CONVICTION",
-      "edge_percent": 75.0,
-      "signal_strength": 125.0,
-      "insider_score": 85.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-03-29T06:58:28.915478+00:00"
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x71850ab678e525e196cfca757a91f697e5a04764bd4a8381f713568fff2eeec3",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xb517cf918d88602c084a040037cc3ffe1355434b",
-      "side": "BUY",
-      "asset": "64652068338076333237704520096230219844404902021272479562664081446392177295672",
-      "conditionId": "0x8a01e84afd1ebddfff4ad3d677ec24ddfd439eb8247bc56a9cc021899c9adca8",
-      "size": 4178.333941,
-      "price": 0.6371008242971836,
-      "timestamp": 1774644589,
-      "title": "Dota 2: Team Spirit vs Xtreme Gaming - Game 2 Winner",
-      "slug": "dota2-ts8-xtreme-2026-03-27-game2",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/dota2-7ffacddb21.jpg",
-      "eventSlug": "dota2-ts8-xtreme-2026-03-27",
-      "outcome": "Team Spirit",
-      "outcomeIndex": 0,
-      "name": "dadada22",
-      "pseudonym": "Calculating-Millennium",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x71850ab678e525e196cfca757a91f697e5a04764bd4a8381f713568fff2eeec3",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Dota 2: Team Spirit vs Xtreme Gaming - Game 2 Winner",
-    "market_slug": "dota2-ts8-xtreme-2026-03-27",
-    "amount": 2662.0199979999998
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0x705b2514524e982fa2325d6be3db761b5904027a1e51325e9473fdd62de3c5d7",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
@@ -28480,5 +28322,154 @@
     "market": "Spread: Egypt (-1.5)",
     "market_slug": "fifwc-bel-egy-2026-06-15-more-markets",
     "amount": 4788.48
+  },
+  {
+    "market": "Spread: Washington Nationals (-1.5)",
+    "market_slug": "mlb-kc-wsh-2026-06-15-spread-home-1pt5",
+    "event_slug": "mlb-kc-wsh-2026-06-15-spread-home-1pt5",
+    "wallet": "0xbf2141c5e48215dda05c906f50e0339fe6281846",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,700)",
+        "Low activity (4 txns)"
+      ],
+      "amount": 1699.999998,
+      "odds": 0.6199999999197647,
+      "raw_price": 0.6199999999197647,
+      "outcome": "Kansas City Royals",
+      "potential_pnl": 1041.935483,
+      "pnl_multiplier": 0.6129032260151802,
+      "wallet_age_days": 0,
+      "total_activities": 4
+    },
+    "timestamp": "2026-06-15T22:28:28.790487",
+    "trade_hash": "0x7bd10d13f5e43a91a79c0be50ba8af403bdcd5cee4f43fbb52acbf39bc36f9dc",
+    "trade_timestamp": 1781562030,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Kansas City Royals",
+      "outcomeIndex": 1,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.6199999999197647,
+      "effective_price": 0.6199999999197647,
+      "size": 2741.935481,
+      "amount": 1699.999998,
+      "potential_pnl": 1041.935483,
+      "pnl_multiplier": 0.6129032260151802,
+      "is_no": false,
+      "slug": "mlb-kc-wsh-2026-06-15-spread-home-1pt5",
+      "eventSlug": "mlb-kc-wsh-2026-06-15"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+21.4%)"
+      ],
+      "category": "other",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.40549999996790587,
+      "market_price": 0.6199999999197647,
+      "edge": 0.21449999995185887,
+      "edge_percent": 21.449999995185888,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "other",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.21449999995185887,
+      "edge_percent": 21.449999995185888
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 46.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 21.45,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xbb775290e58b3c3c900c888a09f1db79faaaf83054cb1efc4f34d0eee4622e2e",
+    "wallet": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
+    "trader": {
+      "rank": 2,
+      "address": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
+      "username": "Fredi9999",
+      "profit": 16619506.631730152,
+      "volume": 76611316.905154,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x27f738fe203827445690339104aae35b20bc44b0",
+      "side": "BUY",
+      "asset": "105533281643864994265205137612432847524621356844697412596134672820124423863743",
+      "conditionId": "0xd684980b931e66483cf0b443e3f3a7d2139c25273cd50b9479acd415ae0b0db7",
+      "size": 2426,
+      "price": 0.62,
+      "timestamp": 1781562529,
+      "title": "Spread: Washington Nationals (-1.5)",
+      "slug": "mlb-kc-wsh-2026-06-15-spread-home-1pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
+      "eventSlug": "mlb-kc-wsh-2026-06-15",
+      "outcome": "Kansas City Royals",
+      "outcomeIndex": 1,
+      "name": "ic4cream",
+      "pseudonym": "Hateful-Chord",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xbb775290e58b3c3c900c888a09f1db79faaaf83054cb1efc4f34d0eee4622e2e",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spread: Washington Nationals (-1.5)",
+    "market_slug": "mlb-kc-wsh-2026-06-15",
+    "amount": 1504.12
   }
 ]
