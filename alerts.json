@@ -28473,6 +28473,12 @@
     },
     "market": "Nottingham Open: Marie Bouzkova vs Tereza Valentova",
     "market_slug": "wta-bouzkov-valento-2026-06-15",
-    "amount": 4255.419999
+    "amount": 4255.419999,
+    "resolution": {
+      "outcome": "Marie Bouzkova",
+      "checked_at": "2026-06-15T12:16:35.639613+00:00",
+      "insider_win": null,
+      "model_correct": null
+    }
   }
 ]
