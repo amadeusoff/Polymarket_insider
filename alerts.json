@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x5bbe97e4390bfad7a5386577dcc182406876ad148142e41cfacd74effcda4c5c",
-    "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
-    "trader": {
-      "rank": 18,
-      "address": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
-      "username": "432614799197",
-      "profit": 4552488.661632559,
-      "volume": 185485956.86208287,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x58451c98e709b1c12e991f219b61f4d3048e7903",
-      "side": "SELL",
-      "asset": "90527368220056094499787958638375970410413722308601684454359395969617817547528",
-      "conditionId": "0x946833228cae9572bc293e26a19d7333d162bec248b18df7ba0166c7ec76690b",
-      "size": 7795.08,
-      "price": 0.22,
-      "timestamp": 1774638587,
-      "title": "Clippers vs. Pacers",
-      "slug": "nba-lac-ind-2026-03-27",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-lac-ind-2026-03-27",
-      "outcome": "Pacers",
-      "outcomeIndex": 1,
-      "name": "0x274bc03829ef1382",
-      "pseudonym": "Voluminous-Attraction",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x5bbe97e4390bfad7a5386577dcc182406876ad148142e41cfacd74effcda4c5c",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Clippers vs. Pacers",
-    "market_slug": "nba-lac-ind-2026-03-27",
-    "amount": 1714.9176
-  },
-  {
     "market": "US x Iran ceasefire by March 31?",
     "market_slug": "us-x-iran-ceasefire-by-march-31",
     "event_slug": "us-x-iran-ceasefire-by-march-31",
@@ -28480,5 +28436,49 @@
       "insider_win": null,
       "model_correct": null
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x52316b3baf75dfdb10bbba9a37aeb97255f53f61a330c8d29691a29c949492ee",
+    "wallet": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
+    "trader": {
+      "rank": 7,
+      "address": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
+      "username": "Len9311238",
+      "profit": 8709972.988069998,
+      "volume": 16402744.764626998,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "16016159382919325449107628383453101445302660640745246443967030341680651664077",
+      "conditionId": "0x8fe147be1e3b7c15a681b240eed3b715b8bd94defba50e99a7e0376039d6c304",
+      "size": 5568,
+      "price": 0.86,
+      "timestamp": 1781554125,
+      "title": "Spread: Egypt (-1.5)",
+      "slug": "fifwc-bel-egy-2026-06-15-spread-away-1pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-bel-egy-2026-06-15-more-markets",
+      "outcome": "Belgium",
+      "outcomeIndex": 1,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "loincloth chic",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x52316b3baf75dfdb10bbba9a37aeb97255f53f61a330c8d29691a29c949492ee",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spread: Egypt (-1.5)",
+    "market_slug": "fifwc-bel-egy-2026-06-15-more-markets",
+    "amount": 4788.48
   }
 ]
