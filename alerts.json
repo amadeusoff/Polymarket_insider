@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x12158d28c2318feb218b4ec8db5486744ccc598fc0a5b44c76b13c512693dde8",
-    "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
-    "trader": {
-      "rank": 19,
-      "address": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
-      "username": "beachboy4",
-      "profit": 4142102.07467556,
-      "volume": 199137316.59853494,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xead152b855effa6b5b5837f53b24c0756830c76a",
-      "side": "BUY",
-      "asset": "84031203592002917334262470868576093775510312558710425317269896203693659940128",
-      "conditionId": "0x682ec1e399ff437b2e0cf7bd7e6df650916186829dfa1112f2f2e81a402ece30",
-      "size": 4465,
-      "price": 0.81,
-      "timestamp": 1774631983,
-      "title": "Alabama Crimson Tide vs. Michigan Wolverines",
-      "slug": "cbb-ala-mich-2026-03-27",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ncaa-c14995df96.png",
-      "eventSlug": "cbb-ala-mich-2026-03-27",
-      "outcome": "Michigan Wolverines",
-      "outcomeIndex": 1,
-      "name": "elkmonkey",
-      "pseudonym": "Unconscious-Penguin",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x12158d28c2318feb218b4ec8db5486744ccc598fc0a5b44c76b13c512693dde8",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Alabama Crimson Tide vs. Michigan Wolverines",
-    "market_slug": "cbb-ala-mich-2026-03-27",
-    "amount": 3616.65
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x5bbe97e4390bfad7a5386577dcc182406876ad148142e41cfacd74effcda4c5c",
     "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
     "trader": {
@@ -28474,5 +28430,49 @@
     "market": "C\u00f4te d'Ivoire vs. Ecuador: O/U 7.5 Total Corners",
     "market_slug": "fifwc-civ-ecu-2026-06-14-total-corners",
     "amount": 17541.3312
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x4a92e84b0d8a8498df645ee20f4afa78d8184fca1376f6e068f4ea12603ca864",
+    "wallet": "0xd0c042c08f755ff940249f62745e82d356345565",
+    "trader": {
+      "rank": 17,
+      "address": "0xd0c042c08f755ff940249f62745e82d356345565",
+      "username": "alexmulti",
+      "profit": 4804855.613376001,
+      "volume": 9949068.653841998,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x6bb33bdb14cea8f53766539efc6019b55e8a758e",
+      "side": "BUY",
+      "asset": "91039657475228331680432710963359572260866123264362317678406217961569111448347",
+      "conditionId": "0x54620298f91d072ff5843b4a3989b53a8502bc405782f1dc88859574ca815092",
+      "size": 9861.088408,
+      "price": 0.4315365427154783,
+      "timestamp": 1781501301,
+      "title": "Nottingham Open: Marie Bouzkova vs Tereza Valentova",
+      "slug": "wta-bouzkov-valento-2026-06-15",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wta-logo-41f331bdf1.png",
+      "eventSlug": "wta-bouzkov-valento-2026-06-15",
+      "outcome": "Tereza Valentova",
+      "outcomeIndex": 1,
+      "name": "lockrobster",
+      "pseudonym": "Shimmering-Feng",
+      "bio": "i am a rock.  i am an island.",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-4121102-cc307760-c157-4cb9-b0a4-3504318c3fd3.webp",
+      "profileImageOptimized": "",
+      "transactionHash": "0x4a92e84b0d8a8498df645ee20f4afa78d8184fca1376f6e068f4ea12603ca864",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Nottingham Open: Marie Bouzkova vs Tereza Valentova",
+    "market_slug": "wta-bouzkov-valento-2026-06-15",
+    "amount": 4255.419999
   }
 ]
