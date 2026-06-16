@@ -1,138 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xb7e1e807d66a10bff5df24dfa38f7277cca6990c801bb9bed211caadc6bed504",
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "trader": {
-      "rank": 12,
-      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-      "username": "swisstony",
-      "profit": 5598959.766941265,
-      "volume": 599513927.3644903,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x0fded0ed829a00c35dcd2d550983e92108ed8ab1",
-      "side": "BUY",
-      "asset": "12140363270813721013935821508234774830862117498614233251879688391015459761132",
-      "conditionId": "0x5b84fbae5daa65b4660a32fb55e8ee4f17cc2a51a85ce1917b92e1a681e869c4",
-      "size": 1763.06314,
-      "price": 0.95,
-      "timestamp": 1774652391,
-      "title": "Bulls vs. Thunder",
-      "slug": "nba-chi-okc-2026-03-27",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-chi-okc-2026-03-27",
-      "outcome": "Thunder",
-      "outcomeIndex": 1,
-      "name": "Telepath-One",
-      "pseudonym": "Mature-Equipment",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3347556-f46ab150-679e-4e76-ae9c-d7e7ed35fd7c.png",
-      "profileImageOptimized": "",
-      "transactionHash": "0xb7e1e807d66a10bff5df24dfa38f7277cca6990c801bb9bed211caadc6bed504",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Bulls vs. Thunder",
-    "market_slug": "nba-chi-okc-2026-03-27",
-    "amount": 1674.909983
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x3b01d9f93bee353a0e909d4f863c6d399a9ef0e3600983e7e9055bb8c55838ea",
-    "wallet": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
-    "trader": {
-      "rank": 2,
-      "address": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
-      "username": "Fredi9999",
-      "profit": 16619506.631730152,
-      "volume": 76611316.905154,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xf9fe29004c5a905c7b78bbb930ac57feea67366b",
-      "side": "BUY",
-      "asset": "65503641970158136703516259292243467669354193972901151416267326116001014725196",
-      "conditionId": "0x891e9e5612fb38538cfc8e972e8298f51112d78817f73fbfa73d55f5a2a9b477",
-      "size": 2318,
-      "price": 0.76,
-      "timestamp": 1774653593,
-      "title": "St. John's Red Storm vs. Duke Blue Devils",
-      "slug": "cbb-stjohn-duke-2026-03-27",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ncaa-c14995df96.png",
-      "eventSlug": "cbb-stjohn-duke-2026-03-27",
-      "outcome": "Duke Blue Devils",
-      "outcomeIndex": 1,
-      "name": "CanadianGoose",
-      "pseudonym": "Blond-Alliance",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x3b01d9f93bee353a0e909d4f863c6d399a9ef0e3600983e7e9055bb8c55838ea",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "St. John's Red Storm vs. Duke Blue Devils",
-    "market_slug": "cbb-stjohn-duke-2026-03-27",
-    "amount": 1761.68
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xea1ab0982b591b48eb43fdaed5a15708aae6e8ad959c4d52082624b77d67f76f",
-    "wallet": "0xd0c042c08f755ff940249f62745e82d356345565",
-    "trader": {
-      "rank": 15,
-      "address": "0xd0c042c08f755ff940249f62745e82d356345565",
-      "username": "alexmulti",
-      "profit": 4804855.613376001,
-      "volume": 9949068.653841998,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x4453886425fdbcc900525755515244a66659dd3b",
-      "side": "BUY",
-      "asset": "90527368220056094499787958638375970410413722308601684454359395969617817547528",
-      "conditionId": "0x946833228cae9572bc293e26a19d7333d162bec248b18df7ba0166c7ec76690b",
-      "size": 18642.740296,
-      "price": 0.6661509950157168,
-      "timestamp": 1774655687,
-      "title": "Clippers vs. Pacers",
-      "slug": "nba-lac-ind-2026-03-27",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-lac-ind-2026-03-27",
-      "outcome": "Pacers",
-      "outcomeIndex": 1,
-      "name": "MasonFree",
-      "pseudonym": "Necessary-Alpenglow",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xea1ab0982b591b48eb43fdaed5a15708aae6e8ad959c4d52082624b77d67f76f",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Clippers vs. Pacers",
-    "market_slug": "nba-lac-ind-2026-03-27",
-    "amount": 12418.879998
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x790847b721cbbf5543db079da83cc6f8cce79a28b8cf280c6216a56f88a9f0cb",
     "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
     "trader": {
@@ -28471,5 +28339,137 @@
     "market": "Will IR Iran win on 2026-06-15?",
     "market_slug": "fifwc-irn-nzl-2026-06-15",
     "amount": 50000.009999999995
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x3e16d8cc73f34cbebe22951bcc676c3d8c0f26d662555715243c1b200071f4c0",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "81602004406758538382491290996526735522614396336164168992595136497342425298752",
+      "conditionId": "0xcaaa1338d38b5c614196c9a926dd84babc3984442f2ec9b937a16284a199ec3a",
+      "size": 13916,
+      "price": 0.24,
+      "timestamp": 1781623652,
+      "title": "Will Portugal win on 2026-06-17?",
+      "slug": "fifwc-prt-cdr-2026-06-17-prt",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-prt-cdr-2026-06-17",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "loincloth chic",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x3e16d8cc73f34cbebe22951bcc676c3d8c0f26d662555715243c1b200071f4c0",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Portugal win on 2026-06-17?",
+    "market_slug": "fifwc-prt-cdr-2026-06-17",
+    "amount": 3339.8399999999997
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xa1c2fe7ba05d5594426c1b8138c89bd2c81d208f57e3dc5ad4e67fd0c3f13b62",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "35349838377834575764885726295895721453673141020822714273751768275962362930042",
+      "conditionId": "0xc7cf1cff6bc27b004f2b8fef8f72113c7c10d24b14eeca2fe903a04e0def3d40",
+      "size": 5679,
+      "price": 0.71,
+      "timestamp": 1781623652,
+      "title": "Spread: Portugal (-2.5)",
+      "slug": "fifwc-prt-cdr-2026-06-17-spread-home-2pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-prt-cdr-2026-06-17-more-markets",
+      "outcome": "DR Congo",
+      "outcomeIndex": 1,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "loincloth chic",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xa1c2fe7ba05d5594426c1b8138c89bd2c81d208f57e3dc5ad4e67fd0c3f13b62",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spread: Portugal (-2.5)",
+    "market_slug": "fifwc-prt-cdr-2026-06-17-more-markets",
+    "amount": 4032.0899999999997
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xb78fbb3828fdb81163801c025ebc7972168e5586a07a60f822a8483e85dbb236",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xa5dcb282cab760e31df1f3f5c18350731c95ec43",
+      "side": "BUY",
+      "asset": "10823716658039831887104820990582788729153708594490493621110967140915882524356",
+      "conditionId": "0x3045a441e5ea4e49468d0fac36d47c32ceae2e572bd7960111187b6630a83b46",
+      "size": 8474.57627,
+      "price": 0.5899999999646,
+      "timestamp": 1781623652,
+      "title": "Spread: France (-1.5)",
+      "slug": "fifwc-fra-sen-2026-06-16-spread-home-1pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-fra-sen-2026-06-16-more-markets",
+      "outcome": "Senegal",
+      "outcomeIndex": 1,
+      "name": "Yikes110",
+      "pseudonym": "Hurtful-Cheddar",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xb78fbb3828fdb81163801c025ebc7972168e5586a07a60f822a8483e85dbb236",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spread: France (-1.5)",
+    "market_slug": "fifwc-fra-sen-2026-06-16-more-markets",
+    "amount": 4999.999999
   }
 ]
