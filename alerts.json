@@ -1,181 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x790847b721cbbf5543db079da83cc6f8cce79a28b8cf280c6216a56f88a9f0cb",
-    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-    "trader": {
-      "rank": 5,
-      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-      "username": "zxgngl",
-      "profit": 7807265.589240883,
-      "volume": 40551790.62184699,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x70e96fe9d8b5d4a0404660d6fbf94b31fc01c6ef",
-      "side": "BUY",
-      "asset": "12140363270813721013935821508234774830862117498614233251879688391015459761132",
-      "conditionId": "0x5b84fbae5daa65b4660a32fb55e8ee4f17cc2a51a85ce1917b92e1a681e869c4",
-      "size": 3793.61052,
-      "price": 0.95,
-      "timestamp": 1774656287,
-      "title": "Bulls vs. Thunder",
-      "slug": "nba-chi-okc-2026-03-27",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-chi-okc-2026-03-27",
-      "outcome": "Thunder",
-      "outcomeIndex": 1,
-      "name": "0x7D7",
-      "pseudonym": "Shy-Return",
-      "bio": "\ud83c\udf86",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-5571702-18077944-7f9a-4ee0-b084-eef541a90ec4.webp",
-      "profileImageOptimized": "",
-      "transactionHash": "0x790847b721cbbf5543db079da83cc6f8cce79a28b8cf280c6216a56f88a9f0cb",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Bulls vs. Thunder",
-    "market_slug": "nba-chi-okc-2026-03-27",
-    "amount": 3603.929994
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xa23fba2b56b1117dbc86e19fd96a083b423df2a316704bec0cd0a52b7a77a6fb",
-    "wallet": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
-    "trader": {
-      "rank": 2,
-      "address": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
-      "username": "Fredi9999",
-      "profit": 16619506.631730152,
-      "volume": 76611316.90515402,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xde17f7144fbd0eddb2679132c10ff5e74b120988",
-      "side": "BUY",
-      "asset": "22209024300745847508417343126312124060740884994461270403670085540458878059143",
-      "conditionId": "0x9d7ed4bebb29bf3ce7e5216fcc57bff467f3ec6593ad1e086c071879b92a4314",
-      "size": 2295.21,
-      "price": 0.7098126533084118,
-      "timestamp": 1774676699,
-      "title": "Bitcoin Up or Down on March 28?",
-      "slug": "bitcoin-up-or-down-on-march-28-2026",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
-      "eventSlug": "bitcoin-up-or-down-on-march-28-2026",
-      "outcome": "Up",
-      "outcomeIndex": 0,
-      "name": "0xdE17f7144fbD0eddb2679132C10ff5e74B120988-1772205225932",
-      "pseudonym": "Attentive-Silica",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xa23fba2b56b1117dbc86e19fd96a083b423df2a316704bec0cd0a52b7a77a6fb",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Bitcoin Up or Down on March 28?",
-    "market_slug": "bitcoin-up-or-down-on-march-28-2026",
-    "amount": 1629.1690999999998
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x656185323ae91ea62bedf722c60cc35949349c09bbf8736fe1a7fce4163aa644",
-    "wallet": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
-    "trader": {
-      "rank": 4,
-      "address": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
-      "username": "Len9311238",
-      "profit": 8709972.988069998,
-      "volume": 16402744.764626998,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xc2faed5b54219199713e18cc20d59752603d1217",
-      "side": "BUY",
-      "asset": "90854034464391541010766258546740793932292078284306768851778388546538417975321",
-      "conditionId": "0x0d7b4fb6f799384c3ba3250c2a2327b97e1143ff8e4b2c6af293e26c5d2730d8",
-      "size": 4949,
-      "price": 0.53,
-      "timestamp": 1774679997,
-      "title": "Spread: Spurs (-19.5)",
-      "slug": "nba-sas-mil-2026-03-28-spread-away-19pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-sas-mil-2026-03-28",
-      "outcome": "Bucks",
-      "outcomeIndex": 1,
-      "name": "CBNVFHGK",
-      "pseudonym": "Clear-Ink",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x656185323ae91ea62bedf722c60cc35949349c09bbf8736fe1a7fce4163aa644",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Spread: Spurs (-19.5)",
-    "market_slug": "nba-sas-mil-2026-03-28",
-    "amount": 2622.9700000000003
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x3d523798ea937343367f41c482d8b4ca6e06b3bb1857c69377084f7b5360dc41",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.51568201,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xc2647bc6db13887aede7cc9c69c6262910f6fbe8",
-      "side": "BUY",
-      "asset": "29950489035650776944637857495608923659285559520543605944359984119443817993935",
-      "conditionId": "0x9259cfbeb7ac18ea27b792052ec228e8880e03c6e450f688684a84c4f749b75d",
-      "size": 3945.55,
-      "price": 0.95,
-      "timestamp": 1774695005,
-      "title": "Spurs vs. Bucks",
-      "slug": "nba-sas-mil-2026-03-28",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-sas-mil-2026-03-28",
-      "outcome": "Spurs",
-      "outcomeIndex": 0,
-      "name": "sadasd231dsa",
-      "pseudonym": "Arid-Knife",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x3d523798ea937343367f41c482d8b4ca6e06b3bb1857c69377084f7b5360dc41",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Spurs vs. Bucks",
-    "market_slug": "nba-sas-mil-2026-03-28",
-    "amount": 3748.2725
-  },
-  {
     "market": "Spurs vs. Bucks: O/U 226.5",
     "market_slug": "nba-sas-mil-2026-03-28-total-226pt5",
     "event_slug": "nba-sas-mil-2026-03-28-total-226pt5",
@@ -28471,5 +28295,310 @@
     "market": "Spread: France (-1.5)",
     "market_slug": "fifwc-fra-sen-2026-06-16-more-markets",
     "amount": 4999.999999
+  },
+  {
+    "market": "Will Czechia win on 2026-06-18?",
+    "market_slug": "fifwc-cze-rsa-2026-06-18-cze",
+    "event_slug": "fifwc-cze-rsa-2026-06-18-cze",
+    "wallet": "0x2be5c2d1584e1a0780c2df51a5117766f3905c2a",
+    "analysis": {
+      "score": 100,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,320)",
+        "Pre-event latency: 1575m"
+      ],
+      "amount": 1320.0,
+      "odds": 0.55,
+      "raw_price": 0.55,
+      "outcome": "Yes",
+      "potential_pnl": 1080.0,
+      "pnl_multiplier": 0.8181818181818182,
+      "wallet_age_days": 0,
+      "total_activities": 27
+    },
+    "timestamp": "2026-06-16T21:47:29.117549",
+    "trade_hash": "0x5c0e8d4409c232fee66ab1b70e04a35c1e255c6d48d0dfa7dcaa97d4e557044c",
+    "trade_timestamp": 1781646283,
+    "latency": {
+      "latency_seconds": 94517.0,
+      "latency_minutes": 1575.2833333333333,
+      "is_pre_event": true,
+      "severity": "CRITICAL",
+      "trade_time": "2026-06-16T21:44:43+00:00",
+      "event_time": "2026-06-18T00:00:00+00:00"
+    },
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.55,
+      "effective_price": 0.55,
+      "size": 2400.0,
+      "amount": 1320.0,
+      "potential_pnl": 1080.0,
+      "pnl_multiplier": 0.8181818181818182,
+      "is_no": false,
+      "slug": "fifwc-cze-rsa-2026-06-18-cze",
+      "eventSlug": "fifwc-cze-rsa-2026-06-18"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+17.3%)"
+      ],
+      "category": "politics_near",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.02,
+        "min_edge": 0.03
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.3775,
+      "market_price": 0.55,
+      "edge": 0.17250000000000004,
+      "edge_percent": 17.250000000000004,
+      "min_edge_required": 0.03,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 100,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 100,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.17250000000000004,
+      "edge_percent": 17.250000000000004
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 52.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 17.25,
+      "signal_strength": 100.0,
+      "insider_score": 100.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Argentina vs. Algeria: Both Teams to Score",
+    "market_slug": "fifwc-arg-alg-2026-06-16-btts",
+    "event_slug": "fifwc-arg-alg-2026-06-16-btts",
+    "wallet": "0x2aa6e6d853854dc34f3e7873d6df452327611e5a",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($2,987)",
+        "Low activity (3 txns)"
+      ],
+      "amount": 2986.569999,
+      "odds": 0.4399999999764278,
+      "raw_price": 0.4399999999764278,
+      "outcome": "Yes",
+      "potential_pnl": 3801.08909,
+      "pnl_multiplier": 1.27272727284903,
+      "wallet_age_days": 0,
+      "total_activities": 3
+    },
+    "timestamp": "2026-06-16T21:47:37.150677",
+    "trade_hash": "0x17def3ec937f2ab6eba21c2bfee446095939a7e18e7834e04cb91ba1c701af07",
+    "trade_timestamp": 1781646287,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.4399999999764278,
+      "effective_price": 0.4399999999764278,
+      "size": 6787.659089,
+      "amount": 2986.569999,
+      "potential_pnl": 3801.08909,
+      "pnl_multiplier": 1.27272727284903,
+      "is_no": false,
+      "slug": "fifwc-arg-alg-2026-06-16-btts",
+      "eventSlug": "fifwc-arg-alg-2026-06-16-more-markets"
+    },
+    "irrationality": {
+      "irrationality_score": 25,
+      "flags": [
+        "Significant mispricing edge (+10.6%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.3334999999905711,
+      "market_price": 0.4399999999764278,
+      "edge": 0.10649999998585669,
+      "edge_percent": 10.649999998585669,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 25,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.10649999998585669,
+      "edge_percent": 10.649999998585669
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 35.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 10.65,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x7165fa877c0c7f2e9e67038cfaf6392adb12e4ca6942d892aa67aff5d6d28a20",
+    "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
+    "trader": {
+      "rank": 10,
+      "address": "0x863134d00841b2e200492805a01e1e2f5defaa53",
+      "username": "RepTrump",
+      "profit": 7532409.671579,
+      "volume": 13983231.103425,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x567212c82aaa6fe589be5a2f4c96ce40904e7312",
+      "side": "BUY",
+      "asset": "75059586055131682548835845883723546178449987008659057560452995582689932689569",
+      "conditionId": "0x821b530445694142d4b28874d58ffe841cad17a1106b7c0cff715bd7a165d7df",
+      "size": 4000,
+      "price": 0.6,
+      "timestamp": 1781646763,
+      "title": "Spread: Norway (-1.5)",
+      "slug": "fifwc-irq-nor-2026-06-16-spread-away-1pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-irq-nor-2026-06-16-more-markets",
+      "outcome": "Norway",
+      "outcomeIndex": 0,
+      "name": "0x567212c82AAa6fe589bE5A2f4C96cE40904e7312-1774860884379",
+      "pseudonym": "Urban-Lumber",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x7165fa877c0c7f2e9e67038cfaf6392adb12e4ca6942d892aa67aff5d6d28a20",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spread: Norway (-1.5)",
+    "market_slug": "fifwc-irq-nor-2026-06-16-more-markets",
+    "amount": 2400.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xbc12ce2b713199c4ab111454553dd0c96e8095bc04d16753c19bf826566df867",
+    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
+    "trader": {
+      "rank": 18,
+      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
+      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
+      "profit": 4753114.3479158925,
+      "volume": 61546041.073577985,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "82322446324937919888982704624705152550822315899914542222584535525411987091727",
+      "conditionId": "0x947996d016c91c138f34eb5ebf0a67a27af1254fb93e603e48889c2f178ddd0a",
+      "size": 11695,
+      "price": 0.86,
+      "timestamp": 1781647064,
+      "title": "Will Iraq vs. Norway end in a draw?",
+      "slug": "fifwc-irq-nor-2026-06-16-draw",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-irq-nor-2026-06-16",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "loincloth chic",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xbc12ce2b713199c4ab111454553dd0c96e8095bc04d16753c19bf826566df867",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Iraq vs. Norway end in a draw?",
+    "market_slug": "fifwc-irq-nor-2026-06-16",
+    "amount": 10057.7
   }
 ]
