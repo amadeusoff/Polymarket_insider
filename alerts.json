@@ -1,138 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x705b2514524e982fa2325d6be3db761b5904027a1e51325e9473fdd62de3c5d7",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x5f8ec8b9c07547d93ac7206ef75c1b625e6021b7",
-      "side": "BUY",
-      "asset": "63586620628756015058616403521099137018911742768824051367331188904593189743777",
-      "conditionId": "0x36e8ca24d2a13435f519f15580d42b45cdbe3bc425fb39a7c2733260357af0fa",
-      "size": 2000,
-      "price": 0.964,
-      "timestamp": 1774644589,
-      "title": "Will there be no change in Fed interest rates after the April 2026 meeting?",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-april-2026-meeting",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/jerome+powell+glasses1.png",
-      "eventSlug": "fed-decision-in-april",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "1234ab",
-      "pseudonym": "Offbeat-Pole",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x705b2514524e982fa2325d6be3db761b5904027a1e51325e9473fdd62de3c5d7",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will there be no change in Fed interest rates after the April 2026 meeting?",
-    "market_slug": "fed-decision-in-april",
-    "amount": 1928.0
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x29f0f90723ef5d105441703c89692c8bc117fdf3bb0f2a0a5de1d2c56cdfc0ea",
-    "wallet": "0xd0c042c08f755ff940249f62745e82d356345565",
-    "trader": {
-      "rank": 15,
-      "address": "0xd0c042c08f755ff940249f62745e82d356345565",
-      "username": "alexmulti",
-      "profit": 4804855.613376001,
-      "volume": 9949068.653841998,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x4fe7306c7d9939224f2bc6e776373336ffbb2f3c",
-      "side": "BUY",
-      "asset": "17787443776067708614603896056430546769149251046527206847526290753247018244570",
-      "conditionId": "0xc1fbe3cccad749c3a0d0a00b37239b9620e82488d004407ee546add491c58685",
-      "size": 6000,
-      "price": 0.5,
-      "timestamp": 1774646987,
-      "title": "Spread: Iowa State Cyclones (-3.5)",
-      "slug": "cbb-tenn-iowast-2026-03-27-spread-home-3pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ncaa-c14995df96.png",
-      "eventSlug": "cbb-tenn-iowast-2026-03-27",
-      "outcome": "Tennessee Volunteers",
-      "outcomeIndex": 1,
-      "name": "estebanxoxooo",
-      "pseudonym": "Mixed-Consistency",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x29f0f90723ef5d105441703c89692c8bc117fdf3bb0f2a0a5de1d2c56cdfc0ea",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Spread: Iowa State Cyclones (-3.5)",
-    "market_slug": "cbb-tenn-iowast-2026-03-27",
-    "amount": 3000.0
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xcb9f146ff985e71f0c01cc59bdf912278e99efb5585e322431aafcf856cdb159",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.51568201,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x716d9e45e96fea7715387c8240a2b43e32a64206",
-      "side": "SELL",
-      "asset": "112493481455469093769281852159558847572704253342416714876781522096078968514094",
-      "conditionId": "0x36912c9832f0fd104d734b579fb9b3a1b31bbdc946a67356723407e3bdc96dbc",
-      "size": 7130.21,
-      "price": 0.7024883376506442,
-      "timestamp": 1774648189,
-      "title": "Will Bitcoin dip to $65,000 in March?",
-      "slug": "will-bitcoin-dip-to-65k-in-march-2026",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
-      "eventSlug": "what-price-will-bitcoin-hit-in-march-2026",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "0x716D9E45E96FeA7715387C8240a2b43e32a64206-1766378794699",
-      "pseudonym": "Ready-Duckling",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xcb9f146ff985e71f0c01cc59bdf912278e99efb5585e322431aafcf856cdb159",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Bitcoin dip to $65,000 in March?",
-    "market_slug": "what-price-will-bitcoin-hit-in-march-2026",
-    "amount": 5008.88937
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xb7e1e807d66a10bff5df24dfa38f7277cca6990c801bb9bed211caadc6bed504",
     "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
     "trader": {
@@ -28471,5 +28339,137 @@
     "market": "Spread: Washington Nationals (-1.5)",
     "market_slug": "mlb-kc-wsh-2026-06-15",
     "amount": 1504.12
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x2c615557b5b25ea39b29c28f45c773c841f3e773511274e6bb342e98cdeb64fb",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xec593b3c1a9a0ed15e597dc4ea09cafbffe3bb35",
+      "side": "BUY",
+      "asset": "106234636274516562438313585295639888713896614092262630436386711827852942552369",
+      "conditionId": "0xe70fd51f42e61fc309d8e57019a7b76c8dc7bd19b473351d56ff1e125ae0d9d4",
+      "size": 3400,
+      "price": 0.47,
+      "timestamp": 1781568837,
+      "title": "Will IR Iran win on 2026-06-15?",
+      "slug": "fifwc-irn-nzl-2026-06-15-irn",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-irn-nzl-2026-06-15",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "iamkrisas",
+      "pseudonym": "Optimal-Manicure",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3757781-5948d695-b027-493b-b1f7-711a0e1c9f97.png",
+      "profileImageOptimized": "",
+      "transactionHash": "0x2c615557b5b25ea39b29c28f45c773c841f3e773511274e6bb342e98cdeb64fb",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will IR Iran win on 2026-06-15?",
+    "market_slug": "fifwc-irn-nzl-2026-06-15",
+    "amount": 1598.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x698b791fba73da202177997af06068fdb8c4b1c49ceab4fba9bae80899f2c9fd",
+    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
+    "trader": {
+      "rank": 8,
+      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
+      "username": "zxgngl",
+      "profit": 7807265.5892408835,
+      "volume": 40551790.62184699,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x96cfcb0c30942cfcd1cdf76c7d408794d66b1acb",
+      "side": "BUY",
+      "asset": "106234636274516562438313585295639888713896614092262630436386711827852942552369",
+      "conditionId": "0xe70fd51f42e61fc309d8e57019a7b76c8dc7bd19b473351d56ff1e125ae0d9d4",
+      "size": 21277,
+      "price": 0.47,
+      "timestamp": 1781569135,
+      "title": "Will IR Iran win on 2026-06-15?",
+      "slug": "fifwc-irn-nzl-2026-06-15-irn",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-irn-nzl-2026-06-15",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "mintblade",
+      "pseudonym": "Golden-Reclamation",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x698b791fba73da202177997af06068fdb8c4b1c49ceab4fba9bae80899f2c9fd",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will IR Iran win on 2026-06-15?",
+    "market_slug": "fifwc-irn-nzl-2026-06-15",
+    "amount": 10000.189999999999
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x9c7642f07edc3c768a3beeeb9556efc16b5755c51049c73e1f7ef1bc35379df2",
+    "wallet": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
+    "trader": {
+      "rank": 16,
+      "address": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
+      "username": "gmanas",
+      "profit": 4955880.748692192,
+      "volume": 529047708.505991,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x96cfcb0c30942cfcd1cdf76c7d408794d66b1acb",
+      "side": "BUY",
+      "asset": "106234636274516562438313585295639888713896614092262630436386711827852942552369",
+      "conditionId": "0xe70fd51f42e61fc309d8e57019a7b76c8dc7bd19b473351d56ff1e125ae0d9d4",
+      "size": 106383,
+      "price": 0.47,
+      "timestamp": 1781569437,
+      "title": "Will IR Iran win on 2026-06-15?",
+      "slug": "fifwc-irn-nzl-2026-06-15-irn",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-irn-nzl-2026-06-15",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "mintblade",
+      "pseudonym": "Golden-Reclamation",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x9c7642f07edc3c768a3beeeb9556efc16b5755c51049c73e1f7ef1bc35379df2",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will IR Iran win on 2026-06-15?",
+    "market_slug": "fifwc-irn-nzl-2026-06-15",
+    "amount": 50000.009999999995
   }
 ]
