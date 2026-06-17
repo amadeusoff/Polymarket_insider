@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x4d89d25bf2c459b59d606ba4473ae385629052a7e33102950426d6a328fed16c",
-    "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
-    "trader": {
-      "rank": 10,
-      "address": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
-      "username": "KeyTransporter",
-      "profit": 5711459.802519929,
-      "volume": 20086062.154324993,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x098c8fe3e2e915715e8b4c013ad43b433ca21c67",
-      "side": "SELL",
-      "asset": "108589600470325504740081423193161239818019538756696798339090302191901142024805",
-      "conditionId": "0x61938e68cfbc53ce2a4ecf35438ad9a7cc83c1ba1b5d24b07b7d1691840030af",
-      "size": 3115.21,
-      "price": 0.34,
-      "timestamp": 1774719707,
-      "title": "LoL: Karmine Corp vs Team Vitality (BO3) - LEC Group Stage",
-      "slug": "lol-kc-vit-2026-03-28",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
-      "eventSlug": "lol-kc-vit-2026-03-28",
-      "outcome": "Team Vitality",
-      "outcomeIndex": 1,
-      "name": "D.Dantes",
-      "pseudonym": "Rusty-Statue",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-2722604-03f40c5a-6d28-4d5e-8efc-3f970066d875.webp",
-      "profileImageOptimized": "",
-      "transactionHash": "0x4d89d25bf2c459b59d606ba4473ae385629052a7e33102950426d6a328fed16c",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "LoL: Karmine Corp vs Team Vitality (BO3) - LEC Group Stage",
-    "market_slug": "lol-kc-vit-2026-03-28",
-    "amount": 2056.0386
-  },
-  {
     "market": "US forces enter Iran by March 31?",
     "market_slug": "us-forces-enter-iran-by-march-31-222-191-243-517-878",
     "event_slug": "us-forces-enter-iran-by-march-31-222-191-243-517-878",
@@ -28414,5 +28370,49 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xb83c0207d80f11fc4396b5cc596ee4785fa87611b9b06869687e693999b21281",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "64822004949641182714171351326666560592624906024961274153595859679991402683609",
+      "conditionId": "0xe3261d3716244c7e021068ddec49a3cf49029e75c96ae2c047922b1430c4b67f",
+      "size": 6104,
+      "price": 0.56,
+      "timestamp": 1781728106,
+      "title": "England vs. Croatia: Croatia O/U 0.5",
+      "slug": "fifwc-eng-hrv-2026-06-17-team-total-away-0pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-eng-hrv-2026-06-17-more-markets",
+      "outcome": "Over",
+      "outcomeIndex": 0,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "loincloth chic",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xb83c0207d80f11fc4396b5cc596ee4785fa87611b9b06869687e693999b21281",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "England vs. Croatia: Croatia O/U 0.5",
+    "market_slug": "fifwc-eng-hrv-2026-06-17-more-markets",
+    "amount": 3418.2400000000002
   }
 ]
