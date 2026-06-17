@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x8fc5613663c2269da7430c20011e959903f6f8cfb0358f7310a3f0da82fe1ddb",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x554b0975cc71514bcfb52598310dc4e9291b8216",
-      "side": "BUY",
-      "asset": "34146692331503177603782853463663889667346777354917338693542546006951588245370",
-      "conditionId": "0x3dd276f10193bb8c36b4647af3400e2fcb116ccb7683d8d834739d111512c907",
-      "size": 5000,
-      "price": 0.51,
-      "timestamp": 1774712409,
-      "title": "Dota 2: Team Yandex vs Tundra Esports - Game 1 Winner",
-      "slug": "dota2-ty-tundra-2026-03-28-game1",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/dota2-7ffacddb21.jpg",
-      "eventSlug": "dota2-ty-tundra-2026-03-28",
-      "outcome": "Team Yandex",
-      "outcomeIndex": 0,
-      "name": "sd908787",
-      "pseudonym": "Linear-Octagon",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x8fc5613663c2269da7430c20011e959903f6f8cfb0358f7310a3f0da82fe1ddb",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Dota 2: Team Yandex vs Tundra Esports - Game 1 Winner",
-    "market_slug": "dota2-ty-tundra-2026-03-28",
-    "amount": 2550.0
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x462f81fb307d43369abf1d0d59718aa603e7a3f09b3eaf1a81906c94959d797c",
     "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
     "trader": {
@@ -28356,5 +28312,49 @@
     "market": "Will Portugal win on 2026-06-17?",
     "market_slug": "fifwc-prt-cdr-2026-06-17",
     "amount": 5177.6599989999995
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xee339d30816dbf63ba393d120593a462e03128c0619fcdeaae185e4e0ebf223b",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xe9076a87c5ed90ef16e6fe6529c943baeca0cff6",
+      "side": "BUY",
+      "asset": "76071109489406808599878692125264766321676001700733380917373465772841855210643",
+      "conditionId": "0xcaaa1338d38b5c614196c9a926dd84babc3984442f2ec9b937a16284a199ec3a",
+      "size": 2427,
+      "price": 0.77,
+      "timestamp": 1781710097,
+      "title": "Will Portugal win on 2026-06-17?",
+      "slug": "fifwc-prt-cdr-2026-06-17-prt",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-prt-cdr-2026-06-17",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "suntori",
+      "pseudonym": "All-Peasant-Drug",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xee339d30816dbf63ba393d120593a462e03128c0619fcdeaae185e4e0ebf223b",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Portugal win on 2026-06-17?",
+    "market_slug": "fifwc-prt-cdr-2026-06-17",
+    "amount": 1868.79
   }
 ]
