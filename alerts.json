@@ -1,120 +1,5 @@
 [
   {
-    "market": "US forces enter Iran by March 31?",
-    "market_slug": "us-forces-enter-iran-by-march-31-222-191-243-517-878",
-    "event_slug": "us-forces-enter-iran-by-march-31-222-191-243-517-878",
-    "wallet": "0x414198c25890a37c917722b8b69e475a30b28b6c",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "Against trend (9.0% effective odds)",
-        "Large bet ($1,454)",
-        "Pre-event latency: 3126m"
-      ],
-      "amount": 1454.0012999999994,
-      "odds": 0.08999999999999997,
-      "raw_price": 0.91,
-      "outcome": "No",
-      "potential_pnl": 14701.5687,
-      "pnl_multiplier": 10.111111111111114,
-      "wallet_age_days": 543,
-      "total_activities": 93
-    },
-    "timestamp": "2026-03-28T19:56:27.080495",
-    "trade_hash": "0xd95163d4fcdd1f372769b1a6477f50092254c35536c3d871369746c610331829",
-    "trade_timestamp": 1774727636,
-    "latency": {
-      "latency_seconds": 187564.0,
-      "latency_minutes": 3126.0666666666666,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-03-28T19:53:56+00:00",
-      "event_time": "2026-03-31T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "normalized_position": "NO",
-      "side": "SELL",
-      "price": 0.91,
-      "effective_price": 0.08999999999999997,
-      "size": 16155.57,
-      "amount": 1454.0012999999994,
-      "potential_pnl": 14701.5687,
-      "pnl_multiplier": 10.111111111111114,
-      "is_no": true,
-      "slug": "us-forces-enter-iran-by-march-31-222-191-243-517-878",
-      "eventSlug": "us-forces-enter-iran-by"
-    },
-    "irrationality": {
-      "irrationality_score": 40,
-      "flags": [
-        "Category structurally prone to longshot bias",
-        "Large mispricing edge (+70.4%)"
-      ],
-      "category": "geopolitics",
-      "category_info": {
-        "strength": "high",
-        "typical_overpricing": 0.05,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.20600000000000002,
-      "market_price": 0.91,
-      "edge": 0.704,
-      "edge_percent": 70.39999999999999,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "rare",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "rare",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Escalation of tensions between the US and Iran",
-          "Political support within the US government for military action",
-          "Mobilization of military resources and logistics for deployment"
-        ],
-        "weakest_link": "Political support within the US government for military action"
-      },
-      "category": "geopolitics",
-      "narrative_drivers": [
-        "Increased regional instability in the Middle East",
-        "US foreign policy shifts towards a more aggressive stance"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "ALPHA",
-      "signal_emoji": "\ud83d\udd25",
-      "signal_strength": 125,
-      "interpretation": "Smart money (NO) confirms YES is overpriced",
-      "action_suggestion": "High conviction: insider + statistics aligned",
-      "insider_score": 85,
-      "insider_position": "NO",
-      "irrationality_score": 40,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.704,
-      "edge_percent": 70.39999999999999
-    },
-    "financial_analyst": {
-      "signal_quality": 85.0,
-      "stance": "HIGH_CONVICTION",
-      "edge_percent": 70.4,
-      "signal_strength": 125.0,
-      "insider_score": 85.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0x9bb8ad965538f455ce311d39ddf141687651cb519c6f57ad5bbdb8a872ce109d",
     "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
@@ -28414,5 +28299,109 @@
     "market": "England vs. Croatia: Croatia O/U 0.5",
     "market_slug": "fifwc-eng-hrv-2026-06-17-more-markets",
     "amount": 3418.2400000000002
+  },
+  {
+    "market": "Will England win the 2026 FIFA World Cup?",
+    "market_slug": "will-england-win-the-2026-fifa-world-cup-937",
+    "event_slug": "will-england-win-the-2026-fifa-world-cup-937",
+    "wallet": "0x0f29fe49034f70c082c4896ea3a9bf3224cf01ad",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($4,844)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 4843.759999,
+      "odds": 0.12999999997906586,
+      "raw_price": 0.12999999997906586,
+      "outcome": "Yes",
+      "potential_pnl": 32415.932306999995,
+      "pnl_multiplier": 6.6923076935463985,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-06-17T22:23:39.638658",
+    "trade_hash": "0x7d5cc0fe81f2a59d9b01fdd2d5ba1a6aa5a73157624b179a9ae98000f436d329",
+    "trade_timestamp": 1781734576,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.12999999997906586,
+      "effective_price": 0.12999999997906586,
+      "size": 37259.692306,
+      "amount": 4843.759999,
+      "potential_pnl": 32415.932306999995,
+      "pnl_multiplier": 6.6923076935463985,
+      "is_no": false,
+      "slug": "will-england-win-the-2026-fifa-world-cup-937",
+      "eventSlug": "world-cup-winner"
+    },
+    "irrationality": {
+      "irrationality_score": 25,
+      "flags": [
+        "Longshot (13%) in medium bias category (sports)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.11949999999162633,
+      "market_price": 0.12999999997906586,
+      "edge": 0.010499999987439529,
+      "edge_percent": 1.049999998743953,
+      "min_edge_required": 0.05,
+      "is_mispriced": false,
+      "edge_quality": "WEAK",
+      "base_rate_class": "occasional",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "occasional",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 25,
+      "is_irrational": false,
+      "is_mispriced": false,
+      "edge": 0.010499999987439529,
+      "edge_percent": 1.049999998743953
+    },
+    "financial_analyst": {
+      "signal_quality": 25.6,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 1.05,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
