@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x462f81fb307d43369abf1d0d59718aa603e7a3f09b3eaf1a81906c94959d797c",
-    "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
-    "trader": {
-      "rank": 10,
-      "address": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
-      "username": "KeyTransporter",
-      "profit": 5711459.802519929,
-      "volume": 20086062.154324997,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xc0eeaa237f21de3e95d859f604989428a46f1686",
-      "side": "BUY",
-      "asset": "8110181234290531578434481130562650569021983344806109560925184291893518018647",
-      "conditionId": "0x74e3d59c8574b12acfe1c596869bca1c1226e60db837c8bb638fc11685466f10",
-      "size": 3000,
-      "price": 0.12,
-      "timestamp": 1774716011,
-      "title": "Indian Premier League: Royal Challengers Bengaluru vs Sunrisers Hyderabad",
-      "slug": "cricipl-roy-sun-2026-03-28",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
-      "eventSlug": "cricipl-roy-sun-2026-03-28",
-      "outcome": "Sunrisers Hyderabad",
-      "outcomeIndex": 1,
-      "name": "Sachinvikash",
-      "pseudonym": "Mysterious-Labor",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x462f81fb307d43369abf1d0d59718aa603e7a3f09b3eaf1a81906c94959d797c",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Indian Premier League: Royal Challengers Bengaluru vs Sunrisers Hyderabad",
-    "market_slug": "cricipl-roy-sun-2026-03-28",
-    "amount": 2640.0
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x4d89d25bf2c459b59d606ba4473ae385629052a7e33102950426d6a328fed16c",
     "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
     "trader": {
@@ -28356,5 +28312,107 @@
     "market": "Will Portugal win on 2026-06-17?",
     "market_slug": "fifwc-prt-cdr-2026-06-17",
     "amount": 1868.79
+  },
+  {
+    "market": "Spread: Portugal (-1.5)",
+    "market_slug": "fifwc-prt-cdr-2026-06-17-spread-home-1pt5",
+    "event_slug": "fifwc-prt-cdr-2026-06-17-spread-home-1pt5",
+    "wallet": "0x7b810d3ebf8c88a98d23c22ccf3436a29183fbed",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,200)",
+        "Low activity (2 txns)"
+      ],
+      "amount": 1199.999999,
+      "odds": 0.3099147991169434,
+      "raw_price": 0.3099147991169434,
+      "outcome": "Portugal",
+      "potential_pnl": 2672.031935,
+      "pnl_multiplier": 2.2266932810222446,
+      "wallet_age_days": 0,
+      "total_activities": 2
+    },
+    "timestamp": "2026-06-17T18:04:12.202976",
+    "trade_hash": "0x18f28fcf254cef8670122223af6880cef2667b053d17dfaa561ca598747977ff",
+    "trade_timestamp": 1781718953,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Portugal",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.3099147991169434,
+      "effective_price": 0.3099147991169434,
+      "size": 3872.031934,
+      "amount": 1199.999999,
+      "potential_pnl": 2672.031935,
+      "pnl_multiplier": 2.2266932810222446,
+      "is_no": false,
+      "slug": "fifwc-prt-cdr-2026-06-17-spread-home-1pt5",
+      "eventSlug": "fifwc-prt-cdr-2026-06-17-more-markets"
+    },
+    "irrationality": {
+      "irrationality_score": 10,
+      "flags": [],
+      "category": "other",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.28146591964677736,
+      "market_price": 0.3099147991169434,
+      "edge": 0.028448879470166055,
+      "edge_percent": 2.8448879470166055,
+      "min_edge_required": 0.05,
+      "is_mispriced": false,
+      "edge_quality": "WEAK",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "other",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 10,
+      "is_irrational": false,
+      "is_mispriced": false,
+      "edge": 0.028448879470166055,
+      "edge_percent": 2.8448879470166055
+    },
+    "financial_analyst": {
+      "signal_quality": 25.3,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 2.84,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
