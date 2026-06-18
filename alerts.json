@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xa1d7279a0a08afbaf175509935591d36fa29dbde89ff74ae77853d3a2370bf33",
-    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
-    "trader": {
-      "rank": 12,
-      "address": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
-      "username": "BetTom42",
-      "profit": 5642135.735356,
-      "volume": 11212839.523403,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-      "side": "BUY",
-      "asset": "95411093744734370915792410998151956108686985086137534199369379281549794538611",
-      "conditionId": "0x17dafc4d9c1128c17f936e35f6772d02c0eb2f637b883b95f8dc891740d2d6cc",
-      "size": 2510,
-      "price": 0.66,
-      "timestamp": 1774737414,
-      "title": "Pistons vs. Timberwolves",
-      "slug": "nba-det-min-2026-03-28",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-det-min-2026-03-28",
-      "outcome": "Pistons",
-      "outcomeIndex": 0,
-      "name": "RN1",
-      "pseudonym": "Scary-Edible",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-1567750-84001aec-310a-470f-9584-67dfcaa61267.png",
-      "profileImageOptimized": "",
-      "transactionHash": "0xa1d7279a0a08afbaf175509935591d36fa29dbde89ff74ae77853d3a2370bf33",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Pistons vs. Timberwolves",
-    "market_slug": "nba-det-min-2026-03-28",
-    "amount": 1656.6000000000001
-  },
-  {
     "market": "Will there be between 0 and 10 average daily transits of the Strait of Hormuz on March 31?",
     "market_slug": "will-there-be-between-0-and-10-average-daily-transits-of-the-strait-of-hormuz-on-march-31",
     "event_slug": "will-there-be-between-0-and-10-average-daily-transits-of-the-strait-of-hormuz-on-march-31",
@@ -28404,5 +28360,49 @@
     "market": "Mexico vs. Korea Republic: Both Teams to Score",
     "market_slug": "fifwc-mex-kr-2026-06-18-more-markets",
     "amount": 11199.999999
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x3b163fbb74ea8e3f17b54af1704c3b27d62c8967a2f51e7bec90deb3b8b544a9",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x26437896ed9dfeb2f69765edcafe8fdceaab39ae",
+      "side": "BUY",
+      "asset": "94020761758777722273838817270651111059212159564996818518190592947665274264943",
+      "conditionId": "0xac4237747ca9496655efd50d36efd03751d8eed768139e48fe12ed9e3d6873c0",
+      "size": 5670.29,
+      "price": 0.6430427015196754,
+      "timestamp": 1781824088,
+      "title": "Chicago White Sox vs. New York Yankees",
+      "slug": "mlb-cws-nyy-2026-06-18",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
+      "eventSlug": "mlb-cws-nyy-2026-06-18",
+      "outcome": "New York Yankees",
+      "outcomeIndex": 1,
+      "name": "Latina",
+      "pseudonym": "Impractical-Fondue",
+      "bio": "Polymarket Chief Losing Officer",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x3b163fbb74ea8e3f17b54af1704c3b27d62c8967a2f51e7bec90deb3b8b544a9",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Chicago White Sox vs. New York Yankees",
+    "market_slug": "mlb-cws-nyy-2026-06-18",
+    "amount": 3646.2386
   }
 ]
