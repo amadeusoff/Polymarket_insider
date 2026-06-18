@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x9bb8ad965538f455ce311d39ddf141687651cb519c6f57ad5bbdb8a872ce109d",
-    "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
-    "trader": {
-      "rank": 10,
-      "address": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
-      "username": "KeyTransporter",
-      "profit": 5711459.802519929,
-      "volume": 20086062.154324997,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xb45a797faa52b0fd8adc56d30382022b7b12192c",
-      "side": "BUY",
-      "asset": "80723719687098639628655921677225153814253138487910196921454923719642394314404",
-      "conditionId": "0xee71cea6884d94105da19d637f6dcc8665b711206d219b834167c51bc3ca9022",
-      "size": 5228.59,
-      "price": 0.52,
-      "timestamp": 1774728110,
-      "title": "Minnesota Twins vs. Baltimore Orioles: O/U 7.5",
-      "slug": "mlb-min-bal-2026-03-28-total-7pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
-      "eventSlug": "mlb-min-bal-2026-03-28",
-      "outcome": "Over",
-      "outcomeIndex": 0,
-      "name": "bcda",
-      "pseudonym": "Pesky-Fedora",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x9bb8ad965538f455ce311d39ddf141687651cb519c6f57ad5bbdb8a872ce109d",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Minnesota Twins vs. Baltimore Orioles: O/U 7.5",
-    "market_slug": "mlb-min-bal-2026-03-28",
-    "amount": 2718.8668000000002
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xa011d30f264bfc59430fb48feb35b6321d4d2f2724b9fd7e3e9dbfdd81cedd00",
     "wallet": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
     "trader": {
@@ -28403,5 +28359,49 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xd32f45c4c564671c00fe0cd9adfca089b9ce900d6eaa2323318093e2d02dd0e9",
+    "wallet": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+    "trader": {
+      "rank": 11,
+      "address": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+      "username": "PrincessCaro",
+      "profit": 6083643.099591745,
+      "volume": 23520809.952866998,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x3b21433b0407e45d683cad1fcb6ba0a6b33ba230",
+      "side": "BUY",
+      "asset": "37975557313084016407306372676392156743396899343273427721739772898791966621393",
+      "conditionId": "0x393bb312b6a92e046825403e888928d946cb6f39836782204d00b2ddcb2c5437",
+      "size": 100000,
+      "price": 0.46,
+      "timestamp": 1781741018,
+      "title": "Pittsburgh Pirates vs. Athletics",
+      "slug": "mlb-pit-oak-2026-06-17",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
+      "eventSlug": "mlb-pit-oak-2026-06-17",
+      "outcome": "Athletics",
+      "outcomeIndex": 1,
+      "name": "disquietude",
+      "pseudonym": "Fair-Underweight",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xd32f45c4c564671c00fe0cd9adfca089b9ce900d6eaa2323318093e2d02dd0e9",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Pittsburgh Pirates vs. Athletics",
+    "market_slug": "mlb-pit-oak-2026-06-17",
+    "amount": 46000.0
   }
 ]
