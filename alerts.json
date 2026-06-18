@@ -1,94 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xe490a85252e01cf42cea8684fc817d97c18a6506fae3ffb9c0d9eb1029b2d148",
-    "wallet": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
-    "trader": {
-      "rank": 4,
-      "address": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
-      "username": "Len9311238",
-      "profit": 8709972.988069998,
-      "volume": 16402744.764627002,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xc8075693f48668a264b9fa313b47f52712fcc12b",
-      "side": "BUY",
-      "asset": "101956596833689225647942371410391467452405604261147678306279562902544987773581",
-      "conditionId": "0xb4f7ea62f286e88a8e17c671adfa96854ade1d8df4e17b16f41346bee570013f",
-      "size": 40000,
-      "price": 0.74,
-      "timestamp": 1774734412,
-      "title": "UFC Fight Night: Ignacio Bahamondes vs. Tofiq Musayev (Lightweight, Prelims)",
-      "slug": "ufc-ign-tof-2026-03-28",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ufc-logo-37bbbd28e6.png",
-      "eventSlug": "ufc-ign-tof-2026-03-28",
-      "outcome": "Ignacio Bahamondes",
-      "outcomeIndex": 0,
-      "name": "texaskid",
-      "pseudonym": "Dutiful-Fur",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xe490a85252e01cf42cea8684fc817d97c18a6506fae3ffb9c0d9eb1029b2d148",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "UFC Fight Night: Ignacio Bahamondes vs. Tofiq Musayev (Lightweight, Prelims)",
-    "market_slug": "ufc-ign-tof-2026-03-28",
-    "amount": 29600.0
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x6f8d8236143d46a27980841b7594544bf7b4a83fce8d17af36dda164110f393f",
-    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-    "trader": {
-      "rank": 18,
-      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
-      "profit": 4552026.639442839,
-      "volume": 60068570.023648,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xb55216ed55337cf9443139e4e5cace56426694a8",
-      "side": "BUY",
-      "asset": "8315118855769906914031029123329030363204850099913487464661726710285931120780",
-      "conditionId": "0xabffa266a98370e4fa5ab03fcda6c805000304c036fb9df728908e043d214416",
-      "size": 5000,
-      "price": 0.49978314,
-      "timestamp": 1774735612,
-      "title": "Spread: Hornets (-6.5)",
-      "slug": "nba-phi-cha-2026-03-28-spread-home-6pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-phi-cha-2026-03-28",
-      "outcome": "76ers",
-      "outcomeIndex": 1,
-      "name": "KirksCousin",
-      "pseudonym": "Acceptable-Dare",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x6f8d8236143d46a27980841b7594544bf7b4a83fce8d17af36dda164110f393f",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Spread: Hornets (-6.5)",
-    "market_slug": "nba-phi-cha-2026-03-28",
-    "amount": 2501.0843
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xa1d7279a0a08afbaf175509935591d36fa29dbde89ff74ae77853d3a2370bf33",
     "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
     "trader": {
@@ -28404,5 +28316,93 @@
     "market": "Will Bosnia and Herzegovina win on 2026-06-18?",
     "market_slug": "fifwc-che-bih-2026-06-18",
     "amount": 3333.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xd78dd3b93540b2462f487096b7939aa7fa416bc174376e41a42b85c77d2e20db",
+    "wallet": "0x5e4c3b5b81171e2ca4ab776ac0d6bba787f9dba2",
+    "trader": {
+      "rank": 12,
+      "address": "0x5e4c3b5b81171e2ca4ab776ac0d6bba787f9dba2",
+      "username": "endlessFate",
+      "profit": 7409836.652610293,
+      "volume": 26282164.742856003,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x07d8057d774436ac6e5e57cefe1480bb6e01294a",
+      "side": "BUY",
+      "asset": "49569418180470781997442882503654192544639595052928600051219737913800704386677",
+      "conditionId": "0x029e72f379232ca9a6cff192e77ef1a8d7b6582d41d4932f772a97f867c89336",
+      "size": 6821.402438,
+      "price": 0.8199999999765444,
+      "timestamp": 1781817482,
+      "title": "Canada vs. Qatar: O/U 1.5",
+      "slug": "fifwc-can-qat-2026-06-18-total-1pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-can-qat-2026-06-18-more-markets",
+      "outcome": "Over",
+      "outcomeIndex": 0,
+      "name": "freedom318",
+      "pseudonym": "Basic-Infix",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xd78dd3b93540b2462f487096b7939aa7fa416bc174376e41a42b85c77d2e20db",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Canada vs. Qatar: O/U 1.5",
+    "market_slug": "fifwc-can-qat-2026-06-18-more-markets",
+    "amount": 5593.549999
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x2a46111373057f274fec1d2d85d9374fb3dfc9696fd68a1be97f65021bce6916",
+    "wallet": "0x5e4c3b5b81171e2ca4ab776ac0d6bba787f9dba2",
+    "trader": {
+      "rank": 12,
+      "address": "0x5e4c3b5b81171e2ca4ab776ac0d6bba787f9dba2",
+      "username": "endlessFate",
+      "profit": 7409836.652610293,
+      "volume": 26282164.742856003,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x79ae097215202b5d01f98e4479fb219102469a4a",
+      "side": "BUY",
+      "asset": "88924987271622470343693123277333509572762997211992679369602590475150245922744",
+      "conditionId": "0xaf82c474327eb07563996ffd644da88da46547cb5ecb1c63fc7f6d67849fdf00",
+      "size": 22857.142856,
+      "price": 0.48999999998075,
+      "timestamp": 1781817481,
+      "title": "Mexico vs. Korea Republic: Both Teams to Score",
+      "slug": "fifwc-mex-kr-2026-06-18-btts",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-mex-kr-2026-06-18-more-markets",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "CORGI8",
+      "pseudonym": "Creative-Midwife",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-6100223-ea5ebcab-3007-4947-be45-eda8a737fccf.webp",
+      "profileImageOptimized": "",
+      "transactionHash": "0x2a46111373057f274fec1d2d85d9374fb3dfc9696fd68a1be97f65021bce6916",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Mexico vs. Korea Republic: Both Teams to Score",
+    "market_slug": "fifwc-mex-kr-2026-06-18-more-markets",
+    "amount": 11199.999999
   }
 ]
