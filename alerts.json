@@ -1,94 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xa011d30f264bfc59430fb48feb35b6321d4d2f2724b9fd7e3e9dbfdd81cedd00",
-    "wallet": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
-    "trader": {
-      "rank": 4,
-      "address": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
-      "username": "Len9311238",
-      "profit": 8709972.988069998,
-      "volume": 16402744.764627,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xb4b0a3146e00b8058e6aa157ed1ec9c2dafd2dbf",
-      "side": "BUY",
-      "asset": "104541240974841983035828519351497425800987761775196913338910951667428089233967",
-      "conditionId": "0xe5c04e52c0b77dc45e3f005cc930ef0bf7e07ff2a5b9a73e3d41f640ddbe48de",
-      "size": 2503.650908,
-      "price": 0.19970835287073496,
-      "timestamp": 1774731110,
-      "title": "Over $10M committed to the P2P Protocol public sale?",
-      "slug": "over-10m-committed-to-the-p2p-protocol-public-sale-675-612-397",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-the-metadao-proposal-to-engage-in-a-6m-otc-deal-with-dba-and-variant-pass-BANaFgVoXCFN.jpg",
-      "eventSlug": "total-commitments-for-the-p2p-protocol-public-sale-on-metadao",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "eewfwewf",
-      "pseudonym": "Low-Catamaran",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xa011d30f264bfc59430fb48feb35b6321d4d2f2724b9fd7e3e9dbfdd81cedd00",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Over $10M committed to the P2P Protocol public sale?",
-    "market_slug": "total-commitments-for-the-p2p-protocol-public-sale-on-metadao",
-    "amount": 2003.650909
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x0e1a18633a8890449904c069b02985231361de4552c7db7e0b0092aa285f23f3",
-    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-    "trader": {
-      "rank": 18,
-      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
-      "profit": 4551452.646487839,
-      "volume": 60068570.02364801,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x62fbdbaf7ac6d5b30584959cf37295c75d2cb277",
-      "side": "BUY",
-      "asset": "49164064820177403051176734322968533773346472121558748796183619121394153010608",
-      "conditionId": "0x17dafc4d9c1128c17f936e35f6772d02c0eb2f637b883b95f8dc891740d2d6cc",
-      "size": 5418.27,
-      "price": 0.46,
-      "timestamp": 1774733212,
-      "title": "Pistons vs. Timberwolves",
-      "slug": "nba-det-min-2026-03-28",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-det-min-2026-03-28",
-      "outcome": "Timberwolves",
-      "outcomeIndex": 1,
-      "name": "mrmastermind",
-      "pseudonym": "Polished-Cleft",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x0e1a18633a8890449904c069b02985231361de4552c7db7e0b0092aa285f23f3",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Pistons vs. Timberwolves",
-    "market_slug": "nba-det-min-2026-03-28",
-    "amount": 2925.8658000000005
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xe490a85252e01cf42cea8684fc817d97c18a6506fae3ffb9c0d9eb1029b2d148",
     "wallet": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
     "trader": {
@@ -28404,5 +28316,93 @@
     "market": "Pittsburgh Pirates vs. Athletics",
     "market_slug": "mlb-pit-oak-2026-06-17",
     "amount": 46000.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x044ee44e499887d4c553469fc65699328f9af0fd4d6ad3b4cf0d9978df18e13b",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x032eb1bc893940263ad0b01889f262fc232f2a9e",
+      "side": "BUY",
+      "asset": "29559357464263215009485563507498380178677092044866869626454033344925865442337",
+      "conditionId": "0x5d5133bab0a4a82bffab957bb3d7c85882aebfdae638d6357e12d7741d2ee71d",
+      "size": 3654.68,
+      "price": 0.71,
+      "timestamp": 1781807573,
+      "title": "Switzerland vs. Bosnia-Herzegovina: O/U 7.5 Total Corners",
+      "slug": "fifwc-che-bih-2026-06-18-corners-total-7pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-che-bih-2026-06-18-total-corners",
+      "outcome": "Over",
+      "outcomeIndex": 0,
+      "name": "purplegatto",
+      "pseudonym": "Silky-Geometry",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x044ee44e499887d4c553469fc65699328f9af0fd4d6ad3b4cf0d9978df18e13b",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Switzerland vs. Bosnia-Herzegovina: O/U 7.5 Total Corners",
+    "market_slug": "fifwc-che-bih-2026-06-18-total-corners",
+    "amount": 2594.8228
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x47e6ec118ecae86fa6b2013420b77310bc49b7826ce57e6db626f0ef4485bdfe",
+    "wallet": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+    "trader": {
+      "rank": 13,
+      "address": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+      "username": "PrincessCaro",
+      "profit": 6083643.099591745,
+      "volume": 23520809.952867,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x471823858d59e78134e6e224294b04613347e2e8",
+      "side": "BUY",
+      "asset": "66489726367925595502503158446006075400401621519147621264189323965755835894613",
+      "conditionId": "0x271f673391000932a03311e9a6ce6152eb4e1a60bda85a9ce7c14e87dadcdfd4",
+      "size": 20831.25,
+      "price": 0.16,
+      "timestamp": 1781808175,
+      "title": "Will Bosnia and Herzegovina win on 2026-06-18?",
+      "slug": "fifwc-che-bih-2026-06-18-bih",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-che-bih-2026-06-18",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "B0WB1RD",
+      "pseudonym": "Another-Kitchen",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-6865243-756a8bf1-7691-4c74-b9a3-8783de6fdf7a.png",
+      "profileImageOptimized": "",
+      "transactionHash": "0x47e6ec118ecae86fa6b2013420b77310bc49b7826ce57e6db626f0ef4485bdfe",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Bosnia and Herzegovina win on 2026-06-18?",
+    "market_slug": "fifwc-che-bih-2026-06-18",
+    "amount": 3333.0
   }
 ]
