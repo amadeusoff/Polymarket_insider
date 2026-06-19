@@ -3,122 +3,6 @@
     "market": "Will there be between 0 and 10 average daily transits of the Strait of Hormuz on March 31?",
     "market_slug": "will-there-be-between-0-and-10-average-daily-transits-of-the-strait-of-hormuz-on-march-31",
     "event_slug": "will-there-be-between-0-and-10-average-daily-transits-of-the-strait-of-hormuz-on-march-31",
-    "wallet": "0xd704fcf6c2a79785c14886bca9dcbafc5c37469a",
-    "analysis": {
-      "score": 100,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,501)",
-        "Pre-event latency: 2400m"
-      ],
-      "amount": 1500.64,
-      "odds": 0.904,
-      "raw_price": 0.096,
-      "outcome": "No",
-      "potential_pnl": 159.3599999999999,
-      "pnl_multiplier": 0.10619469026548665,
-      "wallet_age_days": 0,
-      "total_activities": 39
-    },
-    "timestamp": "2026-03-29T08:04:50.889368",
-    "trade_hash": "0x2dd1024c8339e86ee70d7f7af86c0541e11df09f780d17e4138fc7cfb69742d6",
-    "trade_timestamp": 1774771228,
-    "latency": {
-      "latency_seconds": 143972.0,
-      "latency_minutes": 2399.5333333333333,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-03-29T08:00:28+00:00",
-      "event_time": "2026-03-31T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "normalized_position": "NO",
-      "side": "BUY",
-      "price": 0.096,
-      "effective_price": 0.904,
-      "size": 1660.0,
-      "amount": 1500.64,
-      "potential_pnl": 159.3599999999999,
-      "pnl_multiplier": 0.10619469026548665,
-      "is_no": true,
-      "slug": "will-there-be-between-0-and-10-average-daily-transits-of-the-strait-of-hormuz-on-march-31",
-      "eventSlug": "avg-of-ships-transiting-strait-of-hormuz-end-of-march"
-    },
-    "irrationality": {
-      "irrationality_score": 33,
-      "flags": [
-        "Longshot (10%) in medium bias category (other)",
-        "Moderate mispricing edge (+5.3%)"
-      ],
-      "category": "other",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.0432,
-      "market_price": 0.096,
-      "edge": 0.0528,
-      "edge_percent": 5.28,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "MODERATE",
-      "base_rate_class": "rare",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "rare",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Geopolitical stability in the region on March 31",
-          "Operational capacity of vessels transiting the Strait",
-          "Weather conditions allowing safe passage"
-        ],
-        "weakest_link": "Geopolitical stability in the region on March 31"
-      },
-      "category": "geopolitics",
-      "narrative_drivers": [
-        "Tensions between regional powers affecting shipping routes",
-        "Economic implications of oil transport through the Strait"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "ALPHA",
-      "signal_emoji": "\ud83d\udd25",
-      "signal_strength": 133,
-      "interpretation": "Smart money (NO) confirms YES is overpriced",
-      "action_suggestion": "High conviction: insider + statistics aligned",
-      "insider_score": 100,
-      "insider_position": "NO",
-      "irrationality_score": 33,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.0528,
-      "edge_percent": 5.28
-    },
-    "financial_analyst": {
-      "signal_quality": 69.5,
-      "stance": "SELECTIVE",
-      "edge_percent": 5.28,
-      "signal_strength": 133.0,
-      "insider_score": 100.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-03-30T07:19:14.224850+00:00"
-  },
-  {
-    "market": "Will there be between 0 and 10 average daily transits of the Strait of Hormuz on March 31?",
-    "market_slug": "will-there-be-between-0-and-10-average-daily-transits-of-the-strait-of-hormuz-on-march-31",
-    "event_slug": "will-there-be-between-0-and-10-average-daily-transits-of-the-strait-of-hormuz-on-march-31",
     "wallet": "0x055b79c4b94353876ae68c63508fc5c1a3aaa9a4",
     "analysis": {
       "score": 100,
@@ -28332,5 +28216,49 @@
     "market": "Mexico vs. Korea Republic: Both Teams to Score",
     "market_slug": "fifwc-mex-kr-2026-06-18-more-markets",
     "amount": 5519.569998999999
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xd10a2fee103aa25445ce6bc74d5f2cae99b4077904f1ac17e835fdec7397ff6c",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x5aa981521b4e94fee3b3bf18fe441f62e865febe",
+      "side": "BUY",
+      "asset": "10178948291759770839324118631157537480179522042327556754895961515718449754838",
+      "conditionId": "0xed76e3c271f4e24a3db2436cdf2c314cda43909fbc94c2bc34631a01cd67d3ae",
+      "size": 3058.21,
+      "price": 0.55,
+      "timestamp": 1781880539,
+      "title": "Counter-Strike: Spirit vs G2 (BO3) - IEM Cologne Major Playoffs",
+      "slug": "cs2-ts7-g2-2026-06-19",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/counter-strike-image-16c415c538.png",
+      "eventSlug": "cs2-ts7-g2-2026-06-19",
+      "outcome": "Spirit",
+      "outcomeIndex": 0,
+      "name": "apucimama",
+      "pseudonym": "Cooked-Desk",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xd10a2fee103aa25445ce6bc74d5f2cae99b4077904f1ac17e835fdec7397ff6c",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Counter-Strike: Spirit vs G2 (BO3) - IEM Cologne Major Playoffs",
+    "market_slug": "cs2-ts7-g2-2026-06-19",
+    "amount": 1682.0155000000002
   }
 ]
