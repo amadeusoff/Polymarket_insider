@@ -1,274 +1,5 @@
 [
   {
-    "market": "Will there be between 0 and 10 average daily transits of the Strait of Hormuz on March 31?",
-    "market_slug": "will-there-be-between-0-and-10-average-daily-transits-of-the-strait-of-hormuz-on-march-31",
-    "event_slug": "will-there-be-between-0-and-10-average-daily-transits-of-the-strait-of-hormuz-on-march-31",
-    "wallet": "0x055b79c4b94353876ae68c63508fc5c1a3aaa9a4",
-    "analysis": {
-      "score": 100,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($2,135)",
-        "Pre-event latency: 2400m"
-      ],
-      "amount": 2135.248,
-      "odds": 0.904,
-      "raw_price": 0.096,
-      "outcome": "No",
-      "potential_pnl": 226.75199999999995,
-      "pnl_multiplier": 0.1061946902654867,
-      "wallet_age_days": 0,
-      "total_activities": 31
-    },
-    "timestamp": "2026-03-29T08:04:55.202315",
-    "trade_hash": "0x339755e4daee1040af97e24d63d737095faed220e5aba2cecb0dbbba6fcc05bc",
-    "trade_timestamp": 1774771228,
-    "latency": {
-      "latency_seconds": 143972.0,
-      "latency_minutes": 2399.5333333333333,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-03-29T08:00:28+00:00",
-      "event_time": "2026-03-31T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "normalized_position": "NO",
-      "side": "BUY",
-      "price": 0.096,
-      "effective_price": 0.904,
-      "size": 2362.0,
-      "amount": 2135.248,
-      "potential_pnl": 226.75199999999995,
-      "pnl_multiplier": 0.1061946902654867,
-      "is_no": true,
-      "slug": "will-there-be-between-0-and-10-average-daily-transits-of-the-strait-of-hormuz-on-march-31",
-      "eventSlug": "avg-of-ships-transiting-strait-of-hormuz-end-of-march"
-    },
-    "irrationality": {
-      "irrationality_score": 33,
-      "flags": [
-        "Longshot (10%) in medium bias category (other)",
-        "Moderate mispricing edge (+5.3%)"
-      ],
-      "category": "other",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.0432,
-      "market_price": 0.096,
-      "edge": 0.0528,
-      "edge_percent": 5.28,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "MODERATE",
-      "base_rate_class": "rare",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "rare",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Regional geopolitical stability",
-          "Economic factors affecting shipping",
-          "Weather conditions conducive to transit"
-        ],
-        "weakest_link": "Regional geopolitical stability, as tensions in the area can significantly disrupt transit"
-      },
-      "category": "geopolitics",
-      "narrative_drivers": [
-        "Potential military conflicts affecting shipping lanes",
-        "Economic sanctions impacting trade routes"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "ALPHA",
-      "signal_emoji": "\ud83d\udd25",
-      "signal_strength": 133,
-      "interpretation": "Smart money (NO) confirms YES is overpriced",
-      "action_suggestion": "High conviction: insider + statistics aligned",
-      "insider_score": 100,
-      "insider_position": "NO",
-      "irrationality_score": 33,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.0528,
-      "edge_percent": 5.28
-    },
-    "financial_analyst": {
-      "signal_quality": 69.5,
-      "stance": "SELECTIVE",
-      "edge_percent": 5.28,
-      "signal_strength": 133.0,
-      "insider_score": 100.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-03-30T07:19:14.224854+00:00"
-  },
-  {
-    "market": "Will Crude Oil (CL) hit (HIGH) $105 by end of March?",
-    "market_slug": "will-crude-oil-cl-hit-high-105-by-end-of-march-881",
-    "event_slug": "will-crude-oil-cl-hit-high-105-by-end-of-march-881",
-    "wallet": "0x5782cc3ae4dcf9f7e322cbdc5bde781883758ce5",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,067)",
-        "Low activity (2 txns)"
-      ],
-      "amount": 1067.4102,
-      "odds": 0.46267516294803845,
-      "raw_price": 0.5373248370519615,
-      "outcome": "No",
-      "potential_pnl": 1239.629999,
-      "pnl_multiplier": 1.1613435949928153,
-      "wallet_age_days": 0,
-      "total_activities": 2
-    },
-    "timestamp": "2026-03-29T09:24:02.456433",
-    "trade_hash": "0xe03c7576470188788014b333e7198e7752e77e63ea80d65961021dfceab896c6",
-    "trade_timestamp": 1774775910,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "normalized_position": "NO",
-      "side": "BUY",
-      "price": 0.5373248370519615,
-      "effective_price": 0.46267516294803845,
-      "size": 2307.040199,
-      "amount": 1067.4102,
-      "potential_pnl": 1239.629999,
-      "pnl_multiplier": 1.1613435949928153,
-      "is_no": true,
-      "slug": "will-crude-oil-cl-hit-high-105-by-end-of-march-881",
-      "eventSlug": "will-crude-oil-cl-hit-by-end-of-march"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+35.8%)"
-      ],
-      "category": "other",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.1794649674103923,
-      "market_price": 0.5373248370519615,
-      "edge": 0.35785986964156924,
-      "edge_percent": 35.785986964156926,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "occasional",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "occasional",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Geopolitical tensions affecting oil supply",
-          "Significant increase in global demand for oil",
-          "Major disruptions in oil production or distribution"
-        ],
-        "weakest_link": "Significant increase in global demand for oil"
-      },
-      "category": "geopolitics",
-      "narrative_drivers": [
-        "OPEC production decisions",
-        "Global economic recovery post-pandemic"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "ALPHA",
-      "signal_emoji": "\ud83d\udd25",
-      "signal_strength": 105,
-      "interpretation": "Smart money (NO) confirms YES is overpriced",
-      "action_suggestion": "High conviction: insider + statistics aligned",
-      "insider_score": 70,
-      "insider_position": "NO",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.35785986964156924,
-      "edge_percent": 35.785986964156926
-    },
-    "financial_analyst": {
-      "signal_quality": 81.0,
-      "stance": "HIGH_CONVICTION",
-      "edge_percent": 35.79,
-      "signal_strength": 105.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-03-30T07:19:14.928311+00:00"
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xa6234084389c57f1232dcb387e4934c949698c6a4c54ddcac873660c55e9eb8b",
-    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-    "trader": {
-      "rank": 18,
-      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
-      "profit": 4550622.476932838,
-      "volume": 60068570.023648,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xd6e6120c3538399e82c00ce3f02ad8c1a0fe2915",
-      "side": "SELL",
-      "asset": "22773076837574351470018298754278146416270756670327468699308924981573510364392",
-      "conditionId": "0x2247cce190c9ca22ed6c31d36287b4d13921c7deb0a4cdaad568bcfd740aa297",
-      "size": 2374.95,
-      "price": 0.13071609928630076,
-      "timestamp": 1774783932,
-      "title": "Counter-Strike: G2 vs CarritoSpain (BO1) - Roman Imperium Cup Group D",
-      "slug": "cs2-g2-car-2026-03-29",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/counter-strike-image-16c415c538.png",
-      "eventSlug": "cs2-g2-car-2026-03-29",
-      "outcome": "CarritoSpain",
-      "outcomeIndex": 1,
-      "name": "hunting10c",
-      "pseudonym": "Separate-Bush",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xa6234084389c57f1232dcb387e4934c949698c6a4c54ddcac873660c55e9eb8b",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Counter-Strike: G2 vs CarritoSpain (BO1) - Roman Imperium Cup Group D",
-    "market_slug": "cs2-g2-car-2026-03-29",
-    "amount": 2064.5058,
-    "resolution_last_check": "2026-03-30T07:19:15.640448+00:00"
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0xb87dfbb383777e394117fe9cd58a93d1b477d87f12b39088e4fcf9713d70f570",
     "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
@@ -28260,5 +27991,137 @@
     "market": "Counter-Strike: Spirit vs G2 (BO3) - IEM Cologne Major Playoffs",
     "market_slug": "cs2-ts7-g2-2026-06-19",
     "amount": 1682.0155000000002
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xf7a4cec28ba478518eb17583dc7d4d1c160d0086736406452c53a2b230a626cd",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xe9076a87c5ed90ef16e6fe6529c943baeca0cff6",
+      "side": "BUY",
+      "asset": "23751721701125660275674704396947556014203634269226897284566977062211946126129",
+      "conditionId": "0xed76e3c271f4e24a3db2436cdf2c314cda43909fbc94c2bc34631a01cd67d3ae",
+      "size": 3271.634665,
+      "price": 0.5967720112172121,
+      "timestamp": 1781888959,
+      "title": "Counter-Strike: Spirit vs G2 (BO3) - IEM Cologne Major Playoffs",
+      "slug": "cs2-ts7-g2-2026-06-19",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/counter-strike-image-16c415c538.png",
+      "eventSlug": "cs2-ts7-g2-2026-06-19",
+      "outcome": "G2",
+      "outcomeIndex": 1,
+      "name": "suntori",
+      "pseudonym": "All-Peasant-Drug",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xf7a4cec28ba478518eb17583dc7d4d1c160d0086736406452c53a2b230a626cd",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Counter-Strike: Spirit vs G2 (BO3) - IEM Cologne Major Playoffs",
+    "market_slug": "cs2-ts7-g2-2026-06-19",
+    "amount": 1952.419999
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x92b347fa6d18db64202cf767ae372ddf449d99cc3b11eaca7a0287590a007d79",
+    "wallet": "0x96cfcb0c30942cfcd1cdf76c7d408794d66b1acb",
+    "trader": {
+      "rank": 6,
+      "address": "0x96cfcb0c30942cfcd1cdf76c7d408794d66b1acb",
+      "username": "mintblade",
+      "profit": 9238344.623225637,
+      "volume": 17759922.232853003,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x6eb744d27b04a6c611961124b52ffbdbf7c13cd4",
+      "side": "BUY",
+      "asset": "39108014906147153132558864303811863989716119429482110734018531773663181557097",
+      "conditionId": "0x7ebb07134794576c154f06fbaa1cc61a5292d58e280ce98207977771c0326c27",
+      "size": 16393.44262,
+      "price": 0.6099999999878,
+      "timestamp": 1781889260,
+      "title": "Will United States win on 2026-06-19?",
+      "slug": "fifwc-usa-aus-2026-06-19-usa",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-usa-aus-2026-06-19",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "freee67thewhale",
+      "pseudonym": "Selfish-Moose",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x92b347fa6d18db64202cf767ae372ddf449d99cc3b11eaca7a0287590a007d79",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will United States win on 2026-06-19?",
+    "market_slug": "fifwc-usa-aus-2026-06-19",
+    "amount": 9999.999998000001
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xe5b7d462b200cc03fe6eb75038232f9568e9c58e796b99aafb891ef626dda41b",
+    "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+    "trader": {
+      "rank": 15,
+      "address": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+      "username": "KeyTransporter",
+      "profit": 5711459.802519929,
+      "volume": 20086062.154324997,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xcc2982e3fbbcaf9af9fa373fa3ae392fd9457774",
+      "side": "SELL",
+      "asset": "87073899845581463485186346288398658568334162612963837182986759797304993556208",
+      "conditionId": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
+      "size": 3000,
+      "price": 0.91,
+      "timestamp": 1781889562,
+      "title": "Putin out as President of Russia by December 31, 2026?",
+      "slug": "putin-out-before-2027",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/putin-out-as-president-of-russia-in-2025-nWuurkC8qfbi.jpg",
+      "eventSlug": "putin-out-before-2027",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "hose",
+      "pseudonym": "",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xe5b7d462b200cc03fe6eb75038232f9568e9c58e796b99aafb891ef626dda41b",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Putin out as President of Russia by December 31, 2026?",
+    "market_slug": "putin-out-before-2027",
+    "amount": 2730.0
   }
 ]
