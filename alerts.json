@@ -3,122 +3,6 @@
     "market": "Will there be between 0 and 10 average daily transits of the Strait of Hormuz on March 31?",
     "market_slug": "will-there-be-between-0-and-10-average-daily-transits-of-the-strait-of-hormuz-on-march-31",
     "event_slug": "will-there-be-between-0-and-10-average-daily-transits-of-the-strait-of-hormuz-on-march-31",
-    "wallet": "0xa939a62b9a1507904e7563eb9b8930adaf572ba7",
-    "analysis": {
-      "score": 100,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,055)",
-        "Pre-event latency: 2400m"
-      ],
-      "amount": 1054.968,
-      "odds": 0.904,
-      "raw_price": 0.904,
-      "outcome": "Yes",
-      "potential_pnl": 112.03199999999993,
-      "pnl_multiplier": 0.10619469026548664,
-      "wallet_age_days": 0,
-      "total_activities": 29
-    },
-    "timestamp": "2026-03-29T08:04:45.905178",
-    "trade_hash": "0x3cc4369203a259cd958760ae714849a667b873c69212885638b7e04ab056816b",
-    "trade_timestamp": 1774771230,
-    "latency": {
-      "latency_seconds": 143970.0,
-      "latency_minutes": 2399.5,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-03-29T08:00:30+00:00",
-      "event_time": "2026-03-31T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "normalized_position": "YES",
-      "side": "BUY",
-      "price": 0.904,
-      "effective_price": 0.904,
-      "size": 1167.0,
-      "amount": 1054.968,
-      "potential_pnl": 112.03199999999993,
-      "pnl_multiplier": 0.10619469026548664,
-      "is_no": false,
-      "slug": "will-there-be-between-0-and-10-average-daily-transits-of-the-strait-of-hormuz-on-march-31",
-      "eventSlug": "avg-of-ships-transiting-strait-of-hormuz-end-of-march"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+55.5%)"
-      ],
-      "category": "other",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.3488,
-      "market_price": 0.904,
-      "edge": 0.5552,
-      "edge_percent": 55.52,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Geopolitical stability in the region",
-          "Operational capacity of vessels transiting the strait",
-          "Weather conditions favorable for maritime transit"
-        ],
-        "weakest_link": "Geopolitical stability in the region"
-      },
-      "category": "geopolitics",
-      "narrative_drivers": [
-        "Increased military presence in the region",
-        "Economic implications of oil transit through the Strait"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "CONFLICT",
-      "signal_emoji": "\u26a0\ufe0f",
-      "signal_strength": 100,
-      "interpretation": "Insider buying YES despite statistical overpricing",
-      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
-      "insider_score": 100,
-      "insider_position": "YES",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.5552,
-      "edge_percent": 55.52
-    },
-    "log_only": true,
-    "financial_analyst": {
-      "signal_quality": 52.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 55.52,
-      "signal_strength": 100.0,
-      "insider_score": 100.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-03-30T07:19:14.224836+00:00"
-  },
-  {
-    "market": "Will there be between 0 and 10 average daily transits of the Strait of Hormuz on March 31?",
-    "market_slug": "will-there-be-between-0-and-10-average-daily-transits-of-the-strait-of-hormuz-on-march-31",
-    "event_slug": "will-there-be-between-0-and-10-average-daily-transits-of-the-strait-of-hormuz-on-march-31",
     "wallet": "0xd704fcf6c2a79785c14886bca9dcbafc5c37469a",
     "analysis": {
       "score": 100,
@@ -28404,5 +28288,49 @@
     "market": "Chicago White Sox vs. New York Yankees",
     "market_slug": "mlb-cws-nyy-2026-06-18",
     "amount": 3646.2386
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x92386aa8f662a5dd71783b0eb610f5b16d59f483a03d4c45dcdf92b8c1b23d16",
+    "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
+    "trader": {
+      "rank": 11,
+      "address": "0x863134d00841b2e200492805a01e1e2f5defaa53",
+      "username": "RepTrump",
+      "profit": 7532409.671579,
+      "volume": 13983231.103425,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xaa7789219c17e180dcb5933099c90d885f1d15a5",
+      "side": "BUY",
+      "asset": "88924987271622470343693123277333509572762997211992679369602590475150245922744",
+      "conditionId": "0xaf82c474327eb07563996ffd644da88da46547cb5ecb1c63fc7f6d67849fdf00",
+      "size": 9040.079364,
+      "price": 0.6105665422562987,
+      "timestamp": 1781835197,
+      "title": "Mexico vs. Korea Republic: Both Teams to Score",
+      "slug": "fifwc-mex-kr-2026-06-18-btts",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-mex-kr-2026-06-18-more-markets",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "alaskabaked",
+      "pseudonym": "Ignorant-Shaw-Ego",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x92386aa8f662a5dd71783b0eb610f5b16d59f483a03d4c45dcdf92b8c1b23d16",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Mexico vs. Korea Republic: Both Teams to Score",
+    "market_slug": "fifwc-mex-kr-2026-06-18-more-markets",
+    "amount": 5519.569998999999
   }
 ]
