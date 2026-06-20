@@ -3,113 +3,6 @@
     "market": "Spread: Nuggets (-12.5)",
     "market_slug": "nba-gsw-den-2026-03-29-spread-home-12pt5",
     "event_slug": "nba-gsw-den-2026-03-29-spread-home-12pt5",
-    "wallet": "0x425ad361189efcf9de9b9f3cc6a83fcf0041dcd4",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,015)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 1015.41,
-      "odds": 0.51,
-      "raw_price": 0.51,
-      "outcome": "Warriors",
-      "potential_pnl": 975.59,
-      "pnl_multiplier": 0.9607843137254902,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-03-29T14:24:53.295658",
-    "trade_hash": "0x86082e1c6faec07c2a869f0782ed7adcf44af41a3d9319d0e249924d9c8314df",
-    "trade_timestamp": 1774793922,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Warriors",
-      "outcomeIndex": 1,
-      "normalized_position": "NO",
-      "side": "BUY",
-      "price": 0.51,
-      "effective_price": 0.51,
-      "size": 1991.0,
-      "amount": 1015.41,
-      "potential_pnl": 975.59,
-      "pnl_multiplier": 0.9607843137254902,
-      "is_no": false,
-      "slug": "nba-gsw-den-2026-03-29-spread-home-12pt5",
-      "eventSlug": "nba-gsw-den-2026-03-29"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+26.8%)"
-      ],
-      "category": "other",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.242,
-      "market_price": 0.51,
-      "edge": 0.268,
-      "edge_percent": 26.8,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Nuggets maintain a strong offensive performance",
-          "Nuggets' defense effectively limits opponent scoring",
-          "Key players remain healthy and perform well"
-        ],
-        "weakest_link": "Nuggets' defense effectively limits opponent scoring"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "team performance trends",
-        "injury reports"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "ALPHA",
-      "signal_emoji": "\ud83d\udd25",
-      "signal_strength": 105,
-      "interpretation": "Smart money (NO) confirms YES is overpriced",
-      "action_suggestion": "High conviction: insider + statistics aligned",
-      "insider_score": 70,
-      "insider_position": "NO",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.268,
-      "edge_percent": 26.8
-    },
-    "financial_analyst": {
-      "signal_quality": 81.0,
-      "stance": "HIGH_CONVICTION",
-      "edge_percent": 26.8,
-      "signal_strength": 105.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "Spread: Nuggets (-12.5)",
-    "market_slug": "nba-gsw-den-2026-03-29-spread-home-12pt5",
-    "event_slug": "nba-gsw-den-2026-03-29-spread-home-12pt5",
     "wallet": "0xf9f2ffaaa45acbd0f47bf488403b3b8136774476",
     "analysis": {
       "score": 70,
@@ -28122,5 +28015,49 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x247b05b78e75d7163cd2a4e972c9f60dcdf165289152a7a550ab12f2ea29229b",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xd48a81db62f742c4e42d86dfc23a7ee345366e90",
+      "side": "BUY",
+      "asset": "28364567512176210012345981149664242891810028063644805717007850408130552796437",
+      "conditionId": "0x727b8c788239944b9b46d7e4bb2e93358da89c03903331aeb90d88f0c8ca2619",
+      "size": 16906.521738,
+      "price": 0.45999999997160856,
+      "timestamp": 1781974372,
+      "title": "San Diego Padres vs. Texas Rangers",
+      "slug": "mlb-sd-tex-2026-06-20",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
+      "eventSlug": "mlb-sd-tex-2026-06-20",
+      "outcome": "San Diego Padres",
+      "outcomeIndex": 0,
+      "name": "NiFengFanPan",
+      "pseudonym": "Orderly-Venture",
+      "bio": "Wen Zhong Qiu Sheng",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3358711-e85e8a4d-0015-4638-8326-28b28b4859ed.webp",
+      "profileImageOptimized": "",
+      "transactionHash": "0x247b05b78e75d7163cd2a4e972c9f60dcdf165289152a7a550ab12f2ea29229b",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "San Diego Padres vs. Texas Rangers",
+    "market_slug": "mlb-sd-tex-2026-06-20",
+    "amount": 7776.999999
   }
 ]
