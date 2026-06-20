@@ -1,112 +1,5 @@
 [
   {
-    "market": "Spread: Nuggets (-12.5)",
-    "market_slug": "nba-gsw-den-2026-03-29-spread-home-12pt5",
-    "event_slug": "nba-gsw-den-2026-03-29-spread-home-12pt5",
-    "wallet": "0xf9f2ffaaa45acbd0f47bf488403b3b8136774476",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,023)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 1023.0600000000001,
-      "odds": 0.51,
-      "raw_price": 0.51,
-      "outcome": "Warriors",
-      "potential_pnl": 982.9399999999999,
-      "pnl_multiplier": 0.9607843137254901,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-03-29T14:24:57.138319",
-    "trade_hash": "0x10912ea2a8379ca37259c59c46d0b5c60563d9a28899a9154c0ce4e9edfbe4ad",
-    "trade_timestamp": 1774793922,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Warriors",
-      "outcomeIndex": 1,
-      "normalized_position": "NO",
-      "side": "BUY",
-      "price": 0.51,
-      "effective_price": 0.51,
-      "size": 2006.0,
-      "amount": 1023.0600000000001,
-      "potential_pnl": 982.9399999999999,
-      "pnl_multiplier": 0.9607843137254901,
-      "is_no": false,
-      "slug": "nba-gsw-den-2026-03-29-spread-home-12pt5",
-      "eventSlug": "nba-gsw-den-2026-03-29"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+26.8%)"
-      ],
-      "category": "other",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.242,
-      "market_price": 0.51,
-      "edge": 0.268,
-      "edge_percent": 26.8,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Nuggets maintain strong offensive performance",
-          "Nuggets' defense effectively limits opponent scoring",
-          "Injury status of key players remains favorable"
-        ],
-        "weakest_link": "Injury status of key players remains favorable"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent performance trends of the Nuggets",
-        "Impact of home court advantage"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "ALPHA",
-      "signal_emoji": "\ud83d\udd25",
-      "signal_strength": 105,
-      "interpretation": "Smart money (NO) confirms YES is overpriced",
-      "action_suggestion": "High conviction: insider + statistics aligned",
-      "insider_score": 70,
-      "insider_position": "NO",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.268,
-      "edge_percent": 26.8
-    },
-    "financial_analyst": {
-      "signal_quality": 81.0,
-      "stance": "HIGH_CONVICTION",
-      "edge_percent": 26.8,
-      "signal_strength": 105.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "market": "Wizards vs. Trail Blazers: O/U 237.5",
     "market_slug": "nba-was-por-2026-03-29-total-237pt5",
     "event_slug": "nba-was-por-2026-03-29-total-237pt5",
@@ -28059,5 +27952,49 @@
     "market": "San Diego Padres vs. Texas Rangers",
     "market_slug": "mlb-sd-tex-2026-06-20",
     "amount": 7776.999999
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xbfd87bad458e38c70ffbabba6c0c89d8a636703198dd291a6001069ac8caefe7",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xcd65c3279408a33866a9129bed6943064cb6ee96",
+      "side": "BUY",
+      "asset": "27377136508326767426902889948975287340830068894812437681161034554598609067665",
+      "conditionId": "0xe15eabaa5ef575781feafcd96a256bdc88f1545d507ad8f62ec9fe18cc8e8b10",
+      "size": 10345.559182,
+      "price": 0.4832991538726476,
+      "timestamp": 1781979476,
+      "title": "Netherlands vs. Sweden: Both Teams to Score",
+      "slug": "fifwc-nld-swe-2026-06-20-btts",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-nld-swe-2026-06-20-more-markets",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "NiNo999",
+      "pseudonym": "Frosty-Layer-Numismatist",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xbfd87bad458e38c70ffbabba6c0c89d8a636703198dd291a6001069ac8caefe7",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Netherlands vs. Sweden: Both Teams to Score",
+    "market_slug": "fifwc-nld-swe-2026-06-20-more-markets",
+    "amount": 4999.999999000001
   }
 ]
