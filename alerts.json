@@ -3,113 +3,6 @@
     "market": "Spread: Nuggets (-12.5)",
     "market_slug": "nba-gsw-den-2026-03-29-spread-home-12pt5",
     "event_slug": "nba-gsw-den-2026-03-29-spread-home-12pt5",
-    "wallet": "0xa2fd3b7d017a0f092ba85e5c9fbce8ba1b3ba779",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,086)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 1086.3,
-      "odds": 0.51,
-      "raw_price": 0.51,
-      "outcome": "Warriors",
-      "potential_pnl": 1043.7,
-      "pnl_multiplier": 0.9607843137254902,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-03-29T14:24:48.820188",
-    "trade_hash": "0xcfaa557700a0586f6aa1cdbcdc9893ef56fa27dfd720f8895f7e7d1c343a2d35",
-    "trade_timestamp": 1774793922,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Warriors",
-      "outcomeIndex": 1,
-      "normalized_position": "NO",
-      "side": "BUY",
-      "price": 0.51,
-      "effective_price": 0.51,
-      "size": 2130.0,
-      "amount": 1086.3,
-      "potential_pnl": 1043.7,
-      "pnl_multiplier": 0.9607843137254902,
-      "is_no": false,
-      "slug": "nba-gsw-den-2026-03-29-spread-home-12pt5",
-      "eventSlug": "nba-gsw-den-2026-03-29"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+26.8%)"
-      ],
-      "category": "other",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.242,
-      "market_price": 0.51,
-      "edge": 0.268,
-      "edge_percent": 26.8,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Nuggets maintain a strong offensive performance",
-          "Nuggets' defense effectively limits opponent scoring",
-          "Key players remain healthy and perform well"
-        ],
-        "weakest_link": "Nuggets' defense effectively limits opponent scoring"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Nuggets' recent performance trends",
-        "Injury reports of key players"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "ALPHA",
-      "signal_emoji": "\ud83d\udd25",
-      "signal_strength": 105,
-      "interpretation": "Smart money (NO) confirms YES is overpriced",
-      "action_suggestion": "High conviction: insider + statistics aligned",
-      "insider_score": 70,
-      "insider_position": "NO",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.268,
-      "edge_percent": 26.8
-    },
-    "financial_analyst": {
-      "signal_quality": 81.0,
-      "stance": "HIGH_CONVICTION",
-      "edge_percent": 26.8,
-      "signal_strength": 105.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "Spread: Nuggets (-12.5)",
-    "market_slug": "nba-gsw-den-2026-03-29-spread-home-12pt5",
-    "event_slug": "nba-gsw-den-2026-03-29-spread-home-12pt5",
     "wallet": "0x425ad361189efcf9de9b9f3cc6a83fcf0041dcd4",
     "analysis": {
       "score": 70,
@@ -28124,5 +28017,110 @@
     "market": "Halle Open: Alexander Zverev vs Taylor Fritz",
     "market_slug": "atp-zverev-fritz-2026-06-20",
     "amount": 4682.999999000001
+  },
+  {
+    "market": "Netherlands vs. Sweden: O/U 2.5",
+    "market_slug": "fifwc-nld-swe-2026-06-20-total-2pt5",
+    "event_slug": "fifwc-nld-swe-2026-06-20-total-2pt5",
+    "wallet": "0xf123ce54f1374aa3cf43da35acc2d47cf36dfeac",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,600)",
+        "Low activity (2 txns)"
+      ],
+      "amount": 1599.9999990000001,
+      "odds": 0.6,
+      "raw_price": 0.6,
+      "outcome": "Over",
+      "potential_pnl": 1066.666666,
+      "pnl_multiplier": 0.6666666666666666,
+      "wallet_age_days": 0,
+      "total_activities": 2
+    },
+    "timestamp": "2026-06-20T15:16:34.707273",
+    "trade_hash": "0x475b194fd08047a753d2f594702d8931901ae9b6e1d679a134f9b1e91e3c301d",
+    "trade_timestamp": 1781968144,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Over",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.6,
+      "effective_price": 0.6,
+      "size": 2666.666665,
+      "amount": 1599.9999990000001,
+      "potential_pnl": 1066.666666,
+      "pnl_multiplier": 0.6666666666666666,
+      "is_no": false,
+      "slug": "fifwc-nld-swe-2026-06-20-total-2pt5",
+      "eventSlug": "fifwc-nld-swe-2026-06-20-more-markets"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+20.2%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.39749999999999996,
+      "market_price": 0.6,
+      "edge": 0.2025,
+      "edge_percent": 20.25,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.2025,
+      "edge_percent": 20.25
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 46.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 20.25,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
