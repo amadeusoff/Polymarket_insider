@@ -28122,6 +28122,7 @@
     },
     "market": "Putin out as President of Russia by December 31, 2026?",
     "market_slug": "putin-out-before-2027",
-    "amount": 2730.0
+    "amount": 2730.0,
+    "resolution_last_check": "2026-06-20T09:01:32.774894+00:00"
   }
 ]
