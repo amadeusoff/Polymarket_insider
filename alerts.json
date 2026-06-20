@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xb87dfbb383777e394117fe9cd58a93d1b477d87f12b39088e4fcf9713d70f570",
-    "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
-    "trader": {
-      "rank": 13,
-      "address": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
-      "username": "mikatrade77",
-      "profit": 5147998.544602999,
-      "volume": 10884765.388775,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x66fbe4344c1a9f6029a4e40ffd5ca7848e189f72",
-      "side": "BUY",
-      "asset": "98837326371445854502148454046144343204430522102119267065134485523643192081778",
-      "conditionId": "0x116ac25a35e4d82319ca49acd4db983c9e6bcfd58d4c889b742069e16aedbeab",
-      "size": 34482.758619,
-      "price": 0.57999999999942,
-      "timestamp": 1774786032,
-      "title": "Dota 2: Team Yandex vs Xtreme Gaming - Game 2 Winner",
-      "slug": "dota2-ty-xtreme-2026-03-29-game2",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/dota2-7ffacddb21.jpg",
-      "eventSlug": "dota2-ty-xtreme-2026-03-29",
-      "outcome": "Team Yandex",
-      "outcomeIndex": 0,
-      "name": "bobbythedestroyer",
-      "pseudonym": "Incredible-Integer",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xb87dfbb383777e394117fe9cd58a93d1b477d87f12b39088e4fcf9713d70f570",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Dota 2: Team Yandex vs Xtreme Gaming - Game 2 Winner",
-    "market_slug": "dota2-ty-xtreme-2026-03-29",
-    "amount": 19999.999999
-  },
-  {
     "market": "Spread: Nuggets (-12.5)",
     "market_slug": "nba-gsw-den-2026-03-29-spread-home-12pt5",
     "event_slug": "nba-gsw-den-2026-03-29-spread-home-12pt5",
@@ -28124,5 +28080,49 @@
     "market_slug": "putin-out-before-2027",
     "amount": 2730.0,
     "resolution_last_check": "2026-06-20T09:01:32.774894+00:00"
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xd541129bc298901723ae08c47a754a0f8630f46b4d5c6d98642835437c001b35",
+    "wallet": "0xd0c042c08f755ff940249f62745e82d356345565",
+    "trader": {
+      "rank": 20,
+      "address": "0xd0c042c08f755ff940249f62745e82d356345565",
+      "username": "alexmulti",
+      "profit": 4804855.613376001,
+      "volume": 9949068.653841998,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x3d979f2a0e03167d27c09f5b7d3c599328baf263",
+      "side": "BUY",
+      "asset": "70373812372678611634355793144016562481037593556697847690795512094443869264013",
+      "conditionId": "0x5389df46fbc0366e12650d7e9cfc50eab40641484aa4ae024e22585bbdba41cc",
+      "size": 11422.19512,
+      "price": 0.40999124509790374,
+      "timestamp": 1781961760,
+      "title": "Halle Open: Alexander Zverev vs Taylor Fritz",
+      "slug": "atp-zverev-fritz-2026-06-20",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+      "eventSlug": "atp-zverev-fritz-2026-06-20",
+      "outcome": "Taylor Fritz",
+      "outcomeIndex": 1,
+      "name": "0x3d979F2a0e03167d27C09F5b7D3C599328baF263-1766698762743",
+      "pseudonym": "Admired-Yesterday",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xd541129bc298901723ae08c47a754a0f8630f46b4d5c6d98642835437c001b35",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Halle Open: Alexander Zverev vs Taylor Fritz",
+    "market_slug": "atp-zverev-fritz-2026-06-20",
+    "amount": 4682.999999000001
   }
 ]
