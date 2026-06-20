@@ -3,114 +3,6 @@
     "market": "Wizards vs. Trail Blazers: O/U 237.5",
     "market_slug": "nba-was-por-2026-03-29-total-237pt5",
     "event_slug": "nba-was-por-2026-03-29-total-237pt5",
-    "wallet": "0x42cb365e9eb08172df9c035ec31b7bbd36d2f905",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,478)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 1477.5,
-      "odds": 0.5,
-      "raw_price": 0.5,
-      "outcome": "Over",
-      "potential_pnl": 1477.5,
-      "pnl_multiplier": 1.0,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-03-29T14:56:32.783725",
-    "trade_hash": "0xf36d204eb1f56855c564c030a1a2f818bee3dfd95f8c0fc0391992ca9ff5b0e3",
-    "trade_timestamp": 1774795836,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Over",
-      "outcomeIndex": 0,
-      "normalized_position": "YES",
-      "side": "BUY",
-      "price": 0.5,
-      "effective_price": 0.5,
-      "size": 2955.0,
-      "amount": 1477.5,
-      "potential_pnl": 1477.5,
-      "pnl_multiplier": 1.0,
-      "is_no": false,
-      "slug": "nba-was-por-2026-03-29-total-237pt5",
-      "eventSlug": "nba-was-por-2026-03-29"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+26.0%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.24,
-      "market_price": 0.5,
-      "edge": 0.26,
-      "edge_percent": 26.0,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "high-scoring performances from both teams",
-          "defensive weaknesses exploited",
-          "favorable game pace"
-        ],
-        "weakest_link": "defensive weaknesses exploited"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "recent offensive trends of both teams",
-        "injuries affecting defensive capabilities"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "CONFLICT",
-      "signal_emoji": "\u26a0\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider buying YES despite statistical overpricing",
-      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
-      "insider_score": 70,
-      "insider_position": "YES",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.26,
-      "edge_percent": 26.0
-    },
-    "log_only": true,
-    "financial_analyst": {
-      "signal_quality": 46.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 26.0,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "Wizards vs. Trail Blazers: O/U 237.5",
-    "market_slug": "nba-was-por-2026-03-29-total-237pt5",
-    "event_slug": "nba-was-por-2026-03-29-total-237pt5",
     "wallet": "0x107321c60ca5d443807d8fb9e6dea8cb8c6fa93a",
     "analysis": {
       "score": 70,
@@ -27996,5 +27888,49 @@
     "market": "Netherlands vs. Sweden: Both Teams to Score",
     "market_slug": "fifwc-nld-swe-2026-06-20-more-markets",
     "amount": 4999.999999000001
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x7c24f863536d6640c8eca3763226ccb792a794d460a06019a74043099c7708a8",
+    "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+    "trader": {
+      "rank": 16,
+      "address": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+      "username": "KeyTransporter",
+      "profit": 5711459.802519929,
+      "volume": 20086062.154324993,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x4fa9bbe99cdedd3ff05a2a679f0ec4ae706b7633",
+      "side": "SELL",
+      "asset": "110881534500357968934646596900153818247967390745149544995654778360419076918150",
+      "conditionId": "0x232342e2a9200b203703a816f9d99d1c6a872333567af16f43d67a255e1a6aa8",
+      "size": 5614.23,
+      "price": 0.32,
+      "timestamp": 1781991787,
+      "title": "Will Germany win on 2026-06-20?",
+      "slug": "fifwc-ger-civ-2026-06-20-ger",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-ger-civ-2026-06-20",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "bitcoinjackson",
+      "pseudonym": "Competent-Aardvark",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x7c24f863536d6640c8eca3763226ccb792a794d460a06019a74043099c7708a8",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Germany win on 2026-06-20?",
+    "market_slug": "fifwc-ger-civ-2026-06-20",
+    "amount": 1796.5536
   }
 ]
