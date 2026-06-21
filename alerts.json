@@ -1,94 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x916368392620bfe3898790c91cf1fdb63341dee65e368d324912b783d4ace22c",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x0936b3de292b05f115c199a0d79331a62fc06c02",
-      "side": "BUY",
-      "asset": "36462471735172848345401380504641680352665475010452944512866299426065312183175",
-      "conditionId": "0xccd66c63cdc20bf1146a57582ec352adb5af4689893823819cb6f3d625c4b985",
-      "size": 4081.632652,
-      "price": 0.4899999998824,
-      "timestamp": 1774808538,
-      "title": "Celtics vs. Hornets: O/U 215.5",
-      "slug": "nba-bos-cha-2026-03-29-total-215pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-bos-cha-2026-03-29",
-      "outcome": "Under",
-      "outcomeIndex": 1,
-      "name": "menghuan168",
-      "pseudonym": "Corny-Edition",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x916368392620bfe3898790c91cf1fdb63341dee65e368d324912b783d4ace22c",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Celtics vs. Hornets: O/U 215.5",
-    "market_slug": "nba-bos-cha-2026-03-29",
-    "amount": 2081.6326529999997
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x165c4729a8b9a9a1056fbf4664132b540e86bb72bd858d95982dd10262d3ca87",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x2ca1084475eb6d8103617a460400e7c93bcfddcd",
-      "side": "BUY",
-      "asset": "24851410807574450898610185678064061655189007873790070435566556838352148061088",
-      "conditionId": "0xdd4f30764e94968a041d4379d3c7aeeefb696d1f6a796831054570f6e4df0a81",
-      "size": 5000,
-      "price": 0.34,
-      "timestamp": 1774814242,
-      "title": "Colorado Rockies vs. Miami Marlins",
-      "slug": "mlb-col-mia-2026-03-29",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
-      "eventSlug": "mlb-col-mia-2026-03-29",
-      "outcome": "Miami Marlins",
-      "outcomeIndex": 1,
-      "name": "Thebigshot",
-      "pseudonym": "Known-Curl",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x165c4729a8b9a9a1056fbf4664132b540e86bb72bd858d95982dd10262d3ca87",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Colorado Rockies vs. Miami Marlins",
-    "market_slug": "mlb-col-mia-2026-03-29",
-    "amount": 3299.9999999999995
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x51b29a144237f62fd8b2a75bfc7a87f729532c5721c2c1a7ae31b00914b334b8",
     "wallet": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
     "trader": {
@@ -27873,5 +27785,154 @@
     "market": "LoL: Dplus KIA Challengers vs T1 Academy - Game 4 Winner",
     "market_slug": "lol-dkc-t1a-2026-06-21",
     "amount": 2009.2399999999998
+  },
+  {
+    "market": "Will Abelardo de la Espriella  win the 2026 Colombian presidential election?",
+    "market_slug": "will-abelardo-de-la-espriella-win-the-2026-colombian-presidential-election",
+    "event_slug": "will-abelardo-de-la-espriella-win-the-2026-colombian-presidential-election",
+    "wallet": "0xeab82841f358972395b0e4648ce4792e10078ecf",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,100)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 1099.999998,
+      "odds": 0.8676587411525173,
+      "raw_price": 0.8676587411525173,
+      "outcome": "Yes",
+      "potential_pnl": 167.77954,
+      "pnl_multiplier": 0.1525268548227761,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-06-21T21:23:46.798187",
+    "trade_hash": "0xe5c46a68e0bcc2364f7e70569dafefdc55ce1fa69261a2160b77d381c999ca31",
+    "trade_timestamp": 1782076592,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.8676587411525173,
+      "effective_price": 0.8676587411525173,
+      "size": 1267.779538,
+      "amount": 1099.999998,
+      "potential_pnl": 167.77954,
+      "pnl_multiplier": 0.1525268548227761,
+      "is_no": false,
+      "slug": "will-abelardo-de-la-espriella-win-the-2026-colombian-presidential-election",
+      "eventSlug": "colombia-presidential-election"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+36.8%)"
+      ],
+      "category": "politics_near",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.02,
+        "min_edge": 0.03
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.5,
+      "market_price": 0.8676587411525173,
+      "edge": 0.3676587411525173,
+      "edge_percent": 36.76587411525173,
+      "min_edge_required": 0.03,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.3676587411525173,
+      "edge_percent": 36.76587411525173
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 46.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 36.77,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x7506d3b56e367e93c9f68ec72e1a0f5b86b4463badc1a0a93c509f6a5d45f284",
+    "wallet": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
+    "trader": {
+      "rank": 2,
+      "address": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
+      "username": "Fredi9999",
+      "profit": 16619506.631730152,
+      "volume": 76611316.90515399,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x0a05f9315f358b12c7ebd2f7b6cfd412487adfbc",
+      "side": "BUY",
+      "asset": "12355193486095308727523284504357461751064594131453827117630197009120761290487",
+      "conditionId": "0x0eb14827c0e55de386c720191eb556fa1a6b008f5d2513f19a984c5d74a5b06a",
+      "size": 5047.446807,
+      "price": 0.4699999999425452,
+      "timestamp": 1782077047,
+      "title": "New Zealand vs. Egypt: Both Teams to Score",
+      "slug": "fifwc-nzl-egy-2026-06-21-btts",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-nzl-egy-2026-06-21-more-markets",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "AsapRocky-485",
+      "pseudonym": "Shabby-Stockings",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x7506d3b56e367e93c9f68ec72e1a0f5b86b4463badc1a0a93c509f6a5d45f284",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "New Zealand vs. Egypt: Both Teams to Score",
+    "market_slug": "fifwc-nzl-egy-2026-06-21-more-markets",
+    "amount": 2372.2999990000003
   }
 ]
