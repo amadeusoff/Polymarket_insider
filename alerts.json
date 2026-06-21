@@ -1,113 +1,5 @@
 [
   {
-    "market": "Llaneros FC vs. Once Caldas: O/U 2.5",
-    "market_slug": "col1-llf-onc-2026-03-29-total-2pt5",
-    "event_slug": "col1-llf-onc-2026-03-29-total-2pt5",
-    "wallet": "0x18193a72f22fe19b90243df46f3dd216e4d04d77",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,024)",
-        "Low activity (2 txns)"
-      ],
-      "amount": 1024.1,
-      "odds": 0.49,
-      "raw_price": 0.49,
-      "outcome": "Under",
-      "potential_pnl": 1065.9,
-      "pnl_multiplier": 1.0408163265306125,
-      "wallet_age_days": 0,
-      "total_activities": 2
-    },
-    "timestamp": "2026-03-29T18:22:28.190335",
-    "trade_hash": "0xace8884a05a3f11ecb9dac0a49340587813edad58bc743cb6481e5f68f274bf9",
-    "trade_timestamp": 1774808182,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Under",
-      "outcomeIndex": 1,
-      "normalized_position": "NO",
-      "side": "BUY",
-      "price": 0.49,
-      "effective_price": 0.49,
-      "size": 2090.0,
-      "amount": 1024.1,
-      "potential_pnl": 1065.9,
-      "pnl_multiplier": 1.0408163265306125,
-      "is_no": false,
-      "slug": "col1-llf-onc-2026-03-29-total-2pt5",
-      "eventSlug": "col1-llf-onc-2026-03-29-more-markets"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+25.2%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.238,
-      "market_price": 0.49,
-      "edge": 0.252,
-      "edge_percent": 25.2,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "both teams have strong attacking players",
-          "defensive weaknesses in both teams",
-          "recent matches have shown high-scoring trends"
-        ],
-        "weakest_link": "defensive weaknesses in both teams"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "team form and player injuries",
-        "historical matchups between the teams"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "ALPHA",
-      "signal_emoji": "\ud83d\udd25",
-      "signal_strength": 105,
-      "interpretation": "Smart money (NO) confirms YES is overpriced",
-      "action_suggestion": "High conviction: insider + statistics aligned",
-      "insider_score": 70,
-      "insider_position": "NO",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.252,
-      "edge_percent": 25.2
-    },
-    "financial_analyst": {
-      "signal_quality": 81.0,
-      "stance": "HIGH_CONVICTION",
-      "edge_percent": 25.2,
-      "signal_strength": 105.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-03-30T07:19:20.468372+00:00"
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0x916368392620bfe3898790c91cf1fdb63341dee65e368d324912b783d4ace22c",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
@@ -27937,5 +27829,49 @@
     "market": "Spread: Ecuador (-2.5)",
     "market_slug": "fifwc-ecu-kor-2026-06-20-more-markets",
     "amount": 7700.4800000000005
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xdc94b5cecf5544451fdc82831a576a6cb77c4323738a31670c7d3fc22ab48cf5",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "trader": {
+      "rank": 8,
+      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "username": "swisstony",
+      "profit": 8809060.004705345,
+      "volume": 1049778049.1258312,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x31864feb9d25dee93728c6225ba891530967e9ca",
+      "side": "BUY",
+      "asset": "19877429851074954968006569821429380273011589826123539518136456233458998807067",
+      "conditionId": "0x0a1691b5dbbae09fba1f089af0bc15c3ce0c607069043ceed99f02ac39d555a3",
+      "size": 2197,
+      "price": 0.9145380063723259,
+      "timestamp": 1782042823,
+      "title": "LoL: Dplus KIA Challengers vs T1 Academy - Game 4 Winner",
+      "slug": "lol-dkc-t1a-2026-06-21-game4",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
+      "eventSlug": "lol-dkc-t1a-2026-06-21",
+      "outcome": "Dplus KIA Challengers",
+      "outcomeIndex": 0,
+      "name": "johnbaster",
+      "pseudonym": "Solid-Grit",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xdc94b5cecf5544451fdc82831a576a6cb77c4323738a31670c7d3fc22ab48cf5",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "LoL: Dplus KIA Challengers vs T1 Academy - Game 4 Winner",
+    "market_slug": "lol-dkc-t1a-2026-06-21",
+    "amount": 2009.2399999999998
   }
 ]
