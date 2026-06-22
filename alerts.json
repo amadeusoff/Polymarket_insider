@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xf289547448f5eeabec3dd1ca9804a772d54992ffa0b0367d766d0444bcde205f",
-    "wallet": "0xd0c042c08f755ff940249f62745e82d356345565",
-    "trader": {
-      "rank": 15,
-      "address": "0xd0c042c08f755ff940249f62745e82d356345565",
-      "username": "alexmulti",
-      "profit": 4804855.613376001,
-      "volume": 9949068.653841998,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x7e3a1f95c558f39a51ff334d789e3e039b553246",
-      "side": "BUY",
-      "asset": "30737869522084583250787348761921807424436212950877429392167290854319537675093",
-      "conditionId": "0xdf99b42652984acb2679ce1729acca79ca93cbb1eb6e512cf7153eedcd0b630e",
-      "size": 46111.62,
-      "price": 0.34,
-      "timestamp": 1774822344,
-      "title": "Heat vs. Pacers",
-      "slug": "nba-mia-ind-2026-03-29",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-mia-ind-2026-03-29",
-      "outcome": "Pacers",
-      "outcomeIndex": 1,
-      "name": "KaneAnalytics",
-      "pseudonym": "Smart-Elbow",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xf289547448f5eeabec3dd1ca9804a772d54992ffa0b0367d766d0444bcde205f",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Heat vs. Pacers",
-    "market_slug": "nba-mia-ind-2026-03-29",
-    "amount": 30433.669199999997
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x94ee8abf90a9226062ea1c2a6a64398bc887dad963ae1b1e49e796161540c408",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -28013,5 +27969,49 @@
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     },
     "resolution_last_check": "2026-06-22T11:57:18.753162+00:00"
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xcf7ab0dc0eda88602a352213229e92615d5a0c1cddc2ad8326da8b54ae156e71",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x77f623734a71c023f9df91011189eaeef891dbd1",
+      "side": "BUY",
+      "asset": "48418793835671233339233888282140976583582203469154939798350720925736295256622",
+      "conditionId": "0x52677ee277d46056f4fa3b8f67bae45514f18ba2b32e40a966e369dabd9b5fb7",
+      "size": 3829.839229,
+      "price": 0.5118543839010846,
+      "timestamp": 1782144235,
+      "title": "Mallorca Championships: Adam Walton vs Nick Kyrgios",
+      "slug": "atp-walton-kyrgios-2026-06-22",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+      "eventSlug": "atp-walton-kyrgios-2026-06-22",
+      "outcome": "Nick Kyrgios",
+      "outcomeIndex": 1,
+      "name": "bigwhale1337",
+      "pseudonym": "Mysterious-Target",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xcf7ab0dc0eda88602a352213229e92615d5a0c1cddc2ad8326da8b54ae156e71",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Mallorca Championships: Adam Walton vs Nick Kyrgios",
+    "market_slug": "atp-walton-kyrgios-2026-06-22",
+    "amount": 1960.319999
   }
 ]
