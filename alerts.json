@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x51b29a144237f62fd8b2a75bfc7a87f729532c5721c2c1a7ae31b00914b334b8",
-    "wallet": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
-    "trader": {
-      "rank": 14,
-      "address": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
-      "username": "gmanas",
-      "profit": 4955869.669732175,
-      "volume": 529047708.505991,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x84dbb7103982e3617704a2ed7d5b39691952aeeb",
-      "side": "BUY",
-      "asset": "12035465076229752781908256263963783360216277908549884664476516616806440930892",
-      "conditionId": "0x0f667610ed65264e96d55ec467e22f93bfc6e58ffc7cafae55f2d570c14692d3",
-      "size": 5803.69,
-      "price": 0.52,
-      "timestamp": 1774819944,
-      "title": "Spread: Trail Blazers (-16.5)",
-      "slug": "nba-was-por-2026-03-29-spread-home-16pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-was-por-2026-03-29",
-      "outcome": "Trail Blazers",
-      "outcomeIndex": 0,
-      "name": "ShucksIt69",
-      "pseudonym": "Grim-Icon",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x51b29a144237f62fd8b2a75bfc7a87f729532c5721c2c1a7ae31b00914b334b8",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Spread: Trail Blazers (-16.5)",
-    "market_slug": "nba-was-por-2026-03-29",
-    "amount": 3017.9188
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xf289547448f5eeabec3dd1ca9804a772d54992ffa0b0367d766d0444bcde205f",
     "wallet": "0xd0c042c08f755ff940249f62745e82d356345565",
     "trader": {
@@ -27934,5 +27890,126 @@
     "market": "New Zealand vs. Egypt: Both Teams to Score",
     "market_slug": "fifwc-nzl-egy-2026-06-21-more-markets",
     "amount": 2372.2999990000003
+  },
+  {
+    "market": "Will Sweden win on 2026-06-25?",
+    "market_slug": "fifwc-jpn-swe-2026-06-25-swe",
+    "event_slug": "fifwc-jpn-swe-2026-06-25-swe",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "analysis": {
+      "score": 90,
+      "flags": [
+        "Large bet ($1,304)",
+        "Pre-event latency: 4000m",
+        "Top trader #4 ($10,588,706 profit)"
+      ],
+      "amount": 1303.9399999999998,
+      "odds": 0.21999999999999997,
+      "raw_price": 0.78,
+      "outcome": "No",
+      "potential_pnl": 4623.06,
+      "pnl_multiplier": 3.5454545454545463,
+      "wallet_age_days": 317,
+      "total_activities": 100
+    },
+    "timestamp": "2026-06-22T05:24:53.525287",
+    "trade_hash": "0xd414b348d2a8a270b45d75dd70a875e766b5f0b23c2ac1889ddf18ce883569f0",
+    "trade_timestamp": 1782105628,
+    "latency": {
+      "latency_seconds": 239972.0,
+      "latency_minutes": 3999.5333333333333,
+      "is_pre_event": true,
+      "severity": "CRITICAL",
+      "trade_time": "2026-06-22T05:20:28+00:00",
+      "event_time": "2026-06-25T00:00:00+00:00"
+    },
+    "wallet_stats": null,
+    "top_trader": {
+      "rank": 4,
+      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "username": "swisstony",
+      "profit": 10588706.112507552,
+      "volume": 1077790580.0076442,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade_data": {
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.78,
+      "effective_price": 0.78,
+      "size": 5927.0,
+      "amount": 4623.06,
+      "potential_pnl": 1303.9399999999996,
+      "pnl_multiplier": 0.28205128205128194,
+      "is_no": true,
+      "slug": "fifwc-jpn-swe-2026-06-25-swe",
+      "eventSlug": "fifwc-jpn-swe-2026-06-25"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+31.1%)"
+      ],
+      "category": "politics_near",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.02,
+        "min_edge": 0.03
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.46950000000000003,
+      "market_price": 0.78,
+      "edge": 0.3105,
+      "edge_percent": 31.05,
+      "min_edge_required": 0.03,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 125,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 90,
+      "insider_position": "NO",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.3105,
+      "edge_percent": 31.05
+    },
+    "financial_analyst": {
+      "signal_quality": 85.0,
+      "stance": "HIGH_CONVICTION",
+      "edge_percent": 31.05,
+      "signal_strength": 125.0,
+      "insider_score": 90.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
