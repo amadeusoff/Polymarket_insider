@@ -1,93 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x94ee8abf90a9226062ea1c2a6a64398bc887dad963ae1b1e49e796161540c408",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x6c16abad96d6989efe1b0333cb9af9158f548bfa",
-      "side": "BUY",
-      "asset": "30737869522084583250787348761921807424436212950877429392167290854319537675093",
-      "conditionId": "0xdf99b42652984acb2679ce1729acca79ca93cbb1eb6e512cf7153eedcd0b630e",
-      "size": 7800,
-      "price": 0.23,
-      "timestamp": 1774823844,
-      "title": "Heat vs. Pacers",
-      "slug": "nba-mia-ind-2026-03-29",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-mia-ind-2026-03-29",
-      "outcome": "Pacers",
-      "outcomeIndex": 1,
-      "name": "XPredicter1",
-      "pseudonym": "Happy-Bottle",
-      "bio": "BET ON YOUR BELIEFS",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3213213-9f8b7631-e046-4d06-ab23-61e8e23df953.webp",
-      "profileImageOptimized": "",
-      "transactionHash": "0x94ee8abf90a9226062ea1c2a6a64398bc887dad963ae1b1e49e796161540c408",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Heat vs. Pacers",
-    "market_slug": "nba-mia-ind-2026-03-29",
-    "amount": 6006.0
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x7eed9c41c41331b078aba91c6c620d9cb67a6f402cfe22107e5f899d97f77fba",
-    "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
-    "trader": {
-      "rank": 10,
-      "address": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
-      "username": "KeyTransporter",
-      "profit": 5711459.802519929,
-      "volume": 20086062.154324997,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xfbf3d501e88815464642d0e913f15379c3eeb218",
-      "side": "BUY",
-      "asset": "46074053027504456980838139439071668463534417342542986769475437075526685360542",
-      "conditionId": "0xb71276804dfd74c76d770e78ac1e90c1d60bc827d4300c2fa21f6983b9a601ac",
-      "size": 10434.11,
-      "price": 0.22428030756815867,
-      "timestamp": 1774828048,
-      "title": "Knicks vs. Thunder",
-      "slug": "nba-nyk-okc-2026-03-29",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-nyk-okc-2026-03-29",
-      "outcome": "Knicks",
-      "outcomeIndex": 0,
-      "name": "VPenguin",
-      "pseudonym": "Pastel-Push",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x7eed9c41c41331b078aba91c6c620d9cb67a6f402cfe22107e5f899d97f77fba",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Knicks vs. Thunder",
-    "market_slug": "nba-nyk-okc-2026-03-29",
-    "amount": 2340.1654000000003
-  },
-  {
     "market": "Celtics vs. Hawks",
     "market_slug": "nba-bos-atl-2026",
     "event_slug": "nba-bos-atl-2026",
@@ -28013,5 +27925,93 @@
     "market": "Mallorca Championships: Adam Walton vs Nick Kyrgios",
     "market_slug": "atp-walton-kyrgios-2026-06-22",
     "amount": 1960.319999
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xcda7f725aef873038bc034c09cacd2cad0a72e91c8420bfbfd976c13275bed0c",
+    "wallet": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+    "trader": {
+      "rank": 15,
+      "address": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+      "username": "walletmobile",
+      "profit": 5942685.45339684,
+      "volume": 32196692.075936034,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xa7042a6a20139d170616881b763577ff79f011c1",
+      "side": "SELL",
+      "asset": "34588493790070312569259164200835191060956360997819806668692252238641889077174",
+      "conditionId": "0xd2cad61516b1b931bb806fb98b3309e32f498cd6436108dfab3661dafaf3ac6c",
+      "size": 7772.15,
+      "price": 0.84,
+      "timestamp": 1782170656,
+      "title": "France vs. Iraq: O/U 1.5",
+      "slug": "fifwc-fra-irq-2026-06-22-total-1pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-fra-irq-2026-06-22-more-markets",
+      "outcome": "Over",
+      "outcomeIndex": 0,
+      "name": "0xA7042A6A20139D170616881b763577FF79f011c1-1770053111081",
+      "pseudonym": "Rude-Alien",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xcda7f725aef873038bc034c09cacd2cad0a72e91c8420bfbfd976c13275bed0c",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "France vs. Iraq: O/U 1.5",
+    "market_slug": "fifwc-fra-irq-2026-06-22-more-markets",
+    "amount": 6528.606
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x0691e30f7f55d1afdb63ccf79e6964845df427fc4e488fcb34a884a76b9647fc",
+    "wallet": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+    "trader": {
+      "rank": 15,
+      "address": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+      "username": "walletmobile",
+      "profit": 5942685.45339684,
+      "volume": 32196692.075936034,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xaf4d84e9e912ba86208bef165e23e587e5a677c6",
+      "side": "BUY",
+      "asset": "44491272038886392974736226230794646402063980779339966254585238029848267145462",
+      "conditionId": "0x6f3f77b596cd944508d10f02d8c71d8eb8503d59cd4c30392e96b071255765b8",
+      "size": 5076.14,
+      "price": 0.5,
+      "timestamp": 1782170654,
+      "title": "Norway vs. Senegal: O/U 2.5",
+      "slug": "fifwc-nor-sen-2026-06-22-total-2pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-nor-sen-2026-06-22-more-markets",
+      "outcome": "Over",
+      "outcomeIndex": 0,
+      "name": "Molten-Brains",
+      "pseudonym": "Salty-Sting-Technology",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x0691e30f7f55d1afdb63ccf79e6964845df427fc4e488fcb34a884a76b9647fc",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Norway vs. Senegal: O/U 2.5",
+    "market_slug": "fifwc-nor-sen-2026-06-22-more-markets",
+    "amount": 2538.07
   }
 ]
