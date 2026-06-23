@@ -1,158 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x8f61a2533f116d68ca85762fb97a476edc1ef5ea6238a67a24097651713af92a",
-    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-    "trader": {
-      "rank": 5,
-      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-      "username": "zxgngl",
-      "profit": 7807265.589240883,
-      "volume": 40551790.62184699,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
-      "side": "BUY",
-      "asset": "20171573127360977362973435577990200871613402020096392031060134000759177110611",
-      "conditionId": "0x96e8b81d150000882bb1475d35d268be1cd6a6a5a90bae23452477ee702b9230",
-      "size": 5501.913042,
-      "price": 0.22999999988004172,
-      "timestamp": 1774899477,
-      "title": "Counter-Strike: Inner Circle Esports vs BASEMENT BOYS - Map 2 Winner",
-      "slug": "cs2-ice-bmb-2026-03-30-game2",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/counter-strike-image-16c415c538.png",
-      "eventSlug": "cs2-ice-bmb-2026-03-30",
-      "outcome": "BASEMENT BOYS",
-      "outcomeIndex": 1,
-      "name": "0xdbdd45150249e229eB4cA8aa48A30Dca21Faa5de-1757094771846",
-      "pseudonym": "Vigilant-Environment",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x8f61a2533f116d68ca85762fb97a476edc1ef5ea6238a67a24097651713af92a",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Counter-Strike: Inner Circle Esports vs BASEMENT BOYS - Map 2 Winner",
-    "market_slug": "cs2-ice-bmb-2026-03-30",
-    "amount": 4236.473043
-  },
-  {
-    "market": "Counter-Strike: 9z vs Legacy (BO5) - FERJEE In House Playoffs",
-    "market_slug": "cs2-9z-lgc-2026",
-    "event_slug": "cs2-9z-lgc-2026",
-    "wallet": "0x3dc2a9a025485d14bf1cca5c21df8790a7090f14",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,192)",
-        "Low activity (3 txns)"
-      ],
-      "amount": 1191.8789939943792,
-      "odds": 0.3437421696428852,
-      "raw_price": 0.3437421696428852,
-      "outcome": "9z",
-      "potential_pnl": 2275.484336005621,
-      "pnl_multiplier": 1.9091571774242981,
-      "wallet_age_days": 0,
-      "total_activities": 3
-    },
-    "timestamp": "2026-03-30T22:07:02.903296",
-    "trade_hash": "0xa8b454c12b1bc78e207df3a93cd9fe83ab23a2001887fadd27ca6cc18dfdabff",
-    "trade_timestamp": 1774908241,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "9z",
-      "outcomeIndex": 0,
-      "normalized_position": "YES",
-      "side": "BUY",
-      "price": 0.3437421696428852,
-      "effective_price": 0.3437421696428852,
-      "size": 3467.3633299999997,
-      "amount": 1191.8789939943792,
-      "potential_pnl": 2275.484336005621,
-      "pnl_multiplier": 1.9091571774242981,
-      "is_no": false,
-      "slug": "cs2-9z-lgc-2026",
-      "eventSlug": "cs2-9z-lgc-2026-03-30"
-    },
-    "irrationality": {
-      "irrationality_score": 45,
-      "flags": [
-        "Crisis keyword detected ('strike')",
-        "Large mispricing edge (+21.5%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.12874843392857704,
-      "market_price": 0.3437421696428852,
-      "edge": 0.21499373571430813,
-      "edge_percent": 21.499373571430812,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "occasional",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "occasional",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "9z has a strong performance history",
-          "Legacy has a poor performance history",
-          "Key players on 9z are in top form"
-        ],
-        "weakest_link": "Legacy's ability to perform under pressure"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "team dynamics and synergy",
-        "recent match performance trends"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "CONFLICT",
-      "signal_emoji": "\u26a0\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider buying YES despite statistical overpricing",
-      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
-      "insider_score": 70,
-      "insider_position": "YES",
-      "irrationality_score": 45,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.21499373571430813,
-      "edge_percent": 21.499373571430812
-    },
-    "log_only": true,
-    "financial_analyst": {
-      "signal_quality": 48.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 21.5,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "market": "Spread: 76ers (-1.5)",
     "market_slug": "nba-phi-mia-2026-03-30-spread-away-1pt5",
     "event_slug": "nba-phi-mia-2026-03-30-spread-away-1pt5",
@@ -27949,5 +27796,93 @@
     "market": "Spread: Portugal (-2.5)",
     "market_slug": "fifwc-prt-uzb-2026-06-23-more-markets",
     "amount": 29411.965000000004
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x80f003238e0b23a079ee93b4de6b2beca51fa13c9f3120a85a0d66ea8a1c0261",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xa7042a6a20139d170616881b763577ff79f011c1",
+      "side": "BUY",
+      "asset": "28001061154060778900242036682007841833972291455664425772446610892724525263554",
+      "conditionId": "0x5350152723f80d69dc0477fd16fc55653e50ee2feefe6ae2ac9d481a93e7fa4a",
+      "size": 2740.653325,
+      "price": 0.9121912535216398,
+      "timestamp": 1782235234,
+      "title": "Exact Score: Portugal 3 - 0 Uzbekistan?",
+      "slug": "fifwc-prt-uzb-2026-06-23-exact-score-3-0",
+      "icon": "",
+      "eventSlug": "fifwc-prt-uzb-2026-06-23-exact-score",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "0xA7042A6A20139D170616881b763577FF79f011c1-1770053111081",
+      "pseudonym": "Rude-Alien",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x80f003238e0b23a079ee93b4de6b2beca51fa13c9f3120a85a0d66ea8a1c0261",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Exact Score: Portugal 3 - 0 Uzbekistan?",
+    "market_slug": "fifwc-prt-uzb-2026-06-23-exact-score",
+    "amount": 2499.999992
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x27bd78d846cd0ba5babb9c63b0935c3b770f2823b91c022fa80107568eb65a23",
+    "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
+    "trader": {
+      "rank": 18,
+      "address": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
+      "username": "mikatrade77",
+      "profit": 5147998.544602999,
+      "volume": 10884765.388775,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x913c76e1edf609b3d6dd7d597d1f9afc6c6039b3",
+      "side": "SELL",
+      "asset": "66699262325036920507420338205309862000453922374106257793330845594891470146719",
+      "conditionId": "0x3b2d592c747c9ae88a3169e73e261f820a5fa4c1019346af53abe9c50dcaa54c",
+      "size": 4438.35,
+      "price": 0.6507885813421654,
+      "timestamp": 1782236129,
+      "title": "Dota 2: Nigma Galaxy vs Natus Vincere - Game 1 Winner",
+      "slug": "dota2-ngx-navi-2026-06-23-game1",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/dota2-7ffacddb21.jpg",
+      "eventSlug": "dota2-ngx-navi-2026-06-23",
+      "outcome": "Nigma Galaxy",
+      "outcomeIndex": 0,
+      "name": "",
+      "pseudonym": "",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x27bd78d846cd0ba5babb9c63b0935c3b770f2823b91c022fa80107568eb65a23",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Dota 2: Nigma Galaxy vs Natus Vincere - Game 1 Winner",
+    "market_slug": "dota2-ngx-navi-2026-06-23",
+    "amount": 2888.4275000000002
   }
 ]
