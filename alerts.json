@@ -1,219 +1,5 @@
 [
   {
-    "market": "Spread: 76ers (-1.5)",
-    "market_slug": "nba-phi-mia-2026-03-30-spread-away-1pt5",
-    "event_slug": "nba-phi-mia-2026-03-30-spread-away-1pt5",
-    "wallet": "0x0daa0d3fd576c5b6bbbef56167ae8ae7eadac9da",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($2,978)",
-        "Low activity (2 txns)"
-      ],
-      "amount": 2977.5090039016495,
-      "odds": 0.4899999999640667,
-      "raw_price": 0.4899999999640667,
-      "outcome": "Heat",
-      "potential_pnl": 3099.039984098351,
-      "pnl_multiplier": 1.0408163266802721,
-      "wallet_age_days": 0,
-      "total_activities": 2
-    },
-    "timestamp": "2026-03-30T22:52:30.199597",
-    "trade_hash": "0xdb673c527a986a05c35610bdc14e6cd4b043b0f93b66430f5c724bd9f2ee0695",
-    "trade_timestamp": 1774911005,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Heat",
-      "outcomeIndex": 1,
-      "normalized_position": "NO",
-      "side": "BUY",
-      "price": 0.4899999999640667,
-      "effective_price": 0.4899999999640667,
-      "size": 6076.5489880000005,
-      "amount": 2977.5090039016495,
-      "potential_pnl": 3099.039984098351,
-      "pnl_multiplier": 1.0408163266802721,
-      "is_no": false,
-      "slug": "nba-phi-mia-2026-03-30-spread-away-1pt5",
-      "eventSlug": "nba-phi-mia-2026-03-30"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+25.2%)"
-      ],
-      "category": "other",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.23799999999281332,
-      "market_price": 0.4899999999640667,
-      "edge": 0.25199999997125333,
-      "edge_percent": 25.19999999712533,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "76ers maintain key player health",
-          "76ers perform well in away games",
-          "Opposing team has injuries or underperformance"
-        ],
-        "weakest_link": "Opposing team has injuries or underperformance"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "76ers recent performance trends",
-        "Public sentiment towards team dynamics"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "ALPHA",
-      "signal_emoji": "\ud83d\udd25",
-      "signal_strength": 105,
-      "interpretation": "Smart money (NO) confirms YES is overpriced",
-      "action_suggestion": "High conviction: insider + statistics aligned",
-      "insider_score": 70,
-      "insider_position": "NO",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.25199999997125333,
-      "edge_percent": 25.19999999712533
-    },
-    "financial_analyst": {
-      "signal_quality": 81.0,
-      "stance": "HIGH_CONVICTION",
-      "edge_percent": 25.2,
-      "signal_strength": 105.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "Spread: 76ers (-2.5)",
-    "market_slug": "nba-phi-mia-2026-03-30-spread-away-2pt5",
-    "event_slug": "nba-phi-mia-2026-03-30-spread-away-2pt5",
-    "wallet": "0x0daa0d3fd576c5b6bbbef56167ae8ae7eadac9da",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,981)",
-        "Low activity (2 txns)"
-      ],
-      "amount": 1981.053956201797,
-      "odds": 0.5199999999374749,
-      "raw_price": 0.5199999999374749,
-      "outcome": "Heat",
-      "potential_pnl": 1828.6651907982032,
-      "pnl_multiplier": 0.9230769233081549,
-      "wallet_age_days": 0,
-      "total_activities": 2
-    },
-    "timestamp": "2026-03-30T22:52:40.316927",
-    "trade_hash": "0x0b73363e89d54577c3ee64a17f2dc2424d33e044eafeaa0a18d960c8d70c7b97",
-    "trade_timestamp": 1774911031,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Heat",
-      "outcomeIndex": 1,
-      "normalized_position": "NO",
-      "side": "BUY",
-      "price": 0.5199999999374749,
-      "effective_price": 0.5199999999374749,
-      "size": 3809.7191470000002,
-      "amount": 1981.053956201797,
-      "potential_pnl": 1828.6651907982032,
-      "pnl_multiplier": 0.9230769233081549,
-      "is_no": false,
-      "slug": "nba-phi-mia-2026-03-30-spread-away-2pt5",
-      "eventSlug": "nba-phi-mia-2026-03-30"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+27.6%)"
-      ],
-      "category": "other",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.24399999998749497,
-      "market_price": 0.5199999999374749,
-      "edge": 0.2759999999499799,
-      "edge_percent": 27.599999994997994,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "76ers maintain key player health",
-          "76ers perform well in recent games",
-          "opposing team struggles with injuries"
-        ],
-        "weakest_link": "opposing team struggles with injuries"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "team performance trends",
-        "player health updates"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "ALPHA",
-      "signal_emoji": "\ud83d\udd25",
-      "signal_strength": 105,
-      "interpretation": "Smart money (NO) confirms YES is overpriced",
-      "action_suggestion": "High conviction: insider + statistics aligned",
-      "insider_score": 70,
-      "insider_position": "NO",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.2759999999499799,
-      "edge_percent": 27.599999994997994
-    },
-    "financial_analyst": {
-      "signal_quality": 81.0,
-      "stance": "HIGH_CONVICTION",
-      "edge_percent": 27.6,
-      "signal_strength": 105.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0xa72e910c6943c0bbcf5a572269580000d18c30cf61dca1fa72fbfe00ebbccce4",
     "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
@@ -27884,5 +27670,93 @@
     "market": "Dota 2: Nigma Galaxy vs Natus Vincere - Game 1 Winner",
     "market_slug": "dota2-ngx-navi-2026-06-23",
     "amount": 2888.4275000000002
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x891a4f4055dbc1377a02e4a4667cadfb7e30cf872e112500b52edc1b7fcb184e",
+    "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+    "trader": {
+      "rank": 16,
+      "address": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+      "username": "KeyTransporter",
+      "profit": 5711459.802519929,
+      "volume": 20086062.154324993,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xe9076a87c5ed90ef16e6fe6529c943baeca0cff6",
+      "side": "BUY",
+      "asset": "63611572432092712507452794046269856873324193737948513078896856667745770559698",
+      "conditionId": "0xff1ec56e0e47033727e33deab740896fbf1c6bb8a2b0068efdba3d900c7ba7a2",
+      "size": 4392.035712,
+      "price": 0.8399999999817852,
+      "timestamp": 1782243338,
+      "title": "Will England win on 2026-06-23?",
+      "slug": "fifwc-eng-gha-2026-06-23-eng",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-eng-gha-2026-06-23",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "suntori",
+      "pseudonym": "All-Peasant-Drug",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x891a4f4055dbc1377a02e4a4667cadfb7e30cf872e112500b52edc1b7fcb184e",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will England win on 2026-06-23?",
+    "market_slug": "fifwc-eng-gha-2026-06-23",
+    "amount": 3689.3099979999997
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x6393c6d6f63003935895a16ef1f48323ce37914e4ca4dfd8d839d7aa608129a0",
+    "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+    "trader": {
+      "rank": 16,
+      "address": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+      "username": "KeyTransporter",
+      "profit": 5711459.802519929,
+      "volume": 20086062.154324993,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x63a780eb183347b7ff71a5e9b61e3ceb7e653bb2",
+      "side": "BUY",
+      "asset": "4929265058712237986165243698024147663126474513820704414407061302340811305515",
+      "conditionId": "0xb312e27945a29c469183912dec93d4eccdad5cf16fdf6f26ca57753370278999",
+      "size": 7692.307691,
+      "price": 0.3899999999363,
+      "timestamp": 1782243338,
+      "title": "Spread: England (-2.5)",
+      "slug": "fifwc-eng-gha-2026-06-23-spread-home-2pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-eng-gha-2026-06-23-more-markets",
+      "outcome": "England",
+      "outcomeIndex": 0,
+      "name": "Poisedmule",
+      "pseudonym": "Criminal-Marines",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x6393c6d6f63003935895a16ef1f48323ce37914e4ca4dfd8d839d7aa608129a0",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spread: England (-2.5)",
+    "market_slug": "fifwc-eng-gha-2026-06-23-more-markets",
+    "amount": 2999.999999
   }
 ]
