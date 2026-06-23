@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xa72e910c6943c0bbcf5a572269580000d18c30cf61dca1fa72fbfe00ebbccce4",
-    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
-    "trader": {
-      "rank": 11,
-      "address": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
-      "username": "BetTom42",
-      "profit": 5642135.735356,
-      "volume": 11212839.523403,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x5bac37ae4b985011e34862ec14c3ae72ebbf8769",
-      "side": "BUY",
-      "asset": "12788726080058661594808252973556519084186112914380703737448250849988276926222",
-      "conditionId": "0x80e9c8ac70e30b71e4e926278af11366d47d910f8c9ca89f6f9b20e8643523c7",
-      "size": 9559.884624,
-      "price": 0.25999999993344,
-      "timestamp": 1774911481,
-      "title": "US Men's Clay Court Championships: Alex Bolt vs Yibing Wu",
-      "slug": "atp-bolt-wu-2026-03-30",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
-      "eventSlug": "atp-bolt-wu-2026-03-30",
-      "outcome": "Alex Bolt",
-      "outcomeIndex": 0,
-      "name": "0xBumblebee",
-      "pseudonym": "Pungent-Vulture",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-4187284-efa38349-4f1f-423b-b045-21db10b3e9ae.jpg",
-      "profileImageOptimized": "",
-      "transactionHash": "0xa72e910c6943c0bbcf5a572269580000d18c30cf61dca1fa72fbfe00ebbccce4",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "US Men's Clay Court Championships: Alex Bolt vs Yibing Wu",
-    "market_slug": "atp-bolt-wu-2026-03-30",
-    "amount": 2485.570001603694
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xd9514e098a20fdf7f9ef98af8a6a2fbaf12b59f15ed4450879d17ad623fb3feb",
     "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
     "trader": {
@@ -27758,5 +27714,49 @@
     "market": "Spread: England (-2.5)",
     "market_slug": "fifwc-eng-gha-2026-06-23-more-markets",
     "amount": 2999.999999
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x132b2f262af3aa13461f6124c45d4f087f2c36ca764c5891ca6a9f1e452f771e",
+    "wallet": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+    "trader": {
+      "rank": 14,
+      "address": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+      "username": "PrincessCaro",
+      "profit": 6083643.099591745,
+      "volume": 23520809.952867,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+      "side": "BUY",
+      "asset": "82016389262379330340736621792025745503113502395058931701155883318826172613544",
+      "conditionId": "0xda6877018e52e9624d651fc905ec01b9e5b86eb25c8ea03fdd3fa3027ddcf803",
+      "size": 7480,
+      "price": 0.5,
+      "timestamp": 1782258652,
+      "title": "Milwaukee Brewers vs. Cincinnati Reds",
+      "slug": "mlb-mil-cin-2026-06-23",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
+      "eventSlug": "mlb-mil-cin-2026-06-23",
+      "outcome": "Cincinnati Reds",
+      "outcomeIndex": 1,
+      "name": "wr0ngw4yb3tt0r",
+      "pseudonym": "Unwieldy-Supporter",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x132b2f262af3aa13461f6124c45d4f087f2c36ca764c5891ca6a9f1e452f771e",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Milwaukee Brewers vs. Cincinnati Reds",
+    "market_slug": "mlb-mil-cin-2026-06-23",
+    "amount": 3740.0
   }
 ]
