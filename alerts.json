@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x8baeb23b917fa3c43d1f7c01b1c37acfeec58337d54e5ecbb26d4f22f7e6a1c5",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.51568201,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x39d3c773be30fcc73161fc6768f46d563a779ef0",
-      "side": "BUY",
-      "asset": "97936614753375633992468166242953228698246471521082739638918692000157445482629",
-      "conditionId": "0x1d982fbf6f181a49924073683a63cb96ed540733e2c464cc068a10f21fdb108c",
-      "size": 2720,
-      "price": 0.25,
-      "timestamp": 1774899177,
-      "title": "Credit One Charleston Open: Viktoriya Tomova vs Jennifer Brady",
-      "slug": "wta-tomova-brady-2026-03-30",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wta-logo-41f331bdf1.png",
-      "eventSlug": "wta-tomova-brady-2026-03-30",
-      "outcome": "Jennifer Brady",
-      "outcomeIndex": 1,
-      "name": "matanovik",
-      "pseudonym": "Lost-Property",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x8baeb23b917fa3c43d1f7c01b1c37acfeec58337d54e5ecbb26d4f22f7e6a1c5",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Credit One Charleston Open: Viktoriya Tomova vs Jennifer Brady",
-    "market_slug": "wta-tomova-brady-2026-03-30",
-    "amount": 2040.0
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x8f61a2533f116d68ca85762fb97a476edc1ef5ea6238a67a24097651713af92a",
     "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
     "trader": {
@@ -27949,5 +27905,49 @@
     "market": "Norway vs. Senegal: O/U 8.5 Total Corners",
     "market_slug": "fifwc-nor-sen-2026-06-22-total-corners",
     "amount": 2077.05
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xdcff4db367dd9a1c8ed912e851f8d3d65e5c29670d2847406f3bb0e400ebb18e",
+    "wallet": "0x3f87d51f27ba6e19ec52aaeebb68559a839c742c",
+    "trader": {
+      "rank": 11,
+      "address": "0x3f87d51f27ba6e19ec52aaeebb68559a839c742c",
+      "username": "GRIMDRIP",
+      "profit": 7602742.057861,
+      "volume": 13603969.275332,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xaa075924e1dc7cff3b9fab67401126338c4d2125",
+      "side": "BUY",
+      "asset": "44557522756378305472349629518020150196066957589276277759534928299354781448740",
+      "conditionId": "0xc3a2899b4095335eacb14f575465937113e3767e8e3b4407ffa28441db0be872",
+      "size": 53476.3,
+      "price": 0.55,
+      "timestamp": 1782228326,
+      "title": "Spread: Portugal (-2.5)",
+      "slug": "fifwc-prt-uzb-2026-06-23-spread-home-2pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-prt-uzb-2026-06-23-more-markets",
+      "outcome": "Uzbekistan",
+      "outcomeIndex": 1,
+      "name": "rustin",
+      "pseudonym": "Wrathful-Denominator",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xdcff4db367dd9a1c8ed912e851f8d3d65e5c29670d2847406f3bb0e400ebb18e",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spread: Portugal (-2.5)",
+    "market_slug": "fifwc-prt-uzb-2026-06-23-more-markets",
+    "amount": 29411.965000000004
   }
 ]
