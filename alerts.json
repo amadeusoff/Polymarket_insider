@@ -1,113 +1,5 @@
 [
   {
-    "market": "Celtics vs. Hawks",
-    "market_slug": "nba-bos-atl-2026",
-    "event_slug": "nba-bos-atl-2026",
-    "wallet": "0x7aeab32f78e89c58c6adccf1b3e75fbf2e2e0b5a",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($2,875)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 2874.779999,
-      "odds": 0.4570100985191383,
-      "raw_price": 0.4570100985191383,
-      "outcome": "Celtics",
-      "potential_pnl": 3415.628043,
-      "pnl_multiplier": 1.188135455300279,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-03-30T17:37:09.449665",
-    "trade_hash": "0xabed191b73c0a3e018cc7409d4fe2c0d17b0478005c317eb1bc5b98b23384072",
-    "trade_timestamp": 1774891921,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Celtics",
-      "outcomeIndex": 0,
-      "normalized_position": "YES",
-      "side": "BUY",
-      "price": 0.4570100985191383,
-      "effective_price": 0.4570100985191383,
-      "size": 6290.408042,
-      "amount": 2874.779999,
-      "potential_pnl": 3415.628043,
-      "pnl_multiplier": 1.188135455300279,
-      "is_no": false,
-      "slug": "nba-bos-atl-2026",
-      "eventSlug": "nba-bos-atl-2026-03-30"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+22.6%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.23140201970382765,
-      "market_price": 0.4570100985191383,
-      "edge": 0.22560807881531067,
-      "edge_percent": 22.560807881531066,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Celtics maintain their current roster health",
-          "Hawks underperform in key matchups",
-          "Celtics capitalize on home court advantage"
-        ],
-        "weakest_link": "Hawks underperform in key matchups"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Celtics' playoff performance history",
-        "Hawks' recent struggles against top teams"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "CONFLICT",
-      "signal_emoji": "\u26a0\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider buying YES despite statistical overpricing",
-      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
-      "insider_score": 70,
-      "insider_position": "YES",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.22560807881531067,
-      "edge_percent": 22.560807881531066
-    },
-    "log_only": true,
-    "financial_analyst": {
-      "signal_quality": 46.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 22.56,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0x8baeb23b917fa3c43d1f7c01b1c37acfeec58337d54e5ecbb26d4f22f7e6a1c5",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
@@ -28013,5 +27905,49 @@
     "market": "Norway vs. Senegal: O/U 2.5",
     "market_slug": "fifwc-nor-sen-2026-06-22-more-markets",
     "amount": 2538.07
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xdefe5260d1d62da603415f9929e8b60c340007a08ed27a2c126f386b4d9d1e00",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+      "side": "BUY",
+      "asset": "82739957102953757543309818493610285621028425291587042571673390703283997268741",
+      "conditionId": "0xf48ad0eb1b5747b5d819ca9e1b20465e1b67b3334ca23b6f0378b1a8e3b42879",
+      "size": 3405,
+      "price": 0.61,
+      "timestamp": 1782177860,
+      "title": "Norway vs. Senegal: O/U 8.5 Total Corners",
+      "slug": "fifwc-nor-sen-2026-06-22-corners-total-8pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-nor-sen-2026-06-22-total-corners",
+      "outcome": "Under",
+      "outcomeIndex": 1,
+      "name": "curie",
+      "pseudonym": "Illiterate-Counterforce",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xdefe5260d1d62da603415f9929e8b60c340007a08ed27a2c126f386b4d9d1e00",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Norway vs. Senegal: O/U 8.5 Total Corners",
+    "market_slug": "fifwc-nor-sen-2026-06-22-total-corners",
+    "amount": 2077.05
   }
 ]
