@@ -1,94 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x839e374c96bbb13eef13ba57a024228119b76e62e15f3356610eeaa822dedc0e",
-    "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
-    "trader": {
-      "rank": 10,
-      "address": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
-      "username": "KeyTransporter",
-      "profit": 5711459.802519929,
-      "volume": 20086062.154324997,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x0c9075f0d9a0dfffef8a1baf03c65c41bad05bac",
-      "side": "BUY",
-      "asset": "50759309991894829382859889375171259001219178302633732845644106567427462327460",
-      "conditionId": "0xbc8cb64b9776884fc7de2fc9bf0ca5aaa1c7e64bee609596fa4f47b286d96b97",
-      "size": 2000,
-      "price": 0.23951995,
-      "timestamp": 1774952299,
-      "title": "Betmoar FDV above $20M one day after launch?",
-      "slug": "betmoar-fdv-above-20m-one-day-after-launch",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-betmoar-launch-a-token-by-fbpu0dp2LXUk.jpg",
-      "eventSlug": "betmoar-fdv-above-one-day-after-launch",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "tombac",
-      "pseudonym": "Paltry-Baker",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-6214887-f6f54b68-eab8-46be-9060-4604b95fc523.webp",
-      "profileImageOptimized": "",
-      "transactionHash": "0x839e374c96bbb13eef13ba57a024228119b76e62e15f3356610eeaa822dedc0e",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Betmoar FDV above $20M one day after launch?",
-    "market_slug": "betmoar-fdv-above-one-day-after-launch",
-    "amount": 1520.9601
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x1c6eb3692cd7238118b70a6040dc9fe28b5a7681c76edcf18f79de95ca6db921",
-    "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
-    "trader": {
-      "rank": 19,
-      "address": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
-      "username": "beachboy4",
-      "profit": 4141853.1506849956,
-      "volume": 199137316.59853497,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x35bbbad2415fe5e39b12da9a316cdc80b022009b",
-      "side": "BUY",
-      "asset": "44149007410374101286260953227333745102128417138356632089802983317837574022801",
-      "conditionId": "0x80059ff4e694f878c0498f6f3a067ee7ca62dc2fc46251a4287b58355ce47bc5",
-      "size": 4227.71,
-      "price": 0.37,
-      "timestamp": 1774979311,
-      "title": "US x Iran ceasefire by April 30?",
-      "slug": "us-x-iran-ceasefire-by-april-30-194-679-389",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-ceasefire-by-Cgmx3GCuOwjs.jpg",
-      "eventSlug": "us-x-iran-ceasefire-by",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "MisTKy",
-      "pseudonym": "Grounded-Depression",
-      "bio": "Follow on X for more",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-5070263-f290eb6b-11db-423d-b532-cd773195842b.jpg",
-      "profileImageOptimized": "",
-      "transactionHash": "0x1c6eb3692cd7238118b70a6040dc9fe28b5a7681c76edcf18f79de95ca6db921",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "US x Iran ceasefire by April 30?",
-    "market_slug": "us-x-iran-ceasefire-by",
-    "amount": 1564.2527
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xfa29fc9fd10c9d145dbdcf4f7554737858995bf0dabd45c9260b1bdaac18464c",
     "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
     "trader": {
@@ -27818,5 +27730,93 @@
     "market": "Scotland vs. Brazil: O/U 2.5",
     "market_slug": "fifwc-sco-bra-2026-06-24-more-markets",
     "amount": 1999.999999
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x305c2715b5892401d8ec11279dd4021fd0e73a7f5448d2ce7e2fea58c0a46a7c",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x91d757346e322976a9544dd07b9b7e3f58550dfc",
+      "side": "SELL",
+      "asset": "73210623348179094273085409461750642637352547099464155329401469507785567728229",
+      "conditionId": "0x211cc9763666374780fb2878ee245a1cb4e27f867ab6caeed579747a5ebacf1f",
+      "size": 2555,
+      "price": 0.8452113111545988,
+      "timestamp": 1782333983,
+      "title": "Spread: Bosnia and Herzegovina (-1.5)",
+      "slug": "fifwc-bih-qat-2026-06-24-spread-home-1pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-bih-qat-2026-06-24-more-markets",
+      "outcome": "Bosnia and Herzegovina",
+      "outcomeIndex": 0,
+      "name": "cobaltharborfmz",
+      "pseudonym": "Forsaken-Meridian",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x305c2715b5892401d8ec11279dd4021fd0e73a7f5448d2ce7e2fea58c0a46a7c",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spread: Bosnia and Herzegovina (-1.5)",
+    "market_slug": "fifwc-bih-qat-2026-06-24-more-markets",
+    "amount": 2159.5149
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x879dd304a9a84fef99f4b56acfa27d8d2facf6dd2403719c66a2784c33765935",
+    "wallet": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
+    "trader": {
+      "rank": 4,
+      "address": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
+      "username": "kch123",
+      "profit": 11364283.506714549,
+      "volume": 293637557.8726109,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x6e87cdc6391561518459a9e3672f7bb8f49fda91",
+      "side": "BUY",
+      "asset": "52345319584298671384241333674201063268836142597903677481641810116870044724915",
+      "conditionId": "0xd14544ac7360f37de17eb6a442694de21a8c5ea01714323be6409b002c4d7d7d",
+      "size": 3728.52,
+      "price": 0.75,
+      "timestamp": 1782334615,
+      "title": "Will Brazil win on 2026-06-24?",
+      "slug": "fifwc-sco-bra-2026-06-24-bra",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-sco-bra-2026-06-24",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "",
+      "pseudonym": "",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x879dd304a9a84fef99f4b56acfa27d8d2facf6dd2403719c66a2784c33765935",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Brazil win on 2026-06-24?",
+    "market_slug": "fifwc-sco-bra-2026-06-24",
+    "amount": 2796.39
   }
 ]
