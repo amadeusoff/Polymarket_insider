@@ -1,94 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xfa29fc9fd10c9d145dbdcf4f7554737858995bf0dabd45c9260b1bdaac18464c",
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "trader": {
-      "rank": 12,
-      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-      "username": "swisstony",
-      "profit": 5589555.5041189,
-      "volume": 609308802.233076,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xd6a3f0ec6c4a8ad680d580610c82ca57ff139489",
-      "side": "BUY",
-      "asset": "111199352781941517928446270722541788533347630079537022109358230447620429784331",
-      "conditionId": "0xa1f669d4b43ef25decb44e6c56b726ccfe9fc78c3b9ae0c8399f032e522b9d84",
-      "size": 3036.423726,
-      "price": 0.5899999998880262,
-      "timestamp": 1774988015,
-      "title": "Will Japan win on 2026-03-31?",
-      "slug": "fif-eng-jpn-2026-03-31-jpn",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/fif.png",
-      "eventSlug": "fif-eng-jpn-2026-03-31",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "knedloveprovelo",
-      "pseudonym": "Weighty-Rifle",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xfa29fc9fd10c9d145dbdcf4f7554737858995bf0dabd45c9260b1bdaac18464c",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Japan win on 2026-03-31?",
-    "market_slug": "fif-eng-jpn-2026-03-31",
-    "amount": 1791.489998
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x99a097745a75fcf8cde34ca84c4f218aa0550178a0f140c5a07084a760e76451",
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "trader": {
-      "rank": 12,
-      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-      "username": "swisstony",
-      "profit": 5589555.5041189,
-      "volume": 609308802.233076,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x12d58a3a1ca80afac28ea43e67e5c65a19c48107",
-      "side": "SELL",
-      "asset": "38022285143811019504150836638332107856890739154750615708150828571895447353900",
-      "conditionId": "0x11a18ba621697cb743407ee6bc22dee0b8ead2fa4b05e3eb0f6655800755df04",
-      "size": 4463.3,
-      "price": 0.5180970582304573,
-      "timestamp": 1774988015,
-      "title": "Sweden vs. Poland: O/U 4.5",
-      "slug": "uef-swe-pol-2026-03-31-total-4pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/uef.png",
-      "eventSlug": "uef-swe-pol-2026-03-31-more-markets",
-      "outcome": "Over",
-      "outcomeIndex": 0,
-      "name": "socfan",
-      "pseudonym": "Flustered-Inversion",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x99a097745a75fcf8cde34ca84c4f218aa0550178a0f140c5a07084a760e76451",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Sweden vs. Poland: O/U 4.5",
-    "market_slug": "uef-swe-pol-2026-03-31-more-markets",
-    "amount": 2312.4226
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xbb1d3928ed3cd39e79bf66fdd5c3eb392fb43f6b944abdf58c32483330b81ae6",
     "wallet": "0xd0c042c08f755ff940249f62745e82d356345565",
     "trader": {
@@ -27818,5 +27730,93 @@
     "market": "Will Brazil win on 2026-06-24?",
     "market_slug": "fifwc-sco-bra-2026-06-24",
     "amount": 2796.39
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x4cb4bce97bef0cdff9c26c0cbb26e9bf53ab05bd604d94b4761a63d5ecefbe34",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x454329bf4e237b7059244cfb3891337a2faf72d1",
+      "side": "BUY",
+      "asset": "66485420522892497058747540584233041508166845493954393293856727385185345251173",
+      "conditionId": "0xdb5f464e5b43e4f5918beeb75bb32e4db927b8d163079155f37e7f5c5d9261ba",
+      "size": 7575.757573,
+      "price": 0.65999999997624,
+      "timestamp": 1782339718,
+      "title": "Scotland vs. Brazil: O/U 2.5",
+      "slug": "fifwc-sco-bra-2026-06-24-total-2pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-sco-bra-2026-06-24-more-markets",
+      "outcome": "Over",
+      "outcomeIndex": 0,
+      "name": "mmrm2",
+      "pseudonym": "Creepy-Stone",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x4cb4bce97bef0cdff9c26c0cbb26e9bf53ab05bd604d94b4761a63d5ecefbe34",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Scotland vs. Brazil: O/U 2.5",
+    "market_slug": "fifwc-sco-bra-2026-06-24-more-markets",
+    "amount": 4999.999998
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x2bda1ef4a96f8b0d82c4eaef3c8f8a787f50cf98fb43fe048564b0c81e7e2811",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x360742512c3e1544de6453215eb9d745ca89d3ff",
+      "side": "BUY",
+      "asset": "56429632296419711982737731557144946872617775430666911420758144436256343301551",
+      "conditionId": "0xf0164e968314bae58a0440248e2abd20ee9e4704df2b24c98c50072006b26315",
+      "size": 11280.21,
+      "price": 0.71,
+      "timestamp": 1782339718,
+      "title": "Spread: Morocco (-1.5)",
+      "slug": "fifwc-mar-hai-2026-06-24-spread-home-1pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-mar-hai-2026-06-24-more-markets",
+      "outcome": "Haiti",
+      "outcomeIndex": 1,
+      "name": "Pickleball-K",
+      "pseudonym": "Little-Subsidy",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x2bda1ef4a96f8b0d82c4eaef3c8f8a787f50cf98fb43fe048564b0c81e7e2811",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spread: Morocco (-1.5)",
+    "market_slug": "fifwc-mar-hai-2026-06-24-more-markets",
+    "amount": 8008.949099999999
   }
 ]
