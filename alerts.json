@@ -1,94 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xd9514e098a20fdf7f9ef98af8a6a2fbaf12b59f15ed4450879d17ad623fb3feb",
-    "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
-    "trader": {
-      "rank": 19,
-      "address": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
-      "username": "beachboy4",
-      "profit": 4141852.968866816,
-      "volume": 199137316.59853497,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x8a6c6811e8937f9e8afc1b9249fa540262c30b3f",
-      "side": "BUY",
-      "asset": "32832907394454432307120525920312348331425301367048726077404174311648945918531",
-      "conditionId": "0x92abe08d0f02ea17334984d2c8dfd6173003cebbd52d4ce5132eb2a266f0792e",
-      "size": 9730.421577,
-      "price": 0.50999999998266,
-      "timestamp": 1774913581,
-      "title": "Spread: Timberwolves (-8.5)",
-      "slug": "nba-min-dal-2026-03-30-spread-away-8pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-min-dal-2026-03-30",
-      "outcome": "Timberwolves",
-      "outcomeIndex": 0,
-      "name": "0x8a6C6811e8937F9E8aFc1b9249FA540262c30b3f-1771776258725",
-      "pseudonym": "Rare-Dishwasher",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xd9514e098a20fdf7f9ef98af8a6a2fbaf12b59f15ed4450879d17ad623fb3feb",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Spread: Timberwolves (-8.5)",
-    "market_slug": "nba-min-dal-2026-03-30",
-    "amount": 4962.515004101274
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x7874e3f146b4ea0e3f6ddc6253be4f69fe647dd00ee3bfdfd5f7da29984a65e1",
-    "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
-    "trader": {
-      "rank": 19,
-      "address": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
-      "username": "beachboy4",
-      "profit": 4141852.968866816,
-      "volume": 199137316.59853497,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xd6966eb1ae7b52320ba7ab1016680198c9e08a49",
-      "side": "BUY",
-      "asset": "51759907851946476798459406565393737772551997792655053440600013885668931375484",
-      "conditionId": "0x318fcd38de59d70dbf5977cb465ab7744cbfdb5b3986a834c6a349a74c8e1081",
-      "size": 4939.15148,
-      "price": 0.49,
-      "timestamp": 1774913581,
-      "title": "Suns vs. Grizzlies: O/U 227.5",
-      "slug": "nba-phx-mem-2026-03-30-total-227pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-phx-mem-2026-03-30",
-      "outcome": "Under",
-      "outcomeIndex": 1,
-      "name": "EIf",
-      "pseudonym": "Short-Term-Valance",
-      "bio": "You know who I am",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-2970187-7a242ca5-ce20-4cbd-a772-b93edd01736c.png",
-      "profileImageOptimized": "",
-      "transactionHash": "0x7874e3f146b4ea0e3f6ddc6253be4f69fe647dd00ee3bfdfd5f7da29984a65e1",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Suns vs. Grizzlies: O/U 227.5",
-    "market_slug": "nba-phx-mem-2026-03-30",
-    "amount": 2518.9672548000003
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x839e374c96bbb13eef13ba57a024228119b76e62e15f3356610eeaa822dedc0e",
     "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
     "trader": {
@@ -27758,5 +27670,153 @@
     "market": "Milwaukee Brewers vs. Cincinnati Reds",
     "market_slug": "mlb-mil-cin-2026-06-23",
     "amount": 3740.0
+  },
+  {
+    "market": "Will Gadi Eizenkot be the next Prime Minister of Israel?",
+    "market_slug": "will-gadi-eizenkot-be-the-next-prime-minister-of-israel",
+    "event_slug": "will-gadi-eizenkot-be-the-next-prime-minister-of-israel",
+    "wallet": "0xc5541f46059d08905b756491a11aa5238c1bdc81",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($3,849)",
+        "Low activity (2 txns)"
+      ],
+      "amount": 3849.20404,
+      "odds": 0.37403450380136505,
+      "raw_price": 0.37403450380136505,
+      "outcome": "Yes",
+      "potential_pnl": 6441.83596,
+      "pnl_multiplier": 1.6735501399920594,
+      "wallet_age_days": 0,
+      "total_activities": 2
+    },
+    "timestamp": "2026-06-24T09:35:09.084601",
+    "trade_hash": "0x4abae11c9c8900c997723fa9957ff7c92d72227e5ca67a94af3f908bf65166d0",
+    "trade_timestamp": 1782293194,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.37403450380136505,
+      "effective_price": 0.37403450380136505,
+      "size": 10291.04,
+      "amount": 3849.20404,
+      "potential_pnl": 6441.83596,
+      "pnl_multiplier": 1.6735501399920594,
+      "is_no": false,
+      "slug": "will-gadi-eizenkot-be-the-next-prime-minister-of-israel",
+      "eventSlug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election"
+    },
+    "irrationality": {
+      "irrationality_score": 15,
+      "flags": [
+        "Category structurally prone to longshot bias"
+      ],
+      "category": "geopolitics",
+      "category_info": {
+        "strength": "high",
+        "typical_overpricing": 0.05,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.338613801520546,
+      "market_price": 0.37403450380136505,
+      "edge": 0.03542070228081906,
+      "edge_percent": 3.542070228081906,
+      "min_edge_required": 0.05,
+      "is_mispriced": false,
+      "edge_quality": "WEAK",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "geopolitics",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 15,
+      "is_irrational": false,
+      "is_mispriced": false,
+      "edge": 0.03542070228081906,
+      "edge_percent": 3.542070228081906
+    },
+    "financial_analyst": {
+      "signal_quality": 27.3,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 3.54,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xb298a3e792311f1619e727f47ced3829ba02343368de9138343e4694bb0424a3",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x1e3b6822abfb39331b863eb729cdc251f607c850",
+      "side": "BUY",
+      "asset": "66485420522892497058747540584233041508166845493954393293856727385185345251173",
+      "conditionId": "0xdb5f464e5b43e4f5918beeb75bb32e4db927b8d163079155f37e7f5c5d9261ba",
+      "size": 3703.703702,
+      "price": 0.5399999999784,
+      "timestamp": 1782293476,
+      "title": "Scotland vs. Brazil: O/U 2.5",
+      "slug": "fifwc-sco-bra-2026-06-24-total-2pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-sco-bra-2026-06-24-more-markets",
+      "outcome": "Over",
+      "outcomeIndex": 0,
+      "name": "saintQ",
+      "pseudonym": "Poised-Hop",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xb298a3e792311f1619e727f47ced3829ba02343368de9138343e4694bb0424a3",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Scotland vs. Brazil: O/U 2.5",
+    "market_slug": "fifwc-sco-bra-2026-06-24-more-markets",
+    "amount": 1999.999999
   }
 ]
