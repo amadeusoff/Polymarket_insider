@@ -1,164 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x71ff526edac1dadb7cb8e25058624e7b1e5ef36fc1b0f04dba34097ef612f452",
-    "wallet": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
-    "trader": {
-      "rank": 3,
-      "address": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
-      "username": "kch123",
-      "profit": 10935699.447613182,
-      "volume": 268213276.620331,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x1d66ba6af652edd656de16ebef49fe9c70d07799",
-      "side": "BUY",
-      "asset": "48076860968282907708377646762774445117741960723888576239822628617000344114984",
-      "conditionId": "0x3215685766ee786bc4be99701dfd8c37d89fdfccde189ccc95e9ee6b4f68e113",
-      "size": 4673.05,
-      "price": 0.46,
-      "timestamp": 1774998219,
-      "title": "Suns vs. Magic",
-      "slug": "nba-phx-orl-2026-03-31",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-phx-orl-2026-03-31",
-      "outcome": "Suns",
-      "outcomeIndex": 0,
-      "name": "0x1D66BA6af652edd656DE16ebef49fe9c70D07799-1774448658353",
-      "pseudonym": "Submissive-Wallaby",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x71ff526edac1dadb7cb8e25058624e7b1e5ef36fc1b0f04dba34097ef612f452",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Suns vs. Magic",
-    "market_slug": "nba-phx-orl-2026-03-31",
-    "amount": 2149.603
-  },
-  {
-    "market": "US x Iran ceasefire by April 7?",
-    "market_slug": "us-x-iran-ceasefire-by-april",
-    "event_slug": "us-x-iran-ceasefire-by-april",
-    "wallet": "0x3080ab8ddb156f635ece429b902a26047adc971b",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "Against trend (6.0% effective odds)",
-        "Large bet ($2,380)",
-        "Pre-event latency: 8147m"
-      ],
-      "amount": 2380.3224,
-      "odds": 0.05950806,
-      "raw_price": 0.05950806,
-      "outcome": "Yes",
-      "potential_pnl": 37619.6776,
-      "pnl_multiplier": 15.804446322061247,
-      "wallet_age_days": 15,
-      "total_activities": 100
-    },
-    "timestamp": "2026-04-01T08:19:04.492631",
-    "trade_hash": "0x06e27e0f98c4d61aec4c3783f054530ead751fce3ec14b3e5f1cddd1ebedd0bf",
-    "trade_timestamp": 1775031177,
-    "latency": {
-      "latency_seconds": 488823.0,
-      "latency_minutes": 8147.05,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-04-01T08:12:57+00:00",
-      "event_time": "2026-04-07T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "normalized_position": "YES",
-      "side": "SELL",
-      "price": 0.05950806,
-      "effective_price": 0.05950806,
-      "size": 40000.0,
-      "amount": 2380.3224,
-      "potential_pnl": 37619.6776,
-      "pnl_multiplier": 15.804446322061247,
-      "is_no": false,
-      "slug": "us-x-iran-ceasefire-by-april",
-      "eventSlug": "us-x-iran-ceasefire-by"
-    },
-    "irrationality": {
-      "irrationality_score": 40,
-      "flags": [
-        "Longshot (6%) in high bias category (geopolitics)",
-        "Category structurally prone to longshot bias"
-      ],
-      "category": "geopolitics",
-      "category_info": {
-        "strength": "high",
-        "typical_overpricing": 0.05,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.035901612,
-      "market_price": 0.05950806,
-      "edge": 0.023606448000000002,
-      "edge_percent": 2.3606448,
-      "min_edge_required": 0.05,
-      "is_mispriced": false,
-      "edge_quality": "WEAK",
-      "base_rate_class": "rare",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "rare",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Mutual agreement on terms of ceasefire",
-          "Reduction in hostilities from both sides",
-          "International pressure or mediation facilitating discussions"
-        ],
-        "weakest_link": "Mutual agreement on terms of ceasefire"
-      },
-      "category": "geopolitics",
-      "narrative_drivers": [
-        "Escalation of conflict leading to increased casualties",
-        "Diplomatic efforts by third-party nations or organizations"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 85,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 85,
-      "insider_position": "YES",
-      "irrationality_score": 40,
-      "is_irrational": true,
-      "is_mispriced": false,
-      "edge": 0.023606448000000002,
-      "edge_percent": 2.3606448
-    },
-    "financial_analyst": {
-      "signal_quality": 33.5,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 2.36,
-      "signal_strength": 85.0,
-      "insider_score": 85.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "market": "Counter-Strike: G2 vs Team Nemesis (BO3) - Stake Ranked Episode 1 Playoffs",
     "market_slug": "cs2-g2-nem-2026",
     "event_slug": "cs2-g2-nem-2026",
@@ -27677,5 +27518,93 @@
     "market": "Will Japan win on 2026-06-25?",
     "market_slug": "fifwc-jpn-swe-2026-06-25",
     "amount": 3001.88
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x4e3c77eb3bed3ae57495a129ad747c582c131766c5f6da24b15f281942d32e81",
+    "wallet": "0xed64a7bf029040aa331abc87902434d815ef217d",
+    "trader": {
+      "rank": 7,
+      "address": "0xed64a7bf029040aa331abc87902434d815ef217d",
+      "username": "fishalive",
+      "profit": 9063378.17620066,
+      "volume": 13281460.374668,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "46418017478244829117932747089683624248579292858236918683397159778129811183207",
+      "conditionId": "0xbc733b27510a37833afa638c3aeabec2811dffbb996c6bd1c735337f13f85bed",
+      "size": 3343.14,
+      "price": 0.53,
+      "timestamp": 1782422020,
+      "title": "Ecuador vs. Germany: O/U 3.5",
+      "slug": "fifwc-ecu-ger-2026-06-25-total-3pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-ecu-ger-2026-06-25-more-markets",
+      "outcome": "Under",
+      "outcomeIndex": 1,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "loincloth chic",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x4e3c77eb3bed3ae57495a129ad747c582c131766c5f6da24b15f281942d32e81",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Ecuador vs. Germany: O/U 3.5",
+    "market_slug": "fifwc-ecu-ger-2026-06-25-more-markets",
+    "amount": 1771.8642
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x32a89342bb9be6ee07b69660abb416a3b539d6297159e3c2abeb079d1f0a3617",
+    "wallet": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+    "trader": {
+      "rank": 16,
+      "address": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+      "username": "walletmobile",
+      "profit": 5942685.45339684,
+      "volume": 32196692.075936034,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "101279272797775203956659007084828831261331275405585994446661991301016814257223",
+      "conditionId": "0xe690620297dfea974d20df84b4cf90460e46a26ec864353482717b90509a3c0b",
+      "size": 10188.254841,
+      "price": 0.37976670778096017,
+      "timestamp": 1782422621,
+      "title": "Will Germany win on 2026-06-25?",
+      "slug": "fifwc-ecu-ger-2026-06-25-ger",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-ecu-ger-2026-06-25",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "loincloth chic",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x32a89342bb9be6ee07b69660abb416a3b539d6297159e3c2abeb079d1f0a3617",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Germany win on 2026-06-25?",
+    "market_slug": "fifwc-ecu-ger-2026-06-25",
+    "amount": 3869.159999
   }
 ]
