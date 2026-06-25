@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x3c074c9ca62afa02374a021f70cff05db1666367649ee3ba94e9a00f30cad966",
-    "wallet": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
-    "trader": {
-      "rank": 3,
-      "address": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
-      "username": "kch123",
-      "profit": 10935699.447613182,
-      "volume": 268213276.620331,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xcfd9567ca07b8fd931cb7f48637963702e61648d",
-      "side": "BUY",
-      "asset": "73699110394980052788001938579708550329317186422700595719894711946843781206501",
-      "conditionId": "0x241e3900bcdba2ba58252a4fcd4b92c5b80606249aa031751bef35b23c44e610",
-      "size": 9070,
-      "price": 0.42,
-      "timestamp": 1774998219,
-      "title": "Senators vs. Panthers: O/U 6.5",
-      "slug": "nhl-ott-fla-2026-03-31-total-6pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nhl.png",
-      "eventSlug": "nhl-ott-fla-2026-03-31",
-      "outcome": "Over",
-      "outcomeIndex": 0,
-      "name": "Tinmannn",
-      "pseudonym": "Ethical-Cupola",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x3c074c9ca62afa02374a021f70cff05db1666367649ee3ba94e9a00f30cad966",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Senators vs. Panthers: O/U 6.5",
-    "market_slug": "nhl-ott-fla-2026-03-31",
-    "amount": 3809.3999999999996
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x71ff526edac1dadb7cb8e25058624e7b1e5ef36fc1b0f04dba34097ef612f452",
     "wallet": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
     "trader": {
@@ -27677,5 +27633,49 @@
     "market": "Dota 2: Virtus.pro vs TEAM VISION (BO3) - The International Europe Closed Qualifier Playoffs",
     "market_slug": "dota2-vp-vsn2-2026-06-25",
     "amount": 2120.2964
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x90361cff84479694bbd17bed2f136666492ed9b8ecf76731b4f7e28519603e40",
+    "wallet": "0xed64a7bf029040aa331abc87902434d815ef217d",
+    "trader": {
+      "rank": 7,
+      "address": "0xed64a7bf029040aa331abc87902434d815ef217d",
+      "username": "fishalive",
+      "profit": 9063378.17620066,
+      "volume": 13281460.374668,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "19056046558166616177125992986908450328347851423042233479789993394270100295648",
+      "conditionId": "0xe1bd581c13be7103749ca1a64d21230ed6693a162fc057d81e3d1e9237fc81f8",
+      "size": 6040,
+      "price": 0.497,
+      "timestamp": 1782408514,
+      "title": "Will Japan win on 2026-06-25?",
+      "slug": "fifwc-jpn-swe-2026-06-25-jpn",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-jpn-swe-2026-06-25",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "loincloth chic",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x90361cff84479694bbd17bed2f136666492ed9b8ecf76731b4f7e28519603e40",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Japan win on 2026-06-25?",
+    "market_slug": "fifwc-jpn-swe-2026-06-25",
+    "amount": 3001.88
   }
 ]
