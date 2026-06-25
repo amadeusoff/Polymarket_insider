@@ -1,202 +1,5 @@
 [
   {
-    "market": "Counter-Strike: G2 vs Team Nemesis (BO3) - Stake Ranked Episode 1 Playoffs",
-    "market_slug": "cs2-g2-nem-2026",
-    "event_slug": "cs2-g2-nem-2026",
-    "wallet": "0x8832d4ca3b0458f2adceaa23cc9cecef87f505e7",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,900)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 1900.2851410004203,
-      "odds": 0.8599999999549337,
-      "raw_price": 0.8599999999549337,
-      "outcome": "G2",
-      "potential_pnl": 309.34874399957994,
-      "pnl_multiplier": 0.16279069773535187,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-04-01T09:38:00.951723",
-    "trade_hash": "0x3f1877be705ab4e835cab5377914b6dc241f073a89e8a55fb8f403502790bd36",
-    "trade_timestamp": 1775036095,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "G2",
-      "outcomeIndex": 0,
-      "normalized_position": "YES",
-      "side": "BUY",
-      "price": 0.8599999999549337,
-      "effective_price": 0.8599999999549337,
-      "size": 2209.633885,
-      "amount": 1900.2851410004203,
-      "potential_pnl": 309.34874399957994,
-      "pnl_multiplier": 0.16279069773535187,
-      "is_no": false,
-      "slug": "cs2-g2-nem-2026",
-      "eventSlug": "cs2-g2-nem-2026-04-01"
-    },
-    "irrationality": {
-      "irrationality_score": 45,
-      "flags": [
-        "Crisis keyword detected ('strike')",
-        "Large mispricing edge (+54.8%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.3119999999909867,
-      "market_price": 0.8599999999549337,
-      "edge": 0.547999999963947,
-      "edge_percent": 54.799999996394696,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "G2 maintains current form",
-          "Team Nemesis performs above expectations",
-          "External factors (e.g., player health, team morale) remain stable"
-        ],
-        "weakest_link": "Team Nemesis performs above expectations"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "G2's recent performance and consistency",
-        "Team Nemesis's potential for upsets"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "CONFLICT",
-      "signal_emoji": "\u26a0\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider buying YES despite statistical overpricing",
-      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
-      "insider_score": 70,
-      "insider_position": "YES",
-      "irrationality_score": 45,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.547999999963947,
-      "edge_percent": 54.799999996394696
-    },
-    "log_only": true,
-    "financial_analyst": {
-      "signal_quality": 48.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 54.8,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x1c12b57b7c87ef6b943287f12bb256b61369a51cfcd545c0a138ca0689eea082",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xfb512d428db90455c9507d2578cc306b2701082d",
-      "side": "BUY",
-      "asset": "29653368161431757359707812019150169348280532785365423579759279283448584827447",
-      "conditionId": "0xb8dd12575cdd8874b8d9402a4362fbc57e6af3f2b838efeb9e0329f5d9cc8c9e",
-      "size": 3571.38278,
-      "price": 0.3932375695771728,
-      "timestamp": 1775045039,
-      "title": "Hawks vs. Magic",
-      "slug": "nba-atl-orl-2026-04-01",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-atl-orl-2026-04-01",
-      "outcome": "Magic",
-      "outcomeIndex": 1,
-      "name": "",
-      "pseudonym": "",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x1c12b57b7c87ef6b943287f12bb256b61369a51cfcd545c0a138ca0689eea082",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Hawks vs. Magic",
-    "market_slug": "nba-atl-orl-2026-04-01",
-    "amount": 2166.980895563033
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xcbc70b0c64cdb8c9a649b3c15a9b51df90b7d014b5141636a7c25c72dddce7a6",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x86fbea68d619daf670185ecd38a69aa90f7703d4",
-      "side": "BUY",
-      "asset": "29653368161431757359707812019150169348280532785365423579759279283448584827447",
-      "conditionId": "0xb8dd12575cdd8874b8d9402a4362fbc57e6af3f2b838efeb9e0329f5d9cc8c9e",
-      "size": 6137.5,
-      "price": 0.4,
-      "timestamp": 1775045039,
-      "title": "Hawks vs. Magic",
-      "slug": "nba-atl-orl-2026-04-01",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-atl-orl-2026-04-01",
-      "outcome": "Magic",
-      "outcomeIndex": 1,
-      "name": "",
-      "pseudonym": "",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xcbc70b0c64cdb8c9a649b3c15a9b51df90b7d014b5141636a7c25c72dddce7a6",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Hawks vs. Magic",
-    "market_slug": "nba-atl-orl-2026-04-01",
-    "amount": 3682.5
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0x1a50bd16e46dfcc78ce4c78b5ffff61290aadcf17723af44a4f55c788a66d4c9",
     "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
@@ -27606,5 +27409,137 @@
     "market": "Will Germany win on 2026-06-25?",
     "market_slug": "fifwc-ecu-ger-2026-06-25",
     "amount": 3869.159999
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xdbe0b691ccd2c71e45808dadc459d4e063a39271f3370350af77a99863a62ae9",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x0f3433d8b7596000bf1046aa822308d93cf67684",
+      "side": "BUY",
+      "asset": "101491499269793539765890729500440478078979559571972876836355209033272846559170",
+      "conditionId": "0xe1bd581c13be7103749ca1a64d21230ed6693a162fc057d81e3d1e9237fc81f8",
+      "size": 23916,
+      "price": 0.415,
+      "timestamp": 1782427726,
+      "title": "Will Japan win on 2026-06-25?",
+      "slug": "fifwc-jpn-swe-2026-06-25-jpn",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-jpn-swe-2026-06-25",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "",
+      "pseudonym": "",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xdbe0b691ccd2c71e45808dadc459d4e063a39271f3370350af77a99863a62ae9",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Japan win on 2026-06-25?",
+    "market_slug": "fifwc-jpn-swe-2026-06-25",
+    "amount": 9925.14
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x2798bd0079aa9ef7fc88e690e94f65c71a7c7f69049d7cec1c1ac0181f6e59fc",
+    "wallet": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+    "trader": {
+      "rank": 14,
+      "address": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+      "username": "PrincessCaro",
+      "profit": 6083643.099591745,
+      "volume": 23520809.952867005,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xd1c537b2a7cba8d365e111bffb9de7b205e2cbd0",
+      "side": "BUY",
+      "asset": "98785070553306921293238570652395972134731262903524099075568340091694397138534",
+      "conditionId": "0xc3b9ac6f43d878b96c1e6819fe45858920b4ab3d61fdf104ceb78c9813787698",
+      "size": 400000,
+      "price": 0.5,
+      "timestamp": 1782428326,
+      "title": "Japan vs. Sweden: O/U 2.5",
+      "slug": "fifwc-jpn-swe-2026-06-25-total-2pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-jpn-swe-2026-06-25-more-markets",
+      "outcome": "Under",
+      "outcomeIndex": 1,
+      "name": "weatherman12",
+      "pseudonym": "Dirty-Idea",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x2798bd0079aa9ef7fc88e690e94f65c71a7c7f69049d7cec1c1ac0181f6e59fc",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Japan vs. Sweden: O/U 2.5",
+    "market_slug": "fifwc-jpn-swe-2026-06-25-more-markets",
+    "amount": 200000.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xfb8fdf3c86a1bb7730344d8ed0c86d9c43fa3cb4c3f21c60280bdd068feb4e39",
+    "wallet": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+    "trader": {
+      "rank": 14,
+      "address": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+      "username": "PrincessCaro",
+      "profit": 6083643.099591745,
+      "volume": 23520809.952867005,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x406863c0ccf9b575b173251d0ec1433743eea98e",
+      "side": "BUY",
+      "asset": "101491499269793539765890729500440478078979559571972876836355209033272846559170",
+      "conditionId": "0xe1bd581c13be7103749ca1a64d21230ed6693a162fc057d81e3d1e9237fc81f8",
+      "size": 5000,
+      "price": 0.4,
+      "timestamp": 1782428324,
+      "title": "Will Japan win on 2026-06-25?",
+      "slug": "fifwc-jpn-swe-2026-06-25-jpn",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-jpn-swe-2026-06-25",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "",
+      "pseudonym": "",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xfb8fdf3c86a1bb7730344d8ed0c86d9c43fa3cb4c3f21c60280bdd068feb4e39",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Japan win on 2026-06-25?",
+    "market_slug": "fifwc-jpn-swe-2026-06-25",
+    "amount": 2000.0
   }
 ]
