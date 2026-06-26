@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x1a50bd16e46dfcc78ce4c78b5ffff61290aadcf17723af44a4f55c788a66d4c9",
-    "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
-    "trader": {
-      "rank": 13,
-      "address": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
-      "username": "mikatrade77",
-      "profit": 5147998.544602999,
-      "volume": 10884765.388774998,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x1cf58e946147a1d353dfd2d5c153d5be75426440",
-      "side": "SELL",
-      "asset": "106089330606463390094979723214198773666329550032574650943275002629872541877548",
-      "conditionId": "0xecc1044c1b24732e5e29170d92dea903204e196a2b960daf78cb794c2cbb0a19",
-      "size": 20230.91,
-      "price": 0.13,
-      "timestamp": 1775087959,
-      "title": "Kings vs. Raptors",
-      "slug": "nba-sac-tor-2026-04-01",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-sac-tor-2026-04-01",
-      "outcome": "Kings",
-      "outcomeIndex": 0,
-      "name": "BLACKBET",
-      "pseudonym": "Palatable-Availability",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/logo_da91d0a9-d825-41d0-b30e-a6e6769833d7_1734781894482.jpg",
-      "profileImageOptimized": "",
-      "transactionHash": "0x1a50bd16e46dfcc78ce4c78b5ffff61290aadcf17723af44a4f55c788a66d4c9",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Kings vs. Raptors",
-    "market_slug": "nba-sac-tor-2026-04-01",
-    "amount": 2630.0183
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x4c835904897302319d8df33f17d23a0029cccfb08bf0de9feb5fcea8ad357714",
     "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
     "trader": {
@@ -27541,5 +27497,110 @@
     "market": "Will Japan win on 2026-06-25?",
     "market_slug": "fifwc-jpn-swe-2026-06-25",
     "amount": 2000.0
+  },
+  {
+    "market": "Will Portugal win the 2026 FIFA World Cup?",
+    "market_slug": "will-portugal-win-the-2026-fifa-world-cup-912",
+    "event_slug": "will-portugal-win-the-2026-fifa-world-cup-912",
+    "wallet": "0xe92280029a1ff3e956b9b2803ca43789b4a3d3e4",
+    "analysis": {
+      "score": 95,
+      "flags": [
+        "New wallet (1d old)",
+        "Against trend (8.1% effective odds)",
+        "Large bet ($3,077)",
+        "Low activity (4 txns)"
+      ],
+      "amount": 3077.399999,
+      "odds": 0.08099999997707448,
+      "raw_price": 0.08099999997707448,
+      "outcome": "Yes",
+      "potential_pnl": 34915.192592,
+      "pnl_multiplier": 11.34567901583989,
+      "wallet_age_days": 1,
+      "total_activities": 4
+    },
+    "timestamp": "2026-06-26T00:07:15.574399",
+    "trade_hash": "0x5b962c87e23edabd3a2bcdb6767edee1ce1d25132eb5e932e9a5d33536d4c024",
+    "trade_timestamp": 1782431993,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.08099999997707448,
+      "effective_price": 0.08099999997707448,
+      "size": 37992.592591,
+      "amount": 3077.399999,
+      "potential_pnl": 34915.192592,
+      "pnl_multiplier": 11.34567901583989,
+      "is_no": false,
+      "slug": "will-portugal-win-the-2026-fifa-world-cup-912",
+      "eventSlug": "world-cup-winner"
+    },
+    "irrationality": {
+      "irrationality_score": 25,
+      "flags": [
+        "Longshot (8%) in medium bias category (sports)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.0548999999908298,
+      "market_price": 0.08099999997707448,
+      "edge": 0.026099999986244682,
+      "edge_percent": 2.609999998624468,
+      "min_edge_required": 0.05,
+      "is_mispriced": false,
+      "edge_quality": "WEAK",
+      "base_rate_class": "rare",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "rare",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 95,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 95,
+      "insider_position": "YES",
+      "irrationality_score": 25,
+      "is_irrational": false,
+      "is_mispriced": false,
+      "edge": 0.026099999986244682,
+      "edge_percent": 2.609999998624468
+    },
+    "financial_analyst": {
+      "signal_quality": 32.9,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 2.61,
+      "signal_strength": 95.0,
+      "insider_score": 95.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
