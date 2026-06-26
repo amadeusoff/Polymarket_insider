@@ -1,462 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x5c9e4717b490558759fe5f5e10a2d629daf75f9b544ef52f1df2a92ffe4de885",
-    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-    "trader": {
-      "rank": 17,
-      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
-      "profit": 4552141.183965707,
-      "volume": 60070499.453648,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xd8644051d1749bf5771cddf2f822fb7e986a497e",
-      "side": "BUY",
-      "asset": "17137206920857383523614304650148756829688496576722556348226923267242745234263",
-      "conditionId": "0x9df006923390474e5c675296b68396ace48d9ffb013d03472834db11988e0188",
-      "size": 7814.2132,
-      "price": 0.25,
-      "timestamp": 1775116771,
-      "title": "Lakers vs. Thunder",
-      "slug": "nba-lal-okc-2026-04-02",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-lal-okc-2026-04-02",
-      "outcome": "Lakers",
-      "outcomeIndex": 0,
-      "name": "Gambajangle",
-      "pseudonym": "Hideous-Plea",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x5c9e4717b490558759fe5f5e10a2d629daf75f9b544ef52f1df2a92ffe4de885",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Lakers vs. Thunder",
-    "market_slug": "nba-lal-okc-2026-04-02",
-    "amount": 1953.5533
-  },
-  {
-    "market": "Atlanta Braves vs. Arizona Diamondbacks",
-    "market_slug": "mlb-atl-ari-2026",
-    "event_slug": "mlb-atl-ari-2026",
-    "wallet": "0x63a51cbb37341837b873bc29d05f482bc2988e33",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($35,400)",
-        "Low activity (4 txns)"
-      ],
-      "amount": 35400.12264456199,
-      "odds": 0.5325258460183494,
-      "raw_price": 0.5325258460183494,
-      "outcome": "Atlanta Braves",
-      "potential_pnl": 31075.754365438006,
-      "pnl_multiplier": 0.8778431271963891,
-      "wallet_age_days": 0,
-      "total_activities": 4
-    },
-    "timestamp": "2026-04-02T12:03:38.980795",
-    "trade_hash": "0xf991f044397c53002005fc7f6151273b9695a964d7222a65ad6502f6ab00a725",
-    "trade_timestamp": 1775131245,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Atlanta Braves",
-      "outcomeIndex": 0,
-      "normalized_position": "YES",
-      "side": "BUY",
-      "price": 0.5325258460183494,
-      "effective_price": 0.5325258460183494,
-      "size": 66475.87701,
-      "amount": 35400.12264456199,
-      "potential_pnl": 31075.754365438006,
-      "pnl_multiplier": 0.8778431271963891,
-      "is_no": false,
-      "slug": "mlb-atl-ari-2026",
-      "eventSlug": "mlb-atl-ari-2026-04-02"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+28.6%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.24650516920366988,
-      "market_price": 0.5325258460183494,
-      "edge": 0.2860206768146795,
-      "edge_percent": 28.60206768146795,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Braves maintain strong performance",
-          "Diamondbacks underperform",
-          "Injuries to key players on opposing teams"
-        ],
-        "weakest_link": "Injuries to key players on opposing teams"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent performance trends",
-        "Fan sentiment and support"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "CONFLICT",
-      "signal_emoji": "\u26a0\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider buying YES despite statistical overpricing",
-      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
-      "insider_score": 70,
-      "insider_position": "YES",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.2860206768146795,
-      "edge_percent": 28.60206768146795
-    },
-    "log_only": true,
-    "financial_analyst": {
-      "signal_quality": 46.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 28.6,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "Atlanta Braves vs. Arizona Diamondbacks",
-    "market_slug": "mlb-atl-ari-2026",
-    "event_slug": "mlb-atl-ari-2026",
-    "wallet": "0x63a51cbb37341837b873bc29d05f482bc2988e33",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($8,878)",
-        "Low activity (4 txns)"
-      ],
-      "amount": 8877.604696800001,
-      "odds": 0.56,
-      "raw_price": 0.56,
-      "outcome": "Atlanta Braves",
-      "potential_pnl": 6975.2608332,
-      "pnl_multiplier": 0.7857142857142856,
-      "wallet_age_days": 0,
-      "total_activities": 4
-    },
-    "timestamp": "2026-04-02T12:03:43.354249",
-    "trade_hash": "0x0f714a35b93896fe611aa6d511c1ee4433528f1dbd8f7496bce8592c536fbd91",
-    "trade_timestamp": 1775131245,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Atlanta Braves",
-      "outcomeIndex": 0,
-      "normalized_position": "YES",
-      "side": "BUY",
-      "price": 0.56,
-      "effective_price": 0.56,
-      "size": 15852.865530000001,
-      "amount": 8877.604696800001,
-      "potential_pnl": 6975.2608332,
-      "pnl_multiplier": 0.7857142857142856,
-      "is_no": false,
-      "slug": "mlb-atl-ari-2026",
-      "eventSlug": "mlb-atl-ari-2026-04-02"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+30.8%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.252,
-      "market_price": 0.56,
-      "edge": 0.30800000000000005,
-      "edge_percent": 30.800000000000004,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Braves maintain current performance level",
-          "Diamondbacks underperform in upcoming games",
-          "Injuries to key players on opposing teams"
-        ],
-        "weakest_link": "Injuries to key players on opposing teams"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Braves' strong offensive lineup",
-        "Diamondbacks' recent performance fluctuations"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "CONFLICT",
-      "signal_emoji": "\u26a0\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider buying YES despite statistical overpricing",
-      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
-      "insider_score": 70,
-      "insider_position": "YES",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.30800000000000005,
-      "edge_percent": 30.800000000000004
-    },
-    "log_only": true,
-    "financial_analyst": {
-      "signal_quality": 46.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 30.8,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "Canadiens vs. Rangers",
-    "market_slug": "nhl-mon-nyr-2026",
-    "event_slug": "nhl-mon-nyr-2026",
-    "wallet": "0xb1c485195cdf081492273f297ea36b726a12743f",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($3,158)",
-        "Low activity (4 txns)"
-      ],
-      "amount": 3157.92,
-      "odds": 0.54,
-      "raw_price": 0.54,
-      "outcome": "Canadiens",
-      "potential_pnl": 2690.08,
-      "pnl_multiplier": 0.8518518518518519,
-      "wallet_age_days": 0,
-      "total_activities": 4
-    },
-    "timestamp": "2026-04-02T16:34:19.641701",
-    "trade_hash": "0xa3354dc6ed54024e5a730a13d886a714bb35bd2bce331cb1042f500471b33bf7",
-    "trade_timestamp": 1775147523,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Canadiens",
-      "outcomeIndex": 0,
-      "normalized_position": "YES",
-      "side": "BUY",
-      "price": 0.54,
-      "effective_price": 0.54,
-      "size": 5848.0,
-      "amount": 3157.92,
-      "potential_pnl": 2690.08,
-      "pnl_multiplier": 0.8518518518518519,
-      "is_no": false,
-      "slug": "nhl-mon-nyr-2026",
-      "eventSlug": "nhl-mon-nyr-2026-04-02"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+29.2%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.248,
-      "market_price": 0.54,
-      "edge": 0.29200000000000004,
-      "edge_percent": 29.200000000000003,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Canadiens maintain strong performance",
-          "Rangers underperform",
-          "Injury to key players on opposing team"
-        ],
-        "weakest_link": "Rangers underperform"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "team rivalry",
-        "recent performance trends"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "CONFLICT",
-      "signal_emoji": "\u26a0\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider buying YES despite statistical overpricing",
-      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
-      "insider_score": 70,
-      "insider_position": "YES",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.29200000000000004,
-      "edge_percent": 29.200000000000003
-    },
-    "log_only": true,
-    "financial_analyst": {
-      "signal_quality": 46.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 29.2,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x9efbb4fff2f2890d110d5662e79eaee9f1059f682a33631d510a242cae1640ca",
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "trader": {
-      "rank": 11,
-      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-      "username": "swisstony",
-      "profit": 5684200.214877697,
-      "volume": 613553433.8129011,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x9cb990f1862568a63d8601efeebe0304225c32f2",
-      "side": "BUY",
-      "asset": "15341974313022947653299634710256021008261096970489668375392107094324100282893",
-      "conditionId": "0x2813d3e229eb2e6f831f7061a9f4ad840bdf1c8141251091448c286241473151",
-      "size": 52000,
-      "price": 0.49,
-      "timestamp": 1775147981,
-      "title": "Capitals vs. Devils",
-      "slug": "nhl-wsh-nj-2026-04-02",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nhl.png",
-      "eventSlug": "nhl-wsh-nj-2026-04-02",
-      "outcome": "Capitals",
-      "outcomeIndex": 0,
-      "name": "jtwyslljy",
-      "pseudonym": "Grateful-Chest",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x9efbb4fff2f2890d110d5662e79eaee9f1059f682a33631d510a242cae1640ca",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Capitals vs. Devils",
-    "market_slug": "nhl-wsh-nj-2026-04-02",
-    "amount": 25480.0
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xe355a514b51092fc52a1c532a55208f5596744ec4fc35d3f815e08bab5363794",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x37e4728b3c4607fb2b3b205386bb1d1fb1a8c991",
-      "side": "BUY",
-      "asset": "82272262530488929157692362571985106096759704402780654437291728344156862992976",
-      "conditionId": "0xe383b4aa725793bbc1cec2be5865a17d4d8b247a717012985001442ab86132dc",
-      "size": 7308.09876,
-      "price": 0.49,
-      "timestamp": 1775150681,
-      "title": "Paris Basketball vs. Olimpia Milano",
-      "slug": "euroleague-paris-milano-2026-04-02",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/euroleague-basketball-8fab4f41ec.png",
-      "eventSlug": "euroleague-paris-milano-2026-04-02",
-      "outcome": "Paris Basketball",
-      "outcomeIndex": 0,
-      "name": "SemyonMarmeladov",
-      "pseudonym": "Opulent-Hall",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-102792-ee6f6ac0-da9f-45fc-bd69-173d5ddd17cf.jpeg",
-      "profileImageOptimized": "",
-      "transactionHash": "0xe355a514b51092fc52a1c532a55208f5596744ec4fc35d3f815e08bab5363794",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Paris Basketball vs. Olimpia Milano",
-    "market_slug": "euroleague-paris-milano-2026-04-02",
-    "amount": 3580.9683924
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xc003c9f34070739e17312e85a84b7e34d578a223a558545e51731626d1bde680",
     "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
     "trader": {
@@ -27660,5 +27204,339 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "market": "Exact Score: New Zealand 0 - 2 Belgium?",
+    "market_slug": "fifwc-nzl-bel-2026-06-26-exact-score",
+    "event_slug": "fifwc-nzl-bel-2026-06-26-exact-score",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "analysis": {
+      "score": 75,
+      "flags": [
+        "Against trend (10.0% effective odds)",
+        "Large bet ($1,031)",
+        "Top trader #3 ($13,753,706 profit)"
+      ],
+      "amount": 1031.3999999999999,
+      "odds": 0.09999999999999998,
+      "raw_price": 0.9,
+      "outcome": "No",
+      "potential_pnl": 9282.600000000002,
+      "pnl_multiplier": 9.000000000000004,
+      "wallet_age_days": 321,
+      "total_activities": 100
+    },
+    "timestamp": "2026-06-26T21:38:25.020704",
+    "trade_hash": "0x9c9845501a55f20e334b892848b8790f997955ed850641bc618578116ab32298",
+    "trade_timestamp": 1782509192,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": {
+      "rank": 3,
+      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "username": "swisstony",
+      "profit": 13753706.166981127,
+      "volume": 1226122024.775308,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade_data": {
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.9,
+      "effective_price": 0.9,
+      "size": 10314.0,
+      "amount": 9282.6,
+      "potential_pnl": 1031.3999999999996,
+      "pnl_multiplier": 0.11111111111111106,
+      "is_no": true,
+      "slug": "fifwc-nzl-bel-2026-06-26-exact-score",
+      "eventSlug": "fifwc-nzl-bel-2026-06-26-exact-score"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+40.0%)"
+      ],
+      "category": "other",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.5,
+      "market_price": 0.9,
+      "edge": 0.4,
+      "edge_percent": 40.0,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "other",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 110,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 75,
+      "insider_position": "NO",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.4,
+      "edge_percent": 40.0
+    },
+    "financial_analyst": {
+      "signal_quality": 82.0,
+      "stance": "HIGH_CONVICTION",
+      "edge_percent": 40.0,
+      "signal_strength": 110.0,
+      "insider_score": 75.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xadfe9fc0d70441134902b1d1c46ec931007aa14ad798e651368ff75836e5234b",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "70326628383954540656543551011151460283385505038293917616437261858054689972904",
+      "conditionId": "0xa52772211b91c9e70ac0c27c0c33ec26bfbc88880127916bcdf027008410e3be",
+      "size": 3415,
+      "price": 0.72,
+      "timestamp": 1782509692,
+      "title": "Cabo Verde vs. Saudi Arabia: Cabo Verde O/U 0.5",
+      "slug": "fifwc-cvi-ksa-2026-06-26-team-total-home-0pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-cvi-ksa-2026-06-26-more-markets",
+      "outcome": "Over",
+      "outcomeIndex": 0,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "loincloth chic",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xadfe9fc0d70441134902b1d1c46ec931007aa14ad798e651368ff75836e5234b",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Cabo Verde vs. Saudi Arabia: Cabo Verde O/U 0.5",
+    "market_slug": "fifwc-cvi-ksa-2026-06-26-more-markets",
+    "amount": 2458.7999999999997
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xb0acfe175fc4a945d2f555b0b863245eb8091a2fe98eb38aa4584fa1be1601c1",
+    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+    "trader": {
+      "rank": 19,
+      "address": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+      "username": "BetTom42",
+      "profit": 5642135.735356,
+      "volume": 11212839.523403,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+      "side": "BUY",
+      "asset": "59175945603778152315296481644782243515581196080306885937544433681159737522209",
+      "conditionId": "0x742e9aeb382e7b5beb165993a5aea04165ed99e7cfbd3b7c26873bf7812e92e5",
+      "size": 11940,
+      "price": 0.45,
+      "timestamp": 1782510292,
+      "title": "Chicago Cubs vs. Milwaukee Brewers: O/U 7.5",
+      "slug": "mlb-chc-mil-2026-06-26-total-7pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
+      "eventSlug": "mlb-chc-mil-2026-06-26",
+      "outcome": "Over",
+      "outcomeIndex": 0,
+      "name": "wr0ngw4yb3tt0r",
+      "pseudonym": "Unwieldy-Supporter",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xb0acfe175fc4a945d2f555b0b863245eb8091a2fe98eb38aa4584fa1be1601c1",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Chicago Cubs vs. Milwaukee Brewers: O/U 7.5",
+    "market_slug": "mlb-chc-mil-2026-06-26",
+    "amount": 5373.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x355c52ab92bacba1234a3bdda01181c6eade4aa72260f4d7f63f825d2f843789",
+    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+    "trader": {
+      "rank": 19,
+      "address": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+      "username": "BetTom42",
+      "profit": 5642135.735356,
+      "volume": 11212839.523403,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+      "side": "BUY",
+      "asset": "59175945603778152315296481644782243515581196080306885937544433681159737522209",
+      "conditionId": "0x742e9aeb382e7b5beb165993a5aea04165ed99e7cfbd3b7c26873bf7812e92e5",
+      "size": 8888.88,
+      "price": 0.45,
+      "timestamp": 1782510292,
+      "title": "Chicago Cubs vs. Milwaukee Brewers: O/U 7.5",
+      "slug": "mlb-chc-mil-2026-06-26-total-7pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
+      "eventSlug": "mlb-chc-mil-2026-06-26",
+      "outcome": "Over",
+      "outcomeIndex": 0,
+      "name": "wr0ngw4yb3tt0r",
+      "pseudonym": "Unwieldy-Supporter",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x355c52ab92bacba1234a3bdda01181c6eade4aa72260f4d7f63f825d2f843789",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Chicago Cubs vs. Milwaukee Brewers: O/U 7.5",
+    "market_slug": "mlb-chc-mil-2026-06-26",
+    "amount": 3999.9959999999996
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xa877ecdf70d876ba464adde232ae36345a9b9a57238b43ae18c78b7309633058",
+    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+    "trader": {
+      "rank": 19,
+      "address": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+      "username": "BetTom42",
+      "profit": 5642135.735356,
+      "volume": 11212839.523403,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+      "side": "BUY",
+      "asset": "79720043782879430695335655180443420339326111817194069219445907185099716304689",
+      "conditionId": "0x742e9aeb382e7b5beb165993a5aea04165ed99e7cfbd3b7c26873bf7812e92e5",
+      "size": 23416.41,
+      "price": 0.55,
+      "timestamp": 1782510292,
+      "title": "Chicago Cubs vs. Milwaukee Brewers: O/U 7.5",
+      "slug": "mlb-chc-mil-2026-06-26-total-7pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
+      "eventSlug": "mlb-chc-mil-2026-06-26",
+      "outcome": "Under",
+      "outcomeIndex": 1,
+      "name": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+      "pseudonym": "Wordy-Littleneck",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xa877ecdf70d876ba464adde232ae36345a9b9a57238b43ae18c78b7309633058",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Chicago Cubs vs. Milwaukee Brewers: O/U 7.5",
+    "market_slug": "mlb-chc-mil-2026-06-26",
+    "amount": 12879.025500000002
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xbdfd7c8e9c9948e9151555dfb0f6f493c4a92a5982a6f033a6989d1bef43b30c",
+    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+    "trader": {
+      "rank": 19,
+      "address": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+      "username": "BetTom42",
+      "profit": 5642135.735356,
+      "volume": 11212839.523403,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+      "side": "BUY",
+      "asset": "59175945603778152315296481644782243515581196080306885937544433681159737522209",
+      "conditionId": "0x742e9aeb382e7b5beb165993a5aea04165ed99e7cfbd3b7c26873bf7812e92e5",
+      "size": 3664.44,
+      "price": 0.45,
+      "timestamp": 1782510292,
+      "title": "Chicago Cubs vs. Milwaukee Brewers: O/U 7.5",
+      "slug": "mlb-chc-mil-2026-06-26-total-7pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
+      "eventSlug": "mlb-chc-mil-2026-06-26",
+      "outcome": "Over",
+      "outcomeIndex": 0,
+      "name": "wr0ngw4yb3tt0r",
+      "pseudonym": "Unwieldy-Supporter",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xbdfd7c8e9c9948e9151555dfb0f6f493c4a92a5982a6f033a6989d1bef43b30c",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Chicago Cubs vs. Milwaukee Brewers: O/U 7.5",
+    "market_slug": "mlb-chc-mil-2026-06-26",
+    "amount": 1648.998
   }
 ]
