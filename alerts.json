@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x4c835904897302319d8df33f17d23a0029cccfb08bf0de9feb5fcea8ad357714",
-    "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
-    "trader": {
-      "rank": 13,
-      "address": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
-      "username": "mikatrade77",
-      "profit": 5147998.544602999,
-      "volume": 10884765.388774998,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xc94a2031b8b4cc4cf77eac0fd0e0b982b7b29401",
-      "side": "BUY",
-      "asset": "26346969848783400678587156575421437877397531835925129201949023118835646369030",
-      "conditionId": "0xb7d751a6a47f2d51a6d85b95aa26ccba8bfcc14b841daaac2cfb83fadead1e56",
-      "size": 11596.2,
-      "price": 0.43,
-      "timestamp": 1775087959,
-      "title": "Blues vs. Kings",
-      "slug": "nhl-stl-lak-2026-04-01",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nhl.png",
-      "eventSlug": "nhl-stl-lak-2026-04-01",
-      "outcome": "Blues",
-      "outcomeIndex": 0,
-      "name": "yuanshuai",
-      "pseudonym": "Crisp-Fountain",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x4c835904897302319d8df33f17d23a0029cccfb08bf0de9feb5fcea8ad357714",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Blues vs. Kings",
-    "market_slug": "nhl-stl-lak-2026-04-01",
-    "amount": 4986.366
-  },
-  {
     "market": "Spread: Nuggets (-16.5)",
     "market_slug": "nba-den-uta-2026-04-01-spread-away-16pt5",
     "event_slug": "nba-den-uta-2026-04-01-spread-away-16pt5",
@@ -27600,6 +27556,117 @@
       "edge_percent": 2.61,
       "signal_strength": 95.0,
       "insider_score": 95.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Will Canada win on 2026-06-28?",
+    "market_slug": "fifwc-rsa-can-2026-06-28-can",
+    "event_slug": "fifwc-rsa-can-2026-06-28-can",
+    "wallet": "0x457f89ae6fb64ace63f595378c0a2959cb422a64",
+    "analysis": {
+      "score": 100,
+      "flags": [
+        "New wallet (2d old)",
+        "Large bet ($4,040)",
+        "Pre-event latency: 2610m"
+      ],
+      "amount": 4039.886400000001,
+      "odds": 0.5700000000000001,
+      "raw_price": 0.43,
+      "outcome": "No",
+      "potential_pnl": 3047.6335999999997,
+      "pnl_multiplier": 0.7543859649122805,
+      "wallet_age_days": 2,
+      "total_activities": 19
+    },
+    "timestamp": "2026-06-26T04:39:16.156674",
+    "trade_hash": "0x19d737ae99bdaaec2812244ac1e4c982abb8605cd808305ff131a62ebb590db8",
+    "trade_timestamp": 1782448211,
+    "latency": {
+      "latency_seconds": 156589.0,
+      "latency_minutes": 2609.8166666666666,
+      "is_pre_event": true,
+      "severity": "CRITICAL",
+      "trade_time": "2026-06-26T04:30:11+00:00",
+      "event_time": "2026-06-28T00:00:00+00:00"
+    },
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.43,
+      "effective_price": 0.43,
+      "size": 7087.52,
+      "amount": 3047.6336,
+      "potential_pnl": 4039.8864000000003,
+      "pnl_multiplier": 1.3255813953488373,
+      "is_no": true,
+      "slug": "fifwc-rsa-can-2026-06-28-can",
+      "eventSlug": "fifwc-rsa-can-2026-06-28"
+    },
+    "irrationality": {
+      "irrationality_score": 25,
+      "flags": [
+        "Significant mispricing edge (+10.0%)"
+      ],
+      "category": "politics_near",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.02,
+        "min_edge": 0.03
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.3295,
+      "market_price": 0.43,
+      "edge": 0.10049999999999998,
+      "edge_percent": 10.049999999999997,
+      "min_edge_required": 0.03,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 125,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 100,
+      "insider_position": "NO",
+      "irrationality_score": 25,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.10049999999999998,
+      "edge_percent": 10.049999999999997
+    },
+    "financial_analyst": {
+      "signal_quality": 75.1,
+      "stance": "HIGH_CONVICTION",
+      "edge_percent": 10.05,
+      "signal_strength": 125.0,
+      "insider_score": 100.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
   }
