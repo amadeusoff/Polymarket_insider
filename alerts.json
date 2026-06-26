@@ -1,159 +1,5 @@
 [
   {
-    "market": "Will Trump say \"Ceasefire\" or \"Peace Deal\" during Address to the Nation?",
-    "market_slug": "will-trump-say-ceasefire-or-peace-deal-during-address-to-the-nation",
-    "event_slug": "will-trump-say-ceasefire-or-peace-deal-during-address-to-the-nation",
-    "wallet": "0x8f784e05d17bcec0dfdd4993fceef408ef935106",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,495)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 1494.999999,
-      "odds": 0.5599999998651505,
-      "raw_price": 0.5599999998651505,
-      "outcome": "Yes",
-      "potential_pnl": 1174.642857,
-      "pnl_multiplier": 0.7857142861442906,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-04-02T01:01:25.006442",
-    "trade_hash": "0xd5a46eecdd1175aecac9abd964fcac7ffa8d5189057fa6414b0e378be878007a",
-    "trade_timestamp": 1775091519,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "normalized_position": "YES",
-      "side": "BUY",
-      "price": 0.5599999998651505,
-      "effective_price": 0.5599999998651505,
-      "size": 2669.642856,
-      "amount": 1494.999999,
-      "potential_pnl": 1174.642857,
-      "pnl_multiplier": 0.7857142861442906,
-      "is_no": false,
-      "slug": "will-trump-say-ceasefire-or-peace-deal-during-address-to-the-nation",
-      "eventSlug": "what-will-trump-say-during-address-to-the-nation-on-april-1"
-    },
-    "irrationality": {
-      "irrationality_score": 40,
-      "flags": [
-        "Category structurally prone to longshot bias",
-        "Large mispricing edge (+38.8%)"
-      ],
-      "category": "geopolitics",
-      "category_info": {
-        "strength": "high",
-        "typical_overpricing": 0.05,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.17199999997303012,
-      "market_price": 0.5599999998651505,
-      "edge": 0.38799999989212036,
-      "edge_percent": 38.79999998921203,
-      "min_edge_required": 0.03,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "occasional",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "occasional",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Trump's current stance on foreign policy",
-          "The context of the address and current events",
-          "Public and political pressure regarding the situation"
-        ],
-        "weakest_link": "Trump's current stance on foreign policy, as it may not align with using terms like 'ceasefire' or 'peace deal'"
-      },
-      "category": "politics_near",
-      "narrative_drivers": [
-        "Public sentiment towards ongoing conflicts",
-        "Media framing of Trump's address leading up to the event"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "CONFLICT",
-      "signal_emoji": "\u26a0\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider buying YES despite statistical overpricing",
-      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
-      "insider_score": 70,
-      "insider_position": "YES",
-      "irrationality_score": 40,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.38799999989212036,
-      "edge_percent": 38.79999998921203
-    },
-    "log_only": true,
-    "financial_analyst": {
-      "signal_quality": 47.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 38.8,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-04-02T07:04:27.765943+00:00"
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x774b354893b4d3a6ba721898524405f513e5bc8134ccbb3046f904facbfa5a22",
-    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-    "trader": {
-      "rank": 17,
-      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
-      "profit": 4552141.183965707,
-      "volume": 60070499.453648,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x907fbed5c365d0ee90fe066a3b5073bc9a7cbaee",
-      "side": "BUY",
-      "asset": "2916184120206223749839849644877707470354946028257066951797428049170871002238",
-      "conditionId": "0x6d0e09d0f04572d9b1adad84703458b0297bc5603b69dccbde93147ee4443246",
-      "size": 16028.935966,
-      "price": 0.6117343046849127,
-      "timestamp": 1775116771,
-      "title": "US forces enter Iran by April 30?",
-      "slug": "us-forces-enter-iran-by-april-30-899",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-forces-enter-iran-by-L_p5JkCpvr0I.jpg",
-      "eventSlug": "us-forces-enter-iran-by",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "alksdjfaksdjfkladsflkjasdf",
-      "pseudonym": "Bulky-Other",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x774b354893b4d3a6ba721898524405f513e5bc8134ccbb3046f904facbfa5a22",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "US forces enter Iran by April 30?",
-    "market_slug": "us-forces-enter-iran-by",
-    "amount": 9805.449998
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0x5c9e4717b490558759fe5f5e10a2d629daf75f9b544ef52f1df2a92ffe4de885",
     "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
@@ -27607,5 +27453,212 @@
     "market": "Spread: France (-1.5)",
     "market_slug": "fifwc-nor-fra-2026-06-26-more-markets",
     "amount": 10255.752
+  },
+  {
+    "market": "Will France win the 2026 FIFA World Cup?",
+    "market_slug": "will-france-win-the-2026-fifa-world-cup-924",
+    "event_slug": "will-france-win-the-2026-fifa-world-cup-924",
+    "wallet": "0x5f62746ad55527ad75b4795bec7cd45f557ed989",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (2d old)",
+        "Large bet ($1,457)",
+        "Low activity (3 txns)"
+      ],
+      "amount": 1456.589999,
+      "odds": 0.19899999990942063,
+      "raw_price": 0.19899999990942063,
+      "outcome": "Yes",
+      "potential_pnl": 5862.957738,
+      "pnl_multiplier": 4.025125630428003,
+      "wallet_age_days": 2,
+      "total_activities": 3
+    },
+    "timestamp": "2026-06-26T20:02:08.248081",
+    "trade_hash": "0x03db1ee65ab9eeafdcb9a885a374e75e2916a4e77ded6e20427cb35771659a63",
+    "trade_timestamp": 1782503732,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.19899999990942063,
+      "effective_price": 0.19899999990942063,
+      "size": 7319.547737,
+      "amount": 1456.589999,
+      "potential_pnl": 5862.957738,
+      "pnl_multiplier": 4.025125630428003,
+      "is_no": false,
+      "slug": "will-france-win-the-2026-fifa-world-cup-924",
+      "eventSlug": "world-cup-winner"
+    },
+    "irrationality": {
+      "irrationality_score": 18,
+      "flags": [
+        "Moderate mispricing edge (+5.2%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.14709999996376827,
+      "market_price": 0.19899999990942063,
+      "edge": 0.051899999945652364,
+      "edge_percent": 5.189999994565237,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "MODERATE",
+      "base_rate_class": "occasional",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "occasional",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 18,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.051899999945652364,
+      "edge_percent": 5.189999994565237
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 25.4,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 5.19,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Will Uruguay vs. Spain end in a draw?",
+    "market_slug": "fifwc-ury-esp-2026-06-26-draw",
+    "event_slug": "fifwc-ury-esp-2026-06-26-draw",
+    "wallet": "0x324442b2aaf0d9dbf0bf21f452d6d5c2fb9fb124",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,970)",
+        "Low activity (2 txns)"
+      ],
+      "amount": 1969.999999,
+      "odds": 0.27999999992609137,
+      "raw_price": 0.27999999992609137,
+      "outcome": "Yes",
+      "potential_pnl": 5065.714285,
+      "pnl_multiplier": 2.5714285723712837,
+      "wallet_age_days": 0,
+      "total_activities": 2
+    },
+    "timestamp": "2026-06-26T20:02:16.797197",
+    "trade_hash": "0xd46b145e859d075f5799878e621abd7004f88712facfc9f2924b7aafb64bb065",
+    "trade_timestamp": 1782503945,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.27999999992609137,
+      "effective_price": 0.27999999992609137,
+      "size": 7035.714284,
+      "amount": 1969.999999,
+      "potential_pnl": 5065.714285,
+      "pnl_multiplier": 2.5714285723712837,
+      "is_no": false,
+      "slug": "fifwc-ury-esp-2026-06-26-draw",
+      "eventSlug": "fifwc-ury-esp-2026-06-26"
+    },
+    "irrationality": {
+      "irrationality_score": 10,
+      "flags": [],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.2694999999704365,
+      "market_price": 0.27999999992609137,
+      "edge": 0.01049999995565487,
+      "edge_percent": 1.049999995565487,
+      "min_edge_required": 0.05,
+      "is_mispriced": false,
+      "edge_quality": "WEAK",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 10,
+      "is_irrational": false,
+      "is_mispriced": false,
+      "edge": 0.01049999995565487,
+      "edge_percent": 1.049999995565487
+    },
+    "financial_analyst": {
+      "signal_quality": 22.6,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 1.05,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
