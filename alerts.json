@@ -1,113 +1,5 @@
 [
   {
-    "market": "Spread: Nuggets (-16.5)",
-    "market_slug": "nba-den-uta-2026-04-01-spread-away-16pt5",
-    "event_slug": "nba-den-uta-2026-04-01-spread-away-16pt5",
-    "wallet": "0x992a5c9c5a0c8f83750b5a18795f2338d9b25e34",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($24,719)",
-        "Low activity (2 txns)"
-      ],
-      "amount": 24718.551490499995,
-      "odds": 0.49,
-      "raw_price": 0.49,
-      "outcome": "Jazz",
-      "potential_pnl": 25727.4719595,
-      "pnl_multiplier": 1.0408163265306125,
-      "wallet_age_days": 0,
-      "total_activities": 2
-    },
-    "timestamp": "2026-04-02T01:01:13.702452",
-    "trade_hash": "0xd17d1f6091eb40c03e9afb9b5e891b875afb74c1d4944fc0268d095b219677ef",
-    "trade_timestamp": 1775091591,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Jazz",
-      "outcomeIndex": 1,
-      "normalized_position": "YES",
-      "side": "BUY",
-      "price": 0.49,
-      "effective_price": 0.49,
-      "size": 50446.02344999999,
-      "amount": 24718.551490499995,
-      "potential_pnl": 25727.4719595,
-      "pnl_multiplier": 1.0408163265306125,
-      "is_no": false,
-      "slug": "nba-den-uta-2026-04-01-spread-away-16pt5",
-      "eventSlug": "nba-den-uta-2026-04-01"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+25.2%)"
-      ],
-      "category": "other",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.238,
-      "market_price": 0.49,
-      "edge": 0.252,
-      "edge_percent": 25.2,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Nuggets win by more than 16.5 points",
-          "Key players perform at peak levels",
-          "Opposing team underperforms significantly"
-        ],
-        "weakest_link": "Opposing team underperforms significantly"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Nuggets' strong home court advantage",
-        "Recent performance trends favoring the Nuggets"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "CONFLICT",
-      "signal_emoji": "\u26a0\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider buying YES despite statistical overpricing",
-      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
-      "insider_score": 70,
-      "insider_position": "YES",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.252,
-      "edge_percent": 25.2
-    },
-    "log_only": true,
-    "financial_analyst": {
-      "signal_quality": 46.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 25.2,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "market": "Will Trump say \"Ceasefire\" or \"Peace Deal\" during Address to the Nation?",
     "market_slug": "will-trump-say-ceasefire-or-peace-deal-during-address-to-the-nation",
     "event_slug": "will-trump-say-ceasefire-or-peace-deal-during-address-to-the-nation",
@@ -27671,5 +27563,49 @@
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     },
     "resolution_last_check": "2026-06-26T09:28:54.473929+00:00"
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x88a27833f9d30e67bfc6ed9846cf2ec103a1e0fb4f40258b0227b6eb9922fe5b",
+    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+    "trader": {
+      "rank": 18,
+      "address": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+      "username": "BetTom42",
+      "profit": 5642135.735356,
+      "volume": 11212839.523402998,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x76beb7367e12c07978fab906b652aa89e14c120e",
+      "side": "SELL",
+      "asset": "75426118790615600884706845933427146354864211195995645345528102216770334829169",
+      "conditionId": "0xb1af31b06f89438b39f8013b2dbd1108128f9bc09fc415a662ecde9999fca1c8",
+      "size": 22790.56,
+      "price": 0.45,
+      "timestamp": 1782497078,
+      "title": "Spread: France (-1.5)",
+      "slug": "fifwc-nor-fra-2026-06-26-spread-away-1pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-nor-fra-2026-06-26-more-markets",
+      "outcome": "France",
+      "outcomeIndex": 0,
+      "name": "rp76",
+      "pseudonym": "Unkempt-Final",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x88a27833f9d30e67bfc6ed9846cf2ec103a1e0fb4f40258b0227b6eb9922fe5b",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spread: France (-1.5)",
+    "market_slug": "fifwc-nor-fra-2026-06-26-more-markets",
+    "amount": 10255.752
   }
 ]
