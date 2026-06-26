@@ -27557,7 +27557,8 @@
       "signal_strength": 95.0,
       "insider_score": 95.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
+    },
+    "resolution_last_check": "2026-06-26T09:28:53.812154+00:00"
   },
   {
     "market": "Will Canada win on 2026-06-28?",
@@ -27668,6 +27669,7 @@
       "signal_strength": 125.0,
       "insider_score": 100.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
+    },
+    "resolution_last_check": "2026-06-26T09:28:54.473929+00:00"
   }
 ]
