@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x76b4ced9c4d6106cf0b85ab8ea3ef926cf454faf4ee0cc7e174bce3bd18fe827",
-    "wallet": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
-    "trader": {
-      "rank": 3,
-      "address": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
-      "username": "kch123",
-      "profit": 11521181.359613763,
-      "volume": 270600378.490198,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x4133bcbad1d9c41de776646696f41c34d0a65e70",
-      "side": "BUY",
-      "asset": "26010125157516403407494853190206242126832928669626399787268157608904814387830",
-      "conditionId": "0x415b9d995f065db7c986875918cedd7edbff97f387bd1d0ae4d498b5774667e8",
-      "size": 3723.6,
-      "price": 0.89,
-      "timestamp": 1775247621,
-      "title": "Will Paris Saint-Germain FC win on 2026-04-03?",
-      "slug": "fl1-psg-tou-2026-04-03-psg",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-fl1.png",
-      "eventSlug": "fl1-psg-tou-2026-04-03",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "EF203F2IPFC2ICP20W-CP3",
-      "pseudonym": "Bogus-Fix",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x76b4ced9c4d6106cf0b85ab8ea3ef926cf454faf4ee0cc7e174bce3bd18fe827",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Paris Saint-Germain FC win on 2026-04-03?",
-    "market_slug": "fl1-psg-tou-2026-04-03",
-    "amount": 3314.004
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x6d930facf4e58151f2595de04ac3353a1bfe72727f0e13245123f9aba0f989ce",
     "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
     "trader": {
@@ -27608,5 +27564,49 @@
       "insider_score": 75.0,
       "risk_note": "High stake detected \u2014 copy with reduced sizing (25-40% of source risk)."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x0796d2e41ad6d71448dbb85dd47e52237993499f90a9ab97039a10b29c477ab1",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x2db5288c21a7a067d27284a1f94913b653c9cc23",
+      "side": "SELL",
+      "asset": "105933449576105164979951865656480304420132026739022197892321456126779837974400",
+      "conditionId": "0x31a2bb287be1ce21b88873a69655562c117f4abef9de2ee487a9a3c5b99df26b",
+      "size": 2079.32,
+      "price": 0.8800712252082411,
+      "timestamp": 1782518096,
+      "title": "Houston Astros vs. Detroit Tigers: O/U 8.5",
+      "slug": "mlb-hou-det-2026-06-26-total-8pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
+      "eventSlug": "mlb-hou-det-2026-06-26",
+      "outcome": "Over",
+      "outcomeIndex": 0,
+      "name": "Million-Dollar-Rhino",
+      "pseudonym": "Safe-Boar",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x0796d2e41ad6d71448dbb85dd47e52237993499f90a9ab97039a10b29c477ab1",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Houston Astros vs. Detroit Tigers: O/U 8.5",
+    "market_slug": "mlb-hou-det-2026-06-26",
+    "amount": 1829.9497000000001
   }
 ]
