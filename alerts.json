@@ -1,94 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x6d930facf4e58151f2595de04ac3353a1bfe72727f0e13245123f9aba0f989ce",
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "trader": {
-      "rank": 10,
-      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-      "username": "swisstony",
-      "profit": 5719451.577601241,
-      "volume": 617405590.4524552,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xdd882a70680633a75516f6ed5fce443e2d96dadb",
-      "side": "BUY",
-      "asset": "58677779032099424572691911819622437084016593639853516929802937971840946436465",
-      "conditionId": "0x72a524c4e27f303ccd63c585d0596b4cd5554c330b1600f5d5ea7d949056697f",
-      "size": 9999.99159,
-      "price": 0.28,
-      "timestamp": 1775287235,
-      "title": "Counter-Strike: NRG vs Voca (BO3) - PGL Bucharest Group Stage",
-      "slug": "cs2-nrg-voc-2026-04-04",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/counter-strike-image-16c415c538.png",
-      "eventSlug": "cs2-nrg-voc-2026-04-04",
-      "outcome": "Voca",
-      "outcomeIndex": 1,
-      "name": "Taoli1",
-      "pseudonym": "Itchy-Caterpillar",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x6d930facf4e58151f2595de04ac3353a1bfe72727f0e13245123f9aba0f989ce",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Counter-Strike: NRG vs Voca (BO3) - PGL Bucharest Group Stage",
-    "market_slug": "cs2-nrg-voc-2026-04-04",
-    "amount": 7199.9939448
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xb3a440bbde7131046782b9503798e742e5f7eaadd49a521c2b89a99afe7be87e",
-    "wallet": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
-    "trader": {
-      "rank": 3,
-      "address": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
-      "username": "kch123",
-      "profit": 10672887.340271465,
-      "volume": 272371675.38032407,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x43670feb10084f60417938adfba2506801e2e904",
-      "side": "BUY",
-      "asset": "105744980932883842428735227675534401609303780685558675947313562840137884511221",
-      "conditionId": "0xb454c0e5eb37b5881f1591452d4e68f5a542c6ad540717f579350bd7dbe46277",
-      "size": 8092.068595,
-      "price": 0.4804572166126779,
-      "timestamp": 1775293537,
-      "title": "LoL: T1 vs Hanwha Life Esports - Game 2 Winner",
-      "slug": "lol-t1-hle1-2026-04-04-game2",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
-      "eventSlug": "lol-t1-hle1-2026-04-04",
-      "outcome": "Hanwha Life Esports",
-      "outcomeIndex": 1,
-      "name": "finnnark",
-      "pseudonym": "Idolized-Gammaray",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xb3a440bbde7131046782b9503798e742e5f7eaadd49a521c2b89a99afe7be87e",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "LoL: T1 vs Hanwha Life Esports - Game 2 Winner",
-    "market_slug": "lol-t1-hle1-2026-04-04",
-    "amount": 4204.175841207437
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x91f93d0eaa53ca2a2fd0759cf572fbe92cf1e6da565dacfbc915fcf08f962adc",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -27608,5 +27520,93 @@
     "market": "Houston Astros vs. Detroit Tigers: O/U 8.5",
     "market_slug": "mlb-hou-det-2026-06-26",
     "amount": 1829.9497000000001
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x4e865011e9632f178c264cebe4130bc088df4c4f3277e05a86e8126a39f5bdb1",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xa38a455bbdd4b68486548b7e19da99903f4f821d",
+      "side": "BUY",
+      "asset": "80367958277532883838034341813309269253831602442701065383319767363545285608441",
+      "conditionId": "0x8301c0025a6ee9b4f65b538205f71f0f3078c7f2d6fad769c9c516dfdb99a953",
+      "size": 3704,
+      "price": 0.5894330453563715,
+      "timestamp": 1782533410,
+      "title": "Atlanta Dream vs. Golden State Valkyries",
+      "slug": "wnba-atl-gsv-2026-06-26",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wnba-logo-PAR4befDAubM.png",
+      "eventSlug": "wnba-atl-gsv-2026-06-26",
+      "outcome": "Golden State Valkyries",
+      "outcomeIndex": 1,
+      "name": "takeormake",
+      "pseudonym": "Scary-Fannypack",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x4e865011e9632f178c264cebe4130bc088df4c4f3277e05a86e8126a39f5bdb1",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Atlanta Dream vs. Golden State Valkyries",
+    "market_slug": "wnba-atl-gsv-2026-06-26",
+    "amount": 2183.26
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x33dffab9a9ed7bd15722f4f5dc25c6c54bcaf27e6fc3b9c97d2dd5d04d0535bb",
+    "wallet": "0x96cfcb0c30942cfcd1cdf76c7d408794d66b1acb",
+    "trader": {
+      "rank": 6,
+      "address": "0x96cfcb0c30942cfcd1cdf76c7d408794d66b1acb",
+      "username": "mintblade",
+      "profit": 9238344.623225637,
+      "volume": 17759922.232853003,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x1a22b50892adbfed55f4a14fddfa573634eb7b00",
+      "side": "BUY",
+      "asset": "30488034368629999070915293350555587148814960773849719813762192431947118498452",
+      "conditionId": "0x62593e7f01f0bfa80fca7689b20e367d48bc8c292e2d0f0a883c18eb6ddc2ebb",
+      "size": 3457.97,
+      "price": 0.8825199755926165,
+      "timestamp": 1782533708,
+      "title": "New Zealand vs. Belgium: O/U 2.5",
+      "slug": "fifwc-nzl-bel-2026-06-26-total-2pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-nzl-bel-2026-06-26-more-markets",
+      "outcome": "Over",
+      "outcomeIndex": 0,
+      "name": "Trachanas",
+      "pseudonym": "Pushy-Canal-Normalization",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x33dffab9a9ed7bd15722f4f5dc25c6c54bcaf27e6fc3b9c97d2dd5d04d0535bb",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "New Zealand vs. Belgium: O/U 2.5",
+    "market_slug": "fifwc-nzl-bel-2026-06-26-more-markets",
+    "amount": 3051.7276
   }
 ]
