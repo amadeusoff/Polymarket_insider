@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xbb3d5a38b62da45859bdfdf96c883c1e69e5ed59041453d62341fbf149473d67",
-    "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
-    "trader": {
-      "rank": 20,
-      "address": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
-      "username": "beachboy4",
-      "profit": 3830450.4722745894,
-      "volume": 201480736.297354,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x709e8dcb133555794decc598e07f2c923b8366f5",
-      "side": "BUY",
-      "asset": "6708993280312610870377989212073818616636579692139427997292951434181137556462",
-      "conditionId": "0xee5c40e5a3295d229c706c886a14083967945a3a75063ed619b31aea1048176e",
-      "size": 35449.2,
-      "price": 0.49,
-      "timestamp": 1775307947,
-      "title": "Spread: Michigan Wolverines (-1.5)",
-      "slug": "cbb-arz-mich-2026-04-04-spread-home-1pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "cbb-arz-mich-2026-04-04",
-      "outcome": "Michigan Wolverines",
-      "outcomeIndex": 0,
-      "name": "0xd4aa6f8e91cfea29b66a48ebff52814",
-      "pseudonym": "Wan-Flash",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xbb3d5a38b62da45859bdfdf96c883c1e69e5ed59041453d62341fbf149473d67",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Spread: Michigan Wolverines (-1.5)",
-    "market_slug": "cbb-arz-mich-2026-04-04",
-    "amount": 17370.107999999997
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x1e4c12b52f6fa210d36d4f5dd190d68f57fe67a195f24f389677e5e3bc2ed61e",
     "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
     "trader": {
@@ -27609,5 +27565,49 @@
     "market": "Spread: United States (-1.5)",
     "market_slug": "fifwc-usa-bih-2026-07-01-more-markets",
     "amount": 4600.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xd5d6ca99d38806abd5f2076d5f05a06a3fd9f75b1a503af7ddf96cdaaa31e16c",
+    "wallet": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
+    "trader": {
+      "rank": 2,
+      "address": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
+      "username": "Fredi9999",
+      "profit": 16619506.631730152,
+      "volume": 76611316.905154,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x37e053beabee77acc15e641dfe8e395b2b2d024e",
+      "side": "BUY",
+      "asset": "82426217538135075249374152998909301325535391519788977704043374374243467368021",
+      "conditionId": "0x26c84897f375ef75367a1fea2bcf3a1601950962c9424f8635b966cc5d9ff4ba",
+      "size": 7142.63,
+      "price": 0.42,
+      "timestamp": 1782579049,
+      "title": "Will DR Congo win on 2026-06-27?",
+      "slug": "fifwc-cdr-uzb-2026-06-27-cdr",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-cdr-uzb-2026-06-27",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "ChinesePro",
+      "pseudonym": "Jovial-Lookout",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xd5d6ca99d38806abd5f2076d5f05a06a3fd9f75b1a503af7ddf96cdaaa31e16c",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will DR Congo win on 2026-06-27?",
+    "market_slug": "fifwc-cdr-uzb-2026-06-27",
+    "amount": 2999.9046
   }
 ]
