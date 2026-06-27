@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x91f93d0eaa53ca2a2fd0759cf572fbe92cf1e6da565dacfbc915fcf08f962adc",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xefddbb135e2cc2648e3ca6a6b3d4fa4994d5017f",
-      "side": "BUY",
-      "asset": "89165064837003985387535247113999059940600607469654329437351806592854470646595",
-      "conditionId": "0x0ed4bdf38c2faa1b2452ad9afa87ee8faba783bf3e424aa70e8d7372e143875a",
-      "size": 17536.86464,
-      "price": 0.46,
-      "timestamp": 1775307043,
-      "title": "US Sassuolo Calcio vs. Cagliari Calcio: O/U 2.5",
-      "slug": "sea-sas-cag-2026-04-04-total-2pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Serie-A-Logo.png",
-      "eventSlug": "sea-sas-cag-2026-04-04-more-markets",
-      "outcome": "Over",
-      "outcomeIndex": 0,
-      "name": "maxgreen",
-      "pseudonym": "Arid-Fail",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x91f93d0eaa53ca2a2fd0759cf572fbe92cf1e6da565dacfbc915fcf08f962adc",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "US Sassuolo Calcio vs. Cagliari Calcio: O/U 2.5",
-    "market_slug": "sea-sas-cag-2026-04-04-more-markets",
-    "amount": 8066.9577344
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x5d26a305704f8ba2ec924bbfaf0f681ffb452d5b15ec07e6730ff48fa57fecb6",
     "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
     "trader": {
@@ -27609,5 +27565,49 @@
     "market": "New Zealand vs. Belgium: O/U 2.5",
     "market_slug": "fifwc-nzl-bel-2026-06-26-more-markets",
     "amount": 3051.7276
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x54f0a73270d290dfee2973a9468ef216cf8cc404e0c0268958fd90009c9a43ff",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "trader": {
+      "rank": 3,
+      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "username": "swisstony",
+      "profit": 14837721.900982521,
+      "volume": 1249935268.3744051,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xaea33a63323438ddafed2def9bb286d1aeccfe61",
+      "side": "BUY",
+      "asset": "102979714187432523726496609637889951679226430871494531752837414533106422105296",
+      "conditionId": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
+      "size": 3658.536584,
+      "price": 0.8199999997594667,
+      "timestamp": 1782570043,
+      "title": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/jerome+powell+glasses1.png",
+      "eventSlug": "fed-decision-in-july-181",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "bibibila",
+      "pseudonym": "Bubbly-Fawn-Platform",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x54f0a73270d290dfee2973a9468ef216cf8cc404e0c0268958fd90009c9a43ff",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
+    "market_slug": "fed-decision-in-july-181",
+    "amount": 2999.9999980000002
   }
 ]
