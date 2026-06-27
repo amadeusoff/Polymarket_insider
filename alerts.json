@@ -1,112 +1,5 @@
 [
   {
-    "market": "Arizona Wildcats vs. Michigan Wolverines",
-    "market_slug": "cbb-arz-mich-2026",
-    "event_slug": "cbb-arz-mich-2026",
-    "wallet": "0x974bf0b99dacfda7d96a264befb9d97775b9cdd5",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,036)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 1035.9249258679522,
-      "odds": 0.7421750296911245,
-      "raw_price": 0.7421750296911245,
-      "outcome": "Michigan Wolverines",
-      "potential_pnl": 359.87105813204766,
-      "pnl_multiplier": 0.3473910600524732,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-04-05T01:46:25.231595",
-    "trade_hash": "0xb2b74d394212477f620852f32ba477fb3f5fbf4a6c56d74d198ac9f1364b7454",
-    "trade_timestamp": 1775353461,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Michigan Wolverines",
-      "outcomeIndex": 1,
-      "normalized_position": "NO",
-      "side": "BUY",
-      "price": 0.7421750296911245,
-      "effective_price": 0.7421750296911245,
-      "size": 1395.7959839999999,
-      "amount": 1035.9249258679522,
-      "potential_pnl": 359.87105813204766,
-      "pnl_multiplier": 0.3473910600524732,
-      "is_no": false,
-      "slug": "cbb-arz-mich-2026",
-      "eventSlug": "cbb-arz-mich-2026-04-04"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+45.4%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.2884350059382249,
-      "market_price": 0.7421750296911245,
-      "edge": 0.45374002375289957,
-      "edge_percent": 45.374002375289955,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Arizona Wildcats perform exceptionally well in upcoming games",
-          "Michigan Wolverines underperform relative to expectations",
-          "Injuries or other significant disruptions affect key players"
-        ],
-        "weakest_link": "Michigan Wolverines underperform relative to expectations"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Recent performance trends of both teams",
-        "Fan sentiment and betting patterns"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "ALPHA",
-      "signal_emoji": "\ud83d\udd25",
-      "signal_strength": 105,
-      "interpretation": "Smart money (NO) confirms YES is overpriced",
-      "action_suggestion": "High conviction: insider + statistics aligned",
-      "insider_score": 70,
-      "insider_position": "NO",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.45374002375289957,
-      "edge_percent": 45.374002375289955
-    },
-    "financial_analyst": {
-      "signal_quality": 81.0,
-      "stance": "HIGH_CONVICTION",
-      "edge_percent": 45.37,
-      "signal_strength": 105.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0x09a0652a02bbac50d4ec9da5c56e1ce519041d02cd6709cbbb92aaf00193af14",
     "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
@@ -27691,5 +27584,49 @@
     "market": "Will Croatia win on 2026-06-27?",
     "market_slug": "fifwc-hrv-gha-2026-06-27-hrv",
     "amount": 46426.2246
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x5f211afbdd8f64dbd78b66032d2a3f077216e6aee4d7bc057758d2c2ceb43897",
+    "wallet": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
+    "trader": {
+      "rank": 2,
+      "address": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
+      "username": "Fredi9999",
+      "profit": 16619506.631730152,
+      "volume": 76611316.905154,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "69263580765140333674971225972030564537957018364662996912888693198064311161962",
+      "conditionId": "0x2cc359648ba6695498c169ceaa44c5444e0479102c453289c47ed9489e7f3e93",
+      "size": 21881,
+      "price": 0.1,
+      "timestamp": 1782600370,
+      "title": "Will Croatia win on 2026-06-27?",
+      "slug": "fifwc-hrv-gha-2026-06-27-hrv",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-hrv-gha-2026-06-27",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "loincloth chic",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x5f211afbdd8f64dbd78b66032d2a3f077216e6aee4d7bc057758d2c2ceb43897",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Croatia win on 2026-06-27?",
+    "market_slug": "fifwc-hrv-gha-2026-06-27",
+    "amount": 2188.1
   }
 ]
