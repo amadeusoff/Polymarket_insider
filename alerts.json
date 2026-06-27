@@ -1,94 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x1e4c12b52f6fa210d36d4f5dd190d68f57fe67a195f24f389677e5e3bc2ed61e",
-    "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
-    "trader": {
-      "rank": 6,
-      "address": "0x863134d00841b2e200492805a01e1e2f5defaa53",
-      "username": "RepTrump",
-      "profit": 7532409.671579,
-      "volume": 13983231.103425,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x54ac09857c3e76d50a2e7da064b0293d9a9e7c14",
-      "side": "BUY",
-      "asset": "30287144177747319963837175511707013281156894969279504180034676079182836420902",
-      "conditionId": "0xe3f5cc5d278fea6f9d1c79b1826fbcd274cb9fa7d261824e5b0348d63914ebb0",
-      "size": 6562.0104,
-      "price": 0.48,
-      "timestamp": 1775317849,
-      "title": "Will Real Betis Balompi\u00e9 win on 2026-04-04?",
-      "slug": "lal-bet-esp-2026-04-04-bet",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-lal.png",
-      "eventSlug": "lal-bet-esp-2026-04-04",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "jackiechann",
-      "pseudonym": "Official-Presume",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x1e4c12b52f6fa210d36d4f5dd190d68f57fe67a195f24f389677e5e3bc2ed61e",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Real Betis Balompi\u00e9 win on 2026-04-04?",
-    "market_slug": "lal-bet-esp-2026-04-04",
-    "amount": 3412.245408
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x83674df60d29d717825aac2fceb06f332c6045a72c5387bb02431138cad3b555",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
-      "side": "BUY",
-      "asset": "2916184120206223749839849644877707470354946028257066951797428049170871002238",
-      "conditionId": "0x6d0e09d0f04572d9b1adad84703458b0297bc5603b69dccbde93147ee4443246",
-      "size": 3563.074073,
-      "price": 0.8099999999635147,
-      "timestamp": 1775321149,
-      "title": "US forces enter Iran by April 30?",
-      "slug": "us-forces-enter-iran-by-april-30-899",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-forces-enter-iran-by-L_p5JkCpvr0I.jpg",
-      "eventSlug": "us-forces-enter-iran-by",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "8934394839",
-      "pseudonym": "Sardonic-Lentil",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x83674df60d29d717825aac2fceb06f332c6045a72c5387bb02431138cad3b555",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "US forces enter Iran by April 30?",
-    "market_slug": "us-forces-enter-iran-by",
-    "amount": 2886.0899990000003
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x2adbda5e439e53fd83cf9c99f112f49baf1cc0c37ff105a2b94623299f115d59",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -27609,5 +27521,170 @@
     "market": "Will DR Congo win on 2026-06-27?",
     "market_slug": "fifwc-cdr-uzb-2026-06-27",
     "amount": 2999.9046
+  },
+  {
+    "market": "Will France win on 2026-06-30?",
+    "market_slug": "fifwc-fra-swe-2026-06-30-fra",
+    "event_slug": "fifwc-fra-swe-2026-06-30-fra",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "analysis": {
+      "score": 90,
+      "flags": [
+        "Large bet ($5,247)",
+        "Pre-event latency: 3247m",
+        "Top trader #3 ($14,838,952 profit)"
+      ],
+      "amount": 5247.04,
+      "odds": 0.76,
+      "raw_price": 0.24,
+      "outcome": "No",
+      "potential_pnl": 1656.96,
+      "pnl_multiplier": 0.3157894736842105,
+      "wallet_age_days": 322,
+      "total_activities": 100
+    },
+    "timestamp": "2026-06-27T17:59:35.331624",
+    "trade_hash": "0x051e21ffdfd05ed25c6d7c83163248c4e2147125a699937d8afb44b986e7dc6f",
+    "trade_timestamp": 1782582797,
+    "latency": {
+      "latency_seconds": 194803.0,
+      "latency_minutes": 3246.7166666666667,
+      "is_pre_event": true,
+      "severity": "CRITICAL",
+      "trade_time": "2026-06-27T17:53:17+00:00",
+      "event_time": "2026-06-30T00:00:00+00:00"
+    },
+    "wallet_stats": null,
+    "top_trader": {
+      "rank": 3,
+      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "username": "swisstony",
+      "profit": 14838951.51820103,
+      "volume": 1251749863.784997,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade_data": {
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.24,
+      "effective_price": 0.24,
+      "size": 6904.0,
+      "amount": 1656.96,
+      "potential_pnl": 5247.04,
+      "pnl_multiplier": 3.1666666666666665,
+      "is_no": true,
+      "slug": "fifwc-fra-swe-2026-06-30-fra",
+      "eventSlug": "fifwc-fra-swe-2026-06-30"
+    },
+    "irrationality": {
+      "irrationality_score": 18,
+      "flags": [
+        "Moderate mispricing edge (+7.7%)"
+      ],
+      "category": "politics_near",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.02,
+        "min_edge": 0.03
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.16349999999999998,
+      "market_price": 0.24,
+      "edge": 0.07650000000000001,
+      "edge_percent": 7.650000000000001,
+      "min_edge_required": 0.03,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "occasional",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "occasional",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 108,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 90,
+      "insider_position": "NO",
+      "irrationality_score": 18,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.07650000000000001,
+      "edge_percent": 7.650000000000001
+    },
+    "financial_analyst": {
+      "signal_quality": 68.1,
+      "stance": "SELECTIVE",
+      "edge_percent": 7.65,
+      "signal_strength": 108.0,
+      "insider_score": 90.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x177c5a8b9615d79219c09bdc15370a783a4a9ddd3ead3e6610a84798f16b3c75",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "89255830852216906161729964859250216793561437290510921117197326560220222906928",
+      "conditionId": "0x7965aa365df369302061c919f89a8390c1ad7d28cf17f6693e71696c9a7b74a5",
+      "size": 7586,
+      "price": 0.92,
+      "timestamp": 1782582953,
+      "title": "Exact Score: Panama 0 - 1 England?",
+      "slug": "fifwc-pan-eng-2026-06-27-exact-score-0-1",
+      "icon": "",
+      "eventSlug": "fifwc-pan-eng-2026-06-27-exact-score",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "loincloth chic",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x177c5a8b9615d79219c09bdc15370a783a4a9ddd3ead3e6610a84798f16b3c75",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Exact Score: Panama 0 - 1 England?",
+    "market_slug": "fifwc-pan-eng-2026-06-27-exact-score",
+    "amount": 6979.12
   }
 ]
