@@ -1,289 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x7645efd52ec75b6e94e0557610524eed97dae129477315452e2991ff40a9080c",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x63a51cbb37341837b873bc29d05f482bc2988e33",
-      "side": "BUY",
-      "asset": "14590063194640113694710768176096333411010389613589510640026041212845591522120",
-      "conditionId": "0x3e1633885215ca9f2583a9bf18768570deb43db4d1a08d6417e0b88fb4bcf10b",
-      "size": 16839.127218999998,
-      "price": 0.5864880217341205,
-      "timestamp": 1775337359,
-      "title": "Chicago Cubs vs. Cleveland Guardians",
-      "slug": "mlb-chc-cle-2026-04-04",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
-      "eventSlug": "mlb-chc-cle-2026-04-04",
-      "outcome": "Chicago Cubs",
-      "outcomeIndex": 0,
-      "name": "mhh29",
-      "pseudonym": "Sociable-Meadow",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x7645efd52ec75b6e94e0557610524eed97dae129477315452e2991ff40a9080c",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Chicago Cubs vs. Cleveland Guardians",
-    "market_slug": "mlb-chc-cle-2026-04-04",
-    "amount": 9875.946410400491,
-    "resolution_last_check": "2026-04-05T06:58:30.432040+00:00"
-  },
-  {
-    "market": "UFC Fight Night: Melissa Gatto vs. Dione Barbosa (Women's Flyweight, Prelims)",
-    "market_slug": "ufc-mel1-dio-2026",
-    "event_slug": "ufc-mel1-dio-2026",
-    "wallet": "0xfccc7ab26a95a004d53d0cb1084bf5fa1a8bd978",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,160)",
-        "Low activity (2 txns)"
-      ],
-      "amount": 1159.978787630781,
-      "odds": 0.4934057985099925,
-      "raw_price": 0.4934057985099925,
-      "outcome": "Dione Barbosa",
-      "potential_pnl": 1190.9842353692193,
-      "pnl_multiplier": 1.0267293230437136,
-      "wallet_age_days": 0,
-      "total_activities": 2
-    },
-    "timestamp": "2026-04-04T22:02:26.877888",
-    "trade_hash": "0x904385a73ff37238828bdd672c3d2c2e46e3533048089fcc901f2df8ae0b0b49",
-    "trade_timestamp": 1775339663,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Dione Barbosa",
-      "outcomeIndex": 1,
-      "normalized_position": "NO",
-      "side": "BUY",
-      "price": 0.4934057985099925,
-      "effective_price": 0.4934057985099925,
-      "size": 2350.9630230000002,
-      "amount": 1159.978787630781,
-      "potential_pnl": 1190.9842353692193,
-      "pnl_multiplier": 1.0267293230437136,
-      "is_no": false,
-      "slug": "ufc-mel1-dio-2026",
-      "eventSlug": "ufc-mel1-dio-2026-04-04"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+25.5%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.2386811597019985,
-      "market_price": 0.4934057985099925,
-      "edge": 0.254724638807994,
-      "edge_percent": 25.472463880799403,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Gatto's striking accuracy improves significantly",
-          "Barbosa's grappling defense fails",
-          "Fight ends in a finish rather than a decision"
-        ],
-        "weakest_link": "Gatto's striking accuracy improves significantly"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Gatto's recent performance trends",
-        "Barbosa's fight history against similar opponents"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "ALPHA",
-      "signal_emoji": "\ud83d\udd25",
-      "signal_strength": 105,
-      "interpretation": "Smart money (NO) confirms YES is overpriced",
-      "action_suggestion": "High conviction: insider + statistics aligned",
-      "insider_score": 70,
-      "insider_position": "NO",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.254724638807994,
-      "edge_percent": 25.472463880799403
-    },
-    "financial_analyst": {
-      "signal_quality": 81.0,
-      "stance": "HIGH_CONVICTION",
-      "edge_percent": 25.47,
-      "signal_strength": 105.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x13c2117c22f63d7b0b95e59db9cba806f1f5cff333c2c812f40054125dc16903",
-    "wallet": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
-    "trader": {
-      "rank": 14,
-      "address": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
-      "username": "gmanas",
-      "profit": 4955895.713702176,
-      "volume": 529047708.50599104,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x97504467882760cb74a0e5f2adbed6eb6345263d",
-      "side": "BUY",
-      "asset": "85777790802825974881581755939266143106546518206254447468298034584618202366950",
-      "conditionId": "0x8f96fc29485891c3ef52fedafaf745c0d9d265ac2a22f0164c906c5b84865ad7",
-      "size": 8905.29,
-      "price": 0.5882501524374838,
-      "timestamp": 1775340359,
-      "title": "LoL: Cloud9 vs LYON (BO3) - LCS Group Stage",
-      "slug": "lol-c9-ly-2026-04-04",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
-      "eventSlug": "lol-c9-ly-2026-04-04",
-      "outcome": "Cloud9",
-      "outcomeIndex": 0,
-      "name": "Thyton",
-      "pseudonym": "Elated-Woodshed",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x13c2117c22f63d7b0b95e59db9cba806f1f5cff333c2c812f40054125dc16903",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "LoL: Cloud9 vs LYON (BO3) - LCS Group Stage",
-    "market_slug": "lol-c9-ly-2026-04-04",
-    "amount": 5238.538200000001
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x343dab3266af94ef267d1fad1fc94c663f3840a04dd1452213a0bdcc6e983c7b",
-    "wallet": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
-    "trader": {
-      "rank": 14,
-      "address": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
-      "username": "gmanas",
-      "profit": 4955895.713702176,
-      "volume": 529047708.50599104,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x97504467882760cb74a0e5f2adbed6eb6345263d",
-      "side": "BUY",
-      "asset": "85777790802825974881581755939266143106546518206254447468298034584618202366950",
-      "conditionId": "0x8f96fc29485891c3ef52fedafaf745c0d9d265ac2a22f0164c906c5b84865ad7",
-      "size": 17850.52,
-      "price": 0.5404531800754264,
-      "timestamp": 1775340359,
-      "title": "LoL: Cloud9 vs LYON (BO3) - LCS Group Stage",
-      "slug": "lol-c9-ly-2026-04-04",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
-      "eventSlug": "lol-c9-ly-2026-04-04",
-      "outcome": "Cloud9",
-      "outcomeIndex": 0,
-      "name": "Thyton",
-      "pseudonym": "Elated-Woodshed",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x343dab3266af94ef267d1fad1fc94c663f3840a04dd1452213a0bdcc6e983c7b",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "LoL: Cloud9 vs LYON (BO3) - LCS Group Stage",
-    "market_slug": "lol-c9-ly-2026-04-04",
-    "amount": 9647.3703
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x41ad37151758ed2e5bcad181976ea5472460b25d47c63c2e92f02686875977ed",
-    "wallet": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
-    "trader": {
-      "rank": 8,
-      "address": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
-      "username": "PrincessCaro",
-      "profit": 6083643.099591745,
-      "volume": 23520809.952867,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x8f7a4b414417911e7e9bd738399874792cdbdb40",
-      "side": "BUY",
-      "asset": "76533108781962275310651165149634079251899733930834190485860627580128626747247",
-      "conditionId": "0x6d0e09d0f04572d9b1adad84703458b0297bc5603b69dccbde93147ee4443246",
-      "size": 2000,
-      "price": 0.09,
-      "timestamp": 1775345763,
-      "title": "US forces enter Iran by April 30?",
-      "slug": "us-forces-enter-iran-by-april-30-899",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-forces-enter-iran-by-L_p5JkCpvr0I.jpg",
-      "eventSlug": "us-forces-enter-iran-by",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "duderr",
-      "pseudonym": "Submissive-Communist",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/the_big_lebowski_1_f9b1d40b-4c7d-4627-90b0-0b211cba1e1c_1735689450470.png",
-      "profileImageOptimized": "",
-      "transactionHash": "0x41ad37151758ed2e5bcad181976ea5472460b25d47c63c2e92f02686875977ed",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "US forces enter Iran by April 30?",
-    "market_slug": "us-forces-enter-iran-by",
-    "amount": 1820.0
-  },
-  {
     "market": "Arizona Wildcats vs. Michigan Wolverines",
     "market_slug": "cbb-arz-mich-2026",
     "event_slug": "cbb-arz-mich-2026",
@@ -27686,5 +27402,294 @@
     "market": "Will Algeria vs. Austria end in a draw?",
     "market_slug": "fifwc-alg-aut-2026-06-27",
     "amount": 2028.9899999999998
+  },
+  {
+    "market": "Will Iran announce withdrawal from MOU negotiations by June 30?",
+    "market_slug": "will-iran-announce-withdrawal-from-mou-negotiations-by-june-30-20260622191733845",
+    "event_slug": "will-iran-announce-withdrawal-from-mou-negotiations-by-june-30-20260622191733845",
+    "wallet": "0x876bb030ddd424ef505ae02914024cf18c6a1703",
+    "analysis": {
+      "score": 125,
+      "flags": [
+        "New wallet (2d old)",
+        "Against trend (9.3% effective odds)",
+        "Large bet ($1,392)",
+        "Pre-event latency: 3023m"
+      ],
+      "amount": 1391.79429,
+      "odds": 0.092786286,
+      "raw_price": 0.092786286,
+      "outcome": "Yes",
+      "potential_pnl": 13608.205710000002,
+      "pnl_multiplier": 9.77745476308859,
+      "wallet_age_days": 2,
+      "total_activities": 100
+    },
+    "timestamp": "2026-06-27T21:48:02.848409",
+    "trade_hash": "0xaea7c6941fe1a5f308cec6c32753ade70bec4165c7257afd97e74696ab532852",
+    "trade_timestamp": 1782596227,
+    "latency": {
+      "latency_seconds": 181373.0,
+      "latency_minutes": 3022.883333333333,
+      "is_pre_event": true,
+      "severity": "CRITICAL",
+      "trade_time": "2026-06-27T21:37:07+00:00",
+      "event_time": "2026-06-30T00:00:00+00:00"
+    },
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.092786286,
+      "effective_price": 0.092786286,
+      "size": 15000.0,
+      "amount": 1391.79429,
+      "potential_pnl": 13608.20571,
+      "pnl_multiplier": 9.777454763088588,
+      "is_no": false,
+      "slug": "will-iran-announce-withdrawal-from-mou-negotiations-by-june-30-20260622191733845",
+      "eventSlug": "iran-announces-withdrawal-from-mou-negotiations-byptptpt-20260622191732319"
+    },
+    "irrationality": {
+      "irrationality_score": 40,
+      "flags": [
+        "Longshot (9%) in high bias category (geopolitics)",
+        "Category structurally prone to longshot bias"
+      ],
+      "category": "geopolitics",
+      "category_info": {
+        "strength": "high",
+        "typical_overpricing": 0.05,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.0641145144,
+      "market_price": 0.092786286,
+      "edge": 0.028671771599999993,
+      "edge_percent": 2.8671771599999993,
+      "min_edge_required": 0.05,
+      "is_mispriced": false,
+      "edge_quality": "WEAK",
+      "base_rate_class": "rare",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "rare",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "geopolitics",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 125,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 125,
+      "insider_position": "YES",
+      "irrationality_score": 40,
+      "is_irrational": true,
+      "is_mispriced": false,
+      "edge": 0.028671771599999993,
+      "edge_percent": 2.8671771599999993
+    },
+    "financial_analyst": {
+      "signal_quality": 37.3,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 2.87,
+      "signal_strength": 125.0,
+      "insider_score": 125.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xd1dace0b4d51bb9e0f0bda456d42c5ccc6dcc0c2a5f485d79e54f6dad1dbbf6e",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "87759091846234892634349631014314674377080795425836800198199038966735021375280",
+      "conditionId": "0x18e5dee4bdb0e5e292b3895686a92997bac986f4588f8afd2bcaa8925c65b569",
+      "size": 4011,
+      "price": 0.9,
+      "timestamp": 1782596768,
+      "title": "Panama vs. England: 1st Half O/U 0.5",
+      "slug": "fifwc-pan-eng-2026-06-27-first-half-total-0pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-pan-eng-2026-06-27-more-markets",
+      "outcome": "Under",
+      "outcomeIndex": 1,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "loincloth chic",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xd1dace0b4d51bb9e0f0bda456d42c5ccc6dcc0c2a5f485d79e54f6dad1dbbf6e",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Panama vs. England: 1st Half O/U 0.5",
+    "market_slug": "fifwc-pan-eng-2026-06-27-more-markets",
+    "amount": 3609.9
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x5297eb3cb0292ba512ec6ec6524cb92ed7851ab93dda54ac9ed86e12e961589a",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x89f32aa679d21c7dfa62c6d193a90933c77a7b9f",
+      "side": "SELL",
+      "asset": "93320332124999747203356838766183249400983580913731153318561555477528481141967",
+      "conditionId": "0x7a582647d279d70223a8cfce98451ef6ecbe2e574f24b7dda17be7f65b387c20",
+      "size": 2325.58,
+      "price": 0.74,
+      "timestamp": 1782596767,
+      "title": "Will England win on 2026-06-27?",
+      "slug": "fifwc-pan-eng-2026-06-27-eng",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-pan-eng-2026-06-27",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "MorshedySham",
+      "pseudonym": "Old-Fashioned-Bribery",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x5297eb3cb0292ba512ec6ec6524cb92ed7851ab93dda54ac9ed86e12e961589a",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will England win on 2026-06-27?",
+    "market_slug": "fifwc-pan-eng-2026-06-27",
+    "amount": 1720.9292
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x1e93282acb1e18a2eda753442bfa4f6bb830e21391da1de0e86f359119108cab",
+    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+    "trader": {
+      "rank": 18,
+      "address": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+      "username": "BetTom42",
+      "profit": 5642135.735356,
+      "volume": 11212839.523403,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "60671997351419601965836781704243075681541564553344873499993098937823896255747",
+      "conditionId": "0xd6dd0d2d8960e3377f17350b66b4b680d86aa642a274d5e4a3b1bca3d36eba4d",
+      "size": 27496.66,
+      "price": 0.33,
+      "timestamp": 1782597401,
+      "title": "Croatia vs. Ghana: Both Teams to Score",
+      "slug": "fifwc-hrv-gha-2026-06-27-btts",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "",
+      "outcome": "Yes",
+      "outcomeIndex": 999,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "loincloth chic",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x1e93282acb1e18a2eda753442bfa4f6bb830e21391da1de0e86f359119108cab",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Croatia vs. Ghana: Both Teams to Score",
+    "market_slug": "fifwc-hrv-gha-2026-06-27-btts",
+    "amount": 9073.8978
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xef37a758d97bf94049455d1c413d2ce63e24a102e204e4469b288d897e2430f2",
+    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+    "trader": {
+      "rank": 18,
+      "address": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+      "username": "BetTom42",
+      "profit": 5642135.735356,
+      "volume": 11212839.523403,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x349606c1b77f3ba668879cbc9347f15a44cf8fc4",
+      "side": "BUY",
+      "asset": "69263580765140333674971225972030564537957018364662996912888693198064311161962",
+      "conditionId": "0x2cc359648ba6695498c169ceaa44c5444e0479102c453289c47ed9489e7f3e93",
+      "size": 257923.47,
+      "price": 0.18,
+      "timestamp": 1782597401,
+      "title": "Will Croatia win on 2026-06-27?",
+      "slug": "fifwc-hrv-gha-2026-06-27-hrv",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "",
+      "outcome": "No",
+      "outcomeIndex": 999,
+      "name": "skk1ch",
+      "pseudonym": "Lustrous-Brownie",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xef37a758d97bf94049455d1c413d2ce63e24a102e204e4469b288d897e2430f2",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Croatia win on 2026-06-27?",
+    "market_slug": "fifwc-hrv-gha-2026-06-27-hrv",
+    "amount": 46426.2246
   }
 ]
