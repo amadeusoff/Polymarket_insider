@@ -26925,7 +26925,8 @@
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
+    },
+    "resolution_last_check": "2026-06-27T08:41:01.222494+00:00"
   },
   {
     "market": "Will Uruguay vs. Spain end in a draw?",
