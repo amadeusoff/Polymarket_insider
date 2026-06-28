@@ -1,112 +1,5 @@
 [
   {
-    "market": "Trail Blazers vs. Nuggets",
-    "market_slug": "nba-por-den-2026",
-    "event_slug": "nba-por-den-2026",
-    "wallet": "0xd540ca33c85bfe36b64bfd2febd19d8530380e7d",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (1d old)",
-        "Large bet ($1,213)",
-        "Low activity (3 txns)"
-      ],
-      "amount": 1213.15301760156,
-      "odds": 0.7399999998789554,
-      "raw_price": 0.7399999998789554,
-      "outcome": "Nuggets",
-      "potential_pnl": 426.24295239844014,
-      "pnl_multiplier": 0.3513513515723971,
-      "wallet_age_days": 1,
-      "total_activities": 3
-    },
-    "timestamp": "2026-04-06T21:24:28.705764",
-    "trade_hash": "0x4f1e07c44ed5b529375dde4b275a86640ad1be90a97d01c116f7cf6a85023704",
-    "trade_timestamp": 1775510423,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Nuggets",
-      "outcomeIndex": 1,
-      "normalized_position": "NO",
-      "side": "BUY",
-      "price": 0.7399999998789554,
-      "effective_price": 0.7399999998789554,
-      "size": 1639.39597,
-      "amount": 1213.15301760156,
-      "potential_pnl": 426.24295239844014,
-      "pnl_multiplier": 0.3513513515723971,
-      "is_no": false,
-      "slug": "nba-por-den-2026",
-      "eventSlug": "nba-por-den-2026-04-06"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+45.2%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.28799999997579107,
-      "market_price": 0.7399999998789554,
-      "edge": 0.4519999999031643,
-      "edge_percent": 45.19999999031643,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Trail Blazers must maintain a strong home-court advantage",
-          "Nuggets need to face significant injury issues",
-          "Matchup history favors the Trail Blazers"
-        ],
-        "weakest_link": "Nuggets need to face significant injury issues"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "recent performance trends of both teams",
-        "fan sentiment and support for the Trail Blazers"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "ALPHA",
-      "signal_emoji": "\ud83d\udd25",
-      "signal_strength": 105,
-      "interpretation": "Smart money (NO) confirms YES is overpriced",
-      "action_suggestion": "High conviction: insider + statistics aligned",
-      "insider_score": 70,
-      "insider_position": "NO",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.4519999999031643,
-      "edge_percent": 45.19999999031643
-    },
-    "financial_analyst": {
-      "signal_quality": 81.0,
-      "stance": "HIGH_CONVICTION",
-      "edge_percent": 45.2,
-      "signal_strength": 105.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0x437a61ca645ac2b9570c81fe00fb0376f941ebe0f723809967231ca7ac30a801",
     "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
@@ -27609,5 +27502,49 @@
     "market": "Seattle Mariners vs. Cleveland Guardians: O/U 7.5",
     "market_slug": "mlb-sea-cle-2026-06-28",
     "amount": 3592.935
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x5fefb8aa71a3eea65a3a016cc57e06f834ce3b34604a16c63b7f484a3d9795f3",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x24dd0480fa395fca21a495d73704496afc940e72",
+      "side": "BUY",
+      "asset": "108233603819467706476318984012158651931658302669301887462181073562758483842092",
+      "conditionId": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
+      "size": 36676.347825,
+      "price": 0.22999999997955087,
+      "timestamp": 1782672451,
+      "title": "Will France win the 2026 FIFA World Cup?",
+      "slug": "will-france-win-the-2026-fifa-world-cup-924",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/world-cup-winner-france-flag-20260603-192743.png",
+      "eventSlug": "world-cup-winner",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "jhonma",
+      "pseudonym": "Harmful-Similarity-Trapezoid",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x5fefb8aa71a3eea65a3a016cc57e06f834ce3b34604a16c63b7f484a3d9795f3",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will France win the 2026 FIFA World Cup?",
+    "market_slug": "world-cup-winner",
+    "amount": 8435.559999
   }
 ]
