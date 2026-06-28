@@ -1,51 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x8c8651f6a98480e28b62ff732e5932ec40641cfa6deb555ddf57024156cfee3c",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.51568201,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x14cf467786bb4cf1178437df8b6639a1bce3c320",
-      "side": "SELL",
-      "asset": "50143980393435996217714022897965886420387298227054033598176282877756178368402",
-      "conditionId": "0x68beecc857017df8663fa36c0c86310dec7305aa88fe830c94651391314afc1c",
-      "size": 11808.69,
-      "price": 0.13,
-      "timestamp": 1775506047,
-      "title": "Trump announces end of military operations against Iran by April 15th?",
-      "slug": "trump-announces-end-of-military-operations-against-iran-by-april-15th-962-364-677",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-announces-end-of-military-operations-against-iran-before-july-KQddUiSdAUpe.jpg",
-      "eventSlug": "trump-announces-end-of-military-operations-against-iran-by",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "UASUAVeee",
-      "pseudonym": "Leafy-Morbidity",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x8c8651f6a98480e28b62ff732e5932ec40641cfa6deb555ddf57024156cfee3c",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Trump announces end of military operations against Iran by April 15th?",
-    "market_slug": "trump-announces-end-of-military-operations-against-iran-by",
-    "amount": 1535.1297000000002,
-    "ai_context": "OVERPRICED. Diplomatic tensions remain high, and historical precedent suggests continued military engagement rather than a swift withdrawal by April."
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x0ee8759c359f2d548d0e03914715b5f3d20dff1478ee5889829f1bc484d0fec5",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -27552,5 +27507,49 @@
     "market": "Dota 2: Virtus.pro vs HULIGANI - Game 1 Winner",
     "market_slug": "dota2-vp-huliga-2026-06-28",
     "amount": 2999.9999980000002
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xb87aa7000c8ce54ee3064a2338d159ee5474b89e6d95ccd6338885b12c3c0379",
+    "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+    "trader": {
+      "rank": 18,
+      "address": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+      "username": "KeyTransporter",
+      "profit": 5711459.802519929,
+      "volume": 20086062.154324993,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x4aec70021891ea712aaf3e2dd76c30f6b09a4ce9",
+      "side": "BUY",
+      "asset": "24620541745791156025661265563426846637122887542869434930908885894516221853771",
+      "conditionId": "0x08a4243912920a6f4e8d912f8b9e41c1e13340003cedba8cc060f48244909a96",
+      "size": 8000,
+      "price": 0.62,
+      "timestamp": 1782652324,
+      "title": "Dota 2: Virtus.pro vs HULIGANI - Game 2 Winner",
+      "slug": "dota2-vp-huliga-2026-06-28-game2",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/dota2-7ffacddb21.jpg",
+      "eventSlug": "dota2-vp-huliga-2026-06-28",
+      "outcome": "Virtus.pro",
+      "outcomeIndex": 0,
+      "name": "gxxyy",
+      "pseudonym": "Plain-Attitude",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xb87aa7000c8ce54ee3064a2338d159ee5474b89e6d95ccd6338885b12c3c0379",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Dota 2: Virtus.pro vs HULIGANI - Game 2 Winner",
+    "market_slug": "dota2-vp-huliga-2026-06-28",
+    "amount": 4960.0
   }
 ]
