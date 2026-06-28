@@ -1,95 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x0ee8759c359f2d548d0e03914715b5f3d20dff1478ee5889829f1bc484d0fec5",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.51568201,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x1118257121e67ba3f0c9bff271f3ca29c2c2d320",
-      "side": "BUY",
-      "asset": "61963573353880265694358880181512412652951688509792017552668784297365342759317",
-      "conditionId": "0xfcde02af15efe40e336d67f0ef9aa49e9d40c37b92961fb890afc4afdbfe54d6",
-      "size": 18261.42857,
-      "price": 0.7,
-      "timestamp": 1775508447,
-      "title": "Will TISZA \u2013 Respect and Freedom Party (TISZA) win the most seats in the next Hungarian parliamentary election?",
-      "slug": "will-tisza-respect-and-freedom-party-tisza-win-the-most-seats-in-the-next-hungarian-parliamentary-election",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-tisza-respect-and-freedom-party-tisza-win-the-most-seats-in-the-next-hungarian-parliamentary-election-UMinl25aFF0J.png",
-      "eventSlug": "hungary-parliamentary-election-winner",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "PetrLudwig",
-      "pseudonym": "Loud-Trapezoid",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x0ee8759c359f2d548d0e03914715b5f3d20dff1478ee5889829f1bc484d0fec5",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will TISZA \u2013 Respect and Freedom Party (TISZA) win the most seats in the next Hungarian parliamentary election?",
-    "market_slug": "hungary-parliamentary-election-winner",
-    "amount": 12782.999999,
-    "ai_context": "OVERPRICED. Incumbent advantage and historical trends suggest TISZA may struggle against established parties in the upcoming election."
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x74c8141f7d543c01885471a934df35359d07f2b047a07948d3c2b7178180e98b",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.51568201,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xd48a81db62f742c4e42d86dfc23a7ee345366e90",
-      "side": "BUY",
-      "asset": "65085765758547938248635273968174674431959683798348472600204186101042030389703",
-      "conditionId": "0xb0895d2eb96b48b5e9a62a7e02aacb534c4c63fe153712ac93d4bd9c77c2b2e3",
-      "size": 4019.183682,
-      "price": 0.4899999998824,
-      "timestamp": 1775508447,
-      "title": "Connecticut Huskies vs. Michigan Wolverines: O/U 145.5",
-      "slug": "cbb-uconn-mich-2026-04-06-total-145pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "cbb-uconn-mich-2026-04-06",
-      "outcome": "Under",
-      "outcomeIndex": 1,
-      "name": "NiFengFanPan",
-      "pseudonym": "Orderly-Venture",
-      "bio": "Wen Zhong Qiu Sheng",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3358711-e85e8a4d-0015-4638-8326-28b28b4859ed.webp",
-      "profileImageOptimized": "",
-      "transactionHash": "0x74c8141f7d543c01885471a934df35359d07f2b047a07948d3c2b7178180e98b",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Connecticut Huskies vs. Michigan Wolverines: O/U 145.5",
-    "market_slug": "cbb-uconn-mich-2026-04-06",
-    "amount": 1969.400003707344,
-    "ai_context": "FAIR. Both teams have strong defenses and historically low-scoring matchups, justifying a competitive under percentage."
-  },
-  {
     "market": "Trail Blazers vs. Nuggets",
     "market_slug": "nba-por-den-2026",
     "event_slug": "nba-por-den-2026",
@@ -27551,5 +27461,153 @@
     "market": "Dota 2: Virtus.pro vs HULIGANI - Game 2 Winner",
     "market_slug": "dota2-vp-huliga-2026-06-28",
     "amount": 4960.0
+  },
+  {
+    "market": "Will Brazil win the 2026 FIFA World Cup?",
+    "market_slug": "will-brazil-win-the-2026-fifa-world-cup-183",
+    "event_slug": "will-brazil-win-the-2026-fifa-world-cup-183",
+    "wallet": "0x476e1322d1a412fa0325527b8c3bc5e707b1396d",
+    "analysis": {
+      "score": 85,
+      "flags": [
+        "New wallet (0d old)",
+        "Against trend (5.8% effective odds)",
+        "Large bet ($1,533)"
+      ],
+      "amount": 1532.56474,
+      "odds": 0.058,
+      "raw_price": 0.058,
+      "outcome": "Yes",
+      "potential_pnl": 24890.965259999997,
+      "pnl_multiplier": 16.241379310344826,
+      "wallet_age_days": 0,
+      "total_activities": 19
+    },
+    "timestamp": "2026-06-28T17:42:55.825303",
+    "trade_hash": "0x65ac4688eb9c619595439dbfb3f3620509449de56513f3137f948fe274bb33c8",
+    "trade_timestamp": 1782668215,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.058,
+      "effective_price": 0.058,
+      "size": 26423.53,
+      "amount": 1532.56474,
+      "potential_pnl": 24890.965259999997,
+      "pnl_multiplier": 16.241379310344826,
+      "is_no": false,
+      "slug": "will-brazil-win-the-2026-fifa-world-cup-183",
+      "eventSlug": "world-cup-winner"
+    },
+    "irrationality": {
+      "irrationality_score": 25,
+      "flags": [
+        "Longshot (6%) in medium bias category (sports)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.045700000000000005,
+      "market_price": 0.058,
+      "edge": 0.012299999999999998,
+      "edge_percent": 1.2299999999999998,
+      "min_edge_required": 0.05,
+      "is_mispriced": false,
+      "edge_quality": "WEAK",
+      "base_rate_class": "rare",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "rare",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 85,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 85,
+      "insider_position": "YES",
+      "irrationality_score": 25,
+      "is_irrational": false,
+      "is_mispriced": false,
+      "edge": 0.012299999999999998,
+      "edge_percent": 1.2299999999999998
+    },
+    "financial_analyst": {
+      "signal_quality": 28.8,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 1.23,
+      "signal_strength": 85.0,
+      "insider_score": 85.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xe15a3d28d8f2768b42dc7bb04196cd346e577f755ed513a7a178b7297987d778",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+      "side": "BUY",
+      "asset": "73922178835429550521779397772852795975588917027932718641712137953540226712501",
+      "conditionId": "0xa5c91a275b76d4c50d92eee50d17cf08a7bcb2886450a40eac125b533831b9cb",
+      "size": 7185.87,
+      "price": 0.5,
+      "timestamp": 1782668248,
+      "title": "Seattle Mariners vs. Cleveland Guardians: O/U 7.5",
+      "slug": "mlb-sea-cle-2026-06-28-total-7pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
+      "eventSlug": "mlb-sea-cle-2026-06-28",
+      "outcome": "Under",
+      "outcomeIndex": 1,
+      "name": "mooseborzoi",
+      "pseudonym": "Agitated-Bricklaying",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xe15a3d28d8f2768b42dc7bb04196cd346e577f755ed513a7a178b7297987d778",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Seattle Mariners vs. Cleveland Guardians: O/U 7.5",
+    "market_slug": "mlb-sea-cle-2026-06-28",
+    "amount": 3592.935
   }
 ]
