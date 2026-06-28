@@ -1,51 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x10d58b35bf9cc9d95aa91455de7d390e541c8991f9748125731b2340a0f90217",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.51568201,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xa8fac068d32639c40188563c83c206b320e57dda",
-      "side": "BUY",
-      "asset": "104875416173670121020949799580698937213218916543870860778075607852731218974220",
-      "conditionId": "0xdb63bb7d41cb852a80a573b398b91627e884827755e73e3ed8eee2f70076fa93",
-      "size": 4467.26,
-      "price": 0.6490150562089514,
-      "timestamp": 1775504245,
-      "title": "Will MrBeast's next video get between 58 and 60 million views on day 3?",
-      "slug": "will-mrbeasts-next-video-get-between-58-and-60-million-views-on-day-3",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/of-views-of-next-mrbeast-video-on-day-1--HcOnJGLLP3O.jpg",
-      "eventSlug": "of-views-of-mrbeast-video-day-3-176",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "0xA8fAC068d32639c40188563C83c206b320E57Dda-1773425391498",
-      "pseudonym": "Tough-Filing",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x10d58b35bf9cc9d95aa91455de7d390e541c8991f9748125731b2340a0f90217",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will MrBeast's next video get between 58 and 60 million views on day 3?",
-    "market_slug": "of-views-of-mrbeast-video-day-3-176",
-    "amount": 2899.3190000000004,
-    "ai_context": "OVERPRICED. MrBeast's videos typically exceed 60 million views; a 65% chance for this range seems too conservative."
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x8c8651f6a98480e28b62ff732e5932ec40641cfa6deb555ddf57024156cfee3c",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -27553,5 +27508,49 @@
     "market": "Spread: Austria (-1.5)",
     "market_slug": "fifwc-alg-aut-2026-06-27-more-markets",
     "amount": 3560.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xcb5b08f5bddcf78bc3bd58b4619c2bcb5b6b05e90902a41cc0d5753b535f88b9",
+    "wallet": "0xbc11a64ab34a03a043fbe80598fa065ee87eeec6",
+    "trader": {
+      "rank": 8,
+      "address": "0xbc11a64ab34a03a043fbe80598fa065ee87eeec6",
+      "username": "frostrizz",
+      "profit": 8928561.117991824,
+      "volume": 23091318.155748,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x4e8d5fd8911c46e7270e5424576a57630c74febf",
+      "side": "BUY",
+      "asset": "14194077855502904352908481245906896510641389935487707987723210184609102793999",
+      "conditionId": "0x0128b7d744bec41c19c3a341021269101cef263329e23b76237044a6ac3c0dcd",
+      "size": 3310.289339,
+      "price": 0.9062651903734389,
+      "timestamp": 1782646319,
+      "title": "Dota 2: Virtus.pro vs HULIGANI - Game 1 Winner",
+      "slug": "dota2-vp-huliga-2026-06-28-game1",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/dota2-7ffacddb21.jpg",
+      "eventSlug": "dota2-vp-huliga-2026-06-28",
+      "outcome": "Virtus.pro",
+      "outcomeIndex": 0,
+      "name": "ggwp-cs2",
+      "pseudonym": "Silky-Vogue",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xcb5b08f5bddcf78bc3bd58b4619c2bcb5b6b05e90902a41cc0d5753b535f88b9",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Dota 2: Virtus.pro vs HULIGANI - Game 1 Winner",
+    "market_slug": "dota2-vp-huliga-2026-06-28",
+    "amount": 2999.9999980000002
   }
 ]
