@@ -1,51 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xfac8ae82fa65fd79235457fec7630c6ff3ac2b0d9b516fbefdaf940ce374d6e4",
-    "wallet": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
-    "trader": {
-      "rank": 19,
-      "address": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
-      "username": "Jenzigo",
-      "profit": 4049827.0941029997,
-      "volume": 9457725.03433801,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-      "side": "BUY",
-      "asset": "5528695519637465448985827727623623910936051246942194906572450403924959976003",
-      "conditionId": "0xb3e74ab796b88be00dc43dadd1548e42cee46e2f7ce3ee36f17f2413d52234cc",
-      "size": 5841.1861,
-      "price": 0.91,
-      "timestamp": 1775501243,
-      "title": "SSC Napoli vs. AC Milan: O/U 4.5",
-      "slug": "sea-nap-mil-2026-04-06-total-4pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Serie-A-Logo.png",
-      "eventSlug": "sea-nap-mil-2026-04-06-more-markets",
-      "outcome": "Under",
-      "outcomeIndex": 1,
-      "name": "swisstony",
-      "pseudonym": "Frail-Possible",
-      "bio": "loincloth chic",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xfac8ae82fa65fd79235457fec7630c6ff3ac2b0d9b516fbefdaf940ce374d6e4",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "SSC Napoli vs. AC Milan: O/U 4.5",
-    "market_slug": "sea-nap-mil-2026-04-06-more-markets",
-    "amount": 5315.479351,
-    "ai_context": "OVERPRICED. Both teams have strong defenses and typically low-scoring matchups, making 91% for Under too optimistic."
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x10d58b35bf9cc9d95aa91455de7d390e541c8991f9748125731b2340a0f90217",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -27552,5 +27507,49 @@
     "market": "Colombia vs. Portugal: O/U 1.5",
     "market_slug": "fifwc-col-prt-2026-06-27-more-markets",
     "amount": 2303.47
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x561e6a667b2f3a616f61bb88f074fbc7676fe7b0bc3c215c7c4c1da48da696cd",
+    "wallet": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
+    "trader": {
+      "rank": 9,
+      "address": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
+      "username": "Len9311238",
+      "profit": 8709972.988069998,
+      "volume": 16402744.764626998,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "52699883620729186108773176469138242714074963638253280498752802287786094587043",
+      "conditionId": "0x4099902eee2ab9ca7b34327cf7fed4d3fb6c835f58577fbf00b09199cc09e1bd",
+      "size": 4000,
+      "price": 0.89,
+      "timestamp": 1782612385,
+      "title": "Spread: Austria (-1.5)",
+      "slug": "fifwc-alg-aut-2026-06-27-spread-away-1pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-alg-aut-2026-06-27-more-markets",
+      "outcome": "Algeria",
+      "outcomeIndex": 1,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "loincloth chic",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x561e6a667b2f3a616f61bb88f074fbc7676fe7b0bc3c215c7c4c1da48da696cd",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spread: Austria (-1.5)",
+    "market_slug": "fifwc-alg-aut-2026-06-27-more-markets",
+    "amount": 3560.0
   }
 ]
