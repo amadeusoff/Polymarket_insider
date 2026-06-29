@@ -1,51 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x14ca7d1ebc668512ca0d9fbd70217a1ad75be99a51b02189ad930fa1c4fdc524",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x3f5ea0a8053e81ce2f59814118869322c35fe7db",
-      "side": "BUY",
-      "asset": "37992007915130616159810987147462761110418400522972721876119456361964804692051",
-      "conditionId": "0xb35792805e3cb829eef50e2f86c80578096166faa130aff26b9d8354222bf649",
-      "size": 5480.50393,
-      "price": 0.79,
-      "timestamp": 1775570871,
-      "title": "Will Sporting CP win on 2026-04-07?",
-      "slug": "ucl-spo1-ars-2026-04-07-spo1",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/champions-league-pic-QIUFsL8vaDdq.png",
-      "eventSlug": "ucl-spo1-ars-2026-04-07",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "piggyery",
-      "pseudonym": "Pleasing-Biology",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x14ca7d1ebc668512ca0d9fbd70217a1ad75be99a51b02189ad930fa1c4fdc524",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Sporting CP win on 2026-04-07?",
-    "market_slug": "ucl-spo1-ars-2026-04-07",
-    "amount": 4329.5981047000005,
-    "ai_context": "FAIR | The odds reflect Sporting CP's competitive form and historical performance, making 79% reasonable for a loss."
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xe51fbfe7a0b22143324ac781495a9a596626230c90d6e8e85d4d4d9f01493308",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -27546,5 +27501,49 @@
     "market": "Brazil vs. Japan: Team to Advance",
     "market_slug": "fifwc-bra-jpn-2026-06-29-more-markets",
     "amount": 4199.999999000001
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x2d5ce1a3c2c8c5e848352e8406bdc8eca7e51e194d1e825733993cd3eea50332",
+    "wallet": "0xbc11a64ab34a03a043fbe80598fa065ee87eeec6",
+    "trader": {
+      "rank": 8,
+      "address": "0xbc11a64ab34a03a043fbe80598fa065ee87eeec6",
+      "username": "frostrizz",
+      "profit": 8928561.117991824,
+      "volume": 23091318.155748,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
+      "side": "BUY",
+      "asset": "48467851601410607933778557547920001333920497181812566740092392795665038676081",
+      "conditionId": "0x998efd8b95f1d26b648be6e07c75db99c2be186c5a6b8833394d1347af46ac41",
+      "size": 17252,
+      "price": 0.5,
+      "timestamp": 1782749747,
+      "title": "Brazil vs. Japan: Both Teams to Score",
+      "slug": "fifwc-bra-jpn-2026-06-29-btts",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "",
+      "outcome": "No",
+      "outcomeIndex": 999,
+      "name": "sbsigner",
+      "pseudonym": "Foolish-Mango",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x2d5ce1a3c2c8c5e848352e8406bdc8eca7e51e194d1e825733993cd3eea50332",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Brazil vs. Japan: Both Teams to Score",
+    "market_slug": "fifwc-bra-jpn-2026-06-29-btts",
+    "amount": 8626.0
   }
 ]
