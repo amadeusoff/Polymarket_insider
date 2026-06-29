@@ -1,106 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xe51fbfe7a0b22143324ac781495a9a596626230c90d6e8e85d4d4d9f01493308",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xead152b855effa6b5b5837f53b24c0756830c76a",
-      "side": "BUY",
-      "asset": "68460077924802366528730773153761191019390915013434646128811780345158625826042",
-      "conditionId": "0x34aa21fa8c2913b00485f493664b4fa2f309d680184185e2aa0e1e66687a6c8f",
-      "size": 34127.26,
-      "price": 0.56,
-      "timestamp": 1775579873,
-      "title": "Oilers vs. Utah",
-      "slug": "nhl-edm-utah-2026-04-07",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nhl.png",
-      "eventSlug": "nhl-edm-utah-2026-04-07",
-      "outcome": "Utah",
-      "outcomeIndex": 1,
-      "name": "elkmonkey",
-      "pseudonym": "Unconscious-Penguin",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xe51fbfe7a0b22143324ac781495a9a596626230c90d6e8e85d4d4d9f01493308",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Oilers vs. Utah",
-    "market_slug": "nhl-edm-utah-2026-04-07",
-    "amount": 19111.265600000002,
-    "resolution": {
-      "outcome": "Utah",
-      "checked_at": "2026-04-08T07:15:14.951822+00:00",
-      "insider_win": null,
-      "model_correct": null
-    }
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xdd9be935ffbe8910813bdd23500fcf6d390d3f420097d900756658424760e259",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xead152b855effa6b5b5837f53b24c0756830c76a",
-      "side": "BUY",
-      "asset": "68460077924802366528730773153761191019390915013434646128811780345158625826042",
-      "conditionId": "0x34aa21fa8c2913b00485f493664b4fa2f309d680184185e2aa0e1e66687a6c8f",
-      "size": 2683.83,
-      "price": 0.56,
-      "timestamp": 1775579873,
-      "title": "Oilers vs. Utah",
-      "slug": "nhl-edm-utah-2026-04-07",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nhl.png",
-      "eventSlug": "nhl-edm-utah-2026-04-07",
-      "outcome": "Utah",
-      "outcomeIndex": 1,
-      "name": "elkmonkey",
-      "pseudonym": "Unconscious-Penguin",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xdd9be935ffbe8910813bdd23500fcf6d390d3f420097d900756658424760e259",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Oilers vs. Utah",
-    "market_slug": "nhl-edm-utah-2026-04-07",
-    "amount": 1502.9448000000002,
-    "resolution": {
-      "outcome": "Utah",
-      "checked_at": "2026-04-08T07:15:14.951858+00:00",
-      "insider_win": null,
-      "model_correct": null
-    }
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x8cc183980bf588fc3bc3443a5275ca383e68a41bbea0ec58ccdfd0daa9c6aaa2",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -27545,5 +27445,93 @@
     "market": "Brazil vs. Japan: Both Teams to Score",
     "market_slug": "fifwc-bra-jpn-2026-06-29-btts",
     "amount": 8626.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x889757165162fc2548b87ba2f71f1e8ad54f473a9e8e5bd5a429fc64a0ca3afa",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x2412ddceb679780f123d340da92ae245f264b5a1",
+      "side": "BUY",
+      "asset": "105955641798220222973109187224574301257632160324818588692950982681479970305564",
+      "conditionId": "0xdac6e67bfc09e630711ceb1be0be8f19c472344ca4353b608cc3b9282e61ec95",
+      "size": 11666.508473,
+      "price": 0.5899999999939999,
+      "timestamp": 1782769850,
+      "title": "Will Germany win on 2026-06-29?",
+      "slug": "fifwc-ger-par-2026-06-29-ger",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-ger-par-2026-06-29",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "henry202508",
+      "pseudonym": "Tattered-Forum",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x889757165162fc2548b87ba2f71f1e8ad54f473a9e8e5bd5a429fc64a0ca3afa",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Germany win on 2026-06-29?",
+    "market_slug": "fifwc-ger-par-2026-06-29",
+    "amount": 6883.239998999999
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x8b6a7464df49f65028c9adec429df36070660aad03e86b01809871a6efa6e510",
+    "wallet": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
+    "trader": {
+      "rank": 2,
+      "address": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
+      "username": "Fredi9999",
+      "profit": 16619506.631730152,
+      "volume": 76611316.90515402,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x839e95471009f3ef9c50c755f2d8fe57f1b40d3c",
+      "side": "BUY",
+      "asset": "105955641798220222973109187224574301257632160324818588692950982681479970305564",
+      "conditionId": "0xdac6e67bfc09e630711ceb1be0be8f19c472344ca4353b608cc3b9282e61ec95",
+      "size": 20000,
+      "price": 0.55,
+      "timestamp": 1782770152,
+      "title": "Will Germany win on 2026-06-29?",
+      "slug": "fifwc-ger-par-2026-06-29-ger",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-ger-par-2026-06-29",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "Tanqiyuan",
+      "pseudonym": "Aggressive-Loincloth",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x8b6a7464df49f65028c9adec429df36070660aad03e86b01809871a6efa6e510",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Germany win on 2026-06-29?",
+    "market_slug": "fifwc-ger-par-2026-06-29",
+    "amount": 11000.0
   }
 ]
