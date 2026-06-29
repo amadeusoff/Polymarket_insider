@@ -1,51 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x437a61ca645ac2b9570c81fe00fb0376f941ebe0f723809967231ca7ac30a801",
-    "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
-    "trader": {
-      "rank": 17,
-      "address": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
-      "username": "432614799197",
-      "profit": 4526176.046412439,
-      "volume": 185485956.8620829,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xebbba265a23a5c13d94051b4be1090101e024214",
-      "side": "BUY",
-      "asset": "72366711975805571374660628153225204556559937284048893748248897309484385762835",
-      "conditionId": "0x8be05ca821d04baecf14dfe20dd6636c222ed11b8c9555cfe24b8cf608e871bc",
-      "size": 4081.632652,
-      "price": 0.4899999998824,
-      "timestamp": 1775538757,
-      "title": "Predators vs. Kings",
-      "slug": "nhl-nsh-lak-2026-04-06",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nhl.png",
-      "eventSlug": "nhl-nsh-lak-2026-04-06",
-      "outcome": "Predators",
-      "outcomeIndex": 0,
-      "name": "capnjack1497",
-      "pseudonym": "Kindly-Amazement",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x437a61ca645ac2b9570c81fe00fb0376f941ebe0f723809967231ca7ac30a801",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Predators vs. Kings",
-    "market_slug": "nhl-nsh-lak-2026-04-06",
-    "amount": 1999.999999,
-    "ai_context": "FAIR. Predators' performance aligns with their tier and recent trends against Kings, making 49% reasonable for this matchup."
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x14ca7d1ebc668512ca0d9fbd70217a1ad75be99a51b02189ad930fa1c4fdc524",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -27546,5 +27501,49 @@
     "market": "Will France win the 2026 FIFA World Cup?",
     "market_slug": "world-cup-winner",
     "amount": 8435.559999
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x998156c45fb7fa0969ff92732f3bed6388a89803b08ee9807e30e3293b106238",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "trader": {
+      "rank": 5,
+      "address": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+      "username": "RN1",
+      "profit": 10250916.127447171,
+      "volume": 776817786.7282922,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x2299991c592ed625f5aaee9e285adc3c44d3d23a",
+      "side": "BUY",
+      "asset": "67818389888512954905767980195612269991106882334696952842255487536931474428184",
+      "conditionId": "0x92ea3b6a5f5f43ad592ddef5aa169892e0bce349da751eac9086717e178f7a7e",
+      "size": 15555.555554,
+      "price": 0.2699999999627143,
+      "timestamp": 1782717515,
+      "title": "Brazil vs. Japan: Team to Advance",
+      "slug": "fifwc-bra-jpn-2026-06-29-team-to-advance",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-bra-jpn-2026-06-29-more-markets",
+      "outcome": "Japan",
+      "outcomeIndex": 1,
+      "name": "0x2299991c592eD625f5aaEE9e285adc3C44D3d23A-1781195899775",
+      "pseudonym": "Surprised-Loquat",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x998156c45fb7fa0969ff92732f3bed6388a89803b08ee9807e30e3293b106238",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Brazil vs. Japan: Team to Advance",
+    "market_slug": "fifwc-bra-jpn-2026-06-29-more-markets",
+    "amount": 4199.999999000001
   }
 ]
