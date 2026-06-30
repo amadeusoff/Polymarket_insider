@@ -1,211 +1,5 @@
 [
   {
-    "market": "Kharg Island no longer under Iranian control by April 15?",
-    "market_slug": "kharg-island-no-longer-under-iranian-control-by-april-15",
-    "event_slug": "kharg-island-no-longer-under-iranian-control-by-april-15",
-    "wallet": "0xc8ab97a9089a9ff7e6ef0688e6e591a066946418",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "Against trend (3.3% effective odds)",
-        "Large bet ($1,041)",
-        "Pre-event latency: 10075m"
-      ],
-      "amount": 1041.1361499999998,
-      "odds": 0.03300206101191183,
-      "raw_price": 0.9669979389880882,
-      "outcome": "No",
-      "potential_pnl": 30506.473850000002,
-      "pnl_multiplier": 29.301137848301597,
-      "wallet_age_days": 437,
-      "total_activities": 100
-    },
-    "timestamp": "2026-04-08T00:07:27.562942",
-    "trade_hash": "0x0a8e4592afb1746594ad880c330004b2643196d4733b6f046387bfdfaaf08293",
-    "trade_timestamp": 1775606671,
-    "latency": {
-      "latency_seconds": 604529.0,
-      "latency_minutes": 10075.483333333334,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-04-08T00:04:31+00:00",
-      "event_time": "2026-04-15T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "normalized_position": "NO",
-      "side": "BUY",
-      "price": 0.9669979389880882,
-      "effective_price": 0.9669979389880882,
-      "size": 31547.61,
-      "amount": 30506.473850000002,
-      "potential_pnl": 1041.1361499999985,
-      "pnl_multiplier": 0.034128367477646006,
-      "is_no": true,
-      "slug": "kharg-island-no-longer-under-iranian-control-by-april-15",
-      "eventSlug": "kharg-island-no-longer-under-iranian-control-by-march-31"
-    },
-    "irrationality": {
-      "irrationality_score": 40,
-      "flags": [
-        "Category structurally prone to longshot bias",
-        "Large mispricing edge (+75.0%)"
-      ],
-      "category": "geopolitics",
-      "category_info": {
-        "strength": "high",
-        "typical_overpricing": 0.05,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.21739958779761764,
-      "market_price": 0.9669979389880882,
-      "edge": 0.7495983511904705,
-      "edge_percent": 74.95983511904704,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "rare",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "rare",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Significant internal unrest in Iran",
-          "International military intervention",
-          "Economic sanctions leading to regime change"
-        ],
-        "weakest_link": "International military intervention"
-      },
-      "category": "geopolitics",
-      "narrative_drivers": [
-        "Increased tensions between Iran and Western nations",
-        "Potential for regional allies to support a change in control"
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "ALPHA",
-      "signal_emoji": "\ud83d\udd25",
-      "signal_strength": 125,
-      "interpretation": "Smart money (NO) confirms YES is overpriced",
-      "action_suggestion": "High conviction: insider + statistics aligned",
-      "insider_score": 85,
-      "insider_position": "NO",
-      "irrationality_score": 40,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.7495983511904705,
-      "edge_percent": 74.95983511904704
-    },
-    "financial_analyst": {
-      "signal_quality": 85.0,
-      "stance": "HIGH_CONVICTION",
-      "edge_percent": 74.96,
-      "signal_strength": 125.0,
-      "insider_score": 85.0,
-      "risk_note": "High stake detected \u2014 copy with reduced sizing (25-40% of source risk)."
-    },
-    "resolution_last_check": "2026-04-08T07:15:20.437228+00:00"
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x261c963e19095e718144c833788692e033361f395bd1e6964e37c335ce341a9c",
-    "wallet": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
-    "trader": {
-      "rank": 9,
-      "address": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
-      "username": "walletmobile",
-      "profit": 5942685.45339684,
-      "volume": 32196692.075936034,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x116db6298abcdefe06f9f5458c293c7de185fbf1",
-      "side": "BUY",
-      "asset": "85943656054682262596342511874298705853564805253013213963635615255215203982111",
-      "conditionId": "0xd17a98a803c76564e973ed3a4a724d75216afd38838510ea3f4997d2c5792f6a",
-      "size": 2158.61747,
-      "price": 0.9200607997120815,
-      "timestamp": 1775635701,
-      "title": "Will the highest temperature in Shenzhen be 26\u00b0C on April 8?",
-      "slug": "highest-temperature-in-shenzhen-on-april-8-2026-26c",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/shenzhen-cf834873c6.jpg",
-      "eventSlug": "highest-temperature-in-shenzhen-on-april-8-2026",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "opopv",
-      "pseudonym": "Euphoric-Entirety",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x261c963e19095e718144c833788692e033361f395bd1e6964e37c335ce341a9c",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will the highest temperature in Shenzhen be 26\u00b0C on April 8?",
-    "market_slug": "highest-temperature-in-shenzhen-on-april-8-2026",
-    "amount": 1986.0593157206704,
-    "ai_context": "OVERPRICED. Historical data shows April temperatures in Shenzhen often exceed 26\u00b0C, making a 92% likelihood too high."
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x2101d79d7a0afd478f72e03484da866d2d91a4921378151b106af1b889b1ed4f",
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "trader": {
-      "rank": 7,
-      "address": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-      "username": "RN1",
-      "profit": 7054344.673449626,
-      "volume": 378484586.48524207,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
-      "side": "BUY",
-      "asset": "60910303088181151568772843146360189858140638839767805744363557735676315652524",
-      "conditionId": "0xea5e0efe27a124bd21a402529acbc0996ec39f40341f05c9480f50888371ac39",
-      "size": 10737.49198,
-      "price": 0.37,
-      "timestamp": 1775639903,
-      "title": "LoL: Ninjas in Pyjamas vs Invictus Gaming - Game 1 Winner",
-      "slug": "lol-nip-ig1-2026-04-08-game1",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
-      "eventSlug": "lol-nip-ig1-2026-04-08",
-      "outcome": "Ninjas in Pyjamas",
-      "outcomeIndex": 0,
-      "name": "fkgggg2mouzfuria",
-      "pseudonym": "Misty-Request",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x2101d79d7a0afd478f72e03484da866d2d91a4921378151b106af1b889b1ed4f",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "LoL: Ninjas in Pyjamas vs Invictus Gaming - Game 1 Winner",
-    "market_slug": "lol-nip-ig1-2026-04-08",
-    "amount": 3972.8720326000002,
-    "ai_context": "FAIR. Ninjas in Pyjamas' 37% reflects their competitive tier and historical performance against Invictus Gaming."
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0x5ef6c20a112f539b6d15f6dacbbce010a8c741f9110db3f0fc8fd5c4f20fbe91",
     "wallet": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
@@ -27585,5 +27379,137 @@
     "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
     "market_slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
     "amount": 2813.07
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x1524eb3d3468a244c78d95399810739a130e2f2d87cde20f5bf82ab16bd18d85",
+    "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+    "trader": {
+      "rank": 17,
+      "address": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+      "username": "KeyTransporter",
+      "profit": 5711459.802519929,
+      "volume": 20086062.154324993,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xd48a81db62f742c4e42d86dfc23a7ee345366e90",
+      "side": "BUY",
+      "asset": "15342689938784605536801282215928680870557659908332400253870222373183490665884",
+      "conditionId": "0x21e9d9dc86727d9992bb3242da3e69f11d2f80cc6a578164c1d1b5a4b640abcb",
+      "size": 15930.306345,
+      "price": 0.4881889796,
+      "timestamp": 1782857143,
+      "title": "Tampa Bay Rays vs. Kansas City Royals",
+      "slug": "mlb-tb-kc-2026-06-30",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
+      "eventSlug": "",
+      "outcome": "Kansas City Royals",
+      "outcomeIndex": 999,
+      "name": "NiFengFanPan",
+      "pseudonym": "Orderly-Venture",
+      "bio": "Wen Zhong Qiu Sheng",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3358711-e85e8a4d-0015-4638-8326-28b28b4859ed.webp",
+      "profileImageOptimized": "",
+      "transactionHash": "0x1524eb3d3468a244c78d95399810739a130e2f2d87cde20f5bf82ab16bd18d85",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Tampa Bay Rays vs. Kansas City Royals",
+    "market_slug": "mlb-tb-kc-2026-06-30",
+    "amount": 7776.999999280956
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xb588ac0a27bf0e3f9e95ec218c9e155b6fa0dfa3f2d7120864952060f3374a05",
+    "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+    "trader": {
+      "rank": 17,
+      "address": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+      "username": "KeyTransporter",
+      "profit": 5711459.802519929,
+      "volume": 20086062.154324993,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+      "side": "BUY",
+      "asset": "91355094557016369228768123360298492968992168419338047915199416797057852525950",
+      "conditionId": "0x378f7b5c668014d9f6c42c305ec83902f3c8f6c770b336363aed0076ce6ce1c9",
+      "size": 20477.21,
+      "price": 0.87,
+      "timestamp": 1782857141,
+      "title": "Will France win on 2026-06-30?",
+      "slug": "fifwc-fra-swe-2026-06-30-fra",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "",
+      "outcome": "Yes",
+      "outcomeIndex": 999,
+      "name": "mooseborzoi",
+      "pseudonym": "Agitated-Bricklaying",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xb588ac0a27bf0e3f9e95ec218c9e155b6fa0dfa3f2d7120864952060f3374a05",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will France win on 2026-06-30?",
+    "market_slug": "fifwc-fra-swe-2026-06-30-fra",
+    "amount": 17815.1727
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x047f21a925308822438c8c768994b168d44d42af1c2431550fbf2160f58d544f",
+    "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+    "trader": {
+      "rank": 17,
+      "address": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+      "username": "KeyTransporter",
+      "profit": 5711459.802519929,
+      "volume": 20086062.154324993,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+      "side": "BUY",
+      "asset": "57287073018160803437058197375172207457382043764533045816128708111733563434312",
+      "conditionId": "0xe7d813bf752081508adb435d4d9a587c2292c11ff8b5ddfad0ae664466f9346d",
+      "size": 7752.808981,
+      "price": 0.89,
+      "timestamp": 1782857141,
+      "title": "Will France vs. Sweden end in a draw?",
+      "slug": "fifwc-fra-swe-2026-06-30-draw",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "",
+      "outcome": "No",
+      "outcomeIndex": 999,
+      "name": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+      "pseudonym": "Faithful-Jazz",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x047f21a925308822438c8c768994b168d44d42af1c2431550fbf2160f58d544f",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will France vs. Sweden end in a draw?",
+    "market_slug": "fifwc-fra-swe-2026-06-30-draw",
+    "amount": 6899.99999309
   }
 ]
