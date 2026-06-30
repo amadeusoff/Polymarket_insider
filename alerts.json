@@ -27605,7 +27605,8 @@
     },
     "market": "LoL: Karmine Corp vs Team Liquid - Game 1 Winner",
     "market_slug": "lol-kc-tl2-2026-06-30",
-    "amount": 1999.9999980000002
+    "amount": 1999.9999980000002,
+    "resolution_last_check": "2026-06-30T09:38:59.548947+00:00"
   },
   {
     "type": "TOP_TRADER",
