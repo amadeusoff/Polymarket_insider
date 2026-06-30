@@ -1,95 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xafb6cdca8f791aed6ae86fd5bdd5dc1f9cf5414c1603754cd07f4292f1ecbe7a",
-    "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
-    "trader": {
-      "rank": 17,
-      "address": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
-      "username": "432614799197",
-      "profit": 4526176.046412427,
-      "volume": 185485956.8620829,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x5188fa0e8a77e87bc6a58e6781fdfc4e165cc804",
-      "side": "BUY",
-      "asset": "44149007410374101286260953227333745102128417138356632089802983317837574022801",
-      "conditionId": "0x80059ff4e694f878c0498f6f3a067ee7ca62dc2fc46251a4287b58355ce47bc5",
-      "size": 17443.19,
-      "price": 0.44993106765448293,
-      "timestamp": 1775591279,
-      "title": "US x Iran ceasefire by April 30?",
-      "slug": "us-x-iran-ceasefire-by-april-30-194-679-389",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-ceasefire-by-Cgmx3GCuOwjs.jpg",
-      "eventSlug": "us-x-iran-ceasefire-by",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "AllByMyseIf",
-      "pseudonym": "Parallel-Steamroller",
-      "bio": "Frosen",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3063734-5d789c1c-92ea-4bf2-a4f6-9ecc42977b56.png",
-      "profileImageOptimized": "",
-      "transactionHash": "0xafb6cdca8f791aed6ae86fd5bdd5dc1f9cf5414c1603754cd07f4292f1ecbe7a",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "US x Iran ceasefire by April 30?",
-    "market_slug": "us-x-iran-ceasefire-by",
-    "amount": 7848.2330999999995,
-    "ai_context": "OVERPRICED. Diplomatic tensions remain high, military posturing is aggressive, and historical precedents suggest limited likelihood of a ceasefire ..."
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xd1329baed1fda3a33d64900b2407192b15733c13ceca83a306d394d214a50c3f",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xb741a5dade4a298897a3124ed798a9cca1fba996",
-      "side": "BUY",
-      "asset": "23980803355312800186405089050901824358558568660851405590679475986314779760690",
-      "conditionId": "0xecf63047b28b4a9a5a94782e5b2c501348303de25a6ee78f08b02d4f2bad1748",
-      "size": 2229.298921,
-      "price": 0.8971430310040508,
-      "timestamp": 1775600283,
-      "title": "JD Vance diplomatic meeting with Iran by April 10?",
-      "slug": "jd-vance-diplomatic-meeting-with-iran-by-april-10",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/jd-vance-x-iran-diplomatic-meeting-by-april-30-e2Dv9slgQdmE.jpg",
-      "eventSlug": "jd-vance-diplomatic-meeting-with-iran-by",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "tostitos",
-      "pseudonym": "Alarming-Year",
-      "bio": "462014",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xd1329baed1fda3a33d64900b2407192b15733c13ceca83a306d394d214a50c3f",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "JD Vance diplomatic meeting with Iran by April 10?",
-    "market_slug": "jd-vance-diplomatic-meeting-with-iran-by",
-    "amount": 1999.9999910000001,
-    "ai_context": "OVERPRICED. Diplomatic relations with Iran are complex; recent tensions suggest a low likelihood of meetings by the deadline."
-  },
-  {
     "market": "Will Rafael L\u00f3pez Aliaga win the 2026 Peruvian presidential election?",
     "market_slug": "will-rafael-lpez-aliaga-win-the-2026-peruvian-presidential-election",
     "event_slug": "will-rafael-lpez-aliaga-win-the-2026-peruvian-presidential-election",
@@ -27652,5 +27562,93 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xf114ccf78dce629aa13d21e81f29a0446025dabefe51cbce443b757d88af6fd3",
+    "wallet": "0x664ce9fb97ae1bbd538d7381b2f4e92dab16f49c",
+    "trader": {
+      "rank": 10,
+      "address": "0x664ce9fb97ae1bbd538d7381b2f4e92dab16f49c",
+      "username": "sparklingwater123",
+      "profit": 8474966.272472015,
+      "volume": 19001698.927902,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x55b4cfd12b5e92c87a0e771e41208e01b7035e95",
+      "side": "BUY",
+      "asset": "55508419409148048125873223029385227951283778094012928396168581596639167626456",
+      "conditionId": "0x243d5092cc4c43bf56b0fd90a72ca3d8ddb24e3efdb5298471290f60c341e1bd",
+      "size": 3174.603172,
+      "price": 0.6299999998866,
+      "timestamp": 1782808003,
+      "title": "LoL: Karmine Corp vs Team Liquid - Game 1 Winner",
+      "slug": "lol-kc-tl2-2026-06-30-game1",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
+      "eventSlug": "lol-kc-tl2-2026-06-30",
+      "outcome": "Karmine Corp",
+      "outcomeIndex": 0,
+      "name": "0x55b4cFD12B5E92C87a0E771E41208E01b7035E95-1782704629899",
+      "pseudonym": "Hospitable-Recall",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xf114ccf78dce629aa13d21e81f29a0446025dabefe51cbce443b757d88af6fd3",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "LoL: Karmine Corp vs Team Liquid - Game 1 Winner",
+    "market_slug": "lol-kc-tl2-2026-06-30",
+    "amount": 1999.9999980000002
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xf554e25a810def09c71873b60465a07cdedf5147fc3ed1dc37fbd0ff53fee5a3",
+    "wallet": "0x664ce9fb97ae1bbd538d7381b2f4e92dab16f49c",
+    "trader": {
+      "rank": 10,
+      "address": "0x664ce9fb97ae1bbd538d7381b2f4e92dab16f49c",
+      "username": "sparklingwater123",
+      "profit": 8474966.272472015,
+      "volume": 19001698.927902,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xca892505dc948e5180eb9dd3294ec02b4ab07bc4",
+      "side": "BUY",
+      "asset": "67614118299712719244400167745909935240133263886550154700443310074824676975678",
+      "conditionId": "0x65f5760095b3b903c895b320765ccdd4074b72750458b09fde516f6254bcec67",
+      "size": 3200,
+      "price": 0.57,
+      "timestamp": 1782808001,
+      "title": "Will Mexico win on 2026-06-30?",
+      "slug": "fifwc-mex-ecu-2026-06-30-mex",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-mex-ecu-2026-06-30",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "qqi6699",
+      "pseudonym": "Smart-Outfit",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xf554e25a810def09c71873b60465a07cdedf5147fc3ed1dc37fbd0ff53fee5a3",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Mexico win on 2026-06-30?",
+    "market_slug": "fifwc-mex-ecu-2026-06-30",
+    "amount": 1823.9999999999998
   }
 ]
