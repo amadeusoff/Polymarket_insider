@@ -1,96 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x8cc183980bf588fc3bc3443a5275ca383e68a41bbea0ec58ccdfd0daa9c6aaa2",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xb866e020d08a3257efd7ea991e56a8bcb8d7977f",
-      "side": "SELL",
-      "asset": "91234452361450605263734013436205650165110345459845371466629272470861583403438",
-      "conditionId": "0x81b06cb917c9a2aabc67a7765bc3c640e88a699bbf451b29915049c0766cde04",
-      "size": 3000.02,
-      "price": 0.59,
-      "timestamp": 1775583175,
-      "title": "US x Iran ceasefire by June 30?",
-      "slug": "us-x-iran-ceasefire-by-june-30-752-741-257-982-725",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-ceasefire-by-Cgmx3GCuOwjs.jpg",
-      "eventSlug": "us-x-iran-ceasefire-by",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "hanchaohanchao",
-      "pseudonym": "Nonstop-Pawnshop",
-      "bio": "nfn",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x8cc183980bf588fc3bc3443a5275ca383e68a41bbea0ec58ccdfd0daa9c6aaa2",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "US x Iran ceasefire by June 30?",
-    "market_slug": "us-x-iran-ceasefire-by",
-    "amount": 1770.0118,
-    "ai_context": "OVERPRICED. Diplomatic tensions remain high, military posturing continues, and historical precedents suggest limited likelihood of a ceasefire by J..."
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x48229c8a8c0e14cfa046e3080f19c925ecd121828ff33fd499161ce6f2b7bd2c",
-    "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
-    "trader": {
-      "rank": 11,
-      "address": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
-      "username": "KeyTransporter",
-      "profit": 5711459.802519929,
-      "volume": 20086062.154324993,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xa8fac068d32639c40188563c83c206b320e57dda",
-      "side": "BUY",
-      "asset": "110932785305116437321568684436832830333671458459560759642131758382899831590385",
-      "conditionId": "0x04a03cf0e8b452cccba67b93378b65854a89a4f77e7f1aaf775fd9816de9158f",
-      "size": 5000,
-      "price": 0.73,
-      "timestamp": 1775583775,
-      "title": "Will MrBeast's latest video get between 64 and 65 million views on day 4?",
-      "slug": "will-mrbeasts-latest-video-get-between-64-and-65-million-views-on-day-4",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/of-views-of-next-mrbeast-video-on-day-1--HcOnJGLLP3O.jpg",
-      "eventSlug": "of-views-of-mrbeast-video-day-4-892",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "0xA8fAC068d32639c40188563C83c206b320E57Dda-1773425391498",
-      "pseudonym": "Tough-Filing",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x48229c8a8c0e14cfa046e3080f19c925ecd121828ff33fd499161ce6f2b7bd2c",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will MrBeast's latest video get between 64 and 65 million views on day 4?",
-    "market_slug": "of-views-of-mrbeast-video-day-4-892",
-    "amount": 3650.0,
-    "ai_context": "OVERPRICED. MrBeast's videos typically exceed 65 million views; a 73% chance for \"No\" seems too high."
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xafb6cdca8f791aed6ae86fd5bdd5dc1f9cf5414c1603754cd07f4292f1ecbe7a",
     "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
     "trader": {
@@ -27533,5 +27443,214 @@
     "market": "Will Germany win on 2026-06-29?",
     "market_slug": "fifwc-ger-par-2026-06-29",
     "amount": 11000.0
+  },
+  {
+    "market": "Netherlands vs. Morocco: Both Teams to Score",
+    "market_slug": "fifwc-nld-mar-2026-06-29-btts",
+    "event_slug": "fifwc-nld-mar-2026-06-29-btts",
+    "wallet": "0xdb82c2ebffe5835ef807df3e59dbe5018623f6ba",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($4,314)",
+        "Low activity (3 txns)"
+      ],
+      "amount": 4314.128500000001,
+      "odds": 0.55,
+      "raw_price": 0.45,
+      "outcome": "No",
+      "potential_pnl": 3529.7415,
+      "pnl_multiplier": 0.8181818181818181,
+      "wallet_age_days": 0,
+      "total_activities": 3
+    },
+    "timestamp": "2026-06-30T00:18:31.213615",
+    "trade_hash": "0x62fafbbce7755e9e897bff178277638092c902f52fcaf27e11526298569ec06a",
+    "trade_timestamp": 1782778307,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.45,
+      "effective_price": 0.45,
+      "size": 7843.87,
+      "amount": 3529.7415,
+      "potential_pnl": 4314.1285,
+      "pnl_multiplier": 1.222222222222222,
+      "is_no": true,
+      "slug": "fifwc-nld-mar-2026-06-29-btts",
+      "eventSlug": "fifwc-nld-mar-2026-06-29-more-markets"
+    },
+    "irrationality": {
+      "irrationality_score": 25,
+      "flags": [
+        "Significant mispricing edge (+11.2%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.3375,
+      "market_price": 0.45,
+      "edge": 0.11249999999999999,
+      "edge_percent": 11.249999999999998,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 95,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 70,
+      "insider_position": "NO",
+      "irrationality_score": 25,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.11249999999999999,
+      "edge_percent": 11.249999999999998
+    },
+    "financial_analyst": {
+      "signal_quality": 70.9,
+      "stance": "SELECTIVE",
+      "edge_percent": 11.25,
+      "signal_strength": 95.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Netherlands vs. Morocco: Both Teams to Score",
+    "market_slug": "fifwc-nld-mar-2026-06-29-btts",
+    "event_slug": "fifwc-nld-mar-2026-06-29-btts",
+    "wallet": "0x79fbfb80b2f514f91b99a38ffd71d231ae4e47a0",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,264)",
+        "Low activity (4 txns)"
+      ],
+      "amount": 1263.689999,
+      "odds": 0.5599999999822741,
+      "raw_price": 0.5599999999822741,
+      "outcome": "Yes",
+      "potential_pnl": 992.8992850000002,
+      "pnl_multiplier": 0.7857142857708097,
+      "wallet_age_days": 0,
+      "total_activities": 4
+    },
+    "timestamp": "2026-06-30T00:18:36.399997",
+    "trade_hash": "0xe14b4df2fcb2943eeb91953a623f5228ba9a46f6ecc02559242ae59d856d2bf9",
+    "trade_timestamp": 1782778220,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.5599999999822741,
+      "effective_price": 0.5599999999822741,
+      "size": 2256.589284,
+      "amount": 1263.689999,
+      "potential_pnl": 992.8992850000002,
+      "pnl_multiplier": 0.7857142857708097,
+      "is_no": false,
+      "slug": "fifwc-nld-mar-2026-06-29-btts",
+      "eventSlug": "fifwc-nld-mar-2026-06-29-more-markets"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+17.8%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.3814999999929096,
+      "market_price": 0.5599999999822741,
+      "edge": 0.1784999999893645,
+      "edge_percent": 17.84999999893645,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.1784999999893645,
+      "edge_percent": 17.84999999893645
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 46.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 17.85,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
