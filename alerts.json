@@ -1,114 +1,5 @@
 [
   {
-    "market": "Will Rafael L\u00f3pez Aliaga win the 2026 Peruvian presidential election?",
-    "market_slug": "will-rafael-lpez-aliaga-win-the-2026-peruvian-presidential-election",
-    "event_slug": "will-rafael-lpez-aliaga-win-the-2026-peruvian-presidential-election",
-    "wallet": "0x9c4eaf9b1c0cd987029823d1bbddab355806ad13",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($9,581)",
-        "Low activity (3 txns)"
-      ],
-      "amount": 9580.5847,
-      "odds": 0.2295055367826054,
-      "raw_price": 0.2295055367826054,
-      "outcome": "Yes",
-      "potential_pnl": 32163.8753,
-      "pnl_multiplier": 3.3571933558501916,
-      "wallet_age_days": 0,
-      "total_activities": 3
-    },
-    "timestamp": "2026-04-07T23:02:10.868462",
-    "trade_hash": "0xef8a5ce6b32418228caa16225e42e73b913078d133ebfd33157ce56363ccd376",
-    "trade_timestamp": 1775602641,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "normalized_position": "YES",
-      "side": "BUY",
-      "price": 0.2295055367826054,
-      "effective_price": 0.2295055367826054,
-      "size": 41744.46,
-      "amount": 9580.5847,
-      "potential_pnl": 32163.8753,
-      "pnl_multiplier": 3.3571933558501916,
-      "is_no": false,
-      "slug": "will-rafael-lpez-aliaga-win-the-2026-peruvian-presidential-election",
-      "eventSlug": "peru-presidential-election-winner"
-    },
-    "irrationality": {
-      "irrationality_score": 25,
-      "flags": [
-        "Significant mispricing edge (+12.4%)"
-      ],
-      "category": "politics_near",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.02,
-        "min_edge": 0.03
-      },
-      "is_irrational": false
-    },
-    "mispricing": {
-      "rational_estimate": 0.10590110735652108,
-      "market_price": 0.2295055367826054,
-      "edge": 0.12360442942608432,
-      "edge_percent": 12.360442942608433,
-      "min_edge_required": 0.03,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "occasional",
-      "confidence": "medium"
-    },
-    "factors": {
-      "base_rate_class": "occasional",
-      "structural_feasibility": {
-        "independent_conditions_required": 3,
-        "conditions": [
-          "Rafael L\u00f3pez Aliaga successfully consolidates support within his political party.",
-          "Economic conditions in Peru improve leading up to the election.",
-          "L\u00f3pez Aliaga effectively addresses key voter concerns such as security and corruption."
-        ],
-        "weakest_link": "Economic conditions in Peru improve leading up to the election."
-      },
-      "category": "politics_near",
-      "narrative_drivers": [
-        "Public perception of L\u00f3pez Aliaga's leadership capabilities.",
-        "The impact of rival candidates and their campaigns."
-      ],
-      "confidence_in_analysis": "medium"
-    },
-    "combined_signal": {
-      "signal_type": "CONFLICT",
-      "signal_emoji": "\u26a0\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider buying YES despite statistical overpricing",
-      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
-      "insider_score": 70,
-      "insider_position": "YES",
-      "irrationality_score": 25,
-      "is_irrational": false,
-      "is_mispriced": true,
-      "edge": 0.12360442942608432,
-      "edge_percent": 12.360442942608433
-    },
-    "log_only": true,
-    "financial_analyst": {
-      "signal_quality": 37.5,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 12.36,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-04-08T07:15:18.437377+00:00"
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0xc4a86fb1d6a41d86e7470ae56840f48f82b194583799d216508602d816ed455d",
     "wallet": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
@@ -27651,5 +27542,49 @@
     "market": "Will Mexico win on 2026-06-30?",
     "market_slug": "fifwc-mex-ecu-2026-06-30",
     "amount": 1823.9999999999998
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xdd9507211468f8441180bfd315f3ef8e9eafc100e067a76b6d095ecbf6109c7b",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x5b6331e7ff0831a3fe2ed12004747db1a9c911a4",
+      "side": "BUY",
+      "asset": "83655843598573596514981332030696116113831345106947298444736624457332045891809",
+      "conditionId": "0x475b9074e64d7a3960f3348290afbe2b74f53f6a64316e02b39373ab278316d1",
+      "size": 6817.964786,
+      "price": 0.7090972379216979,
+      "timestamp": 1782818813,
+      "title": "Wimbledon ATP: Thanasi Kokkinakis vs Alexander Bublik",
+      "slug": "atp-kokkina-bublik-2026-06-29",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+      "eventSlug": "atp-kokkina-bublik-2026-06-29",
+      "outcome": "Alexander Bublik",
+      "outcomeIndex": 1,
+      "name": "neutralwave23",
+      "pseudonym": "Monstrous-Dew",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xdd9507211468f8441180bfd315f3ef8e9eafc100e067a76b6d095ecbf6109c7b",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Wimbledon ATP: Thanasi Kokkinakis vs Alexander Bublik",
+    "market_slug": "atp-kokkina-bublik-2026-06-29",
+    "amount": 4834.599998
   }
 ]
