@@ -1,50 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xc4a86fb1d6a41d86e7470ae56840f48f82b194583799d216508602d816ed455d",
-    "wallet": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
-    "trader": {
-      "rank": 18,
-      "address": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
-      "username": "GamblingIsAllYouNeed",
-      "profit": 4444523.480072443,
-      "volume": 320729948.2841881,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x116c6d1117c8690203bad2e6c5bee0d9f27fe162",
-      "side": "BUY",
-      "asset": "37037002675967782045158391765875672365959780312112067475756804793698379795814",
-      "conditionId": "0x5bca8e83d53f6629950674f629e2711ed39486749387865877dbfb673299927e",
-      "size": 3246.29981,
-      "price": 0.74,
-      "timestamp": 1775603581,
-      "title": "Jazz vs. Pelicans",
-      "slug": "nba-uta-nop-2026-04-07",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-uta-nop-2026-04-07",
-      "outcome": "Pelicans",
-      "outcomeIndex": 1,
-      "name": "oorangutan",
-      "pseudonym": "Dependable-Attitude",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xc4a86fb1d6a41d86e7470ae56840f48f82b194583799d216508602d816ed455d",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Jazz vs. Pelicans",
-    "market_slug": "nba-uta-nop-2026-04-07",
-    "amount": 2402.2618594,
-    "ai_context": "OVERPRICED. Pelicans struggle on the road, and Jazz have a stronger home advantage and better recent performance."
-  },
-  {
     "market": "Kharg Island no longer under Iranian control by April 15?",
     "market_slug": "kharg-island-no-longer-under-iranian-control-by-april-15",
     "event_slug": "kharg-island-no-longer-under-iranian-control-by-april-15",
@@ -27586,5 +27541,49 @@
     "market": "Wimbledon ATP: Thanasi Kokkinakis vs Alexander Bublik",
     "market_slug": "atp-kokkina-bublik-2026-06-29",
     "amount": 4834.599998
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x043462edc02a6fa9d53ee165bb741c17cfb8ecdd5d39a974f3222bf61ef8e631",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "trader": {
+      "rank": 3,
+      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "username": "swisstony",
+      "profit": 13897447.479133198,
+      "volume": 1334039396.077634,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xe2b1fc269d0c2e27da11fadd1d9596fe28227d2a",
+      "side": "SELL",
+      "asset": "5615282760875985231868508008056959876238536896643315063916840237042205273721",
+      "conditionId": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+      "size": 4327.8,
+      "price": 0.65,
+      "timestamp": 1782851134,
+      "title": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/jerome+powell+glasses1.png",
+      "eventSlug": "",
+      "outcome": "Yes",
+      "outcomeIndex": 999,
+      "name": "New.Jeans",
+      "pseudonym": "Glaring-Epee",
+      "bio": "Choose Rich",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/a8f070eb41e2830665e63ccc0642cac6_New-Jeans_1688928761832.png",
+      "profileImageOptimized": "",
+      "transactionHash": "0x043462edc02a6fa9d53ee165bb741c17cfb8ecdd5d39a974f3222bf61ef8e631",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+    "market_slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+    "amount": 2813.07
   }
 ]
