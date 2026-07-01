@@ -1,139 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x330786ad44a7d2ba5011d2f34231b75a944dddd606acdfd43317b4995e770a32",
-    "wallet": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
-    "trader": {
-      "rank": 2,
-      "address": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
-      "username": "Fredi9999",
-      "profit": 16619506.631730152,
-      "volume": 76611316.90515402,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xe4d38496a46e4bfd2036d4e9389a955595d6c2f0",
-      "side": "BUY",
-      "asset": "109024127569407483994653154191859332262858905496142888757502388329747218091337",
-      "conditionId": "0x731d3440369f4e92d0223215323645ac6b3b40c19f2fe03885ec7dc3ce1abad1",
-      "size": 5195.263163,
-      "price": 0.5699999999981,
-      "timestamp": 1775865333,
-      "title": "Thunder vs. Nuggets",
-      "slug": "nba-okc-den-2026-04-10",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-okc-den-2026-04-10",
-      "outcome": "Nuggets",
-      "outcomeIndex": 1,
-      "name": "leleo17",
-      "pseudonym": "Impure-Layout",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-4788742-49741146-73d2-4d71-99d6-59d410845847.jpeg",
-      "profileImageOptimized": "",
-      "transactionHash": "0x330786ad44a7d2ba5011d2f34231b75a944dddd606acdfd43317b4995e770a32",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Thunder vs. Nuggets",
-    "market_slug": "nba-okc-den-2026-04-10",
-    "amount": 2961.300002900129
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x8746006b3a4e5f7d002a10aba983c22c5d1ae6c3f777d14cfbd1ac173f2b8567",
-    "wallet": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
-    "trader": {
-      "rank": 8,
-      "address": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
-      "username": "PrincessCaro",
-      "profit": 6083643.099591745,
-      "volume": 23520809.952867005,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xfc1243854e34aea5e8c577e467ef148cbc7e18a9",
-      "side": "BUY",
-      "asset": "56231474151770057648855426299021396541474371449092934400587810748856711049761",
-      "conditionId": "0x924a2942747dd75703321a7c8d809c68f6a514c3b0f2a2e64274e02310634669",
-      "size": 2435.897431,
-      "price": 0.7799999999261052,
-      "timestamp": 1775908251,
-      "title": "Strait of Hormuz traffic returns to normal by end of April?",
-      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-april-30",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ships-transit-the-strait-of-hormuz-on-any-day-in-march-ERARnetK0FJm.jpg",
-      "eventSlug": "strait-of-hormuz-traffic-returns-to-normal-by-april-30",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "Skinner77",
-      "pseudonym": "Thunderous-Spasm",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-4719586-d18c9bd8-2b3c-4ce8-bf3b-48fa310436b3.jpeg",
-      "profileImageOptimized": "",
-      "transactionHash": "0x8746006b3a4e5f7d002a10aba983c22c5d1ae6c3f777d14cfbd1ac173f2b8567",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Strait of Hormuz traffic returns to normal by end of April?",
-    "market_slug": "strait-of-hormuz-traffic-returns-to-normal-by-april-30",
-    "amount": 1899.9999959999998,
-    "resolution_last_check": "2026-04-12T08:39:55.494703+00:00"
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xcdb42f451e906fe98694c87b742198eeaf458263afcca51a4261aa8d40de6d44",
-    "wallet": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
-    "trader": {
-      "rank": 8,
-      "address": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
-      "username": "PrincessCaro",
-      "profit": 6083643.099591745,
-      "volume": 23520809.952867005,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x01e6e3c5cfe50943e7721398054cb1e22032e7e0",
-      "side": "BUY",
-      "asset": "27463835349984391671863665214379526251077104225242551638673470406148681255464",
-      "conditionId": "0xbd6083a6ca7daa6f9226ffd11600cc45028deb3a5f1ed00fc7c7abe2f2f39a2c",
-      "size": 2442.3715,
-      "price": 0.8285336048879837,
-      "timestamp": 1775908251,
-      "title": "LoL: Top Esports vs JD Gaming - Game 1 Winner",
-      "slug": "lol-tes-jdg-2026-04-11-game1",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
-      "eventSlug": "lol-tes-jdg-2026-04-11",
-      "outcome": "JD Gaming",
-      "outcomeIndex": 1,
-      "name": "BirdMan.",
-      "pseudonym": "Well-Made-Sovereignty",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-6981540-65626b91-dc80-4b1c-99ee-de73d651cf10.webp",
-      "profileImageOptimized": "",
-      "transactionHash": "0xcdb42f451e906fe98694c87b742198eeaf458263afcca51a4261aa8d40de6d44",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "LoL: Top Esports vs JD Gaming - Game 1 Winner",
-    "market_slug": "lol-tes-jdg-2026-04-11",
-    "amount": 2023.586863370672
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xb58f65864058e3442690c6dc7cc567ad6c24d9f7a3b0354867019cd905a7c5e9",
     "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
     "trader": {
@@ -27595,5 +27462,137 @@
     "market": "Belgium vs. Senegal: O/U 2.5",
     "market_slug": "fifwc-bel-sen-2026-07-01-more-markets",
     "amount": 2832.8499992
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xf05a8e83155f7a1e0d29f3bb29708a93e869ccba5b8ca1277f1f3861223b28b7",
+    "wallet": "0xed64a7bf029040aa331abc87902434d815ef217d",
+    "trader": {
+      "rank": 7,
+      "address": "0xed64a7bf029040aa331abc87902434d815ef217d",
+      "username": "fishalive",
+      "profit": 9063378.176199999,
+      "volume": 13281460.374668,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "87881061327516381661396167572035958901060908345966009219235654055752738341961",
+      "conditionId": "0x979ace9bbe4befb490753dccce51a8fecd55c51f32e4daec5d0c74f3cb826495",
+      "size": 2047.516128,
+      "price": 0.9297655696,
+      "timestamp": 1782943031,
+      "title": "Belgium vs. Senegal: Belgium O/U 2.5",
+      "slug": "fifwc-bel-sen-2026-07-01-team-total-home-2pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "",
+      "outcome": "Under",
+      "outcomeIndex": 999,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "loincloth chic",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xf05a8e83155f7a1e0d29f3bb29708a93e869ccba5b8ca1277f1f3861223b28b7",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Belgium vs. Senegal: Belgium O/U 2.5",
+    "market_slug": "fifwc-bel-sen-2026-07-01-team-total-home-2pt5",
+    "amount": 1903.7099990151064
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x7436da74768a52dfbd02a1068c852e78cf20f7d12c82f946f2bf1187546f1eb5",
+    "wallet": "0xed64a7bf029040aa331abc87902434d815ef217d",
+    "trader": {
+      "rank": 7,
+      "address": "0xed64a7bf029040aa331abc87902434d815ef217d",
+      "username": "fishalive",
+      "profit": 9063378.176199999,
+      "volume": 13281460.374668,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "70734912499390294762635620491284391639475146683001061643495623464632375277430",
+      "conditionId": "0x889e0fa1c435f52ba8534423449865e6f18fd11fc13b473988b88a60d81a9ea0",
+      "size": 2114.88,
+      "price": 0.875,
+      "timestamp": 1782943031,
+      "title": "Will Belgium vs. Senegal end in a draw?",
+      "slug": "fifwc-bel-sen-2026-07-01-draw",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "",
+      "outcome": "Yes",
+      "outcomeIndex": 999,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "loincloth chic",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x7436da74768a52dfbd02a1068c852e78cf20f7d12c82f946f2bf1187546f1eb5",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Belgium vs. Senegal end in a draw?",
+    "market_slug": "fifwc-bel-sen-2026-07-01-draw",
+    "amount": 1850.52
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x3ac60d71f3383ceda9ebb550b56649bd75a540e73ef7a238bc80a283fc0f860d",
+    "wallet": "0x5e4c3b5b81171e2ca4ab776ac0d6bba787f9dba2",
+    "trader": {
+      "rank": 14,
+      "address": "0x5e4c3b5b81171e2ca4ab776ac0d6bba787f9dba2",
+      "username": "endlessFate",
+      "profit": 7409836.65260974,
+      "volume": 26282164.742856003,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xe9076a87c5ed90ef16e6fe6529c943baeca0cff6",
+      "side": "BUY",
+      "asset": "61298001203512070227735644544685904672516731416139291569745519509860590666622",
+      "conditionId": "0xc9c405407d5351e9bb14dd826cdb033864c8377cbb171446abad330d4ed7473a",
+      "size": 9708.73,
+      "price": 0.581,
+      "timestamp": 1782943267,
+      "title": "Belgium vs. Senegal: Team to Advance",
+      "slug": "fifwc-bel-sen-2026-07-01-team-to-advance",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-bel-sen-2026-07-01-more-markets",
+      "outcome": "Belgium",
+      "outcomeIndex": 0,
+      "name": "suntori",
+      "pseudonym": "All-Peasant-Drug",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x3ac60d71f3383ceda9ebb550b56649bd75a540e73ef7a238bc80a283fc0f860d",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Belgium vs. Senegal: Team to Advance",
+    "market_slug": "fifwc-bel-sen-2026-07-01-more-markets",
+    "amount": 5640.772129999999
   }
 ]
