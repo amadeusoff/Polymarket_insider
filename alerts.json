@@ -1,51 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x5ef6c20a112f539b6d15f6dacbbce010a8c741f9110db3f0fc8fd5c4f20fbe91",
-    "wallet": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
-    "trader": {
-      "rank": 9,
-      "address": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
-      "username": "walletmobile",
-      "profit": 5942685.45339684,
-      "volume": 32196692.075936034,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xead152b855effa6b5b5837f53b24c0756830c76a",
-      "side": "BUY",
-      "asset": "57671111904343297017035559331206968340219293155722507171442770347401653986711",
-      "conditionId": "0xc31f282a30746ae49954e23d92d23aa6c129d008d07b0f47686db178554e32d8",
-      "size": 8009.17281,
-      "price": 0.7,
-      "timestamp": 1775650111,
-      "title": "Thunder vs. Clippers",
-      "slug": "nba-okc-lac-2026-04-08",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-okc-lac-2026-04-08",
-      "outcome": "Thunder",
-      "outcomeIndex": 0,
-      "name": "elkmonkey",
-      "pseudonym": "Unconscious-Penguin",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x5ef6c20a112f539b6d15f6dacbbce010a8c741f9110db3f0fc8fd5c4f20fbe91",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Thunder vs. Clippers",
-    "market_slug": "nba-okc-lac-2026-04-08",
-    "amount": 5606.420967,
-    "ai_context": "FAIR. Thunder's home advantage and recent form against Clippers justify a 70% probability in this matchup."
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x7ba1967e3ccf088a195680cf8928dd7ad85e5941a4eda8896e4420c0f1e92ac5",
     "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
     "trader": {
@@ -27511,5 +27466,49 @@
     "market": "Will France vs. Sweden end in a draw?",
     "market_slug": "fifwc-fra-swe-2026-06-30-draw",
     "amount": 6899.99999309
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xc149f23e58fa6091f74a5af930c8ec08bc175e0019abededd1d0476837e37059",
+    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+    "trader": {
+      "rank": 18,
+      "address": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+      "username": "BetTom42",
+      "profit": 5642135.735356,
+      "volume": 11212839.523402998,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xe9076a87c5ed90ef16e6fe6529c943baeca0cff6",
+      "side": "BUY",
+      "asset": "47128076194656719884583796201362709805790165917758295559618985609098741011893",
+      "conditionId": "0x915c8ff5cc774e058416d26d65cee8a04858b0d22548f59b2dcb2766de5a8e50",
+      "size": 2521.740256,
+      "price": 0.77,
+      "timestamp": 1782886865,
+      "title": "Will England win on 2026-07-01?",
+      "slug": "fifwc-eng-cdr-2026-07-01-eng",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-eng-cdr-2026-07-01",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "suntori",
+      "pseudonym": "All-Peasant-Drug",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xc149f23e58fa6091f74a5af930c8ec08bc175e0019abededd1d0476837e37059",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will England win on 2026-07-01?",
+    "market_slug": "fifwc-eng-cdr-2026-07-01",
+    "amount": 1941.73999712
   }
 ]
