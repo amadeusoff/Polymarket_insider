@@ -1,96 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x7ba1967e3ccf088a195680cf8928dd7ad85e5941a4eda8896e4420c0f1e92ac5",
-    "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
-    "trader": {
-      "rank": 6,
-      "address": "0x863134d00841b2e200492805a01e1e2f5defaa53",
-      "username": "RepTrump",
-      "profit": 7532409.671579,
-      "volume": 13983231.103425,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x1c853edd4f57b9e8b52977e04f412407dcf231d4",
-      "side": "SELL",
-      "asset": "91851388830923641218615793149765322805282194001900444983744404881757241655792",
-      "conditionId": "0x5c2e6aef8af5931e9bfa3750364626d754531d2fada2885d45c356b175962a25",
-      "size": 5000,
-      "price": 0.621533434,
-      "timestamp": 1775656715,
-      "title": "Iran x Israel/US conflict ends by April 15?",
-      "slug": "iran-x-israelus-conflict-ends-by-april-15-618-586-982",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/iran-x-israel-conflict-ends-by-next-friday-3FmhGylfITaT.jpg",
-      "eventSlug": "iran-x-israelus-conflict-ends-by",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "Mongabc123",
-      "pseudonym": "Fearless-Walker",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x7ba1967e3ccf088a195680cf8928dd7ad85e5941a4eda8896e4420c0f1e92ac5",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Iran x Israel/US conflict ends by April 15?",
-    "market_slug": "iran-x-israelus-conflict-ends-by",
-    "amount": 3107.66717,
-    "ai_context": "OVERPRICED. The geopolitical situation is complex and unpredictable; a 62% chance of resolution by April 15 seems overly optimistic."
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xc3523dbe988554b846b20d07034db55af59eb4b0e95e20888b907b1bd78d55a2",
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "trader": {
-      "rank": 11,
-      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-      "username": "swisstony",
-      "profit": 5690470.32453503,
-      "volume": 635010333.03912,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x04fe6d659b91fdfa9fcbef2c048fc2435c063688",
-      "side": "BUY",
-      "asset": "57671111904343297017035559331206968340219293155722507171442770347401653986711",
-      "conditionId": "0xc31f282a30746ae49954e23d92d23aa6c129d008d07b0f47686db178554e32d8",
-      "size": 7159.25393,
-      "price": 0.69,
-      "timestamp": 1775678049,
-      "title": "Thunder vs. Clippers",
-      "slug": "nba-okc-lac-2026-04-08",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-okc-lac-2026-04-08",
-      "outcome": "Thunder",
-      "outcomeIndex": 0,
-      "name": "0x04fE6D659B91fdfa9FCBEF2c048fc2435c063688-1773212153836",
-      "pseudonym": "Miserly-Wheat",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xc3523dbe988554b846b20d07034db55af59eb4b0e95e20888b907b1bd78d55a2",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Thunder vs. Clippers",
-    "market_slug": "nba-okc-lac-2026-04-08",
-    "amount": 4939.8852117,
-    "ai_context": "OVERPRICED. The Clippers have a strong roster and recent matchups favor them, making 69% too high for the Thunder."
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x77fcbac180deab67177677547777fb50a79685b5d3747f155b9fc6ad581c2317",
     "wallet": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
     "trader": {
@@ -27511,5 +27421,247 @@
     "market": "Will England win on 2026-07-01?",
     "market_slug": "fifwc-eng-cdr-2026-07-01",
     "amount": 1941.73999712
+  },
+  {
+    "market": "Will Cabo Verde win on 2026-07-03?",
+    "market_slug": "fifwc-arg-cvi-2026-07-03-cvi",
+    "event_slug": "fifwc-arg-cvi-2026-07-03-cvi",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "analysis": {
+      "score": 95,
+      "flags": [
+        "Against trend (4.5% effective odds)",
+        "Pre-event latency: 2268m",
+        "Top trader #3 ($13,269,701 profit)"
+      ],
+      "amount": 51.21000000000004,
+      "odds": 0.04500000000000004,
+      "raw_price": 0.955,
+      "outcome": "No",
+      "potential_pnl": 1086.79,
+      "pnl_multiplier": 21.222222222222204,
+      "wallet_age_days": 99,
+      "total_activities": 100
+    },
+    "timestamp": "2026-07-01T10:17:10.250021",
+    "trade_hash": "0xfcd413c87a93990eb29ea5db28ea5a7a3fa0791ca91186719ecf78d1d1d603e4",
+    "trade_timestamp": 1782900749,
+    "latency": {
+      "latency_seconds": 136051.0,
+      "latency_minutes": 2267.516666666667,
+      "is_pre_event": true,
+      "severity": "CRITICAL",
+      "trade_time": "2026-07-01T10:12:29+00:00",
+      "event_time": "2026-07-03T00:00:00+00:00"
+    },
+    "wallet_stats": null,
+    "top_trader": {
+      "rank": 3,
+      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "username": "swisstony",
+      "profit": 13269701.207523298,
+      "volume": 1348706088.8351827,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade_data": {
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.955,
+      "effective_price": 0.955,
+      "size": 1138.0,
+      "amount": 1086.79,
+      "potential_pnl": 51.210000000000036,
+      "pnl_multiplier": 0.047120418848167575,
+      "is_no": true,
+      "slug": "fifwc-arg-cvi-2026-07-03-cvi",
+      "eventSlug": "fifwc-arg-cvi-2026-07-03"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+45.5%)"
+      ],
+      "category": "politics_near",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.02,
+        "min_edge": 0.03
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.5,
+      "market_price": 0.955,
+      "edge": 0.45499999999999996,
+      "edge_percent": 45.49999999999999,
+      "min_edge_required": 0.03,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 130,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 95,
+      "insider_position": "NO",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.45499999999999996,
+      "edge_percent": 45.49999999999999
+    },
+    "financial_analyst": {
+      "signal_quality": 86.0,
+      "stance": "HIGH_CONVICTION",
+      "edge_percent": 45.5,
+      "signal_strength": 130.0,
+      "insider_score": 95.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Will Cabo Verde win on 2026-07-03?",
+    "market_slug": "fifwc-arg-cvi-2026-07-03-cvi",
+    "event_slug": "fifwc-arg-cvi-2026-07-03-cvi",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "analysis": {
+      "score": 95,
+      "flags": [
+        "Against trend (4.6% effective odds)",
+        "Pre-event latency: 2268m",
+        "Top trader #3 ($13,269,701 profit)"
+      ],
+      "amount": 77.54539207978146,
+      "odds": 0.04584428259999995,
+      "raw_price": 0.9541557174,
+      "outcome": "No",
+      "potential_pnl": 1613.9499849202186,
+      "pnl_multiplier": 20.812970850153537,
+      "wallet_age_days": 99,
+      "total_activities": 100
+    },
+    "timestamp": "2026-07-01T10:17:12.271005",
+    "trade_hash": "0x2b069e4fcfdd5fde55cdd8d692a24692b99674b963cf822e02a04e375d311bbf",
+    "trade_timestamp": 1782900745,
+    "latency": {
+      "latency_seconds": 136055.0,
+      "latency_minutes": 2267.5833333333335,
+      "is_pre_event": true,
+      "severity": "CRITICAL",
+      "trade_time": "2026-07-01T10:12:25+00:00",
+      "event_time": "2026-07-03T00:00:00+00:00"
+    },
+    "wallet_stats": null,
+    "top_trader": {
+      "rank": 3,
+      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "username": "swisstony",
+      "profit": 13269701.207523298,
+      "volume": 1348706088.8351827,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade_data": {
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.9541557174,
+      "effective_price": 0.9541557174,
+      "size": 1691.495377,
+      "amount": 1613.9499849202184,
+      "potential_pnl": 77.54539207978155,
+      "pnl_multiplier": 0.04804696106094936,
+      "is_no": true,
+      "slug": "fifwc-arg-cvi-2026-07-03-cvi",
+      "eventSlug": "fifwc-arg-cvi-2026-07-03"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+45.4%)"
+      ],
+      "category": "politics_near",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.02,
+        "min_edge": 0.03
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.5,
+      "market_price": 0.9541557174,
+      "edge": 0.45415571740000005,
+      "edge_percent": 45.415571740000004,
+      "min_edge_required": 0.03,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 130,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 95,
+      "insider_position": "NO",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.45415571740000005,
+      "edge_percent": 45.415571740000004
+    },
+    "financial_analyst": {
+      "signal_quality": 86.0,
+      "stance": "HIGH_CONVICTION",
+      "edge_percent": 45.42,
+      "signal_strength": 130.0,
+      "insider_score": 95.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
