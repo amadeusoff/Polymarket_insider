@@ -1,394 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x0b4ad9bd87486e9ed82a3cb19390c9da049c56c60ce110bc350c2cd073f98596",
-    "wallet": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
-    "trader": {
-      "rank": 18,
-      "address": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
-      "username": "GamblingIsAllYouNeed",
-      "profit": 4432158.4542936785,
-      "volume": 324433293.5431151,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x5011224f4848cb2cf2d87cf2b823551dfd0e220e",
-      "side": "BUY",
-      "asset": "56586792301513309661830983074764407783984105524394420250711247786038410052324",
-      "conditionId": "0x00373f48342212cfc74833f43e61eed5efd678b37ec212622fc68c551249e963",
-      "size": 2321.78,
-      "price": 0.7677458673948436,
-      "timestamp": 1775713165,
-      "title": "Will Trump announce that the US x Iran ceasefire has been broken by April 14, 2026?",
-      "slug": "will-trump-announce-that-the-us-x-iran-ceasefire-has-been-broken-by-april-14-2026",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-announces-us-x-iran-ceasefire-broken-by-X3wf-2Pi8W96.jpg",
-      "eventSlug": "trump-announces-us-x-iran-ceasefire-broken-by",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "GCNO1",
-      "pseudonym": "Huge-Brain",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x0b4ad9bd87486e9ed82a3cb19390c9da049c56c60ce110bc350c2cd073f98596",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Trump announce that the US x Iran ceasefire has been broken by April 14, 2026?",
-    "market_slug": "trump-announces-us-x-iran-ceasefire-broken-by",
-    "amount": 1782.5370000000003,
-    "ai_context": "OVERPRICED. Diplomatic efforts may stabilize relations, reducing likelihood of a ceasefire breakdown by 2026."
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x6eb63f34d1bc52edf8bd5891d012ee1489a2fb2e922c6b39855eb91b77f48e6a",
-    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
-    "trader": {
-      "rank": 12,
-      "address": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
-      "username": "BetTom42",
-      "profit": 5642135.735356,
-      "volume": 11212839.523403,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xd1001f4ef07ee37774934a8bc0083185ef6b853d",
-      "side": "BUY",
-      "asset": "20231811853655481545057633462480601574938055495839824387330267229179183297479",
-      "conditionId": "0x4ff6250981611560e2c35d56c404e109c152fdc40c43c1c277f5129770d79fd6",
-      "size": 4921.470314,
-      "price": 0.48999999994797855,
-      "timestamp": 1775738975,
-      "title": "Cincinnati Reds vs. Miami Marlins",
-      "slug": "mlb-cin-mia-2026-04-09",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
-      "eventSlug": "mlb-cin-mia-2026-04-09",
-      "outcome": "Cincinnati Reds",
-      "outcomeIndex": 0,
-      "name": "",
-      "pseudonym": "",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x6eb63f34d1bc52edf8bd5891d012ee1489a2fb2e922c6b39855eb91b77f48e6a",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Cincinnati Reds vs. Miami Marlins",
-    "market_slug": "mlb-cin-mia-2026-04-09",
-    "amount": 2411.5204536039782,
-    "ai_context": "FAIR. The Reds have shown competitive performance, but the Marlins' recent form and home advantage make it a balanced matchup."
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xc54d069ab655cf7d843874db4643211303a491306341f7d3fb25b130bf60522c",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x40471b34671887546013ceb58740625c2efe7293",
-      "side": "BUY",
-      "asset": "115244086768882877525516513397533392349337694963923162013382920248577349413134",
-      "conditionId": "0xba8af64c1b08f322ca7f66f3cfdbdfd50c0eae6fc88d2fcf29c30ceb62682421",
-      "size": 4805.68,
-      "price": 0.49,
-      "timestamp": 1775750079,
-      "title": "Will Crude Oil (CL) hit (HIGH) $120 by end of June?",
-      "slug": "will-crude-oil-cl-hit-high-120-by-end-of-june-949-198-741-748",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/crude-oil-9a850ce2a2.png",
-      "eventSlug": "cl-hit-jun-2026",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "esports095",
-      "pseudonym": "Oval-Gasp",
-      "bio": "hahaha",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-1612623-69a46f7f-2905-4f22-9d46-43d32df5e7d4.png",
-      "profileImageOptimized": "",
-      "transactionHash": "0xc54d069ab655cf7d843874db4643211303a491306341f7d3fb25b130bf60522c",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Crude Oil (CL) hit (HIGH) $120 by end of June?",
-    "market_slug": "cl-hit-jun-2026",
-    "amount": 2354.7832000000003,
-    "ai_context": "FAIR. Current market conditions and forecasts suggest $120 is unlikely, making 49% a reasonable assessment for \"No."
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xba9372840d7058277c5b9cd4c7be401cf2ee2746ad7ca740b7e571a69a7197e2",
-    "wallet": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
-    "trader": {
-      "rank": 3,
-      "address": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
-      "username": "kch123",
-      "profit": 11757966.44804662,
-      "volume": 278149345.046671,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xead152b855effa6b5b5837f53b24c0756830c76a",
-      "side": "BUY",
-      "asset": "101263462382582728685927173513365351357125224626256987459161918581750018137206",
-      "conditionId": "0x4ff6250981611560e2c35d56c404e109c152fdc40c43c1c277f5129770d79fd6",
-      "size": 10309.69433,
-      "price": 0.53,
-      "timestamp": 1775750381,
-      "title": "Cincinnati Reds vs. Miami Marlins",
-      "slug": "mlb-cin-mia-2026-04-09",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
-      "eventSlug": "mlb-cin-mia-2026-04-09",
-      "outcome": "Miami Marlins",
-      "outcomeIndex": 1,
-      "name": "elkmonkey",
-      "pseudonym": "Unconscious-Penguin",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xba9372840d7058277c5b9cd4c7be401cf2ee2746ad7ca740b7e571a69a7197e2",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Cincinnati Reds vs. Miami Marlins",
-    "market_slug": "mlb-cin-mia-2026-04-09",
-    "amount": 5464.1379949,
-    "ai_context": "FAIR. Miami Marlins have shown competitive play, but Cincinnati Reds' home advantage and historical matchups could balance the odds."
-  },
-  {
-    "market": "Arizona Diamondbacks vs. Philadelphia Phillies",
-    "market_slug": "mlb-ari-phi-2026",
-    "event_slug": "mlb-ari-phi-2026",
-    "wallet": "0xec4e470589f8c27e9d3e66b2964d7d62734261bd",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($3,704)",
-        "Low activity (2 txns)"
-      ],
-      "amount": 3704.4472006015835,
-      "odds": 0.559999999982099,
-      "raw_price": 0.559999999982099,
-      "outcome": "Philadelphia Phillies",
-      "potential_pnl": 2910.637086398416,
-      "pnl_multiplier": 0.7857142857713678,
-      "wallet_age_days": 0,
-      "total_activities": 2
-    },
-    "timestamp": "2026-04-10T19:56:58.472952",
-    "trade_hash": "0x8c1be35b65b5663c997982be6f956b07f261a3361a7486876f8cf96617c1de79",
-    "trade_timestamp": 1775850779,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Philadelphia Phillies",
-      "outcomeIndex": 1,
-      "normalized_position": "NO",
-      "side": "BUY",
-      "price": 0.559999999982099,
-      "effective_price": 0.559999999982099,
-      "size": 6615.084287,
-      "amount": 3704.4472006015835,
-      "potential_pnl": 2910.637086398416,
-      "pnl_multiplier": 0.7857142857713678,
-      "is_no": false,
-      "slug": "mlb-ari-phi-2026",
-      "eventSlug": "mlb-ari-phi-2026-04-11"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+17.8%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.38149999999283957,
-      "market_price": 0.559999999982099,
-      "edge": 0.17849999998925947,
-      "edge_percent": 17.84999999892595,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "low"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 2,
-        "conditions": [
-          "Unknown"
-        ],
-        "weakest_link": "Unknown"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Unknown"
-      ],
-      "confidence_in_analysis": "low"
-    },
-    "combined_signal": {
-      "signal_type": "ALPHA",
-      "signal_emoji": "\ud83d\udd25",
-      "signal_strength": 105,
-      "interpretation": "Smart money (NO) confirms YES is overpriced",
-      "action_suggestion": "High conviction: insider + statistics aligned",
-      "insider_score": 70,
-      "insider_position": "NO",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.17849999998925947,
-      "edge_percent": 17.84999999892595
-    },
-    "financial_analyst": {
-      "signal_quality": 81.0,
-      "stance": "HIGH_CONVICTION",
-      "edge_percent": 17.85,
-      "signal_strength": 105.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "market": "San Francisco Giants vs. Baltimore Orioles",
-    "market_slug": "mlb-sf-bal-2026",
-    "event_slug": "mlb-sf-bal-2026",
-    "wallet": "0xec4e470589f8c27e9d3e66b2964d7d62734261bd",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($2,403)",
-        "Low activity (2 txns)"
-      ],
-      "amount": 2402.668001502295,
-      "odds": 0.48999999996987703,
-      "raw_price": 0.48999999996987703,
-      "outcome": "Baltimore Orioles",
-      "potential_pnl": 2500.7360834977053,
-      "pnl_multiplier": 1.0408163266560724,
-      "wallet_age_days": 0,
-      "total_activities": 2
-    },
-    "timestamp": "2026-04-10T19:57:02.431933",
-    "trade_hash": "0xce03e9938a06dbd050670f85e797b045b08a923f8dba8ae8b5f5bbffcc32f18d",
-    "trade_timestamp": 1775850857,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Baltimore Orioles",
-      "outcomeIndex": 1,
-      "normalized_position": "NO",
-      "side": "BUY",
-      "price": 0.48999999996987703,
-      "effective_price": 0.48999999996987703,
-      "size": 4903.404085,
-      "amount": 2402.668001502295,
-      "potential_pnl": 2500.7360834977053,
-      "pnl_multiplier": 1.0408163266560724,
-      "is_no": false,
-      "slug": "mlb-sf-bal-2026",
-      "eventSlug": "mlb-sf-bal-2026-04-11"
-    },
-    "irrationality": {
-      "irrationality_score": 25,
-      "flags": [
-        "Significant mispricing edge (+13.6%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": false
-    },
-    "mispricing": {
-      "rational_estimate": 0.3534999999879508,
-      "market_price": 0.48999999996987703,
-      "edge": 0.13649999998192625,
-      "edge_percent": 13.649999998192625,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "low"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 2,
-        "conditions": [
-          "Unknown"
-        ],
-        "weakest_link": "Unknown"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Unknown"
-      ],
-      "confidence_in_analysis": "low"
-    },
-    "combined_signal": {
-      "signal_type": "ALPHA",
-      "signal_emoji": "\ud83d\udd25",
-      "signal_strength": 95,
-      "interpretation": "Smart money (NO) confirms YES is overpriced",
-      "action_suggestion": "High conviction: insider + statistics aligned",
-      "insider_score": 70,
-      "insider_position": "NO",
-      "irrationality_score": 25,
-      "is_irrational": false,
-      "is_mispriced": true,
-      "edge": 0.13649999998192625,
-      "edge_percent": 13.649999998192625
-    },
-    "financial_analyst": {
-      "signal_quality": 74.5,
-      "stance": "SELECTIVE",
-      "edge_percent": 13.65,
-      "signal_strength": 95.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x4ffb989771e433631f2bafae13d9096c092f47d5a2db59f73608a4282c301b55",
     "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
     "trader": {
@@ -27661,5 +27273,327 @@
     "market": "Wimbledon ATP: Nicolas Mejia vs Michael Zheng",
     "market_slug": "atp-mejia-zheng-2026-07-01",
     "amount": 3364.4
+  },
+  {
+    "market": "Exact Score: England 1 - 0 DR Congo?",
+    "market_slug": "fifwc-eng-cdr-2026-07-01-exact-score",
+    "event_slug": "fifwc-eng-cdr-2026-07-01-exact-score",
+    "wallet": "0x50694c253415199b3c49ad8b63bf4aef803243fb",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($2,940)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 2939.9899997400003,
+      "odds": 0.17,
+      "raw_price": 0.17,
+      "outcome": "Yes",
+      "potential_pnl": 14354.068822259998,
+      "pnl_multiplier": 4.882352941176469,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-07-01T15:58:47.239063",
+    "trade_hash": "0x1b179629d6306948e225555aa4dc5e309e6621f9beb21d9cd8efe16c44c1032a",
+    "trade_timestamp": 1782921070,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.17,
+      "effective_price": 0.17,
+      "size": 17294.058822,
+      "amount": 2939.9899997400003,
+      "potential_pnl": 14354.068822259998,
+      "pnl_multiplier": 4.882352941176469,
+      "is_no": false,
+      "slug": "fifwc-eng-cdr-2026-07-01-exact-score",
+      "eventSlug": "fifwc-eng-cdr-2026-07-01-exact-score"
+    },
+    "irrationality": {
+      "irrationality_score": 10,
+      "flags": [],
+      "category": "other",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.1355,
+      "market_price": 0.17,
+      "edge": 0.0345,
+      "edge_percent": 3.45,
+      "min_edge_required": 0.05,
+      "is_mispriced": false,
+      "edge_quality": "WEAK",
+      "base_rate_class": "occasional",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "occasional",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "other",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 10,
+      "is_irrational": false,
+      "is_mispriced": false,
+      "edge": 0.0345,
+      "edge_percent": 3.45
+    },
+    "financial_analyst": {
+      "signal_quality": 26.2,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 3.45,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xe290b6a97156b2813d166951be35faf8393f45ca8df158f83635bd66480e0762",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "trader": {
+      "rank": 5,
+      "address": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+      "username": "RN1",
+      "profit": 10469765.707480358,
+      "volume": 793120064.2283318,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x0924aca1ae2ad37f6b1805eddefdac2d378df6ac",
+      "side": "BUY",
+      "asset": "38238115948644959603418073836073787584438294311830747270599841411168139328312",
+      "conditionId": "0x0c0f8da3116a620a0b2031f2627ddcdcac3576a0c44284b0c94186bf269426c6",
+      "size": 3137.2549,
+      "price": 0.51,
+      "timestamp": 1782921625,
+      "title": "England vs. DR Congo: O/U 2.5",
+      "slug": "fifwc-eng-cdr-2026-07-01-total-2pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-eng-cdr-2026-07-01-more-markets",
+      "outcome": "Under",
+      "outcomeIndex": 1,
+      "name": "AoiWatanab",
+      "pseudonym": "Calculating-Attempt",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xe290b6a97156b2813d166951be35faf8393f45ca8df158f83635bd66480e0762",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "England vs. DR Congo: O/U 2.5",
+    "market_slug": "fifwc-eng-cdr-2026-07-01-more-markets",
+    "amount": 1599.999999
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x4e32d31f3f40dccc820273566b7a4b728d5ec211f6cff21a6412e0be27b0b13d",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "trader": {
+      "rank": 5,
+      "address": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+      "username": "RN1",
+      "profit": 10469765.707480358,
+      "volume": 793120064.2283318,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x06f22ff6d9362ce82243f8ca594c97485d9c1269",
+      "side": "BUY",
+      "asset": "47883884859239851723577394912132989258598636294499420447980977689105930123668",
+      "conditionId": "0x0c0f8da3116a620a0b2031f2627ddcdcac3576a0c44284b0c94186bf269426c6",
+      "size": 4960.52,
+      "price": 0.5,
+      "timestamp": 1782921625,
+      "title": "England vs. DR Congo: O/U 2.5",
+      "slug": "fifwc-eng-cdr-2026-07-01-total-2pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-eng-cdr-2026-07-01-more-markets",
+      "outcome": "Over",
+      "outcomeIndex": 0,
+      "name": "vkvkgjerkgk",
+      "pseudonym": "Reckless-Epoxy-Talent",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x4e32d31f3f40dccc820273566b7a4b728d5ec211f6cff21a6412e0be27b0b13d",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "England vs. DR Congo: O/U 2.5",
+    "market_slug": "fifwc-eng-cdr-2026-07-01-more-markets",
+    "amount": 2480.26
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x71b89ea5dfa45fbc0e291f275038a1d03bc5c59ec2c6236caa5c6ad66b670efe",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "trader": {
+      "rank": 5,
+      "address": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+      "username": "RN1",
+      "profit": 10469765.707480358,
+      "volume": 793120064.2283318,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x06f22ff6d9362ce82243f8ca594c97485d9c1269",
+      "side": "BUY",
+      "asset": "67111771849489332153870402262083187114425957140777276921964204001304424899973",
+      "conditionId": "0x09ea2e3e7e7a1bd2ea192baba2eb9efa7c5bb29cec674bbe3978c9b426ea6915",
+      "size": 4976.68,
+      "price": 0.75,
+      "timestamp": 1782921625,
+      "title": "England vs. DR Congo: O/U 1.5",
+      "slug": "fifwc-eng-cdr-2026-07-01-total-1pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-eng-cdr-2026-07-01-more-markets",
+      "outcome": "Over",
+      "outcomeIndex": 0,
+      "name": "vkvkgjerkgk",
+      "pseudonym": "Reckless-Epoxy-Talent",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x71b89ea5dfa45fbc0e291f275038a1d03bc5c59ec2c6236caa5c6ad66b670efe",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "England vs. DR Congo: O/U 1.5",
+    "market_slug": "fifwc-eng-cdr-2026-07-01-more-markets",
+    "amount": 3732.51
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x96eee435363b425ed2dbae92a590f4ff4df690c5879ab66b39e5971cdb8408df",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "trader": {
+      "rank": 5,
+      "address": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+      "username": "RN1",
+      "profit": 10469765.707480358,
+      "volume": 793120064.2283318,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x06f22ff6d9362ce82243f8ca594c97485d9c1269",
+      "side": "BUY",
+      "asset": "47883884859239851723577394912132989258598636294499420447980977689105930123668",
+      "conditionId": "0x0c0f8da3116a620a0b2031f2627ddcdcac3576a0c44284b0c94186bf269426c6",
+      "size": 4960.52,
+      "price": 0.5,
+      "timestamp": 1782921625,
+      "title": "England vs. DR Congo: O/U 2.5",
+      "slug": "fifwc-eng-cdr-2026-07-01-total-2pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-eng-cdr-2026-07-01-more-markets",
+      "outcome": "Over",
+      "outcomeIndex": 0,
+      "name": "vkvkgjerkgk",
+      "pseudonym": "Reckless-Epoxy-Talent",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x96eee435363b425ed2dbae92a590f4ff4df690c5879ab66b39e5971cdb8408df",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "England vs. DR Congo: O/U 2.5",
+    "market_slug": "fifwc-eng-cdr-2026-07-01-more-markets",
+    "amount": 2480.26
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x55c4f6aab2e7287ae4946e9361fbc660dbdfa0e4ea00a641ff27cd760d0a96c7",
+    "wallet": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+    "trader": {
+      "rank": 15,
+      "address": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+      "username": "PrincessCaro",
+      "profit": 6083643.099591745,
+      "volume": 23520809.952866998,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x8165f885f94e120a28c4d38396acfe4b871b97b8",
+      "side": "BUY",
+      "asset": "99002619862491829314254124410591669831670395603289411176802615227132469112620",
+      "conditionId": "0x87eea1946ceef2a3b619abc12edf1ce73f45c39e8b6c518ee46438b469edc8bd",
+      "size": 2000,
+      "price": 0.9,
+      "timestamp": 1782922006,
+      "title": "England vs. DR Congo: Both Teams to Score in First Half",
+      "slug": "fifwc-eng-cdr-2026-07-01-btts-first-half",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "",
+      "outcome": "No",
+      "outcomeIndex": 999,
+      "name": "Sacrod",
+      "pseudonym": "Likable-Mineshaft",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x55c4f6aab2e7287ae4946e9361fbc660dbdfa0e4ea00a641ff27cd760d0a96c7",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "England vs. DR Congo: Both Teams to Score in First Half",
+    "market_slug": "fifwc-eng-cdr-2026-07-01-btts-first-half",
+    "amount": 1800.0
   }
 ]
