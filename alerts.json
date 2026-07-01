@@ -1,96 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x77fcbac180deab67177677547777fb50a79685b5d3747f155b9fc6ad581c2317",
-    "wallet": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
-    "trader": {
-      "rank": 18,
-      "address": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
-      "username": "GamblingIsAllYouNeed",
-      "profit": 4407388.904966463,
-      "volume": 324092945.374786,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x6165eea4a70294502eaafe6a6abdcfae35c8db3c",
-      "side": "BUY",
-      "asset": "9213001199289032600476375692888468551012982184429350232585347601594417764501",
-      "conditionId": "0xcb9afbb3743319a44d41ab2a5236acc0d988718897dcdb26f4eae126e0a86075",
-      "size": 2072.072105,
-      "price": 0.8099999999280213,
-      "timestamp": 1775687953,
-      "title": "Timberwolves vs. Magic",
-      "slug": "nba-min-orl-2026-04-08",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-min-orl-2026-04-08",
-      "outcome": "Magic",
-      "outcomeIndex": 1,
-      "name": "0x6165EEa4a70294502EAafe6A6abdCFAE35c8Db3c-1763787021961",
-      "pseudonym": "Sad-Cashier",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x77fcbac180deab67177677547777fb50a79685b5d3747f155b9fc6ad581c2317",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Timberwolves vs. Magic",
-    "market_slug": "nba-min-orl-2026-04-08",
-    "amount": 1678.378404900855,
-    "ai_context": "UNDERPRICED. The Magic's 19% implies a low chance against a stronger Timberwolves team, considering recent performance and matchup history."
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x7297a85af62eb17933fafc4aa712c1395f193783215a05001a5dcd4146fb9897",
-    "wallet": "0xd0c042c08f755ff940249f62745e82d356345565",
-    "trader": {
-      "rank": 15,
-      "address": "0xd0c042c08f755ff940249f62745e82d356345565",
-      "username": "alexmulti",
-      "profit": 4804855.613376001,
-      "volume": 9949068.653841998,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xee613b3fc183ee44f9da9c05f53e2da107e3debf",
-      "side": "BUY",
-      "asset": "57671111904343297017035559331206968340219293155722507171442770347401653986711",
-      "conditionId": "0xc31f282a30746ae49954e23d92d23aa6c129d008d07b0f47686db178554e32d8",
-      "size": 2636.14213,
-      "price": 0.76,
-      "timestamp": 1775690053,
-      "title": "Thunder vs. Clippers",
-      "slug": "nba-okc-lac-2026-04-08",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-okc-lac-2026-04-08",
-      "outcome": "Thunder",
-      "outcomeIndex": 0,
-      "name": "sovereign2013",
-      "pseudonym": "Ultimate-Locality",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x7297a85af62eb17933fafc4aa712c1395f193783215a05001a5dcd4146fb9897",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Thunder vs. Clippers",
-    "market_slug": "nba-okc-lac-2026-04-08",
-    "amount": 2003.4680188000002,
-    "ai_context": "OVERPRICED. The Clippers have shown competitiveness, and historical matchups suggest closer contests than a 76% likelihood for the Thunder."
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x0b4ad9bd87486e9ed82a3cb19390c9da049c56c60ce110bc350c2cd073f98596",
     "wallet": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
     "trader": {
@@ -27663,5 +27573,93 @@
       "insider_score": 95.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x968d7a9feaaae6e351611c195897aa17829c970fd358e47975b28aa0baf9adbc",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "71161385881866322961143252992607861700444783154112091345883172301818662717036",
+      "conditionId": "0x942e9af4f4c8f1b2617272cd1648e9d1a1f8299205543293a2962350e8c0c871",
+      "size": 6231,
+      "price": 0.92,
+      "timestamp": 1782911495,
+      "title": "Exact Score: Belgium 0 - 0 Senegal?",
+      "slug": "fifwc-bel-sen-2026-07-01-exact-score-0-0",
+      "icon": "",
+      "eventSlug": "",
+      "outcome": "No",
+      "outcomeIndex": 999,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "loincloth chic",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x968d7a9feaaae6e351611c195897aa17829c970fd358e47975b28aa0baf9adbc",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Exact Score: Belgium 0 - 0 Senegal?",
+    "market_slug": "fifwc-bel-sen-2026-07-01-exact-score-0-0",
+    "amount": 5732.52
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xac850eb5090df8207e61a8a5e3cf3b1b7f3838e5a0b89e1927d24395df8aa369",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "103649182594652761241900709803453073595158765512780026452904981597423380632968",
+      "conditionId": "0xeec8502640a87683b60f7a0aa268318b8fa51710aaab28e0057d3a67b4f9e2ad",
+      "size": 5176,
+      "price": 0.65,
+      "timestamp": 1782911495,
+      "title": "Wimbledon ATP: Nicolas Mejia vs Michael Zheng",
+      "slug": "atp-mejia-zheng-2026-07-01",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+      "eventSlug": "",
+      "outcome": "Michael Zheng",
+      "outcomeIndex": 999,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "loincloth chic",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xac850eb5090df8207e61a8a5e3cf3b1b7f3838e5a0b89e1927d24395df8aa369",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Wimbledon ATP: Nicolas Mejia vs Michael Zheng",
+    "market_slug": "atp-mejia-zheng-2026-07-01",
+    "amount": 3364.4
   }
 ]
