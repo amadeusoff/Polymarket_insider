@@ -1,244 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xb58f65864058e3442690c6dc7cc567ad6c24d9f7a3b0354867019cd905a7c5e9",
-    "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
-    "trader": {
-      "rank": 18,
-      "address": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
-      "username": "432614799197",
-      "profit": 4526176.046413317,
-      "volume": 185485956.8620829,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x83d9c8fe37f1b5141f3219219403d87f4513651b",
-      "side": "BUY",
-      "asset": "41258360498047732696011506853943916604266422723806077173801955350268225469280",
-      "conditionId": "0xa016f5a9196c51bcc42fbbbde0243dfa428f8cb607993fb23aff0c6c18f56de2",
-      "size": 2182.18,
-      "price": 0.73,
-      "timestamp": 1775930463,
-      "title": "FC Barcelona vs. RCD Espanyol de Barcelona: O/U 3.5",
-      "slug": "lal-bar-esp-2026-04-11-total-3pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-lal.png",
-      "eventSlug": "lal-bar-esp-2026-04-11-more-markets",
-      "outcome": "Over",
-      "outcomeIndex": 0,
-      "name": "4buc0",
-      "pseudonym": "Giddy-Stepuncle",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xb58f65864058e3442690c6dc7cc567ad6c24d9f7a3b0354867019cd905a7c5e9",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "FC Barcelona vs. RCD Espanyol de Barcelona: O/U 3.5",
-    "market_slug": "lal-bar-esp-2026-04-11-more-markets",
-    "amount": 1592.9913999999999
-  },
-  {
-    "market": "Will Tisza win the most national list votes in the 2026 Hungarian parliamentary election?",
-    "market_slug": "will-tisza-win-the-most-national-list-votes-in-the-2026-hungarian-parliamentary-election",
-    "event_slug": "will-tisza-win-the-most-national-list-votes-in-the-2026-hungarian-parliamentary-election",
-    "wallet": "0x9079e83ad106845369633b36f715632fc960bf19",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,173)",
-        "Low activity (3 txns)"
-      ],
-      "amount": 1172.999998,
-      "odds": 0.83999999942711,
-      "raw_price": 0.83999999942711,
-      "outcome": "Yes",
-      "potential_pnl": 223.42857200000003,
-      "pnl_multiplier": 0.19047619128810947,
-      "wallet_age_days": 0,
-      "total_activities": 3
-    },
-    "timestamp": "2026-04-11T19:51:31.609324",
-    "trade_hash": "0x03ed591479224d93b56c01efc87768d3e911ef606edbd911f4b11ac0229bd5f5",
-    "trade_timestamp": 1775936715,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "normalized_position": "YES",
-      "side": "BUY",
-      "price": 0.83999999942711,
-      "effective_price": 0.83999999942711,
-      "size": 1396.42857,
-      "amount": 1172.999998,
-      "potential_pnl": 223.42857200000003,
-      "pnl_multiplier": 0.19047619128810947,
-      "is_no": false,
-      "slug": "will-tisza-win-the-most-national-list-votes-in-the-2026-hungarian-parliamentary-election",
-      "eventSlug": "hungary-parliamentary-election-popular-vote-winner"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+34.6%)"
-      ],
-      "category": "politics_near",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.02,
-        "min_edge": 0.03
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.493499999770844,
-      "market_price": 0.83999999942711,
-      "edge": 0.346499999656266,
-      "edge_percent": 34.6499999656266,
-      "min_edge_required": 0.03,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "low"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 2,
-        "conditions": [
-          "Unknown"
-        ],
-        "weakest_link": "Unknown"
-      },
-      "category": "politics_near",
-      "narrative_drivers": [
-        "Unknown"
-      ],
-      "confidence_in_analysis": "low"
-    },
-    "combined_signal": {
-      "signal_type": "CONFLICT",
-      "signal_emoji": "\u26a0\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider buying YES despite statistical overpricing",
-      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
-      "insider_score": 70,
-      "insider_position": "YES",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.346499999656266,
-      "edge_percent": 34.6499999656266
-    },
-    "log_only": true,
-    "financial_analyst": {
-      "signal_quality": 46.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 34.65,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-04-12T08:39:59.128352+00:00"
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xf9cdd7e242ec8e4e1f7d82492fcf6ce46d17883f0810e5f6795c247f43b35f07",
-    "wallet": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
-    "trader": {
-      "rank": 3,
-      "address": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
-      "username": "kch123",
-      "profit": 12046708.246806102,
-      "volume": 281310471.65188605,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x6cbb4ad84f064f6aa197f3965f291a626ce1cf39",
-      "side": "BUY",
-      "asset": "91464516107556165907566387619157396733019262339196802152206657889196699256450",
-      "conditionId": "0xae6d3d20bc8f742922dc40880cd8a8671c10385a9912fa7cd670fba0643dfe96",
-      "size": 4876.543477,
-      "price": 0.4599999999138734,
-      "timestamp": 1776081449,
-      "title": "Will Rafael L\u00f3pez Aliaga win the 2026 Peruvian presidential election?",
-      "slug": "will-rafael-lpez-aliaga-win-the-2026-peruvian-presidential-election",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-rafael-lpez-aliaga-win-the-2026-peruvian-presidential-election-X72XjUcYKC0d.jpg",
-      "eventSlug": "peru-presidential-election-winner",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "nickolasvitte",
-      "pseudonym": "Each-Lambkin",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xf9cdd7e242ec8e4e1f7d82492fcf6ce46d17883f0810e5f6795c247f43b35f07",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Rafael L\u00f3pez Aliaga win the 2026 Peruvian presidential election?",
-    "market_slug": "peru-presidential-election-winner",
-    "amount": 2243.209999
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x794279983db66cef63e5abfac348cd57506b7378398b2bb5620829253ebb95cc",
-    "wallet": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
-    "trader": {
-      "rank": 16,
-      "address": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
-      "username": "GamblingIsAllYouNeed",
-      "profit": 4743296.994874363,
-      "volume": 342686462.67575395,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x40471b34671887546013ceb58740625c2efe7293",
-      "side": "BUY",
-      "asset": "32341687274788201899478881548952314427337883629625135260703748269761856076766",
-      "conditionId": "0xeda0e0633f131b761cbe6c6e5e16ae347c48d9448a08c5826bfc2c794b63758e",
-      "size": 1815,
-      "price": 0.83,
-      "timestamp": 1776121973,
-      "title": "Will Crude Oil (CL) hit (HIGH) $150 by end of June?",
-      "slug": "will-crude-oil-cl-hit-high-150-by-end-of-june-788-691",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/crude-oil-9a850ce2a2.png",
-      "eventSlug": "cl-hit-jun-2026",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "esports095",
-      "pseudonym": "Oval-Gasp",
-      "bio": "fun",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-1612623-69a46f7f-2905-4f22-9d46-43d32df5e7d4.png",
-      "profileImageOptimized": "",
-      "transactionHash": "0x794279983db66cef63e5abfac348cd57506b7378398b2bb5620829253ebb95cc",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Crude Oil (CL) hit (HIGH) $150 by end of June?",
-    "market_slug": "cl-hit-jun-2026",
-    "amount": 1506.4499999999998
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x7c2c62277c2bfffca4a9d8a893f1f7e1060ef7cadc70da92b8544521e70a82f8",
     "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
     "trader": {
@@ -27594,5 +27356,181 @@
     "market": "Belgium vs. Senegal: Team to Advance",
     "market_slug": "fifwc-bel-sen-2026-07-01-more-markets",
     "amount": 5640.772129999999
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x1775c1f085bd8681c9e8d9485949ffde797e65363e71e2f4241bbeaa4280f145",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x1851cc2a59239f189b52c51df00d3e1e4b537016",
+      "side": "BUY",
+      "asset": "78373670299495103476528806345457760563342359569426932939478200718536157536363",
+      "conditionId": "0xd8aff2490e3a808f2cbef7970698f72762f8090b78562e388ee6ab500e6821eb",
+      "size": 10989.010988,
+      "price": 0.91,
+      "timestamp": 1782947537,
+      "title": "Will Bosnia and Herzegovina win on 2026-07-01?",
+      "slug": "fifwc-usa-bih-2026-07-01-bih",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "",
+      "outcome": "No",
+      "outcomeIndex": 999,
+      "name": "impaul",
+      "pseudonym": "Tedious-Necessity",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x1775c1f085bd8681c9e8d9485949ffde797e65363e71e2f4241bbeaa4280f145",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Bosnia and Herzegovina win on 2026-07-01?",
+    "market_slug": "fifwc-usa-bih-2026-07-01-bih",
+    "amount": 9999.99999908
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x806c5d31b8376774ff40f3d631fb097412efe478862b5d34a7bcab7e3684ea2b",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "trader": {
+      "rank": 5,
+      "address": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+      "username": "RN1",
+      "profit": 10575934.982024817,
+      "volume": 800471634.2866638,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xc57f19fd86e4531560980d1cd73310c9fbfbc909",
+      "side": "BUY",
+      "asset": "38360977878076822550112952904850300542743817271403962305807057357925378533274",
+      "conditionId": "0xab186f403a2260444ccc536fce775670e1a851d8ceff6b7fff3f5f3d240ba412",
+      "size": 22000,
+      "price": 0.52,
+      "timestamp": 1782947839,
+      "title": "Spread: United States (-1.5)",
+      "slug": "fifwc-usa-bih-2026-07-01-spread-home-1pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "",
+      "outcome": "Bosnia and Herzegovina",
+      "outcomeIndex": 999,
+      "name": "CK61",
+      "pseudonym": "Instructive-Fix-Hardcover",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x806c5d31b8376774ff40f3d631fb097412efe478862b5d34a7bcab7e3684ea2b",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spread: United States (-1.5)",
+    "market_slug": "fifwc-usa-bih-2026-07-01-spread-home-1pt5",
+    "amount": 11440.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xa09df91a0e05a529f8974cc11778fd2d5ddfc162cbee2f2cbc6fdf17208d71e5",
+    "wallet": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
+    "trader": {
+      "rank": 9,
+      "address": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
+      "username": "Len9311238",
+      "profit": 8709972.988069998,
+      "volume": 16402744.764627,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xe7459091ac5e72163edc9d4276edf382152e5681",
+      "side": "BUY",
+      "asset": "4633569295739345295929299496370398790000429459208303788658430774702495448690",
+      "conditionId": "0xe9d96f957f3f5e4ffa0e920087edf967c4cc353e9d1ad0c2d7ae928b32b61cb0",
+      "size": 4166.666664,
+      "price": 0.7199999999808,
+      "timestamp": 1782947777,
+      "title": "Will United States win on 2026-07-01?",
+      "slug": "fifwc-usa-bih-2026-07-01-usa",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-usa-bih-2026-07-01",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "andr8w",
+      "pseudonym": "Outlying-Sun",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xa09df91a0e05a529f8974cc11778fd2d5ddfc162cbee2f2cbc6fdf17208d71e5",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will United States win on 2026-07-01?",
+    "market_slug": "fifwc-usa-bih-2026-07-01",
+    "amount": 2999.9999980000002
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x27cece3d2d01ea13880ccf92f5985289078393a470d9d3fb93408f5a0fe3b231",
+    "wallet": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
+    "trader": {
+      "rank": 9,
+      "address": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
+      "username": "Len9311238",
+      "profit": 8709972.988069998,
+      "volume": 16402744.764627,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x85bbb00a84f100a74ec6a479ce6f8f45b04c9ada",
+      "side": "BUY",
+      "asset": "27701019032632953912369001798247488127225848740337909416680464150523354958788",
+      "conditionId": "0x80a0d3434e1a772a4f060ff43572904b1997cd108f60b0e4511711399ffd10e8",
+      "size": 35550.831402,
+      "price": 0.5625747474888829,
+      "timestamp": 1782947776,
+      "title": "United States leading at halftime?",
+      "slug": "fifwc-usa-bih-2026-07-01-halftime-result-home",
+      "icon": "",
+      "eventSlug": "fifwc-usa-bih-2026-07-01-halftime-result",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "Prelode",
+      "pseudonym": "Weary-Shareholder-Succotash",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x27cece3d2d01ea13880ccf92f5985289078393a470d9d3fb93408f5a0fe3b231",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "United States leading at halftime?",
+    "market_slug": "fifwc-usa-bih-2026-07-01-halftime-result",
+    "amount": 19999.999999000003
   }
 ]
