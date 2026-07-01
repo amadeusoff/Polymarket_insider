@@ -27333,7 +27333,8 @@
     },
     "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
     "market_slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-    "amount": 2813.07
+    "amount": 2813.07,
+    "resolution_last_check": "2026-07-01T09:49:31.553391+00:00"
   },
   {
     "type": "TOP_TRADER",
