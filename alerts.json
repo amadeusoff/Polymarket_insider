@@ -1,94 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x4ffb989771e433631f2bafae13d9096c092f47d5a2db59f73608a4282c301b55",
-    "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
-    "trader": {
-      "rank": 11,
-      "address": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
-      "username": "KeyTransporter",
-      "profit": 5711459.802519929,
-      "volume": 20086062.154324997,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xd1001f4ef07ee37774934a8bc0083185ef6b853d",
-      "side": "BUY",
-      "asset": "80233603906840199723166341893893457990772232104675468228850490793625329146706",
-      "conditionId": "0x958fc86fe0aea306a62b3dd2312424fc3050c28b52f23172c4853727ee1cdbb8",
-      "size": 20496.88148,
-      "price": 0.48,
-      "timestamp": 1775858731,
-      "title": "Nets vs. Bucks: O/U 217.5",
-      "slug": "nba-bkn-mil-2026-04-10-total-217pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-bkn-mil-2026-04-10",
-      "outcome": "Under",
-      "outcomeIndex": 1,
-      "name": "",
-      "pseudonym": "",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x4ffb989771e433631f2bafae13d9096c092f47d5a2db59f73608a4282c301b55",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Nets vs. Bucks: O/U 217.5",
-    "market_slug": "nba-bkn-mil-2026-04-10",
-    "amount": 9838.503110399999
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x8966da66918827093bad4f9b80e250570e9e4e0ebbc6608691d42281b7fd6de2",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.51568201,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x56fcc141d24f3c9c29c72165ee2594cc59df733e",
-      "side": "BUY",
-      "asset": "57796530258571118809714509861661697154774127994028331661722212697226345158279",
-      "conditionId": "0xc99b65cb1623853c0fbd73c4297a0c855ac07c38e89f943f75c333ecc024c9ec",
-      "size": 4179.841004,
-      "price": 0.6673150740188465,
-      "timestamp": 1775865035,
-      "title": "Miami Marlins vs. Detroit Tigers",
-      "slug": "mlb-mia-det-2026-04-10",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
-      "eventSlug": "mlb-mia-det-2026-04-10",
-      "outcome": "Detroit Tigers",
-      "outcomeIndex": 1,
-      "name": "cy14",
-      "pseudonym": "Bold-Cultivator",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x8966da66918827093bad4f9b80e250570e9e4e0ebbc6608691d42281b7fd6de2",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Miami Marlins vs. Detroit Tigers",
-    "market_slug": "mlb-mia-det-2026-04-10",
-    "amount": 2789.2709089712694
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x330786ad44a7d2ba5011d2f34231b75a944dddd606acdfd43317b4995e770a32",
     "wallet": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
     "trader": {
@@ -27595,5 +27507,93 @@
     "market": "England vs. DR Congo: Both Teams to Score in First Half",
     "market_slug": "fifwc-eng-cdr-2026-07-01-btts-first-half",
     "amount": 1800.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xd8ad41d195bf7790b9ef6933448773b986794f06cb2d05e8a5e05237b0cda2b8",
+    "wallet": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
+    "trader": {
+      "rank": 4,
+      "address": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
+      "username": "kch123",
+      "profit": 11386690.875513865,
+      "volume": 293707578.6188611,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "94977381112422797079712121033227045171003901410349553709461183029653786236627",
+      "conditionId": "0x1525f6e38aad87d60dca762113a3bc8bd48baa8563aca8489b12c79330d77a92",
+      "size": 2506.357969,
+      "price": 0.7395990596,
+      "timestamp": 1782937027,
+      "title": "Will Senegal win on 2026-07-01?",
+      "slug": "fifwc-bel-sen-2026-07-01-sen",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-bel-sen-2026-07-01",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "loincloth chic",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xd8ad41d195bf7790b9ef6933448773b986794f06cb2d05e8a5e05237b0cda2b8",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Senegal win on 2026-07-01?",
+    "market_slug": "fifwc-bel-sen-2026-07-01",
+    "amount": 1853.6999968933662
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x0af89631aeda83facd998721a41c3f62acbf60a76fa479d1410c894b56d8df95",
+    "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
+    "trader": {
+      "rank": 13,
+      "address": "0x863134d00841b2e200492805a01e1e2f5defaa53",
+      "username": "RepTrump",
+      "profit": 7532409.671579,
+      "volume": 13983231.103425,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+      "side": "BUY",
+      "asset": "95563237146179919161455601725855003480388556199651001441582704355811157748915",
+      "conditionId": "0x74ab826996f3c909455311ee5c4fee7faa696988b2c51a4d1d09f81e367ead19",
+      "size": 5447.78846,
+      "price": 0.52,
+      "timestamp": 1782937328,
+      "title": "Belgium vs. Senegal: O/U 2.5",
+      "slug": "fifwc-bel-sen-2026-07-01-total-2pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-bel-sen-2026-07-01-more-markets",
+      "outcome": "Under",
+      "outcomeIndex": 1,
+      "name": "",
+      "pseudonym": "",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x0af89631aeda83facd998721a41c3f62acbf60a76fa479d1410c894b56d8df95",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Belgium vs. Senegal: O/U 2.5",
+    "market_slug": "fifwc-bel-sen-2026-07-01-more-markets",
+    "amount": 2832.8499992
   }
 ]
