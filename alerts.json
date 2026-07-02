@@ -1,349 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x5e77281059b9eb7c349966cf440fe2e45aa55c55f6b1f6c87a8befd5b85cd0f1",
-    "wallet": "0xd0c042c08f755ff940249f62745e82d356345565",
-    "trader": {
-      "rank": 16,
-      "address": "0xd0c042c08f755ff940249f62745e82d356345565",
-      "username": "alexmulti",
-      "profit": 4804855.613376001,
-      "volume": 9949068.653841998,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x5fe0c26ab86beee51a32e726559b8fadace5d994",
-      "side": "BUY",
-      "asset": "48821129411922030205570488861222488985923634925778304973221905773806454510743",
-      "conditionId": "0x620f2c522eae638610cfa0e24189f09123a52d5914c3d3bdb3a04ee7813b7246",
-      "size": 6863.5,
-      "price": 0.35,
-      "timestamp": 1776470510,
-      "title": "Rockets vs. Lakers",
-      "slug": "nba-hou-lal-2026-04-18",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-hou-lal-2026-04-18",
-      "outcome": "Lakers",
-      "outcomeIndex": 1,
-      "name": "RocketScientist",
-      "pseudonym": "Quick-Diffuse",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x5e77281059b9eb7c349966cf440fe2e45aa55c55f6b1f6c87a8befd5b85cd0f1",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Rockets vs. Lakers",
-    "market_slug": "nba-hou-lal-2026-04-18",
-    "amount": 2402.225,
-    "resolution_last_check": "2026-04-18T07:12:14.211292+00:00"
-  },
-  {
-    "market": "Map Handicap: VIT (-1.5) vs FURIA (+1.5)",
-    "market_slug": "cs2-furia-vit-2026-04-18-map-handicap-home-1pt5",
-    "event_slug": "cs2-furia-vit-2026-04-18-map-handicap-home-1pt5",
-    "wallet": "0x3059404e586f3849b04663d1807c0232ac93fcff",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (1d old)",
-        "Large bet ($4,903)",
-        "Low activity (3 txns)"
-      ],
-      "amount": 4902.926803339844,
-      "odds": 0.563450549078851,
-      "raw_price": 0.563450549078851,
-      "outcome": "FURIA",
-      "potential_pnl": 3798.6829676601556,
-      "pnl_multiplier": 0.7747786414173093,
-      "wallet_age_days": 1,
-      "total_activities": 3
-    },
-    "timestamp": "2026-04-18T08:28:49.229055",
-    "trade_hash": "0x2a64b17759d13751de6777a15e04f0ce590b83feb1cba6589f2492bb8acc20b1",
-    "trade_timestamp": 1776500252,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "FURIA",
-      "outcomeIndex": 1,
-      "normalized_position": "NO",
-      "side": "BUY",
-      "price": 0.563450549078851,
-      "effective_price": 0.563450549078851,
-      "size": 8701.609771,
-      "amount": 4902.926803339844,
-      "potential_pnl": 3798.6829676601556,
-      "pnl_multiplier": 0.7747786414173093,
-      "is_no": false,
-      "slug": "cs2-furia-vit-2026-04-18-map-handicap-home-1pt5",
-      "eventSlug": "cs2-furia-vit-2026-04-18"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+18.1%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.3828802196315404,
-      "market_price": 0.563450549078851,
-      "edge": 0.18057032944731055,
-      "edge_percent": 18.057032944731056,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "low"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 2,
-        "conditions": [
-          "Unknown"
-        ],
-        "weakest_link": "Unknown"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Unknown"
-      ],
-      "confidence_in_analysis": "low"
-    },
-    "combined_signal": {
-      "signal_type": "ALPHA",
-      "signal_emoji": "\ud83d\udd25",
-      "signal_strength": 105,
-      "interpretation": "Smart money (NO) confirms YES is overpriced",
-      "action_suggestion": "High conviction: insider + statistics aligned",
-      "insider_score": 70,
-      "insider_position": "NO",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.18057032944731055,
-      "edge_percent": 18.057032944731056
-    },
-    "financial_analyst": {
-      "signal_quality": 81.0,
-      "stance": "HIGH_CONVICTION",
-      "edge_percent": 18.06,
-      "signal_strength": 105.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x120d0c51babefdc15e7a642eeeb4f186d4130269829f4d841aa86fc02712f4a9",
-    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-    "trader": {
-      "rank": 5,
-      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-      "username": "zxgngl",
-      "profit": 7807265.5892408835,
-      "volume": 40551790.62184699,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x8f04167129929f0065859ad7a7d10921e4407994",
-      "side": "SELL",
-      "asset": "77893140510362582253172593084218413010407941075415081594586195705930819989216",
-      "conditionId": "0x924a2942747dd75703321a7c8d809c68f6a514c3b0f2a2e64274e02310634669",
-      "size": 13152.89,
-      "price": 0.39,
-      "timestamp": 1776500822,
-      "title": "Strait of Hormuz traffic returns to normal by end of April?",
-      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-april-30",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ships-transit-the-strait-of-hormuz-on-any-day-in-march-ERARnetK0FJm.jpg",
-      "eventSlug": "strait-of-hormuz-traffic-returns-to-normal-by-april-30",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "Properdin",
-      "pseudonym": "Wary-Dose",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x120d0c51babefdc15e7a642eeeb4f186d4130269829f4d841aa86fc02712f4a9",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Strait of Hormuz traffic returns to normal by end of April?",
-    "market_slug": "strait-of-hormuz-traffic-returns-to-normal-by-april-30",
-    "amount": 5129.6271,
-    "resolution_last_check": "2026-04-19T07:24:08.465337+00:00"
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xf01060f5147ee04d803d970a52e7290c98e458caf9b216711325bd1a5cbfa1c0",
-    "wallet": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
-    "trader": {
-      "rank": 15,
-      "address": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
-      "username": "GamblingIsAllYouNeed",
-      "profit": 4817034.966032629,
-      "volume": 356299254.334755,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x01e6e3c5cfe50943e7721398054cb1e22032e7e0",
-      "side": "SELL",
-      "asset": "42258521043242178810128018923400394810320802897356131657066499754635776048873",
-      "conditionId": "0x305230429a0bc9717e7d7d519333ac43ebc6a9047a0a98839f3abebb76e0301c",
-      "size": 4612.83,
-      "price": 0.58,
-      "timestamp": 1776508328,
-      "title": "LoL: Invictus Gaming vs Bilibili Gaming - Game 2 Winner",
-      "slug": "lol-ig1-blg-2026-04-18-game2",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
-      "eventSlug": "lol-ig1-blg-2026-04-18",
-      "outcome": "Bilibili Gaming",
-      "outcomeIndex": 1,
-      "name": "BirdMan.",
-      "pseudonym": "Well-Made-Sovereignty",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-6981540-65626b91-dc80-4b1c-99ee-de73d651cf10.webp",
-      "profileImageOptimized": "",
-      "transactionHash": "0xf01060f5147ee04d803d970a52e7290c98e458caf9b216711325bd1a5cbfa1c0",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "LoL: Invictus Gaming vs Bilibili Gaming - Game 2 Winner",
-    "market_slug": "lol-ig1-blg-2026-04-18",
-    "amount": 2675.4413999999997
-  },
-  {
-    "market": "Will the U.S. invade Iran before 2027?",
-    "market_slug": "will-the-us-invade-iran-before-2027",
-    "event_slug": "will-the-us-invade-iran-before-2027",
-    "wallet": "0xdb7776fa35eee723840b30a71160bc6d155dbfc2",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($9,884)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 9884.149999,
-      "odds": 0.2645892900073647,
-      "raw_price": 0.2645892900073647,
-      "outcome": "Yes",
-      "potential_pnl": 27472.426295999998,
-      "pnl_multiplier": 2.77944247090336,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-04-18T11:50:26.316158",
-    "trade_hash": "0x8500912269e31db3b7bb61e549d71c0ab02d9e7f1beff326afcfb74adf8b1e37",
-    "trade_timestamp": 1776512600,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "normalized_position": "YES",
-      "side": "BUY",
-      "price": 0.2645892900073647,
-      "effective_price": 0.2645892900073647,
-      "size": 37356.576295,
-      "amount": 9884.149999,
-      "potential_pnl": 27472.426295999998,
-      "pnl_multiplier": 2.77944247090336,
-      "is_no": false,
-      "slug": "will-the-us-invade-iran-before-2027",
-      "eventSlug": "will-the-us-invade-iran-before-2027"
-    },
-    "irrationality": {
-      "irrationality_score": 40,
-      "flags": [
-        "Longshot (26%) in high bias category (geopolitics)",
-        "Category structurally prone to longshot bias"
-      ],
-      "category": "geopolitics",
-      "category_info": {
-        "strength": "high",
-        "typical_overpricing": 0.05,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.2948357160029459,
-      "market_price": 0.2645892900073647,
-      "edge": -0.030246425995581194,
-      "edge_percent": -3.0246425995581196,
-      "min_edge_required": 0.05,
-      "is_mispriced": false,
-      "edge_quality": "NONE",
-      "base_rate_class": "common",
-      "confidence": "low"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 2,
-        "conditions": [
-          "Unknown"
-        ],
-        "weakest_link": "Unknown"
-      },
-      "category": "geopolitics",
-      "narrative_drivers": [
-        "Unknown"
-      ],
-      "confidence_in_analysis": "low"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_CONFIRMED",
-      "signal_emoji": "\ud83d\udea8",
-      "signal_strength": 90,
-      "interpretation": "Insider + underpricing aligned \u2014 likely real information",
-      "action_suggestion": "Follow the insider: market may be underpricing the event",
-      "insider_score": 70,
-      "insider_position": "YES",
-      "irrationality_score": 40,
-      "is_irrational": true,
-      "is_mispriced": false,
-      "edge": -0.030246425995581194,
-      "edge_percent": -3.0246425995581196
-    },
-    "financial_analyst": {
-      "signal_quality": 47.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": -3.02,
-      "signal_strength": 90.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-04-19T07:24:10.117330+00:00"
-  },
-  {
     "market": "UFC Fight Night: Jafel Filho vs. Lucas Rocha (Flyweight, Prelims)",
     "market_slug": "ufc-jaf-luc10-2026",
     "event_slug": "ufc-jaf-luc10-2026",
@@ -27474,5 +27130,225 @@
     "market": "Spread: Spain (-1.5)",
     "market_slug": "fifwc-esp-aut-2026-07-02-more-markets",
     "amount": 2241.4230000000002
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x22806c45a9d6311e5426107bc096e0f7aab5675ddc30a119c8d197d15ab33912",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x5b6331e7ff0831a3fe2ed12004747db1a9c911a4",
+      "side": "BUY",
+      "asset": "105300101902444670024314531766229236783176275346588264475245645697082520508325",
+      "conditionId": "0x43bde2aa4a2067139451beb84649e5acaff989a3a0817fb1c592046c993d4168",
+      "size": 6619.418802,
+      "price": 0.585,
+      "timestamp": 1783023224,
+      "title": "Will Portugal win on 2026-07-02?",
+      "slug": "fifwc-prt-hrv-2026-07-02-prt",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "",
+      "outcome": "Yes",
+      "outcomeIndex": 999,
+      "name": "neutralwave23",
+      "pseudonym": "Monstrous-Dew",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x22806c45a9d6311e5426107bc096e0f7aab5675ddc30a119c8d197d15ab33912",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Portugal win on 2026-07-02?",
+    "market_slug": "fifwc-prt-hrv-2026-07-02-prt",
+    "amount": 3872.35999917
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xe18290958d86193b037c92eeea7da4fefeaf2ccb17b724830c4ce64b792a3efa",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x75322cd79943489a4a747587afd4cbbecf57c6fc",
+      "side": "SELL",
+      "asset": "112680630004798425069810935278212000865453267506345451433803052322987302357330",
+      "conditionId": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+      "size": 5000,
+      "price": 0.882083224,
+      "timestamp": 1783023223,
+      "title": "Will Spain win the 2026 FIFA World Cup?",
+      "slug": "will-spain-win-the-2026-fifa-world-cup-963",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/world-cup-winner-spain-flag-20260603-192743.png",
+      "eventSlug": "",
+      "outcome": "No",
+      "outcomeIndex": 999,
+      "name": "RolandDrump",
+      "pseudonym": "Dishonest-Timeout",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3512822-ec22fa95-60a3-4453-b0a3-b682a8d56d4c.webp",
+      "profileImageOptimized": "",
+      "transactionHash": "0xe18290958d86193b037c92eeea7da4fefeaf2ccb17b724830c4ce64b792a3efa",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Spain win the 2026 FIFA World Cup?",
+    "market_slug": "will-spain-win-the-2026-fifa-world-cup-963",
+    "amount": 4410.41612
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x944e75f44877c394adf4123796129549a26a080483139daea458b7c15e220ac9",
+    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
+    "trader": {
+      "rank": 11,
+      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
+      "username": "zxgngl",
+      "profit": 7807265.589240883,
+      "volume": 40551790.62184699,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "110474601866909537724044216141585040787927916157559633438159999666255694855775",
+      "conditionId": "0xc5943cca27ce657f519619520b1664829b1209f9a5ef9266be7f2954be1b0260",
+      "size": 2956,
+      "price": 0.8825,
+      "timestamp": 1783023865,
+      "title": "Will Spain win on 2026-07-02?",
+      "slug": "fifwc-esp-aut-2026-07-02-esp",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-esp-aut-2026-07-02",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "trash panda",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x944e75f44877c394adf4123796129549a26a080483139daea458b7c15e220ac9",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Spain win on 2026-07-02?",
+    "market_slug": "fifwc-esp-aut-2026-07-02",
+    "amount": 2608.67
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xa65fd9f5f8941466a5401ce9bad8753e5dd9b6855fe9f54bc496e00e2d89626c",
+    "wallet": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
+    "trader": {
+      "rank": 20,
+      "address": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
+      "username": "gmanas",
+      "profit": 4955880.748691754,
+      "volume": 529047708.505991,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x0353aaf82abbd3e69c00059df0a825bc198fc2ff",
+      "side": "BUY",
+      "asset": "17336995494545062204199118854605400763014641778657470271739008106423053257198",
+      "conditionId": "0xb559bb0e246dd6d0d5ba641d37499a69e1d51324076485e6aeb82f8b5f87227d",
+      "size": 10000,
+      "price": 0.6633551525,
+      "timestamp": 1783024168,
+      "title": "Spread: Portugal (-1.5)",
+      "slug": "fifwc-prt-hrv-2026-07-02-spread-home-1pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-prt-hrv-2026-07-02-more-markets",
+      "outcome": "Croatia",
+      "outcomeIndex": 1,
+      "name": "AGUGava",
+      "pseudonym": "Black-And-White-Solitaire",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xa65fd9f5f8941466a5401ce9bad8753e5dd9b6855fe9f54bc496e00e2d89626c",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spread: Portugal (-1.5)",
+    "market_slug": "fifwc-prt-hrv-2026-07-02-more-markets",
+    "amount": 6633.551525
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x0433bf9ed7ef75a56a047c002cb08ee990dbf59764ec8bac2511552d41ce7ff2",
+    "wallet": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
+    "trader": {
+      "rank": 20,
+      "address": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
+      "username": "gmanas",
+      "profit": 4955880.748691754,
+      "volume": 529047708.505991,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "61625902493685261916576805526083675384540956596625908068818769111619569173078",
+      "conditionId": "0xa4e16ab716111eff744364bb19d4af6eac29394a97980c83fdad19c018b8eaff",
+      "size": 2000,
+      "price": 0.92,
+      "timestamp": 1783024166,
+      "title": "Spain vs. Austria: O/U 4.5",
+      "slug": "fifwc-esp-aut-2026-07-02-total-4pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-esp-aut-2026-07-02-more-markets",
+      "outcome": "Under",
+      "outcomeIndex": 1,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "trash panda",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x0433bf9ed7ef75a56a047c002cb08ee990dbf59764ec8bac2511552d41ce7ff2",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spain vs. Austria: O/U 4.5",
+    "market_slug": "fifwc-esp-aut-2026-07-02-more-markets",
+    "amount": 1840.0
   }
 ]
