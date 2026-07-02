@@ -1,138 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x95597034db2556286bb22a772e2c2eee14df4b892a37c9d293244986ec10a6c5",
-    "wallet": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
-    "trader": {
-      "rank": 8,
-      "address": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
-      "username": "PrincessCaro",
-      "profit": 6083643.099591745,
-      "volume": 23520809.952866998,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x5d1d9cfd66ee3068c2a8a57dedf1e1b006dcafd2",
-      "side": "BUY",
-      "asset": "101707776312993433788247578166605474286576082916033807919279395386959077302104",
-      "conditionId": "0xd0fd76b4a90073854a9c27362d7bd1c54fe1acfd28d85b93e67de6cd5c19e69f",
-      "size": 2543.448716,
-      "price": 0.7799999998112799,
-      "timestamp": 1776534762,
-      "title": "Raptors vs. Cavaliers",
-      "slug": "nba-tor-cle-2026-04-18",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-tor-cle-2026-04-18",
-      "outcome": "Cavaliers",
-      "outcomeIndex": 1,
-      "name": "",
-      "pseudonym": "",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x95597034db2556286bb22a772e2c2eee14df4b892a37c9d293244986ec10a6c5",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Raptors vs. Cavaliers",
-    "market_slug": "nba-tor-cle-2026-04-18",
-    "amount": 1983.8899979999999
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x03299204fd270ca18ef780c748fb223e90d116caa1c3bc46d9242f56789a3f46",
-    "wallet": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
-    "trader": {
-      "rank": 17,
-      "address": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
-      "username": "GamblingIsAllYouNeed",
-      "profit": 4780674.9736147905,
-      "volume": 359414182.836651,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x1d7ab6473e55405bb5bc62cb3377a6d37989b22f",
-      "side": "BUY",
-      "asset": "63607136635141849577323095401348239344725937578509063590083452995393076912711",
-      "conditionId": "0x84355255438feacd3e194197f86dafdca8d6e92a11904577166fa026b8febb87",
-      "size": 3940,
-      "price": 0.5,
-      "timestamp": 1776535060,
-      "title": "New York Mets vs. Chicago Cubs: O/U 8.5",
-      "slug": "mlb-nym-chc-2026-04-18-total-8pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
-      "eventSlug": "mlb-nym-chc-2026-04-18",
-      "outcome": "Over",
-      "outcomeIndex": 0,
-      "name": "Garyg9870",
-      "pseudonym": "Accurate-Pitcher",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x03299204fd270ca18ef780c748fb223e90d116caa1c3bc46d9242f56789a3f46",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "New York Mets vs. Chicago Cubs: O/U 8.5",
-    "market_slug": "mlb-nym-chc-2026-04-18",
-    "amount": 1970.0
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x8bc2720ccd57ba99f0f5e2950e0a454a79d806cbc4e15543db5353344a282fcd",
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "trader": {
-      "rank": 9,
-      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-      "username": "swisstony",
-      "profit": 5948980.499395249,
-      "volume": 668668201.6629092,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x5db55991a1b7a921c39aa5d823bfd15397b81a50",
-      "side": "BUY",
-      "asset": "45035562213802644461897559421523202913330274190244332690638003503499902174616",
-      "conditionId": "0x08f7b2dfad2bbc5e71d6596b43d623cc27d5de3b53a1356c7ecb967da29d8e47",
-      "size": 15000,
-      "price": 0.31005376,
-      "timestamp": 1776537396,
-      "title": "Will Angers SCO win on 2026-04-18?",
-      "slug": "fl1-ang-hac-2026-04-18-ang",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-fl1.png",
-      "eventSlug": "fl1-ang-hac-2026-04-18",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "Dragonite35",
-      "pseudonym": "Youthful-Manacle",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-6436675-76e1d255-d1ee-42bb-a3ac-c1ee37140f3a.webp",
-      "profileImageOptimized": "",
-      "transactionHash": "0x8bc2720ccd57ba99f0f5e2950e0a454a79d806cbc4e15543db5353344a282fcd",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Angers SCO win on 2026-04-18?",
-    "market_slug": "fl1-ang-hac-2026-04-18",
-    "amount": 4650.8064
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xfddd26ae65b9e6511da7cd150055b7d3f4038cb89b2e870c56068f0b8321b30b",
     "wallet": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
     "trader": {
@@ -27289,5 +27157,137 @@
     "market": "Spread: Portugal (-1.5)",
     "market_slug": "fifwc-prt-hrv-2026-07-02-spread-home-1pt5",
     "amount": 1895.4
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xbdfebce07f662f9d09360b46360e46ba1c7cfe3be506b6fd36522662a5f7148d",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "trader": {
+      "rank": 5,
+      "address": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+      "username": "RN1",
+      "profit": 10677541.954296397,
+      "volume": 806844744.8980869,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x97860d01437050da6cf9552266a157b190344c55",
+      "side": "BUY",
+      "asset": "87420881416753183950847701965163525629817652213917429006273635360524465160861",
+      "conditionId": "0x498cd7fcb7d5209192cd31676f27413e0a3bdb8c8d8d228229cac24c0701fc27",
+      "size": 10256.410255,
+      "price": 0.48749999996953125,
+      "timestamp": 1783032293,
+      "title": "Will Switzerland win on 2026-07-02?",
+      "slug": "fifwc-che-alg-2026-07-02-che",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-che-alg-2026-07-02",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "Anonymous11267",
+      "pseudonym": "Best-Takeover-Courthouse",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xbdfebce07f662f9d09360b46360e46ba1c7cfe3be506b6fd36522662a5f7148d",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Switzerland win on 2026-07-02?",
+    "market_slug": "fifwc-che-alg-2026-07-02",
+    "amount": 4999.999999000001
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xe9cd7213d9659628ece0f8a460e3f3fd72b6e44ad5ba1cde96e8a4d1da55af61",
+    "wallet": "0xbc11a64ab34a03a043fbe80598fa065ee87eeec6",
+    "trader": {
+      "rank": 8,
+      "address": "0xbc11a64ab34a03a043fbe80598fa065ee87eeec6",
+      "username": "frostrizz",
+      "profit": 8928561.11799,
+      "volume": 23091318.155748,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xe72bb501df5306c75c89383d48a1e81073fbb0a0",
+      "side": "BUY",
+      "asset": "110432725973852784328201271217547002466230359350658790565414508974680075500430",
+      "conditionId": "0x0d1958aa5d1a689a6f767a2bbda59e387ce59875976335a615a5173f83bcebfd",
+      "size": 2999.82,
+      "price": 0.7,
+      "timestamp": 1783032530,
+      "title": "Portugal vs. Croatia: 1st Half O/U 0.5",
+      "slug": "fifwc-prt-hrv-2026-07-02-first-half-total-0pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "",
+      "outcome": "Over",
+      "outcomeIndex": 999,
+      "name": "norrisfan",
+      "pseudonym": "Fickle-Game",
+      "bio": "CHAMPION OF THE WORLD",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-4779007-3abe2159-0729-4850-868f-cc716f041ad1.gif",
+      "profileImageOptimized": "",
+      "transactionHash": "0xe9cd7213d9659628ece0f8a460e3f3fd72b6e44ad5ba1cde96e8a4d1da55af61",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Portugal vs. Croatia: 1st Half O/U 0.5",
+    "market_slug": "fifwc-prt-hrv-2026-07-02-first-half-total-0pt5",
+    "amount": 2099.874
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x8842980b67118202178427154627d234b6ba6b1c8461f27095da0fbac4e33d11",
+    "wallet": "0xbc11a64ab34a03a043fbe80598fa065ee87eeec6",
+    "trader": {
+      "rank": 8,
+      "address": "0xbc11a64ab34a03a043fbe80598fa065ee87eeec6",
+      "username": "frostrizz",
+      "profit": 8928561.11799,
+      "volume": 23091318.155748,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x8fbb3c32496d4bcff8f456c3342f90edaaa09a17",
+      "side": "BUY",
+      "asset": "36533706584300857667029617554986527551244192111758453592898850406162026529582",
+      "conditionId": "0xd23b4810d916942c2c7b71d9f0f5e3248adc0e4017d8ffa5dd0b1fe721beb0f2",
+      "size": 30089.51,
+      "price": 0.8375,
+      "timestamp": 1783032529,
+      "title": "Will Croatia win on 2026-07-02?",
+      "slug": "fifwc-prt-hrv-2026-07-02-hrv",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "",
+      "outcome": "No",
+      "outcomeIndex": 999,
+      "name": "diooson",
+      "pseudonym": "Harmful-Gymnast",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x8842980b67118202178427154627d234b6ba6b1c8461f27095da0fbac4e33d11",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Croatia win on 2026-07-02?",
+    "market_slug": "fifwc-prt-hrv-2026-07-02-hrv",
+    "amount": 25199.964625
   }
 ]
