@@ -1,94 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x758d30cf28a16dd37d6815be8f0211d1d95bcdca8bc2ce5df22ea549d96d9569",
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "trader": {
-      "rank": 7,
-      "address": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-      "username": "RN1",
-      "profit": 7311369.503055311,
-      "volume": 411475725.998495,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-      "side": "BUY",
-      "asset": "101382360356708202153837682549732355572190849223664494489440636504424347677122",
-      "conditionId": "0x6a7fac1da50244e250bb8d1b8c68257df3df29a6fa2169ad2d83eb75de6d5d66",
-      "size": 19424.574,
-      "price": 0.22,
-      "timestamp": 1776188306,
-      "title": "Barcelona Open: Mariano Navone vs Andrey Rublev",
-      "slug": "atp-navone-rublev-2026-04-13",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
-      "eventSlug": "atp-navone-rublev-2026-04-13",
-      "outcome": "Mariano Navone",
-      "outcomeIndex": 0,
-      "name": "RN1",
-      "pseudonym": "Scary-Edible",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-1567750-84001aec-310a-470f-9584-67dfcaa61267.png",
-      "profileImageOptimized": "",
-      "transactionHash": "0x758d30cf28a16dd37d6815be8f0211d1d95bcdca8bc2ce5df22ea549d96d9569",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Barcelona Open: Mariano Navone vs Andrey Rublev",
-    "market_slug": "atp-navone-rublev-2026-04-13",
-    "amount": 4273.40628
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x6996a82059578710336064c64f08022abf23f92b4c458960523bc0fb758f40f1",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xfdf2044cfc60a9c5e792b31d06e8903f301723e3",
-      "side": "BUY",
-      "asset": "2580756844752111353079997113530362469425122018708342066576508492586746974879",
-      "conditionId": "0x6f9b09e17b881d9efe897014e6bcbc15e7605055d71759e61d9a970d86980d71",
-      "size": 1959.7676,
-      "price": 0.9281670061099796,
-      "timestamp": 1776224024,
-      "title": "Trail Blazers vs. Suns: O/U 216.5",
-      "slug": "nba-por-phx-2026-04-14-total-216pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-por-phx-2026-04-14",
-      "outcome": "Over",
-      "outcomeIndex": 0,
-      "name": "godzilltyrer",
-      "pseudonym": "Agreeable-Bust",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x6996a82059578710336064c64f08022abf23f92b4c458960523bc0fb758f40f1",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Trail Blazers vs. Suns: O/U 216.5",
-    "market_slug": "nba-por-phx-2026-04-14",
-    "amount": 1818.9916259633399
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x7b2eb8dbaeaff310f2a0e44633ab51d0b032b8043c24dbb2a645dc27ff33534d",
     "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
     "trader": {
@@ -27532,5 +27444,93 @@
     "market": "United States vs. Bosnia and Herzegovina: Both Teams to Score",
     "market_slug": "fifwc-usa-bih-2026-07-01-more-markets",
     "amount": 3394.199999
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xde2dbcd5397ad8d63f78ec36440eab7a9bba8c38ab31e4fd8aa14a6296712a2a",
+    "wallet": "0xed64a7bf029040aa331abc87902434d815ef217d",
+    "trader": {
+      "rank": 7,
+      "address": "0xed64a7bf029040aa331abc87902434d815ef217d",
+      "username": "fishalive",
+      "profit": 9063378.176199999,
+      "volume": 13281460.374668,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
+      "side": "BUY",
+      "asset": "52093479333720862086398781474654919337769522624202371053153718105996784122222",
+      "conditionId": "0xe88ccdadd028828674c7c0c057fee090cf041ae0f6a765a44144c984b4877a89",
+      "size": 2399.061537,
+      "price": 0.6499999999791585,
+      "timestamp": 1782970931,
+      "title": "Argentina vs. Cabo Verde: O/U 3.5",
+      "slug": "fifwc-arg-cvi-2026-07-03-total-3pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-arg-cvi-2026-07-03-more-markets",
+      "outcome": "Under",
+      "outcomeIndex": 1,
+      "name": "",
+      "pseudonym": "",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xde2dbcd5397ad8d63f78ec36440eab7a9bba8c38ab31e4fd8aa14a6296712a2a",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Argentina vs. Cabo Verde: O/U 3.5",
+    "market_slug": "fifwc-arg-cvi-2026-07-03-more-markets",
+    "amount": 1559.389999
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xc54bff42ecc0630bc783cce304b3f7cbf15c8a1772cc92657dcfd227941e5039",
+    "wallet": "0xed64a7bf029040aa331abc87902434d815ef217d",
+    "trader": {
+      "rank": 7,
+      "address": "0xed64a7bf029040aa331abc87902434d815ef217d",
+      "username": "fishalive",
+      "profit": 9063378.176199999,
+      "volume": 13281460.374668,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
+      "side": "BUY",
+      "asset": "64139056142428195412934173861626009635158566189507817289492463413463155017890",
+      "conditionId": "0x08a73b776cb2196ad40d036466a72d22c7bd784014e7d8abdaec337185512d55",
+      "size": 7352.76744,
+      "price": 0.42999999997279936,
+      "timestamp": 1782970931,
+      "title": "Argentina vs. Cabo Verde: O/U 2.5",
+      "slug": "fifwc-arg-cvi-2026-07-03-total-2pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-arg-cvi-2026-07-03-more-markets",
+      "outcome": "Under",
+      "outcomeIndex": 1,
+      "name": "",
+      "pseudonym": "",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xc54bff42ecc0630bc783cce304b3f7cbf15c8a1772cc92657dcfd227941e5039",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Argentina vs. Cabo Verde: O/U 2.5",
+    "market_slug": "fifwc-arg-cvi-2026-07-03-more-markets",
+    "amount": 3161.6899989999997
   }
 ]
