@@ -26384,7 +26384,8 @@
       "signal_strength": 130.0,
       "insider_score": 95.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
+    },
+    "resolution_last_check": "2026-07-02T08:59:48.401796+00:00"
   },
   {
     "market": "Will Cabo Verde win on 2026-07-03?",
@@ -26505,7 +26506,8 @@
       "signal_strength": 130.0,
       "insider_score": 95.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
+    },
+    "resolution_last_check": "2026-07-02T08:59:48.401823+00:00"
   },
   {
     "type": "TOP_TRADER",
@@ -27531,6 +27533,7 @@
     },
     "market": "Will China invade Taiwan by December 31, 2027?",
     "market_slug": "will-china-invade-taiwan-by-december-31-2027",
-    "amount": 28988.0603
+    "amount": 28988.0603,
+    "resolution_last_check": "2026-07-02T09:00:05.950859+00:00"
   }
 ]
