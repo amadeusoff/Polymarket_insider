@@ -1,198 +1,5 @@
 [
   {
-    "market": "UFC Fight Night: Jafel Filho vs. Lucas Rocha (Flyweight, Prelims)",
-    "market_slug": "ufc-jaf-luc10-2026",
-    "event_slug": "ufc-jaf-luc10-2026",
-    "wallet": "0x69915429d33125af41bd55273d07e832fd073b87",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,163)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 1163.008000605184,
-      "odds": 0.5199999998413559,
-      "raw_price": 0.5199999998413559,
-      "outcome": "Jafel Filho",
-      "potential_pnl": 1073.545847394816,
-      "pnl_multiplier": 0.9230769236636246,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-04-18T12:46:02.544282",
-    "trade_hash": "0x8476c894914b16fcf705096e9702caf76c20f91813cfca58bb516612d9cf4dff",
-    "trade_timestamp": 1776516164,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Jafel Filho",
-      "outcomeIndex": 0,
-      "normalized_position": "YES",
-      "side": "BUY",
-      "price": 0.5199999998413559,
-      "effective_price": 0.5199999998413559,
-      "size": 2236.553848,
-      "amount": 1163.008000605184,
-      "potential_pnl": 1073.545847394816,
-      "pnl_multiplier": 0.9230769236636246,
-      "is_no": false,
-      "slug": "ufc-jaf-luc10-2026",
-      "eventSlug": "ufc-jaf-luc10-2026-04-25"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+15.4%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.36549999993654236,
-      "market_price": 0.5199999998413559,
-      "edge": 0.15449999990481356,
-      "edge_percent": 15.449999990481356,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "low"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 2,
-        "conditions": [
-          "Unknown"
-        ],
-        "weakest_link": "Unknown"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Unknown"
-      ],
-      "confidence_in_analysis": "low"
-    },
-    "combined_signal": {
-      "signal_type": "CONFLICT",
-      "signal_emoji": "\u26a0\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider buying YES despite statistical overpricing",
-      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
-      "insider_score": 70,
-      "insider_position": "YES",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.15449999990481356,
-      "edge_percent": 15.449999990481356
-    },
-    "log_only": true,
-    "financial_analyst": {
-      "signal_quality": 44.2,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 15.45,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xea97d1349e0a84c14d28b03c861c8d5ba12043e16badc6dfa8dc4e852c22a51c",
-    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-    "trader": {
-      "rank": 18,
-      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
-      "profit": 4552142.413526398,
-      "volume": 60070586.07364799,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x40d5d0f66be69b942461b171cbb4c5ab8a3879a5",
-      "side": "BUY",
-      "asset": "23790225050941136254898049587858387948704551500138876986729495720594910069433",
-      "conditionId": "0xda690883bb983fdc6e04fa19daa0ec28bdf8f0324033da8160e4b06e0e8b2324",
-      "size": 3972.513097,
-      "price": 0.384208507558539,
-      "timestamp": 1776523636,
-      "title": "1. FC Union Berlin vs. VfL Wolfsburg: O/U 3.5",
-      "slug": "bun-uni-wol-2026-04-18-total-3pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-bun.jpg",
-      "eventSlug": "bun-uni-wol-2026-04-18-more-markets",
-      "outcome": "Over",
-      "outcomeIndex": 0,
-      "name": "SFC81",
-      "pseudonym": "Vivacious-Chasuble",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xea97d1349e0a84c14d28b03c861c8d5ba12043e16badc6dfa8dc4e852c22a51c",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "1. FC Union Berlin vs. VfL Wolfsburg: O/U 3.5",
-    "market_slug": "bun-uni-wol-2026-04-18-more-markets",
-    "amount": 1526.2733282551198
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xb8fc91c1a5b5f71db3e7b5a329dd35418689e9c7748105f075bf71e6e6550f32",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x05ab749a8554fb7c852238c271d384bae6798145",
-      "side": "BUY",
-      "asset": "91851388830923641218615793149765322805282194001900444983744404881757241655792",
-      "conditionId": "0x5c2e6aef8af5931e9bfa3750364626d754531d2fada2885d45c356b175962a25",
-      "size": 2000,
-      "price": 0.833,
-      "timestamp": 1776531144,
-      "title": "Iran x Israel/US conflict ends by April 15?",
-      "slug": "iran-x-israelus-conflict-ends-by-april-15-618-586-982",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/iran-x-israel-conflict-ends-by-next-friday-3FmhGylfITaT.jpg",
-      "eventSlug": "iran-x-israelus-conflict-ends-by",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "SeniorLaghetto",
-      "pseudonym": "Rusty-Fava",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xb8fc91c1a5b5f71db3e7b5a329dd35418689e9c7748105f075bf71e6e6550f32",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Iran x Israel/US conflict ends by April 15?",
-    "market_slug": "iran-x-israelus-conflict-ends-by",
-    "amount": 1666.0
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0x95597034db2556286bb22a772e2c2eee14df4b892a37c9d293244986ec10a6c5",
     "wallet": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
@@ -27350,5 +27157,137 @@
     "market": "Spain vs. Austria: O/U 4.5",
     "market_slug": "fifwc-esp-aut-2026-07-02-more-markets",
     "amount": 1840.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xb5c79947fc501ff7405e6c0deeb0e21b791e9e06a839fe2489bb3fbd231bf2f5",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
+      "side": "BUY",
+      "asset": "36793987766888699593820647443469563387793929831492612627107713011601013977487",
+      "conditionId": "0x43bde2aa4a2067139451beb84649e5acaff989a3a0817fb1c592046c993d4168",
+      "size": 34632.04,
+      "price": 0.4225,
+      "timestamp": 1783028323,
+      "title": "Will Portugal win on 2026-07-02?",
+      "slug": "fifwc-prt-hrv-2026-07-02-prt",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-prt-hrv-2026-07-02",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "sbsigner",
+      "pseudonym": "Foolish-Mango",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xb5c79947fc501ff7405e6c0deeb0e21b791e9e06a839fe2489bb3fbd231bf2f5",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Portugal win on 2026-07-02?",
+    "market_slug": "fifwc-prt-hrv-2026-07-02",
+    "amount": 14632.0369
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x3e79e15bec955453cb96804f962ac175af2aba7a9a675560d4626dbacb150fb1",
+    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
+    "trader": {
+      "rank": 11,
+      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
+      "username": "zxgngl",
+      "profit": 7807265.589240883,
+      "volume": 40551790.62184699,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xf5592765133941c40c77e52bc56bbe7ec167f462",
+      "side": "BUY",
+      "asset": "5242304646530006366276453083451341169143004518458711795413559775142625024953",
+      "conditionId": "0xb6de0c43f214510ff0ecb581354805e1f337eaefc06ee5d220ebc06e16dea0b6",
+      "size": 25316.455695,
+      "price": 0.789999999998025,
+      "timestamp": 1783028681,
+      "title": "Brazil vs. Norway: O/U 1.5",
+      "slug": "fifwc-bra-nor-2026-07-05-total-1pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-bra-nor-2026-07-05-more-markets",
+      "outcome": "Over",
+      "outcomeIndex": 0,
+      "name": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
+      "pseudonym": "Stable-Armament",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x3e79e15bec955453cb96804f962ac175af2aba7a9a675560d4626dbacb150fb1",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Brazil vs. Norway: O/U 1.5",
+    "market_slug": "fifwc-bra-nor-2026-07-05-more-markets",
+    "amount": 19999.999999
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x4fe2957428520c006cdefe53f2f12af7c41216f02063a5f0e305af211c673917",
+    "wallet": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+    "trader": {
+      "rank": 16,
+      "address": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+      "username": "walletmobile",
+      "profit": 5942685.45339684,
+      "volume": 32196692.075936034,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "17336995494545062204199118854605400763014641778657470271739008106423053257198",
+      "conditionId": "0xb559bb0e246dd6d0d5ba641d37499a69e1d51324076485e6aeb82f8b5f87227d",
+      "size": 2808,
+      "price": 0.675,
+      "timestamp": 1783028927,
+      "title": "Spread: Portugal (-1.5)",
+      "slug": "fifwc-prt-hrv-2026-07-02-spread-home-1pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "",
+      "outcome": "Croatia",
+      "outcomeIndex": 999,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "trash panda",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x4fe2957428520c006cdefe53f2f12af7c41216f02063a5f0e305af211c673917",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spread: Portugal (-1.5)",
+    "market_slug": "fifwc-prt-hrv-2026-07-02-spread-home-1pt5",
+    "amount": 1895.4
   }
 ]
