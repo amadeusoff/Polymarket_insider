@@ -1,94 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xe8e26049e55fd754a0eeca4f9e4d19e5a4dbcf4fe4601f625cc71dff4ab20c16",
-    "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
-    "trader": {
-      "rank": 13,
-      "address": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
-      "username": "mikatrade77",
-      "profit": 5147998.544602999,
-      "volume": 10884765.388775002,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xfb512d428db90455c9507d2578cc306b2701082d",
-      "side": "BUY",
-      "asset": "66690547649324163140175905845279856655045864927365165699322368973360811236644",
-      "conditionId": "0x22138ac97cfb6f04b3a7560225684d6f821e5e470b876de18b7d3d23f7cf7736",
-      "size": 1744.683115,
-      "price": 0.92,
-      "timestamp": 1776548478,
-      "title": "Timberwolves vs. Nuggets",
-      "slug": "nba-min-den-2026-04-18",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-min-den-2026-04-18",
-      "outcome": "Nuggets",
-      "outcomeIndex": 1,
-      "name": "",
-      "pseudonym": "",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xe8e26049e55fd754a0eeca4f9e4d19e5a4dbcf4fe4601f625cc71dff4ab20c16",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Timberwolves vs. Nuggets",
-    "market_slug": "nba-min-den-2026-04-18",
-    "amount": 1605.1084658000002
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xdbc5918b34ade3ff37dd3eba1d2d0b83e98cf8db8350f5b7d216db09c169472c",
-    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-    "trader": {
-      "rank": 5,
-      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-      "username": "zxgngl",
-      "profit": 7807265.5892408835,
-      "volume": 40551790.62184699,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x3f975d4186c87b3b4a39997cc37e71cc70ca4059",
-      "side": "BUY",
-      "asset": "51561501851177237085104015162795355178563009242924296214051729651645864006212",
-      "conditionId": "0x445eba7653ea7e18d4a43e6b6ba0fdc578e9e7bac1a309c6cec82bbd4686984f",
-      "size": 5247.084,
-      "price": 0.42,
-      "timestamp": 1776607304,
-      "title": "Dota 2: Team Spirit vs Team Falcons - Game 2 Winner",
-      "slug": "dota2-ts8-flc-2026-04-19-game2",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/dota2-7ffacddb21.jpg",
-      "eventSlug": "dota2-ts8-flc-2026-04-19",
-      "outcome": "Team Spirit",
-      "outcomeIndex": 0,
-      "name": "adfhgasdfhadfhadseerrr",
-      "pseudonym": "Wide-Sprout",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xdbc5918b34ade3ff37dd3eba1d2d0b83e98cf8db8350f5b7d216db09c169472c",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Dota 2: Team Spirit vs Team Falcons - Game 2 Winner",
-    "market_slug": "dota2-ts8-flc-2026-04-19",
-    "amount": 2203.77528
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x34716181c9b609c4bfab6b26312f7f3317d866f35e68d532c13ac91e0c36e5d5",
     "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
     "trader": {
@@ -27290,5 +27202,93 @@
     "market": "San Diego Padres vs. Los Angeles Dodgers",
     "market_slug": "mlb-sd-lad-2026-07-02",
     "amount": 8278.4718
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x704a722c01ef4ecb65f9bdb16a426ac3af607220a2722f5be5da18d7305d7e1d",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+      "side": "BUY",
+      "asset": "92909864999742384972394358088869791404235333902829877949585039519533614996822",
+      "conditionId": "0x9e8897f056c8c400085f0c4fcacf61ff0da54525f7f9fd866fc183bdde6612d2",
+      "size": 10068.39,
+      "price": 0.5174697345,
+      "timestamp": 1783080425,
+      "title": "Australia vs. Egypt: O/U 8.5 Total Corners",
+      "slug": "fifwc-aus-egy-2026-07-03-corners-total-8pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-aus-egy-2026-07-03-total-corners",
+      "outcome": "Over",
+      "outcomeIndex": 0,
+      "name": "mooseborzoi",
+      "pseudonym": "Agitated-Bricklaying",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x704a722c01ef4ecb65f9bdb16a426ac3af607220a2722f5be5da18d7305d7e1d",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Australia vs. Egypt: O/U 8.5 Total Corners",
+    "market_slug": "fifwc-aus-egy-2026-07-03-total-corners",
+    "amount": 5210.087100142455
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x772fdac61bf200b435e450d36c8175b20ac2d078c7a3b356d12ae58b4bc71629",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+      "side": "BUY",
+      "asset": "92909864999742384972394358088869791404235333902829877949585039519533614996822",
+      "conditionId": "0x9e8897f056c8c400085f0c4fcacf61ff0da54525f7f9fd866fc183bdde6612d2",
+      "size": 2969.23,
+      "price": 0.52,
+      "timestamp": 1783080425,
+      "title": "Australia vs. Egypt: O/U 8.5 Total Corners",
+      "slug": "fifwc-aus-egy-2026-07-03-corners-total-8pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-aus-egy-2026-07-03-total-corners",
+      "outcome": "Over",
+      "outcomeIndex": 0,
+      "name": "mooseborzoi",
+      "pseudonym": "Agitated-Bricklaying",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x772fdac61bf200b435e450d36c8175b20ac2d078c7a3b356d12ae58b4bc71629",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Australia vs. Egypt: O/U 8.5 Total Corners",
+    "market_slug": "fifwc-aus-egy-2026-07-03-total-corners",
+    "amount": 1543.9996
   }
 ]
