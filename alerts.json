@@ -1,51 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x56b3e02bf6463e305c0a9d2e109908779b317375ba8b32250c154f15f097cb39",
-    "wallet": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
-    "trader": {
-      "rank": 10,
-      "address": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
-      "username": "walletmobile",
-      "profit": 5942685.45339684,
-      "volume": 32196692.075936034,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x38337de21ff0bb0a11a40761507d51e318d633d1",
-      "side": "BUY",
-      "asset": "81223244974656269538378720037727267807135860272551319580685311544518722081755",
-      "conditionId": "0x9f23be55da3b5eaa357564591aaf182bf3e2b3a11887b94396a3d927f9db7f99",
-      "size": 11016.44539,
-      "price": 0.41,
-      "timestamp": 1776670644,
-      "title": "Dota 2: BetBoom Team vs Team Falcons (BO3) - PGL Wallachia Group Stage",
-      "slug": "dota2-bb4-flc-2026-04-20",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/dota2-7ffacddb21.jpg",
-      "eventSlug": "dota2-bb4-flc-2026-04-20",
-      "outcome": "BetBoom Team",
-      "outcomeIndex": 0,
-      "name": "SineNooneEI",
-      "pseudonym": "Any-Keystone",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x56b3e02bf6463e305c0a9d2e109908779b317375ba8b32250c154f15f097cb39",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Dota 2: BetBoom Team vs Team Falcons (BO3) - PGL Wallachia Group Stage",
-    "market_slug": "dota2-bb4-flc-2026-04-20",
-    "amount": 4516.7426099,
-    "resolution_last_check": "2026-04-20T08:12:41.791540+00:00"
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x8ba1ce1b8df406ec8de6810ec90a29e80be4d534134a784bffa71dd58533d919",
     "wallet": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
     "trader": {
@@ -27290,5 +27245,49 @@
     "market": "Exact Score: Argentina 3 - 0 Cabo Verde?",
     "market_slug": "fifwc-arg-cvi-2026-07-03-exact-score",
     "amount": 1592.5899970699998
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x4765df19b0e118367fa09bd7f8887241124e7e4508e34b6125f6564a34cecb04",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xf43842aca68209bd8bd3b4cfae00a32053769559",
+      "side": "SELL",
+      "asset": "344711435079277605454725889183542600349532798156429832616073545499085293453",
+      "conditionId": "0xa4721049a0f3db3a80e57aafc6ffae65470e6c63d36fac076aedc5a088878eed",
+      "size": 6500,
+      "price": 0.65,
+      "timestamp": 1783114949,
+      "title": "Lionel Messi: 1+ goals",
+      "slug": "fifwc-arg-cvi-2026-07-03-goals-lionel-messi-gte1",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/worldcup-goal-props/arg-lionel-messi.png",
+      "eventSlug": "fifwc-arg-cvi-2026-07-03-player-props",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "PendulumExchange",
+      "pseudonym": "Smart-Downforce",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x4765df19b0e118367fa09bd7f8887241124e7e4508e34b6125f6564a34cecb04",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Lionel Messi: 1+ goals",
+    "market_slug": "fifwc-arg-cvi-2026-07-03-player-props",
+    "amount": 4225.0
   }
 ]
