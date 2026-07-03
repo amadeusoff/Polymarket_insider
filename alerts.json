@@ -1,94 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x34716181c9b609c4bfab6b26312f7f3317d866f35e68d532c13ac91e0c36e5d5",
-    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-    "trader": {
-      "rank": 17,
-      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
-      "profit": 4552115.301796398,
-      "volume": 60070586.07364803,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x42a684472eba68d485cb4282adad1dcaf9a4cb72",
-      "side": "BUY",
-      "asset": "34294843671224051336444544293065855377788642954206965833807393727873796737717",
-      "conditionId": "0x46fe7c441e749e024f69e9eafa2bfba2c439552c0a03fb6831f4064106562de5",
-      "size": 4150,
-      "price": 0.53,
-      "timestamp": 1776611208,
-      "title": "Will Manchester City FC win on 2026-04-19?",
-      "slug": "epl-mac-ars-2026-04-19-mac",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/premier+league.jpg",
-      "eventSlug": "epl-mac-ars-2026-04-19",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "Tropic-Thunder",
-      "pseudonym": "Sympathetic-Emerald",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x34716181c9b609c4bfab6b26312f7f3317d866f35e68d532c13ac91e0c36e5d5",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Manchester City FC win on 2026-04-19?",
-    "market_slug": "epl-mac-ars-2026-04-19",
-    "amount": 2199.5
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xe7f7fae52c62a70af31c4857d2781a450246d3842d7702a77f0b4385646e50de",
-    "wallet": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
-    "trader": {
-      "rank": 4,
-      "address": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
-      "username": "Len9311238",
-      "profit": 8709972.988069998,
-      "volume": 16402744.764627,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x56c9fbdeccf198f1f5ad95ace39b24f5f7fb0d9e",
-      "side": "BUY",
-      "asset": "62369854076648491103492029066693330046257155499005103039669788445308210881805",
-      "conditionId": "0xce86fa7b0e7ffb71f5a7fa8eabe614011e3923254301fc6bb959b09dca44828e",
-      "size": 2364.56261,
-      "price": 0.6595814078092559,
-      "timestamp": 1776625016,
-      "title": "Counter-Strike: Spirit vs Vitality - Map 2 Winner",
-      "slug": "cs2-ts7-vit-2026-04-19-game2",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/counter-strike-image-16c415c538.png",
-      "eventSlug": "cs2-ts7-vit-2026-04-19",
-      "outcome": "Vitality",
-      "outcomeIndex": 1,
-      "name": "redvinny",
-      "pseudonym": "Wrathful-Row",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xe7f7fae52c62a70af31c4857d2781a450246d3842d7702a77f0b4385646e50de",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Counter-Strike: Spirit vs Vitality - Map 2 Winner",
-    "market_slug": "cs2-ts7-vit-2026-04-19",
-    "amount": 1559.6215351569285
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x09408ee8a36a66c1469bcbc630aa00f5d1f6b2fb81b78046b5b127fd3f470122",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -27290,5 +27202,93 @@
     "market": "Australia vs. Egypt: O/U 8.5 Total Corners",
     "market_slug": "fifwc-aus-egy-2026-07-03-total-corners",
     "amount": 1543.9996
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xa7c4991a4a5c38f2a50e78b4094701a78fc1cf0153abe2134ca92c5d64fad05b",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x913f5f691ce0a947cf60cd573cbdc7c66d8ec676",
+      "side": "BUY",
+      "asset": "67275637236155268162963549081064429271233365414540419271609231312359551031590",
+      "conditionId": "0x2c52396167cf742bc8edd46e06df5b29dc72483fc02806b1a45bf41e2ee6a579",
+      "size": 2011.24,
+      "price": 0.9129701677,
+      "timestamp": 1783088833,
+      "title": "Will Elon Musk post 180-199 tweets from June 26 to July 3, 2026?",
+      "slug": "elon-musk-of-tweets-june-26-july-3-180-199",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/elon-musk-of-tweets-nov-22-29-apMPG21-pzx_.jpg",
+      "eventSlug": "",
+      "outcome": "Yes",
+      "outcomeIndex": 999,
+      "name": "0x913f5F691Ce0a947CF60cD573CBdC7C66d8eC676-1774844074915",
+      "pseudonym": "Intelligent-Tax",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xa7c4991a4a5c38f2a50e78b4094701a78fc1cf0153abe2134ca92c5d64fad05b",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Elon Musk post 180-199 tweets from June 26 to July 3, 2026?",
+    "market_slug": "elon-musk-of-tweets-june-26-july-3-180-199",
+    "amount": 1836.2021200849479
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x5f60dbd4483591a563d412f0f837fb7960bd89f5ebfd244a34d22e7a837a3d8b",
+    "wallet": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+    "trader": {
+      "rank": 15,
+      "address": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+      "username": "PrincessCaro",
+      "profit": 6083643.099591745,
+      "volume": 23520809.952866994,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "39046353046460728518158117003759538152757405215154106520653910043395313267217",
+      "conditionId": "0x5c4dc3881973231c7926b7867c81c5d461cfffc737098a44385f4a4655be2968",
+      "size": 10392.675674,
+      "price": 0.37,
+      "timestamp": 1783089433,
+      "title": "Australia vs. Egypt: Australia O/U 0.5",
+      "slug": "fifwc-aus-egy-2026-07-03-team-total-home-0pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "",
+      "outcome": "Under",
+      "outcomeIndex": 999,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "trash panda",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x5f60dbd4483591a563d412f0f837fb7960bd89f5ebfd244a34d22e7a837a3d8b",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Australia vs. Egypt: Australia O/U 0.5",
+    "market_slug": "fifwc-aus-egy-2026-07-03-team-total-home-0pt5",
+    "amount": 3845.28999938
   }
 ]
