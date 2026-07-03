@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x27db3d7adbd2e6dde083e8d5ba95e3f404d5a9b368eafa5bd01af921ac464b10",
-    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-    "trader": {
-      "rank": 16,
-      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
-      "profit": 4552132.231316398,
-      "volume": 60070586.07364798,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x38f0b76ed812c24166a4f6293f991ac4b9972768",
-      "side": "BUY",
-      "asset": "68236451017667063834906245517272897636778551005959093400368716257354261431058",
-      "conditionId": "0xcf2962a09b376c1a433ff9ae0737953bb78c3b1d255a4dfd68693feeabd2d66f",
-      "size": 2578.39216,
-      "price": 0.5996045199904971,
-      "timestamp": 1776638526,
-      "title": "Fortaleza EC vs. Crici\u00fama EC: O/U 2.5",
-      "slug": "bra2-fec-cri-2026-04-19-total-2pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
-      "eventSlug": "bra2-fec-cri-2026-04-19-more-markets",
-      "outcome": "Under",
-      "outcomeIndex": 1,
-      "name": "initial77a",
-      "pseudonym": "Motionless-Peer",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x27db3d7adbd2e6dde083e8d5ba95e3f404d5a9b368eafa5bd01af921ac464b10",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Fortaleza EC vs. Crici\u00fama EC: O/U 2.5",
-    "market_slug": "bra2-fec-cri-2026-04-19-more-markets",
-    "amount": 1546.015593444061
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x56b3e02bf6463e305c0a9d2e109908779b317375ba8b32250c154f15f097cb39",
     "wallet": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
     "trader": {
@@ -27290,5 +27246,49 @@
     "market": "Will Australia win on 2026-07-03?",
     "market_slug": "fifwc-aus-egy-2026-07-03-aus",
     "amount": 4777.429999680001
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x1d258022c1fceedbaf5b24efd614cc24ba066afed7ab7a2c850d67eb80479fe2",
+    "wallet": "0x664ce9fb97ae1bbd538d7381b2f4e92dab16f49c",
+    "trader": {
+      "rank": 10,
+      "address": "0x664ce9fb97ae1bbd538d7381b2f4e92dab16f49c",
+      "username": "sparklingwater123",
+      "profit": 8474966.272470918,
+      "volume": 19001698.927902,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "29832467557152508441977386766969497137584242396548686735452444437706769202252",
+      "conditionId": "0x724fd3260cd6936e34b2d504e4c434a502baf5bbd6c80057ccdc79e210ccd2c6",
+      "size": 1918.783129,
+      "price": 0.83,
+      "timestamp": 1783111045,
+      "title": "Exact Score: Argentina 3 - 0 Cabo Verde?",
+      "slug": "fifwc-arg-cvi-2026-07-03-exact-score-3-0",
+      "icon": "",
+      "eventSlug": "fifwc-arg-cvi-2026-07-03-exact-score",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "trash panda",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x1d258022c1fceedbaf5b24efd614cc24ba066afed7ab7a2c850d67eb80479fe2",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Exact Score: Argentina 3 - 0 Cabo Verde?",
+    "market_slug": "fifwc-arg-cvi-2026-07-03-exact-score",
+    "amount": 1592.5899970699998
   }
 ]
