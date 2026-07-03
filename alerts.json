@@ -1,94 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xfddd26ae65b9e6511da7cd150055b7d3f4038cb89b2e870c56068f0b8321b30b",
-    "wallet": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
-    "trader": {
-      "rank": 14,
-      "address": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
-      "username": "gmanas",
-      "profit": 4955880.7486921875,
-      "volume": 529047708.50599104,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x93f6f199a8f1aa4a4a16f875bc45c13f58054814",
-      "side": "BUY",
-      "asset": "77907943569351511256344011172651442863615065095583988492195678440403992588829",
-      "conditionId": "0x95dfb017742da9c3d5bfe40730d2e94cb78c0ec146484a9ac8ac8dd9675ce92c",
-      "size": 8784.4,
-      "price": 0.4,
-      "timestamp": 1776540712,
-      "title": "Counter-Strike: FURIA vs Vitality - Map 2 Winner",
-      "slug": "cs2-furia-vit-2026-04-18-game2",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/counter-strike-image-16c415c538.png",
-      "eventSlug": "cs2-furia-vit-2026-04-18",
-      "outcome": "FURIA",
-      "outcomeIndex": 0,
-      "name": "Valui",
-      "pseudonym": "General-Lollipop",
-      "bio": "Only value bets",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xfddd26ae65b9e6511da7cd150055b7d3f4038cb89b2e870c56068f0b8321b30b",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Counter-Strike: FURIA vs Vitality - Map 2 Winner",
-    "market_slug": "cs2-furia-vit-2026-04-18",
-    "amount": 3513.76
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xca5a81c13d19b5d84c381c0eb1db638049fac267b3a885c0e1769379f3deb2a5",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x2b46bb71681777202368d095196f266944a1684d",
-      "side": "BUY",
-      "asset": "60967612972327772035005776129837017797273151786396677282064515645084178092689",
-      "conditionId": "0x9f0b6aa9115150410b9e37a8f44bc506ab829f1eda12734ab2edf8a75cb81efb",
-      "size": 2479.75,
-      "price": 0.73,
-      "timestamp": 1776542474,
-      "title": "New York Mets vs. Chicago Cubs",
-      "slug": "mlb-nym-chc-2026-04-18",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
-      "eventSlug": "mlb-nym-chc-2026-04-18",
-      "outcome": "Chicago Cubs",
-      "outcomeIndex": 1,
-      "name": "catchmeouside",
-      "pseudonym": "Normal-Check",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xca5a81c13d19b5d84c381c0eb1db638049fac267b3a885c0e1769379f3deb2a5",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "New York Mets vs. Chicago Cubs",
-    "market_slug": "mlb-nym-chc-2026-04-18",
-    "amount": 1810.2175
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xe8e26049e55fd754a0eeca4f9e4d19e5a4dbcf4fe4601f625cc71dff4ab20c16",
     "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
     "trader": {
@@ -27289,5 +27201,93 @@
     "market": "Will Croatia win on 2026-07-02?",
     "market_slug": "fifwc-prt-hrv-2026-07-02-hrv",
     "amount": 25199.964625
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x0c378287c9129930923fa90a5db2131f9c514db7f79e289fd9925118318afbea",
+    "wallet": "0x5e4c3b5b81171e2ca4ab776ac0d6bba787f9dba2",
+    "trader": {
+      "rank": 14,
+      "address": "0x5e4c3b5b81171e2ca4ab776ac0d6bba787f9dba2",
+      "username": "endlessFate",
+      "profit": 7409836.65260974,
+      "volume": 26282164.742856003,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "87420881416753183950847701965163525629817652213917429006273635360524465160861",
+      "conditionId": "0x498cd7fcb7d5209192cd31676f27413e0a3bdb8c8d8d228229cac24c0701fc27",
+      "size": 10310,
+      "price": 0.715,
+      "timestamp": 1783050250,
+      "title": "Will Switzerland win on 2026-07-02?",
+      "slug": "fifwc-che-alg-2026-07-02-che",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "",
+      "outcome": "Yes",
+      "outcomeIndex": 999,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "trash panda",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x0c378287c9129930923fa90a5db2131f9c514db7f79e289fd9925118318afbea",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Switzerland win on 2026-07-02?",
+    "market_slug": "fifwc-che-alg-2026-07-02-che",
+    "amount": 7371.65
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xdbfd9b1a55bec0c0db512f17ea3b4c248dc829c616f658099121ea00f801ba71",
+    "wallet": "0x5e4c3b5b81171e2ca4ab776ac0d6bba787f9dba2",
+    "trader": {
+      "rank": 14,
+      "address": "0x5e4c3b5b81171e2ca4ab776ac0d6bba787f9dba2",
+      "username": "endlessFate",
+      "profit": 7409836.65260974,
+      "volume": 26282164.742856003,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x3d979f2a0e03167d27c09f5b7d3c599328baf263",
+      "side": "SELL",
+      "asset": "70847617395925198340375157406134608430338529542740475956081091769793520449706",
+      "conditionId": "0xaf0752f7830f684b8e544e528afc561f7e97b0eac09f561df603000fed28168f",
+      "size": 9626.13,
+      "price": 0.86,
+      "timestamp": 1783050248,
+      "title": "San Diego Padres vs. Los Angeles Dodgers",
+      "slug": "mlb-sd-lad-2026-07-02",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
+      "eventSlug": "",
+      "outcome": "Los Angeles Dodgers",
+      "outcomeIndex": 999,
+      "name": "0x3d979F2a0e03167d27C09F5b7D3C599328baF263-1766698762743",
+      "pseudonym": "Admired-Yesterday",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xdbfd9b1a55bec0c0db512f17ea3b4c248dc829c616f658099121ea00f801ba71",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "San Diego Padres vs. Los Angeles Dodgers",
+    "market_slug": "mlb-sd-lad-2026-07-02",
+    "amount": 8278.4718
   }
 ]
