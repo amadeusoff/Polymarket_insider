@@ -1,110 +1,5 @@
 [
   {
-    "market": "Will Donald Trump win the Nobel Peace Prize in 2026?",
-    "market_slug": "will-donald-trump-win-the-nobel-peace-prize-in-2026-382",
-    "event_slug": "will-donald-trump-win-the-nobel-peace-prize-in-2026-382",
-    "wallet": "0xbab9adc4a882e97e481619984789ee9d66dab809",
-    "analysis": {
-      "score": 75,
-      "flags": [
-        "New wallet (0d old)",
-        "Against trend (6.0% effective odds)",
-        "Low activity (3 txns)"
-      ],
-      "amount": 127.65957400000002,
-      "odds": 0.060000000018800015,
-      "raw_price": 0.9399999999812,
-      "outcome": "No",
-      "potential_pnl": 1999.9999919999998,
-      "pnl_multiplier": 15.66666666144444,
-      "wallet_age_days": 0,
-      "total_activities": 3
-    },
-    "timestamp": "2026-04-21T11:50:48.179803",
-    "trade_hash": "0x260d4a2c92c0b03c7a850691137ecd3494c2b807e83d744d2990174bb5aef9d2",
-    "trade_timestamp": 1776771964,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "normalized_position": "NO",
-      "side": "BUY",
-      "price": 0.9399999999812,
-      "effective_price": 0.9399999999812,
-      "size": 2127.659566,
-      "amount": 1999.9999919999998,
-      "potential_pnl": 127.65957400000002,
-      "pnl_multiplier": 0.06382978725531917,
-      "is_no": true,
-      "slug": "will-donald-trump-win-the-nobel-peace-prize-in-2026-382",
-      "eventSlug": "nobel-peace-prize-winner-2026-139"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+44.0%)"
-      ],
-      "category": "politics_near",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.02,
-        "min_edge": 0.03
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.5,
-      "market_price": 0.9399999999812,
-      "edge": 0.4399999999812,
-      "edge_percent": 43.999999998119996,
-      "min_edge_required": 0.03,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "low"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 2,
-        "conditions": [
-          "Unknown"
-        ],
-        "weakest_link": "Unknown"
-      },
-      "category": "politics_near",
-      "narrative_drivers": [
-        "Unknown"
-      ],
-      "confidence_in_analysis": "low"
-    },
-    "combined_signal": {
-      "signal_type": "ALPHA",
-      "signal_emoji": "\ud83d\udd25",
-      "signal_strength": 110,
-      "interpretation": "Smart money (NO) confirms YES is overpriced",
-      "action_suggestion": "High conviction: insider + statistics aligned",
-      "insider_score": 75,
-      "insider_position": "NO",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.4399999999812,
-      "edge_percent": 43.999999998119996
-    },
-    "financial_analyst": {
-      "signal_quality": 82.0,
-      "stance": "HIGH_CONVICTION",
-      "edge_percent": 44.0,
-      "signal_strength": 110.0,
-      "insider_score": 75.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-04-22T07:52:01.059139+00:00"
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0x5e070e2ae24a551e87a8ddb3dd0e1efc64b5bc362c84c75d4754fc5511ad57dd",
     "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
@@ -27357,5 +27252,49 @@
     "market": "Canada vs. Morocco: Team to Advance",
     "market_slug": "fifwc-can-mar-2026-07-04-team-to-advance",
     "amount": 2853.29999709
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x7a01dbea65a3a1818cb97adcc3a95e84973c4b7b301d1ba45a8f92e7df658246",
+    "wallet": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+    "trader": {
+      "rank": 15,
+      "address": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+      "username": "PrincessCaro",
+      "profit": 6083643.099591745,
+      "volume": 23520809.952867,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x8b2c5fc68ffacecab31726a9251ffcf2ab01d7e6",
+      "side": "SELL",
+      "asset": "115556263888245616435851357148058235707004733438163639091106356867234218207169",
+      "conditionId": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
+      "size": 84011.28,
+      "price": 0.068,
+      "timestamp": 1783173790,
+      "title": "Will England win the 2026 FIFA World Cup?",
+      "slug": "will-england-win-the-2026-fifa-world-cup-937",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/world-cup-winner-england-flag-20260603-192743.png",
+      "eventSlug": "world-cup-winner",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "ningchaoxian3",
+      "pseudonym": "Miserly-Trial",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x7a01dbea65a3a1818cb97adcc3a95e84973c4b7b301d1ba45a8f92e7df658246",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will England win the 2026 FIFA World Cup?",
+    "market_slug": "world-cup-winner",
+    "amount": 5712.767040000001
   }
 ]
