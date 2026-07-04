@@ -1,287 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x322b699bfe40221a2cb3971dbac6b60ae701a1ebc5ddf3830c31a153ecd87e94",
-    "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
-    "trader": {
-      "rank": 11,
-      "address": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
-      "username": "KeyTransporter",
-      "profit": 5711459.802519929,
-      "volume": 20086062.154324993,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
-      "side": "BUY",
-      "asset": "7079394211807689781489384505889449117356942996879423158588993404927724356075",
-      "conditionId": "0x56655f59fb251d6b8fe544ddd43046ba56518555398fff3e8913d94bbbdc03f4",
-      "size": 5079.504,
-      "price": 0.48,
-      "timestamp": 1776816536,
-      "title": "Trail Blazers vs. Spurs: O/U 219.5",
-      "slug": "nba-por-sas-2026-04-21-total-219pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-por-sas-2026-04-21",
-      "outcome": "Under",
-      "outcomeIndex": 1,
-      "name": "ferrariChampions2026",
-      "pseudonym": "Glaring-Salt",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x322b699bfe40221a2cb3971dbac6b60ae701a1ebc5ddf3830c31a153ecd87e94",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Trail Blazers vs. Spurs: O/U 219.5",
-    "market_slug": "nba-por-sas-2026-04-21",
-    "amount": 2438.16192
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xf88699c55cd188522930b915d9b1a465f220fe671bb5fb8c44afc2588a5ab8ab",
-    "wallet": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
-    "trader": {
-      "rank": 9,
-      "address": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
-      "username": "PrincessCaro",
-      "profit": 6083643.099591745,
-      "volume": 23520809.952866998,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
-      "side": "BUY",
-      "asset": "12980065325359166640977057330648639529528068040517926910446520266960690396921",
-      "conditionId": "0x28a736701110c5e8d400356b8a960da1107c14e4673189851259b7d944522543",
-      "size": 2822.1775,
-      "price": 0.82,
-      "timestamp": 1776854652,
-      "title": "Madrid Open: Ignacio Buse vs Adrian Mannarino",
-      "slug": "atp-buse-mannari-2026-04-22",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
-      "eventSlug": "atp-buse-mannari-2026-04-22",
-      "outcome": "Ignacio Buse",
-      "outcomeIndex": 0,
-      "name": "ferrariChampions2026",
-      "pseudonym": "Glaring-Salt",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xf88699c55cd188522930b915d9b1a465f220fe671bb5fb8c44afc2588a5ab8ab",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Madrid Open: Ignacio Buse vs Adrian Mannarino",
-    "market_slug": "atp-buse-mannari-2026-04-22",
-    "amount": 2314.1855499999997
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x7ce6a8269311ba51a5ef55295ab9f1c6ab2998924255d9ac1c82eb5c3f2ba2b5",
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "trader": {
-      "rank": 7,
-      "address": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-      "username": "RN1",
-      "profit": 7378865.850865024,
-      "volume": 445869547.2197669,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xf0d5eb1cbe7350f1f896ade6c172e6700414c665",
-      "side": "BUY",
-      "asset": "110959653450933276250915064669875552310439627880508793089816880777942697720191",
-      "conditionId": "0x1d2787cb8aed975d092b2799ed6f4083e9445f7420cdc09e9d47e7d54356c6cd",
-      "size": 2215.97,
-      "price": 0.82,
-      "timestamp": 1776858554,
-      "title": "US x Iran ceasefire extended by April 22, 2026?",
-      "slug": "us-x-iran-ceasefire-extended-by-april-22-2026",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-ceasefire-by-Cgmx3GCuOwjs.jpg",
-      "eventSlug": "us-x-iran-ceasefire-extended-by",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "yen4u",
-      "pseudonym": "Key-Sovereignty",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-6949826-4cc07b96-61fb-489e-9643-a134dd6a0b50.webp",
-      "profileImageOptimized": "",
-      "transactionHash": "0x7ce6a8269311ba51a5ef55295ab9f1c6ab2998924255d9ac1c82eb5c3f2ba2b5",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "US x Iran ceasefire extended by April 22, 2026?",
-    "market_slug": "us-x-iran-ceasefire-extended-by",
-    "amount": 1817.0953999999997
-  },
-  {
-    "market": "Madrid Open: Daria Snigur vs Daria Kasatkina",
-    "market_slug": "wta-snigur-kasatki-2026",
-    "event_slug": "wta-snigur-kasatki-2026",
-    "wallet": "0xf1fa0c20cd9cafd19cd69d231e0a81ac7c102a96",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,474)",
-        "Low activity (3 txns)"
-      ],
-      "amount": 1474.032837202025,
-      "odds": 0.7299999998771929,
-      "raw_price": 0.7299999998771929,
-      "outcome": "Daria Snigur",
-      "potential_pnl": 545.190227797975,
-      "pnl_multiplier": 0.3698630139290808,
-      "wallet_age_days": 0,
-      "total_activities": 3
-    },
-    "timestamp": "2026-04-22T12:52:09.970647",
-    "trade_hash": "0x459c7e5744f95b65e2e134ab606086b1b58006b0a4d226fe6d907735316bbc10",
-    "trade_timestamp": 1776862076,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Daria Snigur",
-      "outcomeIndex": 0,
-      "normalized_position": "YES",
-      "side": "BUY",
-      "price": 0.7299999998771929,
-      "effective_price": 0.7299999998771929,
-      "size": 2019.223065,
-      "amount": 1474.032837202025,
-      "potential_pnl": 545.190227797975,
-      "pnl_multiplier": 0.3698630139290808,
-      "is_no": false,
-      "slug": "wta-snigur-kasatki-2026",
-      "eventSlug": "wta-snigur-kasatki-2026-04-22"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+28.0%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.44949999995087714,
-      "market_price": 0.7299999998771929,
-      "edge": 0.28049999992631575,
-      "edge_percent": 28.049999992631573,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "low"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 2,
-        "conditions": [
-          "Unknown"
-        ],
-        "weakest_link": "Unknown"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Unknown"
-      ],
-      "confidence_in_analysis": "low"
-    },
-    "combined_signal": {
-      "signal_type": "CONFLICT",
-      "signal_emoji": "\u26a0\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider buying YES despite statistical overpricing",
-      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
-      "insider_score": 70,
-      "insider_position": "YES",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.28049999992631575,
-      "edge_percent": 28.049999992631573
-    },
-    "log_only": true,
-    "financial_analyst": {
-      "signal_quality": 46.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 28.05,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xb0d7ea1328d62953d2a60bd632e4830b99c5ab2d5d0e07abda552adee373912c",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.51568201,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xe734e7bf7cfb9e464681f71822f6c2f6be514f0c",
-      "side": "BUY",
-      "asset": "70864498837909304673347902458025849576188725084547259491384143083098151011359",
-      "conditionId": "0x35d8c42a467d4e485ffba50c5d2d984ed0793f4935319ca923b494798051c8ef",
-      "size": 12384.62984,
-      "price": 0.18873015625,
-      "timestamp": 1776862156,
-      "title": "Will WTI Crude Oil (WTI) hit (HIGH) $110 in April?",
-      "slug": "will-wti-crude-oil-wti-hit-high-110-in-april",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/crude-oil-9a850ce2a2.png",
-      "eventSlug": "what-price-will-wti-hit-in-april-2026",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "boyau",
-      "pseudonym": "Frozen-Antler",
-      "bio": "Tg",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-6142404-4a26f787-169f-4eac-ad75-b638832f118c.webp",
-      "profileImageOptimized": "",
-      "transactionHash": "0xb0d7ea1328d62953d2a60bd632e4830b99c5ab2d5d0e07abda552adee373912c",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will WTI Crude Oil (WTI) hit (HIGH) $110 in April?",
-    "market_slug": "what-price-will-wti-hit-in-april-2026",
-    "amount": 2337.3531248016125
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xf5d3e1239efbfd825b288eba0ce68fab5ba546609037db1bdca05277efd42227",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -27168,5 +26887,225 @@
     "market": "Exact Score: Paraguay 0 - 2 France?",
     "market_slug": "fifwc-par-fra-2026-07-04-exact-score-0-2",
     "amount": 1779.6099960699999
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xae5271ecd10dfe721e526db5d876c57f1eed97675a02869d06dbab941ec464d7",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xb1073a8dbd60330ecbb1b0e56b3db36f073b3046",
+      "side": "BUY",
+      "asset": "69442886729150556627768098045187234287945375035027146523247638678683645059151",
+      "conditionId": "0x2b9754b6aadf62ca3577d6377d80a34b1cfcca68ec771c08ef8e232c0b5252ae",
+      "size": 34374.04,
+      "price": 0.5055638587,
+      "timestamp": 1783198708,
+      "title": "Paraguay vs. France: O/U 9.5 Total Corners",
+      "slug": "fifwc-par-fra-2026-07-04-corners-total-9pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "",
+      "outcome": "Over",
+      "outcomeIndex": 999,
+      "name": "bossanov",
+      "pseudonym": "Likely-Grassland",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xae5271ecd10dfe721e526db5d876c57f1eed97675a02869d06dbab941ec464d7",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Paraguay vs. France: O/U 9.5 Total Corners",
+    "market_slug": "fifwc-par-fra-2026-07-04-corners-total-9pt5",
+    "amount": 17378.272301508146
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xb407b073256c4ba6d84b225421903c92c8721ea47c38a6348fc409192fa2e1e4",
+    "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+    "trader": {
+      "rank": 17,
+      "address": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+      "username": "KeyTransporter",
+      "profit": 5711459.802519929,
+      "volume": 20086062.154324997,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "55669177104213086410609258473030278150313428281140298294302693704677819688547",
+      "conditionId": "0x254dfc6376b0fc88498424548750b885f3f2028674e853061b5234cd2f519ed0",
+      "size": 20577.391303,
+      "price": 0.69,
+      "timestamp": 1783199309,
+      "title": "Paraguay vs. France: O/U 3.5",
+      "slug": "fifwc-par-fra-2026-07-04-total-3pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "",
+      "outcome": "Under",
+      "outcomeIndex": 999,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "trash panda",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xb407b073256c4ba6d84b225421903c92c8721ea47c38a6348fc409192fa2e1e4",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Paraguay vs. France: O/U 3.5",
+    "market_slug": "fifwc-par-fra-2026-07-04-total-3pt5",
+    "amount": 14198.39999907
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x1e65ead7ea915573f51b0ff3720b9161d0929723b35d99d9ca133c9f038a8ce4",
+    "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+    "trader": {
+      "rank": 17,
+      "address": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+      "username": "KeyTransporter",
+      "profit": 5711459.802519929,
+      "volume": 20086062.154324997,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+      "side": "BUY",
+      "asset": "31038908195142167614664400537596872422132480344982761758511498924474589525521",
+      "conditionId": "0x0ae44160bf4839246ff5b6fe6d07b4eacd2464789dc4db02211cf95d5754e3d5",
+      "size": 2680.36,
+      "price": 0.56,
+      "timestamp": 1783199309,
+      "title": "France leading at halftime?",
+      "slug": "fifwc-par-fra-2026-07-04-halftime-result-away",
+      "icon": "",
+      "eventSlug": "",
+      "outcome": "Yes",
+      "outcomeIndex": 999,
+      "name": "GoalLineGhost",
+      "pseudonym": "Miserable-Poison",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x1e65ead7ea915573f51b0ff3720b9161d0929723b35d99d9ca133c9f038a8ce4",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "France leading at halftime?",
+    "market_slug": "fifwc-par-fra-2026-07-04-halftime-result-away",
+    "amount": 1501.0016000000003
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x06d705de96488ce49c50a11781beea611f1d0debd2fcdde178488ba49a95a3f2",
+    "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+    "trader": {
+      "rank": 17,
+      "address": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+      "username": "KeyTransporter",
+      "profit": 5711459.802519929,
+      "volume": 20086062.154324997,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "55669177104213086410609258473030278150313428281140298294302693704677819688547",
+      "conditionId": "0x254dfc6376b0fc88498424548750b885f3f2028674e853061b5234cd2f519ed0",
+      "size": 21519,
+      "price": 0.69,
+      "timestamp": 1783199309,
+      "title": "Paraguay vs. France: O/U 3.5",
+      "slug": "fifwc-par-fra-2026-07-04-total-3pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "",
+      "outcome": "Under",
+      "outcomeIndex": 999,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "trash panda",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x06d705de96488ce49c50a11781beea611f1d0debd2fcdde178488ba49a95a3f2",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Paraguay vs. France: O/U 3.5",
+    "market_slug": "fifwc-par-fra-2026-07-04-total-3pt5",
+    "amount": 14848.109999999999
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x99aa73eb3511cb5c7b5d6318f160a652b3339c984c1418a6f43d70f964022977",
+    "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+    "trader": {
+      "rank": 17,
+      "address": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+      "username": "KeyTransporter",
+      "profit": 5711459.802519929,
+      "volume": 20086062.154324997,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xe9076a87c5ed90ef16e6fe6529c943baeca0cff6",
+      "side": "BUY",
+      "asset": "31292842804621552685080710635481150509566506621131636432949831366602181113978",
+      "conditionId": "0x34e935db1dd7ea88e677f467fb03a8ee17dabca5964db893746a9107a68d7fdb",
+      "size": 4221.184775,
+      "price": 0.92,
+      "timestamp": 1783199308,
+      "title": "Paraguay vs. France: Team to Advance",
+      "slug": "fifwc-par-fra-2026-07-04-team-to-advance",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-par-fra-2026-07-04-more-markets",
+      "outcome": "France",
+      "outcomeIndex": 1,
+      "name": "suntori",
+      "pseudonym": "All-Peasant-Drug",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x99aa73eb3511cb5c7b5d6318f160a652b3339c984c1418a6f43d70f964022977",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Paraguay vs. France: Team to Advance",
+    "market_slug": "fifwc-par-fra-2026-07-04-more-markets",
+    "amount": 3883.4899929999997
   }
 ]
