@@ -1,221 +1,5 @@
 [
   {
-    "market": "Strait of Hormuz traffic returns to normal by end of June?",
-    "market_slug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-june",
-    "event_slug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-june",
-    "wallet": "0xf72c40a2c1c7ff994ca1eeb75a910eb6d14b2c87",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($3,489)",
-        "Low activity (2 txns)"
-      ],
-      "amount": 3488.6459999999997,
-      "odds": 0.7637582382169197,
-      "raw_price": 0.2362417617830803,
-      "outcome": "No",
-      "potential_pnl": 1079.0900000000001,
-      "pnl_multiplier": 0.30931484593163083,
-      "wallet_age_days": 0,
-      "total_activities": 2
-    },
-    "timestamp": "2026-04-21T16:16:05.419717",
-    "trade_hash": "0xedd70e2ed2ec9d4a4a84dd7d8e88e9c8719c05a4caae9eebe4f1595cd669a3c3",
-    "trade_timestamp": 1776787884,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "normalized_position": "NO",
-      "side": "BUY",
-      "price": 0.2362417617830803,
-      "effective_price": 0.2362417617830803,
-      "size": 4567.736,
-      "amount": 1079.09,
-      "potential_pnl": 3488.6459999999997,
-      "pnl_multiplier": 3.2329518390495697,
-      "is_no": true,
-      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-june",
-      "eventSlug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-june"
-    },
-    "irrationality": {
-      "irrationality_score": 18,
-      "flags": [
-        "Moderate mispricing edge (+7.4%)"
-      ],
-      "category": "other",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": false
-    },
-    "mispricing": {
-      "rational_estimate": 0.16199670471323213,
-      "market_price": 0.2362417617830803,
-      "edge": 0.07424505706984816,
-      "edge_percent": 7.4245057069848155,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "MODERATE",
-      "base_rate_class": "occasional",
-      "confidence": "low"
-    },
-    "factors": {
-      "base_rate_class": "occasional",
-      "structural_feasibility": {
-        "independent_conditions_required": 2,
-        "conditions": [
-          "Unknown"
-        ],
-        "weakest_link": "Unknown"
-      },
-      "category": "other",
-      "narrative_drivers": [
-        "Unknown"
-      ],
-      "confidence_in_analysis": "low"
-    },
-    "combined_signal": {
-      "signal_type": "ALPHA",
-      "signal_emoji": "\ud83d\udd25",
-      "signal_strength": 88,
-      "interpretation": "Smart money (NO) confirms YES is overpriced",
-      "action_suggestion": "High conviction: insider + statistics aligned",
-      "insider_score": 70,
-      "insider_position": "NO",
-      "irrationality_score": 18,
-      "is_irrational": false,
-      "is_mispriced": true,
-      "edge": 0.07424505706984816,
-      "edge_percent": 7.4245057069848155
-    },
-    "financial_analyst": {
-      "signal_quality": 63.7,
-      "stance": "SELECTIVE",
-      "edge_percent": 7.42,
-      "signal_strength": 88.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-04-22T07:52:03.273126+00:00"
-  },
-  {
-    "market": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by April 23, 2026?",
-    "market_slug": "will-donald-trump-announce-that-the-united-states-blockade-of-the-strait-of-hormuz-has-been-lifted-by-april-23-2026",
-    "event_slug": "will-donald-trump-announce-that-the-united-states-blockade-of-the-strait-of-hormuz-has-been-lifted-by-april-23-2026",
-    "wallet": "0x523aaa8a5fe2135cf45de1e696084ac1cbcc8e28",
-    "analysis": {
-      "score": 80,
-      "flags": [
-        "New wallet (1d old)",
-        "Pre-event latency: 1631m"
-      ],
-      "amount": 465.00000000000006,
-      "odds": 0.30000000000000004,
-      "raw_price": 0.7,
-      "outcome": "No",
-      "potential_pnl": 1085.0,
-      "pnl_multiplier": 2.333333333333333,
-      "wallet_age_days": 1,
-      "total_activities": 100
-    },
-    "timestamp": "2026-04-21T20:57:45.419321",
-    "trade_hash": "0x436a9025da569259b891da9606d26616c7989e19f98fcaefd454fe06267011fa",
-    "trade_timestamp": 1776804564,
-    "latency": {
-      "latency_seconds": 97836.0,
-      "latency_minutes": 1630.6,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-04-21T20:49:24+00:00",
-      "event_time": "2026-04-23T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "normalized_position": "NO",
-      "side": "BUY",
-      "price": 0.7,
-      "effective_price": 0.7,
-      "size": 1550.0,
-      "amount": 1085.0,
-      "potential_pnl": 465.0,
-      "pnl_multiplier": 0.42857142857142855,
-      "is_no": true,
-      "slug": "will-donald-trump-announce-that-the-united-states-blockade-of-the-strait-of-hormuz-has-been-lifted-by-april-23-2026",
-      "eventSlug": "trump-announces-us-blockade-of-hormuz-lifted-by"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+26.2%)"
-      ],
-      "category": "politics_near",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.02,
-        "min_edge": 0.03
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.43749999999999994,
-      "market_price": 0.7,
-      "edge": 0.2625,
-      "edge_percent": 26.25,
-      "min_edge_required": 0.03,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "low"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 2,
-        "conditions": [
-          "Unknown"
-        ],
-        "weakest_link": "Unknown"
-      },
-      "category": "politics_near",
-      "narrative_drivers": [
-        "Unknown"
-      ],
-      "confidence_in_analysis": "low"
-    },
-    "combined_signal": {
-      "signal_type": "ALPHA",
-      "signal_emoji": "\ud83d\udd25",
-      "signal_strength": 115,
-      "interpretation": "Smart money (NO) confirms YES is overpriced",
-      "action_suggestion": "High conviction: insider + statistics aligned",
-      "insider_score": 80,
-      "insider_position": "NO",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.2625,
-      "edge_percent": 26.25
-    },
-    "financial_analyst": {
-      "signal_quality": 83.0,
-      "stance": "HIGH_CONVICTION",
-      "edge_percent": 26.25,
-      "signal_strength": 115.0,
-      "insider_score": 80.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-04-22T07:52:03.905232+00:00"
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0xa46f4d4176b9e226eb9b7df7af06e5cb66f529f9bbd06384d21940b9343f2ce3",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
@@ -27296,5 +27080,93 @@
     "market": "Wimbledon WTA: Sorana Cirstea vs Linda Noskova",
     "market_slug": "wta-cirstea-noskova-2026-07-04",
     "amount": 2999.9999987981814
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xada34e09cb51f1220ebcc425c4990b46012a3eaa07292fced0945f2544c22fcb",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x69adf268789f93b2c4da978870af74ae945f31e6",
+      "side": "BUY",
+      "asset": "62958824965426989467137844787933149862919051050426031995324123703128656697317",
+      "conditionId": "0x83bd3fb815807d17a9768630d138c29b629be1f9924b6628cece7c0279c2af9f",
+      "size": 5290,
+      "price": 0.37,
+      "timestamp": 1783181596,
+      "title": "T20 Series England vs India: England vs India",
+      "slug": "crint-gbr2-ind4-2026-07-04",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+      "eventSlug": "crint-gbr2-ind4-2026-07-04",
+      "outcome": "England",
+      "outcomeIndex": 0,
+      "name": "ferenc89",
+      "pseudonym": "Zigzag-Logistics",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-6294534-c7fd83ce-7238-420c-89fb-f22e73fd423a.png",
+      "profileImageOptimized": "",
+      "transactionHash": "0xada34e09cb51f1220ebcc425c4990b46012a3eaa07292fced0945f2544c22fcb",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "T20 Series England vs India: England vs India",
+    "market_slug": "crint-gbr2-ind4-2026-07-04",
+    "amount": 1957.3
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x4c574ec9e25cf8b27df014b7a1fe88cee86ef8cc495863f317da791e3f866446",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x6e021a82c12e01886444ab3e918114faaf11d70a",
+      "side": "BUY",
+      "asset": "62958824965426989467137844787933149862919051050426031995324123703128656697317",
+      "conditionId": "0x83bd3fb815807d17a9768630d138c29b629be1f9924b6628cece7c0279c2af9f",
+      "size": 10000,
+      "price": 0.37,
+      "timestamp": 1783181596,
+      "title": "T20 Series England vs India: England vs India",
+      "slug": "crint-gbr2-ind4-2026-07-04",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+      "eventSlug": "crint-gbr2-ind4-2026-07-04",
+      "outcome": "England",
+      "outcomeIndex": 0,
+      "name": "NonTificant",
+      "pseudonym": "Private-Faithful",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x4c574ec9e25cf8b27df014b7a1fe88cee86ef8cc495863f317da791e3f866446",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "T20 Series England vs India: England vs India",
+    "market_slug": "crint-gbr2-ind4-2026-07-04",
+    "amount": 3700.0
   }
 ]
