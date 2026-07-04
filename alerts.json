@@ -1,50 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x91f36c962e58d838cdb7a10254adf108810777262b4dd58a68c57ba30010a238",
-    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-    "trader": {
-      "rank": 5,
-      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-      "username": "zxgngl",
-      "profit": 7807265.589240883,
-      "volume": 40551790.62184699,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x6e3a4537d61fce64853a071529ccf86e5a3bba94",
-      "side": "BUY",
-      "asset": "98122994775741225498657013696157283373079444264276714364299129682869750969478",
-      "conditionId": "0xba0e7ea79f5cf07a4b0a8d8962b429e026b40044e746ab5a7874d0b36c03f742",
-      "size": 6822.198719,
-      "price": 0.8899999999985391,
-      "timestamp": 1776750782,
-      "title": "76ers vs. Celtics",
-      "slug": "nba-phi-bos-2026-04-21",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-phi-bos-2026-04-21",
-      "outcome": "Celtics",
-      "outcomeIndex": 1,
-      "name": "randomperson1628712",
-      "pseudonym": "Whole-Hiccups",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x91f36c962e58d838cdb7a10254adf108810777262b4dd58a68c57ba30010a238",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "76ers vs. Celtics",
-    "market_slug": "nba-phi-bos-2026-04-21",
-    "amount": 6071.756859900033,
-    "resolution_last_check": "2026-04-21T07:55:03.935563+00:00"
-  },
-  {
     "market": "Will Donald Trump win the Nobel Peace Prize in 2026?",
     "market_slug": "will-donald-trump-win-the-nobel-peace-prize-in-2026-382",
     "event_slug": "will-donald-trump-win-the-nobel-peace-prize-in-2026-382",
@@ -27358,5 +27313,49 @@
     "market": "Wimbledon WTA: Amanda Anisimova vs Madison Keys",
     "market_slug": "wta-anisimo-keys-2026-07-04",
     "amount": 5911.278200000001
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x9b53f0e31825455a0eae780c7e5aa2ea7bcf22dcce44818ba7f8f5ef3a407d95",
+    "wallet": "0x96cfcb0c30942cfcd1cdf76c7d408794d66b1acb",
+    "trader": {
+      "rank": 6,
+      "address": "0x96cfcb0c30942cfcd1cdf76c7d408794d66b1acb",
+      "username": "mintblade",
+      "profit": 9238344.623224001,
+      "volume": 17759922.232853003,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xc6c3334b70b219a904719dd8402d4ce6ed6061f0",
+      "side": "BUY",
+      "asset": "101238961791599951615685057841199539507679732083288763835613798393210363728749",
+      "conditionId": "0xc395f3754ac362849f22aa68a51a8975ac16d72194bbdc601b9b6e0a7d96d643",
+      "size": 3908.630133,
+      "price": 0.73,
+      "timestamp": 1783166585,
+      "title": "Canada vs. Morocco: Team to Advance",
+      "slug": "fifwc-can-mar-2026-07-04-team-to-advance",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "",
+      "outcome": "Morocco",
+      "outcomeIndex": 999,
+      "name": "",
+      "pseudonym": "",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x9b53f0e31825455a0eae780c7e5aa2ea7bcf22dcce44818ba7f8f5ef3a407d95",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Canada vs. Morocco: Team to Advance",
+    "market_slug": "fifwc-can-mar-2026-07-04-team-to-advance",
+    "amount": 2853.29999709
   }
 ]
