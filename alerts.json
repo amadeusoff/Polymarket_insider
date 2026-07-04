@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xa46f4d4176b9e226eb9b7df7af06e5cb66f529f9bbd06384d21940b9343f2ce3",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x058327e8fec1fdf218c4c2c20f3a30db18887dd4",
-      "side": "BUY",
-      "asset": "92025851279698570995227088248875664874725239104709097751216036692718739438123",
-      "conditionId": "0xf2cef43706744b1e589950473dd8b7646a3e70c9406cd0bf607204c18b9d41b9",
-      "size": 2157.8663,
-      "price": 0.891376894890881,
-      "timestamp": 1776804828,
-      "title": "Will the highest temperature in Los Angeles be between 68-69\u00b0F on April 21?",
-      "slug": "highest-temperature-in-los-angeles-on-april-21-2026-68-69f",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/los-angeles-cdae9380c7.jpg",
-      "eventSlug": "highest-temperature-in-los-angeles-on-april-21-2026",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "casus",
-      "pseudonym": "Illustrious-Quota",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-4417639-576aa73f-37ca-431c-a3d8-7fb395dd10c7.webp",
-      "profileImageOptimized": "",
-      "transactionHash": "0xa46f4d4176b9e226eb9b7df7af06e5cb66f529f9bbd06384d21940b9343f2ce3",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will the highest temperature in Los Angeles be between 68-69\u00b0F on April 21?",
-    "market_slug": "highest-temperature-in-los-angeles-on-april-21-2026",
-    "amount": 1923.4721620836744
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xbad9a832e54993c5cd0f00ceaca5cbfa263cf30f4b9630f9a281573a3503d8df",
     "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
     "trader": {
@@ -27168,5 +27124,49 @@
     "market": "T20 Series England vs India: England vs India",
     "market_slug": "crint-gbr2-ind4-2026-07-04",
     "amount": 3700.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x28d0f53a5e758b3f13f013c55a9f927b813317b7de28a4ead37bb6f3851c6fb3",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "trader": {
+      "rank": 3,
+      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "username": "swisstony",
+      "profit": 14350073.010889437,
+      "volume": 1444228616.6957645,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "71632223088728071164198560444876622481182650786367190732492573444308094933385",
+      "conditionId": "0x962c33d297cb9720835b5e5579a3d9f8bb0e0c97429d59ee01c70bc073c18d7f",
+      "size": 10640.88,
+      "price": 0.78,
+      "timestamp": 1783190303,
+      "title": "Will Canada vs. Morocco end in a draw?",
+      "slug": "fifwc-can-mar-2026-07-04-draw",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "",
+      "outcome": "No",
+      "outcomeIndex": 999,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "trash panda",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x28d0f53a5e758b3f13f013c55a9f927b813317b7de28a4ead37bb6f3851c6fb3",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Canada vs. Morocco end in a draw?",
+    "market_slug": "fifwc-can-mar-2026-07-04-draw",
+    "amount": 8299.8864
   }
 ]
