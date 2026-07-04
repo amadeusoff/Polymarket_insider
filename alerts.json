@@ -1,51 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xedc8a8cb13d2309da01c32847291f28b07ae2e914c379c94ff3e67a82fd736b4",
-    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-    "trader": {
-      "rank": 5,
-      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-      "username": "zxgngl",
-      "profit": 7807265.589240883,
-      "volume": 40551790.62184699,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x6d9fc316c3b8377060a44b852ba664adbfd59790",
-      "side": "BUY",
-      "asset": "77893140510362582253172593084218413010407941075415081594586195705930819989216",
-      "conditionId": "0x924a2942747dd75703321a7c8d809c68f6a514c3b0f2a2e64274e02310634669",
-      "size": 15000,
-      "price": 0.29,
-      "timestamp": 1776750784,
-      "title": "Strait of Hormuz traffic returns to normal by end of April?",
-      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-april-30",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ships-transit-the-strait-of-hormuz-on-any-day-in-march-ERARnetK0FJm.jpg",
-      "eventSlug": "strait-of-hormuz-traffic-returns-to-normal-by-april-30",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "MEPP",
-      "pseudonym": "Bleak-Full",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-956250-f296deb1-2e5d-47fd-b4dd-ea1d62c61e47.png",
-      "profileImageOptimized": "",
-      "transactionHash": "0xedc8a8cb13d2309da01c32847291f28b07ae2e914c379c94ff3e67a82fd736b4",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Strait of Hormuz traffic returns to normal by end of April?",
-    "market_slug": "strait-of-hormuz-traffic-returns-to-normal-by-april-30",
-    "amount": 4350.0,
-    "resolution_last_check": "2026-04-21T07:55:03.379177+00:00"
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x91f36c962e58d838cdb7a10254adf108810777262b4dd58a68c57ba30010a238",
     "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
     "trader": {
@@ -27359,5 +27314,49 @@
     "market": "Will Argentina vs. Cabo Verde end in a draw?",
     "market_slug": "fifwc-arg-cvi-2026-07-03-draw",
     "amount": 1979.9999990624979
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x45cae405cdb740206c21fdc3d0cc14b006a45488a366348a56341f33373ccb50",
+    "wallet": "0x96cfcb0c30942cfcd1cdf76c7d408794d66b1acb",
+    "trader": {
+      "rank": 6,
+      "address": "0x96cfcb0c30942cfcd1cdf76c7d408794d66b1acb",
+      "username": "mintblade",
+      "profit": 9238344.623224001,
+      "volume": 17759922.232853003,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x1e7792acc779a6af8304bd7991ff31d16d468c33",
+      "side": "BUY",
+      "asset": "59414915049288419532359404034432418106906202168568014765080322981196394520154",
+      "conditionId": "0x4d4b3d2f17f27b8916050c77e7eb7df61b4f3b5f0b7c7ebb7b4e3dd811d8201e",
+      "size": 9690.62,
+      "price": 0.61,
+      "timestamp": 1783154872,
+      "title": "Wimbledon WTA: Amanda Anisimova vs Madison Keys",
+      "slug": "wta-anisimo-keys-2026-07-04",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wta-logo-41f331bdf1.png",
+      "eventSlug": "wta-anisimo-keys-2026-07-04",
+      "outcome": "Madison Keys",
+      "outcomeIndex": 1,
+      "name": "THEdirkdiggler",
+      "pseudonym": "Odd-Beggar",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x45cae405cdb740206c21fdc3d0cc14b006a45488a366348a56341f33373ccb50",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Wimbledon WTA: Amanda Anisimova vs Madison Keys",
+    "market_slug": "wta-anisimo-keys-2026-07-04",
+    "amount": 5911.278200000001
   }
 ]
