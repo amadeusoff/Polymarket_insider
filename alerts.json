@@ -1,94 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x8ba1ce1b8df406ec8de6810ec90a29e80be4d534134a784bffa71dd58533d919",
-    "wallet": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
-    "trader": {
-      "rank": 20,
-      "address": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
-      "username": "Jenzigo",
-      "profit": 4049827.0941029997,
-      "volume": 9457725.034338009,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xaa98a97f71cbe19348798775b23696c9baa290bb",
-      "side": "SELL",
-      "asset": "1763499447893722841151717880045088448114980237819225955430888477412022919997",
-      "conditionId": "0x2e1dbfe52d176f3febc6cd7337331ff20d1136acabd7ae052949cad898899fa4",
-      "size": 3640.53,
-      "price": 0.58,
-      "timestamp": 1776708762,
-      "title": "Dota 2: MOUZ vs Tundra Esports (BO3) - PGL Wallachia Group Stage",
-      "slug": "dota2-mouz-tundra-2026-04-20",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/dota2-7ffacddb21.jpg",
-      "eventSlug": "dota2-mouz-tundra-2026-04-20",
-      "outcome": "MOUZ",
-      "outcomeIndex": 0,
-      "name": "Hexagon555",
-      "pseudonym": "Glorious-Recreation",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x8ba1ce1b8df406ec8de6810ec90a29e80be4d534134a784bffa71dd58533d919",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Dota 2: MOUZ vs Tundra Esports (BO3) - PGL Wallachia Group Stage",
-    "market_slug": "dota2-mouz-tundra-2026-04-20",
-    "amount": 2111.5074
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xaee57bda3cd537c8701d69a6ffe2b2fb51099493f603202e299f84b610ba65ee",
-    "wallet": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
-    "trader": {
-      "rank": 20,
-      "address": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
-      "username": "Jenzigo",
-      "profit": 4049827.0941029997,
-      "volume": 9457725.034338009,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xabb89972b21b304c1bed2bf26f35c8741ac9bba3",
-      "side": "BUY",
-      "asset": "36196734973202773205036070859498005546106078467661061716522989037795155982641",
-      "conditionId": "0x854efe64550a69f3c4f983fcf97f29e7c6d39500e031c8b1accdbb0356f2950a",
-      "size": 18345.75394,
-      "price": 0.51,
-      "timestamp": 1776726468,
-      "title": "Raptors vs. Cavaliers: O/U 221.5",
-      "slug": "nba-tor-cle-2026-04-20-total-221pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-tor-cle-2026-04-20",
-      "outcome": "Over",
-      "outcomeIndex": 0,
-      "name": "Feromont",
-      "pseudonym": "Enchanted-Foal",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xaee57bda3cd537c8701d69a6ffe2b2fb51099493f603202e299f84b610ba65ee",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Raptors vs. Cavaliers: O/U 221.5",
-    "market_slug": "nba-tor-cle-2026-04-20",
-    "amount": 9356.3345094
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xedc8a8cb13d2309da01c32847291f28b07ae2e914c379c94ff3e67a82fd736b4",
     "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
     "trader": {
@@ -27289,5 +27201,163 @@
     "market": "Lionel Messi: 1+ goals",
     "market_slug": "fifwc-arg-cvi-2026-07-03-player-props",
     "amount": 4225.0
+  },
+  {
+    "market": "Spread: Argentina (-1.5)",
+    "market_slug": "fifwc-arg-cvi-2026-07-03-spread-home-1pt5",
+    "event_slug": "fifwc-arg-cvi-2026-07-03-spread-home-1pt5",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "analysis": {
+      "score": 75,
+      "flags": [
+        "Against trend (4.0% effective odds)",
+        "Large bet ($2,051)",
+        "Top trader #3 ($13,313,810 profit)"
+      ],
+      "amount": 2051.35,
+      "odds": 0.04,
+      "raw_price": 0.04,
+      "outcome": "Argentina",
+      "potential_pnl": 49232.4,
+      "pnl_multiplier": 24.0,
+      "wallet_age_days": 328,
+      "total_activities": 100
+    },
+    "timestamp": "2026-07-03T23:51:15.966778",
+    "trade_hash": "0xc7d8eae5523a2e3b7aec9e72f00a598afd7c2d58a94fdb505aef99bbf6f64e79",
+    "trade_timestamp": 1783122430,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": {
+      "rank": 3,
+      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "username": "swisstony",
+      "profit": 13313809.717864985,
+      "volume": 1420075566.7908213,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade_data": {
+      "outcome": "Argentina",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.04,
+      "effective_price": 0.04,
+      "size": 51283.75,
+      "amount": 2051.35,
+      "potential_pnl": 49232.4,
+      "pnl_multiplier": 24.0,
+      "is_no": false,
+      "slug": "fifwc-arg-cvi-2026-07-03-spread-home-1pt5",
+      "eventSlug": "fifwc-arg-cvi-2026-07-03-more-markets"
+    },
+    "irrationality": {
+      "irrationality_score": 25,
+      "flags": [
+        "Longshot (4%) in medium bias category (other)"
+      ],
+      "category": "other",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.0205,
+      "market_price": 0.04,
+      "edge": 0.0195,
+      "edge_percent": 1.95,
+      "min_edge_required": 0.05,
+      "is_mispriced": false,
+      "edge_quality": "WEAK",
+      "base_rate_class": "historically_near_zero",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "historically_near_zero",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "other",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 75,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 75,
+      "insider_position": "YES",
+      "irrationality_score": 25,
+      "is_irrational": false,
+      "is_mispriced": false,
+      "edge": 0.0195,
+      "edge_percent": 1.95
+    },
+    "financial_analyst": {
+      "signal_quality": 27.9,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 1.95,
+      "signal_strength": 75.0,
+      "insider_score": 75.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xa2056c45ab491509cc34c71703d6c6fae61ce7317a73aa796e312a9d52919d5d",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xc33a100b8362bc732e78cce28c99739f173b3da3",
+      "side": "BUY",
+      "asset": "50594101292041950051188723960534854293621624124622267043333086480644780479430",
+      "conditionId": "0x826887e3ac134321e8137d47870b4efa84d0263b0864f21feb227c8e024d759e",
+      "size": 3177.5873,
+      "price": 0.6231142726,
+      "timestamp": 1783122455,
+      "title": "Will Argentina vs. Cabo Verde end in a draw?",
+      "slug": "fifwc-arg-cvi-2026-07-03-draw",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "",
+      "outcome": "Yes",
+      "outcomeIndex": 999,
+      "name": "",
+      "pseudonym": "",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xa2056c45ab491509cc34c71703d6c6fae61ce7317a73aa796e312a9d52919d5d",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Argentina vs. Cabo Verde end in a draw?",
+    "market_slug": "fifwc-arg-cvi-2026-07-03-draw",
+    "amount": 1979.9999990624979
   }
 ]
