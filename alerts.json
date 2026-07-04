@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xbad9a832e54993c5cd0f00ceaca5cbfa263cf30f4b9630f9a281573a3503d8df",
-    "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
-    "trader": {
-      "rank": 18,
-      "address": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
-      "username": "432614799197",
-      "profit": 4526176.046413327,
-      "volume": 185485956.86208293,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xf658c7860763abde250bfe9793b10110430b655e",
-      "side": "BUY",
-      "asset": "13546316504859718104889815157970689113639428454208281053288341354346349283004",
-      "conditionId": "0x0bc3ed61794fffa362af7c41d8c9185e2a1e436efb72cfebda678477cabd9a55",
-      "size": 7812.79246,
-      "price": 0.53,
-      "timestamp": 1776805428,
-      "title": "Spread: Celtics (-13.5)",
-      "slug": "nba-phi-bos-2026-04-21-spread-home-13pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-phi-bos-2026-04-21",
-      "outcome": "Celtics",
-      "outcomeIndex": 0,
-      "name": "pinkboy",
-      "pseudonym": "Astonishing-Partnership",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-7033643-f82cecba-ed52-4073-9756-a664ca0b05d2.webp",
-      "profileImageOptimized": "",
-      "transactionHash": "0xbad9a832e54993c5cd0f00ceaca5cbfa263cf30f4b9630f9a281573a3503d8df",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Spread: Celtics (-13.5)",
-    "market_slug": "nba-phi-bos-2026-04-21",
-    "amount": 4140.7800038
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x322b699bfe40221a2cb3971dbac6b60ae701a1ebc5ddf3830c31a153ecd87e94",
     "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
     "trader": {
@@ -27168,5 +27124,49 @@
     "market": "Will Canada vs. Morocco end in a draw?",
     "market_slug": "fifwc-can-mar-2026-07-04-draw",
     "amount": 8299.8864
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x447b9b8724881c6fa752e4894f8f575d7614a1b7a0c17d531e05e27043a17031",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "trader": {
+      "rank": 19,
+      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+      "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+      "profit": 5373943.889177109,
+      "volume": 558138083.2939558,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "97300704324509360159410663023731717955165171299039921619748260703973681745948",
+      "conditionId": "0x60723d376d509164408246fff9511522eea7e42e3cb009877fcbacb0d07aaa7a",
+      "size": 2144.108429,
+      "price": 0.83,
+      "timestamp": 1783195406,
+      "title": "Exact Score: Paraguay 0 - 2 France?",
+      "slug": "fifwc-par-fra-2026-07-04-exact-score-0-2",
+      "icon": "",
+      "eventSlug": "",
+      "outcome": "No",
+      "outcomeIndex": 999,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "trash panda",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x447b9b8724881c6fa752e4894f8f575d7614a1b7a0c17d531e05e27043a17031",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Exact Score: Paraguay 0 - 2 France?",
+    "market_slug": "fifwc-par-fra-2026-07-04-exact-score-0-2",
+    "amount": 1779.6099960699999
   }
 ]
