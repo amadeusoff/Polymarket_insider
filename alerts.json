@@ -1,182 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x474357cbc105caeb0196239f6ac992cebd5384cc5e5254147a784c64084de552",
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "trader": {
-      "rank": 8,
-      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-      "username": "swisstony",
-      "profit": 6378876.572044285,
-      "volume": 683527935.2884711,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xa2c60f064b58ca18be11b22b8ab9adc6c502d14d",
-      "side": "BUY",
-      "asset": "12851403675167917203269362036178502355667846901843274308621662454843684996009",
-      "conditionId": "0x7febcd6728753347be73dae0a5dd7c459a5a459cb863090891712d32b9365c5a",
-      "size": 3968.8,
-      "price": 0.74,
-      "timestamp": 1776966934,
-      "title": "Will RCD Espanyol de Barcelona win on 2026-04-23?",
-      "slug": "lal-ray-esp-2026-04-23-esp",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-lal.png",
-      "eventSlug": "lal-ray-esp-2026-04-23",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "aiweatherman",
-      "pseudonym": "Blaring-Roast",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x474357cbc105caeb0196239f6ac992cebd5384cc5e5254147a784c64084de552",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will RCD Espanyol de Barcelona win on 2026-04-23?",
-    "market_slug": "lal-ray-esp-2026-04-23",
-    "amount": 2936.9120000000003
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x61b58f1e4eed054cf8499786f8a826f14d969388b07d378e077e932b62028482",
-    "wallet": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
-    "trader": {
-      "rank": 10,
-      "address": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
-      "username": "walletmobile",
-      "profit": 5942685.45339684,
-      "volume": 32196692.075936034,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x6638149a08e420622058af61eb120913dc580b09",
-      "side": "BUY",
-      "asset": "12860177217366999072400617750762974759063549768492200443696925713456154239676",
-      "conditionId": "0xc6077546b7a4cf35162c6c483fc8b15c40358cee7985cd5837a0152736d2c90c",
-      "size": 3773.85548,
-      "price": 0.5223682004826589,
-      "timestamp": 1776971440,
-      "title": "VfB Stuttgart vs. SC Freiburg: O/U 2.5",
-      "slug": "dfb-stu-scf-2026-04-23-total-2pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/DFB-Pokal-ebed3c1834.png",
-      "eventSlug": "dfb-stu-scf-2026-04-23-more-markets",
-      "outcome": "Under",
-      "outcomeIndex": 1,
-      "name": "leopaw",
-      "pseudonym": "Sinful-Nature",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x61b58f1e4eed054cf8499786f8a826f14d969388b07d378e077e932b62028482",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "VfB Stuttgart vs. SC Freiburg: O/U 2.5",
-    "market_slug": "dfb-stu-scf-2026-04-23-more-markets",
-    "amount": 1971.342095969221
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x29d8e12e4e8e1e3535d1cdbfecfe0fb24f82df703a2ad1e47971b9d34ae2e081",
-    "wallet": "0xd0c042c08f755ff940249f62745e82d356345565",
-    "trader": {
-      "rank": 16,
-      "address": "0xd0c042c08f755ff940249f62745e82d356345565",
-      "username": "alexmulti",
-      "profit": 4804855.613376001,
-      "volume": 9949068.653841998,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
-      "side": "BUY",
-      "asset": "93708045915820559964012762549341487347332679529558469364029698133739296890890",
-      "conditionId": "0xd8470dc598b48bf60248989f5298fd5b89a0bbcc17c0b78c3ae171ce536da5df",
-      "size": 4693.59952,
-      "price": 0.48,
-      "timestamp": 1776986028,
-      "title": "Spread: Knicks (-1.5)",
-      "slug": "nba-nyk-atl-2026-04-23-spread-away-1pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-nyk-atl-2026-04-23",
-      "outcome": "Knicks",
-      "outcomeIndex": 0,
-      "name": "ferrariChampions2026",
-      "pseudonym": "Glaring-Salt",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x29d8e12e4e8e1e3535d1cdbfecfe0fb24f82df703a2ad1e47971b9d34ae2e081",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Spread: Knicks (-1.5)",
-    "market_slug": "nba-nyk-atl-2026-04-23",
-    "amount": 2252.9277696
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x8070f50ed2b441d9bbe22c50f438082dcd5d047b8e501fc6fd7f4667092f069d",
-    "wallet": "0xd0c042c08f755ff940249f62745e82d356345565",
-    "trader": {
-      "rank": 16,
-      "address": "0xd0c042c08f755ff940249f62745e82d356345565",
-      "username": "alexmulti",
-      "profit": 4804855.613376001,
-      "volume": 9949068.653841998,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
-      "side": "BUY",
-      "asset": "93708045915820559964012762549341487347332679529558469364029698133739296890890",
-      "conditionId": "0xd8470dc598b48bf60248989f5298fd5b89a0bbcc17c0b78c3ae171ce536da5df",
-      "size": 4922,
-      "price": 0.48,
-      "timestamp": 1776986028,
-      "title": "Spread: Knicks (-1.5)",
-      "slug": "nba-nyk-atl-2026-04-23-spread-away-1pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-nyk-atl-2026-04-23",
-      "outcome": "Knicks",
-      "outcomeIndex": 0,
-      "name": "STOPTHECAP",
-      "pseudonym": "Self-Reliant-Camp",
-      "bio": "We are not here to make money  We are here to make history",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x8070f50ed2b441d9bbe22c50f438082dcd5d047b8e501fc6fd7f4667092f069d",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Spread: Knicks (-1.5)",
-    "market_slug": "nba-nyk-atl-2026-04-23",
-    "amount": 2362.56
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x09d8990d0bdf86bed4337cded63b818e9a6a6200e9fba119ba70a2ee610798e6",
     "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
     "trader": {
@@ -27190,5 +27014,181 @@
       "insider_score": 90.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x9748b28f5b94455cedbed68433738983beab11a814bbd875a7342ac1995f22e7",
+    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+    "trader": {
+      "rank": 19,
+      "address": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+      "username": "BetTom42",
+      "profit": 5642135.735356,
+      "volume": 11212839.523403,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x527d9fb392eb7d19c00f5ee134db87613526d8f4",
+      "side": "BUY",
+      "asset": "1432760256346539725289092703456302398817757470959067500838948409479297761280",
+      "conditionId": "0x032ae9df8d921c40c23f636b95e8c975210000000000000000000000000000",
+      "size": 5923.38,
+      "price": 0.331,
+      "timestamp": 1783272860,
+      "title": "Portugal vs. Spain: Team to Advance AND United States vs. Belgium: Team to Advance",
+      "slug": "",
+      "icon": "",
+      "eventSlug": "",
+      "outcome": "",
+      "outcomeIndex": 999,
+      "name": "ayv1me",
+      "pseudonym": "Mortified-Freighter",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x9748b28f5b94455cedbed68433738983beab11a814bbd875a7342ac1995f22e7",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Portugal vs. Spain: Team to Advance AND United States vs. Belgium: Team to Advance",
+    "market_slug": "",
+    "amount": 1960.6387800000002
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x8da56af3388fffc9ce773a0e334a85606218fcd5f9ecd948947a01a09c73502c",
+    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+    "trader": {
+      "rank": 19,
+      "address": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+      "username": "BetTom42",
+      "profit": 5642135.735356,
+      "volume": 11212839.523403,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "26761575168454241179999246066904297693126606347835080071199512499336988354389",
+      "conditionId": "0xe0982c3804ef36d7a28a6ab34384dc9032c313c63eac628048c21fbfc2f4575e",
+      "size": 5873.95714,
+      "price": 0.7,
+      "timestamp": 1783272859,
+      "title": "Spread: Brazil (-1.5)",
+      "slug": "fifwc-bra-nor-2026-07-05-spread-home-1pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-bra-nor-2026-07-05-more-markets",
+      "outcome": "Norway",
+      "outcomeIndex": 1,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "trash panda",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x8da56af3388fffc9ce773a0e334a85606218fcd5f9ecd948947a01a09c73502c",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spread: Brazil (-1.5)",
+    "market_slug": "fifwc-bra-nor-2026-07-05-more-markets",
+    "amount": 4111.769998
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xb5e266d21b49f075022d5c1a5e0935f823a7c36c90c5839570e3b4153e1145a3",
+    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+    "trader": {
+      "rank": 19,
+      "address": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+      "username": "BetTom42",
+      "profit": 5642135.735356,
+      "volume": 11212839.523403,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "25275123619808057481108572448748011534295379319435845147554761488437871636958",
+      "conditionId": "0xa1299a3672399edbf7c3013af05a886b9ec3034959b36ecb9171c3747a937bf0",
+      "size": 21162.602266,
+      "price": 0.88,
+      "timestamp": 1783272859,
+      "title": "Exact Score: Brazil 2 - 1 Norway?",
+      "slug": "fifwc-bra-nor-2026-07-05-exact-score-2-1",
+      "icon": "",
+      "eventSlug": "fifwc-bra-nor-2026-07-05-exact-score",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "trash panda",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xb5e266d21b49f075022d5c1a5e0935f823a7c36c90c5839570e3b4153e1145a3",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Exact Score: Brazil 2 - 1 Norway?",
+    "market_slug": "fifwc-bra-nor-2026-07-05-exact-score",
+    "amount": 18623.08999408
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xe077719538ad87447590684f597732587001d19f67f946b6dafbf4a459da321b",
+    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+    "trader": {
+      "rank": 19,
+      "address": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+      "username": "BetTom42",
+      "profit": 5642135.735356,
+      "volume": 11212839.523403,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "90084862868071863387403318295633834978628975552035948325521552516509168402673",
+      "conditionId": "0x80d7268ef566b2d946ded304f6d690de6980ec1b5e7288ed8f8b241f763b7e73",
+      "size": 13652.83,
+      "price": 0.91,
+      "timestamp": 1783272859,
+      "title": "Exact Score: Brazil 2 - 0 Norway?",
+      "slug": "fifwc-bra-nor-2026-07-05-exact-score-2-0",
+      "icon": "",
+      "eventSlug": "fifwc-bra-nor-2026-07-05-exact-score",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "trash panda",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xe077719538ad87447590684f597732587001d19f67f946b6dafbf4a459da321b",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Exact Score: Brazil 2 - 0 Norway?",
+    "market_slug": "fifwc-bra-nor-2026-07-05-exact-score",
+    "amount": 12424.0753
   }
 ]
