@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x4d42c2bea667551348d8cb3e4308b6862242714543527cd3af95342b81fe5b96",
-    "wallet": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
-    "trader": {
-      "rank": 3,
-      "address": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
-      "username": "kch123",
-      "profit": 11817390.92638414,
-      "volume": 284851087.13682395,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xfcbe0acc4eb7e57831eb405f9dd97d1f149a60bc",
-      "side": "BUY",
-      "asset": "83528779085238081400536756939676132443886733186753948149859311172818165708171",
-      "conditionId": "0xc517b6dcbae1b769dcd81a56c5bdde73ee5bf9b91e60c6dc5ebb1e6f2445a6d6",
-      "size": 2577.97,
-      "price": 0.88,
-      "timestamp": 1776954916,
-      "title": "Will MegaETH launch a token by April 30, 2026?",
-      "slug": "will-megaeth-launch-a-token-by-april-30-2026-798",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/megaeth-market-cap-fdv-one-day-after-launch-KzYK3qwuIK8t.jpg",
-      "eventSlug": "will-megaeth-launch-a-token-by",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "niqqaping",
-      "pseudonym": "Plush-Owl",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x4d42c2bea667551348d8cb3e4308b6862242714543527cd3af95342b81fe5b96",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will MegaETH launch a token by April 30, 2026?",
-    "market_slug": "will-megaeth-launch-a-token-by",
-    "amount": 2268.6135999999997
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x474357cbc105caeb0196239f6ac992cebd5384cc5e5254147a784c64084de552",
     "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
     "trader": {
@@ -27113,5 +27069,126 @@
     "market": "Will LeBron James play for the Cleveland Cavaliers in 2026-27?",
     "market_slug": "will-lebron-james-play-for-the-cleveland-cavaliers-in-2026-27",
     "amount": 1844.455379960031
+  },
+  {
+    "market": "Will France win on 2026-07-09?",
+    "market_slug": "fifwc-fra-mar-2026-07-09-fra",
+    "event_slug": "fifwc-fra-mar-2026-07-09-fra",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "analysis": {
+      "score": 90,
+      "flags": [
+        "Large bet ($2,057)",
+        "Pre-event latency: 4802m",
+        "Top trader #2 ($16,684,304 profit)"
+      ],
+      "amount": 2056.654209911718,
+      "odds": 0.6200000001,
+      "raw_price": 0.3799999999,
+      "outcome": "No",
+      "potential_pnl": 1260.5299990882813,
+      "pnl_multiplier": 0.6129032255463058,
+      "wallet_age_days": 330,
+      "total_activities": 100
+    },
+    "timestamp": "2026-07-05T16:01:56.387874",
+    "trade_hash": "0x5f20f82d0cc0b4f3c0209bac79c06e25ae849268983f77fbc44c7b8af8fc9881",
+    "trade_timestamp": 1783267093,
+    "latency": {
+      "latency_seconds": 288107.0,
+      "latency_minutes": 4801.783333333334,
+      "is_pre_event": true,
+      "severity": "CRITICAL",
+      "trade_time": "2026-07-05T15:58:13+00:00",
+      "event_time": "2026-07-09T00:00:00+00:00"
+    },
+    "wallet_stats": null,
+    "top_trader": {
+      "rank": 2,
+      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "username": "swisstony",
+      "profit": 16684304.376210641,
+      "volume": 1468338396.2440019,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade_data": {
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.3799999999,
+      "effective_price": 0.3799999999,
+      "size": 3317.184209,
+      "amount": 1260.5299990882816,
+      "potential_pnl": 2056.6542099117187,
+      "pnl_multiplier": 1.6315789480609422,
+      "is_no": true,
+      "slug": "fifwc-fra-mar-2026-07-09-fra",
+      "eventSlug": "fifwc-fra-mar-2026-07-09"
+    },
+    "irrationality": {
+      "irrationality_score": 18,
+      "flags": [
+        "Moderate mispricing edge (+7.0%)"
+      ],
+      "category": "politics_near",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.02,
+        "min_edge": 0.03
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.30949999996,
+      "market_price": 0.3799999999,
+      "edge": 0.07049999994,
+      "edge_percent": 7.049999994,
+      "min_edge_required": 0.03,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 108,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 90,
+      "insider_position": "NO",
+      "irrationality_score": 18,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.07049999994,
+      "edge_percent": 7.049999994
+    },
+    "financial_analyst": {
+      "signal_quality": 67.2,
+      "stance": "SELECTIVE",
+      "edge_percent": 7.05,
+      "signal_strength": 108.0,
+      "insider_score": 90.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
