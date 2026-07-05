@@ -1,162 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x09d8990d0bdf86bed4337cded63b818e9a6a6200e9fba119ba70a2ee610798e6",
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "trader": {
-      "rank": 7,
-      "address": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-      "username": "RN1",
-      "profit": 7480867.234999885,
-      "volume": 452298967.955869,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x0eb75bf6f54794a83bd26095811f30b530161f17",
-      "side": "SELL",
-      "asset": "92430469735954963360049025962310229515467044409334320200786108488083599918032",
-      "conditionId": "0xc637ae2f8d5c241d44b93950a422bbd0988a872abb2d6f4f4c4e895681af5f29",
-      "size": 70414.29,
-      "price": 0.16758628113696808,
-      "timestamp": 1776989028,
-      "title": "Knicks vs. Hawks",
-      "slug": "nba-nyk-atl-2026-04-23",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-nyk-atl-2026-04-23",
-      "outcome": "Knicks",
-      "outcomeIndex": 0,
-      "name": "elshark206",
-      "pseudonym": "Untried-Android",
-      "bio": "All glory to GOD praisethelordjesuschrist",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-5838103-f07161f5-62c8-4041-a834-5e418d7f280e.webp",
-      "profileImageOptimized": "",
-      "transactionHash": "0x09d8990d0bdf86bed4337cded63b818e9a6a6200e9fba119ba70a2ee610798e6",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Knicks vs. Hawks",
-    "market_slug": "nba-nyk-atl-2026-04-23",
-    "amount": 11800.469
-  },
-  {
-    "market": "US x Iran permanent peace deal by April 30, 2026?",
-    "market_slug": "us-x-iran-permanent-peace-deal-by-april-30-2026-925",
-    "event_slug": "us-x-iran-permanent-peace-deal-by-april-30-2026-925",
-    "wallet": "0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "Against trend (6.0% effective odds)",
-        "Large bet ($1,200)",
-        "Pre-event latency: 7971m"
-      ],
-      "amount": 1200.0,
-      "odds": 0.06,
-      "raw_price": 0.06,
-      "outcome": "Yes",
-      "potential_pnl": 18800.0,
-      "pnl_multiplier": 15.666666666666666,
-      "wallet_age_days": 805,
-      "total_activities": 100
-    },
-    "timestamp": "2026-04-24T11:20:10.101640",
-    "trade_hash": "0xd4c367dc7641866b7b8871fdb3bf74afb38da07d74450bc95f9d5942449bc1e7",
-    "trade_timestamp": 1777028966,
-    "latency": {
-      "latency_seconds": 478234.0,
-      "latency_minutes": 7970.566666666667,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-04-24T11:09:26+00:00",
-      "event_time": "2026-04-30T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "normalized_position": "YES",
-      "side": "BUY",
-      "price": 0.06,
-      "effective_price": 0.06,
-      "size": 20000.0,
-      "amount": 1200.0,
-      "potential_pnl": 18800.0,
-      "pnl_multiplier": 15.666666666666666,
-      "is_no": false,
-      "slug": "us-x-iran-permanent-peace-deal-by-april-30-2026-925",
-      "eventSlug": "us-x-iran-permanent-peace-deal-by"
-    },
-    "irrationality": {
-      "irrationality_score": 25,
-      "flags": [
-        "Longshot (6%) in medium bias category (politics_near)"
-      ],
-      "category": "politics_near",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.02,
-        "min_edge": 0.03
-      },
-      "is_irrational": false
-    },
-    "mispricing": {
-      "rational_estimate": 0.0465,
-      "market_price": 0.06,
-      "edge": 0.013499999999999998,
-      "edge_percent": 1.3499999999999999,
-      "min_edge_required": 0.03,
-      "is_mispriced": false,
-      "edge_quality": "WEAK",
-      "base_rate_class": "rare",
-      "confidence": "low"
-    },
-    "factors": {
-      "base_rate_class": "rare",
-      "structural_feasibility": {
-        "independent_conditions_required": 2,
-        "conditions": [
-          "Unknown"
-        ],
-        "weakest_link": "Unknown"
-      },
-      "category": "politics_near",
-      "narrative_drivers": [
-        "Unknown"
-      ],
-      "confidence_in_analysis": "low"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 85,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 85,
-      "insider_position": "YES",
-      "irrationality_score": 25,
-      "is_irrational": false,
-      "is_mispriced": false,
-      "edge": 0.013499999999999998,
-      "edge_percent": 1.3499999999999999
-    },
-    "financial_analyst": {
-      "signal_quality": 29.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 1.35,
-      "signal_strength": 85.0,
-      "insider_score": 85.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-04-25T07:20:38.054103+00:00"
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x3d87aa6cce70324b0c58f660f89e3834140b9855c106f04ef82e24d757c93b6e",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -27190,5 +27034,93 @@
     "market": "Exact Score: Brazil 2 - 0 Norway?",
     "market_slug": "fifwc-bra-nor-2026-07-05-exact-score",
     "amount": 12424.0753
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xcba98a6d6e7c0b43f2c332f2c95ada9b22451239513bd3646982fdfbbba3d38e",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xa52631410e7adc651fea3f0785bbc061b8f6c9f9",
+      "side": "BUY",
+      "asset": "87687491419315518588429836819951381450220002073339102789515596192459398504364",
+      "conditionId": "0xf134b5d6d31ea59fe65cb22961ec1120e41a2451ef9311d6b750d6638a1c9322",
+      "size": 8639.298244,
+      "price": 0.57,
+      "timestamp": 1783281266,
+      "title": "Brazil vs. Norway: O/U 2.5",
+      "slug": "fifwc-bra-nor-2026-07-05-total-2pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "",
+      "outcome": "Over",
+      "outcomeIndex": 999,
+      "name": "thecraggy",
+      "pseudonym": "Stale-Corps",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xcba98a6d6e7c0b43f2c332f2c95ada9b22451239513bd3646982fdfbbba3d38e",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Brazil vs. Norway: O/U 2.5",
+    "market_slug": "fifwc-bra-nor-2026-07-05-total-2pt5",
+    "amount": 4924.399999079999
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xdb219b5d7414a0d95c03bbbd4fcf8569e76b89cbd470ada48c40ad851c220d78",
+    "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
+    "trader": {
+      "rank": 13,
+      "address": "0x863134d00841b2e200492805a01e1e2f5defaa53",
+      "username": "RepTrump",
+      "profit": 7532409.671579,
+      "volume": 13983231.103425,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "105844734295575288257185771754511174244035005860415059405037425760007389471865",
+      "conditionId": "0xe81ec0ca7357d9e91e9b95e1ecf60606f8b1686290464758b9a3595aeae11a1a",
+      "size": 14170.216665,
+      "price": 0.6,
+      "timestamp": 1783281868,
+      "title": "Brazil vs. Norway: Both Teams to Score",
+      "slug": "fifwc-bra-nor-2026-07-05-btts",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "",
+      "outcome": "Yes",
+      "outcomeIndex": 999,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "trash panda",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xdb219b5d7414a0d95c03bbbd4fcf8569e76b89cbd470ada48c40ad851c220d78",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Brazil vs. Norway: Both Teams to Score",
+    "market_slug": "fifwc-bra-nor-2026-07-05-btts",
+    "amount": 8502.129998999999
   }
 ]
