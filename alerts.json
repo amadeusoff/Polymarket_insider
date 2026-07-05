@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x2bc8da293571c799294f87a2d9eb4b45be057ee2a10ef6ff64009b0c0b2b9da6",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x02571ed3bfa4162c80b288310745503275a822b2",
-      "side": "SELL",
-      "asset": "43039489606620012356637526705255798725566831498132376180838488246982982629742",
-      "conditionId": "0x348e242d17cacf0c0c9455c8238d0d5bfb5f42f7faf7e54aa0547f0e09543253",
-      "size": 2000,
-      "price": 0.9,
-      "timestamp": 1776938392,
-      "title": "Madrid Open: Belinda Bencic vs Petra Marcinko",
-      "slug": "wta-bencic-marcink-2026-04-23",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wta-logo-41f331bdf1.png",
-      "eventSlug": "wta-bencic-marcink-2026-04-23",
-      "outcome": "Belinda Bencic",
-      "outcomeIndex": 0,
-      "name": "kkkkkkmoji",
-      "pseudonym": "Good-Natured-Announcement",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3421351-a281d01d-a9b8-448d-a53c-046f3bbaf770.webp",
-      "profileImageOptimized": "",
-      "transactionHash": "0x2bc8da293571c799294f87a2d9eb4b45be057ee2a10ef6ff64009b0c0b2b9da6",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Madrid Open: Belinda Bencic vs Petra Marcinko",
-    "market_slug": "wta-bencic-marcink-2026-04-23",
-    "amount": 1800.0
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xbb0f569813d9c2cd6e17197a06d509f35799e113e5309f2827c2f04639c34393",
     "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
     "trader": {
@@ -27107,5 +27063,49 @@
     "market": "Spread: San Francisco Giants (-1.5)",
     "market_slug": "mlb-sf-col-2026-07-04-spread-away-1pt5",
     "amount": 2999.999998701702
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x7eb20ca76b9432dcdafa5728501aeda77807f2fabec94991c2e887a212f3cf12",
+    "wallet": "0x96cfcb0c30942cfcd1cdf76c7d408794d66b1acb",
+    "trader": {
+      "rank": 6,
+      "address": "0x96cfcb0c30942cfcd1cdf76c7d408794d66b1acb",
+      "username": "mintblade",
+      "profit": 9238344.623224001,
+      "volume": 17759922.232853003,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+      "side": "BUY",
+      "asset": "17837808089428695014709874132980520420468808543233501363081407692687574199816",
+      "conditionId": "0x34432ae59cf61fa9e03bf2813b5f7ed6511fe08bb44434ded994df48701d4234",
+      "size": 4126.05,
+      "price": 0.87,
+      "timestamp": 1783226324,
+      "title": "LoL: Team Secret Whales vs Top Esports (BO5) - Mid-Season Invitational Playoffs",
+      "slug": "lol-tsw-tes-2026-07-04",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
+      "eventSlug": "",
+      "outcome": "Top Esports",
+      "outcomeIndex": 999,
+      "name": "mooseborzoi",
+      "pseudonym": "Agitated-Bricklaying",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x7eb20ca76b9432dcdafa5728501aeda77807f2fabec94991c2e887a212f3cf12",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "LoL: Team Secret Whales vs Top Esports (BO5) - Mid-Season Invitational Playoffs",
+    "market_slug": "lol-tsw-tes-2026-07-04",
+    "amount": 3589.6635
   }
 ]
