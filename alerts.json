@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xa362a73c19f29a7950c6a6ce97a3b8c256916971682bd949f668764719d69b1e",
-    "wallet": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
-    "trader": {
-      "rank": 10,
-      "address": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
-      "username": "walletmobile",
-      "profit": 5942685.45339684,
-      "volume": 32196692.075936034,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x1418d1d10cc82124d6e3ba689062bfe0d2876fef",
-      "side": "SELL",
-      "asset": "28005153828654920128085880371664285797494691659131839762220310297656589209075",
-      "conditionId": "0xbd6aec3013ba4a88e99c696a468fc5dfff6194a92a670d7c429149e5e7993ba2",
-      "size": 4499.97,
-      "price": 0.91,
-      "timestamp": 1776906878,
-      "title": "Suns vs. Thunder",
-      "slug": "nba-phx-okc-2026-04-22",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-phx-okc-2026-04-22",
-      "outcome": "Thunder",
-      "outcomeIndex": 1,
-      "name": "CCKK88",
-      "pseudonym": "Humming-Meteorology",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xa362a73c19f29a7950c6a6ce97a3b8c256916971682bd949f668764719d69b1e",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Suns vs. Thunder",
-    "market_slug": "nba-phx-okc-2026-04-22",
-    "amount": 4094.9727000000003
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x2bc8da293571c799294f87a2d9eb4b45be057ee2a10ef6ff64009b0c0b2b9da6",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -27107,5 +27063,49 @@
     "market": "Will France win on 2026-07-04?",
     "market_slug": "fifwc-par-fra-2026-07-04",
     "amount": 4499.989998
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x84df8cadabb343366a04dbd36ef2a9e1c55b5deb87720eb2e6cb29bbd29a0c87",
+    "wallet": "0xed64a7bf029040aa331abc87902434d815ef217d",
+    "trader": {
+      "rank": 7,
+      "address": "0xed64a7bf029040aa331abc87902434d815ef217d",
+      "username": "fishalive",
+      "profit": 9063378.176199999,
+      "volume": 13281460.374668,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x8a269634753d90783f52c58e5ae9a8b9679e937e",
+      "side": "BUY",
+      "asset": "113901268499277228474239436423111188228762862087212601274724567148486438431629",
+      "conditionId": "0xb106d1edf55aa553eb22cb1aec8df2af17fceb497be9c06d48826d95a4ec5394",
+      "size": 6382.978722,
+      "price": 0.4699999999,
+      "timestamp": 1783210718,
+      "title": "Spread: San Francisco Giants (-1.5)",
+      "slug": "mlb-sf-col-2026-07-04-spread-away-1pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
+      "eventSlug": "",
+      "outcome": "San Francisco Giants",
+      "outcomeIndex": 999,
+      "name": "Iconicsoundsdk",
+      "pseudonym": "Severe-Bootie-Filly",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x84df8cadabb343366a04dbd36ef2a9e1c55b5deb87720eb2e6cb29bbd29a0c87",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spread: San Francisco Giants (-1.5)",
+    "market_slug": "mlb-sf-col-2026-07-04-spread-away-1pt5",
+    "amount": 2999.999998701702
   }
 ]
