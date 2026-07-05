@@ -27106,6 +27106,12 @@
     },
     "market": "LoL: Team Secret Whales vs Top Esports (BO5) - Mid-Season Invitational Playoffs",
     "market_slug": "lol-tsw-tes-2026-07-04",
-    "amount": 3589.6635
+    "amount": 3589.6635,
+    "resolution": {
+      "outcome": "Team Secret Whales",
+      "checked_at": "2026-07-05T08:57:17.785272+00:00",
+      "insider_win": null,
+      "model_correct": null
+    }
   }
 ]
