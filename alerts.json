@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x3d87aa6cce70324b0c58f660f89e3834140b9855c106f04ef82e24d757c93b6e",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x7553e42ce1b37727b819dfe4bac495b3968f65ca",
-      "side": "BUY",
-      "asset": "32206743748604931479581753411293025827930003832852185250826466137108716627870",
-      "conditionId": "0xf64a48ee6bfba69e06d8c521a55174c31ba2e3b4251070ee213b3caec836b577",
-      "size": 5050,
-      "price": 0.63,
-      "timestamp": 1777029546,
-      "title": "LoL: JD Gaming vs Invictus Gaming - Game 1 Winner",
-      "slug": "lol-jdg-ig1-2026-04-24-game1",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
-      "eventSlug": "lol-jdg-ig1-2026-04-24",
-      "outcome": "JD Gaming",
-      "outcomeIndex": 0,
-      "name": "HomelessSoon",
-      "pseudonym": "Distinct-Sack",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x3d87aa6cce70324b0c58f660f89e3834140b9855c106f04ef82e24d757c93b6e",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "LoL: JD Gaming vs Invictus Gaming - Game 1 Winner",
-    "market_slug": "lol-jdg-ig1-2026-04-24",
-    "amount": 3181.5
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x4ac74cd04ed2dd41142a760caf2f161255fecd5ef38538815c6a3adeb8605e61",
     "wallet": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
     "trader": {
@@ -27122,5 +27078,49 @@
     "market": "Brazil vs. Norway: Both Teams to Score",
     "market_slug": "fifwc-bra-nor-2026-07-05-btts",
     "amount": 8502.129998999999
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x9ed866be76b7b706ccc46ddbead001768f631f85b38387fe8d607a9fcb4f8ee1",
+    "wallet": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+    "trader": {
+      "rank": 16,
+      "address": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+      "username": "walletmobile",
+      "profit": 5942685.45339684,
+      "volume": 32196692.075936034,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "66303672862705650874921622569811530209955471377838687836393069396621107505558",
+      "conditionId": "0xb11163ef2a30b1094cd4a42f581582065fcb6001fd313e466e6e4bfe2acbddf3",
+      "size": 2630.559138,
+      "price": 0.9299999999,
+      "timestamp": 1783301380,
+      "title": "Mexico vs. England: 1st Half O/U 1.5",
+      "slug": "fifwc-mex-eng-2026-07-05-first-half-total-1pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-mex-eng-2026-07-05-more-markets",
+      "outcome": "Under",
+      "outcomeIndex": 1,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "trash panda",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x9ed866be76b7b706ccc46ddbead001768f631f85b38387fe8d607a9fcb4f8ee1",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Mexico vs. England: 1st Half O/U 1.5",
+    "market_slug": "fifwc-mex-eng-2026-07-05-more-markets",
+    "amount": 2446.4199980769445
   }
 ]
