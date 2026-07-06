@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xc54340083f73140e9d93cd40f550fcfb0ba56af2ec403a0a63ee531073ab178d",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x7ec78c17e24882845c39b3f501de6d40eaafc43e",
-      "side": "SELL",
-      "asset": "46668446687303885140278680016076956628363604690677961229493918907650258207961",
-      "conditionId": "0x65414628f108533d689721c6b2576dd83da43644bcfd62506444f1591ef32c31",
-      "size": 3882,
-      "price": 0.5,
-      "timestamp": 1777048454,
-      "title": "Will WTI Crude Oil (WTI) hit (HIGH) $100 in April?",
-      "slug": "will-wti-crude-oil-wti-hit-high-100-in-april",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/crude-oil-9a850ce2a2.png",
-      "eventSlug": "what-price-will-wti-hit-in-april-2026",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "AmirH008",
-      "pseudonym": "Creative-Trip",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xc54340083f73140e9d93cd40f550fcfb0ba56af2ec403a0a63ee531073ab178d",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will WTI Crude Oil (WTI) hit (HIGH) $100 in April?",
-    "market_slug": "what-price-will-wti-hit-in-april-2026",
-    "amount": 1941.0
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xa1e30c5aed9e486ddfe3ee5596a2ffd1ec1816b4cfb7de94836fd9ca344da368",
     "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
     "trader": {
@@ -27056,5 +27012,49 @@
     "market": "Wimbledon ATP: Taylor Fritz vs Alexander Bublik",
     "market_slug": "atp-fritz-bublik-2026-07-06",
     "amount": 39999.999997346014
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x808dc4f72261691fa3b44107505a513f57fc3f99ace53fcf0d65490bad5c65a9",
+    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+    "trader": {
+      "rank": 18,
+      "address": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+      "username": "BetTom42",
+      "profit": 5642135.735356,
+      "volume": 11212839.523403,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x9b89ef1f344d3e17b37ccdff3bccf62d04f04244",
+      "side": "BUY",
+      "asset": "37089422011487600761966371766395923813595879029748930849684427032931217400937",
+      "conditionId": "0x3c995fa852613961df5b34fc1b2d14eb6850145f5d28d349d1622f4ed8cd84ca",
+      "size": 6465.56,
+      "price": 0.64,
+      "timestamp": 1783365637,
+      "title": "Portugal vs. Spain: Team to Advance",
+      "slug": "fifwc-prt-esp-2026-07-06-team-to-advance",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "",
+      "outcome": "Spain",
+      "outcomeIndex": 999,
+      "name": "Woaifacai",
+      "pseudonym": "Dizzy-Coliseum",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-8733429-5c0f8655-20cb-4548-befb-e172efcda82c.webp",
+      "profileImageOptimized": "",
+      "transactionHash": "0x808dc4f72261691fa3b44107505a513f57fc3f99ace53fcf0d65490bad5c65a9",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Portugal vs. Spain: Team to Advance",
+    "market_slug": "fifwc-prt-esp-2026-07-06-team-to-advance",
+    "amount": 4137.9584
   }
 ]
