@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x4ac74cd04ed2dd41142a760caf2f161255fecd5ef38538815c6a3adeb8605e61",
-    "wallet": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
-    "trader": {
-      "rank": 9,
-      "address": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
-      "username": "PrincessCaro",
-      "profit": 6083643.099591745,
-      "volume": 23520809.952867,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x01e6e3c5cfe50943e7721398054cb1e22032e7e0",
-      "side": "BUY",
-      "asset": "87565411781242289962996960936354583194122517987127486270140405021001026024443",
-      "conditionId": "0xa06b4da4c592436f44ebcc5f9f870a06d7c450cfba9a8d58934049482563a061",
-      "size": 7863.2,
-      "price": 0.43,
-      "timestamp": 1777032846,
-      "title": "LoL: JD Gaming vs Invictus Gaming - Game 2 Winner",
-      "slug": "lol-jdg-ig1-2026-04-24-game2",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
-      "eventSlug": "lol-jdg-ig1-2026-04-24",
-      "outcome": "Invictus Gaming",
-      "outcomeIndex": 1,
-      "name": "BirdMan.",
-      "pseudonym": "Well-Made-Sovereignty",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-6981540-65626b91-dc80-4b1c-99ee-de73d651cf10.webp",
-      "profileImageOptimized": "",
-      "transactionHash": "0x4ac74cd04ed2dd41142a760caf2f161255fecd5ef38538815c6a3adeb8605e61",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "LoL: JD Gaming vs Invictus Gaming - Game 2 Winner",
-    "market_slug": "lol-jdg-ig1-2026-04-24",
-    "amount": 3381.176
-  },
-  {
     "market": "Kharg Island no longer under Iranian control by April 30?",
     "market_slug": "kharg-island-no-longer-under-iranian-control-by-april",
     "event_slug": "kharg-island-no-longer-under-iranian-control-by-april",
@@ -27122,5 +27078,49 @@
     "market": "Mexico vs. England: 1st Half O/U 1.5",
     "market_slug": "fifwc-mex-eng-2026-07-05-more-markets",
     "amount": 2446.4199980769445
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x57049f2c9506d1f7163d1f6426c476c1ecc9ea0d25cf519b3933bb39b1d28f0f",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "trader": {
+      "rank": 2,
+      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "username": "swisstony",
+      "profit": 16942202.736705504,
+      "volume": 1493504511.1570559,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+      "side": "BUY",
+      "asset": "777387177983338706253759930046154264696755962357437415948558706184824009112",
+      "conditionId": "0x9840fe7e15ad16c1f918c0b923f6e5eb770c1fa9c2ce2b37d362bfe8d15190f0",
+      "size": 18148.07,
+      "price": 0.3,
+      "timestamp": 1783332602,
+      "title": "Wimbledon WTA: Ashlyn Krueger vs Marta Kostyuk",
+      "slug": "wta-krueger-kostyuk-2026-07-05",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wta-logo-41f331bdf1.png",
+      "eventSlug": "",
+      "outcome": "Ashlyn Krueger",
+      "outcomeIndex": 999,
+      "name": "ferrariChampions2026",
+      "pseudonym": "Glaring-Salt",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x57049f2c9506d1f7163d1f6426c476c1ecc9ea0d25cf519b3933bb39b1d28f0f",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Wimbledon WTA: Ashlyn Krueger vs Marta Kostyuk",
+    "market_slug": "wta-krueger-kostyuk-2026-07-05",
+    "amount": 5444.420999999999
   }
 ]
