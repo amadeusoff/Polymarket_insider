@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xa1e30c5aed9e486ddfe3ee5596a2ffd1ec1816b4cfb7de94836fd9ca344da368",
-    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
-    "trader": {
-      "rank": 12,
-      "address": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
-      "username": "BetTom42",
-      "profit": 5642135.735356,
-      "volume": 11212839.523403,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x0dcf5b49627c5194805bd1af846fd0bd3388c556",
-      "side": "BUY",
-      "asset": "45364622190952946837768686530752491505159705356265147972295578210659774777014",
-      "conditionId": "0x1a50551e34da9eb966dee2fb74cbb9984cc459fb6b721144b21dd2a0fd64a36e",
-      "size": 3825.74,
-      "price": 0.5,
-      "timestamp": 1777055954,
-      "title": "Dota 2: Team Liquid vs BetBoom Team - Game 2 Winner",
-      "slug": "dota2-liquid-bb4-2026-04-24-game2",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/dota2-7ffacddb21.jpg",
-      "eventSlug": "dota2-liquid-bb4-2026-04-24",
-      "outcome": "BetBoom Team",
-      "outcomeIndex": 1,
-      "name": "0x0dcf5B49627C5194805bD1AF846Fd0bd3388c556-1769755919166",
-      "pseudonym": "Insignificant-Wrestler",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xa1e30c5aed9e486ddfe3ee5596a2ffd1ec1816b4cfb7de94836fd9ca344da368",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Dota 2: Team Liquid vs BetBoom Team - Game 2 Winner",
-    "market_slug": "dota2-liquid-bb4-2026-04-24",
-    "amount": 1912.87
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x378e19e09d3a3dc174c02862933a3c10a84a7ee50a5e2b7060ed1c617b1d7856",
     "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
     "trader": {
@@ -27056,5 +27012,119 @@
     "market": "Portugal vs. Spain: Team to Advance",
     "market_slug": "fifwc-prt-esp-2026-07-06-team-to-advance",
     "amount": 4137.9584
+  },
+  {
+    "market": "Exact Score: Portugal 1 - 1 Spain?",
+    "market_slug": "fifwc-prt-esp-2026-07-06-exact-score",
+    "event_slug": "fifwc-prt-esp-2026-07-06-exact-score",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "analysis": {
+      "score": 75,
+      "flags": [
+        "Against trend (10.0% effective odds)",
+        "Large bet ($1,737)",
+        "Top trader #5 ($10,833,973 profit)"
+      ],
+      "amount": 1736.9999999999995,
+      "odds": 0.09999999999999998,
+      "raw_price": 0.9,
+      "outcome": "No",
+      "potential_pnl": 15633.0,
+      "pnl_multiplier": 9.000000000000002,
+      "wallet_age_days": 362,
+      "total_activities": 100
+    },
+    "timestamp": "2026-07-06T21:02:40.321616",
+    "trade_hash": "0xd41d4219e83fe033778202961de8e90cb632492c512dbc2290669333a109f14d",
+    "trade_timestamp": 1783371364,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": {
+      "rank": 5,
+      "address": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+      "username": "RN1",
+      "profit": 10833973.368515428,
+      "volume": 843314503.442554,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade_data": {
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.9,
+      "effective_price": 0.9,
+      "size": 17370.0,
+      "amount": 15633.0,
+      "potential_pnl": 1737.0,
+      "pnl_multiplier": 0.1111111111111111,
+      "is_no": true,
+      "slug": "fifwc-prt-esp-2026-07-06-exact-score",
+      "eventSlug": "fifwc-prt-esp-2026-07-06-exact-score"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+40.0%)"
+      ],
+      "category": "other",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.5,
+      "market_price": 0.9,
+      "edge": 0.4,
+      "edge_percent": 40.0,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "other",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 110,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 75,
+      "insider_position": "NO",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.4,
+      "edge_percent": 40.0
+    },
+    "financial_analyst": {
+      "signal_quality": 82.0,
+      "stance": "HIGH_CONVICTION",
+      "edge_percent": 40.0,
+      "signal_strength": 110.0,
+      "insider_score": 75.0,
+      "risk_note": "High stake detected \u2014 copy with reduced sizing (25-40% of source risk)."
+    }
   }
 ]
