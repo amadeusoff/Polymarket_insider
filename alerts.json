@@ -1,117 +1,5 @@
 [
   {
-    "market": "Kharg Island no longer under Iranian control by April 30?",
-    "market_slug": "kharg-island-no-longer-under-iranian-control-by-april",
-    "event_slug": "kharg-island-no-longer-under-iranian-control-by-april",
-    "wallet": "0x74471a007ddcc488f6d57b5e86dfb35a8d48a16d",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "Against trend (4.2% effective odds)",
-        "Large bet ($1,236)",
-        "Pre-event latency: 7795m"
-      ],
-      "amount": 1235.8987,
-      "odds": 0.041936523394422255,
-      "raw_price": 0.041936523394422255,
-      "outcome": "Yes",
-      "potential_pnl": 28234.8013,
-      "pnl_multiplier": 22.84556274717337,
-      "wallet_age_days": 215,
-      "total_activities": 100
-    },
-    "timestamp": "2026-04-24T14:10:50.692416",
-    "trade_hash": "0x6e51d0750f74388386db447fb8ebacd633f1935a6bc0f5f53608170335ff1bb1",
-    "trade_timestamp": 1777039508,
-    "latency": {
-      "latency_seconds": 467692.0,
-      "latency_minutes": 7794.866666666667,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-04-24T14:05:08+00:00",
-      "event_time": "2026-04-30T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "normalized_position": "YES",
-      "side": "BUY",
-      "price": 0.041936523394422255,
-      "effective_price": 0.041936523394422255,
-      "size": 29470.7,
-      "amount": 1235.8987,
-      "potential_pnl": 28234.8013,
-      "pnl_multiplier": 22.84556274717337,
-      "is_no": false,
-      "slug": "kharg-island-no-longer-under-iranian-control-by-april",
-      "eventSlug": "kharg-island-no-longer-under-iranian-control-by-march-31"
-    },
-    "irrationality": {
-      "irrationality_score": 40,
-      "flags": [
-        "Longshot (4%) in high bias category (geopolitics)",
-        "Category structurally prone to longshot bias"
-      ],
-      "category": "geopolitics",
-      "category_info": {
-        "strength": "high",
-        "typical_overpricing": 0.05,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.022174609357768903,
-      "market_price": 0.041936523394422255,
-      "edge": 0.019761914036653352,
-      "edge_percent": 1.9761914036653352,
-      "min_edge_required": 0.05,
-      "is_mispriced": false,
-      "edge_quality": "WEAK",
-      "base_rate_class": "historically_near_zero",
-      "confidence": "low"
-    },
-    "factors": {
-      "base_rate_class": "historically_near_zero",
-      "structural_feasibility": {
-        "independent_conditions_required": 2,
-        "conditions": [
-          "Unknown"
-        ],
-        "weakest_link": "Unknown"
-      },
-      "category": "geopolitics",
-      "narrative_drivers": [
-        "Unknown"
-      ],
-      "confidence_in_analysis": "low"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 85,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 85,
-      "insider_position": "YES",
-      "irrationality_score": 40,
-      "is_irrational": true,
-      "is_mispriced": false,
-      "edge": 0.019761914036653352,
-      "edge_percent": 1.9761914036653352
-    },
-    "financial_analyst": {
-      "signal_quality": 33.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 1.98,
-      "signal_strength": 85.0,
-      "insider_score": 85.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0xc54340083f73140e9d93cd40f550fcfb0ba56af2ec403a0a63ee531073ab178d",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
@@ -27124,5 +27012,49 @@
     "market": "Wimbledon WTA: Ashlyn Krueger vs Marta Kostyuk",
     "market_slug": "wta-krueger-kostyuk-2026-07-05",
     "amount": 5444.420999999999
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x6e5f89fb1a2f700a57ce3059babfb1c1c0a6439f0a2cc03f6980f8d27aa33bde",
+    "wallet": "0x3f87d51f27ba6e19ec52aaeebb68559a839c742c",
+    "trader": {
+      "rank": 12,
+      "address": "0x3f87d51f27ba6e19ec52aaeebb68559a839c742c",
+      "username": "GRIMDRIP",
+      "profit": 7602742.057861,
+      "volume": 13603969.275332,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654",
+      "side": "BUY",
+      "asset": "109064859640494968393096114657776147537707616410810009052624358824530750022102",
+      "conditionId": "0x84ceac327b0b2a76ced4315420c9f1ad695512b456c6ee565f134fc82384ffc3",
+      "size": 94015.595115,
+      "price": 0.4254613285,
+      "timestamp": 1783358423,
+      "title": "Wimbledon ATP: Taylor Fritz vs Alexander Bublik",
+      "slug": "atp-fritz-bublik-2026-07-06",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+      "eventSlug": "",
+      "outcome": "Alexander Bublik",
+      "outcomeIndex": 999,
+      "name": "0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622",
+      "pseudonym": "Guilty-Receipt",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x6e5f89fb1a2f700a57ce3059babfb1c1c0a6439f0a2cc03f6980f8d27aa33bde",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Wimbledon ATP: Taylor Fritz vs Alexander Bublik",
+    "market_slug": "atp-fritz-bublik-2026-07-06",
+    "amount": 39999.999997346014
   }
 ]
