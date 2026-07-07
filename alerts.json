@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x378e19e09d3a3dc174c02862933a3c10a84a7ee50a5e2b7060ed1c617b1d7856",
-    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
-    "trader": {
-      "rank": 12,
-      "address": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
-      "username": "BetTom42",
-      "profit": 5642135.735356,
-      "volume": 11212839.523403,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x7c14ab160d9a8587b281dcbedb7fcf83cc0552c8",
-      "side": "BUY",
-      "asset": "1025166382000609751009726938143922559179829173906940972697092796893369839377",
-      "conditionId": "0x6c5d0f491c20cb5ba6adaee566a4655f7da7a94212015fcd082fceadebb2168a",
-      "size": 3887.066462,
-      "price": 0.5099999999442341,
-      "timestamp": 1777055954,
-      "title": "Will Real Madrid CF win on 2026-04-24?",
-      "slug": "lal-bet-rea-2026-04-24-rea",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-lal.png",
-      "eventSlug": "lal-bet-rea-2026-04-24",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "0x7C14aB160d9A8587b281DCbedb7fcf83Cc0552C8-1775500920860",
-      "pseudonym": "Discrete-Extremist-Spot",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x378e19e09d3a3dc174c02862933a3c10a84a7ee50a5e2b7060ed1c617b1d7856",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Real Madrid CF win on 2026-04-24?",
-    "market_slug": "lal-bet-rea-2026-04-24",
-    "amount": 1982.403895403234
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x1b68a7800f6e4b79a783b8b6c6deea25fdfacee6a63ade92d3042440d8863060",
     "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
     "trader": {
@@ -27126,5 +27082,49 @@
       "insider_score": 75.0,
       "risk_note": "High stake detected \u2014 copy with reduced sizing (25-40% of source risk)."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xb5886105a5d9812e95dd9232eb8973256a4692d1581b6b42687cb9ab60478cbe",
+    "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
+    "trader": {
+      "rank": 20,
+      "address": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
+      "username": "mikatrade77",
+      "profit": 5147998.544602999,
+      "volume": 10884765.388774998,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "51256901251809457800988392091951031274605432930715405725993444713950073036627",
+      "conditionId": "0x281958c54a688bfca19eb3e48bd3540df815549ccdac6d85016e5a6ca1493a68",
+      "size": 4960.6,
+      "price": 0.35,
+      "timestamp": 1783388153,
+      "title": "United States vs. Belgium: O/U 4.5",
+      "slug": "fifwc-usa-bel-2026-07-06-total-4pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "",
+      "outcome": "Under",
+      "outcomeIndex": 999,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "trash panda",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xb5886105a5d9812e95dd9232eb8973256a4692d1581b6b42687cb9ab60478cbe",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "United States vs. Belgium: O/U 4.5",
+    "market_slug": "fifwc-usa-bel-2026-07-06-total-4pt5",
+    "amount": 1736.21
   }
 ]
