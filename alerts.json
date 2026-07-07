@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x23f9c7f896c632cde961e5bc883f10aa18641a607e9f497d21a576e897dcb9ed",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.51568202,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x6498f9eab8018b2d61fe0186bee145f53e4d8910",
-      "side": "BUY",
-      "asset": "53169322474137459807878074916634032842140371813395623975278808814438046191479",
-      "conditionId": "0x05b474a8d2045b72c9dfd573873cfbcf6ee505063cddbecac5acf93194bada64",
-      "size": 5917.2,
-      "price": 0.54,
-      "timestamp": 1777074866,
-      "title": "Spread: Detroit Tigers (-4.5)",
-      "slug": "mlb-det-cin-2026-04-24-spread-away-4pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
-      "eventSlug": "mlb-det-cin-2026-04-24",
-      "outcome": "Detroit Tigers",
-      "outcomeIndex": 0,
-      "name": "whycantilose",
-      "pseudonym": "Elastic-Estuary-Clef",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x23f9c7f896c632cde961e5bc883f10aa18641a607e9f497d21a576e897dcb9ed",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Spread: Detroit Tigers (-4.5)",
-    "market_slug": "mlb-det-cin-2026-04-24",
-    "amount": 3195.288
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xe0d159c88badc2e726f9fec86d8d810319b12412148286dd35ce9ee55cb00179",
     "wallet": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
     "trader": {
@@ -27124,5 +27080,49 @@
     "market": "Will Switzerland vs. Colombia end in a draw?",
     "market_slug": "fifwc-che-col-2026-07-07-draw",
     "amount": 20399.996600000002
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xf26b7aeae010c393010fe5258a1b08ff0a2d59e32a1818fa1e101ec83c81aa92",
+    "wallet": "0x3f87d51f27ba6e19ec52aaeebb68559a839c742c",
+    "trader": {
+      "rank": 12,
+      "address": "0x3f87d51f27ba6e19ec52aaeebb68559a839c742c",
+      "username": "GRIMDRIP",
+      "profit": 7602742.057861,
+      "volume": 13603969.275332,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x9fcfbb4a9b536e5ba8cb0abe812f7fd9abbee455",
+      "side": "SELL",
+      "asset": "50377602777708436937119431383653598860392608409270098129623048310195898769240",
+      "conditionId": "0xeb348b65a59bb2752d3dd10636d17de501df76a424e978e136d22e76d07c84e9",
+      "size": 24697,
+      "price": 0.68,
+      "timestamp": 1783458749,
+      "title": "Will Colombia win on 2026-07-07?",
+      "slug": "fifwc-che-col-2026-07-07-col",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "",
+      "outcome": "No",
+      "outcomeIndex": 999,
+      "name": "0x9FcFBb4a9B536e5bA8Cb0Abe812f7fd9Abbee455-1779715773242",
+      "pseudonym": "Repulsive-Colloquy-Sweatshirt",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xf26b7aeae010c393010fe5258a1b08ff0a2d59e32a1818fa1e101ec83c81aa92",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Colombia win on 2026-07-07?",
+    "market_slug": "fifwc-che-col-2026-07-07-col",
+    "amount": 16793.960000000003
   }
 ]
