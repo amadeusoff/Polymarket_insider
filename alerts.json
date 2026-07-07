@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x1b68a7800f6e4b79a783b8b6c6deea25fdfacee6a63ade92d3042440d8863060",
-    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-    "trader": {
-      "rank": 17,
-      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
-      "profit": 4552086.420657738,
-      "volume": 60196808.493647985,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xa6766cd5995896bd3515023b519132a83e3ea4c5",
-      "side": "BUY",
-      "asset": "36396155640721324596105868810203565776864709102749790060802942779378515528532",
-      "conditionId": "0x230ce01b35d4adbccac6f3424eceddb141a153cf22beea08f8e9800a16602e9e",
-      "size": 7662.6781,
-      "price": 0.51,
-      "timestamp": 1777062858,
-      "title": "Spread: Spurs (-2.5)",
-      "slug": "nba-sas-por-2026-04-24-spread-away-2pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-sas-por-2026-04-24",
-      "outcome": "Spurs",
-      "outcomeIndex": 0,
-      "name": "0xA6766cD5995896bd3515023b519132a83E3ea4c5-1721373149931",
-      "pseudonym": "Fuzzy-Yoga",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x1b68a7800f6e4b79a783b8b6c6deea25fdfacee6a63ade92d3042440d8863060",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Spread: Spurs (-2.5)",
-    "market_slug": "nba-sas-por-2026-04-24",
-    "amount": 3907.965831
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xc0ff314f0be6a7d9f1deac1e4ad02b14d17453d81d027794ed56d9819afaf7ab",
     "wallet": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
     "trader": {
@@ -27126,5 +27082,49 @@
     "market": "United States vs. Belgium: O/U 4.5",
     "market_slug": "fifwc-usa-bel-2026-07-06-total-4pt5",
     "amount": 1736.21
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x90794abac2c307dd8e4786619685ee9298e390654e58c59acdc2d7201d7ce5d0",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x2e78d7a77df765928de65f17196671fa83f2067e",
+      "side": "SELL",
+      "asset": "58122658949528625969997762521882250242419994390297679466470136147073681953861",
+      "conditionId": "0xd19970ef22583c25568432815ef1ba141835da9d05209c665e2772eb8a5a1397",
+      "size": 8333.33,
+      "price": 0.24,
+      "timestamp": 1783445203,
+      "title": "Argentina vs. Egypt: O/U 1.5",
+      "slug": "fifwc-arg-egy-2026-07-07-total-1pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "",
+      "outcome": "Under",
+      "outcomeIndex": 999,
+      "name": "Kidfp",
+      "pseudonym": "Impure-Roundabout",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x90794abac2c307dd8e4786619685ee9298e390654e58c59acdc2d7201d7ce5d0",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Argentina vs. Egypt: O/U 1.5",
+    "market_slug": "fifwc-arg-egy-2026-07-07-total-1pt5",
+    "amount": 1999.9992
   }
 ]
