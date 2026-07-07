@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xe0d159c88badc2e726f9fec86d8d810319b12412148286dd35ce9ee55cb00179",
-    "wallet": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
-    "trader": {
-      "rank": 19,
-      "address": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
-      "username": "Jenzigo",
-      "profit": 4049827.0941029997,
-      "volume": 9457725.034338009,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
-      "side": "BUY",
-      "asset": "58244037264252653320423561378263915652181344429933003512810569208181649730033",
-      "conditionId": "0x7d5cc408c2fe2469b8b4ccc1f3d230165496149a2c9313624cd1cfd7b9e9cdc8",
-      "size": 4018.69385,
-      "price": 0.51,
-      "timestamp": 1777088066,
-      "title": "Spurs vs. Trail Blazers",
-      "slug": "nba-sas-por-2026-04-24",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-sas-por-2026-04-24",
-      "outcome": "Trail Blazers",
-      "outcomeIndex": 1,
-      "name": "ferrariChampions2026",
-      "pseudonym": "Glaring-Salt",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xe0d159c88badc2e726f9fec86d8d810319b12412148286dd35ce9ee55cb00179",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Spurs vs. Trail Blazers",
-    "market_slug": "nba-sas-por-2026-04-24",
-    "amount": 2049.5338635000003
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x4bece8016b90002b6a55784359e2c25268f46f503c92789b5b0d73126a77681b",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -27124,5 +27080,49 @@
     "market": "Will Colombia win on 2026-07-07?",
     "market_slug": "fifwc-che-col-2026-07-07-col",
     "amount": 16793.960000000003
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x1bd5670facc567687ff069526f1f036754629254268921cb4d77a41f1bf896f4",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "73954444901503638120609821239998101682964346750180418941864773003734754365041",
+      "conditionId": "0x5fe1871072fc6948fad70320d236cce3c4b2aa624ea6c8ce860287459112671b",
+      "size": 4831.931503,
+      "price": 0.73,
+      "timestamp": 1783466858,
+      "title": "France vs. Morocco: O/U 3.5",
+      "slug": "fifwc-fra-mar-2026-07-09-total-3pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "",
+      "outcome": "Under",
+      "outcomeIndex": 999,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "trash panda",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x1bd5670facc567687ff069526f1f036754629254268921cb4d77a41f1bf896f4",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "France vs. Morocco: O/U 3.5",
+    "market_slug": "fifwc-fra-mar-2026-07-09-total-3pt5",
+    "amount": 3527.3099971899996
   }
 ]
