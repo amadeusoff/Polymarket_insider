@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x4bece8016b90002b6a55784359e2c25268f46f503c92789b5b0d73126a77681b",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.51568201,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x5a073781f06ab3d3c38c26ca5cc3110d78fb923f",
-      "side": "SELL",
-      "asset": "40103576705589635006325323490847435671390893620422996250421566705589161919719",
-      "conditionId": "0x4fa0fe6c6301cab7a0615c7c8f212d9d1416bf2bf7ef13fa4a51a6d654aa5ca4",
-      "size": 1799.43,
-      "price": 0.85,
-      "timestamp": 1777104276,
-      "title": "LoL: Top Esports vs Ninjas in Pyjamas (BO3) - LPL Group Ascend",
-      "slug": "lol-tes-nip-2026-04-25",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
-      "eventSlug": "lol-tes-nip-2026-04-25",
-      "outcome": "Top Esports",
-      "outcomeIndex": 0,
-      "name": "ProphetHunter",
-      "pseudonym": "Leafy-Pathology",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3902982-f3594270-832c-4a92-9f9a-4d820927c321.png",
-      "profileImageOptimized": "",
-      "transactionHash": "0x4bece8016b90002b6a55784359e2c25268f46f503c92789b5b0d73126a77681b",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "LoL: Top Esports vs Ninjas in Pyjamas (BO3) - LPL Group Ascend",
-    "market_slug": "lol-tes-nip-2026-04-25",
-    "amount": 1529.5155
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x96fdb5897835bcb9e471d22bd222efa17566d1d010cba23b924bc6b188e10871",
     "wallet": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
     "trader": {
@@ -27125,5 +27081,126 @@
     "market_slug": "fifwc-fra-mar-2026-07-09-total-3pt5",
     "amount": 3527.3099971899996,
     "resolution_last_check": "2026-07-08T08:32:17.528879+00:00"
+  },
+  {
+    "market": "Will Spain win on 2026-07-10?",
+    "market_slug": "fifwc-esp-bel-2026-07-10-esp",
+    "event_slug": "fifwc-esp-bel-2026-07-10-esp",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "analysis": {
+      "score": 90,
+      "flags": [
+        "Large bet ($1,652)",
+        "Pre-event latency: 1594m",
+        "Top trader #3 ($16,486,008 profit)"
+      ],
+      "amount": 1652.37,
+      "odds": 0.6,
+      "raw_price": 0.4,
+      "outcome": "No",
+      "potential_pnl": 1101.58,
+      "pnl_multiplier": 0.6666666666666666,
+      "wallet_age_days": 99,
+      "total_activities": 100
+    },
+    "timestamp": "2026-07-08T21:34:13.836358",
+    "trade_hash": "0xb2c02d63bad8fef278be3f3ed31e666561d616d23fa294bcc50669a866763704",
+    "trade_timestamp": 1783545980,
+    "latency": {
+      "latency_seconds": 95620.0,
+      "latency_minutes": 1593.6666666666667,
+      "is_pre_event": true,
+      "severity": "CRITICAL",
+      "trade_time": "2026-07-08T21:26:20+00:00",
+      "event_time": "2026-07-10T00:00:00+00:00"
+    },
+    "wallet_stats": null,
+    "top_trader": {
+      "rank": 3,
+      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "username": "swisstony",
+      "profit": 16486008.443038808,
+      "volume": 1550184793.4351823,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade_data": {
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.4,
+      "effective_price": 0.4,
+      "size": 2753.95,
+      "amount": 1101.58,
+      "potential_pnl": 1652.37,
+      "pnl_multiplier": 1.5,
+      "is_no": true,
+      "slug": "fifwc-esp-bel-2026-07-10-esp",
+      "eventSlug": "fifwc-esp-bel-2026-07-10"
+    },
+    "irrationality": {
+      "irrationality_score": 18,
+      "flags": [
+        "Moderate mispricing edge (+8.3%)"
+      ],
+      "category": "politics_near",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.02,
+        "min_edge": 0.03
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.3175,
+      "market_price": 0.4,
+      "edge": 0.08250000000000002,
+      "edge_percent": 8.250000000000002,
+      "min_edge_required": 0.03,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 108,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 90,
+      "insider_position": "NO",
+      "irrationality_score": 18,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.08250000000000002,
+      "edge_percent": 8.250000000000002
+    },
+    "financial_analyst": {
+      "signal_quality": 69.0,
+      "stance": "SELECTIVE",
+      "edge_percent": 8.25,
+      "signal_strength": 108.0,
+      "insider_score": 90.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
