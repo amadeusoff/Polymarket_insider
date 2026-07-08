@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x96fdb5897835bcb9e471d22bd222efa17566d1d010cba23b924bc6b188e10871",
-    "wallet": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
-    "trader": {
-      "rank": 4,
-      "address": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
-      "username": "Len9311238",
-      "profit": 8709972.988069998,
-      "volume": 16402744.764626998,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xbca8b97bdb5dbe33151074f04d0948238a6acf14",
-      "side": "BUY",
-      "asset": "77713469757641938208015153728536189776367049877714880077831455066562571996072",
-      "conditionId": "0xa6bef7402753d45716f522436bc145d5e8893cd0108ed8370e3832a23c26b708",
-      "size": 4576.12,
-      "price": 0.4,
-      "timestamp": 1777104574,
-      "title": "LoL: Top Esports vs Ninjas in Pyjamas - Game 2 Winner",
-      "slug": "lol-tes-nip-2026-04-25-game2",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
-      "eventSlug": "lol-tes-nip-2026-04-25",
-      "outcome": "Ninjas in Pyjamas",
-      "outcomeIndex": 1,
-      "name": "chickenpenguin",
-      "pseudonym": "Naive-Crunch",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x96fdb5897835bcb9e471d22bd222efa17566d1d010cba23b924bc6b188e10871",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "LoL: Top Esports vs Ninjas in Pyjamas - Game 2 Winner",
-    "market_slug": "lol-tes-nip-2026-04-25",
-    "amount": 1830.448
-  },
-  {
     "market": "Israel x Iran permanent peace deal by April 30, 2026?",
     "market_slug": "israel-x-iran-permanent-peace-deal-by-april-30-2026",
     "event_slug": "israel-x-iran-permanent-peace-deal-by-april-30-2026",
@@ -27202,5 +27158,49 @@
       "insider_score": 90.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xdbd7b00f38512c8fb372487c61d52074384b1785e2a16788e01ec01ec3ed6ea6",
+    "wallet": "0x96cfcb0c30942cfcd1cdf76c7d408794d66b1acb",
+    "trader": {
+      "rank": 6,
+      "address": "0x96cfcb0c30942cfcd1cdf76c7d408794d66b1acb",
+      "username": "mintblade",
+      "profit": 9238344.623224001,
+      "volume": 17759922.232853003,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+      "side": "BUY",
+      "asset": "23824904533339670663227809814290847367683982519105435107637246277979463335973",
+      "conditionId": "0x4b8b7574e58bf1cecf75196da853d9eba926015775fa2091570092b164d8c6ef",
+      "size": 8280,
+      "price": 0.4796930435,
+      "timestamp": 1783550639,
+      "title": "Houston Astros vs. Washington Nationals: O/U 9.5",
+      "slug": "mlb-hou-wsh-2026-07-08-total-9pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
+      "eventSlug": "",
+      "outcome": "Under",
+      "outcomeIndex": 999,
+      "name": "Sassy-Bucket",
+      "pseudonym": "Unwieldy-Collagen",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xdbd7b00f38512c8fb372487c61d52074384b1785e2a16788e01ec01ec3ed6ea6",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Houston Astros vs. Washington Nationals: O/U 9.5",
+    "market_slug": "mlb-hou-wsh-2026-07-08-total-9pt5",
+    "amount": 3971.8584001800004
   }
 ]
