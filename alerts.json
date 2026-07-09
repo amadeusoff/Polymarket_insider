@@ -1,51 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x5fbf45209fa5b500c77397ac858cf819772c25326aa05c71c4a5be4832a9727d",
-    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-    "trader": {
-      "rank": 17,
-      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
-      "profit": 4552078.393957778,
-      "volume": 60197195.49364801,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x2aaa9e6d341e69387bd27e8e969b5b7ae63594e5",
-      "side": "BUY",
-      "asset": "27911616648163853231017805596118911526202185567944724228908312975649746722206",
-      "conditionId": "0xaeea5f917fc5746387b5f9c0a4263dba035dbb3f0ac6ad72bf92183d21e26739",
-      "size": 2410.932431,
-      "price": 0.7399999996101093,
-      "timestamp": 1777138410,
-      "title": "Russia x Ukraine ceasefire by end of 2026?",
-      "slug": "russia-x-ukraine-ceasefire-before-2027",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/russia-x-ukraine-ceasefire-in-2025-w2voYOygx80B.jpg",
-      "eventSlug": "russia-x-ukraine-ceasefire-before-2027",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "WhaleHunter21",
-      "pseudonym": "Fine-Tractor",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x5fbf45209fa5b500c77397ac858cf819772c25326aa05c71c4a5be4832a9727d",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Russia x Ukraine ceasefire by end of 2026?",
-    "market_slug": "russia-x-ukraine-ceasefire-before-2027",
-    "amount": 1784.0899980000002,
-    "resolution_last_check": "2026-04-26T07:35:01.721496+00:00"
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x5de0956759e457688c32766d498538c756951e056f2deb392ff2c3fb705dc933",
     "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
     "trader": {
@@ -27134,5 +27089,49 @@
     "market": "New York Yankees vs. Tampa Bay Rays",
     "market_slug": "mlb-nyy-tb-2026-07-09",
     "amount": 2419.9981
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xfb2fb465a2d06ffda33df5727785363420341a31543197944e3090f73e90123e",
+    "wallet": "0x5e4c3b5b81171e2ca4ab776ac0d6bba787f9dba2",
+    "trader": {
+      "rank": 14,
+      "address": "0x5e4c3b5b81171e2ca4ab776ac0d6bba787f9dba2",
+      "username": "endlessFate",
+      "profit": 7409836.65260974,
+      "volume": 26282164.742856003,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xf3a4710f66a6d9eeb081af71dc7b7fb5d1ac097f",
+      "side": "BUY",
+      "asset": "59376244379747988336832016917908236721650516433890704080422157946407884434153",
+      "conditionId": "0xc09537a0976d0927901432859fbb6dfe5d23d1d69bb4e8355253e7b142a44e83",
+      "size": 4958.677683,
+      "price": 0.605,
+      "timestamp": 1783631150,
+      "title": "Will France win on 2026-07-09?",
+      "slug": "fifwc-fra-mar-2026-07-09-fra",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "",
+      "outcome": "Yes",
+      "outcomeIndex": 999,
+      "name": "comfyinyes",
+      "pseudonym": "Trim-Place",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xfb2fb465a2d06ffda33df5727785363420341a31543197944e3090f73e90123e",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will France win on 2026-07-09?",
+    "market_slug": "fifwc-fra-mar-2026-07-09-fra",
+    "amount": 2999.999998215
   }
 ]
