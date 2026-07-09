@@ -1,206 +1,5 @@
 [
   {
-    "market": "Israel x Iran permanent peace deal by April 30, 2026?",
-    "market_slug": "israel-x-iran-permanent-peace-deal-by-april-30-2026",
-    "event_slug": "israel-x-iran-permanent-peace-deal-by-april-30-2026",
-    "wallet": "0x1f5e99b7049afa2649c5c5a1bef453ed9dea3881",
-    "analysis": {
-      "score": 105,
-      "flags": [
-        "New wallet (1d old)",
-        "Against trend (3.0% effective odds)",
-        "Pre-event latency: 6545m"
-      ],
-      "amount": 60.00690800000007,
-      "odds": 0.030050078108539102,
-      "raw_price": 0.9699499218914609,
-      "outcome": "No",
-      "potential_pnl": 1936.8899979999999,
-      "pnl_multiplier": 32.27778371783458,
-      "wallet_age_days": 1,
-      "total_activities": 5
-    },
-    "timestamp": "2026-04-25T11:04:30.507383",
-    "trade_hash": "0x36119fa40bb8dc96ab69707e1fec4447522369228b9de99aae9301bcfeb3324b",
-    "trade_timestamp": 1777114510,
-    "latency": {
-      "latency_seconds": 392690.0,
-      "latency_minutes": 6544.833333333333,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-04-25T10:55:10+00:00",
-      "event_time": "2026-04-30T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "normalized_position": "NO",
-      "side": "BUY",
-      "price": 0.9699499218914609,
-      "effective_price": 0.9699499218914609,
-      "size": 1996.896906,
-      "amount": 1936.8899979999999,
-      "potential_pnl": 60.00690800000007,
-      "pnl_multiplier": 0.030981061424222436,
-      "is_no": true,
-      "slug": "israel-x-iran-permanent-peace-deal-by-april-30-2026",
-      "eventSlug": "israel-x-iran-permanent-peace-deal-by"
-    },
-    "irrationality": {
-      "irrationality_score": 40,
-      "flags": [
-        "Category structurally prone to longshot bias",
-        "Large mispricing edge (+47.0%)"
-      ],
-      "category": "geopolitics",
-      "category_info": {
-        "strength": "high",
-        "typical_overpricing": 0.05,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.5,
-      "market_price": 0.9699499218914609,
-      "edge": 0.4699499218914609,
-      "edge_percent": 46.99499218914609,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "low"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 2,
-        "conditions": [
-          "Unknown"
-        ],
-        "weakest_link": "Unknown"
-      },
-      "category": "geopolitics",
-      "narrative_drivers": [
-        "Unknown"
-      ],
-      "confidence_in_analysis": "low"
-    },
-    "combined_signal": {
-      "signal_type": "ALPHA",
-      "signal_emoji": "\ud83d\udd25",
-      "signal_strength": 145,
-      "interpretation": "Smart money (NO) confirms YES is overpriced",
-      "action_suggestion": "High conviction: insider + statistics aligned",
-      "insider_score": 105,
-      "insider_position": "NO",
-      "irrationality_score": 40,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.4699499218914609,
-      "edge_percent": 46.99499218914609
-    },
-    "financial_analyst": {
-      "signal_quality": 88.0,
-      "stance": "HIGH_CONVICTION",
-      "edge_percent": 46.99,
-      "signal_strength": 145.0,
-      "insider_score": 105.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-04-26T07:34:57.611593+00:00"
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xe333b8d92a9836aadece422bede1cb7e928df6b9834aa96388d7f0505fa1d09a",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.51568201,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x85d53efdd055aa88fb00a914f5615bfd585545ee",
-      "side": "BUY",
-      "asset": "61747352553467640079819859591628914841222586089567071357008386638333293250154",
-      "conditionId": "0x174ce5eab470d0e8b588f2e02ee5a41ab29d2af6185e5f4fb272507000474399",
-      "size": 4945.02,
-      "price": 0.8968526719811042,
-      "timestamp": 1777115080,
-      "title": "LoL: Dplus KIA vs DN SOOPers - Game 1 Winner",
-      "slug": "lol-dk-dnf-2026-04-25-game1",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
-      "eventSlug": "lol-dk-dnf-2026-04-25",
-      "outcome": "Dplus KIA",
-      "outcomeIndex": 0,
-      "name": "retroactivesource",
-      "pseudonym": "Black-And-White-Catalogue",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xe333b8d92a9836aadece422bede1cb7e928df6b9834aa96388d7f0505fa1d09a",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "LoL: Dplus KIA vs DN SOOPers - Game 1 Winner",
-    "market_slug": "lol-dk-dnf-2026-04-25",
-    "amount": 4434.9544000000005
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x057879044ed7ebbed43780293dcc102f651395a7b8048242800e76bf34802791",
-    "wallet": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
-    "trader": {
-      "rank": 15,
-      "address": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
-      "username": "gmanas",
-      "profit": 4955880.748692186,
-      "volume": 529047708.505991,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xef62ee9c449b67cbeaed565e8fade3aef2cfcf76",
-      "side": "BUY",
-      "asset": "75791588939410112639384693046978638410356588482978726924796539273380756317963",
-      "conditionId": "0x5b3f43ea99e3782e460ecd5ac5ed1d4e8fb179ddab7190a58cb41faee61db1fa",
-      "size": 5102.040815,
-      "price": 0.4899999999314,
-      "timestamp": 1777129706,
-      "title": "Dota 2: Aurora vs BetBoom Team (BO3) - PGL Wallachia Playoffs",
-      "slug": "dota2-aur1-bb4-2026-04-25",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/dota2-7ffacddb21.jpg",
-      "eventSlug": "dota2-aur1-bb4-2026-04-25",
-      "outcome": "BetBoom Team",
-      "outcomeIndex": 1,
-      "name": "montechristo777",
-      "pseudonym": "Frayed-Nursery",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x057879044ed7ebbed43780293dcc102f651395a7b8048242800e76bf34802791",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Dota 2: Aurora vs BetBoom Team (BO3) - PGL Wallachia Playoffs",
-    "market_slug": "dota2-aur1-bb4-2026-04-25",
-    "amount": 2499.999999
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0x17fdf661dd0b1f5e3c6ae98e8637b327b7382286d9838063e745151fb19a20b1",
     "wallet": "0xd0c042c08f755ff940249f62745e82d356345565",
@@ -27203,5 +27002,137 @@
     "market": "Houston Astros vs. Washington Nationals: O/U 9.5",
     "market_slug": "mlb-hou-wsh-2026-07-08-total-9pt5",
     "amount": 3971.8584001800004
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xc283c060c342a3b64e0c100ceffd8b176454f52687469aa987995dbe5ccc2dcf",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+      "side": "BUY",
+      "asset": "59345037446963453328009401579108452500216663710704029096023398635104676561172",
+      "conditionId": "0x74cce8ceff0d994e603a670f90378207cad2cfc2f3f48f0cd2ec732bbb89e4fe",
+      "size": 5287.404061,
+      "price": 0.6398924614,
+      "timestamp": 1783611926,
+      "title": "Will N\u00f5mme Kalju FC win on 2026-07-09?",
+      "slug": "col-nom-lin1-2026-07-09-nom",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/uefa-conference-league-798904aed0.png",
+      "eventSlug": "col-nom-lin1-2026-07-09",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "",
+      "pseudonym": "",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xc283c060c342a3b64e0c100ceffd8b176454f52687469aa987995dbe5ccc2dcf",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will N\u00f5mme Kalju FC win on 2026-07-09?",
+    "market_slug": "col-nom-lin1-2026-07-09",
+    "amount": 3383.3699990096457
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x81bbaebfd261507d9a1bd488bc884ac8ccc718592219afc268cabdde64fac4ed",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xef62ee9c449b67cbeaed565e8fade3aef2cfcf76",
+      "side": "BUY",
+      "asset": "65984611303909407052169607993537741220891602509766446043631462077119911368849",
+      "conditionId": "0x868d295d9e0d6f777b7f4e6abb45f5d02e2f0281bb12b857f6375f7ecc8c91e5",
+      "size": 2369.544827,
+      "price": 0.8440439587,
+      "timestamp": 1783611926,
+      "title": "Dota 2: MOUZ vs Team Nemesis - Game 1 Winner",
+      "slug": "dota2-mouz-nem-2026-07-09-game1",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/dota2-7ffacddb21.jpg",
+      "eventSlug": "",
+      "outcome": "MOUZ",
+      "outcomeIndex": 999,
+      "name": "montechristo777",
+      "pseudonym": "Frayed-Nursery",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x81bbaebfd261507d9a1bd488bc884ac8ccc718592219afc268cabdde64fac4ed",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Dota 2: MOUZ vs Team Nemesis - Game 1 Winner",
+    "market_slug": "dota2-mouz-nem-2026-07-09-game1",
+    "amount": 1999.9999960981868
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x0f7de0e48409b6d02483540ff6f82e6dbcfce3829e78a6557aa862518a50f0e1",
+    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
+    "trader": {
+      "rank": 11,
+      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
+      "username": "zxgngl",
+      "profit": 7807265.589240883,
+      "volume": 40551790.62184699,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+      "side": "BUY",
+      "asset": "106453679403381187580182849518598946739738022045570479649673270466317548650537",
+      "conditionId": "0xd7cf3f4318d38dd719f1e14f0220d34f9c8900dfb6fbd96fdb2aacad9eccff26",
+      "size": 6992.1,
+      "price": 0.6064920124,
+      "timestamp": 1783612228,
+      "title": "Wimbledon WTA: Marta Kostyuk vs Linda Noskova",
+      "slug": "wta-kostyuk-noskova-2026-07-09",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wta-logo-41f331bdf1.png",
+      "eventSlug": "",
+      "outcome": "Marta Kostyuk",
+      "outcomeIndex": 999,
+      "name": "",
+      "pseudonym": "",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x0f7de0e48409b6d02483540ff6f82e6dbcfce3829e78a6557aa862518a50f0e1",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Wimbledon WTA: Marta Kostyuk vs Linda Noskova",
+    "market_slug": "wta-kostyuk-noskova-2026-07-09",
+    "amount": 4240.65279990204
   }
 ]
