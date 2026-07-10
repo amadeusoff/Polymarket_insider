@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x71b7a6a4b532ef5c4e1b204c1a7aa733dd74089ecccd8db05fecbaff7cefa056",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x2e01832a5646266682fe53adb6e428bc9d7c0875",
-      "side": "BUY",
-      "asset": "96017834667277346209400595012200511732225955280429218140922779061424591683484",
-      "conditionId": "0x9b94e927fdd5228e9063a2793fac3206065e1f970e988a33f3664ce76430b638",
-      "size": 3940,
-      "price": 0.5,
-      "timestamp": 1777236554,
-      "title": "Celtics vs. 76ers: O/U 213.5",
-      "slug": "nba-bos-phi-2026-04-26-total-213pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-bos-phi-2026-04-26",
-      "outcome": "Over",
-      "outcomeIndex": 0,
-      "name": "yyd33886",
-      "pseudonym": "Chubby-Special",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x71b7a6a4b532ef5c4e1b204c1a7aa733dd74089ecccd8db05fecbaff7cefa056",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Celtics vs. 76ers: O/U 213.5",
-    "market_slug": "nba-bos-phi-2026-04-26",
-    "amount": 1970.0
-  },
-  {
     "market": "Trump announces end of military operations against Iran by April 30th?",
     "market_slug": "trump-announces-end-of-military-operations-against-iran-by-april-30th-753-882-164-769-641",
     "event_slug": "trump-announces-end-of-military-operations-against-iran-by-april-30th-753-882-164-769-641",
@@ -27194,5 +27150,49 @@
     "market": "Will Spain win on 2026-07-10?",
     "market_slug": "fifwc-esp-bel-2026-07-10-esp",
     "amount": 1879.865499889532
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x2576e2748f4c266d6c791ed64654a97e68080ae290eb9325cb867fe188ec4ba1",
+    "wallet": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+    "trader": {
+      "rank": 17,
+      "address": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+      "username": "walletmobile",
+      "profit": 5942685.45339684,
+      "volume": 32196692.075936034,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x2e5846418eca803223e6c26e66c779c93066cb43",
+      "side": "SELL",
+      "asset": "34251749207551471121840884493743191038910271435893458985841061430980633229047",
+      "conditionId": "0xeae721852cc3234aadb4ed631bc3457f2a8f16240d04b759995c83725364aa44",
+      "size": 13635.68,
+      "price": 0.1413947783,
+      "timestamp": 1783716728,
+      "title": "Exact Score: Spain 3 - 1 Belgium?",
+      "slug": "fifwc-esp-bel-2026-07-10-exact-score-3-1",
+      "icon": "",
+      "eventSlug": "",
+      "outcome": "Yes",
+      "outcomeIndex": 999,
+      "name": "",
+      "pseudonym": "",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x2576e2748f4c266d6c791ed64654a97e68080ae290eb9325cb867fe188ec4ba1",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Exact Score: Spain 3 - 1 Belgium?",
+    "market_slug": "fifwc-esp-bel-2026-07-10-exact-score-3-1",
+    "amount": 1928.0139505697439
   }
 ]
