@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x2c5fa8e84ef53d8fa610d3b15282a56dcc3ba50e3c53afe0f3778f72252d86e6",
-    "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
-    "trader": {
-      "rank": 7,
-      "address": "0x863134d00841b2e200492805a01e1e2f5defaa53",
-      "username": "RepTrump",
-      "profit": 7532409.671579,
-      "volume": 13983231.103425002,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x53757615de1c42b83f893b79d4241a009dc2aeea",
-      "side": "BUY",
-      "asset": "41772102129198252435268395441232788537892915035660994488552295928531028880890",
-      "conditionId": "0xf752c3ec9526de39530718246fcf9a69c4bc883191c8fc994eb4d43990c49030",
-      "size": 6148.3871,
-      "price": 0.39,
-      "timestamp": 1777147114,
-      "title": "Thunder vs. Suns",
-      "slug": "nba-okc-phx-2026-04-25",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-okc-phx-2026-04-25",
-      "outcome": "Suns",
-      "outcomeIndex": 1,
-      "name": "",
-      "pseudonym": "",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x2c5fa8e84ef53d8fa610d3b15282a56dcc3ba50e3c53afe0f3778f72252d86e6",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Thunder vs. Suns",
-    "market_slug": "nba-okc-phx-2026-04-25",
-    "amount": 2397.870969
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x71413e0a2a142b52c988130c1820e7e3dd068d1c60ec278029fd1d928f765a89",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -27133,5 +27089,49 @@
     "market": "Spread: Milwaukee Brewers (-1.5)",
     "market_slug": "mlb-mil-stl-2026-07-09-spread-away-1pt5",
     "amount": 2076.5306001
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xbfaf750ed9c1b7f707ee88a4daa3c785a8f876971fc13ec1f9f983fba18659f9",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x6e44a4ceea65c897ff6b728b88b69cfc1d7821bc",
+      "side": "BUY",
+      "asset": "87246319049213495503746453160697207348299771605125518926363622846506823742356",
+      "conditionId": "0x7664d545626cce2926008f88cf77c53e705c817404ada24e31d638e4031c8645",
+      "size": 2000,
+      "price": 0.7698,
+      "timestamp": 1783687897,
+      "title": "Dota 2: L1ga Team vs Team Liquid - Game 2 Winner",
+      "slug": "dota2-l1ga-liquid-2026-07-10-game2",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/dota2-7ffacddb21.jpg",
+      "eventSlug": "dota2-l1ga-liquid-2026-07-10",
+      "outcome": "Team Liquid",
+      "outcomeIndex": 1,
+      "name": "Mimiza",
+      "pseudonym": "Green-Confidentiality",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xbfaf750ed9c1b7f707ee88a4daa3c785a8f876971fc13ec1f9f983fba18659f9",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Dota 2: L1ga Team vs Team Liquid - Game 2 Winner",
+    "market_slug": "dota2-l1ga-liquid-2026-07-10",
+    "amount": 1539.6000000000001
   }
 ]
