@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x5de0956759e457688c32766d498538c756951e056f2deb392ff2c3fb705dc933",
-    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-    "trader": {
-      "rank": 17,
-      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
-      "profit": 4552078.393957778,
-      "volume": 60197195.49364801,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x0f3433d8b7596000bf1046aa822308d93cf67684",
-      "side": "BUY",
-      "asset": "81158099902982127767655382821085776846834135588627211437287604861607234240992",
-      "conditionId": "0x2192a9594fcbba5de511de143814109a0874897b9c2ffa4f53f37194400dc276",
-      "size": 4041.2015,
-      "price": 0.45,
-      "timestamp": 1777144714,
-      "title": "Will Club Atl\u00e9tico de Madrid win on 2026-04-25?",
-      "slug": "lal-mad-bil-2026-04-25-mad",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-lal.png",
-      "eventSlug": "lal-mad-bil-2026-04-25",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "",
-      "pseudonym": "",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x5de0956759e457688c32766d498538c756951e056f2deb392ff2c3fb705dc933",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Club Atl\u00e9tico de Madrid win on 2026-04-25?",
-    "market_slug": "lal-mad-bil-2026-04-25",
-    "amount": 1818.5406750000002
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x2c5fa8e84ef53d8fa610d3b15282a56dcc3ba50e3c53afe0f3778f72252d86e6",
     "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
     "trader": {
@@ -27133,5 +27089,49 @@
     "market": "Will France win on 2026-07-09?",
     "market_slug": "fifwc-fra-mar-2026-07-09-fra",
     "amount": 2999.999998215
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x60a42b3a4a6278bef5ae5361dc1641f3109a99679256212a6b664a3b6c1d0fa9",
+    "wallet": "0xed64a7bf029040aa331abc87902434d815ef217d",
+    "trader": {
+      "rank": 7,
+      "address": "0xed64a7bf029040aa331abc87902434d815ef217d",
+      "username": "fishalive",
+      "profit": 9063378.176199999,
+      "volume": 13281460.374667995,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x8201c74931d47ca0151715d43406a5eebe208a41",
+      "side": "BUY",
+      "asset": "115391079525114439648630736944889282154939011717366177877918944262804230853671",
+      "conditionId": "0x7757f48b239d7bddd3d283bf1a31a9aab178f9dd271bd4f0fa5e3794ec3e0d0f",
+      "size": 3000,
+      "price": 0.6921768667,
+      "timestamp": 1783641362,
+      "title": "Spread: Milwaukee Brewers (-1.5)",
+      "slug": "mlb-mil-stl-2026-07-09-spread-away-1pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
+      "eventSlug": "",
+      "outcome": "St. Louis Cardinals",
+      "outcomeIndex": 999,
+      "name": "ColeDollarScholar",
+      "pseudonym": "Far-Flung-Pair-Interferometer",
+      "bio": "Find me at ColeBartiromo on IG YT X etc the laugh at your debt podcast is coming soon.",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-8478581-1860b5e7-24c2-418d-acb1-1c37c0d401ee.png",
+      "profileImageOptimized": "",
+      "transactionHash": "0x60a42b3a4a6278bef5ae5361dc1641f3109a99679256212a6b664a3b6c1d0fa9",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spread: Milwaukee Brewers (-1.5)",
+    "market_slug": "mlb-mil-stl-2026-07-09-spread-away-1pt5",
+    "amount": 2076.5306001
   }
 ]
