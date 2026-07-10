@@ -1,117 +1,5 @@
 [
   {
-    "market": "Trump announces end of military operations against Iran by April 30th?",
-    "market_slug": "trump-announces-end-of-military-operations-against-iran-by-april-30th-753-882-164-769-641",
-    "event_slug": "trump-announces-end-of-military-operations-against-iran-by-april-30th-753-882-164-769-641",
-    "wallet": "0xf9c1190aa8184bcbe418e6f5321c53b0bfbc39e2",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (4d old)",
-        "Against trend (4.0% effective odds)",
-        "Pre-event latency: 4334m"
-      ],
-      "amount": 444.7424000000004,
-      "odds": 0.040000000000000036,
-      "raw_price": 0.96,
-      "outcome": "No",
-      "potential_pnl": 10673.817599999998,
-      "pnl_multiplier": 23.999999999999975,
-      "wallet_age_days": 4,
-      "total_activities": 100
-    },
-    "timestamp": "2026-04-26T23:55:14.534698",
-    "trade_hash": "0x250c25e688ed22aeb31827d9032695f2a9ed4661266debe22011a05c976dd2cd",
-    "trade_timestamp": 1777247144,
-    "latency": {
-      "latency_seconds": 260056.0,
-      "latency_minutes": 4334.266666666666,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-04-26T23:45:44+00:00",
-      "event_time": "2026-04-30T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "normalized_position": "NO",
-      "side": "BUY",
-      "price": 0.96,
-      "effective_price": 0.96,
-      "size": 11118.56,
-      "amount": 10673.817599999998,
-      "potential_pnl": 444.742400000001,
-      "pnl_multiplier": 0.04166666666666677,
-      "is_no": true,
-      "slug": "trump-announces-end-of-military-operations-against-iran-by-april-30th-753-882-164-769-641",
-      "eventSlug": "trump-announces-end-of-military-operations-against-iran-by"
-    },
-    "irrationality": {
-      "irrationality_score": 40,
-      "flags": [
-        "Category structurally prone to longshot bias",
-        "Large mispricing edge (+46.0%)"
-      ],
-      "category": "geopolitics",
-      "category_info": {
-        "strength": "high",
-        "typical_overpricing": 0.05,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.5,
-      "market_price": 0.96,
-      "edge": 0.45999999999999996,
-      "edge_percent": 46.0,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "low"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 2,
-        "conditions": [
-          "Unknown"
-        ],
-        "weakest_link": "Unknown"
-      },
-      "category": "geopolitics",
-      "narrative_drivers": [
-        "Unknown"
-      ],
-      "confidence_in_analysis": "low"
-    },
-    "combined_signal": {
-      "signal_type": "ALPHA",
-      "signal_emoji": "\ud83d\udd25",
-      "signal_strength": 125,
-      "interpretation": "Smart money (NO) confirms YES is overpriced",
-      "action_suggestion": "High conviction: insider + statistics aligned",
-      "insider_score": 85,
-      "insider_position": "NO",
-      "irrationality_score": 40,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.45999999999999996,
-      "edge_percent": 46.0
-    },
-    "financial_analyst": {
-      "signal_quality": 85.0,
-      "stance": "HIGH_CONVICTION",
-      "edge_percent": 46.0,
-      "signal_strength": 125.0,
-      "insider_score": 85.0,
-      "risk_note": "High stake detected \u2014 copy with reduced sizing (25-40% of source risk)."
-    }
-  },
-  {
     "market": "Dota 2: 1win vs Power Rangers (BO3) - DreamLeague Division 2 Playoffs",
     "market_slug": "dota2-1win-pr1-2026",
     "event_slug": "dota2-1win-pr1-2026",
@@ -27194,5 +27082,49 @@
     "market": "Exact Score: Spain 3 - 1 Belgium?",
     "market_slug": "fifwc-esp-bel-2026-07-10-exact-score-3-1",
     "amount": 1928.0139505697439
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xda6b609597f7e0657ed1341a28b2e40e1b8a7310bfe760eba571b74b83a57fe4",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x0a61b93aadb6d96170fd4189da71e639affe2727",
+      "side": "SELL",
+      "asset": "112680630004798425069810935278212000865453267506345451433803052322987302357330",
+      "conditionId": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+      "size": 4000.01,
+      "price": 0.788,
+      "timestamp": 1783719728,
+      "title": "Will Spain win the 2026 FIFA World Cup?",
+      "slug": "will-spain-win-the-2026-fifa-world-cup-963",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/world-cup-winner-spain-flag-20260603-192743.png",
+      "eventSlug": "",
+      "outcome": "No",
+      "outcomeIndex": 999,
+      "name": "Karammmba",
+      "pseudonym": "Triangular-Incense",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xda6b609597f7e0657ed1341a28b2e40e1b8a7310bfe760eba571b74b83a57fe4",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Spain win the 2026 FIFA World Cup?",
+    "market_slug": "will-spain-win-the-2026-fifa-world-cup-963",
+    "amount": 3152.00788
   }
 ]
