@@ -1,93 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x1c9011b92412a82cb6d0ecfce891b88957cfc5b346988beaf96f219de9484b14",
-    "wallet": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
-    "trader": {
-      "rank": 16,
-      "address": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
-      "username": "GamblingIsAllYouNeed",
-      "profit": 4764639.758240484,
-      "volume": 386988045.98067296,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xc0ff6a9ac424210cf218fda5c5753324c34a9953",
-      "side": "BUY",
-      "asset": "90354743432236305475508196592143013969221071217938704969309359212626908715363",
-      "conditionId": "0x8bd45d7a46bf2903a0d25923f292eae410ad221ac499517f23f6c1aa49c9d3b2",
-      "size": 5562.47,
-      "price": 0.78,
-      "timestamp": 1777411334,
-      "title": "Madrid Open: Daniil Medvedev vs Flavio Cobolli",
-      "slug": "atp-medvede-cobolli-2026-04-28",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
-      "eventSlug": "atp-medvede-cobolli-2026-04-28",
-      "outcome": "Daniil Medvedev",
-      "outcomeIndex": 0,
-      "name": "Runaround",
-      "pseudonym": "Strange-Guy",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x1c9011b92412a82cb6d0ecfce891b88957cfc5b346988beaf96f219de9484b14",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Madrid Open: Daniil Medvedev vs Flavio Cobolli",
-    "market_slug": "atp-medvede-cobolli-2026-04-28",
-    "amount": 4338.7266
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x88e09c1f2cae963102818f33f4404efc26b6a21913213b35188159bf7fda1eb8",
-    "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
-    "trader": {
-      "rank": 13,
-      "address": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
-      "username": "mikatrade77",
-      "profit": 5147998.544602999,
-      "volume": 10884765.388775,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
-      "side": "BUY",
-      "asset": "27472202423687732407729356549910447971888419661396814056553564805517349013409",
-      "conditionId": "0xd06c1756f71a818fbce16d630ef0e61b2bc6f7870973406b7ff8026acf176af5",
-      "size": 2657.06,
-      "price": 0.64,
-      "timestamp": 1777460994,
-      "title": "Madrid Open: Karolina Pliskova vs Anastasia Potapova",
-      "slug": "wta-pliskov-potapov-2026-04-29",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wta-logo-41f331bdf1.png",
-      "eventSlug": "wta-pliskov-potapov-2026-04-29",
-      "outcome": "Anastasia Potapova",
-      "outcomeIndex": 1,
-      "name": "tradecraft",
-      "pseudonym": "Slow-Escape",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-1439403-31bec8e6-a9d5-45d6-8c20-964f07c7fdb2.webp",
-      "profileImageOptimized": "",
-      "transactionHash": "0x88e09c1f2cae963102818f33f4404efc26b6a21913213b35188159bf7fda1eb8",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Madrid Open: Karolina Pliskova vs Anastasia Potapova",
-    "market_slug": "wta-pliskov-potapov-2026-04-29",
-    "amount": 1700.5184
-  },
-  {
     "market": "Counter-Strike: Astralis vs G2 (BO3) - BLAST Rivals Group A",
     "market_slug": "cs2-ast10-g2-2026",
     "event_slug": "cs2-ast10-g2-2026",
@@ -27122,5 +27034,93 @@
     "market": "Milwaukee Brewers vs. Pittsburgh Pirates",
     "market_slug": "mlb-mil-pit-2026-07-10",
     "amount": 2840.341200166008
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x67f30abcc910fa5a4d060b7cc864e4500e84d1add817106226a65db610e5e252",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xecaa8806a9a05049d7d5260a33dc924220e377a9",
+      "side": "BUY",
+      "asset": "95101961600645744157905645773028545628965230149679116403882161581994746824439",
+      "conditionId": "0x180bce419c2b5ea2178514571c50c9d5ada7b85fd409e7088ff5d0d42e7fe867",
+      "size": 3900,
+      "price": 0.58,
+      "timestamp": 1783794541,
+      "title": "Norway vs. England: O/U 2.5",
+      "slug": "fifwc-nor-eng-2026-07-11-total-2pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "",
+      "outcome": "Over",
+      "outcomeIndex": 999,
+      "name": "Melody626",
+      "pseudonym": "Sweet-Failure",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x67f30abcc910fa5a4d060b7cc864e4500e84d1add817106226a65db610e5e252",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Norway vs. England: O/U 2.5",
+    "market_slug": "fifwc-nor-eng-2026-07-11-total-2pt5",
+    "amount": 2262.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x7d99ce5f1212f849c98ffbc135f3137ccb776e4e14c7011002fd903934b8a3d6",
+    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+    "trader": {
+      "rank": 19,
+      "address": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+      "username": "BetTom42",
+      "profit": 5642135.735356,
+      "volume": 11212839.523403002,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x1003c1f0b088ce0bfe40d771526e134210e90420",
+      "side": "BUY",
+      "asset": "108233603819467706476318984012158651931658302669301887462181073562758483842092",
+      "conditionId": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
+      "size": 20169.255337,
+      "price": 0.3821330966,
+      "timestamp": 1783795141,
+      "title": "Will France win the 2026 FIFA World Cup?",
+      "slug": "will-france-win-the-2026-fifa-world-cup-924",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/world-cup-winner-france-flag-20260603-192743.png",
+      "eventSlug": "",
+      "outcome": "Yes",
+      "outcomeIndex": 999,
+      "name": "Haruki19",
+      "pseudonym": "Conventional-Tailspin",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x7d99ce5f1212f849c98ffbc135f3137ccb776e4e14c7011002fd903934b8a3d6",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will France win the 2026 FIFA World Cup?",
+    "market_slug": "will-france-win-the-2026-fifa-world-cup-924",
+    "amount": 7707.339998043886
   }
 ]
