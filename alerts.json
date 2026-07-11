@@ -1,94 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x81fcc38f685a3f3f50272861e32ccfcbd8c7f6ce8208006ec2665b303e5f60fa",
-    "wallet": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
-    "trader": {
-      "rank": 19,
-      "address": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
-      "username": "Jenzigo",
-      "profit": 4049827.0941029997,
-      "volume": 9457725.034338009,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xe6dde73456b7f7c44801a6559c358d26bdfcedaf",
-      "side": "BUY",
-      "asset": "28566235647745140324272418211539415070831226197180722514331674870399690212442",
-      "conditionId": "0xa1fd631a50fccfea882246f7f90652e932f8f1cbc04154da3fd3af63ec322ea6",
-      "size": 4996.774192,
-      "price": 0.30999999989593285,
-      "timestamp": 1777553948,
-      "title": "LoL: Ultra Prime vs EDward Gaming - Game 2 Winner",
-      "slug": "lol-up-edg-2026-04-30-game2",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
-      "eventSlug": "lol-up-edg-2026-04-30",
-      "outcome": "Ultra Prime",
-      "outcomeIndex": 0,
-      "name": "NiuBot",
-      "pseudonym": "Affectionate-Blast",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x81fcc38f685a3f3f50272861e32ccfcbd8c7f6ce8208006ec2665b303e5f60fa",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "LoL: Ultra Prime vs EDward Gaming - Game 2 Winner",
-    "market_slug": "lol-up-edg-2026-04-30",
-    "amount": 1548.999999
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x1731dbb06d2f03a4dcd3ef87206ca1147e70ca01c250f001355cd669271528db",
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "trader": {
-      "rank": 8,
-      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-      "username": "swisstony",
-      "profit": 6748229.918143615,
-      "volume": 713062318.5789,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x02942f8b0e46f79f6235bdb25463b4f40b55138c",
-      "side": "BUY",
-      "asset": "11772943590797148150558408112775494172094996400383163453529664517279554838041",
-      "conditionId": "0xca8923b28700990bcc11deff9e12a9e53327e3afe07ceacb8785c935465736d1",
-      "size": 4390.23,
-      "price": 0.41,
-      "timestamp": 1777568024,
-      "title": "SC Braga vs. SC Freiburg: O/U 2.5",
-      "slug": "uel-scb-scf-2026-04-30-total-2pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/uel.png",
-      "eventSlug": "uel-scb-scf-2026-04-30-more-markets",
-      "outcome": "Over",
-      "outcomeIndex": 0,
-      "name": "oilioili7",
-      "pseudonym": "Taut-Juggernaut",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x1731dbb06d2f03a4dcd3ef87206ca1147e70ca01c250f001355cd669271528db",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "SC Braga vs. SC Freiburg: O/U 2.5",
-    "market_slug": "uel-scb-scf-2026-04-30-more-markets",
-    "amount": 1799.9942999999996
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x8adeea6e976ad93b9805d238a1091c5027d8dbf9fa775e8369ffcae74aab1900",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -27233,6 +27145,212 @@
       "signal_quality": 25.5,
       "stance": "WATCH_ONLY",
       "edge_percent": 0.99,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Norway vs. England: Team to Advance",
+    "market_slug": "fifwc-nor-eng-2026-07-11-team-to-advance",
+    "event_slug": "fifwc-nor-eng-2026-07-11-team-to-advance",
+    "wallet": "0xa1d478f9d8a195b62069222244dd42bdb426bb8d",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (2d old)",
+        "Large bet ($3,358)",
+        "Low activity (3 txns)"
+      ],
+      "amount": 3357.989999295871,
+      "odds": 0.1110947073,
+      "raw_price": 0.1110947073,
+      "outcome": "Norway",
+      "potential_pnl": 26868.38244370413,
+      "pnl_multiplier": 8.001328904891944,
+      "wallet_age_days": 2,
+      "total_activities": 3
+    },
+    "timestamp": "2026-07-11T23:33:02.933773",
+    "trade_hash": "0xe0fdfb4725dd805cb37ec387efaa7e9441ba533c9c06d1d66ad8898a48bc1abd",
+    "trade_timestamp": 1783812284,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Norway",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.1110947073,
+      "effective_price": 0.1110947073,
+      "size": 30226.372443,
+      "amount": 3357.989999295871,
+      "potential_pnl": 26868.38244370413,
+      "pnl_multiplier": 8.001328904891944,
+      "is_no": false,
+      "slug": "fifwc-nor-eng-2026-07-11-team-to-advance",
+      "eventSlug": "fifwc-nor-eng-2026-07-11-more-markets"
+    },
+    "irrationality": {
+      "irrationality_score": 25,
+      "flags": [
+        "Longshot (11%) in medium bias category (sports)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.06693788292000001,
+      "market_price": 0.1110947073,
+      "edge": 0.04415682437999999,
+      "edge_percent": 4.415682437999998,
+      "min_edge_required": 0.05,
+      "is_mispriced": false,
+      "edge_quality": "WEAK",
+      "base_rate_class": "rare",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "rare",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 25,
+      "is_irrational": false,
+      "is_mispriced": false,
+      "edge": 0.04415682437999999,
+      "edge_percent": 4.415682437999998
+    },
+    "financial_analyst": {
+      "signal_quality": 30.6,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 4.42,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "UFC 329: Max Holloway vs. Conor McGregor (Welterweight, Main Card)",
+    "market_slug": "ufc-max1-con-2026",
+    "event_slug": "ufc-max1-con-2026",
+    "wallet": "0x03025e322fc359e3aa4c88ceb3d0cacc6ad91457",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,711)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 1711.3499990061669,
+      "odds": 0.2699999999,
+      "raw_price": 0.2699999999,
+      "outcome": "Conor McGregor",
+      "potential_pnl": 4626.983332993834,
+      "pnl_multiplier": 2.7037037050754456,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-07-11T23:33:11.538448",
+    "trade_hash": "0xf30036ed0db6692d6228e9009650b3b41f67c03374ff9bf56ac707f57e4f4dc3",
+    "trade_timestamp": 1783812332,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Conor McGregor",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.2699999999,
+      "effective_price": 0.2699999999,
+      "size": 6338.333332,
+      "amount": 1711.3499990061669,
+      "potential_pnl": 4626.983332993834,
+      "pnl_multiplier": 2.7037037050754456,
+      "is_no": false,
+      "slug": "ufc-max1-con-2026",
+      "eventSlug": "ufc-max1-con-2026-07-11"
+    },
+    "irrationality": {
+      "irrationality_score": 10,
+      "flags": [],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.26549999995999995,
+      "market_price": 0.2699999999,
+      "edge": 0.0044999999400000545,
+      "edge_percent": 0.44999999400000545,
+      "min_edge_required": 0.05,
+      "is_mispriced": false,
+      "edge_quality": "WEAK",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "NO",
+      "irrationality_score": 10,
+      "is_irrational": false,
+      "is_mispriced": false,
+      "edge": 0.0044999999400000545,
+      "edge_percent": 0.44999999400000545
+    },
+    "financial_analyst": {
+      "signal_quality": 21.7,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 0.45,
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
