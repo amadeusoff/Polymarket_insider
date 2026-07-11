@@ -1,154 +1,5 @@
 [
   {
-    "market": "Counter-Strike: Astralis vs G2 (BO3) - BLAST Rivals Group A",
-    "market_slug": "cs2-ast10-g2-2026",
-    "event_slug": "cs2-ast10-g2-2026",
-    "wallet": "0x9368eb0e0e2ff384095a88960c5a494fed1580a3",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($2,000)",
-        "Low activity (4 txns)"
-      ],
-      "amount": 1999.999999,
-      "odds": 0.559999999944,
-      "raw_price": 0.559999999944,
-      "outcome": "G2",
-      "potential_pnl": 1571.4285710000001,
-      "pnl_multiplier": 0.7857142858928573,
-      "wallet_age_days": 0,
-      "total_activities": 4
-    },
-    "timestamp": "2026-04-29T16:55:28.073982",
-    "trade_hash": "0xa884b22eaeade1aaea185a14695bb01fce404094f720d023e624735baed9de55",
-    "trade_timestamp": 1777481364,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "G2",
-      "outcomeIndex": 1,
-      "normalized_position": "NO",
-      "side": "BUY",
-      "price": 0.559999999944,
-      "effective_price": 0.559999999944,
-      "size": 3571.42857,
-      "amount": 1999.999999,
-      "potential_pnl": 1571.4285710000001,
-      "pnl_multiplier": 0.7857142858928573,
-      "is_no": false,
-      "slug": "cs2-ast10-g2-2026",
-      "eventSlug": "cs2-ast10-g2-2026-04-29"
-    },
-    "irrationality": {
-      "irrationality_score": 45,
-      "flags": [
-        "Crisis keyword detected ('strike')",
-        "Large mispricing edge (+17.8%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.3814999999776,
-      "market_price": 0.559999999944,
-      "edge": 0.17849999996639998,
-      "edge_percent": 17.849999996639998,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "low"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 2,
-        "conditions": [
-          "Unknown"
-        ],
-        "weakest_link": "Unknown"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Unknown"
-      ],
-      "confidence_in_analysis": "low"
-    },
-    "combined_signal": {
-      "signal_type": "ALPHA",
-      "signal_emoji": "\ud83d\udd25",
-      "signal_strength": 115,
-      "interpretation": "Smart money (NO) confirms YES is overpriced",
-      "action_suggestion": "High conviction: insider + statistics aligned",
-      "insider_score": 70,
-      "insider_position": "NO",
-      "irrationality_score": 45,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.17849999996639998,
-      "edge_percent": 17.849999996639998
-    },
-    "financial_analyst": {
-      "signal_quality": 83.0,
-      "stance": "HIGH_CONVICTION",
-      "edge_percent": 17.85,
-      "signal_strength": 115.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xf85473003797251537b4046cc9687dd33fb915a5692c6898ed9b806bf6e37c3b",
-    "wallet": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
-    "trader": {
-      "rank": 3,
-      "address": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
-      "username": "kch123",
-      "profit": 12003748.66936255,
-      "volume": 287448607.2302161,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xa1360dbbc43a66cfdbccd72ee8aa868d478c97de",
-      "side": "BUY",
-      "asset": "105509530658065521929005822649620491538474208103684744366955937109627519057368",
-      "conditionId": "0x94a2b2a1b9227e44fc464614e63dfca6d4082310291c35623c3d34b70aa53693",
-      "size": 5000,
-      "price": 0.65,
-      "timestamp": 1777492666,
-      "title": "Will Arsenal FC win on 2026-04-29?",
-      "slug": "ucl-atm1-ars-2026-04-29-ars",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/champions-league-pic-QIUFsL8vaDdq.png",
-      "eventSlug": "ucl-atm1-ars-2026-04-29",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "jdsahgf",
-      "pseudonym": "Growing-Farmland-Emphasis",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xf85473003797251537b4046cc9687dd33fb915a5692c6898ed9b806bf6e37c3b",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Arsenal FC win on 2026-04-29?",
-    "market_slug": "ucl-atm1-ars-2026-04-29",
-    "amount": 3250.0
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0x549b8faaf3728aaef01b9eb2b0799f937cc145fd23372d13cc59f350a565d81f",
     "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
@@ -27122,5 +26973,151 @@
     "market": "Will France win the 2026 FIFA World Cup?",
     "market_slug": "will-france-win-the-2026-fifa-world-cup-924",
     "amount": 7707.339998043886
+  },
+  {
+    "market": "UFC 329: Max Holloway vs. Conor McGregor (Welterweight, Main Card)",
+    "market_slug": "ufc-max1-con-2026",
+    "event_slug": "ufc-max1-con-2026",
+    "wallet": "0xd392eadfb0fafc8575d698862e6e62edc911e44d",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,052)",
+        "Low activity (2 txns)"
+      ],
+      "amount": 1052.4799991041143,
+      "odds": 0.2799999999,
+      "raw_price": 0.2799999999,
+      "outcome": "Conor McGregor",
+      "potential_pnl": 2706.377141895886,
+      "pnl_multiplier": 2.5714285727040815,
+      "wallet_age_days": 0,
+      "total_activities": 2
+    },
+    "timestamp": "2026-07-11T20:34:56.931286",
+    "trade_hash": "0x52f54e83596a920d6d8d575e88cb79ffcef84149edc0b745ed8bef57e907b61a",
+    "trade_timestamp": 1783801712,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Conor McGregor",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.2799999999,
+      "effective_price": 0.2799999999,
+      "size": 3758.857141,
+      "amount": 1052.4799991041143,
+      "potential_pnl": 2706.377141895886,
+      "pnl_multiplier": 2.5714285727040815,
+      "is_no": false,
+      "slug": "ufc-max1-con-2026",
+      "eventSlug": "ufc-max1-con-2026-07-11"
+    },
+    "irrationality": {
+      "irrationality_score": 10,
+      "flags": [],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.26949999995999996,
+      "market_price": 0.2799999999,
+      "edge": 0.01049999994000006,
+      "edge_percent": 1.049999994000006,
+      "min_edge_required": 0.05,
+      "is_mispriced": false,
+      "edge_quality": "WEAK",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "NO",
+      "irrationality_score": 10,
+      "is_irrational": false,
+      "is_mispriced": false,
+      "edge": 0.01049999994000006,
+      "edge_percent": 1.049999994000006
+    },
+    "financial_analyst": {
+      "signal_quality": 22.6,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 1.05,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x27ddfc611d46f669e71722c86dd643597cddca2f33a678ec0a33b8f7748b3fb3",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x49119a1d731e14d32183e118e02713fc8f495aa8",
+      "side": "SELL",
+      "asset": "866370305411260885620344443432925550941005016614412438009174244566837236043",
+      "conditionId": "0x0f5e01cf1cabb6c49e424f230ca77a2ccd3e1ac63b31ae03ef749ac2bde7fa0e",
+      "size": 3980.09,
+      "price": 0.5325,
+      "timestamp": 1783801747,
+      "title": "Will England win on 2026-07-11?",
+      "slug": "fifwc-nor-eng-2026-07-11-eng",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "",
+      "outcome": "Yes",
+      "outcomeIndex": 999,
+      "name": "0x49119A1D731E14d32183E118e02713Fc8F495aa8-1782378003648",
+      "pseudonym": "Unwitting-Bonnet-Ruling",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x27ddfc611d46f669e71722c86dd643597cddca2f33a678ec0a33b8f7748b3fb3",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will England win on 2026-07-11?",
+    "market_slug": "fifwc-nor-eng-2026-07-11-eng",
+    "amount": 2119.3979249999998
   }
 ]
