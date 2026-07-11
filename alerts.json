@@ -1,186 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xd0518e3c7c88a68de5050c9ddf77c4b343abe4ca92c3d0d720eb552d846e20b8",
-    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-    "trader": {
-      "rank": 17,
-      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
-      "profit": 4552327.539662778,
-      "volume": 60197195.493647985,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x4df332e27f9ee3224f52ce30e3ce15c1075e788f",
-      "side": "BUY",
-      "asset": "56880175393932454581144770528427485936933207650358188666285643124300135349353",
-      "conditionId": "0x28047a042b014f25c767d74ef95bb73d0fac42b5618081c919f627e5bb95d82b",
-      "size": 13921,
-      "price": 0.51,
-      "timestamp": 1777406744,
-      "title": "Indian Premier League: Mumbai Indians vs Sunrisers Hyderabad",
-      "slug": "cricipl-mum-sun-2026-04-29",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
-      "eventSlug": "cricipl-mum-sun-2026-04-29",
-      "outcome": "Mumbai Indians",
-      "outcomeIndex": 0,
-      "name": "SunlineTicker",
-      "pseudonym": "Far-Precipitation",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xd0518e3c7c88a68de5050c9ddf77c4b343abe4ca92c3d0d720eb552d846e20b8",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Indian Premier League: Mumbai Indians vs Sunrisers Hyderabad",
-    "market_slug": "cricipl-mum-sun-2026-04-29",
-    "amount": 7099.71,
-    "resolution_last_check": "2026-04-29T08:23:35.168572+00:00"
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x0cd34e56306f54c9e24052a1a4e3ed7f12d644584534833362bd2d61d13844f1",
-    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-    "trader": {
-      "rank": 17,
-      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
-      "profit": 4552327.539662778,
-      "volume": 60197195.493647985,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x4df332e27f9ee3224f52ce30e3ce15c1075e788f",
-      "side": "BUY",
-      "asset": "56880175393932454581144770528427485936933207650358188666285643124300135349353",
-      "conditionId": "0x28047a042b014f25c767d74ef95bb73d0fac42b5618081c919f627e5bb95d82b",
-      "size": 13921,
-      "price": 0.51,
-      "timestamp": 1777406744,
-      "title": "Indian Premier League: Mumbai Indians vs Sunrisers Hyderabad",
-      "slug": "cricipl-mum-sun-2026-04-29",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
-      "eventSlug": "cricipl-mum-sun-2026-04-29",
-      "outcome": "Mumbai Indians",
-      "outcomeIndex": 0,
-      "name": "SunlineTicker",
-      "pseudonym": "Far-Precipitation",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x0cd34e56306f54c9e24052a1a4e3ed7f12d644584534833362bd2d61d13844f1",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Indian Premier League: Mumbai Indians vs Sunrisers Hyderabad",
-    "market_slug": "cricipl-mum-sun-2026-04-29",
-    "amount": 7099.71,
-    "resolution_last_check": "2026-04-29T08:23:35.168579+00:00"
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x0cfe039f2e4c43f5ba1254a7094289249b9fd99f66fb9d9f3ba0bc005abaadb9",
-    "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
-    "trader": {
-      "rank": 18,
-      "address": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
-      "username": "432614799197",
-      "profit": 4526176.046413308,
-      "volume": 185485956.8620829,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x4df332e27f9ee3224f52ce30e3ce15c1075e788f",
-      "side": "BUY",
-      "asset": "56880175393932454581144770528427485936933207650358188666285643124300135349353",
-      "conditionId": "0x28047a042b014f25c767d74ef95bb73d0fac42b5618081c919f627e5bb95d82b",
-      "size": 13653,
-      "price": 0.51,
-      "timestamp": 1777406742,
-      "title": "Indian Premier League: Mumbai Indians vs Sunrisers Hyderabad",
-      "slug": "cricipl-mum-sun-2026-04-29",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
-      "eventSlug": "cricipl-mum-sun-2026-04-29",
-      "outcome": "Mumbai Indians",
-      "outcomeIndex": 0,
-      "name": "SunlineTicker",
-      "pseudonym": "Far-Precipitation",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x0cfe039f2e4c43f5ba1254a7094289249b9fd99f66fb9d9f3ba0bc005abaadb9",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Indian Premier League: Mumbai Indians vs Sunrisers Hyderabad",
-    "market_slug": "cricipl-mum-sun-2026-04-29",
-    "amount": 6963.03,
-    "resolution_last_check": "2026-04-29T08:23:35.168585+00:00"
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xb3c9fabafcb7bc77f03f794cdf724a16093b1a6a830f040da4376c7a3cc7f3a2",
-    "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
-    "trader": {
-      "rank": 18,
-      "address": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
-      "username": "432614799197",
-      "profit": 4526176.046413308,
-      "volume": 185485956.8620829,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x4df332e27f9ee3224f52ce30e3ce15c1075e788f",
-      "side": "BUY",
-      "asset": "56880175393932454581144770528427485936933207650358188666285643124300135349353",
-      "conditionId": "0x28047a042b014f25c767d74ef95bb73d0fac42b5618081c919f627e5bb95d82b",
-      "size": 3413,
-      "price": 0.51,
-      "timestamp": 1777406742,
-      "title": "Indian Premier League: Mumbai Indians vs Sunrisers Hyderabad",
-      "slug": "cricipl-mum-sun-2026-04-29",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
-      "eventSlug": "cricipl-mum-sun-2026-04-29",
-      "outcome": "Mumbai Indians",
-      "outcomeIndex": 0,
-      "name": "SunlineTicker",
-      "pseudonym": "Far-Precipitation",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xb3c9fabafcb7bc77f03f794cdf724a16093b1a6a830f040da4376c7a3cc7f3a2",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Indian Premier League: Mumbai Indians vs Sunrisers Hyderabad",
-    "market_slug": "cricipl-mum-sun-2026-04-29",
-    "amount": 1740.63,
-    "resolution_last_check": "2026-04-29T08:23:35.168591+00:00"
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xaf0bd022e0e90102b4192ef09d27095403481dfc5449d02cf4b348a6db26688d",
     "wallet": "0xefbc5fec8d7b0acdc8911bdd9a98d6964308f9a2",
     "trader": {
@@ -27065,5 +26885,242 @@
     "market": "Dota 2: PlayTime vs Nigma Galaxy - Game 1 Winner",
     "market_slug": "dota2-playti-ngx-2026-07-11-game1",
     "amount": 1999.9999989610283
+  },
+  {
+    "market": "Norway vs. England: Team to Advance",
+    "market_slug": "fifwc-nor-eng-2026-07-11-team-to-advance",
+    "event_slug": "fifwc-nor-eng-2026-07-11-team-to-advance",
+    "wallet": "0x0dbbb84e8fcb234c3d63d6d5811b761b17ef205c",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,050)",
+        "Low activity (3 txns)"
+      ],
+      "amount": 1049.9999990081897,
+      "odds": 0.3624999998,
+      "raw_price": 0.3624999998,
+      "outcome": "Norway",
+      "potential_pnl": 1846.5517239918104,
+      "pnl_multiplier": 1.75862069117717,
+      "wallet_age_days": 0,
+      "total_activities": 3
+    },
+    "timestamp": "2026-07-11T16:13:30.410271",
+    "trade_hash": "0x4be848e7afa0d9e556a1eec03a298a150fce9f4ce7c19a755118e5b0cabb72dc",
+    "trade_timestamp": 1783786312,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Norway",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.3624999998,
+      "effective_price": 0.3624999998,
+      "size": 2896.551723,
+      "amount": 1049.9999990081897,
+      "potential_pnl": 1846.5517239918104,
+      "pnl_multiplier": 1.75862069117717,
+      "is_no": false,
+      "slug": "fifwc-nor-eng-2026-07-11-team-to-advance",
+      "eventSlug": "fifwc-nor-eng-2026-07-11-more-markets"
+    },
+    "irrationality": {
+      "irrationality_score": 18,
+      "flags": [
+        "Moderate mispricing edge (+6.0%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.30249999992,
+      "market_price": 0.3624999998,
+      "edge": 0.05999999987999999,
+      "edge_percent": 5.999999987999999,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "MODERATE",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 18,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.05999999987999999,
+      "edge_percent": 5.999999987999999
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 26.6,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 6.0,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x2275d52571c9889fbc0ee29fe60e24fb8ffa976cc872a7c0c67ded370b763344",
+    "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
+    "trader": {
+      "rank": 20,
+      "address": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
+      "username": "mikatrade77",
+      "profit": 5147998.544602999,
+      "volume": 10884765.388775,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+      "side": "BUY",
+      "asset": "102078921487563589733860669113518954798482247364377710171580690134859098151701",
+      "conditionId": "0x091f03148f461e5c8d4740c4bf414a40c90e632b2ada9bf2b17b93189fbb704a",
+      "size": 5810,
+      "price": 0.46,
+      "timestamp": 1783787030,
+      "title": "Newport: Greet Minnen vs Katie Volynets",
+      "slug": "wta-minnen-volynet-2026-07-11",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wta-logo-41f331bdf1.png",
+      "eventSlug": "",
+      "outcome": "Greet Minnen",
+      "outcomeIndex": 999,
+      "name": "RN1",
+      "pseudonym": "Scary-Edible",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-1567750-84001aec-310a-470f-9584-67dfcaa61267.png",
+      "profileImageOptimized": "",
+      "transactionHash": "0x2275d52571c9889fbc0ee29fe60e24fb8ffa976cc872a7c0c67ded370b763344",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Newport: Greet Minnen vs Katie Volynets",
+    "market_slug": "wta-minnen-volynet-2026-07-11",
+    "amount": 2672.6
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x90345623f663f3949374a9040d0fbc10aafbd03a19c3e87df277952eff0a48f2",
+    "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
+    "trader": {
+      "rank": 20,
+      "address": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
+      "username": "mikatrade77",
+      "profit": 5147998.544602999,
+      "volume": 10884765.388775,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+      "side": "BUY",
+      "asset": "102078921487563589733860669113518954798482247364377710171580690134859098151701",
+      "conditionId": "0x091f03148f461e5c8d4740c4bf414a40c90e632b2ada9bf2b17b93189fbb704a",
+      "size": 6028.34,
+      "price": 0.45,
+      "timestamp": 1783787030,
+      "title": "Newport: Greet Minnen vs Katie Volynets",
+      "slug": "wta-minnen-volynet-2026-07-11",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wta-logo-41f331bdf1.png",
+      "eventSlug": "",
+      "outcome": "Greet Minnen",
+      "outcomeIndex": 999,
+      "name": "ferrariChampions2026",
+      "pseudonym": "Glaring-Salt",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x90345623f663f3949374a9040d0fbc10aafbd03a19c3e87df277952eff0a48f2",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Newport: Greet Minnen vs Katie Volynets",
+    "market_slug": "wta-minnen-volynet-2026-07-11",
+    "amount": 2712.753
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x8811f9f69a30f193673e3c15ace2f94d0da29e2022f029cde63d6c6b291522bf",
+    "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
+    "trader": {
+      "rank": 20,
+      "address": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
+      "username": "mikatrade77",
+      "profit": 5147998.544602999,
+      "volume": 10884765.388775,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+      "side": "BUY",
+      "asset": "102078921487563589733860669113518954798482247364377710171580690134859098151701",
+      "conditionId": "0x091f03148f461e5c8d4740c4bf414a40c90e632b2ada9bf2b17b93189fbb704a",
+      "size": 32477.355554,
+      "price": 0.45,
+      "timestamp": 1783787030,
+      "title": "Newport: Greet Minnen vs Katie Volynets",
+      "slug": "wta-minnen-volynet-2026-07-11",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wta-logo-41f331bdf1.png",
+      "eventSlug": "",
+      "outcome": "Greet Minnen",
+      "outcomeIndex": 999,
+      "name": "ferrariChampions2026",
+      "pseudonym": "Glaring-Salt",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x8811f9f69a30f193673e3c15ace2f94d0da29e2022f029cde63d6c6b291522bf",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Newport: Greet Minnen vs Katie Volynets",
+    "market_slug": "wta-minnen-volynet-2026-07-11",
+    "amount": 14614.809999300001
   }
 ]
