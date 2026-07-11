@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x1cadb65cd646c765bbe311b305a02666753303dfadb32da15273ad337ae59bd4",
-    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
-    "trader": {
-      "rank": 12,
-      "address": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
-      "username": "BetTom42",
-      "profit": 5642135.735356,
-      "volume": 11212839.523403,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
-      "side": "SELL",
-      "asset": "52358889909720195745618623525148656756791707640957024648520970508331778531217",
-      "conditionId": "0x2f7ce337a25e4802e60a200fb451167b0807f619657aa2802c097861672cfefd",
-      "size": 5083.65,
-      "price": 0.92,
-      "timestamp": 1777292680,
-      "title": "Madrid Open: Solana Sierra vs Karolina Pliskova",
-      "slug": "wta-sierra-pliskov-2026-04-27",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wta-logo-41f331bdf1.png",
-      "eventSlug": "wta-sierra-pliskov-2026-04-27",
-      "outcome": "Karolina Pliskova",
-      "outcomeIndex": 1,
-      "name": "tradecraft",
-      "pseudonym": "Slow-Escape",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-1439403-31bec8e6-a9d5-45d6-8c20-964f07c7fdb2.webp",
-      "profileImageOptimized": "",
-      "transactionHash": "0x1cadb65cd646c765bbe311b305a02666753303dfadb32da15273ad337ae59bd4",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Madrid Open: Solana Sierra vs Karolina Pliskova",
-    "market_slug": "wta-sierra-pliskov-2026-04-27",
-    "amount": 4676.958
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x4f9ee7c243ba37eeb7a1f5cd519bca447b970289cbe6ccb8218cc303ad29bfbe",
     "wallet": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
     "trader": {
@@ -27065,5 +27021,49 @@
     "market": "Will Erling Haaland be the top goalscorer at the 2026 FIFA World Cup?",
     "market_slug": "world-cup-golden-boot-winner",
     "amount": 2813.16518
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x10ef708f5c3943fe426396a73d39188c8680d625fcb61260969981f59467a0ce",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xb5db6abf19904c4f18daa9bcd753edb99b1f5800",
+      "side": "BUY",
+      "asset": "50770607614582782670615483281091385934878136652092819620122565654351019160695",
+      "conditionId": "0x12e9b523ab1ff1a3f881134cc5532cacb976992824177f99ef933e1092b12cc2",
+      "size": 2492.211837,
+      "price": 0.8024999999,
+      "timestamp": 1783752796,
+      "title": "Norway vs. England: O/U 1.5",
+      "slug": "fifwc-nor-eng-2026-07-11-total-1pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-nor-eng-2026-07-11-more-markets",
+      "outcome": "Over",
+      "outcomeIndex": 0,
+      "name": "blket",
+      "pseudonym": "Loving-Atheist",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x10ef708f5c3943fe426396a73d39188c8680d625fcb61260969981f59467a0ce",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Norway vs. England: O/U 1.5",
+    "market_slug": "fifwc-nor-eng-2026-07-11-more-markets",
+    "amount": 1999.9999989432786
   }
 ]
