@@ -1,51 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x8e75f42f5ef30e955dbe19a1af0ad13f3a329b88c23997c96dedefcfff8ee878",
-    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-    "trader": {
-      "rank": 17,
-      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
-      "profit": 4552327.539662778,
-      "volume": 60197195.493647985,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x4df332e27f9ee3224f52ce30e3ce15c1075e788f",
-      "side": "BUY",
-      "asset": "56880175393932454581144770528427485936933207650358188666285643124300135349353",
-      "conditionId": "0x28047a042b014f25c767d74ef95bb73d0fac42b5618081c919f627e5bb95d82b",
-      "size": 3480,
-      "price": 0.51,
-      "timestamp": 1777406744,
-      "title": "Indian Premier League: Mumbai Indians vs Sunrisers Hyderabad",
-      "slug": "cricipl-mum-sun-2026-04-29",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
-      "eventSlug": "cricipl-mum-sun-2026-04-29",
-      "outcome": "Mumbai Indians",
-      "outcomeIndex": 0,
-      "name": "SunlineTicker",
-      "pseudonym": "Far-Precipitation",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x8e75f42f5ef30e955dbe19a1af0ad13f3a329b88c23997c96dedefcfff8ee878",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Indian Premier League: Mumbai Indians vs Sunrisers Hyderabad",
-    "market_slug": "cricipl-mum-sun-2026-04-29",
-    "amount": 1774.8,
-    "resolution_last_check": "2026-04-29T08:23:35.168555+00:00"
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xd0518e3c7c88a68de5050c9ddf77c4b343abe4ca92c3d0d720eb552d846e20b8",
     "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
     "trader": {
@@ -27066,5 +27021,49 @@
     "market": "Nigma Galaxy to win 2-0?",
     "market_slug": "dota2-playti-ngx-2026-07-11",
     "amount": 2999.99999929
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x81bce3bcd9f09e4d8ee88ac52bc107eb6645d9b69f0eae431bc422c0c522f422",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+      "side": "BUY",
+      "asset": "76223187881988279790865718560033047318837147927685375782727817440240607058108",
+      "conditionId": "0xd58ac06933e3a4c74c5014a99e74ad7e9b73b4a0afcd74319de8bf109343ee8a",
+      "size": 3476.50655,
+      "price": 0.575290157,
+      "timestamp": 1783772914,
+      "title": "Dota 2: PlayTime vs Nigma Galaxy - Game 1 Winner",
+      "slug": "dota2-playti-ngx-2026-07-11-game1",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/dota2-7ffacddb21.jpg",
+      "eventSlug": "",
+      "outcome": "Nigma Galaxy",
+      "outcomeIndex": 999,
+      "name": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+      "pseudonym": "Happy-Go-Lucky-Nestling",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x81bce3bcd9f09e4d8ee88ac52bc107eb6645d9b69f0eae431bc422c0c522f422",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Dota 2: PlayTime vs Nigma Galaxy - Game 1 Winner",
+    "market_slug": "dota2-playti-ngx-2026-07-11-game1",
+    "amount": 1999.9999989610283
   }
 ]
