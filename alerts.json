@@ -1,138 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x549b8faaf3728aaef01b9eb2b0799f937cc145fd23372d13cc59f350a565d81f",
-    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-    "trader": {
-      "rank": 5,
-      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-      "username": "zxgngl",
-      "profit": 7807265.589240883,
-      "volume": 40551790.62184699,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xdd882a70680633a75516f6ed5fce443e2d96dadb",
-      "side": "SELL",
-      "asset": "48758486425438602097230699966267145027460929514527168155793090881385634316204",
-      "conditionId": "0x1b2ed75f75bebfa128fdd02a7e7165dd8c8bf71fda9be1dcf80fd16dbff67029",
-      "size": 4019,
-      "price": 0.92,
-      "timestamp": 1777497478,
-      "title": "Counter-Strike: Natus Vincere vs FaZe (BO3) - BLAST Rivals Group B",
-      "slug": "cs2-navi-faze-2026-04-29",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/counter-strike-image-16c415c538.png",
-      "eventSlug": "cs2-navi-faze-2026-04-29",
-      "outcome": "Natus Vincere",
-      "outcomeIndex": 0,
-      "name": "Taoli1",
-      "pseudonym": "Itchy-Caterpillar",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x549b8faaf3728aaef01b9eb2b0799f937cc145fd23372d13cc59f350a565d81f",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Counter-Strike: Natus Vincere vs FaZe (BO3) - BLAST Rivals Group B",
-    "market_slug": "cs2-navi-faze-2026-04-29",
-    "amount": 3697.48
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x42627392532e6753ada75ca308faffa57953c4a99e5d8c95ec5858cfa5ece210",
-    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-    "trader": {
-      "rank": 5,
-      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-      "username": "zxgngl",
-      "profit": 7807265.589240883,
-      "volume": 40551790.62184699,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xb652e5dabc3fccd3c939acab0108f99866842db4",
-      "side": "BUY",
-      "asset": "61898840087463782800760426272516099687509248068835370840234236658018605960733",
-      "conditionId": "0xf51f7017cb0eb424a5fec90065ed68cf088518932d049b2dbb74927d1507a52a",
-      "size": 17526.73,
-      "price": 0.49,
-      "timestamp": 1777497478,
-      "title": "Magic vs. Pistons: O/U 211.5",
-      "slug": "nba-orl-det-2026-04-29-total-211pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-orl-det-2026-04-29",
-      "outcome": "Under",
-      "outcomeIndex": 1,
-      "name": "0x2a2C53bD278c04DA9962Fcf96490E17F3DfB9B",
-      "pseudonym": "Several-Semicolon",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-952641-09ade205-c3b9-436f-a03a-f73023fc6740.png",
-      "profileImageOptimized": "",
-      "transactionHash": "0x42627392532e6753ada75ca308faffa57953c4a99e5d8c95ec5858cfa5ece210",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Magic vs. Pistons: O/U 211.5",
-    "market_slug": "nba-orl-det-2026-04-29",
-    "amount": 8588.0977
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x58922e8036b944ef14165e0c5108e5454c18e5c014e401c16b10f46bef5e2116",
-    "wallet": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
-    "trader": {
-      "rank": 4,
-      "address": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
-      "username": "Len9311238",
-      "profit": 8709972.988069998,
-      "volume": 16402744.764626998,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x98fbafc00de1b8ba747047835fce1b4c0f5eb06d",
-      "side": "SELL",
-      "asset": "78706080298155030253900942933463228256456824217748272444749582551608670728136",
-      "conditionId": "0x561e400fc730dd5d6d580c04e7ce626caab7277fb3cec60f78879e2228b6da9b",
-      "size": 53462.01,
-      "price": 0.036491216847252844,
-      "timestamp": 1777531410,
-      "title": "Over $10M committed to the Printr public sale?",
-      "slug": "over-10m-committed-to-the-printr-public-sale",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/printr-public-sale-total-commitments-bEQ-dWPkB96q.jpg",
-      "eventSlug": "printr-public-sale-total-commitments",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "odifof",
-      "pseudonym": "Turbulent-Sorghum",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x58922e8036b944ef14165e0c5108e5454c18e5c014e401c16b10f46bef5e2116",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Over $10M committed to the Printr public sale?",
-    "market_slug": "printr-public-sale-total-commitments",
-    "amount": 1950.8938
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x4f314e2e5a8bfed0d7642b55205e10bffd36db692443d1aac7cf37b67e15b37d",
     "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
     "trader": {
@@ -27119,5 +26987,195 @@
     "market": "Will England win on 2026-07-11?",
     "market_slug": "fifwc-nor-eng-2026-07-11-eng",
     "amount": 2119.3979249999998
+  },
+  {
+    "market": "UFC 329: Max Holloway vs. Conor McGregor (Welterweight, Main Card)",
+    "market_slug": "ufc-max1-con-2026",
+    "event_slug": "ufc-max1-con-2026",
+    "wallet": "0xac38f7d42ac95b1e49387467ed78dcee0f23c577",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,710)",
+        "Low activity (3 txns)"
+      ],
+      "amount": 1709.9699990292966,
+      "odds": 0.2799999999,
+      "raw_price": 0.2799999999,
+      "outcome": "Conor McGregor",
+      "potential_pnl": 4397.065713970704,
+      "pnl_multiplier": 2.5714285727040815,
+      "wallet_age_days": 0,
+      "total_activities": 3
+    },
+    "timestamp": "2026-07-11T21:32:21.321497",
+    "trade_hash": "0xa1a02077b20fd87618af2c48014bc11cee05332a98da5f4ef8f8a35a57b42557",
+    "trade_timestamp": 1783805375,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Conor McGregor",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.2799999999,
+      "effective_price": 0.2799999999,
+      "size": 6107.035713,
+      "amount": 1709.9699990292966,
+      "potential_pnl": 4397.065713970704,
+      "pnl_multiplier": 2.5714285727040815,
+      "is_no": false,
+      "slug": "ufc-max1-con-2026",
+      "eventSlug": "ufc-max1-con-2026-07-11"
+    },
+    "irrationality": {
+      "irrationality_score": 10,
+      "flags": [],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.26949999995999996,
+      "market_price": 0.2799999999,
+      "edge": 0.01049999994000006,
+      "edge_percent": 1.049999994000006,
+      "min_edge_required": 0.05,
+      "is_mispriced": false,
+      "edge_quality": "WEAK",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "NO",
+      "irrationality_score": 10,
+      "is_irrational": false,
+      "is_mispriced": false,
+      "edge": 0.01049999994000006,
+      "edge_percent": 1.049999994000006
+    },
+    "financial_analyst": {
+      "signal_quality": 22.6,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 1.05,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xb88f025d63bf2d719505e559afb693d021948e0fa3a1501eb11981f873c4fef4",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x6270f0a50664cbf3d4d70914ff7544ae7eb19ce7",
+      "side": "BUY",
+      "asset": "101609312241167873882360947921080859853145865660281247946682387335776462114544",
+      "conditionId": "0x4b84a8e08cb3376c9e5be5cc5a37f7073de05cdf0810d2ad3fe745c4760ef3e0",
+      "size": 9754.82,
+      "price": 0.180509097,
+      "timestamp": 1783805353,
+      "title": "Will Norway win on 2026-07-11?",
+      "slug": "fifwc-nor-eng-2026-07-11-nor",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "",
+      "outcome": "Yes",
+      "outcomeIndex": 999,
+      "name": "chosenx",
+      "pseudonym": "Fabulous-Distribution",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xb88f025d63bf2d719505e559afb693d021948e0fa3a1501eb11981f873c4fef4",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Norway win on 2026-07-11?",
+    "market_slug": "fifwc-nor-eng-2026-07-11-nor",
+    "amount": 1760.83374959754
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xd9d4e8f4e76e08fdf2c67c65dff966a8144e8d7963d694884cc1efdd491fad0f",
+    "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+    "trader": {
+      "rank": 18,
+      "address": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+      "username": "KeyTransporter",
+      "profit": 5711459.802519929,
+      "volume": 20086062.154324993,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "41541051281405629546819933973213146053964263261685803058159141864482667348900",
+      "conditionId": "0x85b78ea85ddd6f9b23ee88c1e0ebca096cf44c63a53c1b071fe768f47ff04f42",
+      "size": 4512,
+      "price": 0.78,
+      "timestamp": 1783805953,
+      "title": "Norway vs. England: Both Teams to Score",
+      "slug": "fifwc-nor-eng-2026-07-11-btts",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "",
+      "outcome": "Yes",
+      "outcomeIndex": 999,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "trash panda",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xd9d4e8f4e76e08fdf2c67c65dff966a8144e8d7963d694884cc1efdd491fad0f",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Norway vs. England: Both Teams to Score",
+    "market_slug": "fifwc-nor-eng-2026-07-11-btts",
+    "amount": 3519.36
   }
 ]
