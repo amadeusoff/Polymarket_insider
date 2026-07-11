@@ -26976,7 +26976,8 @@
     },
     "market": "Will Spain win the 2026 FIFA World Cup?",
     "market_slug": "will-spain-win-the-2026-fifa-world-cup-963",
-    "amount": 3152.00788
+    "amount": 3152.00788,
+    "resolution_last_check": "2026-07-11T07:59:55.773841+00:00"
   },
   {
     "type": "TOP_TRADER",
