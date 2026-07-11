@@ -1,110 +1,5 @@
 [
   {
-    "market": "Dota 2: 1win vs Power Rangers (BO3) - DreamLeague Division 2 Playoffs",
-    "market_slug": "dota2-1win-pr1-2026",
-    "event_slug": "dota2-1win-pr1-2026",
-    "wallet": "0xf0f0a2724c6ce58375e8770ba52cd50f57489a41",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,176)",
-        "Low activity (2 txns)"
-      ],
-      "amount": 1176.4948769999999,
-      "odds": 0.57,
-      "raw_price": 0.57,
-      "outcome": "1win",
-      "potential_pnl": 887.5312230000002,
-      "pnl_multiplier": 0.7543859649122809,
-      "wallet_age_days": 0,
-      "total_activities": 2
-    },
-    "timestamp": "2026-04-27T12:18:06.797652",
-    "trade_hash": "0x50eef07d8ea8059b9ebdf9c8829cab7650f35041a281fa69613f95550eed1ebd",
-    "trade_timestamp": 1777291944,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "1win",
-      "outcomeIndex": 0,
-      "normalized_position": "YES",
-      "side": "BUY",
-      "price": 0.57,
-      "effective_price": 0.57,
-      "size": 2064.0261,
-      "amount": 1176.4948769999999,
-      "potential_pnl": 887.5312230000002,
-      "pnl_multiplier": 0.7543859649122809,
-      "is_no": false,
-      "slug": "dota2-1win-pr1-2026",
-      "eventSlug": "dota2-1win-pr1-2026-04-27"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+18.4%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.38549999999999995,
-      "market_price": 0.57,
-      "edge": 0.1845,
-      "edge_percent": 18.45,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "low"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 2,
-        "conditions": [
-          "Unknown"
-        ],
-        "weakest_link": "Unknown"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Unknown"
-      ],
-      "confidence_in_analysis": "low"
-    },
-    "combined_signal": {
-      "signal_type": "CONFLICT",
-      "signal_emoji": "\u26a0\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider buying YES despite statistical overpricing",
-      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
-      "insider_score": 70,
-      "insider_position": "YES",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.1845,
-      "edge_percent": 18.45
-    },
-    "log_only": true,
-    "financial_analyst": {
-      "signal_quality": 46.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 18.45,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0x1cadb65cd646c765bbe311b305a02666753303dfadb32da15273ad337ae59bd4",
     "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
@@ -27126,5 +27021,49 @@
     "market": "Will Spain win the 2026 FIFA World Cup?",
     "market_slug": "will-spain-win-the-2026-fifa-world-cup-963",
     "amount": 3152.00788
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x6450703ec44df9842aafca8399694cb44e95c16d54ee798a1551d02433bd7499",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "trader": {
+      "rank": 16,
+      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+      "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+      "profit": 6040102.201499776,
+      "volume": 668854071.4723232,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xa0a18aa3594b95281268c05e8e3ce894fb0631e3",
+      "side": "SELL",
+      "asset": "37459691885280571389083350894291361093570876624819527228743420655749611231692",
+      "conditionId": "0xb4431b4a10c926381c72d581ba9bec629f430feea5e72fbaff3a9e2ac87a3001",
+      "size": 3175.13,
+      "price": 0.886,
+      "timestamp": 1783744661,
+      "title": "Will Erling Haaland be the top goalscorer at the 2026 FIFA World Cup?",
+      "slug": "will-erling-haaland-be-the-top-goalscorer-at-the-2026-fifa-world-cup",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/2026-fifa-world-cup-top-goalscorer-g8rHBY_mzgM7.jpg",
+      "eventSlug": "world-cup-golden-boot-winner",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "SwingXBT",
+      "pseudonym": "Crushing-Hazel",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-8435342-b76e58ab-de7d-4b4f-be0c-dc09d653f40a.webp",
+      "profileImageOptimized": "",
+      "transactionHash": "0x6450703ec44df9842aafca8399694cb44e95c16d54ee798a1551d02433bd7499",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Erling Haaland be the top goalscorer at the 2026 FIFA World Cup?",
+    "market_slug": "world-cup-golden-boot-winner",
+    "amount": 2813.16518
   }
 ]
