@@ -1,94 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xb08b8cfacd8bc18a485465c529e2d753aa301cba8853d9810dc435adfe97267f",
-    "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
-    "trader": {
-      "rank": 18,
-      "address": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
-      "username": "432614799197",
-      "profit": 4526176.046413314,
-      "volume": 185485956.86208293,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x86fbea68d619daf670185ecd38a69aa90f7703d4",
-      "side": "BUY",
-      "asset": "45950374825619701867429122499068372200543863600736957914988198537942446359559",
-      "conditionId": "0xec0f149daa9c98f04d1aaf159cda42b7fc177a2fc57852e591cd0a6e1ae05b8b",
-      "size": 5661.756095,
-      "price": 0.47999999996522635,
-      "timestamp": 1777316990,
-      "title": "Thunder vs. Suns: O/U 214.5",
-      "slug": "nba-okc-phx-2026-04-27-total-214pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-okc-phx-2026-04-27",
-      "outcome": "Under",
-      "outcomeIndex": 1,
-      "name": "",
-      "pseudonym": "",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xb08b8cfacd8bc18a485465c529e2d753aa301cba8853d9810dc435adfe97267f",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Thunder vs. Suns: O/U 214.5",
-    "market_slug": "nba-okc-phx-2026-04-27",
-    "amount": 2717.64292540312
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xca4dc797d2597a07a34991efde0485afda4d434b58a6fc9906d83b4810f79949",
-    "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
-    "trader": {
-      "rank": 13,
-      "address": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
-      "username": "mikatrade77",
-      "profit": 5147998.544602999,
-      "volume": 10884765.388775,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xd1e0c0db26fb636fb557704f05f7cd8ae4148913",
-      "side": "BUY",
-      "asset": "23474129862538016355769921752602588362727749687612650738794086635241500644505",
-      "conditionId": "0xff8c930d1d882a7c0e80852535badf1fe1bf831de3f4b3606c109bc556b5e927",
-      "size": 5670.432931,
-      "price": 0.819999999996492,
-      "timestamp": 1777333190,
-      "title": "Timberwolves vs. Nuggets",
-      "slug": "nba-min-den-2026-04-27",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-min-den-2026-04-27",
-      "outcome": "Nuggets",
-      "outcomeIndex": 1,
-      "name": "DjPonyboots",
-      "pseudonym": "Extraneous-Porpoise",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xca4dc797d2597a07a34991efde0485afda4d434b58a6fc9906d83b4810f79949",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Timberwolves vs. Nuggets",
-    "market_slug": "nba-min-den-2026-04-27",
-    "amount": 4649.755003400108
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x8e75f42f5ef30e955dbe19a1af0ad13f3a329b88c23997c96dedefcfff8ee878",
     "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
     "trader": {
@@ -27066,5 +26978,93 @@
     "market": "LoL: Hanwha Life Esports vs LYON - Game 3 Winner",
     "market_slug": "lol-hle1-ly-2026-07-11-game3",
     "amount": 1588.884
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xd74e3ece01e22035d5fd8d37253b6fa56219d7ee9e620268dc4ad521970edad0",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xeffb291766e19477214bf31eaafa7e72aa094fb5",
+      "side": "BUY",
+      "asset": "95101961600645744157905645773028545628965230149679116403882161581994746824439",
+      "conditionId": "0x180bce419c2b5ea2178514571c50c9d5ada7b85fd409e7088ff5d0d42e7fe867",
+      "size": 5026.086955,
+      "price": 0.575,
+      "timestamp": 1783769309,
+      "title": "Norway vs. England: O/U 2.5",
+      "slug": "fifwc-nor-eng-2026-07-11-total-2pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-nor-eng-2026-07-11-more-markets",
+      "outcome": "Over",
+      "outcomeIndex": 0,
+      "name": "0xEFfb291766e19477214Bf31Eaafa7e72aa094FB5-1779265039749",
+      "pseudonym": "Rigid-Cow",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-8218368-5b784676-1737-4d61-8051-4468bd696dd5.webp",
+      "profileImageOptimized": "",
+      "transactionHash": "0xd74e3ece01e22035d5fd8d37253b6fa56219d7ee9e620268dc4ad521970edad0",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Norway vs. England: O/U 2.5",
+    "market_slug": "fifwc-nor-eng-2026-07-11-more-markets",
+    "amount": 2889.9999991249997
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x29b3ab002a05e55d9fe0ffb6a3d3d1cfd9b38b93848b4b255fd012a128ad1672",
+    "wallet": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
+    "trader": {
+      "rank": 9,
+      "address": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
+      "username": "Len9311238",
+      "profit": 8709972.988069998,
+      "volume": 16402744.764626998,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+      "side": "BUY",
+      "asset": "101602787005523439722375199649470449340401625921974731174636424053496571460366",
+      "conditionId": "0x915489b259ded8c2197beb12a5af741bec45ce053ad11ca062d4e4cf12a86650",
+      "size": 7317.073169,
+      "price": 0.41,
+      "timestamp": 1783769609,
+      "title": "Nigma Galaxy to win 2-0?",
+      "slug": "dota2-playti-ngx-2026-07-11-ngx",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/dota2-7ffacddb21.jpg",
+      "eventSlug": "dota2-playti-ngx-2026-07-11",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+      "pseudonym": "Happy-Go-Lucky-Nestling",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x29b3ab002a05e55d9fe0ffb6a3d3d1cfd9b38b93848b4b255fd012a128ad1672",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Nigma Galaxy to win 2-0?",
+    "market_slug": "dota2-playti-ngx-2026-07-11",
+    "amount": 2999.99999929
   }
 ]
