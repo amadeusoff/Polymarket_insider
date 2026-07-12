@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x79e183ccb645a97b4f94eb3b2222458f2afc4e9e6bb8e49f4ea59e245ca9bf6f",
-    "wallet": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
-    "trader": {
-      "rank": 9,
-      "address": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
-      "username": "PrincessCaro",
-      "profit": 6083643.099591745,
-      "volume": 23520809.952867,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x42c99f38d2b951b0dc8e8bd5371fa80c9dd19623",
-      "side": "BUY",
-      "asset": "65865627811802787526457552728311494659721999616911421759660336115557758499723",
-      "conditionId": "0xf27ad386ee0d4ffc50626fffba9fc7116d67653f09118148ec98039861986a38",
-      "size": 3000,
-      "price": 0.6360815266666666,
-      "timestamp": 1777572610,
-      "title": "Cagliari: Roman Andres Burruchaga vs Andrea Pellegrino",
-      "slug": "atp-burruch-pellegr-2026-04-30",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
-      "eventSlug": "atp-burruch-pellegr-2026-04-30",
-      "outcome": "Andrea Pellegrino",
-      "outcomeIndex": 1,
-      "name": "TRCM",
-      "pseudonym": "Welcome-Revenue",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x79e183ccb645a97b4f94eb3b2222458f2afc4e9e6bb8e49f4ea59e245ca9bf6f",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Cagliari: Roman Andres Burruchaga vs Andrea Pellegrino",
-    "market_slug": "atp-burruch-pellegr-2026-04-30",
-    "amount": 1908.2445799999998
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x78d6dc379f9722c8a1c9d527543c5835e99405a2121518cf7a6cfb8dd5ee140a",
     "wallet": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
     "trader": {
@@ -27363,5 +27319,49 @@
     "market": "Exact Score: Argentina 1 - 0 Switzerland?",
     "market_slug": "fifwc-arg-che-2026-07-11-exact-score",
     "amount": 1950.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x33c6480c51b27743d592cd273dd8a46e5ace4f8e0094c9a99da7771e6900c59a",
+    "wallet": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
+    "trader": {
+      "rank": 3,
+      "address": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
+      "username": "Fredi9999",
+      "profit": 16619506.631730152,
+      "volume": 76611316.905154,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x1c8ff58712619753bca2a413bb69fd9cf3824d12",
+      "side": "BUY",
+      "asset": "23693969626147243955321933009432311498830093326722611626617818686497849065293",
+      "conditionId": "0xb400ffa4ba1f7abfe828dc1bcf40a1a4d4fd1e52fb243a23240a98ff0b5071ba",
+      "size": 4400,
+      "price": 0.5,
+      "timestamp": 1783848299,
+      "title": "Dota 2: MOUZ vs Vici Gaming - Game 1 Winner",
+      "slug": "dota2-mouz-vg-2026-07-12-game1",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/dota2-7ffacddb21.jpg",
+      "eventSlug": "",
+      "outcome": "Vici Gaming",
+      "outcomeIndex": 999,
+      "name": "speak3asy",
+      "pseudonym": "Quixotic-Blanket",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-7507299-8e6a0200-864c-4dc1-aa66-86452b575361.png",
+      "profileImageOptimized": "",
+      "transactionHash": "0x33c6480c51b27743d592cd273dd8a46e5ace4f8e0094c9a99da7771e6900c59a",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Dota 2: MOUZ vs Vici Gaming - Game 1 Winner",
+    "market_slug": "dota2-mouz-vg-2026-07-12-game1",
+    "amount": 2200.0
   }
 ]
