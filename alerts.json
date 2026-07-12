@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x8adeea6e976ad93b9805d238a1091c5027d8dbf9fa775e8369ffcae74aab1900",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.51568201,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x91eee6b7cea1916214daebec3b92b7513079c5b8",
-      "side": "BUY",
-      "asset": "2383775515315184645605816639825625103218377659899851112497394373724692592284",
-      "conditionId": "0xf2b6a9adc23fc2ee29da2111e46425dfec6f39c21fc53a3c4be2e216d9450cc1",
-      "size": 7000,
-      "price": 0.6,
-      "timestamp": 1777572284,
-      "title": "Will SC Braga win on 2026-04-30?",
-      "slug": "uel-scb-scf-2026-04-30-scb",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/uel.png",
-      "eventSlug": "uel-scb-scf-2026-04-30",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "everydaymortgage",
-      "pseudonym": "Boiling-Fill",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x8adeea6e976ad93b9805d238a1091c5027d8dbf9fa775e8369ffcae74aab1900",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will SC Braga win on 2026-04-30?",
-    "market_slug": "uel-scb-scf-2026-04-30",
-    "amount": 4200.0
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x79e183ccb645a97b4f94eb3b2222458f2afc4e9e6bb8e49f4ea59e245ca9bf6f",
     "wallet": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
     "trader": {
@@ -27355,5 +27311,49 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x8e897d0a8b71da80a9f8d762522765befc3852318af2cc402d45b3bc331670eb",
+    "wallet": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+    "trader": {
+      "rank": 16,
+      "address": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+      "username": "PrincessCaro",
+      "profit": 6083643.099591745,
+      "volume": 23520809.952867,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
+      "side": "BUY",
+      "asset": "13868666722547151622968425324881630789506988842711876572771841120501632704063",
+      "conditionId": "0x1352df0d34b81488545f60ea310c9cdd2d86f50011555187713491422f630b77",
+      "size": 15000,
+      "price": 0.13,
+      "timestamp": 1783819163,
+      "title": "Exact Score: Argentina 1 - 0 Switzerland?",
+      "slug": "fifwc-arg-che-2026-07-11-exact-score-1-0",
+      "icon": "",
+      "eventSlug": "fifwc-arg-che-2026-07-11-exact-score",
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "name": "",
+      "pseudonym": "",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x8e897d0a8b71da80a9f8d762522765befc3852318af2cc402d45b3bc331670eb",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Exact Score: Argentina 1 - 0 Switzerland?",
+    "market_slug": "fifwc-arg-che-2026-07-11-exact-score",
+    "amount": 1950.0
   }
 ]
