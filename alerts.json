@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xe076b791a0f969bd2204f843ec0102b647ed9c59c132a53c8292957de45a2a90",
-    "wallet": "0xd0c042c08f755ff940249f62745e82d356345565",
-    "trader": {
-      "rank": 16,
-      "address": "0xd0c042c08f755ff940249f62745e82d356345565",
-      "username": "alexmulti",
-      "profit": 4804855.613376001,
-      "volume": 9949068.653841998,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x0eb568f307e9a48af2c3e688ad6074236712c494",
-      "side": "BUY",
-      "asset": "16395005977049170071397995966020955485478804161378548677428133363574620117777",
-      "conditionId": "0x21aec181289346e442ed645309c1dac44df93ab5f31786c5c339349379bcdb70",
-      "size": 50000,
-      "price": 0.38,
-      "timestamp": 1777572636,
-      "title": "Will Aston Villa FC win on 2026-04-30?",
-      "slug": "uel-not-ast4-2026-04-30-ast4",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/uel.png",
-      "eventSlug": "uel-not-ast4-2026-04-30",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "asdfjh",
-      "pseudonym": "Constant-Fit",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xe076b791a0f969bd2204f843ec0102b647ed9c59c132a53c8292957de45a2a90",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Aston Villa FC win on 2026-04-30?",
-    "market_slug": "uel-not-ast4-2026-04-30",
-    "amount": 19000.0
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x9f6e08a0c4d29b925a71094118d605346ccadc4f0fefadbf914e2ee19415feb8",
     "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
     "trader": {
@@ -27363,5 +27319,49 @@
     "market": "LoL: Bilibili Gaming vs Hanwha Life Esports (BO5) - Mid-Season Invitational Playoffs",
     "market_slug": "lol-blg-hle1-2026-07-12",
     "amount": 8580.51
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x9c1b054d627fb1a3aa56c47670264ce49fce931663f11bc7a094219ef7359bfc",
+    "wallet": "0xed64a7bf029040aa331abc87902434d815ef217d",
+    "trader": {
+      "rank": 7,
+      "address": "0xed64a7bf029040aa331abc87902434d815ef217d",
+      "username": "fishalive",
+      "profit": 9063378.176199999,
+      "volume": 13281460.374667995,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xde7cdcab3e0c5b0e8315da358e80c7d80a12c933",
+      "side": "BUY",
+      "asset": "9773257986905054314865535114315861131161367765154232062156777240810251974291",
+      "conditionId": "0xb96585ac41b808bac0bcfa00f39a92990c64dc413804368c7191ad4e1cd299a5",
+      "size": 4414.89,
+      "price": 0.78,
+      "timestamp": 1783872011,
+      "title": "Wimbledon ATP: Jannik Sinner vs Alexander Zverev",
+      "slug": "atp-sinner-zverev-2026-07-12",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+      "eventSlug": "",
+      "outcome": "Jannik Sinner",
+      "outcomeIndex": 999,
+      "name": "thebug44",
+      "pseudonym": "Colossal-Belfry",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x9c1b054d627fb1a3aa56c47670264ce49fce931663f11bc7a094219ef7359bfc",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Wimbledon ATP: Jannik Sinner vs Alexander Zverev",
+    "market_slug": "atp-sinner-zverev-2026-07-12",
+    "amount": 3443.6142000000004
   }
 ]
