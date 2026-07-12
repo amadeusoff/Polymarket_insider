@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x78d6dc379f9722c8a1c9d527543c5835e99405a2121518cf7a6cfb8dd5ee140a",
-    "wallet": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
-    "trader": {
-      "rank": 15,
-      "address": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
-      "username": "GamblingIsAllYouNeed",
-      "profit": 4818544.81762327,
-      "volume": 395126628.43582505,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x87a146017e168286e1850c84bf2d054b2227b6ba",
-      "side": "BUY",
-      "asset": "75971837585283449079408897005449959929820115684525052869995541496799788988946",
-      "conditionId": "0xe37f92208c4f070ebd8f413ecf70b8ca58987eed3d8cb02063332df0093db7db",
-      "size": 29811.90294,
-      "price": 0.5031547308197428,
-      "timestamp": 1777572744,
-      "title": "Will Crystal Palace FC win on 2026-04-30?",
-      "slug": "col-shd-cry-2026-04-30-cry",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/uefa-conference-league-798904aed0.png",
-      "eventSlug": "col-shd-cry-2026-04-30",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "0x87a146017E168286E1850c84Bf2d054b2227B6Ba-1770129622472",
-      "pseudonym": "Unpleasant-Supermarket",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x78d6dc379f9722c8a1c9d527543c5835e99405a2121518cf7a6cfb8dd5ee140a",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Crystal Palace FC win on 2026-04-30?",
-    "market_slug": "col-shd-cry-2026-04-30",
-    "amount": 14999.999999
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xe076b791a0f969bd2204f843ec0102b647ed9c59c132a53c8292957de45a2a90",
     "wallet": "0xd0c042c08f755ff940249f62745e82d356345565",
     "trader": {
@@ -27363,5 +27319,49 @@
     "market": "Dota 2: MOUZ vs Vici Gaming - Game 1 Winner",
     "market_slug": "dota2-mouz-vg-2026-07-12-game1",
     "amount": 2200.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x5c7478c55326311fe17cd89498ccceb3ab72f6dd6f5daf2c4a81bd1c0cd1ca78",
+    "wallet": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
+    "trader": {
+      "rank": 3,
+      "address": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
+      "username": "Fredi9999",
+      "profit": 16619506.631730152,
+      "volume": 76611316.90515402,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x472bb1eca12654dac3d7d121c49fa154fdfc5d5f",
+      "side": "SELL",
+      "asset": "84104155166664241168677772017558194627461051637496189752497483985843587782825",
+      "conditionId": "0xa95d48279f55ae3288220263c0eb8a28197828121b878ff91671695ce88df46c",
+      "size": 19067.8,
+      "price": 0.45,
+      "timestamp": 1783853702,
+      "title": "LoL: Bilibili Gaming vs Hanwha Life Esports (BO5) - Mid-Season Invitational Playoffs",
+      "slug": "lol-blg-hle1-2026-07-12",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
+      "eventSlug": "",
+      "outcome": "Hanwha Life Esports",
+      "outcomeIndex": 999,
+      "name": "0x472Bb1ECA12654Dac3D7D121c49FA154fDFc5d5F-1777472797727",
+      "pseudonym": "Vapid-Beet",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x5c7478c55326311fe17cd89498ccceb3ab72f6dd6f5daf2c4a81bd1c0cd1ca78",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "LoL: Bilibili Gaming vs Hanwha Life Esports (BO5) - Mid-Season Invitational Playoffs",
+    "market_slug": "lol-blg-hle1-2026-07-12",
+    "amount": 8580.51
   }
 ]
