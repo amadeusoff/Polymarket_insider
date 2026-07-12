@@ -26119,7 +26119,8 @@
     },
     "market": "Strait of Hormuz traffic returns to normal by September 30?",
     "market_slug": "strait-of-hormuz-traffic-returns-to-normal-by-september-30-20260702154339440",
-    "amount": 1876.3347999546702
+    "amount": 1876.3347999546702,
+    "resolution_last_check": "2026-07-12T08:20:23.846267+00:00"
   },
   {
     "type": "TOP_TRADER",
@@ -26576,7 +26577,13 @@
     },
     "market": "Milwaukee Brewers vs. Pittsburgh Pirates",
     "market_slug": "mlb-mil-pit-2026-07-10",
-    "amount": 2840.341200166008
+    "amount": 2840.341200166008,
+    "resolution": {
+      "outcome": "Pittsburgh Pirates",
+      "checked_at": "2026-07-12T08:20:30.168334+00:00",
+      "insider_win": null,
+      "model_correct": null
+    }
   },
   {
     "type": "TOP_TRADER",
@@ -26664,7 +26671,8 @@
     },
     "market": "Will France win the 2026 FIFA World Cup?",
     "market_slug": "will-france-win-the-2026-fifa-world-cup-924",
-    "amount": 7707.339998043886
+    "amount": 7707.339998043886,
+    "resolution_last_check": "2026-07-12T08:20:31.261581+00:00"
   },
   {
     "market": "UFC 329: Max Holloway vs. Conor McGregor (Welterweight, Main Card)",
