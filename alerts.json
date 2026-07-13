@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x7026cbdc9f4f37d28a3e7d227a12c27ba495b8330a003ed4bca4ee45ce012ed7",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-      "side": "BUY",
-      "asset": "27119555845767968289932394557422754121689277879563254506110196283407170516084",
-      "conditionId": "0xd82dbbed1d037c229288034e590289393a32d3be41ac2dd81438b2c7b8b2320c",
-      "size": 4763,
-      "price": 0.34,
-      "timestamp": 1777664090,
-      "title": "Will US Lecce win on 2026-05-01?",
-      "slug": "sea-pis-lec-2026-05-01-lec",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Serie-A-Logo.png",
-      "eventSlug": "sea-pis-lec-2026-05-01",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "swisstony",
-      "pseudonym": "Frail-Possible",
-      "bio": "loincloth chic",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x7026cbdc9f4f37d28a3e7d227a12c27ba495b8330a003ed4bca4ee45ce012ed7",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will US Lecce win on 2026-05-01?",
-    "market_slug": "sea-pis-lec-2026-05-01",
-    "amount": 1619.42
-  },
-  {
     "market": "Will George Russell be the 2026 F1 Drivers' Champion?",
     "market_slug": "will-george-russell-be-the-2026-f1-drivers-champion",
     "event_slug": "will-george-russell-be-the-2026-f1-drivers-champion",
@@ -27292,5 +27248,49 @@
     "market": "Will a 1+ Year Enrichment Moratorium be in a US-Iran deal in 2026?",
     "market_slug": "will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026-20260623023201635",
     "amount": 2899.9999971536195
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x4506e2dd5a27a4a61dcbfaa01257c3d039a2e3b0df366a30f684ffeb2e6a9e91",
+    "wallet": "0x96cfcb0c30942cfcd1cdf76c7d408794d66b1acb",
+    "trader": {
+      "rank": 6,
+      "address": "0x96cfcb0c30942cfcd1cdf76c7d408794d66b1acb",
+      "username": "mintblade",
+      "profit": 9238344.623224001,
+      "volume": 17759922.232853003,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+      "side": "BUY",
+      "asset": "115601620033947938437817055566785106385873483376605680644727003524199383902678",
+      "conditionId": "0xadb240c24436349598eeea057fef1c623c1fe92463910a993867b5946e1fd67a",
+      "size": 16729.28,
+      "price": 0.13,
+      "timestamp": 1783984342,
+      "title": "Will Jac Caglianone win the 2026 MLB Home Run Derby?",
+      "slug": "will-jac-caglianone-win-the-2026-mlb-home-run-derby-20260709213158639",
+      "icon": "",
+      "eventSlug": "",
+      "outcome": "Yes",
+      "outcomeIndex": 999,
+      "name": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+      "pseudonym": "Wordy-Littleneck",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x4506e2dd5a27a4a61dcbfaa01257c3d039a2e3b0df366a30f684ffeb2e6a9e91",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Jac Caglianone win the 2026 MLB Home Run Derby?",
+    "market_slug": "will-jac-caglianone-win-the-2026-mlb-home-run-derby-20260709213158639",
+    "amount": 2174.8064
   }
 ]
