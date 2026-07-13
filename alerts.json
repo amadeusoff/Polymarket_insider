@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x9f6e08a0c4d29b925a71094118d605346ccadc4f0fefadbf914e2ee19415feb8",
-    "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
-    "trader": {
-      "rank": 18,
-      "address": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
-      "username": "432614799197",
-      "profit": 4526176.046413327,
-      "volume": 185485956.86208293,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x9b2b6d27fbc5dd978486011e9de0da06435d5752",
-      "side": "BUY",
-      "asset": "25128621551129115185748294032213528832600816098161954806907542624021036535232",
-      "conditionId": "0xa0f06bb96835016ff132ed702ec03b0af78846c19b3d68207307f2d38e32afe5",
-      "size": 3375.4728,
-      "price": 0.49425668605595047,
-      "timestamp": 1777579074,
-      "title": "Abidjan 2: Aziz Dougaz vs Florent Bax",
-      "slug": "atp-dougaz-bax-2026-04-30",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
-      "eventSlug": "atp-dougaz-bax-2026-04-30",
-      "outcome": "Florent Bax",
-      "outcomeIndex": 1,
-      "name": "0x9B2B6d27fBC5dd978486011E9DE0DA06435d5752-1752803536689",
-      "pseudonym": "Lustrous-Painter",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x9f6e08a0c4d29b925a71094118d605346ccadc4f0fefadbf914e2ee19415feb8",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Abidjan 2: Aziz Dougaz vs Florent Bax",
-    "market_slug": "atp-dougaz-bax-2026-04-30",
-    "amount": 1668.3500000000001
-  },
-  {
     "market": "Xi Jinping out before 2027?",
     "market_slug": "xi-jinping-out-before-2027",
     "event_slug": "xi-jinping-out-before-2027",
@@ -27363,5 +27319,49 @@
     "market": "Wimbledon ATP: Jannik Sinner vs Alexander Zverev",
     "market_slug": "atp-sinner-zverev-2026-07-12",
     "amount": 3443.6142000000004
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xf38488b35fdccb28f6e5eba9ed12c2217fbd57ed764c8e07753b721ca8d127b8",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x54bab0bc94667af224e21528804d49c1b87e04e4",
+      "side": "BUY",
+      "asset": "34644166061220511258351645835625683992002224595531330297458917345318009251227",
+      "conditionId": "0x553cbbe7f501555ddff00853c59baf713399a28e5368c32c6994932b23fe211c",
+      "size": 7710.526314,
+      "price": 0.38,
+      "timestamp": 1783941998,
+      "title": "Swiss Open: Clement Tabur vs Jurij Rodionov",
+      "slug": "atp-tabur-rodiono-2026-07-13",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+      "eventSlug": "",
+      "outcome": "Clement Tabur",
+      "outcomeIndex": 999,
+      "name": "0x54baB0BC94667Af224E21528804D49C1b87e04e4-1776237217344",
+      "pseudonym": "Reliable-Giggle",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xf38488b35fdccb28f6e5eba9ed12c2217fbd57ed764c8e07753b721ca8d127b8",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Swiss Open: Clement Tabur vs Jurij Rodionov",
+    "market_slug": "atp-tabur-rodiono-2026-07-13",
+    "amount": 2929.99999932
   }
 ]
