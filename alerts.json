@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x5b794a9b8f2480cd4b5b51d41b0927ef8825787bfcffe0dcad6017f473eb7752",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.51568201,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x13414a77a4be48988851c73dfd824d0168e70853",
-      "side": "BUY",
-      "asset": "20666024733457898655147468370671060346968198255485787443319573651607606614559",
-      "conditionId": "0x0ed57fcb218fe00090d39bbcb737fcc48ae35b815db884969cb6ace61708588c",
-      "size": 4552,
-      "price": 0.3399231107205624,
-      "timestamp": 1777636794,
-      "title": "LoL: Weibo Gaming vs Invictus Gaming - Game 1 Winner",
-      "slug": "lol-wb-ig1-2026-05-01-game1",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
-      "eventSlug": "lol-wb-ig1-2026-05-01",
-      "outcome": "Weibo Gaming",
-      "outcomeIndex": 0,
-      "name": "NRASCHATTER",
-      "pseudonym": "Practical-Alcohol",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-4043939-c1695cf1-492c-45e6-a5c4-537e510cea02.webp",
-      "profileImageOptimized": "",
-      "transactionHash": "0x5b794a9b8f2480cd4b5b51d41b0927ef8825787bfcffe0dcad6017f473eb7752",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "LoL: Weibo Gaming vs Invictus Gaming - Game 1 Winner",
-    "market_slug": "lol-wb-ig1-2026-05-01",
-    "amount": 1547.3300000000002
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x7026cbdc9f4f37d28a3e7d227a12c27ba495b8330a003ed4bca4ee45ce012ed7",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -27292,5 +27248,49 @@
     "market": "Will there be no change in Fed interest rates after the July 2026 meeting?",
     "market_slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
     "amount": 19017.655199999997
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xd2d58d8c6425eb590c7c511032b0531d0ed3485421c2f74ec2e563342b3dfa6f",
+    "wallet": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+    "trader": {
+      "rank": 16,
+      "address": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+      "username": "PrincessCaro",
+      "profit": 6083643.099591745,
+      "volume": 23520809.952867,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x60a92c8620846d81f5ea17b0564e0d4b7c545a71",
+      "side": "BUY",
+      "asset": "83058466110717451681231918270720665192836798656062006286150563770780281745838",
+      "conditionId": "0x9383311a643990a4d8b6b9416cfd6dc448d44c6c0ea12c07de6f8ba4bfeb8081",
+      "size": 3652.899626,
+      "price": 0.7938898667,
+      "timestamp": 1783966925,
+      "title": "Will a 1+ Year Enrichment Moratorium be in a US-Iran deal in 2026?",
+      "slug": "will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026-20260623023201635",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/x-5f779b9acd.png",
+      "eventSlug": "",
+      "outcome": "No",
+      "outcomeIndex": 999,
+      "name": "paddaa",
+      "pseudonym": "Fearful-Congress",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3154451-d1120fcc-6e76-4148-b6a3-3622eebeee2e.jpeg",
+      "profileImageOptimized": "",
+      "transactionHash": "0xd2d58d8c6425eb590c7c511032b0531d0ed3485421c2f74ec2e563342b3dfa6f",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will a 1+ Year Enrichment Moratorium be in a US-Iran deal in 2026?",
+    "market_slug": "will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026-20260623023201635",
+    "amount": 2899.9999971536195
   }
 ]
