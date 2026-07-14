@@ -1,100 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x67d9faabcea311bfdb342b90c8accc0d3518fa4c49425dbc435802266a3e4a76",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xb652e5dabc3fccd3c939acab0108f99866842db4",
-      "side": "BUY",
-      "asset": "107646571855528571179151689880725360637302367736699759018841667621188213338134",
-      "conditionId": "0xca7dbcb739e6a52cdf246ccc2200eea42bde2f1ca731eac8319a02e3ca916926",
-      "size": 10155.37,
-      "price": 0.49,
-      "timestamp": 1777764742,
-      "title": "76ers vs. Celtics: O/U 205.5",
-      "slug": "nba-phi-bos-2026-05-02-total-205pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-phi-bos-2026-05-02",
-      "outcome": "Over",
-      "outcomeIndex": 0,
-      "name": "0x2a2C53bD278c04DA9962Fcf96490E17F3DfB9B",
-      "pseudonym": "Several-Semicolon",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-952641-09ade205-c3b9-436f-a03a-f73023fc6740.png",
-      "profileImageOptimized": "",
-      "transactionHash": "0x67d9faabcea311bfdb342b90c8accc0d3518fa4c49425dbc435802266a3e4a76",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "76ers vs. Celtics: O/U 205.5",
-    "market_slug": "nba-phi-bos-2026-05-02",
-    "amount": 4976.1313,
-    "resolution": {
-      "outcome": "76ers",
-      "checked_at": "2026-05-03T08:06:58.568909+00:00",
-      "insider_win": null,
-      "model_correct": null
-    }
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x3078dd6b26ab15c846ea3fb66abbeee48bf05b1b8e181941a475b2836deef463",
-    "wallet": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
-    "trader": {
-      "rank": 19,
-      "address": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
-      "username": "Jenzigo",
-      "profit": 4049827.0941029997,
-      "volume": 9457725.034338009,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x4cb7d8f15053b1e716101945a9b16743a1c03644",
-      "side": "SELL",
-      "asset": "109097593723834860977466902606780660853528686081320280860347028728942311685209",
-      "conditionId": "0x069189619c7ae96da2abd767071f659190af6cadf9ef1c0b875f99268b5b4ebe",
-      "size": 6551.72,
-      "price": 0.58,
-      "timestamp": 1777784854,
-      "title": "Will Arsenal FC win on 2026-05-05?",
-      "slug": "ucl-ars-atm1-2026-05-05-ars",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/champions-league-pic-QIUFsL8vaDdq.png",
-      "eventSlug": "ucl-ars-atm1-2026-05-05",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "0x4Cb7D8F15053B1E716101945A9B16743A1c03644-1772613088724",
-      "pseudonym": "Young-Ruin",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x3078dd6b26ab15c846ea3fb66abbeee48bf05b1b8e181941a475b2836deef463",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Arsenal FC win on 2026-05-05?",
-    "market_slug": "ucl-ars-atm1-2026-05-05",
-    "amount": 3799.9975999999997
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xceafdb21869ddac779d9c50c7c01bb86bbd6626b0c371d5138fb6e4938eee899",
     "wallet": "0xd0c042c08f755ff940249f62745e82d356345565",
     "trader": {
@@ -27306,5 +27212,93 @@
     "market": "France vs. Spain: Both Teams to Score",
     "market_slug": "fifwc-fra-esp-2026-07-14-btts",
     "amount": 10476.179998309999
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x3a2695dbb0896d776aad7bf53213e94967c4da222532319b8b0576deb299aa11",
+    "wallet": "0xbc11a64ab34a03a043fbe80598fa065ee87eeec6",
+    "trader": {
+      "rank": 8,
+      "address": "0xbc11a64ab34a03a043fbe80598fa065ee87eeec6",
+      "username": "frostrizz",
+      "profit": 8928561.11799,
+      "volume": 23091318.15574806,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x943ceb686511fe7aaca6a863b00493e088da1d17",
+      "side": "BUY",
+      "asset": "115428153746996892211798999366308897078723117634059783423375188043903703749062",
+      "conditionId": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
+      "size": 2115.10278,
+      "price": 0.827,
+      "timestamp": 1784055517,
+      "title": "Will Argentina win the 2026 FIFA World Cup?",
+      "slug": "will-argentina-win-the-2026-fifa-world-cup-245",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/world-cup-winner-argentina-flag-20260603-192743.png",
+      "eventSlug": "",
+      "outcome": "No",
+      "outcomeIndex": 999,
+      "name": "DaMonkeyHope",
+      "pseudonym": "Internal-Slope",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3047159-0f8d8125-2f02-4a15-ae29-ffa5de3a313d.png",
+      "profileImageOptimized": "",
+      "transactionHash": "0x3a2695dbb0896d776aad7bf53213e94967c4da222532319b8b0576deb299aa11",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Argentina win the 2026 FIFA World Cup?",
+    "market_slug": "will-argentina-win-the-2026-fifa-world-cup-245",
+    "amount": 1749.18999906
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x8440d189c16ae163b00fcfddbf8ad55087b4d73f872f15de0ccf76de14afac70",
+    "wallet": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+    "trader": {
+      "rank": 17,
+      "address": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+      "username": "walletmobile",
+      "profit": 5942685.45339684,
+      "volume": 32196692.075936034,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xb4eea1c82f0c4cf7e02e69212bd447a63314cc59",
+      "side": "BUY",
+      "asset": "106906313287170293201122737554454743657374650410263936547197137801182395880303",
+      "conditionId": "0x67cc68fbfe1fba4cbf218a19d66d1dff867dd4d304907bd1840e95f445819043",
+      "size": 3221.764688,
+      "price": 0.8802970647,
+      "timestamp": 1784055817,
+      "title": "Spread: Spain (-1.5)",
+      "slug": "fifwc-fra-esp-2026-07-14-spread-away-1pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "",
+      "outcome": "France",
+      "outcomeIndex": 999,
+      "name": "HyperwellNerdZ",
+      "pseudonym": "Unsteady-Agency",
+      "bio": "Run local-cryo sessions by day, run markets by night. ",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3223076-7d0cc404-2a59-4f35-b3ac-4fe1dec31afd.png",
+      "profileImageOptimized": "",
+      "transactionHash": "0x8440d189c16ae163b00fcfddbf8ad55087b4d73f872f15de0ccf76de14afac70",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spread: Spain (-1.5)",
+    "market_slug": "fifwc-fra-esp-2026-07-14-spread-away-1pt5",
+    "amount": 2836.1099980005115
   }
 ]
