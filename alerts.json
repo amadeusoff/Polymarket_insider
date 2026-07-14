@@ -1,50 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xdf827ba6116de2ce6d3be1e249c3b299b89d114296f38e32964ca50407397acb",
-    "wallet": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
-    "trader": {
-      "rank": 15,
-      "address": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
-      "username": "GamblingIsAllYouNeed",
-      "profit": 4881181.912244495,
-      "volume": 394055261.12417907,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xb66582886125a2a2ea966f1ea60ea60b6ecabf8f",
-      "side": "BUY",
-      "asset": "1910830010387565971650098373488592514702818137344973088263643820608151819241",
-      "conditionId": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "size": 8000,
-      "price": 0.7,
-      "timestamp": 1777730770,
-      "title": "Will the U.S. invade Iran before 2027?",
-      "slug": "will-the-us-invade-iran-before-2027",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-the-us-invade-iran-in-2025-0Eh3J0ku_Fbj.jpg",
-      "eventSlug": "will-the-us-invade-iran-before-2027",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "Aeglos",
-      "pseudonym": "Reflecting-Leisure",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xdf827ba6116de2ce6d3be1e249c3b299b89d114296f38e32964ca50407397acb",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will the U.S. invade Iran before 2027?",
-    "market_slug": "will-the-us-invade-iran-before-2027",
-    "amount": 5600.0,
-    "resolution_last_check": "2026-05-03T08:06:54.422513+00:00"
-  },
-  {
     "market": "Total Kills Over/Under 27.5 in Game 1?",
     "market_slug": "lol-vit-sk-2026-05-02-game1-kill-over-27pt5",
     "event_slug": "lol-vit-sk-2026-05-02-game1-kill-over-27pt5",
@@ -27231,5 +27186,49 @@
     "market": "Will Spain win the 2026 FIFA World Cup?",
     "market_slug": "will-spain-win-the-2026-fifa-world-cup-963",
     "amount": 2620.1999984509443
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x4f306920a771a4e39a45800e346dc6f5c7f8baaf4da651ff9b592fab17fa26fc",
+    "wallet": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+    "trader": {
+      "rank": 17,
+      "address": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+      "username": "walletmobile",
+      "profit": 5942685.45339684,
+      "volume": 32196692.075936034,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x0f3433d8b7596000bf1046aa822308d93cf67684",
+      "side": "BUY",
+      "asset": "25312457392074064866955638920139332428292497556441446372623464789018436410183",
+      "conditionId": "0x20fac1c925b7a2fed6b3b2736f47a800b4d0d4001b9deaeb7b918868eb63d081",
+      "size": 11912,
+      "price": 0.405,
+      "timestamp": 1784041706,
+      "title": "Will France win on 2026-07-14?",
+      "slug": "fifwc-fra-esp-2026-07-14-fra",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "",
+      "outcome": "Yes",
+      "outcomeIndex": 999,
+      "name": "",
+      "pseudonym": "",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x4f306920a771a4e39a45800e346dc6f5c7f8baaf4da651ff9b592fab17fa26fc",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will France win on 2026-07-14?",
+    "market_slug": "fifwc-fra-esp-2026-07-14-fra",
+    "amount": 4824.360000000001
   }
 ]
