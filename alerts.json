@@ -27097,7 +27097,8 @@
     },
     "market": "Will there be no change in Fed interest rates after the July 2026 meeting?",
     "market_slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
-    "amount": 19017.655199999997
+    "amount": 19017.655199999997,
+    "resolution_last_check": "2026-07-14T08:07:13.148515+00:00"
   },
   {
     "type": "TOP_TRADER",
@@ -27141,7 +27142,8 @@
     },
     "market": "Will a 1+ Year Enrichment Moratorium be in a US-Iran deal in 2026?",
     "market_slug": "will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026-20260623023201635",
-    "amount": 2899.9999971536195
+    "amount": 2899.9999971536195,
+    "resolution_last_check": "2026-07-14T08:07:13.800164+00:00"
   },
   {
     "type": "TOP_TRADER",
