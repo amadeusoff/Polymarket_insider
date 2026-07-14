@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xceafdb21869ddac779d9c50c7c01bb86bbd6626b0c371d5138fb6e4938eee899",
-    "wallet": "0xd0c042c08f755ff940249f62745e82d356345565",
-    "trader": {
-      "rank": 16,
-      "address": "0xd0c042c08f755ff940249f62745e82d356345565",
-      "username": "alexmulti",
-      "profit": 4804855.613376001,
-      "volume": 9949068.653841998,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xa8b37cec5fa0b1b8cc3363e4f10a21a4049e4484",
-      "side": "BUY",
-      "asset": "107903187097064440993665243047237103234187359771702998268137476819081108572677",
-      "conditionId": "0x8cf61b7b84b6ac2e0c619867dd6966e688b43e4fd4c866423da2f757c58f0a9f",
-      "size": 4600.53,
-      "price": 0.74,
-      "timestamp": 1777793256,
-      "title": "Will Gold (GC) hit (LOW) $4,200 by end of June?",
-      "slug": "gc-hit-4200-low-jun-2026-737-562-112-239-328-831-356-185-544-513",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/gold-logo-0d00c80498.png",
-      "eventSlug": "gc-hit-jun-2026",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "pechenka2311",
-      "pseudonym": "Advanced-Shipper",
-      "bio": "tg: @pechenkatwink",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xceafdb21869ddac779d9c50c7c01bb86bbd6626b0c371d5138fb6e4938eee899",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Gold (GC) hit (LOW) $4,200 by end of June?",
-    "market_slug": "gc-hit-jun-2026",
-    "amount": 3404.3922
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x21acc8acd62f3bd4d0805f6900d6870287c9ff98b187906271135957a621aaa2",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -27300,5 +27256,49 @@
     "market": "Spread: Spain (-1.5)",
     "market_slug": "fifwc-fra-esp-2026-07-14-spread-away-1pt5",
     "amount": 2836.1099980005115
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x15d0e8b1ab9f1640140f454e3c55d93e8ba029de5805a6ea797947be8884ffcf",
+    "wallet": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+    "trader": {
+      "rank": 17,
+      "address": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+      "username": "walletmobile",
+      "profit": 5942685.45339684,
+      "volume": 32196692.075936034,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xa6dbb4f86e1403f2e8b36a18aabd857bb31c2839",
+      "side": "BUY",
+      "asset": "56086268628889124557250914532536112313643119412803301998657015039799775065029",
+      "conditionId": "0xfb2314dcad9273745bd3de0db31a2036cda3eae847039a58e41a3c2dcc233657",
+      "size": 2140.468225,
+      "price": 0.7474999999,
+      "timestamp": 1784060618,
+      "title": "France vs. Spain: O/U 2.5",
+      "slug": "fifwc-fra-esp-2026-07-14-total-2pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "fifwc-fra-esp-2026-07-14-more-markets",
+      "outcome": "Over",
+      "outcomeIndex": 0,
+      "name": "Ansjj",
+      "pseudonym": "Giant-Goose",
+      "bio": "asdc",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x15d0e8b1ab9f1640140f454e3c55d93e8ba029de5805a6ea797947be8884ffcf",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "France vs. Spain: O/U 2.5",
+    "market_slug": "fifwc-fra-esp-2026-07-14-more-markets",
+    "amount": 1599.9999979734532
   }
 ]
