@@ -1,94 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xe821ea9d48cdd1d2583cfe739d3d1638331bc94dde6a968cf9920fc3b28a2d40",
-    "wallet": "0xd0c042c08f755ff940249f62745e82d356345565",
-    "trader": {
-      "rank": 16,
-      "address": "0xd0c042c08f755ff940249f62745e82d356345565",
-      "username": "alexmulti",
-      "profit": 4804855.613376001,
-      "volume": 9949068.653841998,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xea325cab4f4ac5bb2ff4cfba98893fb0cdf38870",
-      "side": "BUY",
-      "asset": "2350056717623066602599427610359989390454822430233439246091449088256536707913",
-      "conditionId": "0x13d364597429089ef5020c69e41c4fc15703541f9d33e33db4a031f153721540",
-      "size": 16000,
-      "price": 0.67,
-      "timestamp": 1777710048,
-      "title": "UFC Fight Night: Themba Gorimbo vs. Jonathan Micallef (Welterweight, Prelims)",
-      "slug": "ufc-the2-jon21-2026-05-02",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ufc-logo-37bbbd28e6.png",
-      "eventSlug": "ufc-the2-jon21-2026-05-02",
-      "outcome": "Jonathan Micallef",
-      "outcomeIndex": 1,
-      "name": "Luckyboy29",
-      "pseudonym": "Natural-Browser",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xe821ea9d48cdd1d2583cfe739d3d1638331bc94dde6a968cf9920fc3b28a2d40",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "UFC Fight Night: Themba Gorimbo vs. Jonathan Micallef (Welterweight, Prelims)",
-    "market_slug": "ufc-the2-jon21-2026-05-02",
-    "amount": 10720.0
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xce22c5ec4a569112f43a9c7c7bfa2eb858f610876f8199f6e23eb3ce95cbc3f5",
-    "wallet": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
-    "trader": {
-      "rank": 15,
-      "address": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
-      "username": "GamblingIsAllYouNeed",
-      "profit": 4881181.912244495,
-      "volume": 394055261.12417907,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x7523cafcee7bcf2db9a79d80e0d79b88a9a54c4c",
-      "side": "BUY",
-      "asset": "109716724019363983618880291507628426436817303220087305938342349144073848356715",
-      "conditionId": "0xc6ddb19f848ac363330d0a690cfe6818d4c51e837161a41d42675eda27767ed0",
-      "size": 86454.67,
-      "price": 0.654,
-      "timestamp": 1777730770,
-      "title": "Will Finland win Eurovision 2026?",
-      "slug": "will-finland-win-eurovision-2026",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-finland-win-eurovision-2026-U6zsO_IBsxmn.png",
-      "eventSlug": "eurovision-winner-2026",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "DonaldinhoTrumpito",
-      "pseudonym": "Optimal-Pecan",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Donaldinho_94ac17c3-c2a3-4c98-afe1-f23770d0784d_1721814915831.PNG",
-      "profileImageOptimized": "",
-      "transactionHash": "0xce22c5ec4a569112f43a9c7c7bfa2eb858f610876f8199f6e23eb3ce95cbc3f5",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Finland win Eurovision 2026?",
-    "market_slug": "eurovision-winner-2026",
-    "amount": 56541.35418
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xdf827ba6116de2ce6d3be1e249c3b299b89d114296f38e32964ca50407397acb",
     "wallet": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
     "trader": {
@@ -27231,5 +27143,93 @@
     "market": "Dota 2: Team Liquid vs Xtreme Gaming (BO3) - Esports World Cup Survival",
     "market_slug": "dota2-liquid-xtreme-2026-07-14",
     "amount": 1999.9999979305926
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x23aa6b2d9e2265454b6c000aff88c2d8c77e2fb434b00240092faf2e0cafb276",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "trader": {
+      "rank": 5,
+      "address": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+      "username": "RN1",
+      "profit": 11177382.409630977,
+      "volume": 891135705.8146614,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "BUY",
+      "asset": "106173794909512056416272847084929637590295575892640533111361648910356942402067",
+      "conditionId": "0xedd37f20401b652568385a5740fafc04442b1497fd93ca13d2689a0867b2987d",
+      "size": 21602.57534,
+      "price": 0.73,
+      "timestamp": 1784034200,
+      "title": "Will Zhejiang Zhiye FC win on 2026-07-11?",
+      "slug": "chi-zhe-hai-2026-07-11-zhe",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/chinese-super-league-39d902bcb6.png",
+      "eventSlug": "",
+      "outcome": "Yes",
+      "outcomeIndex": 999,
+      "name": "swisstony",
+      "pseudonym": "Frail-Possible",
+      "bio": "trash panda",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x23aa6b2d9e2265454b6c000aff88c2d8c77e2fb434b00240092faf2e0cafb276",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Zhejiang Zhiye FC win on 2026-07-11?",
+    "market_slug": "chi-zhe-hai-2026-07-11-zhe",
+    "amount": 15769.8799982
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x7bc5a8e96f60f9b4eff16caf26f06cf3b645dabe7808ed8b93610ae122c7e9b4",
+    "wallet": "0x5e4c3b5b81171e2ca4ab776ac0d6bba787f9dba2",
+    "trader": {
+      "rank": 14,
+      "address": "0x5e4c3b5b81171e2ca4ab776ac0d6bba787f9dba2",
+      "username": "endlessFate",
+      "profit": 7409836.65260974,
+      "volume": 26282164.742855996,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xaaf6bd323fb1e748b41f08088c463fbb3e93569a",
+      "side": "BUY",
+      "asset": "4394372887385518214471608448209527405727552777602031099972143344338178308080",
+      "conditionId": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+      "size": 12130.555554,
+      "price": 0.2159999999,
+      "timestamp": 1784034800,
+      "title": "Will Spain win the 2026 FIFA World Cup?",
+      "slug": "will-spain-win-the-2026-fifa-world-cup-963",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/world-cup-winner-spain-flag-20260603-192743.png",
+      "eventSlug": "",
+      "outcome": "Yes",
+      "outcomeIndex": 999,
+      "name": "",
+      "pseudonym": "",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x7bc5a8e96f60f9b4eff16caf26f06cf3b645dabe7808ed8b93610ae122c7e9b4",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Spain win the 2026 FIFA World Cup?",
+    "market_slug": "will-spain-win-the-2026-fifa-world-cup-963",
+    "amount": 2620.1999984509443
   }
 ]
