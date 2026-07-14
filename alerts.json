@@ -1,93 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x21acc8acd62f3bd4d0805f6900d6870287c9ff98b187906271135957a621aaa2",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xe6dde73456b7f7c44801a6559c358d26bdfcedaf",
-      "side": "BUY",
-      "asset": "76708176310614040654550730242547927002751078013145664719932037307624301856811",
-      "conditionId": "0x3675d0fa86eaacb6b6a0e0c3c6a7d61c8ad914faf8fcad0b26d5dade4197179a",
-      "size": 5017.5,
-      "price": 0.4,
-      "timestamp": 1777803160,
-      "title": "LoL: ThunderTalk Gaming vs LNG Esports - Game 2 Winner",
-      "slug": "lol-tt-lng-2026-05-03-game2",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
-      "eventSlug": "lol-tt-lng-2026-05-03",
-      "outcome": "ThunderTalk Gaming",
-      "outcomeIndex": 0,
-      "name": "NiuBot",
-      "pseudonym": "Affectionate-Blast",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x21acc8acd62f3bd4d0805f6900d6870287c9ff98b187906271135957a621aaa2",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "LoL: ThunderTalk Gaming vs LNG Esports - Game 2 Winner",
-    "market_slug": "lol-tt-lng-2026-05-03",
-    "amount": 2007.0
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x3f22c313a43c0462373f9404b7575c22e74eb8bf70fc7d827752032e23e20243",
-    "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
-    "trader": {
-      "rank": 7,
-      "address": "0x863134d00841b2e200492805a01e1e2f5defaa53",
-      "username": "RepTrump",
-      "profit": 7532409.671579,
-      "volume": 13983231.103425,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x27f738fe203827445690339104aae35b20bc44b0",
-      "side": "BUY",
-      "asset": "18322317650032129911964612844300431868548845843782559545687904284950103143952",
-      "conditionId": "0x20ae9464a229d78473165315ac63b969f44184a8cb00c03bc5d130cc02a61e07",
-      "size": 27335,
-      "price": 0.82,
-      "timestamp": 1777816068,
-      "title": "Will Juventus FC win on 2026-05-03?",
-      "slug": "sea-juv-ver-2026-05-03-juv",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Serie-A-Logo.png",
-      "eventSlug": "sea-juv-ver-2026-05-03",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "ic4cream",
-      "pseudonym": "Hateful-Chord",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x3f22c313a43c0462373f9404b7575c22e74eb8bf70fc7d827752032e23e20243",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Juventus FC win on 2026-05-03?",
-    "market_slug": "sea-juv-ver-2026-05-03",
-    "amount": 22414.699999999997
-  },
-  {
     "market": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 8, 2026?",
     "market_slug": "will-donald-trump-announce-that-the-united-states-blockade-of-the-strait-of-hormuz-has-been-lifted-by-may-8-2026-522",
     "event_slug": "will-donald-trump-announce-that-the-united-states-blockade-of-the-strait-of-hormuz-has-been-lifted-by-may-8-2026-522",
@@ -27300,5 +27212,154 @@
     "market": "France vs. Spain: O/U 2.5",
     "market_slug": "fifwc-fra-esp-2026-07-14-more-markets",
     "amount": 1599.9999979734532
+  },
+  {
+    "market": "England vs. Argentina: Both Teams to Score",
+    "market_slug": "fifwc-eng-arg-2026-07-15-btts",
+    "event_slug": "fifwc-eng-arg-2026-07-15-btts",
+    "wallet": "0xae1f8da86319d46c16c129990730abb3ee200b6c",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($2,000)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 1999.9999988678433,
+      "odds": 0.5099999999,
+      "raw_price": 0.5099999999,
+      "outcome": "Yes",
+      "potential_pnl": 1921.568627132157,
+      "pnl_multiplier": 0.9607843141099577,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-07-14T21:26:46.385001",
+    "trade_hash": "0x03a3d3be8aeec84780bfcbba4fd4f5d5463d552de11df13e8435dd2f8e48ae4f",
+    "trade_timestamp": 1784063962,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.5099999999,
+      "effective_price": 0.5099999999,
+      "size": 3921.568626,
+      "amount": 1999.9999988678433,
+      "potential_pnl": 1921.568627132157,
+      "pnl_multiplier": 0.9607843141099577,
+      "is_no": false,
+      "slug": "fifwc-eng-arg-2026-07-15-btts",
+      "eventSlug": "fifwc-eng-arg-2026-07-15-more-markets"
+    },
+    "irrationality": {
+      "irrationality_score": 25,
+      "flags": [
+        "Significant mispricing edge (+14.8%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.36149999996,
+      "market_price": 0.5099999999,
+      "edge": 0.14849999994000002,
+      "edge_percent": 14.849999994000001,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 25,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.14849999994000002,
+      "edge_percent": 14.849999994000001
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 41.3,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 14.85,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x4852312d6d4189bbec5a53edd726128d12bf2379dea0da63068eec8e5ae33635",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x4362aed78af125811e17b5922994d6e88b539e47",
+      "side": "BUY",
+      "asset": "1685505909107722804644320282925335742915331922311132916358303420635989147648",
+      "conditionId": "0x03b9f668d9cf933054e41230021ac84c6d0000000000000000000000000000",
+      "size": 11506.602869,
+      "price": 0.2089999999,
+      "timestamp": 1784064218,
+      "title": "England vs. Argentina: Team to Advance AND Jude Bellingham: 1+ goals",
+      "slug": "",
+      "icon": "",
+      "eventSlug": "",
+      "outcome": "",
+      "outcomeIndex": 999,
+      "name": "coreyape1",
+      "pseudonym": "Jolly-Loan-Overweight",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x4852312d6d4189bbec5a53edd726128d12bf2379dea0da63068eec8e5ae33635",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "England vs. Argentina: Team to Advance AND Jude Bellingham: 1+ goals",
+    "market_slug": "",
+    "amount": 2404.87999847034
   }
 ]
