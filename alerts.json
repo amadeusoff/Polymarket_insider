@@ -1,117 +1,5 @@
 [
   {
-    "market": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 8, 2026?",
-    "market_slug": "will-donald-trump-announce-that-the-united-states-blockade-of-the-strait-of-hormuz-has-been-lifted-by-may-8-2026-522",
-    "event_slug": "will-donald-trump-announce-that-the-united-states-blockade-of-the-strait-of-hormuz-has-been-lifted-by-may-8-2026-522",
-    "wallet": "0x83dc2d909ceacda3a0965feb9dde3d4c38592623",
-    "analysis": {
-      "score": 105,
-      "flags": [
-        "New wallet (0d old)",
-        "Against trend (4.2% effective odds)",
-        "Pre-event latency: 6329m"
-      ],
-      "amount": 134.0220000000001,
-      "odds": 0.04200000000000004,
-      "raw_price": 0.958,
-      "outcome": "No",
-      "potential_pnl": 3056.9779999999996,
-      "pnl_multiplier": 22.80952380952379,
-      "wallet_age_days": 0,
-      "total_activities": 11
-    },
-    "timestamp": "2026-05-03T14:38:11.530454",
-    "trade_hash": "0x95c3431066726bd07006378834c1f0ebb05cf89864e527bd5dfdf01c77c9d656",
-    "trade_timestamp": 1777818648,
-    "latency": {
-      "latency_seconds": 379752.0,
-      "latency_minutes": 6329.2,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-05-03T14:30:48+00:00",
-      "event_time": "2026-05-08T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "normalized_position": "NO",
-      "side": "BUY",
-      "price": 0.958,
-      "effective_price": 0.958,
-      "size": 3191.0,
-      "amount": 3056.978,
-      "potential_pnl": 134.02199999999993,
-      "pnl_multiplier": 0.043841336116910205,
-      "is_no": true,
-      "slug": "will-donald-trump-announce-that-the-united-states-blockade-of-the-strait-of-hormuz-has-been-lifted-by-may-8-2026-522",
-      "eventSlug": "trump-announces-us-blockade-of-hormuz-lifted-by"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+45.8%)"
-      ],
-      "category": "politics_near",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.02,
-        "min_edge": 0.03
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.5,
-      "market_price": 0.958,
-      "edge": 0.45799999999999996,
-      "edge_percent": 45.8,
-      "min_edge_required": 0.03,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "low"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 2,
-        "conditions": [
-          "Unknown"
-        ],
-        "weakest_link": "Unknown"
-      },
-      "category": "politics_near",
-      "narrative_drivers": [
-        "Unknown"
-      ],
-      "confidence_in_analysis": "low"
-    },
-    "combined_signal": {
-      "signal_type": "ALPHA",
-      "signal_emoji": "\ud83d\udd25",
-      "signal_strength": 140,
-      "interpretation": "Smart money (NO) confirms YES is overpriced",
-      "action_suggestion": "High conviction: insider + statistics aligned",
-      "insider_score": 105,
-      "insider_position": "NO",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.45799999999999996,
-      "edge_percent": 45.8
-    },
-    "financial_analyst": {
-      "signal_quality": 87.0,
-      "stance": "HIGH_CONVICTION",
-      "edge_percent": 45.8,
-      "signal_strength": 140.0,
-      "insider_score": 105.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-05-04T08:35:12.644032+00:00"
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0xd82d37ef5557c2e188250d02f99e34f67ac82248f5e1bec843f0643c8b6d4797",
     "wallet": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
@@ -27361,5 +27249,49 @@
     "market": "England vs. Argentina: Team to Advance AND Jude Bellingham: 1+ goals",
     "market_slug": "",
     "amount": 2404.87999847034
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x5e86af2bf13aef34d7ff676d1be91d209b905fd1bec60f6a5030e2945607d5ef",
+    "wallet": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+    "trader": {
+      "rank": 18,
+      "address": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+      "username": "walletmobile",
+      "profit": 5942685.45339684,
+      "volume": 32196692.075936034,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654",
+      "side": "BUY",
+      "asset": "23554941250771310088424990705837264369863820027178559688019172741164780364639",
+      "conditionId": "0x5b41969fb8a615bb07caead5519bac0237851f4294c4f3e5891d1afc04feed84",
+      "size": 27379.01,
+      "price": 0.7416243721,
+      "timestamp": 1784072321,
+      "title": "Granby: Daniel Milavsky vs Duncan Chan",
+      "slug": "atp-milavsk-chan-2026-07-13",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+      "eventSlug": "",
+      "outcome": "Daniel Milavsky",
+      "outcomeIndex": 999,
+      "name": "0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622",
+      "pseudonym": "Guilty-Receipt",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x5e86af2bf13aef34d7ff676d1be91d209b905fd1bec60f6a5030e2945607d5ef",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Granby: Daniel Milavsky vs Duncan Chan",
+    "market_slug": "atp-milavsk-chan-2026-07-13",
+    "amount": 20304.94109996962
   }
 ]
