@@ -1,51 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x15a4569b210313014478668634608180b8caccf47d38c82bc09d034ad9b2d3e1",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.51568201,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x4924c71c054637d76d0a96d6d097a0d95f77f328",
-      "side": "BUY",
-      "asset": "65596395217369351759847503685059651127401724807087821846097948300306625779018",
-      "conditionId": "0x40118c26a1fca2827a4501cab87609f2d4d0a62c4b56ff5cbec7a53b20e492c8",
-      "size": 4787.688489,
-      "price": 0.5179952715591142,
-      "timestamp": 1777696240,
-      "title": "Shymkent 2: Antoine Ghibaudo vs Manoj Dhamne Manas",
-      "slug": "atp-ghibaud-manas-2026-05-02",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
-      "eventSlug": "atp-ghibaud-manas-2026-05-02",
-      "outcome": "Antoine Ghibaudo",
-      "outcomeIndex": 0,
-      "name": "Aussieoioioi",
-      "pseudonym": "Broken-Retouching",
-      "bio": "Memory is in the future",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-1327089-cc0ccbab-adab-40e5-a2eb-7a5aa20e6a9a.jpeg",
-      "profileImageOptimized": "",
-      "transactionHash": "0x15a4569b210313014478668634608180b8caccf47d38c82bc09d034ad9b2d3e1",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Shymkent 2: Antoine Ghibaudo vs Manoj Dhamne Manas",
-    "market_slug": "atp-ghibaud-manas-2026-05-02",
-    "amount": 2479.999999,
-    "resolution_last_check": "2026-05-02T07:50:05.385266+00:00"
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xe821ea9d48cdd1d2583cfe739d3d1638331bc94dde6a968cf9920fc3b28a2d40",
     "wallet": "0xd0c042c08f755ff940249f62745e82d356345565",
     "trader": {
@@ -27232,5 +27187,49 @@
     "market": "Granby: Nicolas Arseneault vs Andres Martin",
     "market_slug": "atp-arsenea-marti-2026-07-13",
     "amount": 1595.8199990843225
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xf38c472aee55a1e9306be03dcf0cde6836eaf934b92147a173e5fed3413a6a92",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x472bb1eca12654dac3d7d121c49fa154fdfc5d5f",
+      "side": "BUY",
+      "asset": "9387076575690168745639499738491123888292810182525566257151648216551353407028",
+      "conditionId": "0x8e7b2d6fe9eeba28fa7147588594a162db197ffe4165ed3587f9e6380f8d01ed",
+      "size": 2940.718426,
+      "price": 0.6801059157,
+      "timestamp": 1784029397,
+      "title": "Dota 2: Team Liquid vs Xtreme Gaming (BO3) - Esports World Cup Survival",
+      "slug": "dota2-liquid-xtreme-2026-07-14",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/dota2-7ffacddb21.jpg",
+      "eventSlug": "",
+      "outcome": "Team Liquid",
+      "outcomeIndex": 999,
+      "name": "0x472Bb1ECA12654Dac3D7D121c49FA154fDFc5d5F-1777472797727",
+      "pseudonym": "Vapid-Beet",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xf38c472aee55a1e9306be03dcf0cde6836eaf934b92147a173e5fed3413a6a92",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Dota 2: Team Liquid vs Xtreme Gaming (BO3) - Esports World Cup Survival",
+    "market_slug": "dota2-liquid-xtreme-2026-07-14",
+    "amount": 1999.9999979305926
   }
 ]
