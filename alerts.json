@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xbc46e3dc1a78bd348d9ee8db9194038a18db963d81acc72c9fc1df7a90b37ada",
-    "wallet": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
-    "trader": {
-      "rank": 3,
-      "address": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
-      "username": "kch123",
-      "profit": 12072900.022657357,
-      "volume": 288148989.706795,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x4956f69ada024c5cb23ed4f38f0dc4c04d2ee2c7",
-      "side": "SELL",
-      "asset": "100223828145771557365481497973228524653584015683453730224651209016438239024987",
-      "conditionId": "0x441a76dd2bb884e6a35b0e29755b49c9296dca3855e1403e341ae5fcc698de5c",
-      "size": 11304.33,
-      "price": 0.37887086629636607,
-      "timestamp": 1777840080,
-      "title": "Will CA River Plate win on 2026-03-08?",
-      "slug": "arg-riv-cat-2026-03-08-riv",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/argentina-primera-division-fdedea0d80.png",
-      "eventSlug": "arg-riv-cat-2026-03-08",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "justbusiness1",
-      "pseudonym": "Cooperative-Nestmate",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xbc46e3dc1a78bd348d9ee8db9194038a18db963d81acc72c9fc1df7a90b37ada",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will CA River Plate win on 2026-03-08?",
-    "market_slug": "arg-riv-cat-2026-03-08",
-    "amount": 4282.8813
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xeae865322f0344061b2c85e62d859e50b9d1638ff1faa6362c6bd441f17bad23",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -27293,5 +27249,49 @@
     "market": "ITF Sao Paulo: Giovana Schincariol Delatorre Barbosa vs Marjorie Souza",
     "market_slug": "itf-barbosa-souz-2026-07-14",
     "amount": 3999.999998676957
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x5fd2e2386a5d056cb4b69d59e0cb316865867b9094822cf219577b73ac489084",
+    "wallet": "0xed64a7bf029040aa331abc87902434d815ef217d",
+    "trader": {
+      "rank": 7,
+      "address": "0xed64a7bf029040aa331abc87902434d815ef217d",
+      "username": "fishalive",
+      "profit": 9063378.176199999,
+      "volume": 13281460.374667995,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xff80bb23621f03fc6300808730316c78abe09b4d",
+      "side": "SELL",
+      "asset": "5936953867461627005928331168675590531068630483393393529667483486782789092014",
+      "conditionId": "0x636f780f794635820e8cafe81924ef2dd67622fc01b6b2e5e64e9cc99593a005",
+      "size": 2987.01,
+      "price": 0.67,
+      "timestamp": 1784088830,
+      "title": "Will Iran announce withdrawal from MOU negotiations by July 31?",
+      "slug": "will-iran-announce-withdrawal-from-mou-negotiations-by-july-31-20260622191733846-586-829-787",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/iran-announces-withdrawal-from-mou-negotiations-byptptpt-20260622191732319-SNgzVjYr8tgQ.jpg",
+      "eventSlug": "",
+      "outcome": "No",
+      "outcomeIndex": 999,
+      "name": "Zenhack",
+      "pseudonym": "Noisy-Dearest",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x5fd2e2386a5d056cb4b69d59e0cb316865867b9094822cf219577b73ac489084",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Iran announce withdrawal from MOU negotiations by July 31?",
+    "market_slug": "will-iran-announce-withdrawal-from-mou-negotiations-by-july-31-20260622191733846-586-829-787",
+    "amount": 2001.2967000000003
   }
 ]
