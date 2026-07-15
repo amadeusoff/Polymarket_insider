@@ -26328,7 +26328,8 @@
     },
     "market": "Will Spain win the 2026 FIFA World Cup?",
     "market_slug": "will-spain-win-the-2026-fifa-world-cup-963",
-    "amount": 2620.1999984509443
+    "amount": 2620.1999984509443,
+    "resolution_last_check": "2026-07-15T08:12:23.098125+00:00"
   },
   {
     "type": "TOP_TRADER",
@@ -26702,7 +26703,8 @@
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
+    },
+    "resolution_last_check": "2026-07-15T08:12:25.948945+00:00"
   },
   {
     "type": "TOP_TRADER",
@@ -26790,7 +26792,8 @@
     },
     "market": "Will Argentina win the 2026 FIFA World Cup?",
     "market_slug": "will-argentina-win-the-2026-fifa-world-cup-245",
-    "amount": 1749.18999906
+    "amount": 1749.18999906,
+    "resolution_last_check": "2026-07-15T08:12:27.137742+00:00"
   },
   {
     "type": "TOP_TRADER",
@@ -26983,7 +26986,8 @@
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
+    },
+    "resolution_last_check": "2026-07-15T08:12:30.065103+00:00"
   },
   {
     "type": "TOP_TRADER",
@@ -27159,7 +27163,8 @@
     },
     "market": "Will Iran announce withdrawal from MOU negotiations by July 31?",
     "market_slug": "will-iran-announce-withdrawal-from-mou-negotiations-by-july-31-20260622191733846-586-829-787",
-    "amount": 2001.2967000000003
+    "amount": 2001.2967000000003,
+    "resolution_last_check": "2026-07-15T08:12:33.035722+00:00"
   },
   {
     "type": "TOP_TRADER",
@@ -27203,7 +27208,8 @@
     },
     "market": "ITF Astana: Nina Sozaonova vs Sandugash Kenzhibayeva",
     "market_slug": "itf-sozaono-kenzhib-2026-07-15",
-    "amount": 4621.5
+    "amount": 4621.5,
+    "resolution_last_check": "2026-07-15T08:12:33.666013+00:00"
   },
   {
     "type": "TOP_TRADER",
@@ -27247,7 +27253,8 @@
     },
     "market": "Will Spain win the 2026 FIFA World Cup?",
     "market_slug": "will-spain-win-the-2026-fifa-world-cup-963",
-    "amount": 2910.0
+    "amount": 2910.0,
+    "resolution_last_check": "2026-07-15T08:12:33.666026+00:00"
   },
   {
     "type": "TOP_TRADER",
@@ -27291,6 +27298,7 @@
     },
     "market": "ITF Astana: Nina Sozaonova vs Sandugash Kenzhibayeva",
     "market_slug": "itf-sozaono-kenzhib-2026-07-15",
-    "amount": 4621.5
+    "amount": 4621.5,
+    "resolution_last_check": "2026-07-15T08:12:33.666034+00:00"
   }
 ]
