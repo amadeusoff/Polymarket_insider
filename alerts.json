@@ -1,139 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xe1f4c82d5f97eaf4d1be939b972f57567c5da5a0972ff94be5a323dd8311dc6d",
-    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-    "trader": {
-      "rank": 6,
-      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-      "username": "zxgngl",
-      "profit": 7807265.5892408835,
-      "volume": 40551790.62184699,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-      "side": "BUY",
-      "asset": "65640846031716846832593748107756223213959096686447491408186991589269223777464",
-      "conditionId": "0xa56cbd2d48e22a66909134de931aeb751c02b311eed33c96145a29ffa6433c6e",
-      "size": 3613.56,
-      "price": 0.49,
-      "timestamp": 1777937926,
-      "title": "Flyers vs. Hurricanes",
-      "slug": "nhl-phi-car-2026-05-04",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nhl.png",
-      "eventSlug": "nhl-phi-car-2026-05-04",
-      "outcome": "Flyers",
-      "outcomeIndex": 0,
-      "name": "swisstony",
-      "pseudonym": "Frail-Possible",
-      "bio": "loincloth chic",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xe1f4c82d5f97eaf4d1be939b972f57567c5da5a0972ff94be5a323dd8311dc6d",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Flyers vs. Hurricanes",
-    "market_slug": "nhl-phi-car-2026-05-04",
-    "amount": 1770.6444
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xa93b17ae22ef3b24e8ea39e0c04603761b99bfdcfa1d4add33d29e68f2606cef",
-    "wallet": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
-    "trader": {
-      "rank": 15,
-      "address": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
-      "username": "gmanas",
-      "profit": 4955880.7486921875,
-      "volume": 529047708.505991,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xe3d4dee2427b98042822543f8e1e8ab7bafb2bac",
-      "side": "SELL",
-      "asset": "53651352879118353771933633088926471728398188649280092970151117711631710776244",
-      "conditionId": "0x4f5bdcfe8fecc66e5db147d8577af35fbff1b943c22f23bad2acfcc74baf9318",
-      "size": 8549.86,
-      "price": 0.48,
-      "timestamp": 1777983548,
-      "title": "Internazionali BNL d'Italia: Anna Bondar vs Qinwen Zheng",
-      "slug": "wta-bondar-zhen-2026-05-05",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wta-logo-41f331bdf1.png",
-      "eventSlug": "wta-bondar-zhen-2026-05-05",
-      "outcome": "Qinwen Zheng",
-      "outcomeIndex": 1,
-      "name": "swy01",
-      "pseudonym": "Illustrious-Pinecone",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xa93b17ae22ef3b24e8ea39e0c04603761b99bfdcfa1d4add33d29e68f2606cef",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Internazionali BNL d'Italia: Anna Bondar vs Qinwen Zheng",
-    "market_slug": "wta-bondar-zhen-2026-05-05",
-    "amount": 4103.9328000000005
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xc4b65e206663f8a0691d09e8310b87bc11c089b9fa73cff56a88a9265783a987",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x4f7582a61cccfc53718941d229f0b9247d9daf7e",
-      "side": "SELL",
-      "asset": "64701956722947251492972133346952581977819422571157419930937530139847495051526",
-      "conditionId": "0xa8c61b755ace38e650a228a62a85a49235fe83f761bd91badcc7dadaaca2c19c",
-      "size": 4560.04,
-      "price": 0.7760603635055833,
-      "timestamp": 1778003356,
-      "title": "Internazionali BNL d'Italia: Federico Cina vs Alexander Blockx",
-      "slug": "atp-cina-blockx-2026-05-06",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
-      "eventSlug": "atp-cina-blockx-2026-05-06",
-      "outcome": "Alexander Blockx",
-      "outcomeIndex": 1,
-      "name": "WynnWaldorf",
-      "pseudonym": "Unlined-Suburb",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xc4b65e206663f8a0691d09e8310b87bc11c089b9fa73cff56a88a9265783a987",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Internazionali BNL d'Italia: Federico Cina vs Alexander Blockx",
-    "market_slug": "atp-cina-blockx-2026-05-06",
-    "amount": 3538.8663,
-    "resolution_last_check": "2026-05-06T08:32:04.907958+00:00"
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x5c34495f6b4d078e19c08a812265ae84e2c49b4ab7a93eb91dfbc699292334f4",
     "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
     "trader": {
@@ -27300,5 +27167,197 @@
     "market": "LoL: Team Secret  vs Karmine Corp (BO3) - Esports World Cup Group B",
     "market_slug": "lol-ts-kc-2026-07-15",
     "amount": 3999.99999924
+  },
+  {
+    "market": "England vs. Argentina: Team to Advance",
+    "market_slug": "fifwc-eng-arg-2026-07-15-team-to-advance",
+    "event_slug": "fifwc-eng-arg-2026-07-15-team-to-advance",
+    "wallet": "0xc4f4c9c725c5f6c94944ff9b57e8282f45778c06",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,114)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 1114.1499991177934,
+      "odds": 0.4599999999,
+      "raw_price": 0.4599999999,
+      "outcome": "Argentina",
+      "potential_pnl": 1307.9152168822066,
+      "pnl_multiplier": 1.1739130439508507,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-07-15T18:43:27.491723",
+    "trade_hash": "0x6991e82b0735ad571318dc25b720d369b1387111b6629c6a0185c58bc60c9f36",
+    "trade_timestamp": 1784140574,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Argentina",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.4599999999,
+      "effective_price": 0.4599999999,
+      "size": 2422.065216,
+      "amount": 1114.1499991177934,
+      "potential_pnl": 1307.9152168822066,
+      "pnl_multiplier": 1.1739130439508507,
+      "is_no": false,
+      "slug": "fifwc-eng-arg-2026-07-15-team-to-advance",
+      "eventSlug": "fifwc-eng-arg-2026-07-15-more-markets"
+    },
+    "irrationality": {
+      "irrationality_score": 25,
+      "flags": [
+        "Significant mispricing edge (+11.8%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.34149999996,
+      "market_price": 0.4599999999,
+      "edge": 0.11849999993999999,
+      "edge_percent": 11.849999994,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 95,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 70,
+      "insider_position": "NO",
+      "irrationality_score": 25,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.11849999993999999,
+      "edge_percent": 11.849999994
+    },
+    "financial_analyst": {
+      "signal_quality": 71.8,
+      "stance": "SELECTIVE",
+      "edge_percent": 11.85,
+      "signal_strength": 95.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x1bfa80817c06f7a2ab61c5be9eda82691e62a26708adb4aeadfea875d2fe1e27",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x16bc6f47ebbade726497a3a3334af8df0776deca",
+      "side": "BUY",
+      "asset": "85633756210324151397822274959403676422451634259093065838612463900396751402106",
+      "conditionId": "0xadf4acda3ae836e6c4f6646eaa940c7934d1b97de2a8f7a51ff585139e8f693a",
+      "size": 7036.96,
+      "price": 0.3125,
+      "timestamp": 1784140762,
+      "title": "Will Argentina win on 2026-07-15?",
+      "slug": "fifwc-eng-arg-2026-07-15-arg",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "",
+      "outcome": "Yes",
+      "outcomeIndex": 999,
+      "name": "ZoeGarma",
+      "pseudonym": "Kooky-Pulse",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x1bfa80817c06f7a2ab61c5be9eda82691e62a26708adb4aeadfea875d2fe1e27",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Argentina win on 2026-07-15?",
+    "market_slug": "fifwc-eng-arg-2026-07-15-arg",
+    "amount": 2199.05
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x209df3dc8fbc009d9c46a4fe7a25173b85b6133b5957052eef69d49ed88545b4",
+    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
+    "trader": {
+      "rank": 12,
+      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
+      "username": "zxgngl",
+      "profit": 7807265.589240883,
+      "volume": 40551790.62184699,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x5d8243cc1fb22706b150f57d272ff7a496ccfdd0",
+      "side": "BUY",
+      "asset": "105417117367513783489773296552210774986159257496601169303738978592687497537717",
+      "conditionId": "0x6f625933010dd4e8b4744617534de160c52912b91c896aa0199d51fb64af04b3",
+      "size": 12478.260868,
+      "price": 0.92,
+      "timestamp": 1784141363,
+      "title": "Exact Score: England 1 - 2 Argentina?",
+      "slug": "fifwc-eng-arg-2026-07-15-exact-score-1-2",
+      "icon": "",
+      "eventSlug": "",
+      "outcome": "No",
+      "outcomeIndex": 999,
+      "name": "erlow23",
+      "pseudonym": "Slimy-Escalator",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x209df3dc8fbc009d9c46a4fe7a25173b85b6133b5957052eef69d49ed88545b4",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Exact Score: England 1 - 2 Argentina?",
+    "market_slug": "fifwc-eng-arg-2026-07-15-exact-score-1-2",
+    "amount": 11479.99999856
   }
 ]
