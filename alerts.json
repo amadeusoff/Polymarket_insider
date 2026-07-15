@@ -1,139 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xeae865322f0344061b2c85e62d859e50b9d1638ff1faa6362c6bd441f17bad23",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x25869d34ca274c24da62b7d62e3c2f692d1df071",
-      "side": "BUY",
-      "asset": "75510141519593595592905756501303228790679147724769954526851640896726633288457",
-      "conditionId": "0x876f56564ac763be885001d0ab52c78d2b8a1dfb05b68d4a2ce6bdeb959cc93a",
-      "size": 4088,
-      "price": 0.8735053816046967,
-      "timestamp": 1777852686,
-      "title": "LoL: FlyQuest vs Shopify Rebellion (BO3) - LCS Regular Season",
-      "slug": "lol-fly-sr-2026-05-03",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
-      "eventSlug": "lol-fly-sr-2026-05-03",
-      "outcome": "FlyQuest",
-      "outcomeIndex": 0,
-      "name": "Anemoi",
-      "pseudonym": "Alert-Linguist",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3067950-90c4af65-1bc8-4487-94de-661c9afac744.jpg",
-      "profileImageOptimized": "",
-      "transactionHash": "0xeae865322f0344061b2c85e62d859e50b9d1638ff1faa6362c6bd441f17bad23",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "LoL: FlyQuest vs Shopify Rebellion (BO3) - LCS Regular Season",
-    "market_slug": "lol-fly-sr-2026-05-03",
-    "amount": 3570.8900000000003
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x46c13766cd467ecf3268a66fa0c62aaeddcb4990aadac0a1f3140f20e6cc5e3b",
-    "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
-    "trader": {
-      "rank": 13,
-      "address": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
-      "username": "mikatrade77",
-      "profit": 5147998.544602999,
-      "volume": 10884765.388774998,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xc96cb25888f25ab1929b575834a6c406234f6a98",
-      "side": "BUY",
-      "asset": "11941591959393922646818837304923279193381647193368590717078836000466185896447",
-      "conditionId": "0xffe381a80c1e36f9e0b03a542aa8fe56e74a67d2566a4e29396d4427aa4244c9",
-      "size": 1886.89,
-      "price": 0.92,
-      "timestamp": 1777879696,
-      "title": "Strait of Hormuz traffic returns to normal by May 15?",
-      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-may-15",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ships-transit-the-strait-of-hormuz-on-any-day-in-march-ERARnetK0FJm.jpg",
-      "eventSlug": "strait-of-hormuz-traffic-returns-to-normal-by-may-15",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "James000",
-      "pseudonym": "Valid-Aim",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x46c13766cd467ecf3268a66fa0c62aaeddcb4990aadac0a1f3140f20e6cc5e3b",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Strait of Hormuz traffic returns to normal by May 15?",
-    "market_slug": "strait-of-hormuz-traffic-returns-to-normal-by-may-15",
-    "amount": 1735.9388000000001,
-    "resolution_last_check": "2026-05-04T08:35:16.882717+00:00"
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x52e087bdb9ee7158933cadcfdd0338a1fc4521ce1c28dda01cc8c222b073c6b4",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.51568201,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x0eb568f307e9a48af2c3e688ad6074236712c494",
-      "side": "BUY",
-      "asset": "64770641714156976989474964554615476798703886456878824308372674182516857874046",
-      "conditionId": "0x0433839be2e0889423ff0a0efae939272899d09c284d309b346d3991d003c4c0",
-      "size": 241218.39,
-      "price": 0.68,
-      "timestamp": 1777900104,
-      "title": "Will Chelsea FC win on 2026-05-04?",
-      "slug": "epl-che-not-2026-05-04-che",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/premier+league.jpg",
-      "eventSlug": "epl-che-not-2026-05-04",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "asdfjh",
-      "pseudonym": "Constant-Fit",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x52e087bdb9ee7158933cadcfdd0338a1fc4521ce1c28dda01cc8c222b073c6b4",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Chelsea FC win on 2026-05-04?",
-    "market_slug": "epl-che-not-2026-05-04",
-    "amount": 164028.5052
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xcbf1c7a1f7a3a91127f0e768773cce57c2c8b024f4c6f0b1529d066029faffa4",
     "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
     "trader": {
@@ -27293,5 +27160,137 @@
     "market": "Will Iran announce withdrawal from MOU negotiations by July 31?",
     "market_slug": "will-iran-announce-withdrawal-from-mou-negotiations-by-july-31-20260622191733846-586-829-787",
     "amount": 2001.2967000000003
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x8396973fa20393e68724c136995c022bc891fc2d1c524234483cdf77ab90ab0f",
+    "wallet": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
+    "trader": {
+      "rank": 9,
+      "address": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
+      "username": "Len9311238",
+      "profit": 8709972.988069998,
+      "volume": 16402744.764627,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+      "side": "BUY",
+      "asset": "34954184783066645693017357244651777628109914419957949144326149699650043607738",
+      "conditionId": "0xc47c7fdc0ef5b9cba75ea1376be1dd3b8b8d11afdd9e8b7eac3b1af8a83785bc",
+      "size": 7110,
+      "price": 0.65,
+      "timestamp": 1784097235,
+      "title": "ITF Astana: Nina Sozaonova vs Sandugash Kenzhibayeva",
+      "slug": "itf-sozaono-kenzhib-2026-07-15",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/itf-5206dc6c54.png",
+      "eventSlug": "",
+      "outcome": "Nina Sozaonova",
+      "outcomeIndex": 999,
+      "name": "RN1",
+      "pseudonym": "Scary-Edible",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-1567750-84001aec-310a-470f-9584-67dfcaa61267.png",
+      "profileImageOptimized": "",
+      "transactionHash": "0x8396973fa20393e68724c136995c022bc891fc2d1c524234483cdf77ab90ab0f",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "ITF Astana: Nina Sozaonova vs Sandugash Kenzhibayeva",
+    "market_slug": "itf-sozaono-kenzhib-2026-07-15",
+    "amount": 4621.5
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x2f1cf2bd71a3aea683f5b28fea6f0066dcb6400eff74cf367f3be37e5bc17f17",
+    "wallet": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
+    "trader": {
+      "rank": 9,
+      "address": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
+      "username": "Len9311238",
+      "profit": 8709972.988069998,
+      "volume": 16402744.764627,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xa0f21e6d351baa9185716b5c00c2925ed9621848",
+      "side": "BUY",
+      "asset": "4394372887385518214471608448209527405727552777602031099972143344338178308080",
+      "conditionId": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+      "size": 5000,
+      "price": 0.582,
+      "timestamp": 1784097233,
+      "title": "Will Spain win the 2026 FIFA World Cup?",
+      "slug": "will-spain-win-the-2026-fifa-world-cup-963",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/world-cup-winner-spain-flag-20260603-192743.png",
+      "eventSlug": "",
+      "outcome": "Yes",
+      "outcomeIndex": 999,
+      "name": "",
+      "pseudonym": "",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x2f1cf2bd71a3aea683f5b28fea6f0066dcb6400eff74cf367f3be37e5bc17f17",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Spain win the 2026 FIFA World Cup?",
+    "market_slug": "will-spain-win-the-2026-fifa-world-cup-963",
+    "amount": 2910.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x70178fed9ec5f2d6b7f77edc20c9b98c717bb2e9bf501a0a5cbee4cf2805bd36",
+    "wallet": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
+    "trader": {
+      "rank": 9,
+      "address": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
+      "username": "Len9311238",
+      "profit": 8709972.988069998,
+      "volume": 16402744.764627,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+      "side": "BUY",
+      "asset": "34954184783066645693017357244651777628109914419957949144326149699650043607738",
+      "conditionId": "0xc47c7fdc0ef5b9cba75ea1376be1dd3b8b8d11afdd9e8b7eac3b1af8a83785bc",
+      "size": 7110,
+      "price": 0.65,
+      "timestamp": 1784097232,
+      "title": "ITF Astana: Nina Sozaonova vs Sandugash Kenzhibayeva",
+      "slug": "itf-sozaono-kenzhib-2026-07-15",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/itf-5206dc6c54.png",
+      "eventSlug": "itf-sozaono-kenzhib-2026-07-15",
+      "outcome": "Nina Sozaonova",
+      "outcomeIndex": 0,
+      "name": "RN1",
+      "pseudonym": "Scary-Edible",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-1567750-84001aec-310a-470f-9584-67dfcaa61267.png",
+      "profileImageOptimized": "",
+      "transactionHash": "0x70178fed9ec5f2d6b7f77edc20c9b98c717bb2e9bf501a0a5cbee4cf2805bd36",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "ITF Astana: Nina Sozaonova vs Sandugash Kenzhibayeva",
+    "market_slug": "itf-sozaono-kenzhib-2026-07-15",
+    "amount": 4621.5
   }
 ]
