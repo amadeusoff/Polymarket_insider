@@ -1,93 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x5c34495f6b4d078e19c08a812265ae84e2c49b4ab7a93eb91dfbc699292334f4",
-    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-    "trader": {
-      "rank": 6,
-      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-      "username": "zxgngl",
-      "profit": 7807265.589240883,
-      "volume": 40551790.621846996,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xafffecc22c98aee9bb097d90537608aa70a433ff",
-      "side": "BUY",
-      "asset": "115556263888245616435851357148058235707004733438163639091106356867234218207169",
-      "conditionId": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
-      "size": 15238.64,
-      "price": 0.111,
-      "timestamp": 1778009300,
-      "title": "Will England win the 2026 FIFA World Cup?",
-      "slug": "will-england-win-the-2026-fifa-world-cup-937",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-england-win-the-2026-fifa-world-cup-937-_1d1dBqIjAJF.png",
-      "eventSlug": "2026-fifa-world-cup-winner-595",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "leviathanXalpha",
-      "pseudonym": "Hairy-Emu",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x5c34495f6b4d078e19c08a812265ae84e2c49b4ab7a93eb91dfbc699292334f4",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will England win the 2026 FIFA World Cup?",
-    "market_slug": "2026-fifa-world-cup-winner-595",
-    "amount": 1691.48904
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xa3de1c214a704874bbdd58b022cc6b35aaddbceed0ceaa233e27d49a38f495cf",
-    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-    "trader": {
-      "rank": 6,
-      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-      "username": "zxgngl",
-      "profit": 7807265.589240883,
-      "volume": 40551790.621846996,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x3945838f77dae030b8ed35265d9f00d06f6ac04b",
-      "side": "BUY",
-      "asset": "80695046947619840299866569968180297369824311702942917363889824798758329413363",
-      "conditionId": "0xe98f16929b71db44d0837ba8520768d8172589de253165835452e2c71d7fdceb",
-      "size": 7085.020343,
-      "price": 0.28228571015692283,
-      "timestamp": 1778009298,
-      "title": "Will Arsenal FC vs. Club Atl\u00e9tico de Madrid end in a draw?",
-      "slug": "ucl-ars-atm1-2026-05-05-draw",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/champions-league-pic-QIUFsL8vaDdq.png",
-      "eventSlug": "ucl-ars-atm1-2026-05-05",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "0x3945838F77dAE030b8ED35265D9F00d06f6ac04B-1776800280032",
-      "pseudonym": "Droopy-Hostel",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xa3de1c214a704874bbdd58b022cc6b35aaddbceed0ceaa233e27d49a38f495cf",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Arsenal FC vs. Club Atl\u00e9tico de Madrid end in a draw?",
-    "market_slug": "ucl-ars-atm1-2026-05-05",
-    "amount": 1999.9999990000001
-  },
-  {
     "market": "Spread: Independiente del Valle (-1.5)",
     "market_slug": "lib-ucv-ind1-2026-05-05-spread-away-1pt5",
     "event_slug": "lib-ucv-ind1-2026-05-05-spread-away-1pt5",
@@ -27359,5 +27271,93 @@
     "market": "Exact Score: England 1 - 2 Argentina?",
     "market_slug": "fifwc-eng-arg-2026-07-15-exact-score-1-2",
     "amount": 11479.99999856
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x956c2c3e1569c3d1e0429ba27f7a3b731a40ac3682a6c1ccc680263e1e786427",
+    "wallet": "0x664ce9fb97ae1bbd538d7381b2f4e92dab16f49c",
+    "trader": {
+      "rank": 10,
+      "address": "0x664ce9fb97ae1bbd538d7381b2f4e92dab16f49c",
+      "username": "sparklingwater123",
+      "profit": 8474966.272470918,
+      "volume": 19001698.927902,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+      "side": "BUY",
+      "asset": "18812649149814341758733697580460697418474693998558159483117100240528657629879",
+      "conditionId": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
+      "size": 3783.68,
+      "price": 0.42,
+      "timestamp": 1784150077,
+      "title": "Will Argentina win the 2026 FIFA World Cup?",
+      "slug": "will-argentina-win-the-2026-fifa-world-cup-245",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/world-cup-winner-argentina-flag-20260603-192743.png",
+      "eventSlug": "",
+      "outcome": "Yes",
+      "outcomeIndex": 999,
+      "name": "mooseborzoi",
+      "pseudonym": "Agitated-Bricklaying",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-7634413-4dea3150-84ad-4278-9e45-d96e51769b7e.png",
+      "profileImageOptimized": "",
+      "transactionHash": "0x956c2c3e1569c3d1e0429ba27f7a3b731a40ac3682a6c1ccc680263e1e786427",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Argentina win the 2026 FIFA World Cup?",
+    "market_slug": "will-argentina-win-the-2026-fifa-world-cup-245",
+    "amount": 1589.1455999999998
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x796071fefb84ab937dfb3d8fcf8a49e6a9735f500e1e64fa7def65cd99800391",
+    "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+    "trader": {
+      "rank": 19,
+      "address": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+      "username": "KeyTransporter",
+      "profit": 5711459.802519929,
+      "volume": 20086062.154324993,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+      "side": "BUY",
+      "asset": "18812649149814341758733697580460697418474693998558159483117100240528657629879",
+      "conditionId": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
+      "size": 4624.82,
+      "price": 0.42,
+      "timestamp": 1784150377,
+      "title": "Will Argentina win the 2026 FIFA World Cup?",
+      "slug": "will-argentina-win-the-2026-fifa-world-cup-245",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/world-cup-winner-argentina-flag-20260603-192743.png",
+      "eventSlug": "",
+      "outcome": "Yes",
+      "outcomeIndex": 999,
+      "name": "mooseborzoi",
+      "pseudonym": "Agitated-Bricklaying",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-7634413-4dea3150-84ad-4278-9e45-d96e51769b7e.png",
+      "profileImageOptimized": "",
+      "transactionHash": "0x796071fefb84ab937dfb3d8fcf8a49e6a9735f500e1e64fa7def65cd99800391",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Argentina win the 2026 FIFA World Cup?",
+    "market_slug": "will-argentina-win-the-2026-fifa-world-cup-245",
+    "amount": 1942.4243999999999
   }
 ]
