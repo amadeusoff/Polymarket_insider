@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xd82d37ef5557c2e188250d02f99e34f67ac82248f5e1bec843f0643c8b6d4797",
-    "wallet": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
-    "trader": {
-      "rank": 19,
-      "address": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
-      "username": "Jenzigo",
-      "profit": 4049827.0941029997,
-      "volume": 9457725.034338009,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x91eee6b7cea1916214daebec3b92b7513079c5b8",
-      "side": "BUY",
-      "asset": "51100851787664828466723051492679629662642990767916606709996577893433115854246",
-      "conditionId": "0x030e3bd256805c33f271e2683e4cdbf2dbad25f93a38172d876acd30fff309cd",
-      "size": 20000,
-      "price": 0.47,
-      "timestamp": 1777833776,
-      "title": "Will Real Madrid CF win on 2026-05-03?",
-      "slug": "lal-esp-rea-2026-05-03-rea",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-lal.png",
-      "eventSlug": "lal-esp-rea-2026-05-03",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "everydaymortgage",
-      "pseudonym": "Boiling-Fill",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xd82d37ef5557c2e188250d02f99e34f67ac82248f5e1bec843f0643c8b6d4797",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Real Madrid CF win on 2026-05-03?",
-    "market_slug": "lal-esp-rea-2026-05-03",
-    "amount": 9400.0
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xbc46e3dc1a78bd348d9ee8db9194038a18db963d81acc72c9fc1df7a90b37ada",
     "wallet": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
     "trader": {
@@ -27293,5 +27249,49 @@
     "market": "Granby: Daniel Milavsky vs Duncan Chan",
     "market_slug": "atp-milavsk-chan-2026-07-13",
     "amount": 20304.94109996962
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xad61876b77e64b8231a8521f2ed987edb2db9de39fd8ec520627b5e3d93e4a92",
+    "wallet": "0x5e4c3b5b81171e2ca4ab776ac0d6bba787f9dba2",
+    "trader": {
+      "rank": 15,
+      "address": "0x5e4c3b5b81171e2ca4ab776ac0d6bba787f9dba2",
+      "username": "endlessFate",
+      "profit": 7409836.65260974,
+      "volume": 26282164.742855996,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x060f34e5aa82cc11c2a54c9edf3e6a0632925a9d",
+      "side": "BUY",
+      "asset": "113742669151729544810214295251833501965778158025649278732678809976166481352828",
+      "conditionId": "0x6397a16ec43c0c009f153d9f87cd3b10cc6811ea085258af4f5c79aeb70a0e95",
+      "size": 6490.548386,
+      "price": 0.6162807456,
+      "timestamp": 1784077424,
+      "title": "ITF Sao Paulo: Giovana Schincariol Delatorre Barbosa vs Marjorie Souza",
+      "slug": "itf-barbosa-souz-2026-07-14",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/itf-5206dc6c54.png",
+      "eventSlug": "",
+      "outcome": "Marjorie Souza",
+      "outcomeIndex": 999,
+      "name": "alexfire97",
+      "pseudonym": "Loose-Anyone-Detour",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xad61876b77e64b8231a8521f2ed987edb2db9de39fd8ec520627b5e3d93e4a92",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "ITF Sao Paulo: Giovana Schincariol Delatorre Barbosa vs Marjorie Souza",
+    "market_slug": "itf-barbosa-souz-2026-07-14",
+    "amount": 3999.999998676957
   }
 ]
