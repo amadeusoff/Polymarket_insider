@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x576e7d13d3ca1d60d7219c3726b0c4c6e2281e35876b7ea7398bbd6f6c057af0",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xa2c60f064b58ca18be11b22b8ab9adc6c502d14d",
-      "side": "BUY",
-      "asset": "2639404459564196414054772903744037036005837553896116402413201394181714315893",
-      "conditionId": "0xd538ebd9bc8e307a561d2f2fb5ebd1f074697f671003d49ff5c41c4c52008654",
-      "size": 4641,
-      "price": 0.44,
-      "timestamp": 1777930418,
-      "title": "New York Mets vs. Colorado Rockies",
-      "slug": "mlb-nym-col-2026-05-04",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
-      "eventSlug": "mlb-nym-col-2026-05-04",
-      "outcome": "Colorado Rockies",
-      "outcomeIndex": 1,
-      "name": "aiweatherman",
-      "pseudonym": "Blaring-Roast",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x576e7d13d3ca1d60d7219c3726b0c4c6e2281e35876b7ea7398bbd6f6c057af0",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "New York Mets vs. Colorado Rockies",
-    "market_slug": "mlb-nym-col-2026-05-04",
-    "amount": 2042.04
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xe1f4c82d5f97eaf4d1be939b972f57567c5da5a0972ff94be5a323dd8311dc6d",
     "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
     "trader": {
@@ -27300,5 +27256,49 @@
     "market": "Will Iran announce withdrawal from MOU negotiations by July 17?",
     "market_slug": "will-iran-announce-withdrawal-from-mou-negotiations-by-july-17",
     "amount": 1591.7157
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x7cef9dbde42f7ca5735081b45d4ec8f4989dfc760e57345fd25b85669b283389",
+    "wallet": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+    "trader": {
+      "rank": 17,
+      "address": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+      "username": "PrincessCaro",
+      "profit": 6083643.099591745,
+      "volume": 23520809.95286701,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xfa39fdf92783d5547cc697e560e532a7e6a1bb64",
+      "side": "BUY",
+      "asset": "24021509323159784331897334372255449124855377128724021900776560257624732738733",
+      "conditionId": "0xb1e2dd43515a359abe4aa3d73e2aa4a00f07627994716ae6d82bc8a1e555319e",
+      "size": 6451.612902,
+      "price": 0.62,
+      "timestamp": 1784131756,
+      "title": "LoL: Team Secret  vs Karmine Corp (BO3) - Esports World Cup Group B",
+      "slug": "lol-ts-kc-2026-07-15",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
+      "eventSlug": "lol-ts-kc-2026-07-15",
+      "outcome": "Karmine Corp",
+      "outcomeIndex": 1,
+      "name": "Happyaq",
+      "pseudonym": "Impeccable-Ethyl",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-6833382-2aee14b0-eef9-4b53-bdf3-7c03776cbe2a.webp",
+      "profileImageOptimized": "",
+      "transactionHash": "0x7cef9dbde42f7ca5735081b45d4ec8f4989dfc760e57345fd25b85669b283389",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "LoL: Team Secret  vs Karmine Corp (BO3) - Esports World Cup Group B",
+    "market_slug": "lol-ts-kc-2026-07-15",
+    "amount": 3999.99999924
   }
 ]
