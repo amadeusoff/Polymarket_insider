@@ -1,51 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x374431e1056ee0f3c27ec57015e0a6ff2a9b1886fd08bb1dd7314696891b3135",
-    "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
-    "trader": {
-      "rank": 18,
-      "address": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
-      "username": "432614799197",
-      "profit": 4526176.04641333,
-      "volume": 185485956.86208293,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x4f7582a61cccfc53718941d229f0b9247d9daf7e",
-      "side": "BUY",
-      "asset": "110239275085357401196115538233388919040152929952099734075905463154266936141728",
-      "conditionId": "0xcc4963dca493c778e657a8ecac8e923ed761edd311f62c56b3ca21a0e5e40a67",
-      "size": 3271.988569,
-      "price": 0.7640613484062572,
-      "timestamp": 1778085033,
-      "title": "Internazionali BNL d'Italia: Marton Fucsovics vs Dino Prizmic",
-      "slug": "atp-fucsovi-prizmic-2026-05-06",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
-      "eventSlug": "atp-fucsovi-prizmic-2026-05-06",
-      "outcome": "Dino Prizmic",
-      "outcomeIndex": 1,
-      "name": "WynnWaldorf",
-      "pseudonym": "Unlined-Suburb",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x374431e1056ee0f3c27ec57015e0a6ff2a9b1886fd08bb1dd7314696891b3135",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Internazionali BNL d'Italia: Marton Fucsovics vs Dino Prizmic",
-    "market_slug": "atp-fucsovi-prizmic-2026-05-06",
-    "amount": 2499.999998,
-    "resolution_last_check": "2026-05-07T08:39:27.251003+00:00"
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x6da0e098ecbfb9f41bc879b10b499148fd6603494a682a1fb74818ce719ae86f",
     "wallet": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
     "trader": {
@@ -27301,5 +27256,49 @@
     "market": "Will Argentina win the 2026 FIFA World Cup?",
     "market_slug": "will-argentina-win-the-2026-fifa-world-cup-245",
     "amount": 4170.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x01fdd0c2506f7c8a03af579d8a45f44c3ff0c48bcd87db60caab807d95a27788",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x9f035eb3edc2399bd32d7d02a5d8f4776910766d",
+      "side": "BUY",
+      "asset": "40389098507314339460358032447100069912493492014954456450415159588632138032358",
+      "conditionId": "0x8015c1c5633f488ec6fc7d759aa13621bc3ca1b91f1473e0ba850787f8cc9df4",
+      "size": 16104.315105,
+      "price": 0.4657136892,
+      "timestamp": 1784217041,
+      "title": "Iasi Open: Panna Udvardy vs Katarzyna Kawa",
+      "slug": "wta-udvardy-kawa-2026-07-16",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wta-logo-41f331bdf1.png",
+      "eventSlug": "",
+      "outcome": "Katarzyna Kawa",
+      "outcomeIndex": 999,
+      "name": "NiNo713",
+      "pseudonym": "Frizzy-Urn",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x01fdd0c2506f7c8a03af579d8a45f44c3ff0c48bcd87db60caab807d95a27788",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Iasi Open: Panna Udvardy vs Katarzyna Kawa",
+    "market_slug": "wta-udvardy-kawa-2026-07-16",
+    "amount": 7499.999999588836
   }
 ]
