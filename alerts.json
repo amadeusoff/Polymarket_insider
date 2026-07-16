@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xf820963faf5658f03a0c3451a7ecc1a2dfa5c7a81cde850897bd6ba688e0ab78",
-    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-    "trader": {
-      "rank": 17,
-      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
-      "profit": 4555059.502837777,
-      "volume": 60261195.493648,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
-      "side": "BUY",
-      "asset": "96524095018615378531227881226531591927817621193329352552084258137092931432703",
-      "conditionId": "0x2ea1ca33175c1ea3223aab2bb610be453f864804657d375486f0e7701e0823ae",
-      "size": 15910.68,
-      "price": 0.6,
-      "timestamp": 1778106106,
-      "title": "Athletics vs. Philadelphia Phillies",
-      "slug": "mlb-oak-phi-2026-05-06",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
-      "eventSlug": "mlb-oak-phi-2026-05-06",
-      "outcome": "Philadelphia Phillies",
-      "outcomeIndex": 1,
-      "name": "SDTrading",
-      "pseudonym": "",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xf820963faf5658f03a0c3451a7ecc1a2dfa5c7a81cde850897bd6ba688e0ab78",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Athletics vs. Philadelphia Phillies",
-    "market_slug": "mlb-oak-phi-2026-05-06",
-    "amount": 9546.408
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xb765ccc18e986ccd7ed2a14294d1f9b62d38848cb903a6217d1a4aa199d5a8a0",
     "wallet": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
     "trader": {
@@ -27300,5 +27256,49 @@
     "market": "Valorant: Leviat\u00e1n Esports vs FURIA Esports (BO3) - VCT Americas Stage 2 Group Alpha",
     "market_slug": "val-lev1-fur-2026-07-16",
     "amount": 1548.394900045392
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x466b901e0029b36ded6b934639781c67bea68c03b38e7ddfd7e51fadb1b555e9",
+    "wallet": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
+    "trader": {
+      "rank": 3,
+      "address": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
+      "username": "Fredi9999",
+      "profit": 16619506.631730152,
+      "volume": 76611316.90515402,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xf3816d0bf529a2ac81d356a0261f039a57e240c2",
+      "side": "BUY",
+      "asset": "68383229798738153843260173110368067454393737148304707811610243859638727205428",
+      "conditionId": "0xaeec5397b4ee2ce20555c0099f0dcf4de4648a2f080c2d10b65ceaff9c26d7a8",
+      "size": 4500,
+      "price": 0.65,
+      "timestamp": 1784238385,
+      "title": "France vs. England: Team to Win",
+      "slug": "fifwc-fra-eng-2026-07-18-team-to-advance",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "",
+      "outcome": "France",
+      "outcomeIndex": 999,
+      "name": "0xf3816D0bF529A2aC81d356A0261f039A57e240C2-1766511425242",
+      "pseudonym": "Far-Flung-Titanium",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x466b901e0029b36ded6b934639781c67bea68c03b38e7ddfd7e51fadb1b555e9",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "France vs. England: Team to Win",
+    "market_slug": "fifwc-fra-eng-2026-07-18-team-to-advance",
+    "amount": 2925.0
   }
 ]
