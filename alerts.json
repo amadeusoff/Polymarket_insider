@@ -1,154 +1,5 @@
 [
   {
-    "market": "Spread: Independiente del Valle (-1.5)",
-    "market_slug": "lib-ucv-ind1-2026-05-05-spread-away-1pt5",
-    "event_slug": "lib-ucv-ind1-2026-05-05-spread-away-1pt5",
-    "wallet": "0x6687e41422fe5c3129664d441d95d62e7fc1bf8c",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,758)",
-        "Low activity (3 txns)"
-      ],
-      "amount": 1757.7,
-      "odds": 0.63,
-      "raw_price": 0.63,
-      "outcome": "Universidad Central de Venezuela FC",
-      "potential_pnl": 1032.3,
-      "pnl_multiplier": 0.5873015873015872,
-      "wallet_age_days": 0,
-      "total_activities": 3
-    },
-    "timestamp": "2026-05-05T23:35:43.840260",
-    "trade_hash": "0x407ed394d2266dfb57b45f79fc55c621ca4037e82b02ead28abbd7f6bc0f6ea1",
-    "trade_timestamp": 1778023796,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Universidad Central de Venezuela FC",
-      "outcomeIndex": 1,
-      "normalized_position": "YES",
-      "side": "BUY",
-      "price": 0.63,
-      "effective_price": 0.63,
-      "size": 2790.0,
-      "amount": 1757.7,
-      "potential_pnl": 1032.3,
-      "pnl_multiplier": 0.5873015873015872,
-      "is_no": false,
-      "slug": "lib-ucv-ind1-2026-05-05-spread-away-1pt5",
-      "eventSlug": "lib-ucv-ind1-2026-05-05-more-markets"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+22.1%)"
-      ],
-      "category": "other",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.4095,
-      "market_price": 0.63,
-      "edge": 0.22050000000000003,
-      "edge_percent": 22.050000000000004,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "low"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 2,
-        "conditions": [
-          "Unknown"
-        ],
-        "weakest_link": "Unknown"
-      },
-      "category": "other",
-      "narrative_drivers": [
-        "Unknown"
-      ],
-      "confidence_in_analysis": "low"
-    },
-    "combined_signal": {
-      "signal_type": "CONFLICT",
-      "signal_emoji": "\u26a0\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider buying YES despite statistical overpricing",
-      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
-      "insider_score": 70,
-      "insider_position": "YES",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.22050000000000003,
-      "edge_percent": 22.050000000000004
-    },
-    "log_only": true,
-    "financial_analyst": {
-      "signal_quality": 46.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 22.05,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xcc2dda5d76971b0d0796bf9733e6c8ad43ba9dff8f44cd0c4c2148913db01997",
-    "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
-    "trader": {
-      "rank": 13,
-      "address": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
-      "username": "mikatrade77",
-      "profit": 5147998.544602999,
-      "volume": 10884765.388775002,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xbe601e361ea42a04ad0e761ecb3cd514986e377c",
-      "side": "BUY",
-      "asset": "114338491037600603552186377092291409913227518550796898229605893813092621964360",
-      "conditionId": "0x133031384e39838f3779ab472c088b4f51b8f97f14f6632ad77a325b84cd70ae",
-      "size": 3534.521047,
-      "price": 0.8487712926610845,
-      "timestamp": 1778079018,
-      "title": "Will Elon Musk post <40 tweets from May 4 to May 6, 2026?",
-      "slug": "elon-musk-of-tweets-may-4-may-6-0-39",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/elon-musk-of-tweets-nov-22-29-apMPG21-pzx_.jpg",
-      "eventSlug": "elon-musk-of-tweets-may-4-may-6",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "0xBE601E361EA42a04AD0e761eCb3cd514986E377c-1768676592217",
-      "pseudonym": "Dense-Muscat",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xcc2dda5d76971b0d0796bf9733e6c8ad43ba9dff8f44cd0c4c2148913db01997",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Elon Musk post <40 tweets from May 4 to May 6, 2026?",
-    "market_slug": "elon-musk-of-tweets-may-4-may-6",
-    "amount": 2999.9999980000002
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0x374431e1056ee0f3c27ec57015e0a6ff2a9b1886fd08bb1dd7314696891b3135",
     "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
@@ -27362,5 +27213,93 @@
     "market_slug": "will-argentina-win-the-2026-fifa-world-cup-245",
     "amount": 1942.4243999999999,
     "resolution_last_check": "2026-07-16T08:16:33.117908+00:00"
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x8ac668f35583b3ca838072128b17a26dd001f28f9d2d9167ff0800efdd90a36d",
+    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+    "trader": {
+      "rank": 20,
+      "address": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+      "username": "BetTom42",
+      "profit": 5642135.735356,
+      "volume": 11212839.523403,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+      "side": "BUY",
+      "asset": "17115088252791157576279123881508765132695162860490965709904240307583608596332",
+      "conditionId": "0xe7fa223cd125e6d068d1f5c4fe1aa6a35e395f90915f7b7d983027ca646dc891",
+      "size": 3485.25,
+      "price": 0.51,
+      "timestamp": 1784198425,
+      "title": "LoL: G2 Esports vs AG.AL (BO1) - Esports World Cup Group A",
+      "slug": "lol-g2-agal-2026-07-16",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
+      "eventSlug": "",
+      "outcome": "G2 Esports",
+      "outcomeIndex": 999,
+      "name": "fkgggg2mouzfuria",
+      "pseudonym": "Misty-Request",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x8ac668f35583b3ca838072128b17a26dd001f28f9d2d9167ff0800efdd90a36d",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "LoL: G2 Esports vs AG.AL (BO1) - Esports World Cup Group A",
+    "market_slug": "lol-g2-agal-2026-07-16",
+    "amount": 1777.4775
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xd049f1ec2c5ef1f1152394fcff427dd0a40ff6c7f52ba8d59a24a03054713332",
+    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+    "trader": {
+      "rank": 20,
+      "address": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+      "username": "BetTom42",
+      "profit": 5642135.735356,
+      "volume": 11212839.523403,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x7d83c905cb7b0e790499392ce641bb867bd7be92",
+      "side": "SELL",
+      "asset": "18812649149814341758733697580460697418474693998558159483117100240528657629879",
+      "conditionId": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
+      "size": 10000,
+      "price": 0.417,
+      "timestamp": 1784198423,
+      "title": "Will Argentina win the 2026 FIFA World Cup?",
+      "slug": "will-argentina-win-the-2026-fifa-world-cup-245",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/world-cup-winner-argentina-flag-20260603-192743.png",
+      "eventSlug": "",
+      "outcome": "Yes",
+      "outcomeIndex": 999,
+      "name": "Sunguyen86",
+      "pseudonym": "Humble-Empire",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-604384-b67e9b83-6e00-475d-a9de-91463cb24f85.png",
+      "profileImageOptimized": "",
+      "transactionHash": "0xd049f1ec2c5ef1f1152394fcff427dd0a40ff6c7f52ba8d59a24a03054713332",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Argentina win the 2026 FIFA World Cup?",
+    "market_slug": "will-argentina-win-the-2026-fifa-world-cup-245",
+    "amount": 4170.0
   }
 ]
