@@ -27034,7 +27034,8 @@
     },
     "market": "Will Iran announce withdrawal from MOU negotiations by July 17?",
     "market_slug": "will-iran-announce-withdrawal-from-mou-negotiations-by-july-17",
-    "amount": 1591.7157
+    "amount": 1591.7157,
+    "resolution_last_check": "2026-07-16T08:16:28.121991+00:00"
   },
   {
     "type": "TOP_TRADER",
@@ -27314,7 +27315,8 @@
     },
     "market": "Will Argentina win the 2026 FIFA World Cup?",
     "market_slug": "will-argentina-win-the-2026-fifa-world-cup-245",
-    "amount": 1589.1455999999998
+    "amount": 1589.1455999999998,
+    "resolution_last_check": "2026-07-16T08:16:33.117898+00:00"
   },
   {
     "type": "TOP_TRADER",
@@ -27358,6 +27360,7 @@
     },
     "market": "Will Argentina win the 2026 FIFA World Cup?",
     "market_slug": "will-argentina-win-the-2026-fifa-world-cup-245",
-    "amount": 1942.4243999999999
+    "amount": 1942.4243999999999,
+    "resolution_last_check": "2026-07-16T08:16:33.117908+00:00"
   }
 ]
