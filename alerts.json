@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x15ba83696b1933b52db8bd9a9b1d10e0ade6684477b01293f91c1035bf4ebf34",
-    "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
-    "trader": {
-      "rank": 13,
-      "address": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
-      "username": "mikatrade77",
-      "profit": 5147998.544602999,
-      "volume": 10884765.388775,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x9d9346b36bfacf6858ae06c7401a72ad09162cf1",
-      "side": "BUY",
-      "asset": "65688559151866523851546503381530284157852209793844245182497053200054893582551",
-      "conditionId": "0xf6e73ab362d8df80c32b5da6d7f417d8700d0fc3376a4b4e42cb18b233867bc4",
-      "size": 5767.148694,
-      "price": 0.6822608895264943,
-      "timestamp": 1778328357,
-      "title": "Internazionali BNL d'Italia: Corentin Moutet vs Pablo Llamas Ruiz",
-      "slug": "atp-moutet-ruiz-2026-05-09",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
-      "eventSlug": "atp-moutet-ruiz-2026-05-09",
-      "outcome": "Pablo Llamas Ruiz",
-      "outcomeIndex": 1,
-      "name": "lmzy9",
-      "pseudonym": "Automatic-Teepee",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x15ba83696b1933b52db8bd9a9b1d10e0ade6684477b01293f91c1035bf4ebf34",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Internazionali BNL d'Italia: Corentin Moutet vs Pablo Llamas Ruiz",
-    "market_slug": "atp-moutet-ruiz-2026-05-09",
-    "amount": 3934.6999980000005
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xa202be1f3ef0f7176b916db369f61753a36d75caf5913b76d6cdf36067db47c2",
     "wallet": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
     "trader": {
@@ -27699,5 +27655,49 @@
     "market": "Athens Open: Tereza Valentova vs Alina Korneeva",
     "market_slug": "wta-valento-korneev-2026-07-17",
     "amount": 1591.371300078995
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x05f4a2215024e86148dc263b5745e1bf913b7334b22e692c8e35275a9dcc3c12",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "trader": {
+      "rank": 5,
+      "address": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+      "username": "RN1",
+      "profit": 11346210.779290566,
+      "volume": 915102180.0835111,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xf8371076fb3df0fcfcdb4d9f16bbe98bb241bd42",
+      "side": "BUY",
+      "asset": "31396275531786805282719869670350552604516604486631055969915140564153229906320",
+      "conditionId": "0xef3f25aa82199f821561eebbf28bb361aea4ef659f603fe23c54821d40c2407b",
+      "size": 23187.612984,
+      "price": 0.8625294898,
+      "timestamp": 1784316759,
+      "title": "Athens Open: Clara Tauson vs Sara Bejlek",
+      "slug": "wta-tauson-bejlek-2026-07-17",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wta-logo-41f331bdf1.png",
+      "eventSlug": "",
+      "outcome": "Clara Tauson",
+      "outcomeIndex": 999,
+      "name": "mlin1010",
+      "pseudonym": "Far-Flung-Advocacy",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x05f4a2215024e86148dc263b5745e1bf913b7334b22e692c8e35275a9dcc3c12",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Athens Open: Clara Tauson vs Sara Bejlek",
+    "market_slug": "wta-tauson-bejlek-2026-07-17",
+    "amount": 19999.999996769377
   }
 ]
