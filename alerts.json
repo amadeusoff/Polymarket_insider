@@ -1,140 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xd32316ab9defc35d6edad61fab6546aff0b49743778b34b9d2fa4ad9211c50b6",
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "trader": {
-      "rank": 5,
-      "address": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-      "username": "RN1",
-      "profit": 8472701.307056148,
-      "volume": 514818558.940379,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x6f8b2886707673629af6bbf7314b8081021601aa",
-      "side": "BUY",
-      "asset": "52370807213569064823615177591123972080025576030665454705480917296775683415888",
-      "conditionId": "0xd5cb6b5f4fec1e88f124e1f477f0683914f613c62d0067f3e62304489886286d",
-      "size": 10972.44,
-      "price": 0.29,
-      "timestamp": 1778221533,
-      "title": "Internazionali BNL d'Italia: Alex de Minaur vs Matteo Arnaldi",
-      "slug": "atp-minaur-arnaldi-2026-05-08",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
-      "eventSlug": "atp-minaur-arnaldi-2026-05-08",
-      "outcome": "Matteo Arnaldi",
-      "outcomeIndex": 1,
-      "name": "sunflowaa",
-      "pseudonym": "Piercing-Particular",
-      "bio": "betmoar-65381",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-2785970-9aaee5a8-e993-4808-8039-2a049b532f6b.png",
-      "profileImageOptimized": "",
-      "transactionHash": "0xd32316ab9defc35d6edad61fab6546aff0b49743778b34b9d2fa4ad9211c50b6",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Internazionali BNL d'Italia: Alex de Minaur vs Matteo Arnaldi",
-    "market_slug": "atp-minaur-arnaldi-2026-05-08",
-    "amount": 3182.0076,
-    "resolution_last_check": "2026-05-08T07:35:14.109141+00:00"
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x2f6411e0bf2ce31a2b505b7c16da09531162686ccb33e329b933a7c1e425ebc8",
-    "wallet": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
-    "trader": {
-      "rank": 10,
-      "address": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
-      "username": "walletmobile",
-      "profit": 5942685.45339684,
-      "volume": 32196692.075936034,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x4a2be7a7e6e3b41dc2de00706b4c09660ca9af20",
-      "side": "SELL",
-      "asset": "27911616648163853231017805596118911526202185567944724228908312975649746722206",
-      "conditionId": "0xaeea5f917fc5746387b5f9c0a4263dba035dbb3f0ac6ad72bf92183d21e26739",
-      "size": 7999.99,
-      "price": 0.5800954251192814,
-      "timestamp": 1778268007,
-      "title": "Russia x Ukraine ceasefire by end of 2026?",
-      "slug": "russia-x-ukraine-ceasefire-before-2027",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/russia-x-ukraine-ceasefire-in-2025-w2voYOygx80B.jpg",
-      "eventSlug": "russia-x-ukraine-ceasefire-before-2027",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "troim",
-      "pseudonym": "Optimal-Miss",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x2f6411e0bf2ce31a2b505b7c16da09531162686ccb33e329b933a7c1e425ebc8",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Russia x Ukraine ceasefire by end of 2026?",
-    "market_slug": "russia-x-ukraine-ceasefire-before-2027",
-    "amount": 4640.7576,
-    "resolution_last_check": "2026-05-09T08:01:29.144508+00:00"
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x3cc653ccbb8e0c86646b8d1fe3c1ac8742859c26c2bb07a4e524f29d7c94f0dc",
-    "wallet": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
-    "trader": {
-      "rank": 4,
-      "address": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
-      "username": "Len9311238",
-      "profit": 8709972.988069998,
-      "volume": 16402744.764627,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-      "side": "BUY",
-      "asset": "32603952758974518160055074203679639786764774474563165786389584883545346666098",
-      "conditionId": "0x10e68b6f809dfd61c7fdf832d08c76f68e80e538f1e23edf41eaaac8fbf3e8a8",
-      "size": 2024.23,
-      "price": 0.9,
-      "timestamp": 1778272305,
-      "title": "Will Racing Club de Lens win on 2026-05-08?",
-      "slug": "fl1-rcl-nan-2026-05-08-rcl",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-fl1.png",
-      "eventSlug": "fl1-rcl-nan-2026-05-08",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "swisstony",
-      "pseudonym": "Frail-Possible",
-      "bio": "loincloth chic",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x3cc653ccbb8e0c86646b8d1fe3c1ac8742859c26c2bb07a4e524f29d7c94f0dc",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Racing Club de Lens win on 2026-05-08?",
-    "market_slug": "fl1-rcl-nan-2026-05-08",
-    "amount": 1821.807
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x15ba83696b1933b52db8bd9a9b1d10e0ade6684477b01293f91c1035bf4ebf34",
     "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
     "trader": {
@@ -27634,5 +27500,204 @@
       "insider_score": 75.0,
       "risk_note": "High stake detected \u2014 copy with reduced sizing (25-40% of source risk)."
     }
+  },
+  {
+    "market": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
+    "market_slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting",
+    "event_slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting",
+    "wallet": "0x3a8aa345d5db7ec5138298c8c4f4540259be7699",
+    "analysis": {
+      "score": 85,
+      "flags": [
+        "Against trend (3.8% effective odds)",
+        "Large bet ($1,895)",
+        "Pre-event latency: 3381m"
+      ],
+      "amount": 1894.6807400000002,
+      "odds": 0.0378936148,
+      "raw_price": 0.0378936148,
+      "outcome": "Yes",
+      "potential_pnl": 48105.31926,
+      "pnl_multiplier": 25.38967027236472,
+      "wallet_age_days": 157,
+      "total_activities": 100
+    },
+    "timestamp": "2026-07-17T15:42:54.985141",
+    "trade_hash": "0xa5473450545364420e47800f49e5e34f2cef88870f736c94062d6a5cd29cb258",
+    "trade_timestamp": 1784302717,
+    "latency": {
+      "latency_seconds": 202883.0,
+      "latency_minutes": 3381.383333333333,
+      "is_pre_event": true,
+      "severity": "CRITICAL",
+      "trade_time": "2026-07-17T15:38:37+00:00",
+      "event_time": "2026-07-20T00:00:00+00:00"
+    },
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.0378936148,
+      "effective_price": 0.0378936148,
+      "size": 50000.0,
+      "amount": 1894.6807400000002,
+      "potential_pnl": 48105.31926,
+      "pnl_multiplier": 25.38967027236472,
+      "is_no": false,
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting",
+      "eventSlug": "fed-decision-in-july-181"
+    },
+    "irrationality": {
+      "irrationality_score": 25,
+      "flags": [
+        "Longshot (4%) in medium bias category (politics_near)"
+      ],
+      "category": "politics_near",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.02,
+        "min_edge": 0.03
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.019657445920000002,
+      "market_price": 0.0378936148,
+      "edge": 0.01823616888,
+      "edge_percent": 1.823616888,
+      "min_edge_required": 0.03,
+      "is_mispriced": false,
+      "edge_quality": "WEAK",
+      "base_rate_class": "historically_near_zero",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "historically_near_zero",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 85,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 85,
+      "insider_position": "YES",
+      "irrationality_score": 25,
+      "is_irrational": false,
+      "is_mispriced": false,
+      "edge": 0.01823616888,
+      "edge_percent": 1.823616888
+    },
+    "financial_analyst": {
+      "signal_quality": 29.7,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 1.82,
+      "signal_strength": 85.0,
+      "insider_score": 85.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x62568ece10cc2b3c0203086ea43699126f8e6ca4290d167c00a62e9d298b5395",
+    "wallet": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
+    "trader": {
+      "rank": 9,
+      "address": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
+      "username": "Len9311238",
+      "profit": 8709972.988069998,
+      "volume": 16402744.764626998,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xe3611dada6c5ea53af7bf22e80e07c005f48ae44",
+      "side": "BUY",
+      "asset": "79858036657923735115335405027319632551609271106895662322975487870682456892075",
+      "conditionId": "0x94dd33f550b7d179672224b2750b5d15716484acdf7b2eec1559d22dc58947c2",
+      "size": 2156.63,
+      "price": 0.8878301239,
+      "timestamp": 1784303233,
+      "title": "LoL: Bilibili Gaming vs Dplus KIA (BO3) - Esports World Cup Playoffs",
+      "slug": "lol-blg-dk-2026-07-17",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
+      "eventSlug": "",
+      "outcome": "Dplus KIA",
+      "outcomeIndex": 999,
+      "name": "trgparking",
+      "pseudonym": "Productive-Vertigo",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x62568ece10cc2b3c0203086ea43699126f8e6ca4290d167c00a62e9d298b5395",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "LoL: Bilibili Gaming vs Dplus KIA (BO3) - Esports World Cup Playoffs",
+    "market_slug": "lol-blg-dk-2026-07-17",
+    "amount": 1914.7210801064573
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x033d1470fd9ea32318a1bbaf51c334860b2ff7b953b7f1789b0badfa44a2455d",
+    "wallet": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
+    "trader": {
+      "rank": 9,
+      "address": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
+      "username": "Len9311238",
+      "profit": 8709972.988069998,
+      "volume": 16402744.764626998,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+      "side": "BUY",
+      "asset": "95947998340313349348284281711506451580307930760209608624608675010802804505457",
+      "conditionId": "0xd0d87798c19179d9aabeac5068f8f30c522c080a8b9f0cdf8ab2f9ca8a334ee4",
+      "size": 1843.99,
+      "price": 0.8630043005,
+      "timestamp": 1784303233,
+      "title": "Athens Open: Tereza Valentova vs Alina Korneeva",
+      "slug": "wta-valento-korneev-2026-07-17",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wta-logo-41f331bdf1.png",
+      "eventSlug": "",
+      "outcome": "Alina Korneeva",
+      "outcomeIndex": 999,
+      "name": "ferrariChampions2026",
+      "pseudonym": "Glaring-Salt",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x033d1470fd9ea32318a1bbaf51c334860b2ff7b953b7f1789b0badfa44a2455d",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Athens Open: Tereza Valentova vs Alina Korneeva",
+    "market_slug": "wta-valento-korneev-2026-07-17",
+    "amount": 1591.371300078995
   }
 ]
