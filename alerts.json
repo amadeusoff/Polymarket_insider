@@ -1,138 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xd26c9b1300d44241c90fdc5807305be38de51c47c25fecb4cc7d89cf395781b3",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x19d8b01c0e003f2199b1eb200146784fa5ec1691",
-      "side": "BUY",
-      "asset": "5518911566251899781889104128835691764907233834499578638252776650915687151064",
-      "conditionId": "0x1641148849a1d6adcc05d8767da224ba9c3bb271ab4d3eeca88b582defaacb11",
-      "size": 5000,
-      "price": 0.5565421,
-      "timestamp": 1778153181,
-      "title": "LoL: HANJIN BRION vs BNK FEARX - Game 2 Winner",
-      "slug": "lol-bro2-fox1-2026-05-07-game2",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
-      "eventSlug": "lol-bro2-fox1-2026-05-07",
-      "outcome": "BNK FEARX",
-      "outcomeIndex": 1,
-      "name": "hlzz",
-      "pseudonym": "Imaginary-Setback",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xd26c9b1300d44241c90fdc5807305be38de51c47c25fecb4cc7d89cf395781b3",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "LoL: HANJIN BRION vs BNK FEARX - Game 2 Winner",
-    "market_slug": "lol-bro2-fox1-2026-05-07",
-    "amount": 2782.7105
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xcae022ddcc386c234bb0c9465a611fceb94f798a886b36f57e49b80e297bf12b",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x4d5f6506f6a05537a3fd2e3424586888af0489d7",
-      "side": "SELL",
-      "asset": "114266735877811876021362945683127542532778925409590599016489267644246881997088",
-      "conditionId": "0x79afea6a94f0b3dffb5e0886fa1dbd740d688029f7aba351dc46911bcb1b1f95",
-      "size": 5060.47,
-      "price": 0.45808782583435925,
-      "timestamp": 1778153181,
-      "title": "Will NVIDIA be the largest company in the world by market cap on June 30?",
-      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-june-30-824",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-g6lIgsIlD7lN.jpg",
-      "eventSlug": "largest-company-end-of-june-712",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "0x4d5f6506f6A05537a3fd2e3424586888Af0489D7-1758109338239",
-      "pseudonym": "Unkempt-Argument",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xcae022ddcc386c234bb0c9465a611fceb94f798a886b36f57e49b80e297bf12b",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will NVIDIA be the largest company in the world by market cap on June 30?",
-    "market_slug": "largest-company-end-of-june-712",
-    "amount": 2318.1397
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x4a96f3285fa48b1f8bedf9227e8c6746b4f4e27c7fbfcbc0a2994cb10fe1b77b",
-    "wallet": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
-    "trader": {
-      "rank": 3,
-      "address": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
-      "username": "kch123",
-      "profit": 12332099.756684104,
-      "volume": 289023838.38010705,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
-      "side": "BUY",
-      "asset": "67893779531886244553148405862732469990614757609484306666619162613782769656566",
-      "conditionId": "0x3e29051e392ced6f9ee559a48b272271e4599dbc41502483a90bbff4e79a23a2",
-      "size": 5087.720758,
-      "price": 0.7862066705823716,
-      "timestamp": 1778159786,
-      "title": "Internazionali BNL d'Italia: Jasmine Paolini vs Leolia Jeanjean",
-      "slug": "wta-paolini-jeanjea-2026-05-07",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wta-logo-41f331bdf1.png",
-      "eventSlug": "wta-paolini-jeanjea-2026-05-07",
-      "outcome": "Jasmine Paolini",
-      "outcomeIndex": 0,
-      "name": "8934394839",
-      "pseudonym": "Sardonic-Lentil",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x4a96f3285fa48b1f8bedf9227e8c6746b4f4e27c7fbfcbc0a2994cb10fe1b77b",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Internazionali BNL d'Italia: Jasmine Paolini vs Leolia Jeanjean",
-    "market_slug": "wta-paolini-jeanjea-2026-05-07",
-    "amount": 3999.9999980000002
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x58e91e87268517d647a5501ca3bc7f5718b9ca31cc3ff86f10b3b69b73977885",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -27303,5 +27171,258 @@
     "market": "LoL: Gen.G vs JD Gaming (BO3) - Esports World Cup Playoffs",
     "market_slug": "lol-gen-jdg-2026-07-17",
     "amount": 1874.8799999999999
+  },
+  {
+    "market": "LoL: Hanwha Life Esports vs T1 - Game 2 Winner",
+    "market_slug": "lol-hle1-t1-2026-07-17-game2",
+    "event_slug": "lol-hle1-t1-2026-07-17-game2",
+    "wallet": "0x0182351858924b20afc9175a305161d69be35d00",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,247)",
+        "Low activity (4 txns)"
+      ],
+      "amount": 1246.5882000000001,
+      "odds": 0.39,
+      "raw_price": 0.39,
+      "outcome": "T1",
+      "potential_pnl": 1949.7918,
+      "pnl_multiplier": 1.5641025641025639,
+      "wallet_age_days": 0,
+      "total_activities": 4
+    },
+    "timestamp": "2026-07-17T12:19:47.313633",
+    "trade_hash": "0x1113a08683dbc13f1a51c53b4c9f9a1ec8ce5ff7178b3c25f3a125c95839c29c",
+    "trade_timestamp": 1784290045,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "T1",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.39,
+      "effective_price": 0.39,
+      "size": 3196.38,
+      "amount": 1246.5882000000001,
+      "potential_pnl": 1949.7918,
+      "pnl_multiplier": 1.5641025641025639,
+      "is_no": false,
+      "slug": "lol-hle1-t1-2026-07-17-game2",
+      "eventSlug": "lol-hle1-t1-2026-07-17"
+    },
+    "irrationality": {
+      "irrationality_score": 18,
+      "flags": [
+        "Moderate mispricing edge (+7.7%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.3135,
+      "market_price": 0.39,
+      "edge": 0.07650000000000001,
+      "edge_percent": 7.650000000000001,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "MODERATE",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 88,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 70,
+      "insider_position": "NO",
+      "irrationality_score": 18,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.07650000000000001,
+      "edge_percent": 7.650000000000001
+    },
+    "financial_analyst": {
+      "signal_quality": 64.1,
+      "stance": "SELECTIVE",
+      "edge_percent": 7.65,
+      "signal_strength": 88.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "LoL: Hanwha Life Esports vs T1 - Game 2 Winner",
+    "market_slug": "lol-hle1-t1-2026-07-17-game2",
+    "event_slug": "lol-hle1-t1-2026-07-17-game2",
+    "wallet": "0x92c9c7f6fcaa2fb60eb4b4076b47be2c682228dc",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,933)",
+        "Low activity (4 txns)"
+      ],
+      "amount": 1932.9899991,
+      "odds": 0.62,
+      "raw_price": 0.62,
+      "outcome": "Hanwha Life Esports",
+      "potential_pnl": 1184.7358059,
+      "pnl_multiplier": 0.6129032258064516,
+      "wallet_age_days": 0,
+      "total_activities": 4
+    },
+    "timestamp": "2026-07-17T12:19:56.678320",
+    "trade_hash": "0x37a8a8d09c4f92259e08eaa433a1eb633d29d3fb630d6af4cdbd5974a59949a8",
+    "trade_timestamp": 1784289943,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Hanwha Life Esports",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.62,
+      "effective_price": 0.62,
+      "size": 3117.725805,
+      "amount": 1932.9899991,
+      "potential_pnl": 1184.7358059,
+      "pnl_multiplier": 0.6129032258064516,
+      "is_no": false,
+      "slug": "lol-hle1-t1-2026-07-17-game2",
+      "eventSlug": "lol-hle1-t1-2026-07-17"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+21.5%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.40549999999999997,
+      "market_price": 0.62,
+      "edge": 0.21450000000000002,
+      "edge_percent": 21.450000000000003,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.21450000000000002,
+      "edge_percent": 21.450000000000003
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 46.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 21.45,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xa29a4f23b0289013800af91c68bf8ee848dcbf24cb38906b33cb3c3129560f65",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+      "side": "BUY",
+      "asset": "43407220186619307226890567314724396745558753733241479531369341157050055393599",
+      "conditionId": "0x66986d8117bb842f6230b4f14cce293618e9884cfdb25f1de43d6c633799a1b8",
+      "size": 11551.93,
+      "price": 0.25,
+      "timestamp": 1784290320,
+      "title": "Istanbul 2: Vera Zvonareva vs Lanlana Tararudee",
+      "slug": "wta-zvonare-tararud-2026-07-17",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wta-logo-41f331bdf1.png",
+      "eventSlug": "",
+      "outcome": "Vera Zvonareva",
+      "outcomeIndex": 999,
+      "name": "ferrariChampions2026",
+      "pseudonym": "Glaring-Salt",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xa29a4f23b0289013800af91c68bf8ee848dcbf24cb38906b33cb3c3129560f65",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Istanbul 2: Vera Zvonareva vs Lanlana Tararudee",
+    "market_slug": "wta-zvonare-tararud-2026-07-17",
+    "amount": 2887.9825
   }
 ]
