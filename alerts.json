@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xa202be1f3ef0f7176b916db369f61753a36d75caf5913b76d6cdf36067db47c2",
-    "wallet": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
-    "trader": {
-      "rank": 14,
-      "address": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
-      "username": "GamblingIsAllYouNeed",
-      "profit": 5075793.954391033,
-      "volume": 407369193.103269,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x8a6c6811e8937f9e8afc1b9249fa540262c30b3f",
-      "side": "BUY",
-      "asset": "48839453182186355372624496099211608355051893626040724165366242163992402674901",
-      "conditionId": "0xc2d80585028dd8b6e1dfd4e5cbb72747b6695339ba54ae971ca35289a7560c41",
-      "size": 89587.481784,
-      "price": 0.2734757078904255,
-      "timestamp": 1778334813,
-      "title": "Will Fulham FC vs. AFC Bournemouth end in a draw?",
-      "slug": "epl-ful-bou-2026-05-09-draw",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/premier+league.jpg",
-      "eventSlug": "epl-ful-bou-2026-05-09",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "0x8a6C6811e8937F9E8aFc1b9249FA540262c30b3f-1771776258725",
-      "pseudonym": "Rare-Dishwasher",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xa202be1f3ef0f7176b916db369f61753a36d75caf5913b76d6cdf36067db47c2",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Fulham FC vs. AFC Bournemouth end in a draw?",
-    "market_slug": "epl-ful-bou-2026-05-09",
-    "amount": 24499.999999000003
-  },
-  {
     "market": "UFC 328: Sean Strickland vs. Khamzat Chimaev (Middleweight, Main Card)",
     "market_slug": "ufc-sea2-kha7-2026",
     "event_slug": "ufc-sea2-kha7-2026",
@@ -27699,5 +27655,110 @@
     "market": "Athens Open: Clara Tauson vs Sara Bejlek",
     "market_slug": "wta-tauson-bejlek-2026-07-17",
     "amount": 19999.999996769377
+  },
+  {
+    "market": "Swiss Open: Raphael Collignon vs Juan Manuel Cerundolo",
+    "market_slug": "atp-collign-cerund-2026",
+    "event_slug": "atp-collign-cerund-2026",
+    "wallet": "0x3bca4467feb90a2d6ecffab5901030efcf0d0552",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($2,351)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 2351.2399991899997,
+      "odds": 0.59,
+      "raw_price": 0.59,
+      "outcome": "Raphael Collignon",
+      "potential_pnl": 1633.9125418100002,
+      "pnl_multiplier": 0.6949152542372883,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-07-17T21:27:11.017076",
+    "trade_hash": "0x04616be81ee658ad4434cf79cc8977264fd106600dad1782786c48071773625c",
+    "trade_timestamp": 1784322645,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Raphael Collignon",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.59,
+      "effective_price": 0.59,
+      "size": 3985.152541,
+      "amount": 2351.2399991899997,
+      "potential_pnl": 1633.9125418100002,
+      "pnl_multiplier": 0.6949152542372883,
+      "is_no": false,
+      "slug": "atp-collign-cerund-2026",
+      "eventSlug": "atp-collign-cerund-2026-07-18"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+19.7%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.39349999999999996,
+      "market_price": 0.59,
+      "edge": 0.1965,
+      "edge_percent": 19.650000000000002,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.1965,
+      "edge_percent": 19.650000000000002
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 46.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 19.65,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
