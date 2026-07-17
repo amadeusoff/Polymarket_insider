@@ -27123,7 +27123,8 @@
     },
     "market": "Will Argentina win the 2026 FIFA World Cup?",
     "market_slug": "will-argentina-win-the-2026-fifa-world-cup-245",
-    "amount": 4170.0
+    "amount": 4170.0,
+    "resolution_last_check": "2026-07-17T08:14:14.264781+00:00"
   },
   {
     "type": "TOP_TRADER",
@@ -27255,7 +27256,8 @@
     },
     "market": "France vs. England: Team to Win",
     "market_slug": "fifwc-fra-eng-2026-07-18-team-to-advance",
-    "amount": 2925.0
+    "amount": 2925.0,
+    "resolution_last_check": "2026-07-17T08:14:17.611732+00:00"
   },
   {
     "type": "TOP_TRADER",
@@ -27299,6 +27301,7 @@
     },
     "market": "Will Spain win on 2026-07-19?",
     "market_slug": "fifwc-esp-arg-2026-07-19-esp",
-    "amount": 2930.93999919
+    "amount": 2930.93999919,
+    "resolution_last_check": "2026-07-17T08:14:18.350854+00:00"
   }
 ]
