@@ -1,94 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x8bf679b54e1184cc6f412f2d759367a8117097936774d585f35adaebd6508ab2",
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "trader": {
-      "rank": 5,
-      "address": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-      "username": "RN1",
-      "profit": 8473751.32797555,
-      "volume": 510247874.9789579,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x38c2734df152fcd3a27469770b5b08a0e62fd3a7",
-      "side": "BUY",
-      "asset": "26104816692143190673703252988694101728161888777222466355318686994630337690105",
-      "conditionId": "0x0fb23b9a75c931152a17dcc8f659fd401c6e911f47a0e4088d5394581be0b3bd",
-      "size": 8461.53846,
-      "price": 0.65,
-      "timestamp": 1778112494,
-      "title": "76ers vs. Knicks",
-      "slug": "nba-phi-nyk-2026-05-06",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-phi-nyk-2026-05-06",
-      "outcome": "Knicks",
-      "outcomeIndex": 1,
-      "name": "Bigboybandi",
-      "pseudonym": "Ready-Dissonance",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x8bf679b54e1184cc6f412f2d759367a8117097936774d585f35adaebd6508ab2",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "76ers vs. Knicks",
-    "market_slug": "nba-phi-nyk-2026-05-06",
-    "amount": 5499.999999
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x839e7c9fe2ab869390b41eb113e31ed3707eecdc879841f3d8114e6594bdbace",
-    "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
-    "trader": {
-      "rank": 11,
-      "address": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
-      "username": "KeyTransporter",
-      "profit": 5711459.802519929,
-      "volume": 20086062.154324993,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
-      "side": "BUY",
-      "asset": "44392251743100304727748425899319496884238220968052430797034987021330564282108",
-      "conditionId": "0xeecb65b0273b431cc53a93f2b8af4bf35fff895837a53ca7c198c939be3b7f68",
-      "size": 3750,
-      "price": 0.88,
-      "timestamp": 1778112756,
-      "title": "76ers vs. Knicks: O/U 214.5",
-      "slug": "nba-phi-nyk-2026-05-06-total-214pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-phi-nyk-2026-05-06",
-      "outcome": "Over",
-      "outcomeIndex": 0,
-      "name": "curie",
-      "pseudonym": "Illiterate-Counterforce",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x839e7c9fe2ab869390b41eb113e31ed3707eecdc879841f3d8114e6594bdbace",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "76ers vs. Knicks: O/U 214.5",
-    "market_slug": "nba-phi-nyk-2026-05-06",
-    "amount": 3300.0
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xd26c9b1300d44241c90fdc5807305be38de51c47c25fecb4cc7d89cf395781b3",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -27303,5 +27215,93 @@
     "market_slug": "fifwc-esp-arg-2026-07-19-esp",
     "amount": 2930.93999919,
     "resolution_last_check": "2026-07-17T08:14:18.350854+00:00"
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x2f67c593048a178e991ba8431517d511ce90396594c6610cc7ae234d535b6c19",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+      "side": "BUY",
+      "asset": "8238415269625944652501282953792900114116897331529779225818667053201793385356",
+      "conditionId": "0x3e2865566ba4055600f3503417380ed7a3dd1c7de415367bdbe0b8fc2d8ff041",
+      "size": 6371.66,
+      "price": 0.7,
+      "timestamp": 1784285814,
+      "title": "Kitzbuehel: Julia Grabher vs Jeline Vandromme",
+      "slug": "wta-grabher-vandrom-2026-07-17",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wta-logo-41f331bdf1.png",
+      "eventSlug": "",
+      "outcome": "Jeline Vandromme",
+      "outcomeIndex": 999,
+      "name": "HomeRunHazard",
+      "pseudonym": "Powerless-Savannah",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x2f67c593048a178e991ba8431517d511ce90396594c6610cc7ae234d535b6c19",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Kitzbuehel: Julia Grabher vs Jeline Vandromme",
+    "market_slug": "wta-grabher-vandrom-2026-07-17",
+    "amount": 4460.161999999999
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xf8ae82354955441edeb093434cce4161f56366bd42f4299b5da989f8fa6ee294",
+    "wallet": "0x3f87d51f27ba6e19ec52aaeebb68559a839c742c",
+    "trader": {
+      "rank": 13,
+      "address": "0x3f87d51f27ba6e19ec52aaeebb68559a839c742c",
+      "username": "GRIMDRIP",
+      "profit": 7602742.057861,
+      "volume": 13603969.275332002,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x2117ae94a97d69b78cbc81b6680a62deb1955c26",
+      "side": "BUY",
+      "asset": "81182068866948448504269447196173876546238606574763140067848336866207382626427",
+      "conditionId": "0x962b62543a305b883233862f94d490b7dafd7ad2f845c62b287bd37519782da6",
+      "size": 2232,
+      "price": 0.84,
+      "timestamp": 1784286414,
+      "title": "LoL: Gen.G vs JD Gaming (BO3) - Esports World Cup Playoffs",
+      "slug": "lol-gen-jdg-2026-07-17",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
+      "eventSlug": "",
+      "outcome": "Gen.G",
+      "outcomeIndex": 999,
+      "name": "Zzzz87",
+      "pseudonym": "Kosher-Refuse",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xf8ae82354955441edeb093434cce4161f56366bd42f4299b5da989f8fa6ee294",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "LoL: Gen.G vs JD Gaming (BO3) - Esports World Cup Playoffs",
+    "market_slug": "lol-gen-jdg-2026-07-17",
+    "amount": 1874.8799999999999
   }
 ]
