@@ -1,109 +1,5 @@
 [
   {
-    "market": "UFC 328: Sean Strickland vs. Khamzat Chimaev (Middleweight, Main Card)",
-    "market_slug": "ufc-sea2-kha7-2026",
-    "event_slug": "ufc-sea2-kha7-2026",
-    "wallet": "0xb140fb7a5352cd60ff94a07c9d4161c9dd3eb0d9",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($87,014)",
-        "Low activity (2 txns)"
-      ],
-      "amount": 87014.423,
-      "odds": 0.82,
-      "raw_price": 0.82,
-      "outcome": "Khamzat Chimaev",
-      "potential_pnl": 19100.727,
-      "pnl_multiplier": 0.21951219512195122,
-      "wallet_age_days": 0,
-      "total_activities": 2
-    },
-    "timestamp": "2026-05-09T17:35:44.724775",
-    "trade_hash": "0xd2f26822ac855a02973125acfd2e2c9e0edc3f31b73322dc70dc49e67636d95b",
-    "trade_timestamp": 1778347728,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Khamzat Chimaev",
-      "outcomeIndex": 1,
-      "normalized_position": "NO",
-      "side": "BUY",
-      "price": 0.82,
-      "effective_price": 0.82,
-      "size": 106115.15,
-      "amount": 87014.423,
-      "potential_pnl": 19100.727,
-      "pnl_multiplier": 0.21951219512195122,
-      "is_no": false,
-      "slug": "ufc-sea2-kha7-2026",
-      "eventSlug": "ufc-sea2-kha7-2026-05-09"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+33.4%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.4855,
-      "market_price": 0.82,
-      "edge": 0.33449999999999996,
-      "edge_percent": 33.449999999999996,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "low"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 2,
-        "conditions": [
-          "Unknown"
-        ],
-        "weakest_link": "Unknown"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Unknown"
-      ],
-      "confidence_in_analysis": "low"
-    },
-    "combined_signal": {
-      "signal_type": "ALPHA",
-      "signal_emoji": "\ud83d\udd25",
-      "signal_strength": 105,
-      "interpretation": "Smart money (NO) confirms YES is overpriced",
-      "action_suggestion": "High conviction: insider + statistics aligned",
-      "insider_score": 70,
-      "insider_position": "NO",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.33449999999999996,
-      "edge_percent": 33.449999999999996
-    },
-    "financial_analyst": {
-      "signal_quality": 81.0,
-      "stance": "HIGH_CONVICTION",
-      "edge_percent": 33.45,
-      "signal_strength": 105.0,
-      "insider_score": 70.0,
-      "risk_note": "High stake detected \u2014 copy with reduced sizing (25-40% of source risk)."
-    }
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0x4ee029bbd172117dd7962293b9ae23e84970ec20e250a75b584493e2c94acca8",
     "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
@@ -27830,5 +27726,49 @@
       "insider_score": 100.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x3ff2b2ad85e89a2c3f26005edad8c8016e4962a74b40133cc7a7bc09d4477f12",
+    "wallet": "0xbc11a64ab34a03a043fbe80598fa065ee87eeec6",
+    "trader": {
+      "rank": 8,
+      "address": "0xbc11a64ab34a03a043fbe80598fa065ee87eeec6",
+      "username": "frostrizz",
+      "profit": 8928561.11799,
+      "volume": 23091318.15574806,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xb2347441402286d1afdc510a548db61c86da1c20",
+      "side": "BUY",
+      "asset": "96000058139397229407699157697686077457473586398925076608816267272670195041442",
+      "conditionId": "0xfa7513156c7055853538665a3c92b9f5b23de62549853207b6077f3d09ba6a8d",
+      "size": 12655.48,
+      "price": 0.24,
+      "timestamp": 1784376244,
+      "title": "LoL: T1 vs Karmine Corp - Game 2 Winner",
+      "slug": "lol-t1-kc-2026-07-18-game2",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
+      "eventSlug": "",
+      "outcome": "Karmine Corp",
+      "outcomeIndex": 999,
+      "name": "GonSaless",
+      "pseudonym": "Cooked-Provision",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x3ff2b2ad85e89a2c3f26005edad8c8016e4962a74b40133cc7a7bc09d4477f12",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "LoL: T1 vs Karmine Corp - Game 2 Winner",
+    "market_slug": "lol-t1-kc-2026-07-18-game2",
+    "amount": 3037.3152
   }
 ]
