@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x28b7d143e8c5738604f6cf57d8283d118be1ca75baeb200c5333d8c351402978",
-    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-    "trader": {
-      "rank": 6,
-      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-      "username": "zxgngl",
-      "profit": 7807265.589240883,
-      "volume": 40551790.62184698,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xd1001f4ef07ee37774934a8bc0083185ef6b853d",
-      "side": "BUY",
-      "asset": "112761350448338898985514464542365964714664792956191496082898119593143821229626",
-      "conditionId": "0x149f392f9c3b155261d91d3fb34e05cc8bf9c259dabe1c266fc8e71d725e6dd2",
-      "size": 5175.270269,
-      "price": 0.3699999998975899,
-      "timestamp": 1778341302,
-      "title": "Will FC Bayern M\u00fcnchen win on 2026-05-09?",
-      "slug": "bun-wol-bay-2026-05-09-bay",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-bun.jpg",
-      "eventSlug": "bun-wol-bay-2026-05-09",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "",
-      "pseudonym": "",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x28b7d143e8c5738604f6cf57d8283d118be1ca75baeb200c5333d8c351402978",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will FC Bayern M\u00fcnchen win on 2026-05-09?",
-    "market_slug": "bun-wol-bay-2026-05-09",
-    "amount": 1914.849999
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x22aca39350f2137880ecccc6c0988e142b3855e7b40aa5ba07b55f1cc97e4712",
     "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
     "trader": {
@@ -27701,5 +27657,110 @@
     "market": "Fluminense FC vs. Red Bull Bragantino: O/U 1.5",
     "market_slug": "bra-flu-bra-2026-07-17-total-1pt5",
     "amount": 4223.399500041095
+  },
+  {
+    "market": "Will Spain win the 2026 FIFA World Cup?",
+    "market_slug": "will-spain-win-the-2026-fifa-world-cup-963",
+    "event_slug": "will-spain-win-the-2026-fifa-world-cup-963",
+    "wallet": "0x4f99972893114023421d6a9caf5738596a0238cc",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($14,689)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 14689.0,
+      "odds": 0.592,
+      "raw_price": 0.592,
+      "outcome": "Yes",
+      "potential_pnl": 10123.5,
+      "pnl_multiplier": 0.6891891891891891,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-07-18T09:50:49.172352",
+    "trade_hash": "0xb069841a4d40b857aff4f380000af7e66707a71073ff31e16813ed84660af0a7",
+    "trade_timestamp": 1784368035,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.592,
+      "effective_price": 0.592,
+      "size": 24812.5,
+      "amount": 14689.0,
+      "potential_pnl": 10123.5,
+      "pnl_multiplier": 0.6891891891891891,
+      "is_no": false,
+      "slug": "will-spain-win-the-2026-fifa-world-cup-963",
+      "eventSlug": "world-cup-winner"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+19.8%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.3943,
+      "market_price": 0.592,
+      "edge": 0.1977,
+      "edge_percent": 19.77,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.1977,
+      "edge_percent": 19.77
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 46.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 19.77,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
