@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x22aca39350f2137880ecccc6c0988e142b3855e7b40aa5ba07b55f1cc97e4712",
-    "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
-    "trader": {
-      "rank": 20,
-      "address": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
-      "username": "beachboy4",
-      "profit": 3883688.5939415954,
-      "volume": 217505017.31925595,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xc8075693f48668a264b9fa313b47f52712fcc12b",
-      "side": "BUY",
-      "asset": "90379475855156583231353902932686617540164427062932696530974488408424846460225",
-      "conditionId": "0x81b0a7efc30ad46f01c931c2e6cf8cad6c2a0315c41cd104d380f5a1c401a19d",
-      "size": 46914.95,
-      "price": 0.49,
-      "timestamp": 1778341825,
-      "title": "Pittsburgh Pirates vs. San Francisco Giants",
-      "slug": "mlb-pit-sf-2026-05-09",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
-      "eventSlug": "mlb-pit-sf-2026-05-09",
-      "outcome": "San Francisco Giants",
-      "outcomeIndex": 1,
-      "name": "texaskid",
-      "pseudonym": "Dutiful-Fur",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x22aca39350f2137880ecccc6c0988e142b3855e7b40aa5ba07b55f1cc97e4712",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Pittsburgh Pirates vs. San Francisco Giants",
-    "market_slug": "mlb-pit-sf-2026-05-09",
-    "amount": 22988.3255
-  },
-  {
     "market": "UFC 328: Sean Strickland vs. Khamzat Chimaev (Middleweight, Main Card)",
     "market_slug": "ufc-sea2-kha7-2026",
     "event_slug": "ufc-sea2-kha7-2026",
@@ -27760,6 +27716,118 @@
       "edge_percent": 19.77,
       "signal_strength": 70.0,
       "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Will AC Goianiense win on 2026-07-20?",
+    "market_slug": "bra2-acg-ath-2026-07-20-acg",
+    "event_slug": "bra2-acg-ath-2026-07-20-acg",
+    "wallet": "0x04d5524a0a5af2eca6e39e03defc261d42fe66d8",
+    "analysis": {
+      "score": 100,
+      "flags": [
+        "New wallet (2d old)",
+        "Large bet ($2,287)",
+        "Pre-event latency: 2235m"
+      ],
+      "amount": 2287.1533999999997,
+      "odds": 0.49,
+      "raw_price": 0.49,
+      "outcome": "Yes",
+      "potential_pnl": 2380.5066,
+      "pnl_multiplier": 1.0408163265306125,
+      "wallet_age_days": 2,
+      "total_activities": 100
+    },
+    "timestamp": "2026-07-18T10:58:13.663233",
+    "trade_hash": "0x70b49171e5fd3803c6b1f09663a1c0b0b782fc306eaecf985ca15983990dea7b",
+    "trade_timestamp": 1784371522,
+    "latency": {
+      "latency_seconds": 134078.0,
+      "latency_minutes": 2234.633333333333,
+      "is_pre_event": true,
+      "severity": "CRITICAL",
+      "trade_time": "2026-07-18T10:45:22+00:00",
+      "event_time": "2026-07-20T00:00:00+00:00"
+    },
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.49,
+      "effective_price": 0.49,
+      "size": 4667.66,
+      "amount": 2287.1533999999997,
+      "potential_pnl": 2380.5066,
+      "pnl_multiplier": 1.0408163265306125,
+      "is_no": false,
+      "slug": "bra2-acg-ath-2026-07-20-acg",
+      "eventSlug": "bra2-acg-ath-2026-07-20"
+    },
+    "irrationality": {
+      "irrationality_score": 25,
+      "flags": [
+        "Significant mispricing edge (+13.7%)"
+      ],
+      "category": "politics_near",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.02,
+        "min_edge": 0.03
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.3535,
+      "market_price": 0.49,
+      "edge": 0.1365,
+      "edge_percent": 13.65,
+      "min_edge_required": 0.03,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 100,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 100,
+      "insider_position": "YES",
+      "irrationality_score": 25,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.1365,
+      "edge_percent": 13.65
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 45.5,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 13.65,
+      "signal_strength": 100.0,
+      "insider_score": 100.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
   }
