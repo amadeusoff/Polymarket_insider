@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xd883fc3b15a7f27871f5a258217a39930383378e32d9b6f12757efb1ba2ab14d",
-    "wallet": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
-    "trader": {
-      "rank": 19,
-      "address": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
-      "username": "Jenzigo",
-      "profit": 4049827.0941029997,
-      "volume": 9457725.034338009,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x26b46988d027c6c03cfa12a7c0c6d778be49b8a9",
-      "side": "BUY",
-      "asset": "38704732043317780255207541322393339230425824037842138241201786829675898473577",
-      "conditionId": "0x5c953cc3126d68b6c8fde1b98aae5f7f69643ba3529188168faac4bd850a97ef",
-      "size": 8110.47016,
-      "price": 0.616487071694004,
-      "timestamp": 1778365233,
-      "title": "Washington Nationals vs. Miami Marlins",
-      "slug": "mlb-wsh-mia-2026-05-09",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
-      "eventSlug": "mlb-wsh-mia-2026-05-09",
-      "outcome": "Miami Marlins",
-      "outcomeIndex": 1,
-      "name": "kkookkoo",
-      "pseudonym": "Snappy-Basketball",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xd883fc3b15a7f27871f5a258217a39930383378e32d9b6f12757efb1ba2ab14d",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Washington Nationals vs. Miami Marlins",
-    "market_slug": "mlb-wsh-mia-2026-05-09",
-    "amount": 4999.999999
-  },
-  {
     "market": "Thunder vs. Lakers",
     "market_slug": "nba-okc-lal-2026",
     "event_slug": "nba-okc-lal-2026",
@@ -27819,5 +27775,49 @@
     "market": "France vs. England: Team to Win",
     "market_slug": "fifwc-fra-eng-2026-07-18-team-to-advance",
     "amount": 1506.3999999745602
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xdb6452eb5997eb2e9996a8ddc660bbeb210120a764dc469ff5b81e3ed3c71fac",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xe821d8e43faefdf27538c0a9c3a803601ec03128",
+      "side": "SELL",
+      "asset": "40070802586891785847406868430183769055397811108040304715135898830510110280731",
+      "conditionId": "0x12f28bf750a67a2da5bc52328e7e77f9d36a528eea6b0cfc52cd7bd697488f56",
+      "size": 24694,
+      "price": 0.21,
+      "timestamp": 1784417400,
+      "title": "Tampa Bay Rays vs. Boston Red Sox",
+      "slug": "mlb-tb-bos-2026-07-18",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
+      "eventSlug": "",
+      "outcome": "Tampa Bay Rays",
+      "outcomeIndex": 999,
+      "name": "",
+      "pseudonym": "",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xdb6452eb5997eb2e9996a8ddc660bbeb210120a764dc469ff5b81e3ed3c71fac",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Tampa Bay Rays vs. Boston Red Sox",
+    "market_slug": "mlb-tb-bos-2026-07-18",
+    "amount": 5185.74
   }
 ]
