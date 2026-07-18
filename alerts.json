@@ -1,109 +1,5 @@
 [
   {
-    "market": "UFC 328: Sean Strickland vs. Khamzat Chimaev (Middleweight, Main Card)",
-    "market_slug": "ufc-sea2-kha7-2026",
-    "event_slug": "ufc-sea2-kha7-2026",
-    "wallet": "0x8decd265fd696e060b6b287202f87f9a1af70330",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,004)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 1003.819996,
-      "odds": 0.8199999998856369,
-      "raw_price": 0.8199999998856369,
-      "outcome": "Khamzat Chimaev",
-      "potential_pnl": 220.350731,
-      "pnl_multiplier": 0.21951219529203322,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-05-09T15:37:59.197295",
-    "trade_hash": "0xe4a97be74ff1c8406319afb9658c32bc5aa4b520dda44778f67c5cde34193ad1",
-    "trade_timestamp": 1778340661,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Khamzat Chimaev",
-      "outcomeIndex": 1,
-      "normalized_position": "NO",
-      "side": "BUY",
-      "price": 0.8199999998856369,
-      "effective_price": 0.8199999998856369,
-      "size": 1224.170727,
-      "amount": 1003.819996,
-      "potential_pnl": 220.350731,
-      "pnl_multiplier": 0.21951219529203322,
-      "is_no": false,
-      "slug": "ufc-sea2-kha7-2026",
-      "eventSlug": "ufc-sea2-kha7-2026-05-09"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+33.4%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.48549999995425475,
-      "market_price": 0.8199999998856369,
-      "edge": 0.33449999993138213,
-      "edge_percent": 33.44999999313821,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "low"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 2,
-        "conditions": [
-          "Unknown"
-        ],
-        "weakest_link": "Unknown"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Unknown"
-      ],
-      "confidence_in_analysis": "low"
-    },
-    "combined_signal": {
-      "signal_type": "ALPHA",
-      "signal_emoji": "\ud83d\udd25",
-      "signal_strength": 105,
-      "interpretation": "Smart money (NO) confirms YES is overpriced",
-      "action_suggestion": "High conviction: insider + statistics aligned",
-      "insider_score": 70,
-      "insider_position": "NO",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.33449999993138213,
-      "edge_percent": 33.44999999313821
-    },
-    "financial_analyst": {
-      "signal_quality": 81.0,
-      "stance": "HIGH_CONVICTION",
-      "edge_percent": 33.45,
-      "signal_strength": 105.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0x28b7d143e8c5738604f6cf57d8283d118be1ca75baeb200c5333d8c351402978",
     "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
@@ -27760,5 +27656,49 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x0f741def0013ff9620797e777aefdc8f96fb5aeeedec4e325b9e67b36018becf",
+    "wallet": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+    "trader": {
+      "rank": 17,
+      "address": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+      "username": "PrincessCaro",
+      "profit": 6083643.099591745,
+      "volume": 23520809.952867,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x8944890ebd9ec5fc4a6e4d2a12c25174a5e5da4b",
+      "side": "SELL",
+      "asset": "88368434159211540256081553725888862336913946454095069517566513369677603001421",
+      "conditionId": "0xb468ea09d3f4f51f0e7a9c82a3f5ee96a5dfeb82df4b216b9374ee2d02192417",
+      "size": 4544.65,
+      "price": 0.9293123783,
+      "timestamp": 1784336902,
+      "title": "Fluminense FC vs. Red Bull Bragantino: O/U 1.5",
+      "slug": "bra-flu-bra-2026-07-17-total-1pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/brasilerirao-image-52ef283574.png",
+      "eventSlug": "",
+      "outcome": "Over",
+      "outcomeIndex": 999,
+      "name": "kdmxg",
+      "pseudonym": "Flickering-Dump-Safeguard",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x0f741def0013ff9620797e777aefdc8f96fb5aeeedec4e325b9e67b36018becf",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Fluminense FC vs. Red Bull Bragantino: O/U 1.5",
+    "market_slug": "bra-flu-bra-2026-07-17-total-1pt5",
+    "amount": 4223.399500041095
   }
 ]
