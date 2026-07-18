@@ -1,161 +1,5 @@
 [
   {
-    "market": "Strait of Hormuz traffic returns to normal by May 15?",
-    "market_slug": "strait-of-hormuz-traffic-returns-to-normal-by-may-15",
-    "event_slug": "strait-of-hormuz-traffic-returns-to-normal-by-may-15",
-    "wallet": "0xcdbc69eb662396d5a1877b7fe5063c2cb898f38b",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "Against trend (3.5% effective odds)",
-        "Large bet ($1,500)",
-        "Pre-event latency: 7311m"
-      ],
-      "amount": 1499.9999999999998,
-      "odds": 0.034707762261454125,
-      "raw_price": 0.034707762261454125,
-      "outcome": "Yes",
-      "potential_pnl": 41717.998,
-      "pnl_multiplier": 27.81199866666667,
-      "wallet_age_days": 234,
-      "total_activities": 100
-    },
-    "timestamp": "2026-05-09T22:11:10.813225",
-    "trade_hash": "0x0e9fd197b79e486cc2f9cd1e8c84413646ad1c73ff664e57001822feba29f193",
-    "trade_timestamp": 1778364552,
-    "latency": {
-      "latency_seconds": 438648.0,
-      "latency_minutes": 7310.8,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-05-09T22:09:12+00:00",
-      "event_time": "2026-05-15T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "normalized_position": "YES",
-      "side": "BUY",
-      "price": 0.034707762261454125,
-      "effective_price": 0.034707762261454125,
-      "size": 43217.998,
-      "amount": 1499.9999999999998,
-      "potential_pnl": 41717.998,
-      "pnl_multiplier": 27.81199866666667,
-      "is_no": false,
-      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-may-15",
-      "eventSlug": "strait-of-hormuz-traffic-returns-to-normal-by-may-15"
-    },
-    "irrationality": {
-      "irrationality_score": 25,
-      "flags": [
-        "Longshot (3%) in medium bias category (other)"
-      ],
-      "category": "other",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": false
-    },
-    "mispricing": {
-      "rational_estimate": 0.01838310490458165,
-      "market_price": 0.034707762261454125,
-      "edge": 0.016324657356872475,
-      "edge_percent": 1.6324657356872476,
-      "min_edge_required": 0.05,
-      "is_mispriced": false,
-      "edge_quality": "WEAK",
-      "base_rate_class": "historically_near_zero",
-      "confidence": "low"
-    },
-    "factors": {
-      "base_rate_class": "historically_near_zero",
-      "structural_feasibility": {
-        "independent_conditions_required": 2,
-        "conditions": [
-          "Unknown"
-        ],
-        "weakest_link": "Unknown"
-      },
-      "category": "other",
-      "narrative_drivers": [
-        "Unknown"
-      ],
-      "confidence_in_analysis": "low"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 85,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 85,
-      "insider_position": "YES",
-      "irrationality_score": 25,
-      "is_irrational": false,
-      "is_mispriced": false,
-      "edge": 0.016324657356872475,
-      "edge_percent": 1.6324657356872476
-    },
-    "financial_analyst": {
-      "signal_quality": 29.4,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 1.63,
-      "signal_strength": 85.0,
-      "insider_score": 85.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-05-10T08:13:04.684634+00:00"
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x299fda04f45032364a34253d01507eba562364022a1df875a1a4565e3d0c85b4",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x6eb7ce9c35d25a04e98568ea5166ba1397f2a0f1",
-      "side": "BUY",
-      "asset": "112835643075135879623001418171457701547739913912935214218400996530502278234677",
-      "conditionId": "0x8bef90cc7dbb0dae5d380169049e70f9d0ba3dfafb927aa2f5d347b53ffb4ec0",
-      "size": 4000,
-      "price": 0.38,
-      "timestamp": 1778364334,
-      "title": "Colorado Rockies vs. Philadelphia Phillies",
-      "slug": "mlb-col-phi-2026-05-09",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
-      "eventSlug": "mlb-col-phi-2026-05-09",
-      "outcome": "Colorado Rockies",
-      "outcomeIndex": 0,
-      "name": "greek404",
-      "pseudonym": "Stiff-Eraser",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x299fda04f45032364a34253d01507eba562364022a1df875a1a4565e3d0c85b4",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Colorado Rockies vs. Philadelphia Phillies",
-    "market_slug": "mlb-col-phi-2026-05-09",
-    "amount": 1520.0
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0xd883fc3b15a7f27871f5a258217a39930383378e32d9b6f12757efb1ba2ab14d",
     "wallet": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
@@ -27829,5 +27673,151 @@
     "market": "Exact Score: Any Other Score?",
     "market_slug": "fifwc-fra-eng-2026-07-18-exact-score-any-other",
     "amount": 1526.25
+  },
+  {
+    "market": "Will France vs. England end in a draw?",
+    "market_slug": "fifwc-fra-eng-2026-07-18-draw",
+    "event_slug": "fifwc-fra-eng-2026-07-18-draw",
+    "wallet": "0x599ac419486c37737b609383401cb74971177aa9",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($9,485)",
+        "Low activity (3 txns)"
+      ],
+      "amount": 9485.359998504911,
+      "odds": 0.189325185,
+      "raw_price": 0.189325185,
+      "outcome": "Yes",
+      "potential_pnl": 40615.52857849508,
+      "pnl_multiplier": 4.281917458577948,
+      "wallet_age_days": 0,
+      "total_activities": 3
+    },
+    "timestamp": "2026-07-18T22:32:06.778782",
+    "trade_hash": "0x7f09fe85dc650c724f775384c95d33eed6f8b4445fd30a43df3fcc09f128cab4",
+    "trade_timestamp": 1784413437,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.189325185,
+      "effective_price": 0.189325185,
+      "size": 50100.888577,
+      "amount": 9485.359998504911,
+      "potential_pnl": 40615.52857849508,
+      "pnl_multiplier": 4.281917458577948,
+      "is_no": false,
+      "slug": "fifwc-fra-eng-2026-07-18-draw",
+      "eventSlug": "fifwc-fra-eng-2026-07-18"
+    },
+    "irrationality": {
+      "irrationality_score": 10,
+      "flags": [],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.14323007399999999,
+      "market_price": 0.189325185,
+      "edge": 0.04609511100000002,
+      "edge_percent": 4.609511100000002,
+      "min_edge_required": 0.05,
+      "is_mispriced": false,
+      "edge_quality": "WEAK",
+      "base_rate_class": "occasional",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "occasional",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 10,
+      "is_irrational": false,
+      "is_mispriced": false,
+      "edge": 0.04609511100000002,
+      "edge_percent": 4.609511100000002
+    },
+    "financial_analyst": {
+      "signal_quality": 27.9,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 4.61,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x884c69cd9994f1459aad0ced256c8888f73111d160b441a4ec4b8db9d117c1dd",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x4a9027a16dec5e8b05e194aec7825cb2f6af03b5",
+      "side": "BUY",
+      "asset": "68383229798738153843260173110368067454393737148304707811610243859638727205428",
+      "conditionId": "0xaeec5397b4ee2ce20555c0099f0dcf4de4648a2f080c2d10b65ceaff9c26d7a8",
+      "size": 3441.8,
+      "price": 0.4376779592,
+      "timestamp": 1784413797,
+      "title": "France vs. England: Team to Win",
+      "slug": "fifwc-fra-eng-2026-07-18-team-to-advance",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "",
+      "outcome": "France",
+      "outcomeIndex": 999,
+      "name": "Castledsasngiod",
+      "pseudonym": "Competent-Scam",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-5037929-aac724f5-64b1-47a3-bb80-f03f067a5d21.png",
+      "profileImageOptimized": "",
+      "transactionHash": "0x884c69cd9994f1459aad0ced256c8888f73111d160b441a4ec4b8db9d117c1dd",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "France vs. England: Team to Win",
+    "market_slug": "fifwc-fra-eng-2026-07-18-team-to-advance",
+    "amount": 1506.3999999745602
   }
 ]
