@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x4ee029bbd172117dd7962293b9ae23e84970ec20e250a75b584493e2c94acca8",
-    "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
-    "trader": {
-      "rank": 11,
-      "address": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
-      "username": "KeyTransporter",
-      "profit": 5711459.802519929,
-      "volume": 20086062.154324993,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x39d3c773be30fcc73161fc6768f46d563a779ef0",
-      "side": "BUY",
-      "asset": "81826285322214248373594124716159857863364161336290724953068284539573458241155",
-      "conditionId": "0x0d5b1a5fa9969af2a1eafb1011b4632b98e77aee9dd75249745696447a2ec591",
-      "size": 7250,
-      "price": 0.32,
-      "timestamp": 1778352169,
-      "title": "Will Juventus FC win on 2026-05-09?",
-      "slug": "sea-lec-juv-2026-05-09-juv",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Serie-A-Logo.png",
-      "eventSlug": "sea-lec-juv-2026-05-09",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "matanovik",
-      "pseudonym": "Lost-Property",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x4ee029bbd172117dd7962293b9ae23e84970ec20e250a75b584493e2c94acca8",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Juventus FC win on 2026-05-09?",
-    "market_slug": "sea-lec-juv-2026-05-09",
-    "amount": 2320.0
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xbb8b37329a8f6a14c8b0498f6b374c3d3144fd1f7c3b012e394137eb6c3dd3c8",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -27770,5 +27726,109 @@
     "market": "LoL: T1 vs Karmine Corp - Game 2 Winner",
     "market_slug": "lol-t1-kc-2026-07-18-game2",
     "amount": 3037.3152
+  },
+  {
+    "market": "Exact Score: France 1 - 1 England?",
+    "market_slug": "fifwc-fra-eng-2026-07-18-exact-score",
+    "event_slug": "fifwc-fra-eng-2026-07-18-exact-score",
+    "wallet": "0xbf115060e9e90ebe353ca5cd625a5ee66265e482",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,200)",
+        "Low activity (2 txns)"
+      ],
+      "amount": 1200.0,
+      "odds": 0.1,
+      "raw_price": 0.1,
+      "outcome": "Yes",
+      "potential_pnl": 10800.0,
+      "pnl_multiplier": 9.0,
+      "wallet_age_days": 0,
+      "total_activities": 2
+    },
+    "timestamp": "2026-07-18T20:43:49.029300",
+    "trade_hash": "0x7819a1eb7d4f53c0d64e641c0d6a175c2a15e57a20bd37a81d5e641a17dd7a27",
+    "trade_timestamp": 1784406835,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.1,
+      "effective_price": 0.1,
+      "size": 12000.0,
+      "amount": 1200.0,
+      "potential_pnl": 10800.0,
+      "pnl_multiplier": 9.0,
+      "is_no": false,
+      "slug": "fifwc-fra-eng-2026-07-18-exact-score",
+      "eventSlug": "fifwc-fra-eng-2026-07-18-exact-score"
+    },
+    "irrationality": {
+      "irrationality_score": 25,
+      "flags": [
+        "Longshot (10%) in medium bias category (other)"
+      ],
+      "category": "other",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.06250000000000001,
+      "market_price": 0.1,
+      "edge": 0.03749999999999999,
+      "edge_percent": 3.749999999999999,
+      "min_edge_required": 0.05,
+      "is_mispriced": false,
+      "edge_quality": "WEAK",
+      "base_rate_class": "rare",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "rare",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "other",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 25,
+      "is_irrational": false,
+      "is_mispriced": false,
+      "edge": 0.03749999999999999,
+      "edge_percent": 3.749999999999999
+    },
+    "financial_analyst": {
+      "signal_quality": 29.6,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 3.75,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
