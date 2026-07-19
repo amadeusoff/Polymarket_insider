@@ -1,138 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x6de8c979f3a9c58cd77d6e7196976b876c558545d91bd6a8d9bb43ffb61c0a3b",
-    "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
-    "trader": {
-      "rank": 20,
-      "address": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
-      "username": "beachboy4",
-      "profit": 3850097.9128208016,
-      "volume": 217577570.9692559,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xffe7bc0ace62133defaab3133f436034115e471d",
-      "side": "BUY",
-      "asset": "83723168637461689344171659373209590063356151850233630924810314180898757245166",
-      "conditionId": "0x9df495a416820c808be8e808a60ce835e4cdf86dcd370440d3223b0504a5ab62",
-      "size": 6341.523808,
-      "price": 0.6299999999936924,
-      "timestamp": 1778425806,
-      "title": "Will Arsenal FC win on 2026-05-10?",
-      "slug": "epl-wes-ars-2026-05-10-ars",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/premier+league.jpg",
-      "eventSlug": "epl-wes-ars-2026-05-10",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "kleomarcus",
-      "pseudonym": "Creepy-Misfit",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x6de8c979f3a9c58cd77d6e7196976b876c558545d91bd6a8d9bb43ffb61c0a3b",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Arsenal FC win on 2026-05-10?",
-    "market_slug": "epl-wes-ars-2026-05-10",
-    "amount": 3995.159999
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xa51f9a110861b56d9bd5ec03e9a3fe547fbb988ac198f41888519e49084b3675",
-    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-    "trader": {
-      "rank": 17,
-      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
-      "profit": 4557161.554874079,
-      "volume": 60389075.379185,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xa5eb75a35f54385a6aca513b65cbf67e93b093bf",
-      "side": "BUY",
-      "asset": "101298711805436290456362202826883458251469582085290459213667989133956360506722",
-      "conditionId": "0x4f81a85435d2b2379299c9aa88734b874d2b30e708450ee9794897ce5330ecad",
-      "size": 6132.93108,
-      "price": 0.6522166883701553,
-      "timestamp": 1778429673,
-      "title": "Real Madrid vs. CB Breogan Lugo",
-      "slug": "bkligend-rea-cb-2026-05-10",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "bkligend-rea-cb-2026-05-10",
-      "outcome": "Real Madrid",
-      "outcomeIndex": 0,
-      "name": "0xA5eB75A35f54385a6aCA513b65Cbf67E93B093bf-1771166205129",
-      "pseudonym": "Nutty-Account",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xa51f9a110861b56d9bd5ec03e9a3fe547fbb988ac198f41888519e49084b3675",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Real Madrid vs. CB Breogan Lugo",
-    "market_slug": "bkligend-rea-cb-2026-05-10",
-    "amount": 3999.9999990000006
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xf1f9ccf4937e82a5bc560fdbd193501aab16d35848ff3a98879a8b2744b89bfc",
-    "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
-    "trader": {
-      "rank": 18,
-      "address": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
-      "username": "432614799197",
-      "profit": 4526176.046413315,
-      "volume": 185485956.86208293,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x4b713675f111e01f9597c1b157551653c2a380ec",
-      "side": "BUY",
-      "asset": "83723168637461689344171659373209590063356151850233630924810314180898757245166",
-      "conditionId": "0x9df495a416820c808be8e808a60ce835e4cdf86dcd370440d3223b0504a5ab62",
-      "size": 3469.831895,
-      "price": 0.5763967994766501,
-      "timestamp": 1778429693,
-      "title": "Will Arsenal FC win on 2026-05-10?",
-      "slug": "epl-wes-ars-2026-05-10-ars",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/premier+league.jpg",
-      "eventSlug": "epl-wes-ars-2026-05-10",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "Bluffbabe69",
-      "pseudonym": "Well-Groomed-Leprosy",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xf1f9ccf4937e82a5bc560fdbd193501aab16d35848ff3a98879a8b2744b89bfc",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Arsenal FC win on 2026-05-10?",
-    "market_slug": "epl-wes-ars-2026-05-10",
-    "amount": 1999.999999
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x53c3a03c4351224d0aeaf67b6453892ac37ec4d10e63204f6d1fdfb3a4950f9d",
     "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
     "trader": {
@@ -28136,5 +28004,318 @@
     "market": "Will Spain win on 2026-07-19?",
     "market_slug": "fifwc-esp-arg-2026-07-19-esp",
     "amount": 2992.5
+  },
+  {
+    "market": "Will Spain win the 2026 FIFA World Cup?",
+    "market_slug": "will-spain-win-the-2026-fifa-world-cup-963",
+    "event_slug": "will-spain-win-the-2026-fifa-world-cup-963",
+    "wallet": "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,364)",
+        "Low activity (2 txns)"
+      ],
+      "amount": 1363.849997908459,
+      "odds": 0.6089967192,
+      "raw_price": 0.6089967192,
+      "outcome": "Yes",
+      "potential_pnl": 875.6530320915408,
+      "pnl_multiplier": 0.64204497080647,
+      "wallet_age_days": 0,
+      "total_activities": 2
+    },
+    "timestamp": "2026-07-19T19:57:25.536354",
+    "trade_hash": "0x11c5e08ef3bc810e79eb3b5f068862bf38e75240ce11cc442e5296b2c78ff094",
+    "trade_timestamp": 1784490594,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.6089967192,
+      "effective_price": 0.6089967192,
+      "size": 2239.50303,
+      "amount": 1363.849997908459,
+      "potential_pnl": 875.6530320915408,
+      "pnl_multiplier": 0.64204497080647,
+      "is_no": false,
+      "slug": "will-spain-win-the-2026-fifa-world-cup-963",
+      "eventSlug": "world-cup-winner"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+20.8%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.40109868768,
+      "market_price": 0.6089967192,
+      "edge": 0.20789803151999997,
+      "edge_percent": 20.789803151999998,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.20789803151999997,
+      "edge_percent": 20.789803151999998
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 46.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 20.79,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Spain vs. Argentina: Team to Advance",
+    "market_slug": "fifwc-esp-arg-2026-07-19-team-to-advance",
+    "event_slug": "fifwc-esp-arg-2026-07-19-team-to-advance",
+    "wallet": "0xcee414fe2d542276a3a660f348669d4713f963c8",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($3,211)",
+        "Low activity (4 txns)"
+      ],
+      "amount": 3211.409999315,
+      "odds": 0.395,
+      "raw_price": 0.395,
+      "outcome": "Argentina",
+      "potential_pnl": 4918.741897684999,
+      "pnl_multiplier": 1.531645569620253,
+      "wallet_age_days": 0,
+      "total_activities": 4
+    },
+    "timestamp": "2026-07-19T19:57:53.982051",
+    "trade_hash": "0xc02b422ceb0abc5280a088ca6ee13aff4b0a89d877053651e65c1ca9c6d38fa0",
+    "trade_timestamp": 1784490543,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Argentina",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.395,
+      "effective_price": 0.395,
+      "size": 8130.151897,
+      "amount": 3211.409999315,
+      "potential_pnl": 4918.741897685,
+      "pnl_multiplier": 1.5316455696202533,
+      "is_no": false,
+      "slug": "fifwc-esp-arg-2026-07-19-team-to-advance",
+      "eventSlug": "fifwc-esp-arg-2026-07-19-more-markets"
+    },
+    "irrationality": {
+      "irrationality_score": 18,
+      "flags": [
+        "Moderate mispricing edge (+8.0%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.3155,
+      "market_price": 0.395,
+      "edge": 0.07950000000000002,
+      "edge_percent": 7.950000000000001,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "MODERATE",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 88,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 70,
+      "insider_position": "NO",
+      "irrationality_score": 18,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.07950000000000002,
+      "edge_percent": 7.950000000000001
+    },
+    "financial_analyst": {
+      "signal_quality": 64.5,
+      "stance": "SELECTIVE",
+      "edge_percent": 7.95,
+      "signal_strength": 88.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Spain vs. Argentina: Team to Advance",
+    "market_slug": "fifwc-esp-arg-2026-07-19-team-to-advance",
+    "event_slug": "fifwc-esp-arg-2026-07-19-team-to-advance",
+    "wallet": "0xb68cd1261d3081e6616be1777118482f5dd71505",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($2,000)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 1999.9999991368318,
+      "odds": 0.4054070405,
+      "raw_price": 0.4054070405,
+      "outcome": "Argentina",
+      "potential_pnl": 2933.313434863168,
+      "pnl_multiplier": 1.4666567180645698,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-07-19T19:58:39.737374",
+    "trade_hash": "0x4522596a29766eaae4b39a517c113f1e01ee3ffb02468e82bb466a6d83d8c5e6",
+    "trade_timestamp": 1784490157,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Argentina",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.4054070405,
+      "effective_price": 0.4054070405,
+      "size": 4933.313434,
+      "amount": 1999.9999991368318,
+      "potential_pnl": 2933.313434863168,
+      "pnl_multiplier": 1.4666567180645698,
+      "is_no": false,
+      "slug": "fifwc-esp-arg-2026-07-19-team-to-advance",
+      "eventSlug": "fifwc-esp-arg-2026-07-19-more-markets"
+    },
+    "irrationality": {
+      "irrationality_score": 18,
+      "flags": [
+        "Moderate mispricing edge (+8.6%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.3196628162,
+      "market_price": 0.4054070405,
+      "edge": 0.0857442243,
+      "edge_percent": 8.57442243,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "MODERATE",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 88,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 70,
+      "insider_position": "NO",
+      "irrationality_score": 18,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.0857442243,
+      "edge_percent": 8.57442243
+    },
+    "financial_analyst": {
+      "signal_quality": 65.5,
+      "stance": "SELECTIVE",
+      "edge_percent": 8.57,
+      "signal_strength": 88.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
