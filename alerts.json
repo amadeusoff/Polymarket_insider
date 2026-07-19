@@ -1,94 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x5ff6c1b4e75cf8060aaa82c7c477733605948bb43ab031a34e3190e55a78fdce",
-    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-    "trader": {
-      "rank": 17,
-      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
-      "profit": 4556423.094140013,
-      "volume": 60389075.37918499,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x58aa47a2e3e0396f8c09259d87990db12e56a481",
-      "side": "BUY",
-      "asset": "95946969362614270971845155358440977954164316271424679902550835681765991014456",
-      "conditionId": "0xdb80cb224aaad81b579dd475129a43112827b1661fee3feec79122523ae5b933",
-      "size": 5286.05719,
-      "price": 0.567530749322067,
-      "timestamp": 1778386944,
-      "title": "UFC 328: Sean Strickland vs. Khamzat Chimaev (Middleweight, Main Card)",
-      "slug": "ufc-sea2-kha7-2026-05-09",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ufc-logo-37bbbd28e6.png",
-      "eventSlug": "ufc-sea2-kha7-2026-05-09",
-      "outcome": "Sean Strickland",
-      "outcomeIndex": 0,
-      "name": "berboche",
-      "pseudonym": "Mortified-Deformation",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-1528396-1e624675-9adf-492c-b809-b1a134248ced.jpg",
-      "profileImageOptimized": "",
-      "transactionHash": "0x5ff6c1b4e75cf8060aaa82c7c477733605948bb43ab031a34e3190e55a78fdce",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "UFC 328: Sean Strickland vs. Khamzat Chimaev (Middleweight, Main Card)",
-    "market_slug": "ufc-sea2-kha7-2026-05-09",
-    "amount": 2999.9999980000002
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xd4048cc6837f34ebe812310d1b49fb952606ed67839e13c60f27d28b8fbf997a",
-    "wallet": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
-    "trader": {
-      "rank": 10,
-      "address": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
-      "username": "walletmobile",
-      "profit": 5942685.45339684,
-      "volume": 32196692.075936034,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x46986132369d9c20140e2fbdedd008cc4bf3d7a5",
-      "side": "BUY",
-      "asset": "13047968615947519811776160909330278230792448673061377796402467143013321213613",
-      "conditionId": "0x517ce4d8507d79d7add5f264f63a87f945313689f92314f135e260d55973e71d",
-      "size": 2143.6,
-      "price": 0.6997574174286247,
-      "timestamp": 1778407762,
-      "title": "Internazionali BNL d'Italia: Madison Keys vs Nikola Bartunkova",
-      "slug": "wta-keys-bartunk-2026-05-10",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wta-logo-41f331bdf1.png",
-      "eventSlug": "wta-keys-bartunk-2026-05-10",
-      "outcome": "Madison Keys",
-      "outcomeIndex": 0,
-      "name": "Artfulone",
-      "pseudonym": "Merry-Boat",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xd4048cc6837f34ebe812310d1b49fb952606ed67839e13c60f27d28b8fbf997a",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Internazionali BNL d'Italia: Madison Keys vs Nikola Bartunkova",
-    "market_slug": "wta-keys-bartunk-2026-05-10",
-    "amount": 1500.0
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xff59c83f221081ff12a067867ee671c5baf5a10bff04fd01d5990991eb455511",
     "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
     "trader": {
@@ -28014,5 +27926,93 @@
       "insider_score": 95.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x97664183ac73cc39a06d06a0d8b5b99d505a957c9ecff2fbfac0afb5ad45356a",
+    "wallet": "0x3f87d51f27ba6e19ec52aaeebb68559a839c742c",
+    "trader": {
+      "rank": 13,
+      "address": "0x3f87d51f27ba6e19ec52aaeebb68559a839c742c",
+      "username": "GRIMDRIP",
+      "profit": 7602742.057861,
+      "volume": 13603969.275332002,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x796134216a4928b0b90a44e2ecfa4a14585c1b1c",
+      "side": "SELL",
+      "asset": "76641034721053425080952855862174690067662519247667787282293691334146019135577",
+      "conditionId": "0x3561a95d16ac2edfd3831aba4612c88c6f5b84a6f0924bdb6b07dc7cfe73e121",
+      "size": 3408.39,
+      "price": 0.59,
+      "timestamp": 1784479528,
+      "title": "Will Europe (UEFA) win the 2026 FIFA World Cup?",
+      "slug": "will-europe-win-the-2026-fifa-world-cup",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/which-continent-will-win-the-2026-fifa-world-cup-mMG4porAJtxZ.jpg",
+      "eventSlug": "",
+      "outcome": "Yes",
+      "outcomeIndex": 999,
+      "name": "Yang-H",
+      "pseudonym": "Odd-Pub",
+      "bio": "GO",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x97664183ac73cc39a06d06a0d8b5b99d505a957c9ecff2fbfac0afb5ad45356a",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Europe (UEFA) win the 2026 FIFA World Cup?",
+    "market_slug": "will-europe-win-the-2026-fifa-world-cup",
+    "amount": 2010.9500999999998
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x8659ee8065aa50bddf113f4909bdb11c527127334dcfb24ace5f640458decc24",
+    "wallet": "0x3f87d51f27ba6e19ec52aaeebb68559a839c742c",
+    "trader": {
+      "rank": 13,
+      "address": "0x3f87d51f27ba6e19ec52aaeebb68559a839c742c",
+      "username": "GRIMDRIP",
+      "profit": 7602742.057861,
+      "volume": 13603969.275332002,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x5b6331e7ff0831a3fe2ed12004747db1a9c911a4",
+      "side": "BUY",
+      "asset": "21489275813654264105403246157265887827595023709508765470113828829105196462288",
+      "conditionId": "0x4b045e092c3166aa29d4864c11dffe7e316daafdac5677f11aa5cd16065fd042",
+      "size": 3137.485231,
+      "price": 0.5924999999,
+      "timestamp": 1784479528,
+      "title": "Spain vs. Argentina: Team to Advance",
+      "slug": "fifwc-esp-arg-2026-07-19-team-to-advance",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "",
+      "outcome": "Spain",
+      "outcomeIndex": 999,
+      "name": "neutralwave23",
+      "pseudonym": "Monstrous-Dew",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x8659ee8065aa50bddf113f4909bdb11c527127334dcfb24ace5f640458decc24",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spain vs. Argentina: Team to Advance",
+    "market_slug": "fifwc-esp-arg-2026-07-19-team-to-advance",
+    "amount": 1858.9599990537515
   }
 ]
