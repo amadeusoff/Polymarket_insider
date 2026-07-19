@@ -1,94 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x6daa2730d0c7df26b46dbde96ced086dcb878f1f80c84900ae924ada70c96d42",
-    "wallet": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
-    "trader": {
-      "rank": 13,
-      "address": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
-      "username": "GamblingIsAllYouNeed",
-      "profit": 5193364.290176933,
-      "volume": 409600364.63931996,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xd7cb02e90b37878cb124b718ad8a6493e5144088",
-      "side": "BUY",
-      "asset": "49169786386271433827360909143789838968574401608849538362196269194645168118722",
-      "conditionId": "0x267858a85bea5200def00ed76ab908201147f3956d060599f03d9005234dea51",
-      "size": 3572.4,
-      "price": 0.65,
-      "timestamp": 1778411979,
-      "title": "Internazionali BNL d'Italia: Liudmila Samsonova vs Anastasia Potapova",
-      "slug": "wta-samsono-potapov-2026-05-09",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wta-logo-41f331bdf1.png",
-      "eventSlug": "wta-samsono-potapov-2026-05-09",
-      "outcome": "Anastasia Potapova",
-      "outcomeIndex": 1,
-      "name": "0xD7cB02e90B37878Cb124B718aD8a6493e5144088-1762204194275",
-      "pseudonym": "Irritating-Report",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x6daa2730d0c7df26b46dbde96ced086dcb878f1f80c84900ae924ada70c96d42",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Internazionali BNL d'Italia: Liudmila Samsonova vs Anastasia Potapova",
-    "market_slug": "wta-samsono-potapov-2026-05-09",
-    "amount": 2322.06
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xf2c999bccc300cf28c47ef7897eeddfb51e3e0621a7f873b46dc8ce160227a71",
-    "wallet": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
-    "trader": {
-      "rank": 10,
-      "address": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
-      "username": "walletmobile",
-      "profit": 5942685.45339684,
-      "volume": 32196692.075936034,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xbee54d90051720e27921dc6874f02d646ffca636",
-      "side": "BUY",
-      "asset": "83723168637461689344171659373209590063356151850233630924810314180898757245166",
-      "conditionId": "0x9df495a416820c808be8e808a60ce835e4cdf86dcd370440d3223b0504a5ab62",
-      "size": 201850,
-      "price": 0.63,
-      "timestamp": 1778425494,
-      "title": "Will Arsenal FC win on 2026-05-10?",
-      "slug": "epl-wes-ars-2026-05-10-ars",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/premier+league.jpg",
-      "eventSlug": "epl-wes-ars-2026-05-10",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "downtownfee",
-      "pseudonym": "Limp-Psychoanalyst",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xf2c999bccc300cf28c47ef7897eeddfb51e3e0621a7f873b46dc8ce160227a71",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Arsenal FC win on 2026-05-10?",
-    "market_slug": "epl-wes-ars-2026-05-10",
-    "amount": 127165.5
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x6de8c979f3a9c58cd77d6e7196976b876c558545d91bd6a8d9bb43ffb61c0a3b",
     "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
     "trader": {
@@ -28075,5 +27987,154 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "market": "Will Argentina win the 2026 FIFA World Cup?",
+    "market_slug": "will-argentina-win-the-2026-fifa-world-cup-245",
+    "event_slug": "will-argentina-win-the-2026-fifa-world-cup-245",
+    "wallet": "0x6f952dd2f6fd971903f541a6a66f68a25fcc2cc4",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($7,504)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 7504.1999981659055,
+      "odds": 0.4163260856,
+      "raw_price": 0.4163260856,
+      "outcome": "Yes",
+      "potential_pnl": 10520.613381834093,
+      "pnl_multiplier": 1.4019633517770618,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-07-19T18:41:57.471683",
+    "trade_hash": "0xa07c50f4c1fdde64d27e1cd4121726da7ac88ca9ed481abe5e076c6823331ec0",
+    "trade_timestamp": 1784486022,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.4163260856,
+      "effective_price": 0.4163260856,
+      "size": 18024.81338,
+      "amount": 7504.1999981659055,
+      "potential_pnl": 10520.613381834093,
+      "pnl_multiplier": 1.4019633517770618,
+      "is_no": false,
+      "slug": "will-argentina-win-the-2026-fifa-world-cup-245",
+      "eventSlug": "world-cup-winner"
+    },
+    "irrationality": {
+      "irrationality_score": 18,
+      "flags": [
+        "Moderate mispricing edge (+9.2%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.32403043424,
+      "market_price": 0.4163260856,
+      "edge": 0.09229565136000001,
+      "edge_percent": 9.229565136000002,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "MODERATE",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 18,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.09229565136000001,
+      "edge_percent": 9.229565136000002
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 31.4,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 9.23,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xa4d9fbcc6ad4b2463f1f5bb7e7af699d14da00aa540f7c2af850d6430c2ac5c4",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.515682004,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x13659c6a1aacd0e3bcb022e06261fff367f6c82a",
+      "side": "BUY",
+      "asset": "105042264974012349507628582341465372921413790307165600767293079103508862620927",
+      "conditionId": "0xdfbaae9f7587b11691c676d942f22b4ea9a9e3a68f7ca1d5d6bd4a1c967db23b",
+      "size": 7000,
+      "price": 0.4275,
+      "timestamp": 1784486434,
+      "title": "Will Spain win on 2026-07-19?",
+      "slug": "fifwc-esp-arg-2026-07-19-esp",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "",
+      "outcome": "Yes",
+      "outcomeIndex": 999,
+      "name": "what-the-dog-doin",
+      "pseudonym": "Blue-Refuse",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xa4d9fbcc6ad4b2463f1f5bb7e7af699d14da00aa540f7c2af850d6430c2ac5c4",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Spain win on 2026-07-19?",
+    "market_slug": "fifwc-esp-arg-2026-07-19-esp",
+    "amount": 2992.5
   }
 ]
