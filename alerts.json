@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xb0dde1f5b60af8eb71aed0120d7e0c8ee80e48f5ff993ec5787bfb10c4d81b5f",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.51568201,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x540dc6de6e398f277c07f6c0b1c3136bead6122b",
-      "side": "BUY",
-      "asset": "98720268412185959523314331648899768695016317325666977121948651561010855922465",
-      "conditionId": "0xd3f8b4d1c18bf141736eef231b343d75bb98b3ae3cabba516e8993734e92d6c6",
-      "size": 10000,
-      "price": 0.53101586,
-      "timestamp": 1778367939,
-      "title": "LoL: Disguised vs Dignitas - Game 2 Winner",
-      "slug": "lol-dsg-dig-2026-05-09-game2",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
-      "eventSlug": "lol-dsg-dig-2026-05-09",
-      "outcome": "Dignitas",
-      "outcomeIndex": 1,
-      "name": "sanuxo",
-      "pseudonym": "",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/venonat_160424_1719535767096.jpg",
-      "profileImageOptimized": "",
-      "transactionHash": "0xb0dde1f5b60af8eb71aed0120d7e0c8ee80e48f5ff993ec5787bfb10c4d81b5f",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "LoL: Disguised vs Dignitas - Game 2 Winner",
-    "market_slug": "lol-dsg-dig-2026-05-09",
-    "amount": 5310.1586
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x1b9303c31794624580a9020f952472676dd72aa5bcae1b0f547ee3b03351e7f6",
     "wallet": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
     "trader": {
@@ -27830,5 +27786,49 @@
       "insider_score": 75.0,
       "risk_note": "High stake detected \u2014 copy with reduced sizing (25-40% of source risk)."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xfd4565e58926e2568e780f582151dc477770af9c61bc73396606d72d26786847",
+    "wallet": "0xed64a7bf029040aa331abc87902434d815ef217d",
+    "trader": {
+      "rank": 7,
+      "address": "0xed64a7bf029040aa331abc87902434d815ef217d",
+      "username": "fishalive",
+      "profit": 9063378.176199999,
+      "volume": 13281460.374667995,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+      "side": "BUY",
+      "asset": "102145148329431144064088363196936229641576477060828153394656327988154222648842",
+      "conditionId": "0x59baa41bfa478a47681ab6ae859d592d7ea1402a156d0d157a4f8a52238d51e8",
+      "size": 11208.097559,
+      "price": 0.41,
+      "timestamp": 1784453116,
+      "title": "Will FC Anyang win on 2026-07-19?",
+      "slug": "kor-any-gwa-2026-07-19-any",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/k-league-87b53492f4.png",
+      "eventSlug": "",
+      "outcome": "No",
+      "outcomeIndex": 999,
+      "name": "",
+      "pseudonym": "",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xfd4565e58926e2568e780f582151dc477770af9c61bc73396606d72d26786847",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will FC Anyang win on 2026-07-19?",
+    "market_slug": "kor-any-gwa-2026-07-19-any",
+    "amount": 4595.31999919
   }
 ]
