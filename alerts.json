@@ -1,198 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x897a7cfafb82fa369fd802c59371e1e031c40c094555838a96ce5d2f3059302e",
-    "wallet": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
-    "trader": {
-      "rank": 4,
-      "address": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
-      "username": "Len9311238",
-      "profit": 8709972.988069998,
-      "volume": 16402744.764627,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xe823252ba8634bd6c3723db9c300f703cb3a2a61",
-      "side": "SELL",
-      "asset": "88304163265734087403223321042172792808390195323159743956352682998398711353447",
-      "conditionId": "0x1db02ba50e2312a62b4104de691cc7a76065d8d0da40decf93eb1b914a3217b7",
-      "size": 11834.72,
-      "price": 0.1601705693079346,
-      "timestamp": 1778371587,
-      "title": "US x Iran permanent peace deal by May 15, 2026?",
-      "slug": "us-x-iran-permanent-peace-deal-by-may-15-2026-144-885-839",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-permanent-peace-deal-by-yYlzv70Hi7j9.jpg",
-      "eventSlug": "us-x-iran-permanent-peace-deal-by",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "Dymaknight",
-      "pseudonym": "Scientific-Vibration",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x897a7cfafb82fa369fd802c59371e1e031c40c094555838a96ce5d2f3059302e",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "US x Iran permanent peace deal by May 15, 2026?",
-    "market_slug": "us-x-iran-permanent-peace-deal-by",
-    "amount": 1895.5738399999998
-  },
-  {
-    "market": "UFC 328: Sean Strickland vs. Khamzat Chimaev (Middleweight, Main Card)",
-    "market_slug": "ufc-sea2-kha7-2026",
-    "event_slug": "ufc-sea2-kha7-2026",
-    "wallet": "0x39a3d24a258f6d1a741267bbf79891b7dc19be83",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($4,250)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 4250.0,
-      "odds": 0.8,
-      "raw_price": 0.8,
-      "outcome": "Khamzat Chimaev",
-      "potential_pnl": 1062.5,
-      "pnl_multiplier": 0.25,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-05-10T04:13:43.854325",
-    "trade_hash": "0xfaebe0bb5bec6e3216aab7b0db546789668e674928122ebd915f80b1d70a5f13",
-    "trade_timestamp": 1778385941,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Khamzat Chimaev",
-      "outcomeIndex": 1,
-      "normalized_position": "NO",
-      "side": "BUY",
-      "price": 0.8,
-      "effective_price": 0.8,
-      "size": 5312.5,
-      "amount": 4250.0,
-      "potential_pnl": 1062.5,
-      "pnl_multiplier": 0.25,
-      "is_no": false,
-      "slug": "ufc-sea2-kha7-2026",
-      "eventSlug": "ufc-sea2-kha7-2026-05-09"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+32.2%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.47750000000000004,
-      "market_price": 0.8,
-      "edge": 0.3225,
-      "edge_percent": 32.25,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "low"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 2,
-        "conditions": [
-          "Unknown"
-        ],
-        "weakest_link": "Unknown"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Unknown"
-      ],
-      "confidence_in_analysis": "low"
-    },
-    "combined_signal": {
-      "signal_type": "ALPHA",
-      "signal_emoji": "\ud83d\udd25",
-      "signal_strength": 105,
-      "interpretation": "Smart money (NO) confirms YES is overpriced",
-      "action_suggestion": "High conviction: insider + statistics aligned",
-      "insider_score": 70,
-      "insider_position": "NO",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.3225,
-      "edge_percent": 32.25
-    },
-    "financial_analyst": {
-      "signal_quality": 81.0,
-      "stance": "HIGH_CONVICTION",
-      "edge_percent": 32.25,
-      "signal_strength": 105.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xc6e00774247ffd2e95df450b4225198f7c8be37e35f3ffdd97f54a9816087f73",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x375191b48ef5761e0c621b8e4a5374e964937dfd",
-      "side": "BUY",
-      "asset": "3043114217411681673088135147371645486248759546264099005085283208702824300126",
-      "conditionId": "0xdb80cb224aaad81b579dd475129a43112827b1661fee3feec79122523ae5b933",
-      "size": 3592.27,
-      "price": 0.8090640180164631,
-      "timestamp": 1778386342,
-      "title": "UFC 328: Sean Strickland vs. Khamzat Chimaev (Middleweight, Main Card)",
-      "slug": "ufc-sea2-kha7-2026-05-09",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ufc-logo-37bbbd28e6.png",
-      "eventSlug": "ufc-sea2-kha7-2026-05-09",
-      "outcome": "Khamzat Chimaev",
-      "outcomeIndex": 1,
-      "name": "bondfolio",
-      "pseudonym": "Distinct-Subcomponent",
-      "bio": "betmoar-12498",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xc6e00774247ffd2e95df450b4225198f7c8be37e35f3ffdd97f54a9816087f73",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "UFC 328: Sean Strickland vs. Khamzat Chimaev (Middleweight, Main Card)",
-    "market_slug": "ufc-sea2-kha7-2026-05-09",
-    "amount": 2906.3764
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x5ff6c1b4e75cf8060aaa82c7c477733605948bb43ab031a34e3190e55a78fdce",
     "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
     "trader": {
@@ -27889,6 +27697,321 @@
       "edge_percent": 19.65,
       "signal_strength": 70.0,
       "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Spain vs. Argentina: Team to Advance",
+    "market_slug": "fifwc-esp-arg-2026-07-19-team-to-advance",
+    "event_slug": "fifwc-esp-arg-2026-07-19-team-to-advance",
+    "wallet": "0xd05b2828de978331ace9a3db159d8ea07bcbd221",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,728)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 1727.9799979733577,
+      "odds": 0.5924999999,
+      "raw_price": 0.5924999999,
+      "outcome": "Spain",
+      "potential_pnl": 1188.4419400266422,
+      "pnl_multiplier": 0.6877637133650234,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-07-19T15:41:45.037470",
+    "trade_hash": "0xbf8ea4bae93f1080b1e4dcb4b33e2cbad6c57546644f5c059e7ad73090fdb2d0",
+    "trade_timestamp": 1784475070,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Spain",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.5924999999,
+      "effective_price": 0.5924999999,
+      "size": 2916.421938,
+      "amount": 1727.9799979733577,
+      "potential_pnl": 1188.4419400266422,
+      "pnl_multiplier": 0.6877637133650234,
+      "is_no": false,
+      "slug": "fifwc-esp-arg-2026-07-19-team-to-advance",
+      "eventSlug": "fifwc-esp-arg-2026-07-19-more-markets"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+19.8%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.39449999995999996,
+      "market_price": 0.5924999999,
+      "edge": 0.19799999994000006,
+      "edge_percent": 19.799999994000007,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.19799999994000006,
+      "edge_percent": 19.799999994000007
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 46.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 19.8,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Spain vs. Argentina: Both Teams to Score",
+    "market_slug": "fifwc-esp-arg-2026-07-19-btts",
+    "event_slug": "fifwc-esp-arg-2026-07-19-btts",
+    "wallet": "0xc1554767017f4d3a0c8617e4eb5c52c63786a236",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($2,507)",
+        "Low activity (3 txns)"
+      ],
+      "amount": 2507.2599989556925,
+      "odds": 0.5399999999,
+      "raw_price": 0.5399999999,
+      "outcome": "Yes",
+      "potential_pnl": 2135.8140740443073,
+      "pnl_multiplier": 0.8518518521947873,
+      "wallet_age_days": 0,
+      "total_activities": 3
+    },
+    "timestamp": "2026-07-19T15:41:53.853029",
+    "trade_hash": "0x26a66ad3e6ded0d666cad99eea05acc9d4f81d6769f6121947c83ed8440e8814",
+    "trade_timestamp": 1784475033,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.5399999999,
+      "effective_price": 0.5399999999,
+      "size": 4643.074073,
+      "amount": 2507.2599989556925,
+      "potential_pnl": 2135.8140740443073,
+      "pnl_multiplier": 0.8518518521947873,
+      "is_no": false,
+      "slug": "fifwc-esp-arg-2026-07-19-btts",
+      "eventSlug": "fifwc-esp-arg-2026-07-19-more-markets"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+16.6%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.37349999996,
+      "market_price": 0.5399999999,
+      "edge": 0.16649999994000003,
+      "edge_percent": 16.649999994,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.16649999994000003,
+      "edge_percent": 16.649999994
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 46.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 16.65,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Exact Score: Spain 2 - 3 Argentina?",
+    "market_slug": "fifwc-esp-arg-2026-07-19-exact-score",
+    "event_slug": "fifwc-esp-arg-2026-07-19-exact-score",
+    "wallet": "0xf5bb820247d2ffc50c9daf957ba442cc75748d4b",
+    "analysis": {
+      "score": 95,
+      "flags": [
+        "New wallet (0d old)",
+        "Against trend (4.0% effective odds)",
+        "Large bet ($1,000)",
+        "Low activity (4 txns)"
+      ],
+      "amount": 1000.0,
+      "odds": 0.04,
+      "raw_price": 0.04,
+      "outcome": "Yes",
+      "potential_pnl": 24000.0,
+      "pnl_multiplier": 24.0,
+      "wallet_age_days": 0,
+      "total_activities": 4
+    },
+    "timestamp": "2026-07-19T15:42:02.906064",
+    "trade_hash": "0xbe5bde21c359faa6e558f49ff473c778dd5a1b76d93a076566febc96ff5d43eb",
+    "trade_timestamp": 1784475018,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.04,
+      "effective_price": 0.04,
+      "size": 25000.0,
+      "amount": 1000.0,
+      "potential_pnl": 24000.0,
+      "pnl_multiplier": 24.0,
+      "is_no": false,
+      "slug": "fifwc-esp-arg-2026-07-19-exact-score",
+      "eventSlug": "fifwc-esp-arg-2026-07-19-exact-score"
+    },
+    "irrationality": {
+      "irrationality_score": 25,
+      "flags": [
+        "Longshot (4%) in medium bias category (other)"
+      ],
+      "category": "other",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.0205,
+      "market_price": 0.04,
+      "edge": 0.0195,
+      "edge_percent": 1.95,
+      "min_edge_required": 0.05,
+      "is_mispriced": false,
+      "edge_quality": "WEAK",
+      "base_rate_class": "historically_near_zero",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "historically_near_zero",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "other",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 95,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 95,
+      "insider_position": "YES",
+      "irrationality_score": 25,
+      "is_irrational": false,
+      "is_mispriced": false,
+      "edge": 0.0195,
+      "edge_percent": 1.95
+    },
+    "financial_analyst": {
+      "signal_quality": 31.9,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 1.95,
+      "signal_strength": 95.0,
+      "insider_score": 95.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
   }
