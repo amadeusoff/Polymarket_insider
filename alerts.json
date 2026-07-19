@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x1b9303c31794624580a9020f952472676dd72aa5bcae1b0f547ee3b03351e7f6",
-    "wallet": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
-    "trader": {
-      "rank": 15,
-      "address": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
-      "username": "gmanas",
-      "profit": 4955880.748692185,
-      "volume": 529047708.505991,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xa38a455bbdd4b68486548b7e19da99903f4f821d",
-      "side": "BUY",
-      "asset": "402644917547456472472343413678778697707465640212257656753332444558814271321",
-      "conditionId": "0x0b6b409583f9e250a311876d8c1d224974dfc9a38e1f79be4b089a4b163fc646",
-      "size": 3524.95,
-      "price": 0.72,
-      "timestamp": 1778368537,
-      "title": "UFC 328: Jim Miller vs. Jared Gordon (Lightweight, Prelims)",
-      "slug": "ufc-jim2-jar1-2026-05-09",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ufc-logo-37bbbd28e6.png",
-      "eventSlug": "ufc-jim2-jar1-2026-05-09",
-      "outcome": "Jared Gordon",
-      "outcomeIndex": 1,
-      "name": "takeormake",
-      "pseudonym": "Scary-Fannypack",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x1b9303c31794624580a9020f952472676dd72aa5bcae1b0f547ee3b03351e7f6",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "UFC 328: Jim Miller vs. Jared Gordon (Lightweight, Prelims)",
-    "market_slug": "ufc-jim2-jar1-2026-05-09",
-    "amount": 2537.964
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x897a7cfafb82fa369fd802c59371e1e031c40c094555838a96ce5d2f3059302e",
     "wallet": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
     "trader": {
@@ -27830,5 +27786,110 @@
     "market": "Will FC Anyang win on 2026-07-19?",
     "market_slug": "kor-any-gwa-2026-07-19-any",
     "amount": 4595.31999919
+  },
+  {
+    "market": "Spain vs. Argentina: Team to Advance",
+    "market_slug": "fifwc-esp-arg-2026-07-19-team-to-advance",
+    "event_slug": "fifwc-esp-arg-2026-07-19-team-to-advance",
+    "wallet": "0x7fbe7f91224b7db903e5a33c05bf7462be28dccc",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($3,948)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 3947.7599987008875,
+      "odds": 0.5899999999,
+      "raw_price": 0.5899999999,
+      "outcome": "Spain",
+      "potential_pnl": 2743.3586442991123,
+      "pnl_multiplier": 0.6949152545245622,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-07-19T14:42:55.636228",
+    "trade_hash": "0xe3272e049509073598080ee613942ebe92aae67b19d14deae5fc6d2b2092ad6c",
+    "trade_timestamp": 1784471980,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Spain",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.5899999999,
+      "effective_price": 0.5899999999,
+      "size": 6691.118643,
+      "amount": 3947.7599987008875,
+      "potential_pnl": 2743.3586442991123,
+      "pnl_multiplier": 0.6949152545245622,
+      "is_no": false,
+      "slug": "fifwc-esp-arg-2026-07-19-team-to-advance",
+      "eventSlug": "fifwc-esp-arg-2026-07-19-more-markets"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+19.6%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.39349999995999996,
+      "market_price": 0.5899999999,
+      "edge": 0.19649999994,
+      "edge_percent": 19.649999994,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.19649999994,
+      "edge_percent": 19.649999994
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 46.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 19.65,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
