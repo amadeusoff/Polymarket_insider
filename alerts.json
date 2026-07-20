@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x5a38b416c74eec82c9cc0abea4a8e9761f7b6954908954608db43dac1a667cbb",
-    "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
-    "trader": {
-      "rank": 11,
-      "address": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
-      "username": "KeyTransporter",
-      "profit": 5711459.802519929,
-      "volume": 20086062.154324993,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x323448bda09fe48d58af9ce1a858c91f79e08b1a",
-      "side": "BUY",
-      "asset": "108404978919790224219547536715231120510293159864146347287999005916224693174602",
-      "conditionId": "0xcbb320d8c838e59251997c4e76413863dff4d2466a7d9029dd8f4132cc1d2716",
-      "size": 2889.51,
-      "price": 0.6202423940391277,
-      "timestamp": 1778445112,
-      "title": "Spread: FC Barcelona (-2.5)",
-      "slug": "lal-bar-rea-2026-05-10-spread-home-2pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-lal.png",
-      "eventSlug": "lal-bar-rea-2026-05-10-more-markets",
-      "outcome": "Real Madrid CF",
-      "outcomeIndex": 1,
-      "name": "7777xexexe",
-      "pseudonym": "Ugly-Harmonica",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x5a38b416c74eec82c9cc0abea4a8e9761f7b6954908954608db43dac1a667cbb",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Spread: FC Barcelona (-2.5)",
-    "market_slug": "lal-bar-rea-2026-05-10-more-markets",
-    "amount": 1792.1966000000002
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x20cc4b9119a946cb4c4e3bea4643d81dc5dfe041ee117bf2363d41f2d165a84a",
     "wallet": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
     "trader": {
@@ -28386,5 +28342,49 @@
       "risk_note": "High stake detected \u2014 copy with reduced sizing (25-40% of source risk)."
     },
     "resolution_last_check": "2026-07-20T09:01:43.974860+00:00"
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x277848fb9036bdc71eba443fbd690a68e01b5430a2d7d9e3ada97f71e1e868be",
+    "wallet": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+    "trader": {
+      "rank": 19,
+      "address": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+      "username": "walletmobile",
+      "profit": 5942685.45339684,
+      "volume": 32196692.075936034,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+      "side": "BUY",
+      "asset": "114095668846699060644654664216491315413716263539435717524493868643343899311884",
+      "conditionId": "0x4b61a1505f2034d5abbe470e8b2b58a5df0775592a8424f1cab25e075001b518",
+      "size": 6654,
+      "price": 0.63,
+      "timestamp": 1784560030,
+      "title": "Hamburg European Open: Nadia Podoroska vs Julia Stusek",
+      "slug": "wta-podoros-stusek-2026-07-20",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wta-logo-41f331bdf1.png",
+      "eventSlug": "",
+      "outcome": "Nadia Podoroska",
+      "outcomeIndex": 999,
+      "name": "RN1",
+      "pseudonym": "Scary-Edible",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-1567750-84001aec-310a-470f-9584-67dfcaa61267.png",
+      "profileImageOptimized": "",
+      "transactionHash": "0x277848fb9036bdc71eba443fbd690a68e01b5430a2d7d9e3ada97f71e1e868be",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Hamburg European Open: Nadia Podoroska vs Julia Stusek",
+    "market_slug": "wta-podoros-stusek-2026-07-20",
+    "amount": 4192.02
   }
 ]
