@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x53c3a03c4351224d0aeaf67b6453892ac37ec4d10e63204f6d1fdfb3a4950f9d",
-    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-    "trader": {
-      "rank": 17,
-      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
-      "profit": 4557060.845219301,
-      "volume": 60389075.37918498,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x8d5d93af87298f1781fd96ba4ffa5d63e554191d",
-      "side": "BUY",
-      "asset": "78469849996176266203637948952747145294449226423168376738842790982994059808937",
-      "conditionId": "0xb6a4e708822037b5d4b33b5be735a4245895363da465aaa47fec68d12c567516",
-      "size": 3485.94,
-      "price": 0.5,
-      "timestamp": 1778433663,
-      "title": "Spurs vs. Timberwolves: O/U 218.5",
-      "slug": "nba-sas-min-2026-05-10-total-218pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-sas-min-2026-05-10",
-      "outcome": "Under",
-      "outcomeIndex": 1,
-      "name": "DZC188",
-      "pseudonym": "Warmhearted-Shame",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x53c3a03c4351224d0aeaf67b6453892ac37ec4d10e63204f6d1fdfb3a4950f9d",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Spurs vs. Timberwolves: O/U 218.5",
-    "market_slug": "nba-sas-min-2026-05-10",
-    "amount": 1742.97
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x5a38b416c74eec82c9cc0abea4a8e9761f7b6954908954608db43dac1a667cbb",
     "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
     "trader": {
@@ -28316,6 +28272,118 @@
       "signal_strength": 88.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "US x Iran Effective Ceasefire by July 24?",
+    "market_slug": "us-x-iran-effective-ceasfire-by-july-24-20260715194822044",
+    "event_slug": "us-x-iran-effective-ceasfire-by-july-24-20260715194822044",
+    "wallet": "0x407dd149f1e92c91d0053e0240e03318a1e01bae",
+    "analysis": {
+      "score": 85,
+      "flags": [
+        "Against trend (8.0% effective odds)",
+        "Large bet ($1,128)",
+        "Pre-event latency: 5518m"
+      ],
+      "amount": 1128.1719999999993,
+      "odds": 0.07999999999999996,
+      "raw_price": 0.92,
+      "outcome": "No",
+      "potential_pnl": 12973.978000000001,
+      "pnl_multiplier": 11.500000000000007,
+      "wallet_age_days": 109,
+      "total_activities": 100
+    },
+    "timestamp": "2026-07-20T04:09:29.402840",
+    "trade_hash": "0x46dd7396357bf5c9b6d0d312698d7e4608ec87f721c50d83111fd630b9983317",
+    "trade_timestamp": 1784520114,
+    "latency": {
+      "latency_seconds": 331086.0,
+      "latency_minutes": 5518.1,
+      "is_pre_event": true,
+      "severity": "CRITICAL",
+      "trade_time": "2026-07-20T04:01:54+00:00",
+      "event_time": "2026-07-24T00:00:00+00:00"
+    },
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.92,
+      "effective_price": 0.92,
+      "size": 14102.15,
+      "amount": 12973.978000000001,
+      "potential_pnl": 1128.1719999999987,
+      "pnl_multiplier": 0.08695652173913032,
+      "is_no": true,
+      "slug": "us-x-iran-effective-ceasfire-by-july-24-20260715194822044",
+      "eventSlug": "us-x-iran-effective-ceasfire-byptptpt-2-week-pause-20260715194822042"
+    },
+    "irrationality": {
+      "irrationality_score": 40,
+      "flags": [
+        "Category structurally prone to longshot bias",
+        "Large mispricing edge (+42.0%)"
+      ],
+      "category": "geopolitics",
+      "category_info": {
+        "strength": "high",
+        "typical_overpricing": 0.05,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.5,
+      "market_price": 0.92,
+      "edge": 0.42000000000000004,
+      "edge_percent": 42.00000000000001,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "geopolitics",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 125,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 85,
+      "insider_position": "NO",
+      "irrationality_score": 40,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.42000000000000004,
+      "edge_percent": 42.00000000000001
+    },
+    "financial_analyst": {
+      "signal_quality": 85.0,
+      "stance": "HIGH_CONVICTION",
+      "edge_percent": 42.0,
+      "signal_strength": 125.0,
+      "insider_score": 85.0,
+      "risk_note": "High stake detected \u2014 copy with reduced sizing (25-40% of source risk)."
     }
   }
 ]
