@@ -28384,6 +28384,7 @@
       "signal_strength": 125.0,
       "insider_score": 85.0,
       "risk_note": "High stake detected \u2014 copy with reduced sizing (25-40% of source risk)."
-    }
+    },
+    "resolution_last_check": "2026-07-20T09:01:43.974860+00:00"
   }
 ]
