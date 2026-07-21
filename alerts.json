@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x20cc4b9119a946cb4c4e3bea4643d81dc5dfe041ee117bf2363d41f2d165a84a",
-    "wallet": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
-    "trader": {
-      "rank": 3,
-      "address": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
-      "username": "kch123",
-      "profit": 12428226.348636165,
-      "volume": 289774977.489376,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x9770ca178764cdca1271934ad613ad7ab4a10ff5",
-      "side": "BUY",
-      "asset": "64095267403273080114064844653990606728405616107464126539894679210648772017643",
-      "conditionId": "0x14883f424ce421e567c505ac2437147d5a695d6ee462483de304aa6ffbabb99d",
-      "size": 8650,
-      "price": 0.53,
-      "timestamp": 1778513392,
-      "title": "Game Handicap: TOG (-1.5) vs Kaufland Hangry Knights (+1.5)",
-      "slug": "lol-tog-khk-2026-05-11-game-handicap-away-1pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
-      "eventSlug": "lol-tog-khk-2026-05-11",
-      "outcome": "Team Orange Gaming",
-      "outcomeIndex": 0,
-      "name": "plmbechP",
-      "pseudonym": "Grumpy-Rawhide",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-7387840-d7fa8612-07e5-4fc6-870d-b2926527de72.png",
-      "profileImageOptimized": "",
-      "transactionHash": "0x20cc4b9119a946cb4c4e3bea4643d81dc5dfe041ee117bf2363d41f2d165a84a",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Game Handicap: TOG (-1.5) vs Kaufland Hangry Knights (+1.5)",
-    "market_slug": "lol-tog-khk-2026-05-11",
-    "amount": 4584.5
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x43f41157bc5be94e3a04288daa531bb8fda2eabbe79a3850b05a5c04d51f30d3",
     "wallet": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
     "trader": {
@@ -28386,5 +28342,49 @@
     "market": "Hamburg European Open: Nadia Podoroska vs Julia Stusek",
     "market_slug": "wta-podoros-stusek-2026-07-20",
     "amount": 4192.02
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xd302d433e4c052ad0b00dd3d3a85812d0064590f9b93c0f7cfdb1987b2a445c9",
+    "wallet": "0x96cfcb0c30942cfcd1cdf76c7d408794d66b1acb",
+    "trader": {
+      "rank": 6,
+      "address": "0x96cfcb0c30942cfcd1cdf76c7d408794d66b1acb",
+      "username": "mintblade",
+      "profit": 9238344.623224001,
+      "volume": 17759922.232853003,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x472bb1eca12654dac3d7d121c49fa154fdfc5d5f",
+      "side": "BUY",
+      "asset": "71803694328378005396153383188956015624618979332123548037996124925763713980846",
+      "conditionId": "0x7465a6bf86dccb6e86ba714c0ca7a99c2f2e47d05bb9575d190333ec5cba1246",
+      "size": 6636.51,
+      "price": 0.9,
+      "timestamp": 1784627929,
+      "title": "LoL: HANJIN BRION vs Gen.G (BO1) - KeSPA Cup Group Stage",
+      "slug": "lol-bro2-gen-2026-07-21",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
+      "eventSlug": "",
+      "outcome": "HANJIN BRION",
+      "outcomeIndex": 999,
+      "name": "0x472Bb1ECA12654Dac3D7D121c49FA154fDFc5d5F-1777472797727",
+      "pseudonym": "Vapid-Beet",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xd302d433e4c052ad0b00dd3d3a85812d0064590f9b93c0f7cfdb1987b2a445c9",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "LoL: HANJIN BRION vs Gen.G (BO1) - KeSPA Cup Group Stage",
+    "market_slug": "lol-bro2-gen-2026-07-21",
+    "amount": 5972.859
   }
 ]
