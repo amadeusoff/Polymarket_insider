@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x98f520b1c954523408406069d9d158710be2b69b7caaf42f18f6c4ef089ca1c3",
-    "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
-    "trader": {
-      "rank": 8,
-      "address": "0x863134d00841b2e200492805a01e1e2f5defaa53",
-      "username": "RepTrump",
-      "profit": 7532409.671579,
-      "volume": 13983231.103425,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x598649ce57fe28291446b3323641fe1586ab73dc",
-      "side": "BUY",
-      "asset": "55689685377181884499692788711505507843300633855422430184476164247553092956624",
-      "conditionId": "0x40b79a54ea42b389d8a4e4850206df303e8e0ce7b06df327e10ef252e4a1f623",
-      "size": 5000,
-      "price": 0.57,
-      "timestamp": 1778521158,
-      "title": "Indian Premier League: Punjab Kings vs Delhi Capitals",
-      "slug": "cricipl-pun-del-2026-05-11",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
-      "eventSlug": "cricipl-pun-del-2026-05-11",
-      "outcome": "Delhi Capitals",
-      "outcomeIndex": 1,
-      "name": "0x598649cE57Fe28291446b3323641fE1586AB73Dc-1775230687056",
-      "pseudonym": "Zany-Biology",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x98f520b1c954523408406069d9d158710be2b69b7caaf42f18f6c4ef089ca1c3",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Indian Premier League: Punjab Kings vs Delhi Capitals",
-    "market_slug": "cricipl-pun-del-2026-05-11",
-    "amount": 2849.9999999999995
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x2b686f1a15e8eba010a5056f61cbe8ab345934635284f61b48dbdac82cf1bde7",
     "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
     "trader": {
@@ -28386,5 +28342,49 @@
     "market": "Estoril Open: Botic van de Zandschulp vs Jaime Faria",
     "market_slug": "atp-zandsch-faria-2026-07-20",
     "amount": 18851.179996340095
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xdb1c41ee90f508ba79a3cbea1f265ed0c7612b29982727579d1cc3c3478f84ab",
+    "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+    "trader": {
+      "rank": 20,
+      "address": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+      "username": "KeyTransporter",
+      "profit": 5711459.802519929,
+      "volume": 20086062.154324993,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xde496f99cfcc61405dbe593f47d74bc5e85afe85",
+      "side": "BUY",
+      "asset": "4937954866142288608932352720990034935798731308783517863573896250314675762448",
+      "conditionId": "0x663d131dcb3bbe1b4a9f311b7aa96338eb15410a80ac30054c5fa296f9553343",
+      "size": 8000,
+      "price": 0.49,
+      "timestamp": 1784669385,
+      "title": "New York Mets vs. Milwaukee Brewers: O/U 8.5",
+      "slug": "mlb-nym-mil-2026-07-21-total-8pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
+      "eventSlug": "",
+      "outcome": "Under",
+      "outcomeIndex": 999,
+      "name": "biguser67",
+      "pseudonym": "Bouncy-Blight",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xdb1c41ee90f508ba79a3cbea1f265ed0c7612b29982727579d1cc3c3478f84ab",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "New York Mets vs. Milwaukee Brewers: O/U 8.5",
+    "market_slug": "mlb-nym-mil-2026-07-21-total-8pt5",
+    "amount": 3920.0
   }
 ]
