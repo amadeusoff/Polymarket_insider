@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x8997b35f30d96a5d0a3f73df679fc9f616674cc234d2f92ce231a30bc12e7f7c",
-    "wallet": "0xd0c042c08f755ff940249f62745e82d356345565",
-    "trader": {
-      "rank": 16,
-      "address": "0xd0c042c08f755ff940249f62745e82d356345565",
-      "username": "alexmulti",
-      "profit": 4804855.613376001,
-      "volume": 9949068.653841998,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x56c9fbdeccf198f1f5ad95ace39b24f5f7fb0d9e",
-      "side": "SELL",
-      "asset": "58636364393189739747908234849789451671582846511475748669318962561708800175969",
-      "conditionId": "0x9f1fdea520794b3588b7f898e3051d8f2e06f84d4329ccc0888fa6ac0f9ee5a1",
-      "size": 8550.54,
-      "price": 0.92,
-      "timestamp": 1778513889,
-      "title": "Internazionali BNL d'Italia: Mariano Navone vs Hamad Medjedovic",
-      "slug": "atp-navone-medjedo-2026-05-11",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
-      "eventSlug": "atp-navone-medjedo-2026-05-11",
-      "outcome": "Hamad Medjedovic",
-      "outcomeIndex": 1,
-      "name": "redvinny",
-      "pseudonym": "Wrathful-Row",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x8997b35f30d96a5d0a3f73df679fc9f616674cc234d2f92ce231a30bc12e7f7c",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Internazionali BNL d'Italia: Mariano Navone vs Hamad Medjedovic",
-    "market_slug": "atp-navone-medjedo-2026-05-11",
-    "amount": 7866.496800000001
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x98f520b1c954523408406069d9d158710be2b69b7caaf42f18f6c4ef089ca1c3",
     "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
     "trader": {
@@ -28386,5 +28342,49 @@
     "market": "Segovia: Dominik Palan vs Max Basing",
     "market_slug": "atp-palan-basing-2026-07-21",
     "amount": 2064.5115999237
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xa2f5f5955fe320ee76a5fce689a320a97f419c1df2f8a75d1831235b03dfef86",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x26b46988d027c6c03cfa12a7c0c6d778be49b8a9",
+      "side": "BUY",
+      "asset": "70140943404160458374470217514539126920286110578454258125351354352855133574557",
+      "conditionId": "0x0f568c8c8d439b13109756e84266ec36ea3ab87680e36dc5250842f56e987102",
+      "size": 24046.54759,
+      "price": 0.7839453845,
+      "timestamp": 1784657976,
+      "title": "Estoril Open: Botic van de Zandschulp vs Jaime Faria",
+      "slug": "atp-zandsch-faria-2026-07-20",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+      "eventSlug": "",
+      "outcome": "Jaime Faria",
+      "outcomeIndex": 999,
+      "name": "kkookkoo",
+      "pseudonym": "Snappy-Basketball",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xa2f5f5955fe320ee76a5fce689a320a97f419c1df2f8a75d1831235b03dfef86",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Estoril Open: Botic van de Zandschulp vs Jaime Faria",
+    "market_slug": "atp-zandsch-faria-2026-07-20",
+    "amount": 18851.179996340095
   }
 ]
