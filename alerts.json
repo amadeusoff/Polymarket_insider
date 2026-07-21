@@ -1,94 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x43f41157bc5be94e3a04288daa531bb8fda2eabbe79a3850b05a5c04d51f30d3",
-    "wallet": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
-    "trader": {
-      "rank": 3,
-      "address": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
-      "username": "kch123",
-      "profit": 12428226.348636165,
-      "volume": 289774977.489376,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x24c7e69e0f2383a5559896055b2dba6be74377c4",
-      "side": "BUY",
-      "asset": "1082151543302283096022426347994927116771583637684281181389564840964511914573",
-      "conditionId": "0xde59ad0f6f4ef49bcabc52ac8e0904630136c676d1a2fa152da6474a21ce83a8",
-      "size": 2500,
-      "price": 0.79,
-      "timestamp": 1778513392,
-      "title": "Map Handicap: VIT (-1.5) vs BC.Game Esports (+1.5)",
-      "slug": "cs2-vit-bcg-2026-05-11-map-handicap-away-1pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/counter-strike-image-16c415c538.png",
-      "eventSlug": "cs2-vit-bcg-2026-05-11",
-      "outcome": "Vitality",
-      "outcomeIndex": 0,
-      "name": "demonstrating",
-      "pseudonym": "Clear-Cut-Chive",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x43f41157bc5be94e3a04288daa531bb8fda2eabbe79a3850b05a5c04d51f30d3",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Map Handicap: VIT (-1.5) vs BC.Game Esports (+1.5)",
-    "market_slug": "cs2-vit-bcg-2026-05-11",
-    "amount": 1975.0
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x5c9fea57a88ce6901ba70a08605da324dc09ebc189dc1d11ef90b9548ba30406",
-    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
-    "trader": {
-      "rank": 12,
-      "address": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
-      "username": "BetTom42",
-      "profit": 5642135.735356,
-      "volume": 11212839.523403,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xb1776c353202760f34d11db124513284d2991914",
-      "side": "BUY",
-      "asset": "59836342300019107345192946293808628477027872407796331728953679301472500950301",
-      "conditionId": "0xcb264069f0b8f30a94ec11c1e0b639e8dcbed8c25138bb22da536dab705fd7bc",
-      "size": 3000,
-      "price": 0.5,
-      "timestamp": 1778513715,
-      "title": "Will Al Ahli Saudi Club win on 2026-05-11?",
-      "slug": "spl-taa-ahl-2026-05-11-ahl",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/saudi-league-0eb74ab5b8.png",
-      "eventSlug": "spl-taa-ahl-2026-05-11",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "leejuhuyn",
-      "pseudonym": "Secret-Turmeric",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x5c9fea57a88ce6901ba70a08605da324dc09ebc189dc1d11ef90b9548ba30406",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Al Ahli Saudi Club win on 2026-05-11?",
-    "market_slug": "spl-taa-ahl-2026-05-11",
-    "amount": 1500.0
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x8997b35f30d96a5d0a3f73df679fc9f616674cc234d2f92ce231a30bc12e7f7c",
     "wallet": "0xd0c042c08f755ff940249f62745e82d356345565",
     "trader": {
@@ -28386,5 +28298,93 @@
     "market": "LoL: HANJIN BRION vs Gen.G (BO1) - KeSPA Cup Group Stage",
     "market_slug": "lol-bro2-gen-2026-07-21",
     "amount": 5972.859
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x690f65cbc3779f77538f7fd5a1071bbf06116ee4a8bc73b6b3387d8bc54b80ef",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x6485f47d0344c03eb4340f985159f6eb2dcba265",
+      "side": "BUY",
+      "asset": "104698497617600221744196220965641569214271838930871979172827967579364494230625",
+      "conditionId": "0x7aaf2cc823cb5dffe42e27aec0825085f5e4f878e3920c7f0bf7b045ba2cd611",
+      "size": 3000,
+      "price": 0.79,
+      "timestamp": 1784634540,
+      "title": "Segovia: Dominik Palan vs Max Basing",
+      "slug": "atp-palan-basing-2026-07-21",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+      "eventSlug": "",
+      "outcome": "Max Basing",
+      "outcomeIndex": 999,
+      "name": "flatbarrel",
+      "pseudonym": "Tinted-Text",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x690f65cbc3779f77538f7fd5a1071bbf06116ee4a8bc73b6b3387d8bc54b80ef",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Segovia: Dominik Palan vs Max Basing",
+    "market_slug": "atp-palan-basing-2026-07-21",
+    "amount": 2370.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xfc12893bc8244d6902d58f305f61585d7d269140f7a65e87351d29a375c1dc8a",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43013258.51568201,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
+      "side": "BUY",
+      "asset": "104698497617600221744196220965641569214271838930871979172827967579364494230625",
+      "conditionId": "0x7aaf2cc823cb5dffe42e27aec0825085f5e4f878e3920c7f0bf7b045ba2cd611",
+      "size": 2612.04,
+      "price": 0.7903828425,
+      "timestamp": 1784634540,
+      "title": "Segovia: Dominik Palan vs Max Basing",
+      "slug": "atp-palan-basing-2026-07-21",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+      "eventSlug": "",
+      "outcome": "Max Basing",
+      "outcomeIndex": 999,
+      "name": "tradecraft",
+      "pseudonym": "Slow-Escape",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-1439403-31bec8e6-a9d5-45d6-8c20-964f07c7fdb2.webp",
+      "profileImageOptimized": "",
+      "transactionHash": "0xfc12893bc8244d6902d58f305f61585d7d269140f7a65e87351d29a375c1dc8a",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Segovia: Dominik Palan vs Max Basing",
+    "market_slug": "atp-palan-basing-2026-07-21",
+    "amount": 2064.5115999237
   }
 ]
