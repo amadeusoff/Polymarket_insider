@@ -1,94 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x2b686f1a15e8eba010a5056f61cbe8ab345934635284f61b48dbdac82cf1bde7",
-    "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
-    "trader": {
-      "rank": 8,
-      "address": "0x863134d00841b2e200492805a01e1e2f5defaa53",
-      "username": "RepTrump",
-      "profit": 7532409.671579,
-      "volume": 13983231.103425,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x2a91d128f5dc0b0f3e095e2c63c7ccd4ef91c6b1",
-      "side": "BUY",
-      "asset": "40011128163117756609621725898616519020398667367240395133707404217725526924013",
-      "conditionId": "0x84d4398377e2f4ee7ae244b4d6f4e8770240bef27ad2daf1220456ac253dfbcd",
-      "size": 9879.43,
-      "price": 0.77,
-      "timestamp": 1778521158,
-      "title": "Will Bayer 04 Leverkusen win on 2026-05-16?",
-      "slug": "bun-b04-hsv-2026-05-16-b04",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-bun.jpg",
-      "eventSlug": "bun-b04-hsv-2026-05-16",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "steadysteady",
-      "pseudonym": "Buttery-Temperature",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x2b686f1a15e8eba010a5056f61cbe8ab345934635284f61b48dbdac82cf1bde7",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Bayer 04 Leverkusen win on 2026-05-16?",
-    "market_slug": "bun-b04-hsv-2026-05-16",
-    "amount": 7607.1611
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x5e9827e47a5392a59e0fb14d36b077d773c919ccb2691e927b7759978a8f7f5d",
-    "wallet": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
-    "trader": {
-      "rank": 2,
-      "address": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
-      "username": "Fredi9999",
-      "profit": 16619506.631730152,
-      "volume": 76611316.905154,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xfc0cb8da7a6bfcb50bc3a99632d378316f0dcfc9",
-      "side": "BUY",
-      "asset": "73743377542069964453715067579756349621464364076494441273132538249288540943745",
-      "conditionId": "0x883ea143cf3c0b585bd48b6edf31c8925b52b24b15337c56ffaa5c74842299e5",
-      "size": 15339.56,
-      "price": 0.53,
-      "timestamp": 1778526812,
-      "title": "Will Tottenham Hotspur FC win on 2026-05-11?",
-      "slug": "epl-tot-lee-2026-05-11-tot",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/premier+league.jpg",
-      "eventSlug": "epl-tot-lee-2026-05-11",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "crappy",
-      "pseudonym": "Wilted-Warren",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x5e9827e47a5392a59e0fb14d36b077d773c919ccb2691e927b7759978a8f7f5d",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Tottenham Hotspur FC win on 2026-05-11?",
-    "market_slug": "epl-tot-lee-2026-05-11",
-    "amount": 8129.9668
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x771114eea86cb44271521dea7291d01767796e8295ac1c8f44d64dd03b4f7661",
     "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
     "trader": {
@@ -28386,5 +28298,161 @@
     "market": "New York Mets vs. Milwaukee Brewers: O/U 8.5",
     "market_slug": "mlb-nym-mil-2026-07-21-total-8pt5",
     "amount": 3920.0
+  },
+  {
+    "market": "US x Iran Effective Ceasefire by July 24?",
+    "market_slug": "us-x-iran-effective-ceasfire-by-july-24-20260715194822044",
+    "event_slug": "us-x-iran-effective-ceasfire-by-july-24-20260715194822044",
+    "wallet": "0x7bc14171ccb0d3e6bac219ec6a76211826e28db4",
+    "analysis": {
+      "score": 85,
+      "flags": [
+        "Against trend (8.0% effective odds)",
+        "Large bet ($1,724)",
+        "Pre-event latency: 2309m"
+      ],
+      "amount": 1724.4560000000001,
+      "odds": 0.08,
+      "raw_price": 0.08,
+      "outcome": "Yes",
+      "potential_pnl": 19831.244,
+      "pnl_multiplier": 11.499999999999998,
+      "wallet_age_days": 50,
+      "total_activities": 100
+    },
+    "timestamp": "2026-07-22T09:44:03.965461",
+    "trade_hash": "0xf824402474c0fc85706ab23620acb230aae9f15490d43b5a39108a540a7a78e0",
+    "trade_timestamp": 1784712682,
+    "latency": {
+      "latency_seconds": 138518.0,
+      "latency_minutes": 2308.633333333333,
+      "is_pre_event": true,
+      "severity": "CRITICAL",
+      "trade_time": "2026-07-22T09:31:22+00:00",
+      "event_time": "2026-07-24T00:00:00+00:00"
+    },
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.08,
+      "effective_price": 0.08,
+      "size": 21555.7,
+      "amount": 1724.4560000000001,
+      "potential_pnl": 19831.244,
+      "pnl_multiplier": 11.499999999999998,
+      "is_no": false,
+      "slug": "us-x-iran-effective-ceasfire-by-july-24-20260715194822044",
+      "eventSlug": "us-x-iran-effective-ceasfire-byptptpt-2-week-pause-20260715194822042"
+    },
+    "irrationality": {
+      "irrationality_score": 40,
+      "flags": [
+        "Longshot (8%) in high bias category (geopolitics)",
+        "Category structurally prone to longshot bias"
+      ],
+      "category": "geopolitics",
+      "category_info": {
+        "strength": "high",
+        "typical_overpricing": 0.05,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.059000000000000004,
+      "market_price": 0.08,
+      "edge": 0.020999999999999998,
+      "edge_percent": 2.0999999999999996,
+      "min_edge_required": 0.05,
+      "is_mispriced": false,
+      "edge_quality": "WEAK",
+      "base_rate_class": "rare",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "rare",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "geopolitics",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "INSIDER_ONLY",
+      "signal_emoji": "\ud83d\udc41\ufe0f",
+      "signal_strength": 85,
+      "interpretation": "Insider activity detected, no clear mispricing",
+      "action_suggestion": "Monitor: insider signal only, no statistical edge",
+      "insider_score": 85,
+      "insider_position": "YES",
+      "irrationality_score": 40,
+      "is_irrational": true,
+      "is_mispriced": false,
+      "edge": 0.020999999999999998,
+      "edge_percent": 2.0999999999999996
+    },
+    "financial_analyst": {
+      "signal_quality": 33.1,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 2.1,
+      "signal_strength": 85.0,
+      "insider_score": 85.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xa82d8cb63bf24076d3fab5d4806f0787e57a04457131a6ee205cd352bd45c714",
+    "wallet": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
+    "trader": {
+      "rank": 3,
+      "address": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
+      "username": "Fredi9999",
+      "profit": 16619506.631730152,
+      "volume": 76611316.905154,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x9c82c60829df081d593055ee5fa288870c051f13",
+      "side": "BUY",
+      "asset": "77593723751162954528951570513033003111182893869311354242495327601281702566639",
+      "conditionId": "0xe5e52cb3de3dd95f7217d557d2ec720343a6a63bf135f75eacc19713e09193a3",
+      "size": 30000,
+      "price": 0.76,
+      "timestamp": 1784713518,
+      "title": "Counter-Strike: EYEBALLERS vs FaZe (BO3) - BLAST Bounty Qualifier",
+      "slug": "cs2-eye-faze-2026-07-22",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/counter-strike-image-16c415c538.png",
+      "eventSlug": "",
+      "outcome": "FaZe",
+      "outcomeIndex": 999,
+      "name": "Vetch",
+      "pseudonym": "Ill-Informed-Mast",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xa82d8cb63bf24076d3fab5d4806f0787e57a04457131a6ee205cd352bd45c714",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Counter-Strike: EYEBALLERS vs FaZe (BO3) - BLAST Bounty Qualifier",
+    "market_slug": "cs2-eye-faze-2026-07-22",
+    "amount": 22800.0
   }
 ]
