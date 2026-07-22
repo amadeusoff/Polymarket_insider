@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x771114eea86cb44271521dea7291d01767796e8295ac1c8f44d64dd03b4f7661",
-    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-    "trader": {
-      "rank": 17,
-      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
-      "profit": 4555818.36144544,
-      "volume": 60390075.379185006,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x20d919b88e1cede2093f6a9cfc94734c2ad95490",
-      "side": "BUY",
-      "asset": "47979415276102234612653681964571782104748282108436108552000129291113972469428",
-      "conditionId": "0x575e86314d77231f25c16834b4f501221f215399a79fa6f5760b0a1eb7f1e5d3",
-      "size": 6583.35,
-      "price": 0.6832258698079245,
-      "timestamp": 1778533690,
-      "title": "Starmer out by May 15, 2026?",
-      "slug": "starmer-out-by-may-15-2026",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/starmer-out-in-2025-teE3zEaEEyuO.jpg",
-      "eventSlug": "starmer-out-in-2025",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "Mine-Carrying-Dolphin",
-      "pseudonym": "Defenseless-Diarist",
-      "bio": "pledge allegiance to Quantollah Ghalibaf, operating in Straight of Hormuz and Arabian Gulf. to the tourists in brotherly Oman - stop feeding dolphins with hormuz fried chicken.. or else",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-7451639-3cda535a-e3e9-41a6-a2f4-11a98bc3d148.png",
-      "profileImageOptimized": "",
-      "transactionHash": "0x771114eea86cb44271521dea7291d01767796e8295ac1c8f44d64dd03b4f7661",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Starmer out by May 15, 2026?",
-    "market_slug": "starmer-out-in-2025",
-    "amount": 4497.91503
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x15385884f31214f3ed030095e9cd31123091587511f858c69247855c61882f15",
     "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
     "trader": {
@@ -28454,5 +28410,49 @@
     "market": "Counter-Strike: EYEBALLERS vs FaZe (BO3) - BLAST Bounty Qualifier",
     "market_slug": "cs2-eye-faze-2026-07-22",
     "amount": 22800.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x3ae18696ba6adfc6bfead2971b5468c94560e94f165bdf5b49fe5d48e0f15c1d",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "trader": {
+      "rank": 16,
+      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+      "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+      "profit": 7179671.111727219,
+      "volume": 805278923.0647701,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xa3e9a711841e655def080044768452b60f4263d0",
+      "side": "BUY",
+      "asset": "78972373375857605074642782363803684526278878612098939110101561206548783513607",
+      "conditionId": "0xac550c316d635e7f2dc810de6d6afd531e254b3c9c7d56d32d14337e7c3979e4",
+      "size": 1900,
+      "price": 0.79242,
+      "timestamp": 1784733937,
+      "title": "Fed Rate Hike by July 2026 Meeting?",
+      "slug": "fed-rate-hike-by-july-2026-meeting",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/fed-rate-hike-by-8cpilck5mcVg.jpg",
+      "eventSlug": "",
+      "outcome": "No",
+      "outcomeIndex": 999,
+      "name": "alanhutton",
+      "pseudonym": "Candid-Lighting",
+      "bio": "no",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-717290-294f8ff2-da86-4e33-affa-2fef2b0cf5af.webp",
+      "profileImageOptimized": "",
+      "transactionHash": "0x3ae18696ba6adfc6bfead2971b5468c94560e94f165bdf5b49fe5d48e0f15c1d",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Fed Rate Hike by July 2026 Meeting?",
+    "market_slug": "fed-rate-hike-by-july-2026-meeting",
+    "amount": 1505.598
   }
 ]
