@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x1add81c532de3bc336c325db104b8c539ecdcb5d8e152349fc429b9bb139d1f0",
-    "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
-    "trader": {
-      "rank": 8,
-      "address": "0x863134d00841b2e200492805a01e1e2f5defaa53",
-      "username": "RepTrump",
-      "profit": 7532409.671579,
-      "volume": 13983231.103425,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x479e330b07822ee28e20bac5e504f1b7c6b591c3",
-      "side": "BUY",
-      "asset": "19957195259812568230423551990074512167559483798670111009245783391112908739115",
-      "conditionId": "0x5bac908f07bc554c9d75cc7d9a7ee6dccc96e5a8b7b59308ec9063766380407e",
-      "size": 6578.947366,
-      "price": 0.75999999997568,
-      "timestamp": 1778597736,
-      "title": "Internazionali BNL d'Italia: Andrey Rublev vs Nikoloz Basilashvili",
-      "slug": "atp-rublev-basilas-2026-05-12",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
-      "eventSlug": "atp-rublev-basilas-2026-05-12",
-      "outcome": "Andrey Rublev",
-      "outcomeIndex": 0,
-      "name": "0x479E330b07822EE28e20bAC5e504f1b7c6B591C3-1768820092692",
-      "pseudonym": "Exalted-Evocation",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x1add81c532de3bc336c325db104b8c539ecdcb5d8e152349fc429b9bb139d1f0",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Internazionali BNL d'Italia: Andrey Rublev vs Nikoloz Basilashvili",
-    "market_slug": "atp-rublev-basilas-2026-05-12",
-    "amount": 4999.999998
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xe9f7402bd57e08f09d76dd5a4d552efc10e915396a3830aeea781383571ed029",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -28454,5 +28410,110 @@
     "market": "Will Vancouver Whitecaps FC win on 2026-07-22?",
     "market_slug": "mls-fcc-vwh-2026-07-22",
     "amount": 6690.043300620995
+  },
+  {
+    "market": "LoL: Bilibili Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend",
+    "market_slug": "lol-blg-tt-2026",
+    "event_slug": "lol-blg-tt-2026",
+    "wallet": "0x99d1d04e32e1d45ef1a65c8a56eed8e784df61c8",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,255)",
+        "Low activity (3 txns)"
+      ],
+      "amount": 1254.9,
+      "odds": 0.89,
+      "raw_price": 0.89,
+      "outcome": "Bilibili Gaming",
+      "potential_pnl": 155.0999999999999,
+      "pnl_multiplier": 0.12359550561797744,
+      "wallet_age_days": 0,
+      "total_activities": 3
+    },
+    "timestamp": "2026-07-23T03:47:49.491538",
+    "trade_hash": "0x5403f8dd00701ff0b9efe572295d009163b46bd6f428fb031866f8a9b7fd71fc",
+    "trade_timestamp": 1784777719,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Bilibili Gaming",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.89,
+      "effective_price": 0.89,
+      "size": 1410.0,
+      "amount": 1254.9,
+      "potential_pnl": 155.0999999999999,
+      "pnl_multiplier": 0.12359550561797744,
+      "is_no": false,
+      "slug": "lol-blg-tt-2026",
+      "eventSlug": "lol-blg-tt-2026-07-23"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+39.0%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.5,
+      "market_price": 0.89,
+      "edge": 0.39,
+      "edge_percent": 39.0,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.39,
+      "edge_percent": 39.0
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 46.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 39.0,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
