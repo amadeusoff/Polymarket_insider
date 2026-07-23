@@ -1,94 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x490fcacb63a39b9585d89d8d0b82d422d5303ba4be99a618211d733f974b26ba",
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "trader": {
-      "rank": 6,
-      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-      "username": "swisstony",
-      "profit": 7823581.58155512,
-      "volume": 762619605.8060802,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xbc75cabb772f1da1c1772430620da0174c453f69",
-      "side": "SELL",
-      "asset": "38310927461258927563020508025396887688249787380193911540547071417200646834355",
-      "conditionId": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
-      "size": 5120,
-      "price": 0.711009765625,
-      "timestamp": 1778702575,
-      "title": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
-      "slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election-LUNiqIvy01pf.jpg",
-      "eventSlug": "brazil-presidential-election",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "unknwnfnd",
-      "pseudonym": "Embellished-Prevalence",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3446962-71311d37-9458-433e-ade7-59202ebe7d1d.png",
-      "profileImageOptimized": "",
-      "transactionHash": "0x490fcacb63a39b9585d89d8d0b82d422d5303ba4be99a618211d733f974b26ba",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
-    "market_slug": "brazil-presidential-election",
-    "amount": 3640.37
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xf524b252d8f60226c530a0897dd835b577648bb5655af77bb84d58e496798478",
-    "wallet": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
-    "trader": {
-      "rank": 5,
-      "address": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
-      "username": "Len9311238",
-      "profit": 8709972.988069998,
-      "volume": 16402744.764626998,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
-      "side": "BUY",
-      "asset": "110030048924013926583098743519631193959360610507551584209076487663994554574293",
-      "conditionId": "0x6c0d6adb84ce01c0d2a3ace7cebfa8a49d9027cae6f03d8e8fd1f39a4bcc0dca",
-      "size": 3762.03,
-      "price": 0.5391531168013014,
-      "timestamp": 1778776177,
-      "title": "Washington Nationals vs. Cincinnati Reds: O/U 7.5",
-      "slug": "mlb-wsh-cin-2026-05-14-total-7pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
-      "eventSlug": "mlb-wsh-cin-2026-05-14",
-      "outcome": "Over",
-      "outcomeIndex": 0,
-      "name": "mooseborzoi",
-      "pseudonym": "Agitated-Bricklaying",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xf524b252d8f60226c530a0897dd835b577648bb5655af77bb84d58e496798478",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Washington Nationals vs. Cincinnati Reds: O/U 7.5",
-    "market_slug": "mlb-wsh-cin-2026-05-14",
-    "amount": 2028.3102000000001
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x07f81c25a97a5c2b0a88e86b01f6479ccf643053ef8013cd918ae6ec5833bedb",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -28572,5 +28484,93 @@
     "market": "LoL: JD Gaming vs Anyone's Legend (BO3) - LPL Group Ascend",
     "market_slug": "lol-jdg-al-2026-07-23",
     "amount": 4782.328000245597
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x35aa3d57ec4baf8976c53ee453acf9e6256a247394e69caf20a42d773605b96a",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "trader": {
+      "rank": 2,
+      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "username": "swisstony",
+      "profit": 21889091.114200722,
+      "volume": 1727208610.406221,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x212f7fc77c18c6ce34bb1dae43e9198ab19b7fd2",
+      "side": "SELL",
+      "asset": "111604417349377875799825956621596386269673370070912696668140891647145772186047",
+      "conditionId": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+      "size": 6594.91,
+      "price": 0.7232369494,
+      "timestamp": 1784811078,
+      "title": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/jerome+powell+glasses1.png",
+      "eventSlug": "",
+      "outcome": "Yes",
+      "outcomeIndex": 999,
+      "name": "robau",
+      "pseudonym": "Fatherly-Stamen",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x35aa3d57ec4baf8976c53ee453acf9e6256a247394e69caf20a42d773605b96a",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+    "market_slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
+    "amount": 4769.682589967554
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xefa78f2cf5b1f87a691934dee727b596580b979523fa9e6b560cbaf6faf4b38d",
+    "wallet": "0x664ce9fb97ae1bbd538d7381b2f4e92dab16f49c",
+    "trader": {
+      "rank": 10,
+      "address": "0x664ce9fb97ae1bbd538d7381b2f4e92dab16f49c",
+      "username": "sparklingwater123",
+      "profit": 8474966.272470918,
+      "volume": 19001698.927902,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xf6f2dc0dc941ee5440a017b03b8f1a37de6fb422",
+      "side": "BUY",
+      "asset": "103646272108414353371674031325974407219723714920559229458587028806264651123291",
+      "conditionId": "0xfa69fb70a46789d31e1faa3a2d904759c8f66da1da3f31a588fbcc17fbef74c3",
+      "size": 1827.7873,
+      "price": 0.8848567867,
+      "timestamp": 1784811376,
+      "title": "LoL: Bilibili Gaming vs ThunderTalk Gaming - Game 1 Winner",
+      "slug": "lol-blg-tt-2026-07-23-game1",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
+      "eventSlug": "",
+      "outcome": "Bilibili Gaming",
+      "outcomeIndex": 999,
+      "name": "MathPsycho",
+      "pseudonym": "Hurtful-Nonconformist",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-6736811-3e895a6b-dfb9-446b-9449-a6941cfa400e.webp",
+      "profileImageOptimized": "",
+      "transactionHash": "0xefa78f2cf5b1f87a691934dee727b596580b979523fa9e6b560cbaf6faf4b38d",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "LoL: Bilibili Gaming vs ThunderTalk Gaming - Game 1 Winner",
+    "market_slug": "lol-blg-tt-2026-07-23-game1",
+    "amount": 1617.3299970490689
   }
 ]
