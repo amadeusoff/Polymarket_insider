@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x0fd73bf791325b336f1d30adb9139514a3c3f04cbbb5732f8d11e8e5f8c42c49",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-      "side": "BUY",
-      "asset": "989640242438480136386606321389762267333095772455312977514537491131184301632",
-      "conditionId": "0x81b11f8ccc5f2454f7c7fd020e5526aadcb5f21bb33c875ecfcd5820578f9f9b",
-      "size": 2074.43,
-      "price": 0.7814830579966545,
-      "timestamp": 1778931416,
-      "title": "Parma: Dayana Yastremska vs Jessica Bouzas Maneiro",
-      "slug": "wta-yastrem-maneiro-2026-05-15",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wta-logo-41f331bdf1.png",
-      "eventSlug": "wta-yastrem-maneiro-2026-05-15",
-      "outcome": "Dayana Yastremska",
-      "outcomeIndex": 0,
-      "name": "RN1",
-      "pseudonym": "Scary-Edible",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-1567750-84001aec-310a-470f-9584-67dfcaa61267.png",
-      "profileImageOptimized": "",
-      "transactionHash": "0x0fd73bf791325b336f1d30adb9139514a3c3f04cbbb5732f8d11e8e5f8c42c49",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Parma: Dayana Yastremska vs Jessica Bouzas Maneiro",
-    "market_slug": "wta-yastrem-maneiro-2026-05-15",
-    "amount": 1621.1318999999999
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x245870467889f18dff8133dcd35c1028325520abfe89300a95f459d69592cd74",
     "wallet": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
     "trader": {
@@ -28641,5 +28597,49 @@
     "market": "Fed rate hike in 2026?",
     "market_slug": "fed-rate-hike-in-2026",
     "amount": 2607.1292000000003
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x5d32be266f91a19a388c90b2e28ef8a82d52f61222a0ae27ae3d1620c28bdbd3",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43065779.862888,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x0cbee43106c8949af8d04162425e482dade51f4e",
+      "side": "BUY",
+      "asset": "87687380337843711451539051572860932415807814243306081214269867876804090269570",
+      "conditionId": "0x6b28b431b9274d7a0eea55e0c951ff0984a0e20daa8924b33378e93409a380dd",
+      "size": 7176.29,
+      "price": 0.38,
+      "timestamp": 1784843196,
+      "title": "Spread: Club Bol\u00edvar (-1.5)",
+      "slug": "sud-bol-gre-2026-07-23-spread-home-1pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/sud.png",
+      "eventSlug": "sud-bol-gre-2026-07-23-more-markets",
+      "outcome": "Club Bol\u00edvar",
+      "outcomeIndex": 0,
+      "name": "kluckkluck",
+      "pseudonym": "Lean-Grandparent-Waterfront",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x5d32be266f91a19a388c90b2e28ef8a82d52f61222a0ae27ae3d1620c28bdbd3",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Spread: Club Bol\u00edvar (-1.5)",
+    "market_slug": "sud-bol-gre-2026-07-23-more-markets",
+    "amount": 2726.9902
   }
 ]
