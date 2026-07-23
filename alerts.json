@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x07f81c25a97a5c2b0a88e86b01f6479ccf643053ef8013cd918ae6ec5833bedb",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x5c3a1a602848565bb16165fcd460b00c3d43020b",
-      "side": "BUY",
-      "asset": "44083984433134791449643381962914689528873029835896481284610048939750832269539",
-      "conditionId": "0x8c80a48fccc83a330b330047cae1428c09005c571d80a077a6dc69f2c424027b",
-      "size": 64796.46,
-      "price": 0.63,
-      "timestamp": 1778794366,
-      "title": "Chicago Cubs vs. Atlanta Braves",
-      "slug": "mlb-chc-atl-2026-05-14",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
-      "eventSlug": "mlb-chc-atl-2026-05-14",
-      "outcome": "Atlanta Braves",
-      "outcomeIndex": 1,
-      "name": "embarrassment",
-      "pseudonym": "Immense-Facelift",
-      "bio": "Champion of Africa",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-5270322-1627dc07-3ce6-48cb-8791-2c12959cbad5.png",
-      "profileImageOptimized": "",
-      "transactionHash": "0x07f81c25a97a5c2b0a88e86b01f6479ccf643053ef8013cd918ae6ec5833bedb",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Chicago Cubs vs. Atlanta Braves",
-    "market_slug": "mlb-chc-atl-2026-05-14",
-    "amount": 40821.7698
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x7ee3ff777461b308b85614f42e005ead4f05dba4dd64687fafa76f58cc9872d0",
     "wallet": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
     "trader": {
@@ -28572,5 +28528,118 @@
     "market": "LoL: Bilibili Gaming vs ThunderTalk Gaming - Game 1 Winner",
     "market_slug": "lol-blg-tt-2026-07-23-game1",
     "amount": 1617.3299970490689
+  },
+  {
+    "market": "Israel x Iran ceasefire continues through July 25?",
+    "market_slug": "israel-x-iran-ceasefire-continues-through-july-25-20260716224448967-454",
+    "event_slug": "israel-x-iran-ceasefire-continues-through-july-25-20260716224448967-454",
+    "wallet": "0x53f71d8c74a88b4706af25075c7d385f682c20b1",
+    "analysis": {
+      "score": 110,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($7,084)",
+        "Low activity (1 txns)",
+        "Pre-event latency: 1797m"
+      ],
+      "amount": 7083.899136838778,
+      "odds": 0.5871981403,
+      "raw_price": 0.4128018597,
+      "outcome": "No",
+      "potential_pnl": 4979.999998161222,
+      "pnl_multiplier": 0.7030026687228595,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-07-23T18:10:08.902828",
+    "trade_hash": "0x18e4fa711fe5e12dc32279b1874bc32752c018d479199ede5cc4093459d3bc77",
+    "trade_timestamp": 1784829805,
+    "latency": {
+      "latency_seconds": 107795.0,
+      "latency_minutes": 1796.5833333333333,
+      "is_pre_event": true,
+      "severity": "CRITICAL",
+      "trade_time": "2026-07-23T18:03:25+00:00",
+      "event_time": "2026-07-25T00:00:00+00:00"
+    },
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "normalized_position": "NO",
+      "side": "BUY",
+      "price": 0.4128018597,
+      "effective_price": 0.4128018597,
+      "size": 12063.899135,
+      "amount": 4979.999998161221,
+      "potential_pnl": 7083.899136838779,
+      "pnl_multiplier": 1.4224697067177483,
+      "is_no": true,
+      "slug": "israel-x-iran-ceasefire-continues-through-july-25-20260716224448967-454",
+      "eventSlug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963"
+    },
+    "irrationality": {
+      "irrationality_score": 23,
+      "flags": [
+        "Category structurally prone to longshot bias",
+        "Moderate mispricing edge (+5.9%)"
+      ],
+      "category": "geopolitics",
+      "category_info": {
+        "strength": "high",
+        "typical_overpricing": 0.05,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.35412074388,
+      "market_price": 0.4128018597,
+      "edge": 0.05868111582000002,
+      "edge_percent": 5.868111582000002,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "MODERATE",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "geopolitics",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "ALPHA",
+      "signal_emoji": "\ud83d\udd25",
+      "signal_strength": 133,
+      "interpretation": "Smart money (NO) confirms YES is overpriced",
+      "action_suggestion": "High conviction: insider + statistics aligned",
+      "insider_score": 110,
+      "insider_position": "NO",
+      "irrationality_score": 23,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.05868111582000002,
+      "edge_percent": 5.868111582000002
+    },
+    "financial_analyst": {
+      "signal_quality": 68.4,
+      "stance": "SELECTIVE",
+      "edge_percent": 5.87,
+      "signal_strength": 133.0,
+      "insider_score": 110.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
