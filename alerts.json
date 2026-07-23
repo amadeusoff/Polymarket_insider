@@ -1,56 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xe9f7402bd57e08f09d76dd5a4d552efc10e915396a3830aeea781383571ed029",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x13414a77a4be48988851c73dfd824d0168e70853",
-      "side": "BUY",
-      "asset": "13454440687288881177874410338081412332045088110624770301467669612602229961469",
-      "conditionId": "0xef6ad681ae0d3a9caa55a407386449d40af10fd0d8239116033650035457ca18",
-      "size": 3630.45,
-      "price": 0.53,
-      "timestamp": 1778648787,
-      "title": "Counter-Strike: Gentle Mates vs magic (BO3) - PGL Astana Group Stage",
-      "slug": "cs2-m8-mgc-2026-05-13",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/counter-strike-image-16c415c538.png",
-      "eventSlug": "cs2-m8-mgc-2026-05-13",
-      "outcome": "Gentle Mates",
-      "outcomeIndex": 0,
-      "name": "NRASCHATTER",
-      "pseudonym": "Practical-Alcohol",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-4043939-c1695cf1-492c-45e6-a5c4-537e510cea02.webp",
-      "profileImageOptimized": "",
-      "transactionHash": "0xe9f7402bd57e08f09d76dd5a4d552efc10e915396a3830aeea781383571ed029",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Counter-Strike: Gentle Mates vs magic (BO3) - PGL Astana Group Stage",
-    "market_slug": "cs2-m8-mgc-2026-05-13",
-    "amount": 1924.1385,
-    "resolution": {
-      "outcome": "magic",
-      "checked_at": "2026-05-13T08:49:29.582183+00:00",
-      "insider_win": null,
-      "model_correct": null
-    }
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x698145046d7be189df84304af3b3e5e5b8f974216a2c1737d4889f0b7d5e9ff8",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -28513,6 +28463,111 @@
       "signal_quality": 46.0,
       "stance": "WATCH_ONLY",
       "edge_percent": 39.0,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "LoL: JD Gaming vs Anyone's Legend (BO3) - LPL Group Ascend",
+    "market_slug": "lol-jdg-al-2026",
+    "event_slug": "lol-jdg-al-2026",
+    "wallet": "0x85527e225eac90b677468f5d75e01450c0db469e",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,203)",
+        "Low activity (2 txns)"
+      ],
+      "amount": 1202.63999908,
+      "odds": 0.52,
+      "raw_price": 0.52,
+      "outcome": "JD Gaming",
+      "potential_pnl": 1110.12922992,
+      "pnl_multiplier": 0.923076923076923,
+      "wallet_age_days": 0,
+      "total_activities": 2
+    },
+    "timestamp": "2026-07-23T09:06:31.735245",
+    "trade_hash": "0xe5f46f00fd376634ad71b85d879140823599f26276528cd385a446dce2613239",
+    "trade_timestamp": 1784797111,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "JD Gaming",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.52,
+      "effective_price": 0.52,
+      "size": 2312.769229,
+      "amount": 1202.63999908,
+      "potential_pnl": 1110.12922992,
+      "pnl_multiplier": 0.923076923076923,
+      "is_no": false,
+      "slug": "lol-jdg-al-2026",
+      "eventSlug": "lol-jdg-al-2026-07-23"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+15.5%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.3655,
+      "market_price": 0.52,
+      "edge": 0.15450000000000003,
+      "edge_percent": 15.450000000000003,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.15450000000000003,
+      "edge_percent": 15.450000000000003
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 44.2,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 15.45,
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
