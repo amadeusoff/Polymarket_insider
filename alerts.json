@@ -28277,7 +28277,8 @@
       "signal_strength": 85.0,
       "insider_score": 85.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
+    },
+    "resolution_last_check": "2026-07-23T08:32:48.505222+00:00"
   },
   {
     "type": "TOP_TRADER",
@@ -28365,7 +28366,8 @@
     },
     "market": "Fed Rate Hike by July 2026 Meeting?",
     "market_slug": "fed-rate-hike-by-july-2026-meeting",
-    "amount": 1505.598
+    "amount": 1505.598,
+    "resolution_last_check": "2026-07-23T08:32:50.283580+00:00"
   },
   {
     "type": "TOP_TRADER",
