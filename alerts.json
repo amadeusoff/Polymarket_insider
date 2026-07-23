@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x698145046d7be189df84304af3b3e5e5b8f974216a2c1737d4889f0b7d5e9ff8",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-      "side": "BUY",
-      "asset": "100042635388770375579245420169303243156332712783884606451502583140953410795751",
-      "conditionId": "0xcbaf6654f2aeef82a48d6de11adc4cfb1b20b89624a086f9d7e0d58244841185",
-      "size": 2230,
-      "price": 0.9,
-      "timestamp": 1778702274,
-      "title": "Bordeaux: Luca Van Assche vs Juan Manuel Cerundolo",
-      "slug": "atp-assche-cerund-2026-05-13",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
-      "eventSlug": "atp-assche-cerund-2026-05-13",
-      "outcome": "Juan Manuel Cerundolo",
-      "outcomeIndex": 1,
-      "name": "RN1",
-      "pseudonym": "Scary-Edible",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-1567750-84001aec-310a-470f-9584-67dfcaa61267.png",
-      "profileImageOptimized": "",
-      "transactionHash": "0x698145046d7be189df84304af3b3e5e5b8f974216a2c1737d4889f0b7d5e9ff8",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Bordeaux: Luca Van Assche vs Juan Manuel Cerundolo",
-    "market_slug": "atp-assche-cerund-2026-05-13",
-    "amount": 2007.0
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x490fcacb63a39b9585d89d8d0b82d422d5303ba4be99a618211d733f974b26ba",
     "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
     "trader": {
@@ -28572,5 +28528,49 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xcb1f04d3ae7ac3d65216137dc7bb5fb01d83b3f6b86a5ae48ea9c79e0e25125a",
+    "wallet": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
+    "trader": {
+      "rank": 3,
+      "address": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
+      "username": "Fredi9999",
+      "profit": 16619506.631730152,
+      "volume": 76615700.94724602,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x04b1e3aff4fed7a6868757761db7486ddb6cd224",
+      "side": "BUY",
+      "asset": "24983811532413173193347224077199127739824941105507491561393187913764037255988",
+      "conditionId": "0xfcdca19394530ab70264089a593cf2a0548e5b0f8773bdbc4a496799474d77c0",
+      "size": 9087.81,
+      "price": 0.5262354737,
+      "timestamp": 1784805670,
+      "title": "LoL: JD Gaming vs Anyone's Legend (BO3) - LPL Group Ascend",
+      "slug": "lol-jdg-al-2026-07-23",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
+      "eventSlug": "lol-jdg-al-2026-07-23",
+      "outcome": "Anyones Legend",
+      "outcomeIndex": 1,
+      "name": "254321758",
+      "pseudonym": "Glossy-Spy",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xcb1f04d3ae7ac3d65216137dc7bb5fb01d83b3f6b86a5ae48ea9c79e0e25125a",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "LoL: JD Gaming vs Anyone's Legend (BO3) - LPL Group Ascend",
+    "market_slug": "lol-jdg-al-2026-07-23",
+    "amount": 4782.328000245597
   }
 ]
