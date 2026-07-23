@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x7ee3ff777461b308b85614f42e005ead4f05dba4dd64687fafa76f58cc9872d0",
-    "wallet": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
-    "trader": {
-      "rank": 3,
-      "address": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
-      "username": "kch123",
-      "profit": 12588588.799703138,
-      "volume": 290336654.184485,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x53757615de1c42b83f893b79d4241a009dc2aeea",
-      "side": "BUY",
-      "asset": "1595188389908704964590039616142867212219844488729598204584625804900479567316",
-      "conditionId": "0x493e55161a52f24c0be8f5094893669039e04d11e11285a066ce64b6610e7afa",
-      "size": 3823,
-      "price": 0.65,
-      "timestamp": 1778876517,
-      "title": "Will Aston Villa FC win on 2026-05-17?",
-      "slug": "epl-ast-liv-2026-05-17-ast",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/premier+league.jpg",
-      "eventSlug": "epl-ast-liv-2026-05-17",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "",
-      "pseudonym": "",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x7ee3ff777461b308b85614f42e005ead4f05dba4dd64687fafa76f58cc9872d0",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Aston Villa FC win on 2026-05-17?",
-    "market_slug": "epl-ast-liv-2026-05-17",
-    "amount": 2484.9500000000003
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x0fd73bf791325b336f1d30adb9139514a3c3f04cbbb5732f8d11e8e5f8c42c49",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -28641,5 +28597,49 @@
       "insider_score": 110.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xdda34ae7f483fe59eea28fef1af6489398bb73cea3def7452ad578d2d8e5fad4",
+    "wallet": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+    "trader": {
+      "rank": 18,
+      "address": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
+      "username": "PrincessCaro",
+      "profit": 6083643.099591745,
+      "volume": 23538463.308577,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x68fe494c5ca794f3f247f4ec2a8bf95e3ef28792",
+      "side": "SELL",
+      "asset": "93005850938352995663334573245996733794924636935158112548608169054144721737755",
+      "conditionId": "0x80b3af88cb991980e8da1ce86b9794a0957f96ec98c29319dd7ba65e9744d82b",
+      "size": 10000,
+      "price": 0.26071292,
+      "timestamp": 1784840193,
+      "title": "Fed rate hike in 2026?",
+      "slug": "fed-rate-hike-in-2026",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-the-fed-raise-interest-rates-in-2025-PQTEYZMvmAGr.jpg",
+      "eventSlug": "fed-rate-hike-in-2026",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "yameteV9",
+      "pseudonym": "Aware-Kinase",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-594417-b33b2416-ccec-49c6-a6a9-ae9ebfb5e945.png",
+      "profileImageOptimized": "",
+      "transactionHash": "0xdda34ae7f483fe59eea28fef1af6489398bb73cea3def7452ad578d2d8e5fad4",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Fed rate hike in 2026?",
+    "market_slug": "fed-rate-hike-in-2026",
+    "amount": 2607.1292000000003
   }
 ]
