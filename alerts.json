@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x15385884f31214f3ed030095e9cd31123091587511f858c69247855c61882f15",
-    "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
-    "trader": {
-      "rank": 19,
-      "address": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
-      "username": "beachboy4",
-      "profit": 4062132.8696627845,
-      "volume": 218023719.259256,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xc2dee7a51349323637d32b1c7581ddba8683ef3a",
-      "side": "BUY",
-      "asset": "73202237238299039889130523430877944882369151336851431990911935047048378362723",
-      "conditionId": "0x52f953bd31997875e5f782fbed7f85b8707aa8fefe95b6854cf5b8c69370b3f0",
-      "size": 5797.619046,
-      "price": 0.4199999999448049,
-      "timestamp": 1778538245,
-      "title": "Pistons vs. Cavaliers",
-      "slug": "nba-det-cle-2026-05-11",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-det-cle-2026-05-11",
-      "outcome": "Pistons",
-      "outcomeIndex": 0,
-      "name": "Smartguys",
-      "pseudonym": "Descriptive-Reputation",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x15385884f31214f3ed030095e9cd31123091587511f858c69247855c61882f15",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Pistons vs. Cavaliers",
-    "market_slug": "nba-det-cle-2026-05-11",
-    "amount": 2434.9999989999997
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x1add81c532de3bc336c325db104b8c539ecdcb5d8e152349fc429b9bb139d1f0",
     "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
     "trader": {
@@ -28454,5 +28410,49 @@
     "market": "Fed Rate Hike by July 2026 Meeting?",
     "market_slug": "fed-rate-hike-by-july-2026-meeting",
     "amount": 1505.598
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xd1c40b47a6b19b7574539a99f6bb5b7400281b510d6e584e3b054a267b4cc856",
+    "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
+    "trader": {
+      "rank": 14,
+      "address": "0x863134d00841b2e200492805a01e1e2f5defaa53",
+      "username": "RepTrump",
+      "profit": 7532409.671579,
+      "volume": 13983231.103425,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xa797d6bd8fe6e404bb4d8e4ab3d97c38336fdede",
+      "side": "BUY",
+      "asset": "84958011053019641421929101148954038313895209295951261723090750386287287763803",
+      "conditionId": "0x98a73d72d15f9fae4c907c1b777762ffe463533e7c7f7a534208364890db716b",
+      "size": 13010.35,
+      "price": 0.5142093257,
+      "timestamp": 1784765758,
+      "title": "Will Vancouver Whitecaps FC win on 2026-07-22?",
+      "slug": "mls-fcc-vwh-2026-07-22-vwh",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/mls-soccer-all-star-game-winner-r8__FzcgT9JC.png",
+      "eventSlug": "mls-fcc-vwh-2026-07-22",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "ItalianManInMalta",
+      "pseudonym": "Proud-Patrolling-Nose",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-9356478-bcfcd627-7cd0-431a-9ff6-641cb923e05f.png",
+      "profileImageOptimized": "",
+      "transactionHash": "0xd1c40b47a6b19b7574539a99f6bb5b7400281b510d6e584e3b054a267b4cc856",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Vancouver Whitecaps FC win on 2026-07-22?",
+    "market_slug": "mls-fcc-vwh-2026-07-22",
+    "amount": 6690.043300620995
   }
 ]
