@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x245870467889f18dff8133dcd35c1028325520abfe89300a95f459d69592cd74",
-    "wallet": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
-    "trader": {
-      "rank": 5,
-      "address": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
-      "username": "Len9311238",
-      "profit": 8709972.988069998,
-      "volume": 16402744.764627,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x2cbc88c9145cc105b39bf42a090d7a7ed67bfaeb",
-      "side": "SELL",
-      "asset": "4252871261301863128731369056725053384530270232505191588908294054319555424411",
-      "conditionId": "0x30d49ac0a4ce091a98c3950d5bb84063676596a889890300adf24b0e2c410e3a",
-      "size": 1976.28,
-      "price": 0.7874468192766207,
-      "timestamp": 1778945526,
-      "title": "Will Manchester City FC win on 2026-05-16?",
-      "slug": "efa-cfc-mnc-2026-05-16-mnc",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/fa-cup-48b7f4b3c1.png",
-      "eventSlug": "efa-cfc-mnc-2026-05-16",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "0x2cbc88c9145Cc105b39bf42A090d7A7eD67bfaEB-1778886036211",
-      "pseudonym": "Weepy-Peacock",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x245870467889f18dff8133dcd35c1028325520abfe89300a95f459d69592cd74",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Manchester City FC win on 2026-05-16?",
-    "market_slug": "efa-cfc-mnc-2026-05-16",
-    "amount": 1556.2154
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x5b0714190811138d1162cdb04154cf43521a28032c850f128a58d8d996e77576",
     "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
     "trader": {
@@ -28641,5 +28597,49 @@
     "market": "Spread: Club Bol\u00edvar (-1.5)",
     "market_slug": "sud-bol-gre-2026-07-23-more-markets",
     "amount": 2726.9902
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x4c6a2d8d39dd789333261c44783b8fa04c6c42ba725180017c4e016aab05c466",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "trader": {
+      "rank": 4,
+      "address": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+      "username": "RN1",
+      "profit": 11615895.506238088,
+      "volume": 957155051.161665,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x60a92c8620846d81f5ea17b0564e0d4b7c545a71",
+      "side": "SELL",
+      "asset": "21515528084926948718188410049221867058078937518895951601155499933747657106361",
+      "conditionId": "0x47ec761ae98d7c28b20c0222f1507e3af0f198a904f86b4a264b2e987f0b80c7",
+      "size": 3728.69,
+      "price": 0.5328241822,
+      "timestamp": 1784851299,
+      "title": "US announces end of Iranian blockade by August 31, 2026?",
+      "slug": "us-announces-end-of-iranian-blockade-by-august-31-2026-20260713152715084-642",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-announces-blockade-on-iran-byptptpt-20260622191049039-hE3ZTZ51JJy3.jpg",
+      "eventSlug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+      "outcome": "No",
+      "outcomeIndex": 1,
+      "name": "paddaa",
+      "pseudonym": "Fearful-Congress",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3154451-d1120fcc-6e76-4148-b6a3-3622eebeee2e.jpeg",
+      "profileImageOptimized": "",
+      "transactionHash": "0x4c6a2d8d39dd789333261c44783b8fa04c6c42ba725180017c4e016aab05c466",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "US announces end of Iranian blockade by August 31, 2026?",
+    "market_slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+    "amount": 1986.7361999273182
   }
 ]
