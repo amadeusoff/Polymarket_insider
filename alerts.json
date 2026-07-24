@@ -28351,7 +28351,8 @@
     },
     "market": "Will there be no change in Fed interest rates after the July 2026 meeting?",
     "market_slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
-    "amount": 4769.682589967554
+    "amount": 4769.682589967554,
+    "resolution_last_check": "2026-07-24T08:31:51.718478+00:00"
   },
   {
     "type": "TOP_TRADER",
@@ -28508,7 +28509,8 @@
       "signal_strength": 133.0,
       "insider_score": 110.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
+    },
+    "resolution_last_check": "2026-07-24T08:31:53.549837+00:00"
   },
   {
     "type": "TOP_TRADER",
@@ -28552,7 +28554,8 @@
     },
     "market": "Fed rate hike in 2026?",
     "market_slug": "fed-rate-hike-in-2026",
-    "amount": 2607.1292000000003
+    "amount": 2607.1292000000003,
+    "resolution_last_check": "2026-07-24T08:31:54.113314+00:00"
   },
   {
     "type": "TOP_TRADER",
