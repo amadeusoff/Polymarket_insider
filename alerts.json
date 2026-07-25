@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x278d4a9fcbc7b8505f83e4e8ae843102ae3dde6ab91508aa0d1424987bb01693",
-    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
-    "trader": {
-      "rank": 12,
-      "address": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
-      "username": "BetTom42",
-      "profit": 5642135.735356,
-      "volume": 11212839.523403002,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x7b4a89077438c7c5b1afaa79ac753de7b3db3b84",
-      "side": "SELL",
-      "asset": "3638140492068581471587238629189295522595088285992594012574580427308283713980",
-      "conditionId": "0x12b64eefddb103db63d26858af4fb4f13b23b17764f6cd7bae1d15daf939f195",
-      "size": 1915.96,
-      "price": 0.9,
-      "timestamp": 1779020153,
-      "title": "LoL: Kiwoom DRX vs HANJIN BRION (BO3) - LCK Rounds 1-2",
-      "slug": "lol-drx-bro2-2026-05-17",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
-      "eventSlug": "lol-drx-bro2-2026-05-17",
-      "outcome": "HANJIN BRION",
-      "outcomeIndex": 1,
-      "name": "Duratio5",
-      "pseudonym": "Competent-Biosphere",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x278d4a9fcbc7b8505f83e4e8ae843102ae3dde6ab91508aa0d1424987bb01693",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "LoL: Kiwoom DRX vs HANJIN BRION (BO3) - LCK Rounds 1-2",
-    "market_slug": "lol-drx-bro2-2026-05-17",
-    "amount": 1724.364
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x609822dc438238d6d18d11c0f35661c3f9f8fff7958eeb389a7cdd53e8e2065e",
     "wallet": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
     "trader": {
@@ -28644,5 +28600,49 @@
     "market": "Estoril Open: Luca Van Assche vs Hugo Gaston",
     "market_slug": "atp-assche-gaston-2026-07-25",
     "amount": 3344.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xb7712025319929387a3cb488c3deb2e59b36404641997b80f454662e4d7b52d7",
+    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
+    "trader": {
+      "rank": 12,
+      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
+      "username": "zxgngl",
+      "profit": 7807265.589240883,
+      "volume": 47857879.86885198,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x52ed504e3c3c7cfceaa61dc4f23a6e29d79f8db7",
+      "side": "SELL",
+      "asset": "54439063623377404487417293571272274387818876317872812358439793065286356760505",
+      "conditionId": "0xf53d2549545954db92694c9cfb05422a1b63d8415552ab692e81859059e90dab",
+      "size": 6223.51,
+      "price": 0.3400721297,
+      "timestamp": 1785000765,
+      "title": "Will Dinamo 1948 win on 2026-07-25?",
+      "slug": "rou1-din-ucc-2026-07-25-din",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+      "eventSlug": "",
+      "outcome": "Yes",
+      "outcomeIndex": 999,
+      "name": "Tys0n8686",
+      "pseudonym": "Miniature-Ad",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xb7712025319929387a3cb488c3deb2e59b36404641997b80f454662e4d7b52d7",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Dinamo 1948 win on 2026-07-25?",
+    "market_slug": "rou1-din-ucc-2026-07-25-din",
+    "amount": 2116.442299909247
   }
 ]
