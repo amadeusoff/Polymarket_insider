@@ -1,118 +1,5 @@
 [
   {
-    "market": "Iran closes its airspace by May 24?",
-    "market_slug": "iran-closes-its-airspace-by-may-24",
-    "event_slug": "iran-closes-its-airspace-by-may-24",
-    "wallet": "0x3915bd94e985d73d634c403ec55f7013ae79faff",
-    "analysis": {
-      "score": 100,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($5,000)",
-        "Pre-event latency: 9032m"
-      ],
-      "amount": 4999.999999000001,
-      "odds": 0.27043912708609624,
-      "raw_price": 0.27043912708609624,
-      "outcome": "Yes",
-      "potential_pnl": 13488.448965,
-      "pnl_multiplier": 2.6976897935395376,
-      "wallet_age_days": 0,
-      "total_activities": 6
-    },
-    "timestamp": "2026-05-17T17:30:49.912631",
-    "trade_hash": "0x3c7e689aa4a92c5bb8cb0f7c54f588c1a84e18af381d5d023a81177356a80a2b",
-    "trade_timestamp": 1779038869,
-    "latency": {
-      "latency_seconds": 541931.0,
-      "latency_minutes": 9032.183333333332,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-05-17T17:27:49+00:00",
-      "event_time": "2026-05-24T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "normalized_position": "YES",
-      "side": "BUY",
-      "price": 0.27043912708609624,
-      "effective_price": 0.27043912708609624,
-      "size": 18488.448964,
-      "amount": 4999.999999000001,
-      "potential_pnl": 13488.448965,
-      "pnl_multiplier": 2.6976897935395376,
-      "is_no": false,
-      "slug": "iran-closes-its-airspace-by-may-24",
-      "eventSlug": "iran-closes-its-airspace-by"
-    },
-    "irrationality": {
-      "irrationality_score": 40,
-      "flags": [
-        "Longshot (27%) in high bias category (geopolitics)",
-        "Category structurally prone to longshot bias"
-      ],
-      "category": "geopolitics",
-      "category_info": {
-        "strength": "high",
-        "typical_overpricing": 0.05,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.2971756508344385,
-      "market_price": 0.27043912708609624,
-      "edge": -0.026736523748342234,
-      "edge_percent": -2.6736523748342234,
-      "min_edge_required": 0.05,
-      "is_mispriced": false,
-      "edge_quality": "NONE",
-      "base_rate_class": "common",
-      "confidence": "low"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 2,
-        "conditions": [
-          "Unknown"
-        ],
-        "weakest_link": "Unknown"
-      },
-      "category": "geopolitics",
-      "narrative_drivers": [
-        "Unknown"
-      ],
-      "confidence_in_analysis": "low"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_CONFIRMED",
-      "signal_emoji": "\ud83d\udea8",
-      "signal_strength": 120,
-      "interpretation": "Insider + underpricing aligned \u2014 likely real information",
-      "action_suggestion": "Follow the insider: market may be underpricing the event",
-      "insider_score": 100,
-      "insider_position": "YES",
-      "irrationality_score": 40,
-      "is_irrational": true,
-      "is_mispriced": false,
-      "edge": -0.026736523748342234,
-      "edge_percent": -2.6736523748342234
-    },
-    "financial_analyst": {
-      "signal_quality": 53.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": -2.67,
-      "signal_strength": 120.0,
-      "insider_score": 100.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-05-18T10:07:03.432584+00:00"
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0x05c908b9cb6589931b53a85caf317f7378475f4d4d404c6013d1b656e8340cc9",
     "wallet": "0x2a2c53bd278c04da9962fcf96490e17f3dfb9bc1",
@@ -28644,5 +28531,49 @@
     "market": "The Memphis Classic, Qualification: Eri Hozumi vs Maria Kozyreva",
     "market_slug": "wta-hozumi-kozyrev-2026-07-25",
     "amount": 2767.0006
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xd6057624ccfa4ab48b7a96c5e055af549f8b74cd25f8da72445dd1b3f9492fb6",
+    "wallet": "0x5e4c3b5b81171e2ca4ab776ac0d6bba787f9dba2",
+    "trader": {
+      "rank": 15,
+      "address": "0x5e4c3b5b81171e2ca4ab776ac0d6bba787f9dba2",
+      "username": "endlessFate",
+      "profit": 7409836.65260974,
+      "volume": 26282164.742855996,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+      "side": "BUY",
+      "asset": "105130128086093044478950335090971621464840748508021181047204135978587654156959",
+      "conditionId": "0x4317e5914c5ccf61a837fc7222703bf1044d55002aa135e5c39e455b7d5594b1",
+      "size": 7172.847825,
+      "price": 0.4599999999,
+      "timestamp": 1785015772,
+      "title": "Los Angeles Dodgers vs. New York Mets: O/U 7.5",
+      "slug": "mlb-lad-nym-2026-07-25-total-7pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
+      "eventSlug": "",
+      "outcome": "Over",
+      "outcomeIndex": 999,
+      "name": "ferrariChampions2026",
+      "pseudonym": "Glaring-Salt",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xd6057624ccfa4ab48b7a96c5e055af549f8b74cd25f8da72445dd1b3f9492fb6",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Los Angeles Dodgers vs. New York Mets: O/U 7.5",
+    "market_slug": "mlb-lad-nym-2026-07-25-total-7pt5",
+    "amount": 3299.5099987827152
   }
 ]
