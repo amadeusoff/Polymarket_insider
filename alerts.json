@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x5b0714190811138d1162cdb04154cf43521a28032c850f128a58d8d996e77576",
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "trader": {
-      "rank": 6,
-      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-      "username": "swisstony",
-      "profit": 8173868.589065395,
-      "volume": 772381386.7799317,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-      "side": "BUY",
-      "asset": "56292702775664168429027545050110644752361487635099425678404018376834449557613",
-      "conditionId": "0x0d55b1f13c05fbb04b51a4de8fdd4b32dd09dcbbf0bf7f5407589c0ad36219a2",
-      "size": 1977,
-      "price": 0.86,
-      "timestamp": 1778956938,
-      "title": "Will Gaziantep FK vs. Rams Ba\u015fak\u015fehir FK end in a draw?",
-      "slug": "tur-gfk-iba-2026-05-16-draw",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/tur.png",
-      "eventSlug": "tur-gfk-iba-2026-05-16",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "swisstony",
-      "pseudonym": "Frail-Possible",
-      "bio": "loincloth chic",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x5b0714190811138d1162cdb04154cf43521a28032c850f128a58d8d996e77576",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Gaziantep FK vs. Rams Ba\u015fak\u015fehir FK end in a draw?",
-    "market_slug": "tur-gfk-iba-2026-05-16",
-    "amount": 1700.22
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x80d57eabe582bffee939994b6e1f9d6fcbcea0bf3d77cfcb753de7fe2a3f1264",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -28644,5 +28600,110 @@
     "market": "US announces end of Iranian blockade by August 31, 2026?",
     "market_slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
     "amount": 1986.7361999273182
+  },
+  {
+    "market": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
+    "market_slug": "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election",
+    "event_slug": "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election",
+    "wallet": "0x8d5f8cb0c95e681f111a7586a95907d5cfd8f432",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,217)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 1216.8299990399998,
+      "odds": 0.57,
+      "raw_price": 0.57,
+      "outcome": "Yes",
+      "potential_pnl": 917.9594729600001,
+      "pnl_multiplier": 0.7543859649122808,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-07-25T04:59:24.101518",
+    "trade_hash": "0xa3b8f16cbca30e90d8582c36bd87500613fbc9005de9e057ae9dc216851fd9ff",
+    "trade_timestamp": 1784955010,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.57,
+      "effective_price": 0.57,
+      "size": 2134.789472,
+      "amount": 1216.8299990399998,
+      "potential_pnl": 917.9594729600001,
+      "pnl_multiplier": 0.7543859649122808,
+      "is_no": false,
+      "slug": "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election",
+      "eventSlug": "which-party-will-gain-most-seats-in-russian-parliamentary-election"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+18.4%)"
+      ],
+      "category": "other",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.38549999999999995,
+      "market_price": 0.57,
+      "edge": 0.1845,
+      "edge_percent": 18.45,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "other",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.1845,
+      "edge_percent": 18.45
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 46.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 18.45,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
