@@ -1,111 +1,5 @@
 [
   {
-    "market": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
-    "market_slug": "will-the-oklahoma-city-thunder-win-the-2026-nba-finals",
-    "event_slug": "will-the-oklahoma-city-thunder-win-the-2026-nba-finals",
-    "wallet": "0xf6419c846562ed9bfd036ff1f8b52bc4cf360015",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,439)",
-        "Low activity (3 txns)"
-      ],
-      "amount": 1438.9999979999998,
-      "odds": 0.5899999996268936,
-      "raw_price": 0.5899999996268936,
-      "outcome": "Yes",
-      "potential_pnl": 999.9830510000002,
-      "pnl_multiplier": 0.694915255309125,
-      "wallet_age_days": 0,
-      "total_activities": 3
-    },
-    "timestamp": "2026-05-16T21:34:39.541793",
-    "trade_hash": "0xfe971cf9619b7b80d95f3ca5a45ee7d729addd3a58c294853ca7c17d9d639fb4",
-    "trade_timestamp": 1778967147,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "normalized_position": "YES",
-      "side": "BUY",
-      "price": 0.5899999996268936,
-      "effective_price": 0.5899999996268936,
-      "size": 2438.983049,
-      "amount": 1438.9999979999998,
-      "potential_pnl": 999.9830510000002,
-      "pnl_multiplier": 0.694915255309125,
-      "is_no": false,
-      "slug": "will-the-oklahoma-city-thunder-win-the-2026-nba-finals",
-      "eventSlug": "2026-nba-champion"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+19.6%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.39349999985075745,
-      "market_price": 0.5899999996268936,
-      "edge": 0.1964999997761362,
-      "edge_percent": 19.649999977613618,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "low"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 2,
-        "conditions": [
-          "Unknown"
-        ],
-        "weakest_link": "Unknown"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Unknown"
-      ],
-      "confidence_in_analysis": "low"
-    },
-    "combined_signal": {
-      "signal_type": "CONFLICT",
-      "signal_emoji": "\u26a0\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider buying YES despite statistical overpricing",
-      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
-      "insider_score": 70,
-      "insider_position": "YES",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.1964999997761362,
-      "edge_percent": 19.649999977613618
-    },
-    "log_only": true,
-    "financial_analyst": {
-      "signal_quality": 46.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 19.65,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-05-17T08:26:32.216438+00:00"
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0x475b50a47393ebe945c79995940d6b895cace01abf9e6011c73aaa7fd0131fb9",
     "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
@@ -28706,5 +28600,49 @@
     "market": "Counter-Strike: HOTU vs Infinite (BO3) - StarLadder StarSeries European Qualifier Play-In",
     "market_slug": "cs2-hotu-inf6-2026-07-25",
     "amount": 9958.08
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xe0d415104ce5b10c6af67cc5eeb1cef0af6bfc017959230004d7d734043a390c",
+    "wallet": "0x5e4c3b5b81171e2ca4ab776ac0d6bba787f9dba2",
+    "trader": {
+      "rank": 15,
+      "address": "0x5e4c3b5b81171e2ca4ab776ac0d6bba787f9dba2",
+      "username": "endlessFate",
+      "profit": 7409836.65260974,
+      "volume": 26282164.742855996,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x5ad5c4608c4661361b91c92e1091d2c5b43c37b9",
+      "side": "BUY",
+      "asset": "54974515269418507562589331022617228602567485336209663288476091957927160331953",
+      "conditionId": "0x058b1239e96babe79aecf2758a0f77943a85d0dd92c442402228e79b3b2ffb07",
+      "size": 4073.67,
+      "price": 0.4,
+      "timestamp": 1784981259,
+      "title": "Will Shanghai Haigang FC win on 2026-07-25?",
+      "slug": "chi-shp-sgr-2026-07-25-shp",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/chinese-super-league-39d902bcb6.png",
+      "eventSlug": "",
+      "outcome": "No",
+      "outcomeIndex": 999,
+      "name": "roberto73",
+      "pseudonym": "Critical-Monsoon",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xe0d415104ce5b10c6af67cc5eeb1cef0af6bfc017959230004d7d734043a390c",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will Shanghai Haigang FC win on 2026-07-25?",
+    "market_slug": "chi-shp-sgr-2026-07-25-shp",
+    "amount": 1629.468
   }
 ]
