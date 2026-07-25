@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x0e156a29f6a926ce2168a49caf6504cc34f23c2616597782e9056f562a5ba121",
-    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-    "trader": {
-      "rank": 7,
-      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-      "username": "zxgngl",
-      "profit": 7807265.5892408835,
-      "volume": 40551790.62184699,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xcb894d56b6ed7f458e8534636a086b65e915a2e8",
-      "side": "SELL",
-      "asset": "97166107287234497412734496054463228470063422608173149121206267858484467672978",
-      "conditionId": "0xe0b6f4d40f33f456caba50434db5ea8c5ca93e84eb912054a80ca0c58ad70dd7",
-      "size": 2200,
-      "price": 0.85,
-      "timestamp": 1778964148,
-      "title": "Starmer out by May 31, 2026?",
-      "slug": "starmer-out-by-may-31-2026",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/starmer-out-in-2025-teE3zEaEEyuO.jpg",
-      "eventSlug": "starmer-out-in-2025",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "justme003",
-      "pseudonym": "Blaring-Surge",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x0e156a29f6a926ce2168a49caf6504cc34f23c2616597782e9056f562a5ba121",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Starmer out by May 31, 2026?",
-    "market_slug": "starmer-out-in-2025",
-    "amount": 1870.0
-  },
-  {
     "market": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
     "market_slug": "will-the-oklahoma-city-thunder-win-the-2026-nba-finals",
     "event_slug": "will-the-oklahoma-city-thunder-win-the-2026-nba-finals",
@@ -28706,5 +28662,49 @@
     "market": "Putin out as President of Russia by December 31, 2026?",
     "market_slug": "putin-out-before-2027-346",
     "amount": 4436.2409
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x8f1ca190ffcdda8456b6627cbb0280b92fd751ef5ddc1eda1f8e6fb716c86cec",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43065779.862888,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+      "side": "BUY",
+      "asset": "89558131222573392381390961601600288094810872708837071964240174403667358773265",
+      "conditionId": "0x665710f01b340dda3db527e25787fea6d60b32a9b58d12b7288a0d8508c80a25",
+      "size": 24288,
+      "price": 0.41,
+      "timestamp": 1784976456,
+      "title": "Counter-Strike: HOTU vs Infinite (BO3) - StarLadder StarSeries European Qualifier Play-In",
+      "slug": "cs2-hotu-inf6-2026-07-25",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/counter-strike-image-16c415c538.png",
+      "eventSlug": "",
+      "outcome": "Infinite",
+      "outcomeIndex": 999,
+      "name": "111111111115",
+      "pseudonym": "Every-Love",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x8f1ca190ffcdda8456b6627cbb0280b92fd751ef5ddc1eda1f8e6fb716c86cec",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Counter-Strike: HOTU vs Infinite (BO3) - StarLadder StarSeries European Qualifier Play-In",
+    "market_slug": "cs2-hotu-inf6-2026-07-25",
+    "amount": 9958.08
   }
 ]
