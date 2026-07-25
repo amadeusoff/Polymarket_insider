@@ -1,94 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x4d73155cda575c9755efbe1090ea5c61d7880094635771afda33199f12158298",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x0cb16fa435fc6dd7c21766e12251e17d6da1dea6",
-      "side": "SELL",
-      "asset": "3192689304828767159232889612891719105504357313659012189260030438494464480574",
-      "conditionId": "0x3733a1b647e7364095736ab0966465d896a84cf3b6bc1695ca1f26c3239b3868",
-      "size": 33308.92,
-      "price": 0.6847212248250619,
-      "timestamp": 1778995667,
-      "title": "MicroStrategy sells any Bitcoin by May 31, 2026?",
-      "slug": "microstrategy-sells-any-bitcoin-by-may-31-2026",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-microstrategy-purchase-bitcoin-july-1-7-mzoE5TYk_cCI.jpg",
-      "eventSlug": "microstrategy-sell-any-bitcoin-in-2025",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "cccyun",
-      "pseudonym": "Idealistic-Symptom",
-      "bio": "win or die",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x4d73155cda575c9755efbe1090ea5c61d7880094635771afda33199f12158298",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "MicroStrategy sells any Bitcoin by May 31, 2026?",
-    "market_slug": "microstrategy-sell-any-bitcoin-in-2025",
-    "amount": 22807.3245
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xe755bc688d25415a99fc509fae9f8ef9fe427479e66d1b3523f52b8179092b6d",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.51568201,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xa5eb75a35f54385a6aca513b65cbf67e93b093bf",
-      "side": "BUY",
-      "asset": "88765155582155219738107238955846356999201214769765032541097977609154432826009",
-      "conditionId": "0xf24c89f6ef2a4605ef951a5e501c36a86567c1422abd3ca26f5b6774dc47f1bc",
-      "size": 6490.648084,
-      "price": 0.4622034595274477,
-      "timestamp": 1779019551,
-      "title": "Will RC Deportivo La Coru\u00f1a win on 2026-05-17?",
-      "slug": "es2-dep-and-2026-05-17-dep",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/laliga-2-031640e567.jpg",
-      "eventSlug": "es2-dep-and-2026-05-17",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "0xA5eB75A35f54385a6aCA513b65Cbf67E93B093bf-1771166205129",
-      "pseudonym": "Nutty-Account",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xe755bc688d25415a99fc509fae9f8ef9fe427479e66d1b3523f52b8179092b6d",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will RC Deportivo La Coru\u00f1a win on 2026-05-17?",
-    "market_slug": "es2-dep-and-2026-05-17",
-    "amount": 2999.999999
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x278d4a9fcbc7b8505f83e4e8ae843102ae3dde6ab91508aa0d1424987bb01693",
     "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
     "trader": {
@@ -28644,5 +28556,93 @@
     "market": "Hamburg European Open: Mayar Sherif vs Tamara Korpatsch",
     "market_slug": "wta-sherif-korpats-2026-07-25",
     "amount": 19999.999999161053
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x454803ea44bfecbc3030040f68198a75c40cf8fa4a6f0cdf3a414e8ca09a964b",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43065779.86288799,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xb458c3421d1ab330bedca50eb7d3dfb0af2dd89e",
+      "side": "BUY",
+      "asset": "111604417349377875799825956621596386269673370070912696668140891647145772186047",
+      "conditionId": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+      "size": 3030.640852,
+      "price": 0.749,
+      "timestamp": 1784995962,
+      "title": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/jerome+powell+glasses1.png",
+      "eventSlug": "",
+      "outcome": "Yes",
+      "outcomeIndex": 999,
+      "name": "LeoTheGray",
+      "pseudonym": "Lumpy-Cassock",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x454803ea44bfecbc3030040f68198a75c40cf8fa4a6f0cdf3a414e8ca09a964b",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+    "market_slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
+    "amount": 2269.949998148
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xcbd876e81d8f62cbc26657086968973af436c1343eeb27fc50d4d54657a6543a",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43065779.86288799,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x9cb990f1862568a63d8601efeebe0304225c32f2",
+      "side": "BUY",
+      "asset": "46829436319198524803144244924580646570353459519065720688960590021277711386639",
+      "conditionId": "0x9e15c29a5e91b3782da0ff2d78f545b177d7fa59989f6f919cfd655bccc79273",
+      "size": 8800,
+      "price": 0.38,
+      "timestamp": 1784995962,
+      "title": "Estoril Open: Luca Van Assche vs Hugo Gaston",
+      "slug": "atp-assche-gaston-2026-07-25",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+      "eventSlug": "",
+      "outcome": "Hugo Gaston",
+      "outcomeIndex": 999,
+      "name": "jtwyslljy",
+      "pseudonym": "Grateful-Chest",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xcbd876e81d8f62cbc26657086968973af436c1343eeb27fc50d4d54657a6543a",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Estoril Open: Luca Van Assche vs Hugo Gaston",
+    "market_slug": "atp-assche-gaston-2026-07-25",
+    "amount": 3344.0
   }
 ]
