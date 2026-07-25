@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x80d57eabe582bffee939994b6e1f9d6fcbcea0bf3d77cfcb753de7fe2a3f1264",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.51568201,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x697821bebfdd65cc472da1e302b90b430dd09897",
-      "side": "BUY",
-      "asset": "26103060803217676150855038854420640078937735163114870465398559840340378714336",
-      "conditionId": "0x9046b0959d66c3ad5804e24535740c6ae41eff42a86f80a3aaee1a62b1da4328",
-      "size": 12995.9992,
-      "price": 0.739573760515467,
-      "timestamp": 1778963548,
-      "title": "Counter-Strike: BetBoom Team vs Natus Vincere (BO3) - IEM Atlanta Playoffs",
-      "slug": "cs2-bb3-navi-2026-05-16",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/counter-strike-image-16c415c538.png",
-      "eventSlug": "cs2-bb3-navi-2026-05-16",
-      "outcome": "Natus Vincere",
-      "outcomeIndex": 1,
-      "name": "0x697821BeBFdd65cC472dA1e302B90B430dD09897-1773477438905",
-      "pseudonym": "Ample-Motorcar",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x80d57eabe582bffee939994b6e1f9d6fcbcea0bf3d77cfcb753de7fe2a3f1264",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Counter-Strike: BetBoom Team vs Natus Vincere (BO3) - IEM Atlanta Playoffs",
-    "market_slug": "cs2-bb3-navi-2026-05-16",
-    "amount": 9611.5
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x0e156a29f6a926ce2168a49caf6504cc34f23c2616597782e9056f562a5ba121",
     "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
     "trader": {
@@ -28706,5 +28662,49 @@
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     },
     "resolution_last_check": "2026-07-25T08:10:11.385955+00:00"
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xe2934e4b8d26ba2f07c2f37ccb259bec1ea0089693de0483ec6f2685ce634f60",
+    "wallet": "0xed64a7bf029040aa331abc87902434d815ef217d",
+    "trader": {
+      "rank": 7,
+      "address": "0xed64a7bf029040aa331abc87902434d815ef217d",
+      "username": "fishalive",
+      "profit": 9063378.176199999,
+      "volume": 13281460.374667995,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x0dde1b35552efae5aa3759aedb6fa7b2d6f594c3",
+      "side": "SELL",
+      "asset": "87073899845581463485186346288398658568334162612963837182986759797304993556208",
+      "conditionId": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
+      "size": 4874.99,
+      "price": 0.91,
+      "timestamp": 1784971353,
+      "title": "Putin out as President of Russia by December 31, 2026?",
+      "slug": "putin-out-before-2027-346",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/putin-out-as-president-of-russia-in-2025-nWuurkC8qfbi.jpg",
+      "eventSlug": "",
+      "outcome": "No",
+      "outcomeIndex": 999,
+      "name": "DFK",
+      "pseudonym": "Prickly-Signup",
+      "bio": "Zero percent degen",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/man_meditating_sitting_lotus_pose_260nw_1727331208_71732ad5-0454-4d91-a5b9-238f0bce86fc_1738069086252.webp",
+      "profileImageOptimized": "",
+      "transactionHash": "0xe2934e4b8d26ba2f07c2f37ccb259bec1ea0089693de0483ec6f2685ce634f60",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Putin out as President of Russia by December 31, 2026?",
+    "market_slug": "putin-out-before-2027-346",
+    "amount": 4436.2409
   }
 ]
