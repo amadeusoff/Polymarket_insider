@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x609822dc438238d6d18d11c0f35661c3f9f8fff7958eeb389a7cdd53e8e2065e",
-    "wallet": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
-    "trader": {
-      "rank": 5,
-      "address": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
-      "username": "Len9311238",
-      "profit": 8709972.988069998,
-      "volume": 16402744.764626998,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x09af203b5af180c61d54eea118a4548a1f209728",
-      "side": "BUY",
-      "asset": "78297267189010283892292832496342546299317687450478187744268076673272845392904",
-      "conditionId": "0x8993ff88369ee04dfe751d0aebca649e1704a0b7dd14b0a55be1d561ed57d040",
-      "size": 3725.216665,
-      "price": 0.6,
-      "timestamp": 1779026453,
-      "title": "Boston Red Sox vs. Atlanta Braves",
-      "slug": "mlb-bos-atl-2026-05-17",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
-      "eventSlug": "mlb-bos-atl-2026-05-17",
-      "outcome": "Atlanta Braves",
-      "outcomeIndex": 1,
-      "name": "mlbman",
-      "pseudonym": "Warped-Partner",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x609822dc438238d6d18d11c0f35661c3f9f8fff7958eeb389a7cdd53e8e2065e",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Boston Red Sox vs. Atlanta Braves",
-    "market_slug": "mlb-bos-atl-2026-05-17",
-    "amount": 2235.1299989999998
-  },
-  {
     "market": "Iran closes its airspace by May 24?",
     "market_slug": "iran-closes-its-airspace-by-may-24",
     "event_slug": "iran-closes-its-airspace-by-may-24",
@@ -28644,5 +28600,49 @@
     "market": "Will Dinamo 1948 win on 2026-07-25?",
     "market_slug": "rou1-din-ucc-2026-07-25-din",
     "amount": 2116.442299909247
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x0c194efe9129bba92eec6d3e373f53f31081aa4aa80e4a8045b232bd404e6163",
+    "wallet": "0x09b428f7c2b469786286214aa5c90dd9015f7320",
+    "trader": {
+      "rank": 11,
+      "address": "0x09b428f7c2b469786286214aa5c90dd9015f7320",
+      "username": "DEEDDIT",
+      "profit": 8052184.542897382,
+      "volume": 72132442.51951,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+      "side": "BUY",
+      "asset": "28629373472996851510999671067679424713033994829452791084623944581114124929960",
+      "conditionId": "0xcc0863806d4ed41007f81ddf6dae8770067728858d861fbc9c8703ff31b41664",
+      "size": 3040.66,
+      "price": 0.91,
+      "timestamp": 1785012171,
+      "title": "The Memphis Classic, Qualification: Eri Hozumi vs Maria Kozyreva",
+      "slug": "wta-hozumi-kozyrev-2026-07-25",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wta-logo-41f331bdf1.png",
+      "eventSlug": "",
+      "outcome": "Maria Kozyreva",
+      "outcomeIndex": 999,
+      "name": "HomeRunHazard",
+      "pseudonym": "Powerless-Savannah",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x0c194efe9129bba92eec6d3e373f53f31081aa4aa80e4a8045b232bd404e6163",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "The Memphis Classic, Qualification: Eri Hozumi vs Maria Kozyreva",
+    "market_slug": "wta-hozumi-kozyrev-2026-07-25",
+    "amount": 2767.0006
   }
 ]
