@@ -1,117 +1,5 @@
 [
   {
-    "market": "Iran closes its airspace by May 24?",
-    "market_slug": "iran-closes-its-airspace-by-may-24",
-    "event_slug": "iran-closes-its-airspace-by-may-24",
-    "wallet": "0x3915bd94e985d73d634c403ec55f7013ae79faff",
-    "analysis": {
-      "score": 100,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($5,800)",
-        "Pre-event latency: 8969m"
-      ],
-      "amount": 5799.999999,
-      "odds": 0.31986957072282857,
-      "raw_price": 0.31986957072282857,
-      "outcome": "Yes",
-      "potential_pnl": 12332.390606,
-      "pnl_multiplier": 2.1262742427803922,
-      "wallet_age_days": 0,
-      "total_activities": 53
-    },
-    "timestamp": "2026-05-17T18:39:45.060104",
-    "trade_hash": "0xaff42e08f1100b4b461d3beb9a566dd0c0d10272cdc198ed2d17f2b2e29eb015",
-    "trade_timestamp": 1779042648,
-    "latency": {
-      "latency_seconds": 538152.0,
-      "latency_minutes": 8969.2,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-05-17T18:30:48+00:00",
-      "event_time": "2026-05-24T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "normalized_position": "YES",
-      "side": "BUY",
-      "price": 0.31986957072282857,
-      "effective_price": 0.31986957072282857,
-      "size": 18132.390605,
-      "amount": 5799.999999,
-      "potential_pnl": 12332.390606,
-      "pnl_multiplier": 2.1262742427803922,
-      "is_no": false,
-      "slug": "iran-closes-its-airspace-by-may-24",
-      "eventSlug": "iran-closes-its-airspace-by"
-    },
-    "irrationality": {
-      "irrationality_score": 15,
-      "flags": [
-        "Category structurally prone to longshot bias"
-      ],
-      "category": "geopolitics",
-      "category_info": {
-        "strength": "high",
-        "typical_overpricing": 0.05,
-        "min_edge": 0.05
-      },
-      "is_irrational": false
-    },
-    "mispricing": {
-      "rational_estimate": 0.3169478282891314,
-      "market_price": 0.31986957072282857,
-      "edge": 0.0029217424336971942,
-      "edge_percent": 0.2921742433697194,
-      "min_edge_required": 0.05,
-      "is_mispriced": false,
-      "edge_quality": "WEAK",
-      "base_rate_class": "common",
-      "confidence": "low"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 2,
-        "conditions": [
-          "Unknown"
-        ],
-        "weakest_link": "Unknown"
-      },
-      "category": "geopolitics",
-      "narrative_drivers": [
-        "Unknown"
-      ],
-      "confidence_in_analysis": "low"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 100,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 100,
-      "insider_position": "YES",
-      "irrationality_score": 15,
-      "is_irrational": false,
-      "is_mispriced": false,
-      "edge": 0.0029217424336971942,
-      "edge_percent": 0.2921742433697194
-    },
-    "financial_analyst": {
-      "signal_quality": 28.4,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 0.29,
-      "signal_strength": 100.0,
-      "insider_score": 100.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-05-18T10:07:04.727419+00:00"
-  },
-  {
     "market": "Will Reza Pahlavi lead Iran in 2026?",
     "market_slug": "will-reza-pahlavi-lead-iran-in-2026",
     "event_slug": "will-reza-pahlavi-lead-iran-in-2026",
@@ -28515,5 +28403,49 @@
     "market": "Strait of Hormuz traffic returns to normal by December 31?",
     "market_slug": "strait-of-hormuz-traffic-returns-to-normal-by-december-31",
     "amount": 2352.0
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xc8a4b0d72cf523e4f1ee1443610bac1eb9a170a65e568f5ec2440701205a48a5",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 1,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43065779.86288801,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x98d52b88dc228a4b49e2514f8d368b4e6c582ec4",
+      "side": "BUY",
+      "asset": "78720443647959085947727556766909141972122855375012947433653073711547686983095",
+      "conditionId": "0x8dcc90fc712ece5ae7f8c6ac1f137692edaf87a8028e3b015d1db474b699c3dc",
+      "size": 3642.85714,
+      "price": 0.672,
+      "timestamp": 1785083304,
+      "title": "LoL: Movistar KOI vs Team Vitality (BO3) - LEC Regular Season",
+      "slug": "lol-mkoi-vit-2026-07-26",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
+      "eventSlug": "lol-mkoi-vit-2026-07-26",
+      "outcome": "Movistar KOI",
+      "outcomeIndex": 0,
+      "name": "Grig515",
+      "pseudonym": "Cooked-Imprisonment",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xc8a4b0d72cf523e4f1ee1443610bac1eb9a170a65e568f5ec2440701205a48a5",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "LoL: Movistar KOI vs Team Vitality (BO3) - LEC Regular Season",
+    "market_slug": "lol-mkoi-vit-2026-07-26",
+    "amount": 2447.9999980800003
   }
 ]
