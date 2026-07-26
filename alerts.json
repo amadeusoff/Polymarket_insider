@@ -1,110 +1,5 @@
 [
   {
-    "market": "Will Reza Pahlavi lead Iran in 2026?",
-    "market_slug": "will-reza-pahlavi-lead-iran-in-2026",
-    "event_slug": "will-reza-pahlavi-lead-iran-in-2026",
-    "wallet": "0x5be0a25b7853565b27176cd041b091eadec64be6",
-    "analysis": {
-      "score": 75,
-      "flags": [
-        "New wallet (0d old)",
-        "Against trend (7.0% effective odds)",
-        "Low activity (4 txns)"
-      ],
-      "amount": 566.9992999999996,
-      "odds": 0.06999999999999995,
-      "raw_price": 0.93,
-      "outcome": "No",
-      "potential_pnl": 7532.9907,
-      "pnl_multiplier": 13.285714285714295,
-      "wallet_age_days": 0,
-      "total_activities": 4
-    },
-    "timestamp": "2026-05-17T18:39:35.245443",
-    "trade_hash": "0x6aab98f51b771de72515599d77b0ef41e4c0029235b568e3a04dd754c76fbc5b",
-    "trade_timestamp": 1779043054,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "normalized_position": "NO",
-      "side": "BUY",
-      "price": 0.93,
-      "effective_price": 0.93,
-      "size": 8099.99,
-      "amount": 7532.9907,
-      "potential_pnl": 566.9992999999995,
-      "pnl_multiplier": 0.07526881720430101,
-      "is_no": true,
-      "slug": "will-reza-pahlavi-lead-iran-in-2026",
-      "eventSlug": "will-reza-pahlavi-lead-iran-in-2026"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+43.0%)"
-      ],
-      "category": "politics_near",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.02,
-        "min_edge": 0.03
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.5,
-      "market_price": 0.93,
-      "edge": 0.43000000000000005,
-      "edge_percent": 43.00000000000001,
-      "min_edge_required": 0.03,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "low"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 2,
-        "conditions": [
-          "Unknown"
-        ],
-        "weakest_link": "Unknown"
-      },
-      "category": "politics_near",
-      "narrative_drivers": [
-        "Unknown"
-      ],
-      "confidence_in_analysis": "low"
-    },
-    "combined_signal": {
-      "signal_type": "ALPHA",
-      "signal_emoji": "\ud83d\udd25",
-      "signal_strength": 110,
-      "interpretation": "Smart money (NO) confirms YES is overpriced",
-      "action_suggestion": "High conviction: insider + statistics aligned",
-      "insider_score": 75,
-      "insider_position": "NO",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.43000000000000005,
-      "edge_percent": 43.00000000000001
-    },
-    "financial_analyst": {
-      "signal_quality": 82.0,
-      "stance": "HIGH_CONVICTION",
-      "edge_percent": 43.0,
-      "signal_strength": 110.0,
-      "insider_score": 75.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-05-18T10:07:04.727406+00:00"
-  },
-  {
     "market": "Iran closes its airspace by May 24?",
     "market_slug": "iran-closes-its-airspace-by-may-24",
     "event_slug": "iran-closes-its-airspace-by-may-24",
@@ -28576,5 +28471,49 @@
     "market": "Map Handicap: MGLZ (-1.5) vs Wildcard (+1.5)",
     "market_slug": "cs2-wc1-mglz-2026-07-26-map-handicap-home-1pt5",
     "amount": 1599.9296
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xcd523d8940eb53c830b92b469b993b182acc3185d0f03efdd4dbe87ea23ae917",
+    "wallet": "0x09b428f7c2b469786286214aa5c90dd9015f7320",
+    "trader": {
+      "rank": 11,
+      "address": "0x09b428f7c2b469786286214aa5c90dd9015f7320",
+      "username": "DEEDDIT",
+      "profit": 8052184.542897382,
+      "volume": 72132442.51951,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xe234959595e01dacd391a9502a6ad0edf4e3304a",
+      "side": "SELL",
+      "asset": "48727431314333088243693016929623363710488980152833544156961659445129455301311",
+      "conditionId": "0x5c79dfde05559b79a9cb9f7c4187e4d49632dd042572ae676952f812732591cc",
+      "size": 5600,
+      "price": 0.42,
+      "timestamp": 1785068599,
+      "title": "Strait of Hormuz traffic returns to normal by December 31?",
+      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-december-31",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ships-transit-the-strait-of-hormuz-on-any-day-in-march-ERARnetK0FJm.jpg",
+      "eventSlug": "",
+      "outcome": "No",
+      "outcomeIndex": 999,
+      "name": "0x011f2d377e56119fb09196dffb0948ae5571112",
+      "pseudonym": "Fearless-Misnomer",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-8578702-14333f39-fba5-40ff-a60a-6d6cd7300baa.png",
+      "profileImageOptimized": "",
+      "transactionHash": "0xcd523d8940eb53c830b92b469b993b182acc3185d0f03efdd4dbe87ea23ae917",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Strait of Hormuz traffic returns to normal by December 31?",
+    "market_slug": "strait-of-hormuz-traffic-returns-to-normal-by-december-31",
+    "amount": 2352.0
   }
 ]
