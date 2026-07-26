@@ -3,216 +3,6 @@
     "market": "Will Reza Pahlavi lead Iran in 2026?",
     "market_slug": "will-reza-pahlavi-lead-iran-in-2026",
     "event_slug": "will-reza-pahlavi-lead-iran-in-2026",
-    "wallet": "0x5be0a25b7853565b27176cd041b091eadec64be6",
-    "analysis": {
-      "score": 75,
-      "flags": [
-        "New wallet (0d old)",
-        "Against trend (7.0% effective odds)",
-        "Low activity (4 txns)"
-      ],
-      "amount": 566.9992999999996,
-      "odds": 0.06999999999999995,
-      "raw_price": 0.93,
-      "outcome": "No",
-      "potential_pnl": 7532.9907,
-      "pnl_multiplier": 13.285714285714295,
-      "wallet_age_days": 0,
-      "total_activities": 4
-    },
-    "timestamp": "2026-05-17T18:39:47.909760",
-    "trade_hash": "0x819a7820a755974fed61b3cc695c3b0479453e4abc9e27458ea59051053fe43e",
-    "trade_timestamp": 1779043038,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "normalized_position": "NO",
-      "side": "BUY",
-      "price": 0.93,
-      "effective_price": 0.93,
-      "size": 8099.99,
-      "amount": 7532.9907,
-      "potential_pnl": 566.9992999999995,
-      "pnl_multiplier": 0.07526881720430101,
-      "is_no": true,
-      "slug": "will-reza-pahlavi-lead-iran-in-2026",
-      "eventSlug": "will-reza-pahlavi-lead-iran-in-2026"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+43.0%)"
-      ],
-      "category": "politics_near",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.02,
-        "min_edge": 0.03
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.5,
-      "market_price": 0.93,
-      "edge": 0.43000000000000005,
-      "edge_percent": 43.00000000000001,
-      "min_edge_required": 0.03,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "low"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 2,
-        "conditions": [
-          "Unknown"
-        ],
-        "weakest_link": "Unknown"
-      },
-      "category": "politics_near",
-      "narrative_drivers": [
-        "Unknown"
-      ],
-      "confidence_in_analysis": "low"
-    },
-    "combined_signal": {
-      "signal_type": "ALPHA",
-      "signal_emoji": "\ud83d\udd25",
-      "signal_strength": 110,
-      "interpretation": "Smart money (NO) confirms YES is overpriced",
-      "action_suggestion": "High conviction: insider + statistics aligned",
-      "insider_score": 75,
-      "insider_position": "NO",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.43000000000000005,
-      "edge_percent": 43.00000000000001
-    },
-    "financial_analyst": {
-      "signal_quality": 82.0,
-      "stance": "HIGH_CONVICTION",
-      "edge_percent": 43.0,
-      "signal_strength": 110.0,
-      "insider_score": 75.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-05-18T10:07:04.727423+00:00"
-  },
-  {
-    "market": "Will Reza Pahlavi lead Iran in 2026?",
-    "market_slug": "will-reza-pahlavi-lead-iran-in-2026",
-    "event_slug": "will-reza-pahlavi-lead-iran-in-2026",
-    "wallet": "0xd8cc1bb6e6f8903597d0a6f5260f9bff3da4862e",
-    "analysis": {
-      "score": 75,
-      "flags": [
-        "New wallet (0d old)",
-        "Against trend (7.0% effective odds)",
-        "Low activity (4 txns)"
-      ],
-      "amount": 566.9992999999996,
-      "odds": 0.06999999999999995,
-      "raw_price": 0.93,
-      "outcome": "No",
-      "potential_pnl": 7532.9907,
-      "pnl_multiplier": 13.285714285714295,
-      "wallet_age_days": 0,
-      "total_activities": 4
-    },
-    "timestamp": "2026-05-17T18:39:59.129565",
-    "trade_hash": "0x235589799d0efb045f89e148d24c10ea75aefbecaf2791d8775b5864baf0b4c3",
-    "trade_timestamp": 1779042613,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "normalized_position": "NO",
-      "side": "BUY",
-      "price": 0.93,
-      "effective_price": 0.93,
-      "size": 8099.99,
-      "amount": 7532.9907,
-      "potential_pnl": 566.9992999999995,
-      "pnl_multiplier": 0.07526881720430101,
-      "is_no": true,
-      "slug": "will-reza-pahlavi-lead-iran-in-2026",
-      "eventSlug": "will-reza-pahlavi-lead-iran-in-2026"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+43.0%)"
-      ],
-      "category": "politics_near",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.02,
-        "min_edge": 0.03
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.5,
-      "market_price": 0.93,
-      "edge": 0.43000000000000005,
-      "edge_percent": 43.00000000000001,
-      "min_edge_required": 0.03,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "low"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 2,
-        "conditions": [
-          "Unknown"
-        ],
-        "weakest_link": "Unknown"
-      },
-      "category": "politics_near",
-      "narrative_drivers": [
-        "Unknown"
-      ],
-      "confidence_in_analysis": "low"
-    },
-    "combined_signal": {
-      "signal_type": "ALPHA",
-      "signal_emoji": "\ud83d\udd25",
-      "signal_strength": 110,
-      "interpretation": "Smart money (NO) confirms YES is overpriced",
-      "action_suggestion": "High conviction: insider + statistics aligned",
-      "insider_score": 75,
-      "insider_position": "NO",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.43000000000000005,
-      "edge_percent": 43.00000000000001
-    },
-    "financial_analyst": {
-      "signal_quality": 82.0,
-      "stance": "HIGH_CONVICTION",
-      "edge_percent": 43.0,
-      "signal_strength": 110.0,
-      "insider_score": 75.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-05-18T10:07:04.727426+00:00"
-  },
-  {
-    "market": "Will Reza Pahlavi lead Iran in 2026?",
-    "market_slug": "will-reza-pahlavi-lead-iran-in-2026",
-    "event_slug": "will-reza-pahlavi-lead-iran-in-2026",
     "wallet": "0x4d6522c8d3ddebedad6acbced26f5a75a47f1161",
     "analysis": {
       "score": 75,
@@ -28447,5 +28237,93 @@
     "market": "LoL: Movistar KOI vs Team Vitality (BO3) - LEC Regular Season",
     "market_slug": "lol-mkoi-vit-2026-07-26",
     "amount": 2447.9999980800003
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x45894f5fdc60c749fcb3b2b4c25892f222e5f10b3b86e23a890254183ce7189a",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "trader": {
+      "rank": 2,
+      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "username": "swisstony",
+      "profit": 21985924.505653314,
+      "volume": 1738323063.6118054,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xdfa8ecae5f442d9d2b25bc24ba41e524dc39cae6",
+      "side": "BUY",
+      "asset": "38018171335463210656681781170798721232604782233094382829900692567517760435516",
+      "conditionId": "0xaa2e1768e6a04192e1dcf5cd5d3d52fa4764bee3448ab2341875a987bc049d65",
+      "size": 2500,
+      "price": 0.67583256,
+      "timestamp": 1785091408,
+      "title": "LoL: G2 Esports vs Karmine Corp - Game 2 Winner",
+      "slug": "lol-g2-kc-2026-07-26-game2",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
+      "eventSlug": "",
+      "outcome": "G2 Esports",
+      "outcomeIndex": 999,
+      "name": "ns9z",
+      "pseudonym": "Great-Billing",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x45894f5fdc60c749fcb3b2b4c25892f222e5f10b3b86e23a890254183ce7189a",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "LoL: G2 Esports vs Karmine Corp - Game 2 Winner",
+    "market_slug": "lol-g2-kc-2026-07-26-game2",
+    "amount": 1689.5814
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xef2652eca62cc5a3fc398bf67dc0e8533fb1f96bdc952c25cc2607252812aafe",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "trader": {
+      "rank": 2,
+      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "username": "swisstony",
+      "profit": 21985924.505653314,
+      "volume": 1738323063.6118054,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xc5ed1396c83f4c5c62dc64b1b0991941cfd5ee18",
+      "side": "BUY",
+      "asset": "2863450847344465487771354450685174357370264603192786573495266675093150371031",
+      "conditionId": "0xfe7ea58842f403e6b3f54af177314f3ea5dbb143f65c0e30cc6a121475bdb906",
+      "size": 5100.74925,
+      "price": 0.3920992588,
+      "timestamp": 1785091408,
+      "title": "LoL: G2 Esports vs Karmine Corp (BO3) - LEC Regular Season",
+      "slug": "lol-g2-kc-2026-07-26",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
+      "eventSlug": "",
+      "outcome": "G2 Esports",
+      "outcomeIndex": 999,
+      "name": "",
+      "pseudonym": "",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xef2652eca62cc5a3fc398bf67dc0e8533fb1f96bdc952c25cc2607252812aafe",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "LoL: G2 Esports vs Karmine Corp (BO3) - LEC Regular Season",
+    "market_slug": "lol-g2-kc-2026-07-26",
+    "amount": 2000.0000002496558
   }
 ]
