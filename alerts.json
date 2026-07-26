@@ -28222,7 +28222,8 @@
     },
     "market": "Putin out as President of Russia by December 31, 2026?",
     "market_slug": "putin-out-before-2027-346",
-    "amount": 4436.2409
+    "amount": 4436.2409,
+    "resolution_last_check": "2026-07-26T08:29:57.314116+00:00"
   },
   {
     "type": "TOP_TRADER",
@@ -28398,7 +28399,8 @@
     },
     "market": "Will there be no change in Fed interest rates after the July 2026 meeting?",
     "market_slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
-    "amount": 2269.949998148
+    "amount": 2269.949998148,
+    "resolution_last_check": "2026-07-26T08:30:00.851617+00:00"
   },
   {
     "type": "TOP_TRADER",
