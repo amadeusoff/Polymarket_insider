@@ -1,50 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x05c908b9cb6589931b53a85caf317f7378475f4d4d404c6013d1b656e8340cc9",
-    "wallet": "0x2a2c53bd278c04da9962fcf96490e17f3dfb9bc1",
-    "trader": {
-      "rank": 20,
-      "address": "0x2a2c53bd278c04da9962fcf96490e17f3dfb9bc1",
-      "username": "0x2a2C53bD278c04DA9962Fcf96490E17F3DfB9Bc1-1772479215461",
-      "profit": 4197789.469762984,
-      "volume": 476611840.5478329,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xea45124c26c5fe50ab6d7786776b47f42da7284c",
-      "side": "BUY",
-      "asset": "51164266914155164078894125458599944121164000045642724059217688177813405604759",
-      "conditionId": "0x1fb51c9398ae0f164de29cfe3d53f291d4b953145c73a524135b35fb03fa6534",
-      "size": 6759.53,
-      "price": 0.837544799712406,
-      "timestamp": 1779039506,
-      "title": "Russia x Ukraine Peace Parlay",
-      "slug": "russia-x-ukraine-peace-parlay",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/russia-x-ukraine-peace-parlay-mMBwZ2hA8ndT.jpg",
-      "eventSlug": "russia-x-ukraine-peace-parlay",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "33923189",
-      "pseudonym": "Quarrelsome-Origin",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x05c908b9cb6589931b53a85caf317f7378475f4d4d404c6013d1b656e8340cc9",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Russia x Ukraine Peace Parlay",
-    "market_slug": "russia-x-ukraine-peace-parlay",
-    "amount": 5661.4092,
-    "resolution_last_check": "2026-05-18T10:07:04.072611+00:00"
-  },
-  {
     "market": "Will Reza Pahlavi lead Iran in 2026?",
     "market_slug": "will-reza-pahlavi-lead-iran-in-2026",
     "event_slug": "will-reza-pahlavi-lead-iran-in-2026",
@@ -28577,5 +28532,49 @@
     "market": "Los Angeles Dodgers vs. New York Mets: O/U 7.5",
     "market_slug": "mlb-lad-nym-2026-07-25-total-7pt5",
     "amount": 3299.5099987827152
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xc96c255583a3e6c3a57a18778677113e1aef559f8551845a1c948b80e5fe85c0",
+    "wallet": "0xed64a7bf029040aa331abc87902434d815ef217d",
+    "trader": {
+      "rank": 7,
+      "address": "0xed64a7bf029040aa331abc87902434d815ef217d",
+      "username": "fishalive",
+      "profit": 9063378.176199999,
+      "volume": 13281460.374667995,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xba437745c058346319971651197bef40c3cbc6c0",
+      "side": "BUY",
+      "asset": "11839941561385081210202592316414458197472304329257261611470346749810550949416",
+      "conditionId": "0x667b47fd63a614599f48af687bf23873c44631cc8d884b4728cd010959a3b817",
+      "size": 2499.89,
+      "price": 0.64,
+      "timestamp": 1785064098,
+      "title": "Map Handicap: MGLZ (-1.5) vs Wildcard (+1.5)",
+      "slug": "cs2-wc1-mglz-2026-07-26-map-handicap-home-1pt5",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/counter-strike-image-16c415c538.png",
+      "eventSlug": "",
+      "outcome": "Wildcard",
+      "outcomeIndex": 999,
+      "name": "PourpelNourpel",
+      "pseudonym": "Wry-Portion-Wrong",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xc96c255583a3e6c3a57a18778677113e1aef559f8551845a1c948b80e5fe85c0",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Map Handicap: MGLZ (-1.5) vs Wildcard (+1.5)",
+    "market_slug": "cs2-wc1-mglz-2026-07-26-map-handicap-home-1pt5",
+    "amount": 1599.9296
   }
 ]
