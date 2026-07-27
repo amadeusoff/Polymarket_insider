@@ -28087,7 +28087,8 @@
     },
     "market": "Strait of Hormuz traffic returns to normal by December 31?",
     "market_slug": "strait-of-hormuz-traffic-returns-to-normal-by-december-31",
-    "amount": 2352.0
+    "amount": 2352.0,
+    "resolution_last_check": "2026-07-27T09:54:02.208990+00:00"
   },
   {
     "type": "TOP_TRADER",
@@ -28263,6 +28264,7 @@
     },
     "market": "Strait of Hormuz traffic returns to normal by August 31?",
     "market_slug": "strait-of-hormuz-traffic-returns-to-normal-by-august-31-20260702154212320",
-    "amount": 2029.5824
+    "amount": 2029.5824,
+    "resolution_last_check": "2026-07-27T09:54:06.361805+00:00"
   }
 ]
