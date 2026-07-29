@@ -1,117 +1,5 @@
 [
   {
-    "market": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 22, 2026?",
-    "market_slug": "will-donald-trump-announce-that-the-united-states-blockade-of-the-strait-of-hormuz-has-been-lifted-by-may-22-2026",
-    "event_slug": "will-donald-trump-announce-that-the-united-states-blockade-of-the-strait-of-hormuz-has-been-lifted-by-may-22-2026",
-    "wallet": "0x134a63b764ac7b008356e8db1857db94e6b09e42",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "Against trend (7.6% effective odds)",
-        "Large bet ($2,539)",
-        "Pre-event latency: 4616m"
-      ],
-      "amount": 2538.5363,
-      "odds": 0.07628975628198166,
-      "raw_price": 0.07628975628198166,
-      "outcome": "Yes",
-      "potential_pnl": 30736.3937,
-      "pnl_multiplier": 12.107919709479829,
-      "wallet_age_days": 560,
-      "total_activities": 100
-    },
-    "timestamp": "2026-05-18T19:09:29.162686",
-    "trade_hash": "0x6455756a8ba30c92420fdc73aeb8848bb6872d6df6f735607bc8ecc8b3277ffc",
-    "trade_timestamp": 1779131019,
-    "latency": {
-      "latency_seconds": 276981.0,
-      "latency_minutes": 4616.35,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-05-18T19:03:39+00:00",
-      "event_time": "2026-05-22T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "normalized_position": "YES",
-      "side": "BUY",
-      "price": 0.07628975628198166,
-      "effective_price": 0.07628975628198166,
-      "size": 33274.93,
-      "amount": 2538.5363,
-      "potential_pnl": 30736.3937,
-      "pnl_multiplier": 12.107919709479829,
-      "is_no": false,
-      "slug": "will-donald-trump-announce-that-the-united-states-blockade-of-the-strait-of-hormuz-has-been-lifted-by-may-22-2026",
-      "eventSlug": "trump-announces-us-blockade-of-hormuz-lifted-by"
-    },
-    "irrationality": {
-      "irrationality_score": 25,
-      "flags": [
-        "Longshot (8%) in medium bias category (politics_near)"
-      ],
-      "category": "politics_near",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.02,
-        "min_edge": 0.03
-      },
-      "is_irrational": false
-    },
-    "mispricing": {
-      "rational_estimate": 0.05301590251279267,
-      "market_price": 0.07628975628198166,
-      "edge": 0.023273853769188987,
-      "edge_percent": 2.327385376918899,
-      "min_edge_required": 0.03,
-      "is_mispriced": false,
-      "edge_quality": "WEAK",
-      "base_rate_class": "rare",
-      "confidence": "low"
-    },
-    "factors": {
-      "base_rate_class": "rare",
-      "structural_feasibility": {
-        "independent_conditions_required": 2,
-        "conditions": [
-          "Unknown"
-        ],
-        "weakest_link": "Unknown"
-      },
-      "category": "politics_near",
-      "narrative_drivers": [
-        "Unknown"
-      ],
-      "confidence_in_analysis": "low"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 85,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 85,
-      "insider_position": "YES",
-      "irrationality_score": 25,
-      "is_irrational": false,
-      "is_mispriced": false,
-      "edge": 0.023273853769188987,
-      "edge_percent": 2.327385376918899
-    },
-    "financial_analyst": {
-      "signal_quality": 30.5,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 2.33,
-      "signal_strength": 85.0,
-      "insider_score": 85.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-05-19T09:46:56.385236+00:00"
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0xb917b034b6ebbe1b367c79494bd8e134f7ad8ec117276f176f8c4589f7f5dad0",
     "wallet": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
@@ -28266,5 +28154,49 @@
     "market": "Boston Red Sox vs. Athletics",
     "market_slug": "mlb-bos-oak-2026-07-28",
     "amount": 2159.2676
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x0ee08d8491fc569c211ee84f2892eaef6bfc499f848d7fbd79416586c297ace6",
+    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+    "trader": {
+      "rank": 2,
+      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
+      "username": "Theo4",
+      "profit": 22053933.752321757,
+      "volume": 43065779.862888,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xc430e5b17128df7ce78d69fa28bc7de038641ebf",
+      "side": "BUY",
+      "asset": "13013251820838760093208714984372804211834391413337511599508603961256914282058",
+      "conditionId": "0x482cb42e0a7c3493c32d388a85505476569114f6b980e804eb9ca2ff15532d33",
+      "size": 22161.29,
+      "price": 0.32,
+      "timestamp": 1785343853,
+      "title": "Mubadala Citi DC Open: Aleksandar Vukic vs Lorenzo Musetti",
+      "slug": "atp-vukic-musetti-2026-07-29",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+      "eventSlug": "",
+      "outcome": "Aleksandar Vukic",
+      "outcomeIndex": 999,
+      "name": "Gourmet1",
+      "pseudonym": "Lucky-Vision",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x0ee08d8491fc569c211ee84f2892eaef6bfc499f848d7fbd79416586c297ace6",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Mubadala Citi DC Open: Aleksandar Vukic vs Lorenzo Musetti",
+    "market_slug": "atp-vukic-musetti-2026-07-29",
+    "amount": 7091.612800000001
   }
 ]
