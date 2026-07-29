@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xb917b034b6ebbe1b367c79494bd8e134f7ad8ec117276f176f8c4589f7f5dad0",
-    "wallet": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
-    "trader": {
-      "rank": 2,
-      "address": "0x1f2dd6d473f3e824cd2f8a89d9c69fb96f6ad0cf",
-      "username": "Fredi9999",
-      "profit": 16619506.631730152,
-      "volume": 76611316.90515403,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x8e4e400b90aaac3e158abd5677fd296134be1dfc",
-      "side": "BUY",
-      "asset": "93198016825632831952581842196758821366114477543736642456695391153677988828775",
-      "conditionId": "0x573cced1308f76a3e472e980898db7449ab845d2f960a208a95005444ba21313",
-      "size": 3880,
-      "price": 0.5,
-      "timestamp": 1779131170,
-      "title": "Spread: Dallas Wings (-4.5)",
-      "slug": "wnba-wsh-dal-2026-05-18-spread-home-4pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wnba-logo-PAR4befDAubM.png",
-      "eventSlug": "wnba-wsh-dal-2026-05-18",
-      "outcome": "Dallas Wings",
-      "outcomeIndex": 0,
-      "name": "PM1688",
-      "pseudonym": "Grouchy-Press",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xb917b034b6ebbe1b367c79494bd8e134f7ad8ec117276f176f8c4589f7f5dad0",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Spread: Dallas Wings (-4.5)",
-    "market_slug": "wnba-wsh-dal-2026-05-18",
-    "amount": 1940.0
-  },
-  {
     "market": "Will Neymar play in the 2026 FIFA World Cup?",
     "market_slug": "will-neymar-play-in-the-2026-fifa-world-cup-for-brazil",
     "event_slug": "will-neymar-play-in-the-2026-fifa-world-cup-for-brazil",
@@ -28198,5 +28154,49 @@
     "market": "Mubadala Citi DC Open: Aleksandar Vukic vs Lorenzo Musetti",
     "market_slug": "atp-vukic-musetti-2026-07-29",
     "amount": 7091.612800000001
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xa9ee408d1c04d573656808217bf07b02f0f7ff5003d4a7a88ba49e5948b199e0",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "trader": {
+      "rank": 1,
+      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "username": "swisstony",
+      "profit": 22328175.418539155,
+      "volume": 1744250079.2734241,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x4be1fa92e6ceaf886aac0bbec3be6c527133aa70",
+      "side": "BUY",
+      "asset": "6852667973886724590910521015094796531541524268962926123463824579891345270383",
+      "conditionId": "0xeb24a4ebd21a1351b50151b8213cea02ea0e822f5aee2c4d5d72c452235db1b0",
+      "size": 72181.95,
+      "price": 0.5,
+      "timestamp": 1785354060,
+      "title": "Milwaukee Brewers vs. San Francisco Giants",
+      "slug": "mlb-mil-sf-2026-07-29",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
+      "eventSlug": "",
+      "outcome": "San Francisco Giants",
+      "outcomeIndex": 999,
+      "name": "Eztennis",
+      "pseudonym": "Unequaled-Shingle",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xa9ee408d1c04d573656808217bf07b02f0f7ff5003d4a7a88ba49e5948b199e0",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Milwaukee Brewers vs. San Francisco Giants",
+    "market_slug": "mlb-mil-sf-2026-07-29",
+    "amount": 36090.975
   }
 ]
