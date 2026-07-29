@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x7a4d98be1ff1be063c350df5b957e7fd2983762912466a11dbb9f3816bc1cd23",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xb184c7a0e5172b5bedbf4492d702220f5522b6c6",
-      "side": "BUY",
-      "asset": "72190249039660107789554803255517537704779074454183501902633495733727085881571",
-      "conditionId": "0x81dd110b1f647b5bc3969abcc0841f4cf17a490fb961e576440e579f60f1319c",
-      "size": 6382.978722,
-      "price": 0.46999999994673336,
-      "timestamp": 1779141108,
-      "title": "Spurs vs. Thunder: O/U 222.5",
-      "slug": "nba-sas-okc-2026-05-18-total-222pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-sas-okc-2026-05-18",
-      "outcome": "Over",
-      "outcomeIndex": 0,
-      "name": "0xB184c7a0e5172b5BEdbf4492d702220F5522b6C6-1775929411929",
-      "pseudonym": "Vacant-Landscape",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x7a4d98be1ff1be063c350df5b957e7fd2983762912466a11dbb9f3816bc1cd23",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Spurs vs. Thunder: O/U 222.5",
-    "market_slug": "nba-sas-okc-2026-05-18",
-    "amount": 2999.999999
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xd2655d3973a3a4c5cf62cca86d4b8c0227070cbd1dd834fe967efd78a215987a",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -28136,5 +28092,49 @@
     "market": "Baltimore Orioles vs. Detroit Tigers",
     "market_slug": "mlb-bal-det-2026-07-29",
     "amount": 1999.9999959347265
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0xb53e43a50900a543a7f2022f9c5586aaf454db5d5e46a289bfd2419d4ddaa0ff",
+    "wallet": "0x09b428f7c2b469786286214aa5c90dd9015f7320",
+    "trader": {
+      "rank": 11,
+      "address": "0x09b428f7c2b469786286214aa5c90dd9015f7320",
+      "username": "DEEDDIT",
+      "profit": 8052184.542897382,
+      "volume": 72132442.51950999,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x492bb408693470df7d031ef48f3a5466055b45ee",
+      "side": "SELL",
+      "asset": "64567147459370283511698495386163355301291010144464792394965223631557451431305",
+      "conditionId": "0xdc9291fb5367d9eb43dd5f359ff74ae87b9c1874b8597e1500898a063ea925ab",
+      "size": 8463,
+      "price": 0.3992189649,
+      "timestamp": 1785361569,
+      "title": "Mubadala Citi DC Open: Emma Navarro vs Elisabetta Cocciaretto",
+      "slug": "wta-navarro-cocciar-2026-07-29",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wta-logo-41f331bdf1.png",
+      "eventSlug": "",
+      "outcome": "Elisabetta Cocciaretto",
+      "outcomeIndex": 999,
+      "name": "dmoralez",
+      "pseudonym": "Naughty-Tab",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0xb53e43a50900a543a7f2022f9c5586aaf454db5d5e46a289bfd2419d4ddaa0ff",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Mubadala Citi DC Open: Emma Navarro vs Elisabetta Cocciaretto",
+    "market_slug": "wta-navarro-cocciar-2026-07-29",
+    "amount": 3378.5900999487
   }
 ]
