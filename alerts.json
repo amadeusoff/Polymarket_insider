@@ -1,111 +1,5 @@
 [
   {
-    "market": "Will Neymar play in the 2026 FIFA World Cup?",
-    "market_slug": "will-neymar-play-in-the-2026-fifa-world-cup-for-brazil",
-    "event_slug": "will-neymar-play-in-the-2026-fifa-world-cup-for-brazil",
-    "wallet": "0xf73ae2e833d34b6eb4e9f881773ca02bcdeea5f5",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,093)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 1093.219997,
-      "odds": 0.908945984472525,
-      "raw_price": 0.908945984472525,
-      "outcome": "Yes",
-      "potential_pnl": 109.51373600000011,
-      "pnl_multiplier": 0.10017538674788815,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-05-18T20:46:26.380394",
-    "trade_hash": "0x65d3f85f3fc101f1b71ca008106f23c3ad13a7ebe0050445e6347d2d8a9d8afa",
-    "trade_timestamp": 1779136584,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "normalized_position": "YES",
-      "side": "BUY",
-      "price": 0.908945984472525,
-      "effective_price": 0.908945984472525,
-      "size": 1202.733733,
-      "amount": 1093.219997,
-      "potential_pnl": 109.51373600000011,
-      "pnl_multiplier": 0.10017538674788815,
-      "is_no": false,
-      "slug": "will-neymar-play-in-the-2026-fifa-world-cup-for-brazil",
-      "eventSlug": "will-neymar-play-in-the-2026-fifa-world-cup-for-brazil"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+40.9%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.5,
-      "market_price": 0.908945984472525,
-      "edge": 0.40894598447252495,
-      "edge_percent": 40.89459844725249,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "low"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 2,
-        "conditions": [
-          "Unknown"
-        ],
-        "weakest_link": "Unknown"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Unknown"
-      ],
-      "confidence_in_analysis": "low"
-    },
-    "combined_signal": {
-      "signal_type": "CONFLICT",
-      "signal_emoji": "\u26a0\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider buying YES despite statistical overpricing",
-      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
-      "insider_score": 70,
-      "insider_position": "YES",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.40894598447252495,
-      "edge_percent": 40.89459844725249
-    },
-    "log_only": true,
-    "financial_analyst": {
-      "signal_quality": 46.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 40.89,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-05-19T09:46:58.332992+00:00"
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0x7a4d98be1ff1be063c350df5b957e7fd2983762912466a11dbb9f3816bc1cd23",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
@@ -28198,5 +28092,49 @@
     "market": "Milwaukee Brewers vs. San Francisco Giants",
     "market_slug": "mlb-mil-sf-2026-07-29",
     "amount": 36090.975
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x60aaaa0c404d8a63c9b21f3fb349ed88f72ac0bf15ed2445ec2b3a50acab64aa",
+    "wallet": "0x09b428f7c2b469786286214aa5c90dd9015f7320",
+    "trader": {
+      "rank": 11,
+      "address": "0x09b428f7c2b469786286214aa5c90dd9015f7320",
+      "username": "DEEDDIT",
+      "profit": 8052184.542897382,
+      "volume": 72132442.51950999,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+      "side": "BUY",
+      "asset": "46917890429413561878074938049622091744334169944528154681870286406054653488300",
+      "conditionId": "0x55def4d77b4f051b6a526f3fc12880ab075ff6766a80d0b88c609686fcaf23e0",
+      "size": 2503.879845,
+      "price": 0.7987603718,
+      "timestamp": 1785357666,
+      "title": "Baltimore Orioles vs. Detroit Tigers",
+      "slug": "mlb-bal-det-2026-07-29",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
+      "eventSlug": "",
+      "outcome": "Baltimore Orioles",
+      "outcomeIndex": 999,
+      "name": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+      "pseudonym": "Faithful-Jazz",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x60aaaa0c404d8a63c9b21f3fb349ed88f72ac0bf15ed2445ec2b3a50acab64aa",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Baltimore Orioles vs. Detroit Tigers",
+    "market_slug": "mlb-bal-det-2026-07-29",
+    "amount": 1999.9999959347265
   }
 ]
