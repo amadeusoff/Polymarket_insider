@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x4921c4005e30546b6327c86d0cbf30699c933c449faa8c021260d43629538dd6",
-    "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
-    "trader": {
-      "rank": 19,
-      "address": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
-      "username": "432614799197",
-      "profit": 4526176.046413317,
-      "volume": 185485956.8620829,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xb1776c353202760f34d11db124513284d2991914",
-      "side": "BUY",
-      "asset": "87210959343975995980588493667938326744824429852174916295305334231630944264823",
-      "conditionId": "0x18382cc5a24129a9e07126351f1732c41a516a4d5c5945d06b127fa3b77fa0cb",
-      "size": 5509.090908,
-      "price": 0.5499999999273928,
-      "timestamp": 1779062032,
-      "title": "Nashville SC vs. Los Angeles FC: O/U 2.5",
-      "slug": "mls-nas-laf-2026-05-17-total-2pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/mls-soccer-all-star-game-winner-r8__FzcgT9JC.png",
-      "eventSlug": "mls-nas-laf-2026-05-17-more-markets",
-      "outcome": "Over",
-      "outcomeIndex": 0,
-      "name": "leejuhuyn",
-      "pseudonym": "Secret-Turmeric",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x4921c4005e30546b6327c86d0cbf30699c933c449faa8c021260d43629538dd6",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Nashville SC vs. Los Angeles FC: O/U 2.5",
-    "market_slug": "mls-nas-laf-2026-05-17-more-markets",
-    "amount": 3029.9999990000006
-  },
-  {
     "market": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 22, 2026?",
     "market_slug": "will-donald-trump-announce-that-the-united-states-blockade-of-the-strait-of-hormuz-has-been-lifted-by-may-22-2026",
     "event_slug": "will-donald-trump-announce-that-the-united-states-blockade-of-the-strait-of-hormuz-has-been-lifted-by-may-22-2026",
@@ -28266,5 +28222,49 @@
     "market": "Houston Astros vs. Los Angeles Angels",
     "market_slug": "mlb-hou-laa-2026-07-28",
     "amount": 5999.99999931
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x48a7e8555d6eccd7eea176f02f09f9715a2c5ce8ece685f728e25718e66bd7b8",
+    "wallet": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+    "trader": {
+      "rank": 19,
+      "address": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+      "username": "walletmobile",
+      "profit": 5942685.45339684,
+      "volume": 32196692.075936034,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0xbc8c61c1de7c31a8ff68aebf55256c028db9273f",
+      "side": "SELL",
+      "asset": "3291239913315028873947456509263565366200146477915964577586518759957246534062",
+      "conditionId": "0xddced8c82aebc5ff2840f853863389d9a2ea8ad9868927e46398810f5e54181a",
+      "size": 2347.03,
+      "price": 0.92,
+      "timestamp": 1785297324,
+      "title": "Boston Red Sox vs. Athletics",
+      "slug": "mlb-bos-oak-2026-07-28",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
+      "eventSlug": "",
+      "outcome": "Athletics",
+      "outcomeIndex": 999,
+      "name": "yesworld28",
+      "pseudonym": "Impolite-Motel",
+      "bio": "",
+      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-4085112-144ef8c3-1aa4-4d8d-93af-da764a7f125e.jpeg",
+      "profileImageOptimized": "",
+      "transactionHash": "0x48a7e8555d6eccd7eea176f02f09f9715a2c5ce8ece685f728e25718e66bd7b8",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Boston Red Sox vs. Athletics",
+    "market_slug": "mlb-bos-oak-2026-07-28",
+    "amount": 2159.2676
   }
 ]
