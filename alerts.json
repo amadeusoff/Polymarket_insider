@@ -1,51 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xd2655d3973a3a4c5cf62cca86d4b8c0227070cbd1dd834fe967efd78a215987a",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x448861155279dbf833d041b963e3ac854599e319",
-      "side": "BUY",
-      "asset": "1910830010387565971650098373488592514702818137344973088263643820608151819241",
-      "conditionId": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "size": 10000,
-      "price": 0.71,
-      "timestamp": 1779141106,
-      "title": "Will the U.S. invade Iran before 2027?",
-      "slug": "will-the-us-invade-iran-before-2027",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-the-us-invade-iran-in-2025-0Eh3J0ku_Fbj.jpg",
-      "eventSlug": "will-the-us-invade-iran-before-2027",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "Flipadelphia",
-      "pseudonym": "",
-      "bio": "Kygo Jo",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-108046-a7cbec59-4bd4-4efc-8ade-4e81e102acb0.png",
-      "profileImageOptimized": "",
-      "transactionHash": "0xd2655d3973a3a4c5cf62cca86d4b8c0227070cbd1dd834fe967efd78a215987a",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will the U.S. invade Iran before 2027?",
-    "market_slug": "will-the-us-invade-iran-before-2027",
-    "amount": 7100.0,
-    "resolution_last_check": "2026-05-19T09:46:59.411292+00:00"
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x1ddfaf5aed2b8ec851fc9b204ef9e586a79bfd39af45b3b835a718c2bdaf8336",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -28136,5 +28091,49 @@
     "market": "Mubadala Citi DC Open: Emma Navarro vs Elisabetta Cocciaretto",
     "market_slug": "wta-navarro-cocciar-2026-07-29",
     "amount": 3378.5900999487
+  },
+  {
+    "type": "TOP_TRADER",
+    "trade_hash": "0x0a05d1dfc0d295de63be1d74c2f5e94c494691a1780d9e0f87673149c0350c0c",
+    "wallet": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+    "trader": {
+      "rank": 19,
+      "address": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+      "username": "walletmobile",
+      "profit": 5942685.45339684,
+      "volume": 32196692.075936034,
+      "positions": 0,
+      "positions_won": 0,
+      "positions_lost": 0,
+      "win_rate": 0.6
+    },
+    "trade": {
+      "proxyWallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+      "side": "BUY",
+      "asset": "90124949225875541795705853997051006883604539399992912100292420917568475410802",
+      "conditionId": "0xd869d400e5e265f8b94ac234831d21f637fff704d47cd74158bc8bf742f41b00",
+      "size": 4298.08,
+      "price": 0.73,
+      "timestamp": 1785374174,
+      "title": "Atlanta Dream vs. Dallas Wings",
+      "slug": "wnba-atl-dal-2026-07-29",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wnba-logo-PAR4befDAubM.png",
+      "eventSlug": "",
+      "outcome": "Dallas Wings",
+      "outcomeIndex": 999,
+      "name": "HomeRunHazard",
+      "pseudonym": "Powerless-Savannah",
+      "bio": "",
+      "profileImage": "",
+      "profileImageOptimized": "",
+      "transactionHash": "0x0a05d1dfc0d295de63be1d74c2f5e94c494691a1780d9e0f87673149c0350c0c",
+      "market": {
+        "question": "Unknown market",
+        "slug": ""
+      }
+    },
+    "market": "Atlanta Dream vs. Dallas Wings",
+    "market_slug": "wnba-atl-dal-2026-07-29",
+    "amount": 3137.5984
   }
 ]
