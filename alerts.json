@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x29c5352bf9c13497406ac4a41efc72a785c5b6653aafc6aebdc5ec8405eb4088",
-    "wallet": "0xd0c042c08f755ff940249f62745e82d356345565",
-    "trader": {
-      "rank": 17,
-      "address": "0xd0c042c08f755ff940249f62745e82d356345565",
-      "username": "alexmulti",
-      "profit": 4804855.613376001,
-      "volume": 9949068.653841998,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xe2160eb837cd17de5915d460b1d69b5ba2ac7448",
-      "side": "BUY",
-      "asset": "42170139202950227361342020340108504893717935266919137169537408817822585300791",
-      "conditionId": "0xe560e0292413502be6c4db45dc1fca43f04bb99a4f2ea275d7a14d2f8c585fd4",
-      "size": 3811.692306,
-      "price": 0.5199999999685179,
-      "timestamp": 1779234969,
-      "title": "Spread: Knicks (-5.5)",
-      "slug": "nba-cle-nyk-2026-05-19-spread-home-5pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-cle-nyk-2026-05-19",
-      "outcome": "Knicks",
-      "outcomeIndex": 0,
-      "name": "PCK",
-      "pseudonym": "Wilted-Lecture",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-2739577.jpg",
-      "profileImageOptimized": "",
-      "transactionHash": "0x29c5352bf9c13497406ac4a41efc72a785c5b6653aafc6aebdc5ec8405eb4088",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Spread: Knicks (-5.5)",
-    "market_slug": "nba-cle-nyk-2026-05-19",
-    "amount": 1982.0799989999998
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xb92fdf0fe387839e81f45a6de40c78d562d9d246ee1e1527c96a59768bb75925",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -28136,5 +28092,110 @@
     "market_slug": "cs2-tl1-ts7-2026-07-31",
     "amount": 1672.0,
     "resolution_last_check": "2026-07-30T08:29:17.701302+00:00"
+  },
+  {
+    "market": "Dota 2: Team Falcons vs 1win - Game 2 Winner",
+    "market_slug": "dota2-flc-1win-2026-08-02-game2",
+    "event_slug": "dota2-flc-1win-2026-08-02-game2",
+    "wallet": "0xa1d91b5d18e7383f66999b7f2f3cdda672d6d698",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($3,051)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 3051.439998001152,
+      "odds": 0.607129692,
+      "raw_price": 0.607129692,
+      "outcome": "Team Falcons",
+      "potential_pnl": 1974.5701579988481,
+      "pnl_multiplier": 0.6470945387398381,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-08-02T15:15:30.917520",
+    "trade_hash": "0xc0df11fc146b66ab695c7ee16bc951b5affbb2b80d8da8170014c84522a5860f",
+    "trade_timestamp": 1785683417,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Team Falcons",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.607129692,
+      "effective_price": 0.607129692,
+      "size": 5026.010156,
+      "amount": 3051.439998001152,
+      "potential_pnl": 1974.5701579988481,
+      "pnl_multiplier": 0.6470945387398381,
+      "is_no": false,
+      "slug": "dota2-flc-1win-2026-08-02-game2",
+      "eventSlug": "dota2-flc-1win-2026-08-02-more-markets"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+20.7%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.40035187679999995,
+      "market_price": 0.607129692,
+      "edge": 0.20677781520000005,
+      "edge_percent": 20.677781520000003,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.20677781520000005,
+      "edge_percent": 20.677781520000003
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 46.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 20.68,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
