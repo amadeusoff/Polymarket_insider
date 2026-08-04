@@ -1,118 +1,5 @@
 [
   {
-    "market": "US x Iran permanent peace deal by May 26, 2026?",
-    "market_slug": "us-x-iran-permanent-peace-deal-by-may-26-2026",
-    "event_slug": "us-x-iran-permanent-peace-deal-by-may-26-2026",
-    "wallet": "0xc73ae816662a007c7ec3d8a9487c140fe312ec83",
-    "analysis": {
-      "score": 115,
-      "flags": [
-        "New wallet (0d old)",
-        "Against trend (10.0% effective odds)",
-        "Low activity (1 txns)",
-        "Pre-event latency: 5749m"
-      ],
-      "amount": 119.69299999999998,
-      "odds": 0.09999999999999998,
-      "raw_price": 0.9,
-      "outcome": "No",
-      "potential_pnl": 1077.237,
-      "pnl_multiplier": 9.000000000000002,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-05-22T00:18:13.773026",
-    "trade_hash": "0x65abaddd10b888a98e2587ea6902471d0bf37f361325e7b697977bf474a42a2e",
-    "trade_timestamp": 1779408655,
-    "latency": {
-      "latency_seconds": 344945.0,
-      "latency_minutes": 5749.083333333333,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-05-22T00:10:55+00:00",
-      "event_time": "2026-05-26T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "normalized_position": "NO",
-      "side": "BUY",
-      "price": 0.9,
-      "effective_price": 0.9,
-      "size": 1196.93,
-      "amount": 1077.237,
-      "potential_pnl": 119.69299999999998,
-      "pnl_multiplier": 0.11111111111111109,
-      "is_no": true,
-      "slug": "us-x-iran-permanent-peace-deal-by-may-26-2026",
-      "eventSlug": "us-x-iran-permanent-peace-deal-by"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+40.0%)"
-      ],
-      "category": "politics_near",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.02,
-        "min_edge": 0.03
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.5,
-      "market_price": 0.9,
-      "edge": 0.4,
-      "edge_percent": 40.0,
-      "min_edge_required": 0.03,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "low"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 2,
-        "conditions": [
-          "Unknown"
-        ],
-        "weakest_link": "Unknown"
-      },
-      "category": "politics_near",
-      "narrative_drivers": [
-        "Unknown"
-      ],
-      "confidence_in_analysis": "low"
-    },
-    "combined_signal": {
-      "signal_type": "ALPHA",
-      "signal_emoji": "\ud83d\udd25",
-      "signal_strength": 150,
-      "interpretation": "Smart money (NO) confirms YES is overpriced",
-      "action_suggestion": "High conviction: insider + statistics aligned",
-      "insider_score": 115,
-      "insider_position": "NO",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.4,
-      "edge_percent": 40.0
-    },
-    "financial_analyst": {
-      "signal_quality": 87.0,
-      "stance": "HIGH_CONVICTION",
-      "edge_percent": 40.0,
-      "signal_strength": 150.0,
-      "insider_score": 115.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-05-22T09:06:03.470400+00:00"
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0x5b8388285c823683ec2a249273100a636a68db464d28e82b8de8c80f385ae706",
     "wallet": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
@@ -28316,6 +28203,111 @@
       "signal_quality": 46.0,
       "stance": "WATCH_ONLY",
       "edge_percent": 17.07,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Dota 2: BetBoom Team vs OG (BO3) - 1win Essence Playoffs",
+    "market_slug": "dota2-bb4-og-2026",
+    "event_slug": "dota2-bb4-og-2026",
+    "wallet": "0xf770cd13a0ec38aed687e28f387b06653591a856",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,001)",
+        "Low activity (3 txns)"
+      ],
+      "amount": 1000.99999799,
+      "odds": 0.6599999994,
+      "raw_price": 0.6599999994,
+      "outcome": "BetBoom Team",
+      "potential_pnl": 515.66666701,
+      "pnl_multiplier": 0.5151515165289255,
+      "wallet_age_days": 0,
+      "total_activities": 3
+    },
+    "timestamp": "2026-08-04T12:17:41.438505",
+    "trade_hash": "0xf4c075751375d0e479e93640b2713bfd4f006277030f4cb1abeac879a1938373",
+    "trade_timestamp": 1785845081,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "BetBoom Team",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.6599999994,
+      "effective_price": 0.6599999994,
+      "size": 1516.666665,
+      "amount": 1000.99999799,
+      "potential_pnl": 515.66666701,
+      "pnl_multiplier": 0.5151515165289255,
+      "is_no": false,
+      "slug": "dota2-bb4-og-2026",
+      "eventSlug": "dota2-bb4-og-2026-08-04"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+23.8%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.42149999975999997,
+      "market_price": 0.6599999994,
+      "edge": 0.23849999964000002,
+      "edge_percent": 23.849999964000002,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.23849999964000002,
+      "edge_percent": 23.849999964000002
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 46.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 23.85,
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
