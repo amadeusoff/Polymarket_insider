@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x78a167b8dbd2043b1db73b2799d17c07391cfa528303f9bb064279b6f0eda3c9",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xef2684030d14a67c2a30a3e4fc00eed7a99505ba",
-      "side": "BUY",
-      "asset": "22135027695053644116004652721221449984355847642214483669529511833237451368051",
-      "conditionId": "0x99e479c2f326de78fe1d6948e551db1614ead7d829f8d77f30b3cfc95b9e29f8",
-      "size": 3486.77,
-      "price": 0.5,
-      "timestamp": 1779358888,
-      "title": "Counter-Strike: TheMongolz vs Liquid (BO3) - CS Asia Championships Group B",
-      "slug": "cs2-mglz-tl1-2026-05-21",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/counter-strike-image-16c415c538.png",
-      "eventSlug": "cs2-mglz-tl1-2026-05-21",
-      "outcome": "Liquid",
-      "outcomeIndex": 1,
-      "name": "eyesneverlie",
-      "pseudonym": "Shy-Ephyra",
-      "bio": "Your prophet will profit",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-4220835-c6473901-b3a0-4936-9c77-9589cc8ffa42.PNG",
-      "profileImageOptimized": "",
-      "transactionHash": "0x78a167b8dbd2043b1db73b2799d17c07391cfa528303f9bb064279b6f0eda3c9",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Counter-Strike: TheMongolz vs Liquid (BO3) - CS Asia Championships Group B",
-    "market_slug": "cs2-mglz-tl1-2026-05-21",
-    "amount": 1743.385
-  },
-  {
     "market": "US x Iran permanent peace deal by May 26, 2026?",
     "market_slug": "us-x-iran-permanent-peace-deal-by-may-26-2026",
     "event_slug": "us-x-iran-permanent-peace-deal-by-may-26-2026",
@@ -28259,5 +28215,110 @@
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     },
     "resolution_last_check": "2026-08-03T09:46:45.720974+00:00"
+  },
+  {
+    "market": "Phoenix Mercury vs. Chicago Sky: O/U 178.5",
+    "market_slug": "wnba-phx-chi-2026-08-03-total-178pt5",
+    "event_slug": "wnba-phx-chi-2026-08-03-total-178pt5",
+    "wallet": "0xbf08be85b9c157db09f4b949a72179a1fe43907e",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,710)",
+        "Low activity (3 txns)"
+      ],
+      "amount": 1710.0399991340412,
+      "odds": 0.547082837,
+      "raw_price": 0.547082837,
+      "outcome": "Over",
+      "potential_pnl": 1415.7023628659588,
+      "pnl_multiplier": 0.8278767535162136,
+      "wallet_age_days": 0,
+      "total_activities": 3
+    },
+    "timestamp": "2026-08-04T01:09:37.980101",
+    "trade_hash": "0x1674eb0d23e561264ce5cedf675b7de5d2cf013df8200aa6ded6ca5cf1376432",
+    "trade_timestamp": 1785805158,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Over",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.547082837,
+      "effective_price": 0.547082837,
+      "size": 3125.742362,
+      "amount": 1710.0399991340412,
+      "potential_pnl": 1415.7023628659588,
+      "pnl_multiplier": 0.8278767535162136,
+      "is_no": false,
+      "slug": "wnba-phx-chi-2026-08-03-total-178pt5",
+      "eventSlug": "wnba-phx-chi-2026-08-03"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+17.1%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.37633313479999997,
+      "market_price": 0.547082837,
+      "edge": 0.17074970220000008,
+      "edge_percent": 17.074970220000008,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.17074970220000008,
+      "edge_percent": 17.074970220000008
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 46.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 17.07,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
