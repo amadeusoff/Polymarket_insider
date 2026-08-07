@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x5b8388285c823683ec2a249273100a636a68db464d28e82b8de8c80f385ae706",
-    "wallet": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
-    "trader": {
-      "rank": 9,
-      "address": "0x8119010a6e589062aa03583bb3f39ca632d9f887",
-      "username": "PrincessCaro",
-      "profit": 6083643.099591745,
-      "volume": 23520809.952867,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x895de0a084eff2617c25241f941d1698df5011d5",
-      "side": "BUY",
-      "asset": "91642412125038849990060800585010952720079030592656478439947074071247062600646",
-      "conditionId": "0xdf714b44de860d823607d116d96ed7fdb1abc42b4b96819518b2556689966376",
-      "size": 5658.417909,
-      "price": 0.6503584673636025,
-      "timestamp": 1779409126,
-      "title": "Spread: Knicks (-5.5)",
-      "slug": "nba-cle-nyk-2026-05-21-spread-home-5pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-cle-nyk-2026-05-21",
-      "outcome": "Cavaliers",
-      "outcomeIndex": 1,
-      "name": "jiangfh",
-      "pseudonym": "Unconscious-Benefit",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x5b8388285c823683ec2a249273100a636a68db464d28e82b8de8c80f385ae706",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Spread: Knicks (-5.5)",
-    "market_slug": "nba-cle-nyk-2026-05-21",
-    "amount": 3679.999999
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x42f281d70b80f8428d54e92cf4e952a4efbc237553659e3a6b318e1b7eb63a37",
     "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
     "trader": {
@@ -28308,6 +28264,111 @@
       "signal_quality": 46.0,
       "stance": "WATCH_ONLY",
       "edge_percent": 23.85,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "LoL: Bilibili Gaming vs Top Esports (BO3) - LPL Group Ascend",
+    "market_slug": "lol-blg-tes-2026",
+    "event_slug": "lol-blg-tes-2026",
+    "wallet": "0x47d32ad3833524bfa9c06db85336098dfac4143f",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,008)",
+        "Low activity (2 txns)"
+      ],
+      "amount": 1007.6999989828256,
+      "odds": 0.8599999999,
+      "raw_price": 0.8599999999,
+      "outcome": "Bilibili Gaming",
+      "potential_pnl": 164.0441860171744,
+      "pnl_multiplier": 0.16279069780962682,
+      "wallet_age_days": 0,
+      "total_activities": 2
+    },
+    "timestamp": "2026-08-07T13:24:32.185755",
+    "trade_hash": "0xc9a23c4ba4b1a4bbf80869c9a5aa00674343107c891e65d5e995fd312ad33b6e",
+    "trade_timestamp": 1786108306,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Bilibili Gaming",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.8599999999,
+      "effective_price": 0.8599999999,
+      "size": 1171.744185,
+      "amount": 1007.6999989828256,
+      "potential_pnl": 164.0441860171744,
+      "pnl_multiplier": 0.16279069780962682,
+      "is_no": false,
+      "slug": "lol-blg-tes-2026",
+      "eventSlug": "lol-blg-tes-2026-08-07"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+36.0%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.5,
+      "market_price": 0.8599999999,
+      "edge": 0.3599999999,
+      "edge_percent": 35.99999999,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.3599999999,
+      "edge_percent": 35.99999999
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 46.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 36.0,
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
