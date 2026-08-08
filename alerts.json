@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x42f281d70b80f8428d54e92cf4e952a4efbc237553659e3a6b318e1b7eb63a37",
-    "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
-    "trader": {
-      "rank": 19,
-      "address": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
-      "username": "432614799197",
-      "profit": 4526176.046413317,
-      "volume": 185485956.8620829,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xc8075693f48668a264b9fa313b47f52712fcc12b",
-      "side": "BUY",
-      "asset": "109296116000591997684258556601662664726138174008340113625425262738492035522172",
-      "conditionId": "0x4742af12625579a8b3177bc9b312be9c1d73bb33c04442cc62ee3be5ed4f9b55",
-      "size": 2860.67,
-      "price": 0.63,
-      "timestamp": 1779494585,
-      "title": "Golden Knights vs. Avalanche",
-      "slug": "nhl-las-col-2026-05-22",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nhl.png",
-      "eventSlug": "nhl-las-col-2026-05-22",
-      "outcome": "Avalanche",
-      "outcomeIndex": 1,
-      "name": "texaskid",
-      "pseudonym": "Dutiful-Fur",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x42f281d70b80f8428d54e92cf4e952a4efbc237553659e3a6b318e1b7eb63a37",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Golden Knights vs. Avalanche",
-    "market_slug": "nhl-las-col-2026-05-22",
-    "amount": 1802.2221
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xab06807dbc4491dfac5b7398fc1490cffad714c9c0f15bbd8597a9afa424cc69",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -28369,6 +28325,109 @@
       "signal_quality": 46.0,
       "stance": "WATCH_ONLY",
       "edge_percent": 36.0,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Clarity Act (H.R.3633) signed into law in 2026?",
+    "market_slug": "clarity-act-signed-into-law-in-2026",
+    "event_slug": "clarity-act-signed-into-law-in-2026",
+    "wallet": "0x5aad5eb96989a5dad27206eee65ff158b35f9674",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($2,612)",
+        "Low activity (4 txns)"
+      ],
+      "amount": 2611.9973000000005,
+      "odds": 0.17,
+      "raw_price": 0.17,
+      "outcome": "Yes",
+      "potential_pnl": 12752.692700000001,
+      "pnl_multiplier": 4.88235294117647,
+      "wallet_age_days": 0,
+      "total_activities": 4
+    },
+    "timestamp": "2026-08-08T15:12:33.983924",
+    "trade_hash": "0x2a76676e2d6dc80ad85527f6c8636f93d69efbcc56506a6de7833569b79b40c7",
+    "trade_timestamp": 1786201509,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.17,
+      "effective_price": 0.17,
+      "size": 15364.69,
+      "amount": 2611.9973000000005,
+      "potential_pnl": 12752.6927,
+      "pnl_multiplier": 4.882352941176469,
+      "is_no": false,
+      "slug": "clarity-act-signed-into-law-in-2026",
+      "eventSlug": "clarity-act-signed-into-law-in-2026"
+    },
+    "irrationality": {
+      "irrationality_score": 10,
+      "flags": [],
+      "category": "politics_near",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.02,
+        "min_edge": 0.03
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.1355,
+      "market_price": 0.17,
+      "edge": 0.0345,
+      "edge_percent": 3.45,
+      "min_edge_required": 0.03,
+      "is_mispriced": true,
+      "edge_quality": "MODERATE",
+      "base_rate_class": "occasional",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "occasional",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 10,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.0345,
+      "edge_percent": 3.45
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 21.2,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 3.45,
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
