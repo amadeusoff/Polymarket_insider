@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xab06807dbc4491dfac5b7398fc1490cffad714c9c0f15bbd8597a9afa424cc69",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.51568201,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-      "side": "BUY",
-      "asset": "109515150530719747786374418065685704373014509424005004461250549968647314480252",
-      "conditionId": "0xdf2126cc7577d33f7413618d7c8f2699b3185a04097d220300d4f497188d5f4b",
-      "size": 1827,
-      "price": 0.9,
-      "timestamp": 1779540131,
-      "title": "Istanbul: Andrej Nedic vs David Jorda Sanchis",
-      "slug": "atp-nedic-sanchis-2026-05-23",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
-      "eventSlug": "atp-nedic-sanchis-2026-05-23",
-      "outcome": "David Jorda Sanchis",
-      "outcomeIndex": 1,
-      "name": "swisstony",
-      "pseudonym": "Frail-Possible",
-      "bio": "loincloth chic",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xab06807dbc4491dfac5b7398fc1490cffad714c9c0f15bbd8597a9afa424cc69",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Istanbul: Andrej Nedic vs David Jorda Sanchis",
-    "market_slug": "atp-nedic-sanchis-2026-05-23",
-    "amount": 1644.3
-  },
-  {
     "market": "FC Cincinnati vs. Orlando City SC: O/U 3.5",
     "market_slug": "mls-fcc-orl-2026-05-23-total-3pt5",
     "event_slug": "mls-fcc-orl-2026-05-23-total-3pt5",
@@ -28428,6 +28384,111 @@
       "signal_quality": 21.2,
       "stance": "WATCH_ONLY",
       "edge_percent": 3.45,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "National Bank Open: Aryna Sabalenka vs Ekaterina Alexandrova",
+    "market_slug": "wta-sabalen-alexand-2026",
+    "event_slug": "wta-sabalen-alexand-2026",
+    "wallet": "0xa6c0da86ff65973dccd21769d8b1c4220a573b42",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,003)",
+        "Low activity (2 txns)"
+      ],
+      "amount": 1003.4399990270133,
+      "odds": 0.4499999999,
+      "raw_price": 0.4499999999,
+      "outcome": "Aryna Sabalenka",
+      "potential_pnl": 1226.4266659729867,
+      "pnl_multiplier": 1.2222222227160495,
+      "wallet_age_days": 0,
+      "total_activities": 2
+    },
+    "timestamp": "2026-08-09T00:36:25.325110",
+    "trade_hash": "0x19c6085313987e3fbcde3ce3e2071abdb9ae0dd4f3050d70d4687172b9d60476",
+    "trade_timestamp": 1786235269,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Aryna Sabalenka",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.4499999999,
+      "effective_price": 0.4499999999,
+      "size": 2229.866665,
+      "amount": 1003.4399990270133,
+      "potential_pnl": 1226.4266659729867,
+      "pnl_multiplier": 1.2222222227160495,
+      "is_no": false,
+      "slug": "wta-sabalen-alexand-2026",
+      "eventSlug": "wta-sabalen-alexand-2026-08-09"
+    },
+    "irrationality": {
+      "irrationality_score": 25,
+      "flags": [
+        "Significant mispricing edge (+11.2%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.33749999996,
+      "market_price": 0.4499999999,
+      "edge": 0.11249999993999998,
+      "edge_percent": 11.249999993999998,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 25,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.11249999993999998,
+      "edge_percent": 11.249999993999998
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 35.9,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 11.25,
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
