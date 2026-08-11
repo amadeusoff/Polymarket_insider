@@ -1,153 +1,5 @@
 [
   {
-    "market": "FC Cincinnati vs. Orlando City SC: O/U 3.5",
-    "market_slug": "mls-fcc-orl-2026-05-23-total-3pt5",
-    "event_slug": "mls-fcc-orl-2026-05-23-total-3pt5",
-    "wallet": "0xe4d6b67b76916d069a0a25b63df71e835cf0308a",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($6,007)",
-        "Low activity (3 txns)"
-      ],
-      "amount": 6006.7361,
-      "odds": 0.43876847974322847,
-      "raw_price": 0.43876847974322847,
-      "outcome": "Under",
-      "potential_pnl": 7683.2539,
-      "pnl_multiplier": 1.2791062853585327,
-      "wallet_age_days": 0,
-      "total_activities": 3
-    },
-    "timestamp": "2026-05-23T14:20:11.523134",
-    "trade_hash": "0x42354faf03a9e305dee187c13624caf280ff227cfaa06540ef926b03949bde5e",
-    "trade_timestamp": 1779545624,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Under",
-      "outcomeIndex": 1,
-      "normalized_position": "NO",
-      "side": "BUY",
-      "price": 0.43876847974322847,
-      "effective_price": 0.43876847974322847,
-      "size": 13689.99,
-      "amount": 6006.7361,
-      "potential_pnl": 7683.2539,
-      "pnl_multiplier": 1.2791062853585327,
-      "is_no": true,
-      "slug": "mls-fcc-orl-2026-05-23-total-3pt5",
-      "eventSlug": "mls-fcc-orl-2026-05-23-more-markets"
-    },
-    "irrationality": {
-      "irrationality_score": 25,
-      "flags": [
-        "Significant mispricing edge (+10.6%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": false
-    },
-    "mispricing": {
-      "rational_estimate": 0.33300739189729134,
-      "market_price": 0.43876847974322847,
-      "edge": 0.10576108784593713,
-      "edge_percent": 10.576108784593712,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "low"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 2,
-        "conditions": [
-          "Unknown"
-        ],
-        "weakest_link": "Unknown"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Unknown"
-      ],
-      "confidence_in_analysis": "low"
-    },
-    "combined_signal": {
-      "signal_type": "ALPHA",
-      "signal_emoji": "\ud83d\udd25",
-      "signal_strength": 95,
-      "interpretation": "Smart money (NO) confirms YES is overpriced",
-      "action_suggestion": "High conviction: insider + statistics aligned",
-      "insider_score": 70,
-      "insider_position": "NO",
-      "irrationality_score": 25,
-      "is_irrational": false,
-      "is_mispriced": true,
-      "edge": 0.10576108784593713,
-      "edge_percent": 10.576108784593712
-    },
-    "financial_analyst": {
-      "signal_quality": 69.9,
-      "stance": "SELECTIVE",
-      "edge_percent": 10.58,
-      "signal_strength": 95.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x41cf7743a7ef86c0b404e9f7001fd44a0d262ab01c5c580f5b633528e7607b55",
-    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-    "trader": {
-      "rank": 19,
-      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
-      "profit": 4634172.468556148,
-      "volume": 60803769.26565602,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x56c9fbdeccf198f1f5ad95ace39b24f5f7fb0d9e",
-      "side": "BUY",
-      "asset": "29305251286127380219037449740238160825470566319549012920158109840256270908377",
-      "conditionId": "0xf54fd6723a8521e4af9b0c8b04bcbb1c74edea63b24f9168778ddcbee0c2e0fc",
-      "size": 5555,
-      "price": 0.89,
-      "timestamp": 1779546455,
-      "title": "Internationaux de Strasbourg: Victoria Mboko vs Emma Navarro",
-      "slug": "wta-mboko-navarro-2026-05-23",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wta-logo-41f331bdf1.png",
-      "eventSlug": "wta-mboko-navarro-2026-05-23",
-      "outcome": "Emma Navarro",
-      "outcomeIndex": 1,
-      "name": "redvinny",
-      "pseudonym": "Wrathful-Row",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x41cf7743a7ef86c0b404e9f7001fd44a0d262ab01c5c580f5b633528e7607b55",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Internationaux de Strasbourg: Victoria Mboko vs Emma Navarro",
-    "market_slug": "wta-mboko-navarro-2026-05-23",
-    "amount": 4943.95
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0x16fcdb5f331b9abc0a9030a3e10219887055a0570f430d97987c44c328b65da0",
     "wallet": "0xd0c042c08f755ff940249f62745e82d356345565",
@@ -28490,6 +28342,216 @@
       "signal_quality": 35.9,
       "stance": "WATCH_ONLY",
       "edge_percent": 11.25,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "National Bank Open: Rafael Jodar vs Arthur Fils",
+    "market_slug": "atp-jodar-fils-2026",
+    "event_slug": "atp-jodar-fils-2026",
+    "wallet": "0x2f44fa076c8d2976ac6bea0ddfd9502bad2b93c2",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($75,342)",
+        "Low activity (3 txns)"
+      ],
+      "amount": 75342.10489654703,
+      "odds": 0.5840832078,
+      "raw_price": 0.5840832078,
+      "outcome": "Rafael Jodar",
+      "potential_pnl": 53649.97001745297,
+      "pnl_multiplier": 0.7120848308010542,
+      "wallet_age_days": 0,
+      "total_activities": 3
+    },
+    "timestamp": "2026-08-11T15:11:14.413571",
+    "trade_hash": "0x3190b7c013f04887d8347785edea9435eb688082552f7299484ef3a56dcef762",
+    "trade_timestamp": 1786460764,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Rafael Jodar",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.5840832078,
+      "effective_price": 0.5840832078,
+      "size": 128992.074914,
+      "amount": 75342.10489654703,
+      "potential_pnl": 53649.97001745297,
+      "pnl_multiplier": 0.7120848308010542,
+      "is_no": false,
+      "slug": "atp-jodar-fils-2026",
+      "eventSlug": "atp-jodar-fils-2026-08-11"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+19.3%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.39113328311999995,
+      "market_price": 0.5840832078,
+      "edge": 0.19294992468000005,
+      "edge_percent": 19.294992468000004,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.19294992468000005,
+      "edge_percent": 19.294992468000004
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 46.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 19.29,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "National Bank Open: Rafael Jodar vs Arthur Fils",
+    "market_slug": "atp-jodar-fils-2026",
+    "event_slug": "atp-jodar-fils-2026",
+    "wallet": "0x2f44fa076c8d2976ac6bea0ddfd9502bad2b93c2",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($77,541)",
+        "Low activity (3 txns)"
+      ],
+      "amount": 77540.79509417897,
+      "odds": 0.5681894346,
+      "raw_price": 0.5681894346,
+      "outcome": "Rafael Jodar",
+      "potential_pnl": 58929.174905821026,
+      "pnl_multiplier": 0.7599764076992921,
+      "wallet_age_days": 0,
+      "total_activities": 3
+    },
+    "timestamp": "2026-08-11T15:11:16.599823",
+    "trade_hash": "0x280f6ed0f32fb591becdeae05253e4c26ad5a763709ee2034ca29e963a714ddc",
+    "trade_timestamp": 1786460764,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Rafael Jodar",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.5681894346,
+      "effective_price": 0.5681894346,
+      "size": 136469.97,
+      "amount": 77540.79509417897,
+      "potential_pnl": 58929.174905821026,
+      "pnl_multiplier": 0.7599764076992921,
+      "is_no": false,
+      "slug": "atp-jodar-fils-2026",
+      "eventSlug": "atp-jodar-fils-2026-08-11"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+18.3%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.38477577384,
+      "market_price": 0.5681894346,
+      "edge": 0.18341366076000004,
+      "edge_percent": 18.341366076000003,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.18341366076000004,
+      "edge_percent": 18.341366076000003
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 46.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 18.34,
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
