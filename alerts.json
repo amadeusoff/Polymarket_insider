@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x16fcdb5f331b9abc0a9030a3e10219887055a0570f430d97987c44c328b65da0",
-    "wallet": "0xd0c042c08f755ff940249f62745e82d356345565",
-    "trader": {
-      "rank": 18,
-      "address": "0xd0c042c08f755ff940249f62745e82d356345565",
-      "username": "alexmulti",
-      "profit": 4804855.613376001,
-      "volume": 9949068.653841998,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xdd517b727b1445d9744d23bba5856dd06e5f1041",
-      "side": "BUY",
-      "asset": "56859711240620816306068544538170709736429202210556865344659441535599141934781",
-      "conditionId": "0x052d611ba12b9916a9d3110366110977bfc15d2df798a748bafefc8b281df6e1",
-      "size": 5506.382977,
-      "price": 0.4699999999654946,
-      "timestamp": 1779558826,
-      "title": "Will Girona FC win on 2026-05-23?",
-      "slug": "lal-gir-elc-2026-05-23-gir",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-lal.png",
-      "eventSlug": "lal-gir-elc-2026-05-23",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "0xdd517b727B1445d9744D23BBa5856dd06E5F1041-1776442164856",
-      "pseudonym": "Nippy-Connection",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x16fcdb5f331b9abc0a9030a3e10219887055a0570f430d97987c44c328b65da0",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Girona FC win on 2026-05-23?",
-    "market_slug": "lal-gir-elc-2026-05-23",
-    "amount": 2587.999999
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xff81ea44a904fee154c4bed6db5628018f5d1c7f99cde492b409f9fde9007ffa",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -28552,6 +28508,111 @@
       "signal_quality": 46.0,
       "stance": "WATCH_ONLY",
       "edge_percent": 18.34,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Will Burgas host Eurovision 2027?",
+    "market_slug": "will-burgas-host-eurovision-2027",
+    "event_slug": "will-burgas-host-eurovision-2027",
+    "wallet": "0xb4703f13d4908799bc624cf5a1cb6328e84de971",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,672)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 1672.1499980738395,
+      "odds": 0.7124411728,
+      "raw_price": 0.7124411728,
+      "outcome": "Yes",
+      "potential_pnl": 674.9209769261606,
+      "pnl_multiplier": 0.4036246614858754,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-08-11T22:07:24.943753",
+    "trade_hash": "0x4d35f61f7e2452a4d620099a1bf93b165c3a8fe49d288c45c6ace2df41e32b09",
+    "trade_timestamp": 1786485519,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.7124411728,
+      "effective_price": 0.7124411728,
+      "size": 2347.070975,
+      "amount": 1672.1499980738395,
+      "potential_pnl": 674.9209769261606,
+      "pnl_multiplier": 0.4036246614858754,
+      "is_no": false,
+      "slug": "will-burgas-host-eurovision-2027",
+      "eventSlug": "eurovision-2027-city"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+27.0%)"
+      ],
+      "category": "other",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.44247646912,
+      "market_price": 0.7124411728,
+      "edge": 0.26996470368,
+      "edge_percent": 26.996470367999997,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "other",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.26996470368,
+      "edge_percent": 26.996470367999997
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 46.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 27.0,
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
