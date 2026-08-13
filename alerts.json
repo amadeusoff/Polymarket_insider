@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xff81ea44a904fee154c4bed6db5628018f5d1c7f99cde492b409f9fde9007ffa",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.51568201,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xd576b9ee74c58fcb913675fd9c1d14c85312d5e3",
-      "side": "BUY",
-      "asset": "42918220085288219341491829385501246298233444593663440094436147850542032590016",
-      "conditionId": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
-      "size": 3798.03,
-      "price": 0.5499473411215815,
-      "timestamp": 1779561535,
-      "title": "US x Iran permanent peace deal by May 31, 2026?",
-      "slug": "us-x-iran-permanent-peace-deal-by-may-31-2026-333-871-241-192-799-449-125",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-permanent-peace-deal-by-yYlzv70Hi7j9.jpg",
-      "eventSlug": "us-x-iran-permanent-peace-deal-by",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "inrock30",
-      "pseudonym": "Hidden-Roadway",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xff81ea44a904fee154c4bed6db5628018f5d1c7f99cde492b409f9fde9007ffa",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "US x Iran permanent peace deal by May 31, 2026?",
-    "market_slug": "us-x-iran-permanent-peace-deal-by",
-    "amount": 2088.7165000000005
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x863fa199e4fb279a239a7d5efa9c079d01f24f8ebc2c7862ecc0c669ee189211",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -28618,5 +28574,110 @@
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     },
     "resolution_last_check": "2026-08-12T07:27:36.734289+00:00"
+  },
+  {
+    "market": "UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card)",
+    "market_slug": "ufc-isl-ian1-2026",
+    "event_slug": "ufc-isl-ian1-2026",
+    "wallet": "0x06713bf55ae5adf41c468908dd42e18813f6adce",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,500)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 1499.9999980799998,
+      "odds": 0.76,
+      "raw_price": 0.76,
+      "outcome": "Islam Makhachev",
+      "potential_pnl": 473.68420991999983,
+      "pnl_multiplier": 0.31578947368421045,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-08-13T21:24:02.045879",
+    "trade_hash": "0x3ff25795ff1d11f972967e85787942e78409a321ad164b8d125b0ebd8c418b4f",
+    "trade_timestamp": 1786655610,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Islam Makhachev",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.76,
+      "effective_price": 0.76,
+      "size": 1973.684208,
+      "amount": 1499.9999980799998,
+      "potential_pnl": 473.68420992000006,
+      "pnl_multiplier": 0.3157894736842106,
+      "is_no": false,
+      "slug": "ufc-isl-ian1-2026",
+      "eventSlug": "ufc-isl-ian1-2026-08-15"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+29.8%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.4615,
+      "market_price": 0.76,
+      "edge": 0.2985,
+      "edge_percent": 29.849999999999998,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.2985,
+      "edge_percent": 29.849999999999998
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 46.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 29.85,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
