@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x863fa199e4fb279a239a7d5efa9c079d01f24f8ebc2c7862ecc0c669ee189211",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x4df332e27f9ee3224f52ce30e3ce15c1075e788f",
-      "side": "BUY",
-      "asset": "113682900647669814804184537230465082439673218922763972229748312674348545518149",
-      "conditionId": "0xecf43122094e880a3bb8b8e81376f58d22993176dc2ab14e3f0c70ff7a135ddb",
-      "size": 2997,
-      "price": 0.55,
-      "timestamp": 1779573932,
-      "title": "1H Spread: Cavaliers (-1.5)",
-      "slug": "nba-nyk-cle-2026-05-23-1h-spread-home-1pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-nyk-cle-2026-05-23",
-      "outcome": "Cavaliers",
-      "outcomeIndex": 0,
-      "name": "SunlineTicker",
-      "pseudonym": "Far-Precipitation",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x863fa199e4fb279a239a7d5efa9c079d01f24f8ebc2c7862ecc0c669ee189211",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "1H Spread: Cavaliers (-1.5)",
-    "market_slug": "nba-nyk-cle-2026-05-23",
-    "amount": 1648.3500000000001
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xa1304f02a818eaf57a83587c77844be9896435e8dcb3f86fbc3b4fb973747a4c",
     "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
     "trader": {
@@ -28675,6 +28631,112 @@
       "signal_quality": 46.0,
       "stance": "WATCH_ONLY",
       "edge_percent": 29.85,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Counter-Strike: PARIVISION vs 100 Thieves - Map 2 Winner",
+    "market_slug": "cs2-prv-100t-2026-08-14-game2",
+    "event_slug": "cs2-prv-100t-2026-08-14-game2",
+    "wallet": "0x2bc6c3915453c3d4e9e39d54f90f890ebb55315d",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($4,849)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 4849.42960023,
+      "odds": 0.4999411959,
+      "raw_price": 0.4999411959,
+      "outcome": "PARIVISION",
+      "potential_pnl": 4850.57039977,
+      "pnl_multiplier": 1.0002352440666313,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-08-14T18:29:06.178277",
+    "trade_hash": "0x636860be06c48de5fd24088183228d9cc1a1904adf978ad9e611bb961b9bded5",
+    "trade_timestamp": 1786731549,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "PARIVISION",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.4999411959,
+      "effective_price": 0.4999411959,
+      "size": 9700.0,
+      "amount": 4849.42960023,
+      "potential_pnl": 4850.57039977,
+      "pnl_multiplier": 1.0002352440666313,
+      "is_no": false,
+      "slug": "cs2-prv-100t-2026-08-14-game2",
+      "eventSlug": "cs2-prv-100t-2026-08-14"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Crisis keyword detected ('strike')",
+        "Significant mispricing edge (+14.2%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.35747647835999996,
+      "market_price": 0.4999411959,
+      "edge": 0.14246471754000006,
+      "edge_percent": 14.246471754000007,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.14246471754000006,
+      "edge_percent": 14.246471754000007
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 42.4,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 14.25,
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
