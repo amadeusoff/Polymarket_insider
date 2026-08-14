@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xa1304f02a818eaf57a83587c77844be9896435e8dcb3f86fbc3b4fb973747a4c",
-    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-    "trader": {
-      "rank": 19,
-      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
-      "profit": 4559452.816527762,
-      "volume": 60885325.78565601,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x8a98109fb0f1d87d9bfcb4486ba3587b95c51b92",
-      "side": "SELL",
-      "asset": "99566541619640652317512639709808184120400767516277184685355777020179304540844",
-      "conditionId": "0x20af55ab35186377b81219db6cb8615240cba42cea41731091be9484a5f5b122",
-      "size": 4000,
-      "price": 0.59,
-      "timestamp": 1779598308,
-      "title": "US x Iran permanent peace deal by July 31, 2026?",
-      "slug": "us-x-iran-permanent-peace-deal-by-july-31-2026-831",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-permanent-peace-deal-by-yYlzv70Hi7j9.jpg",
-      "eventSlug": "us-x-iran-permanent-peace-deal-by",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "0xd8dA6BF26964aF9D7eEd9e03E53415D37aA9604",
-      "pseudonym": "Blaring-Backdrop",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xa1304f02a818eaf57a83587c77844be9896435e8dcb3f86fbc3b4fb973747a4c",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "US x Iran permanent peace deal by July 31, 2026?",
-    "market_slug": "us-x-iran-permanent-peace-deal-by",
-    "amount": 2360.0
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x47be066a0e829171ac4fb9e6d9498b3b7f87db9c2a29fdfc9f2828aef294c136",
     "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
     "trader": {
@@ -28737,6 +28693,111 @@
       "signal_quality": 42.4,
       "stance": "WATCH_ONLY",
       "edge_percent": 14.25,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
+    "market_slug": "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election",
+    "event_slug": "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election",
+    "wallet": "0x8dc98564315c586f849fd5afbe3152019b77434f",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,059)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 1058.999999055788,
+      "odds": 0.7129292765,
+      "raw_price": 0.7129292765,
+      "outcome": "Yes",
+      "potential_pnl": 426.42083294421195,
+      "pnl_multiplier": 0.40266367641587514,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-08-14T22:02:07.607941",
+    "trade_hash": "0x2d0f5bd3423a65cba3857d7c6a8d15b05e240cbaebfc7d149c5e518f76fafdd0",
+    "trade_timestamp": 1786744413,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.7129292765,
+      "effective_price": 0.7129292765,
+      "size": 1485.420832,
+      "amount": 1058.999999055788,
+      "potential_pnl": 426.42083294421195,
+      "pnl_multiplier": 0.40266367641587514,
+      "is_no": false,
+      "slug": "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election",
+      "eventSlug": "which-party-will-gain-most-seats-in-russian-parliamentary-election"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+27.0%)"
+      ],
+      "category": "other",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.4426717106,
+      "market_price": 0.7129292765,
+      "edge": 0.27025756590000005,
+      "edge_percent": 27.025756590000004,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "other",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.27025756590000005,
+      "edge_percent": 27.025756590000004
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 46.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 27.03,
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
