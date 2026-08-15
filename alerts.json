@@ -1,94 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xa3bd38a53f6abe68b231a4583860291d12fcb5328d2f1cf9198ed6da3e91f946",
-    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-    "trader": {
-      "rank": 19,
-      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
-      "profit": 4559437.168827762,
-      "volume": 60885325.785656,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x6832c74809f5b0ace45acacfed7ffa9195b0831f",
-      "side": "BUY",
-      "asset": "90125261950635082369999394077405627872400050152506106415139469381304502433896",
-      "conditionId": "0x0a6ba6cabc07c3022f7134d5bbaba7c04e1bd530b0812cd34da37089ed4ed22b",
-      "size": 2000,
-      "price": 0.84,
-      "timestamp": 1779616476,
-      "title": "Counter-Strike: Team Falcons vs Legacy (BO5) - CS Asia Championships Playoffs",
-      "slug": "cs2-fal2-lgc-2026-05-24",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/counter-strike-image-16c415c538.png",
-      "eventSlug": "cs2-fal2-lgc-2026-05-24",
-      "outcome": "Legacy",
-      "outcomeIndex": 1,
-      "name": "0x6832c74809F5b0aCe45acAcFeD7Ffa9195b0831F-1773664958328",
-      "pseudonym": "Forceful-Guilder",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xa3bd38a53f6abe68b231a4583860291d12fcb5328d2f1cf9198ed6da3e91f946",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Counter-Strike: Team Falcons vs Legacy (BO5) - CS Asia Championships Playoffs",
-    "market_slug": "cs2-fal2-lgc-2026-05-24",
-    "amount": 1680.0
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xd0919a0e799161b6847d6e6c1c1d1b2c98730cd9e486323e718b6235d2279b4c",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.51568201,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x1eaf5d5f822dc5211c25b5839e5b7aa70f319bf0",
-      "side": "BUY",
-      "asset": "99275187541062011006807789863743159473501826021191837627956462037611652608627",
-      "conditionId": "0x8cd072c22615f0afcb9aeccf494bff56506444990d85f1ae5008808d12d07496",
-      "size": 19938,
-      "price": 0.3,
-      "timestamp": 1779624591,
-      "title": "Will C\u00e1diz CF vs. CD Legan\u00e9s end in a draw?",
-      "slug": "es2-cad-leg-2026-05-24-draw",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/laliga-2-031640e567.jpg",
-      "eventSlug": "es2-cad-leg-2026-05-24",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "LYnetLY",
-      "pseudonym": "Reckless-Silence",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xd0919a0e799161b6847d6e6c1c1d1b2c98730cd9e486323e718b6235d2279b4c",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will C\u00e1diz CF vs. CD Legan\u00e9s end in a draw?",
-    "market_slug": "es2-cad-leg-2026-05-24",
-    "amount": 5981.4
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xc49b02398bf8ba6c477b53b60e2c0f6c81b0fd99ad14b8ded3b865d31c79350f",
     "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
     "trader": {
@@ -28921,6 +28833,216 @@
       "signal_quality": 37.7,
       "stance": "WATCH_ONLY",
       "edge_percent": 12.45,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Spread: New York Yankees (-1.5)",
+    "market_slug": "mlb-nyy-tor-2026-08-15-spread-away-1pt5",
+    "event_slug": "mlb-nyy-tor-2026-08-15-spread-away-1pt5",
+    "wallet": "0xf2b51ac841854ede9bf46f3e38dea6d979d32e6d",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($3,327)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 3327.069999281689,
+      "odds": 0.5179475573,
+      "raw_price": 0.5179475573,
+      "outcome": "Toronto Blue Jays",
+      "potential_pnl": 3096.495383718311,
+      "pnl_multiplier": 0.9306973957226152,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-08-15T17:57:00.145734",
+    "trade_hash": "0x48a8e7cc6ddb22db7642a525c248348c7826c0cf5a2478eafc379015559ff45d",
+    "trade_timestamp": 1786816000,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Toronto Blue Jays",
+      "outcomeIndex": 1,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.5179475573,
+      "effective_price": 0.5179475573,
+      "size": 6423.565383,
+      "amount": 3327.069999281689,
+      "potential_pnl": 3096.495383718311,
+      "pnl_multiplier": 0.9306973957226152,
+      "is_no": false,
+      "slug": "mlb-nyy-tor-2026-08-15-spread-away-1pt5",
+      "eventSlug": "mlb-nyy-tor-2026-08-15"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+15.3%)"
+      ],
+      "category": "other",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.36467902292,
+      "market_price": 0.5179475573,
+      "edge": 0.15326853438,
+      "edge_percent": 15.326853437999999,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "other",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.15326853438,
+      "edge_percent": 15.326853437999999
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 44.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 15.33,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "New York Yankees vs. Toronto Blue Jays: O/U 6.5",
+    "market_slug": "mlb-nyy-tor-2026-08-15-total-6pt5",
+    "event_slug": "mlb-nyy-tor-2026-08-15-total-6pt5",
+    "wallet": "0x6f48f5a16eebab6de61775afa7eeaef93db2235c",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,166)",
+        "Low activity (2 txns)"
+      ],
+      "amount": 1166.4499990322965,
+      "odds": 0.5899999999,
+      "raw_price": 0.5899999999,
+      "outcome": "Over",
+      "potential_pnl": 810.5838979677035,
+      "pnl_multiplier": 0.694915254524562,
+      "wallet_age_days": 0,
+      "total_activities": 2
+    },
+    "timestamp": "2026-08-15T17:57:07.609763",
+    "trade_hash": "0xca6a9175e192d3e055a1cd30158815661bf6bd432ee35c15b43f2936cf8a80c1",
+    "trade_timestamp": 1786815855,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Over",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.5899999999,
+      "effective_price": 0.5899999999,
+      "size": 1977.033897,
+      "amount": 1166.4499990322965,
+      "potential_pnl": 810.5838979677035,
+      "pnl_multiplier": 0.694915254524562,
+      "is_no": false,
+      "slug": "mlb-nyy-tor-2026-08-15-total-6pt5",
+      "eventSlug": "mlb-nyy-tor-2026-08-15"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+19.6%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.39349999995999996,
+      "market_price": 0.5899999999,
+      "edge": 0.19649999994,
+      "edge_percent": 19.649999994,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.19649999994,
+      "edge_percent": 19.649999994
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 46.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 19.65,
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
