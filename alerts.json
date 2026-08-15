@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x36ac02cda17b6867e9e643c5e6c5a99a7d95365e3c86efdb79d0e0093a1b4ffa",
-    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-    "trader": {
-      "rank": 19,
-      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
-      "profit": 4559452.816527762,
-      "volume": 60885325.78565601,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x8a98109fb0f1d87d9bfcb4486ba3587b95c51b92",
-      "side": "BUY",
-      "asset": "52965156717339871692714186660785951310421831919562520539239006775699853846973",
-      "conditionId": "0x421bc1929df1429cf2cb94f80c1ce6a3ed0d1f0b7a2749b9890075f94eb549e9",
-      "size": 4000,
-      "price": 0.72,
-      "timestamp": 1779598308,
-      "title": "US x Iran permanent peace deal by May 26, 2026?",
-      "slug": "us-x-iran-permanent-peace-deal-by-may-26-2026",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-permanent-peace-deal-by-yYlzv70Hi7j9.jpg",
-      "eventSlug": "us-x-iran-permanent-peace-deal-by",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "0xd8dA6BF26964aF9D7eEd9e03E53415D37aA9604",
-      "pseudonym": "Blaring-Backdrop",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x36ac02cda17b6867e9e643c5e6c5a99a7d95365e3c86efdb79d0e0093a1b4ffa",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "US x Iran permanent peace deal by May 26, 2026?",
-    "market_slug": "us-x-iran-permanent-peace-deal-by",
-    "amount": 2880.0
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xa3bd38a53f6abe68b231a4583860291d12fcb5328d2f1cf9198ed6da3e91f946",
     "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
     "trader": {
@@ -28860,6 +28816,111 @@
       "signal_quality": 28.4,
       "stance": "WATCH_ONLY",
       "edge_percent": 7.22,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "New York Liberty vs. Connecticut Sun: O/U 171.5",
+    "market_slug": "wnba-nyl-conn-2026-08-15-total-171pt5",
+    "event_slug": "wnba-nyl-conn-2026-08-15-total-171pt5",
+    "wallet": "0xb4c8b96f00848679d884d34da9da55a31afe8f5a",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,084)",
+        "Low activity (4 txns)"
+      ],
+      "amount": 1084.2101,
+      "odds": 0.47,
+      "raw_price": 0.47,
+      "outcome": "Over",
+      "potential_pnl": 1222.6199000000004,
+      "pnl_multiplier": 1.1276595744680855,
+      "wallet_age_days": 0,
+      "total_activities": 4
+    },
+    "timestamp": "2026-08-15T15:29:40.245752",
+    "trade_hash": "0x5a543b260281d3c1f8981ab935a071292e59331cc2765ac12bc93431bd20aacc",
+    "trade_timestamp": 1786807252,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Over",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.47,
+      "effective_price": 0.47,
+      "size": 2306.83,
+      "amount": 1084.2101,
+      "potential_pnl": 1222.6199,
+      "pnl_multiplier": 1.127659574468085,
+      "is_no": false,
+      "slug": "wnba-nyl-conn-2026-08-15-total-171pt5",
+      "eventSlug": "wnba-nyl-conn-2026-08-15"
+    },
+    "irrationality": {
+      "irrationality_score": 25,
+      "flags": [
+        "Significant mispricing edge (+12.4%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.3455,
+      "market_price": 0.47,
+      "edge": 0.1245,
+      "edge_percent": 12.45,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 25,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.1245,
+      "edge_percent": 12.45
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 37.7,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 12.45,
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
