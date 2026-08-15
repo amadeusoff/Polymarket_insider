@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x47be066a0e829171ac4fb9e6d9498b3b7f87db9c2a29fdfc9f2828aef294c136",
-    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-    "trader": {
-      "rank": 19,
-      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
-      "profit": 4559452.816527762,
-      "volume": 60885325.78565601,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x430fc12ac13646b962c98dd73e159488812f5947",
-      "side": "BUY",
-      "asset": "42918220085288219341491829385501246298233444593663440094436147850542032590016",
-      "conditionId": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
-      "size": 13365.68,
-      "price": 0.6355552055712841,
-      "timestamp": 1779598308,
-      "title": "US x Iran permanent peace deal by May 31, 2026?",
-      "slug": "us-x-iran-permanent-peace-deal-by-may-31-2026-333-871-241-192-799-449-125",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-permanent-peace-deal-by-yYlzv70Hi7j9.jpg",
-      "eventSlug": "us-x-iran-permanent-peace-deal-by",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "5245242",
-      "pseudonym": "Altruistic-Dirt",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x47be066a0e829171ac4fb9e6d9498b3b7f87db9c2a29fdfc9f2828aef294c136",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "US x Iran permanent peace deal by May 31, 2026?",
-    "market_slug": "us-x-iran-permanent-peace-deal-by",
-    "amount": 8494.6275
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x36ac02cda17b6867e9e643c5e6c5a99a7d95365e3c86efdb79d0e0093a1b4ffa",
     "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
     "trader": {
@@ -28803,5 +28759,110 @@
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     },
     "resolution_last_check": "2026-08-15T06:40:59.215434+00:00"
+  },
+  {
+    "market": "Will the fight be won by submission?",
+    "market_slug": "ufc-isl-ian1-2026-08-15-win-by-submission",
+    "event_slug": "ufc-isl-ian1-2026-08-15-win-by-submission",
+    "wallet": "0x2f3c7c452775fda36ea69e4506a2300eebc56c2c",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($3,000)",
+        "Low activity (3 txns)"
+      ],
+      "amount": 2999.9999992211706,
+      "odds": 0.382796796,
+      "raw_price": 0.382796796,
+      "outcome": "Yes",
+      "potential_pnl": 4837.05618977883,
+      "pnl_multiplier": 1.6123520636781925,
+      "wallet_age_days": 0,
+      "total_activities": 3
+    },
+    "timestamp": "2026-08-15T09:59:21.273515",
+    "trade_hash": "0xb6bbcfcda47b98f28115ed14f715ed7b7e1c207d624c6833fb26649fa02f2da5",
+    "trade_timestamp": 1786786963,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.382796796,
+      "effective_price": 0.382796796,
+      "size": 7837.056189,
+      "amount": 2999.9999992211706,
+      "potential_pnl": 4837.056189778829,
+      "pnl_multiplier": 1.6123520636781923,
+      "is_no": false,
+      "slug": "ufc-isl-ian1-2026-08-15-win-by-submission",
+      "eventSlug": "ufc-isl-ian1-2026-08-15"
+    },
+    "irrationality": {
+      "irrationality_score": 18,
+      "flags": [
+        "Moderate mispricing edge (+7.2%)"
+      ],
+      "category": "other",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.3106187184,
+      "market_price": 0.382796796,
+      "edge": 0.0721780776,
+      "edge_percent": 7.21780776,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "MODERATE",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "other",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 18,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.0721780776,
+      "edge_percent": 7.21780776
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 28.4,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 7.22,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
