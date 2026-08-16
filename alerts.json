@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xc49b02398bf8ba6c477b53b60e2c0f6c81b0fd99ad14b8ded3b865d31c79350f",
-    "wallet": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-    "trader": {
-      "rank": 19,
-      "address": "0x006cc834cc092684f1b56626e23bedb3835c16ea",
-      "username": "0x006cc834Cc092684F1B56626E23BEdB3835c16ea-1729683673397",
-      "profit": 4559405.134094985,
-      "volume": 60885325.785656005,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xae5123e8a2f7125e9479d5916b37b7274ab61d03",
-      "side": "BUY",
-      "asset": "47867773985840009536154438797531138745207475715068405225786084090456963764336",
-      "conditionId": "0xf1393f9076b29364f7db272a17882cc9a00792d440ecf1ea3a4ff9e795726f3b",
-      "size": 7159.02,
-      "price": 0.2992587812298331,
-      "timestamp": 1779625193,
-      "title": "Roland Garros ATP: Alejandro Davidovich Fokina vs Damir Dzumhur",
-      "slug": "atp-fokina-dzumhur-2026-05-24",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
-      "eventSlug": "atp-fokina-dzumhur-2026-05-24",
-      "outcome": "Alejandro Davidovich Fokina",
-      "outcomeIndex": 0,
-      "name": "",
-      "pseudonym": "",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xc49b02398bf8ba6c477b53b60e2c0f6c81b0fd99ad14b8ded3b865d31c79350f",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Roland Garros ATP: Alejandro Davidovich Fokina vs Damir Dzumhur",
-    "market_slug": "atp-fokina-dzumhur-2026-05-24",
-    "amount": 2142.3996
-  },
-  {
     "market": "US announces new Iran agreement/ceasefire extension by May 26?",
     "market_slug": "us-announces-new-iran-agreementceasefire-extension-by-may-26",
     "event_slug": "us-announces-new-iran-agreementceasefire-extension-by-may-26",
@@ -29045,6 +29001,111 @@
       "edge_percent": 19.65,
       "signal_strength": 70.0,
       "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Will Nigma Galaxy Win The International 2026?",
+    "market_slug": "will-nigma-galaxy-win-the-international-2026-20260629212053623",
+    "event_slug": "will-nigma-galaxy-win-the-international-2026-20260629212053623",
+    "wallet": "0x18966802010ac5cf1d337711c87023fdeefda7d6",
+    "analysis": {
+      "score": 85,
+      "flags": [
+        "New wallet (2d old)",
+        "Against trend (8.9% effective odds)",
+        "Large bet ($2,071)"
+      ],
+      "amount": 2070.504310784,
+      "odds": 0.088878104,
+      "raw_price": 0.088878104,
+      "outcome": "Yes",
+      "potential_pnl": 21225.495689216004,
+      "pnl_multiplier": 10.251365128130997,
+      "wallet_age_days": 2,
+      "total_activities": 100
+    },
+    "timestamp": "2026-08-16T12:36:52.057060",
+    "trade_hash": "0x0bed1ec079bd71e71403292614b4189127ca7c12eb634af191c3e884d736db4e",
+    "trade_timestamp": 1786883347,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.088878104,
+      "effective_price": 0.088878104,
+      "size": 23296.0,
+      "amount": 2070.504310784,
+      "potential_pnl": 21225.495689216,
+      "pnl_multiplier": 10.251365128130995,
+      "is_no": false,
+      "slug": "will-nigma-galaxy-win-the-international-2026-20260629212053623",
+      "eventSlug": "the-international-2026-winner-20260629212545745"
+    },
+    "irrationality": {
+      "irrationality_score": 25,
+      "flags": [
+        "Longshot (9%) in medium bias category (politics_near)"
+      ],
+      "category": "politics_near",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.02,
+        "min_edge": 0.03
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.0580512416,
+      "market_price": 0.088878104,
+      "edge": 0.030826862400000002,
+      "edge_percent": 3.08268624,
+      "min_edge_required": 0.03,
+      "is_mispriced": true,
+      "edge_quality": "MODERATE",
+      "base_rate_class": "rare",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "rare",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 85,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 85,
+      "insider_position": "YES",
+      "irrationality_score": 25,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.030826862400000002,
+      "edge_percent": 3.08268624
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 26.6,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 3.08,
+      "signal_strength": 85.0,
+      "insider_score": 85.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
   }
