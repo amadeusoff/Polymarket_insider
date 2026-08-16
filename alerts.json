@@ -1,127 +1,5 @@
 [
   {
-    "market": "US announces new Iran agreement/ceasefire extension by May 26?",
-    "market_slug": "us-announces-new-iran-agreementceasefire-extension-by-may-26",
-    "event_slug": "us-announces-new-iran-agreementceasefire-extension-by-may-26",
-    "wallet": "0xbaa2bcb5439e985ce4ccf815b4700027d1b92c73",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "Pre-event latency: 1964m",
-        "Top trader #50 ($2,000,115 profit)"
-      ],
-      "amount": 659.9999999999999,
-      "odds": 0.21999999999999997,
-      "raw_price": 0.78,
-      "outcome": "No",
-      "potential_pnl": 2340.0,
-      "pnl_multiplier": 3.545454545454546,
-      "wallet_age_days": 619,
-      "total_activities": 100
-    },
-    "timestamp": "2026-05-24T15:19:26.617160",
-    "trade_hash": "0x747782facd137d407756a073488c588cde3a9a6b53f585709b70e659557e0cae",
-    "trade_timestamp": 1779635737,
-    "latency": {
-      "latency_seconds": 117863.0,
-      "latency_minutes": 1964.3833333333334,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-05-24T15:15:37+00:00",
-      "event_time": "2026-05-26T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "top_trader": {
-      "rank": 50,
-      "address": "0xbaa2bcb5439e985ce4ccf815b4700027d1b92c73",
-      "username": "denizz",
-      "profit": 2000115.155466207,
-      "volume": 76203507.814764,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade_data": {
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "normalized_position": "NO",
-      "side": "BUY",
-      "price": 0.78,
-      "effective_price": 0.78,
-      "size": 3000.0,
-      "amount": 2340.0,
-      "potential_pnl": 660.0,
-      "pnl_multiplier": 0.28205128205128205,
-      "is_no": true,
-      "slug": "us-announces-new-iran-agreementceasefire-extension-by-may-26",
-      "eventSlug": "us-announces-new-iran-agreementceasefire-extension-by"
-    },
-    "irrationality": {
-      "irrationality_score": 40,
-      "flags": [
-        "Category structurally prone to longshot bias",
-        "Large mispricing edge (+28.0%)"
-      ],
-      "category": "geopolitics",
-      "category_info": {
-        "strength": "high",
-        "typical_overpricing": 0.05,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.5,
-      "market_price": 0.78,
-      "edge": 0.28,
-      "edge_percent": 28.000000000000004,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "low"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 2,
-        "conditions": [
-          "Unknown"
-        ],
-        "weakest_link": "Unknown"
-      },
-      "category": "geopolitics",
-      "narrative_drivers": [
-        "Unknown"
-      ],
-      "confidence_in_analysis": "low"
-    },
-    "combined_signal": {
-      "signal_type": "ALPHA",
-      "signal_emoji": "\ud83d\udd25",
-      "signal_strength": 110,
-      "interpretation": "Smart money (NO) confirms YES is overpriced",
-      "action_suggestion": "High conviction: insider + statistics aligned",
-      "insider_score": 70,
-      "insider_position": "NO",
-      "irrationality_score": 40,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.28,
-      "edge_percent": 28.000000000000004
-    },
-    "financial_analyst": {
-      "signal_quality": 82.0,
-      "stance": "HIGH_CONVICTION",
-      "edge_percent": 28.0,
-      "signal_strength": 110.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-05-25T10:08:50.264477+00:00"
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0x852a688b63b33da2792ba12b3e799841fcf8df0faf1008d3ca39f6c245c2469f",
     "wallet": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
@@ -29106,6 +28984,113 @@
       "edge_percent": 3.08,
       "signal_strength": 85.0,
       "insider_score": 85.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Exact Score: RCD Espanyol de Barcelona 0 - 0 Levante UD?",
+    "market_slug": "lal-esp-lev-2026-08-16-exact-score",
+    "event_slug": "lal-esp-lev-2026-08-16-exact-score",
+    "wallet": "0xd477e04739d72f9b8da9b169f2cc371c001dd525",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,225)",
+        "Low activity (3 txns)"
+      ],
+      "amount": 1224.9999987931199,
+      "odds": 0.1133004648,
+      "raw_price": 0.1133004648,
+      "outcome": "Yes",
+      "potential_pnl": 9586.95916620688,
+      "pnl_multiplier": 7.82608912298125,
+      "wallet_age_days": 0,
+      "total_activities": 3
+    },
+    "timestamp": "2026-08-16T15:54:42.006603",
+    "trade_hash": "0xe41a2c7dd3a9f4cd487285301bc6e5d271935df27f6a822f8bebc745b1d17036",
+    "trade_timestamp": 1786895373,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.1133004648,
+      "effective_price": 0.1133004648,
+      "size": 10811.959165,
+      "amount": 1224.9999987931199,
+      "potential_pnl": 9586.95916620688,
+      "pnl_multiplier": 7.82608912298125,
+      "is_no": false,
+      "slug": "lal-esp-lev-2026-08-16-exact-score",
+      "eventSlug": "lal-esp-lev-2026-08-16-exact-score"
+    },
+    "irrationality": {
+      "irrationality_score": 63,
+      "flags": [
+        "Longshot (11%) in very high bias category (meme)",
+        "Category structurally prone to longshot bias",
+        "Moderate mispricing edge (+6.4%)"
+      ],
+      "category": "meme",
+      "category_info": {
+        "strength": "very_high",
+        "typical_overpricing": 0.07,
+        "min_edge": 0.03
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.048920185920000005,
+      "market_price": 0.1133004648,
+      "edge": 0.06438027888,
+      "edge_percent": 6.438027888000001,
+      "min_edge_required": 0.03,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "historically_near_zero",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "historically_near_zero",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "meme",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 63,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.06438027888,
+      "edge_percent": 6.438027888000001
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 36.3,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 6.44,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
   }
