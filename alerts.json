@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x3e3ece1ef8a0b351e1feba32ada76b066550617a1a0832757f468bba59bd915e",
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "trader": {
-      "rank": 5,
-      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-      "username": "swisstony",
-      "profit": 8828805.399263168,
-      "volume": 810901322.6324142,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x09af203b5af180c61d54eea118a4548a1f209728",
-      "side": "BUY",
-      "asset": "77366692795049180022823802442100002488780939586153664653232859879932243200775",
-      "conditionId": "0xbf8a20565edd1c65ed541838e74274ab514f05228c4df1c1715edb8f9d83dd0f",
-      "size": 3565.019229,
-      "price": 0.5199999999775597,
-      "timestamp": 1779640257,
-      "title": "Cleveland Guardians vs. Philadelphia Phillies",
-      "slug": "mlb-cle-phi-2026-05-24",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
-      "eventSlug": "mlb-cle-phi-2026-05-24",
-      "outcome": "Cleveland Guardians",
-      "outcomeIndex": 0,
-      "name": "mlbman",
-      "pseudonym": "Warped-Partner",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x3e3ece1ef8a0b351e1feba32ada76b066550617a1a0832757f468bba59bd915e",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Cleveland Guardians vs. Philadelphia Phillies",
-    "market_slug": "mlb-cle-phi-2026-05-24",
-    "amount": 1853.809999
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x8a602d043e1b7ff6595a8b20ed701d33443e00f8da49d061e0602165bd1d090a",
     "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
     "trader": {
@@ -29151,6 +29107,111 @@
       "signal_quality": 27.3,
       "stance": "WATCH_ONLY",
       "edge_percent": 6.45,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Roehampton: Iliyan Radulov vs Johannus Monday",
+    "market_slug": "atp-radulov-monday-2026",
+    "event_slug": "atp-radulov-monday-2026",
+    "wallet": "0xdb99281d4bea9d8b0b915507c540ba1edc50fcc3",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,062)",
+        "Low activity (2 txns)"
+      ],
+      "amount": 1062.069999083007,
+      "odds": 0.4299999999,
+      "raw_price": 0.4299999999,
+      "outcome": "Iliyan Radulov",
+      "potential_pnl": 1407.860231916993,
+      "pnl_multiplier": 1.32558139588967,
+      "wallet_age_days": 0,
+      "total_activities": 2
+    },
+    "timestamp": "2026-08-17T14:19:39.549075",
+    "trade_hash": "0x0c92510fbc99631416e4f87462db772b0c752c1577a2a3ba93d65eb9fa3504c0",
+    "trade_timestamp": 1786975972,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Iliyan Radulov",
+      "outcomeIndex": 999,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.4299999999,
+      "effective_price": 0.4299999999,
+      "size": 2469.930231,
+      "amount": 1062.069999083007,
+      "potential_pnl": 1407.860231916993,
+      "pnl_multiplier": 1.32558139588967,
+      "is_no": false,
+      "slug": "atp-radulov-monday-2026",
+      "eventSlug": ""
+    },
+    "irrationality": {
+      "irrationality_score": 25,
+      "flags": [
+        "Significant mispricing edge (+10.0%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.32949999996,
+      "market_price": 0.4299999999,
+      "edge": 0.10049999993999997,
+      "edge_percent": 10.049999993999997,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 25,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.10049999993999997,
+      "edge_percent": 10.049999993999997
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 34.1,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 10.05,
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
