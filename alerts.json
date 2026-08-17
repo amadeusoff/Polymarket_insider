@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x8a602d043e1b7ff6595a8b20ed701d33443e00f8da49d061e0602165bd1d090a",
-    "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
-    "trader": {
-      "rank": 8,
-      "address": "0x863134d00841b2e200492805a01e1e2f5defaa53",
-      "username": "RepTrump",
-      "profit": 7532409.671579,
-      "volume": 13983231.103425,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x2b9f4287d2ded1e7abdfef6f7a7b0d7da507047e",
-      "side": "BUY",
-      "asset": "27504999938621945521538679010054566905065186651031414215427972487021755343971",
-      "conditionId": "0x7da2328022bf3bdf1031ba70d2df4571c88d717bab8de9f2f1cbaccd1378c279",
-      "size": 1965.295977,
-      "price": 0.9158925775382076,
-      "timestamp": 1779644452,
-      "title": "Indian Premier League: Kolkata Knight Riders vs Delhi Capitals",
-      "slug": "cricipl-kol-del-2026-05-24",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
-      "eventSlug": "cricipl-kol-del-2026-05-24",
-      "outcome": "Delhi Capitals",
-      "outcomeIndex": 1,
-      "name": "psyph3r",
-      "pseudonym": "Frail-Military",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3778827-8ce12ae7-26fc-4a2b-94b5-9df901cb2427.png",
-      "profileImageOptimized": "",
-      "transactionHash": "0x8a602d043e1b7ff6595a8b20ed701d33443e00f8da49d061e0602165bd1d090a",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Indian Premier League: Kolkata Knight Riders vs Delhi Capitals",
-    "market_slug": "cricipl-kol-del-2026-05-24",
-    "amount": 1799.999998
-  },
-  {
     "market": "Will Spain win the 2026 FIFA World Cup?",
     "market_slug": "will-spain-win-the-2026-fifa-world-cup-963",
     "event_slug": "will-spain-win-the-2026-fifa-world-cup-963",
@@ -29212,6 +29168,111 @@
       "signal_quality": 34.1,
       "stance": "WATCH_ONLY",
       "edge_percent": 10.05,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "St. Louis Cardinals vs. Cincinnati Reds",
+    "market_slug": "mlb-stl-cin-2026",
+    "event_slug": "mlb-stl-cin-2026",
+    "wallet": "0x79a84f6634fbbb216ddb5974d89bab7cd2524375",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($3,830)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 3830.1599986773285,
+      "odds": 0.5299999999,
+      "raw_price": 0.5299999999,
+      "outcome": "St. Louis Cardinals",
+      "potential_pnl": 3396.5569813226716,
+      "pnl_multiplier": 0.8867924531861872,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-08-17T15:22:24.686748",
+    "trade_hash": "0x48ea9523b8adc12fc3aaa6ecffdde9c5977ca7ba653fbcaec862441a8a8d97b7",
+    "trade_timestamp": 1786979592,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "St. Louis Cardinals",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.5299999999,
+      "effective_price": 0.5299999999,
+      "size": 7226.71698,
+      "amount": 3830.1599986773285,
+      "potential_pnl": 3396.5569813226716,
+      "pnl_multiplier": 0.8867924531861872,
+      "is_no": false,
+      "slug": "mlb-stl-cin-2026",
+      "eventSlug": "mlb-stl-cin-2026-08-17"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+16.0%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.36949999996,
+      "market_price": 0.5299999999,
+      "edge": 0.16049999994000003,
+      "edge_percent": 16.049999994000004,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.16049999994000003,
+      "edge_percent": 16.049999994000004
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 45.1,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 16.05,
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
