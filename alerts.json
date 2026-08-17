@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x852a688b63b33da2792ba12b3e799841fcf8df0faf1008d3ca39f6c245c2469f",
-    "wallet": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
-    "trader": {
-      "rank": 3,
-      "address": "0x6a72f61820b26b1fe4d956e17b6dc2a1ea3033ee",
-      "username": "kch123",
-      "profit": 11870938.247376421,
-      "volume": 291998405.24754006,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x44c58184f89a5c2f699dc8943009cb3d75a08d45",
-      "side": "SELL",
-      "asset": "100802412482311950176831794268836517445142932463036659683561935538612212344064",
-      "conditionId": "0xbd1f142f4429d29a740419f424a5ad5f70d53c4b70762c47e91c98995aa84e89",
-      "size": 9310.13,
-      "price": 0.55,
-      "timestamp": 1779636032,
-      "title": "Will Liverpool FC win on 2026-05-24?",
-      "slug": "epl-liv-bre-2026-05-24-liv",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/premier+league.jpg",
-      "eventSlug": "epl-liv-bre-2026-05-24",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "JhonAlexanderHinestroza",
-      "pseudonym": "Plastic-Pet",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-4630487-c5ac6217-e02b-49cb-858e-73ab628847a6.jpeg",
-      "profileImageOptimized": "",
-      "transactionHash": "0x852a688b63b33da2792ba12b3e799841fcf8df0faf1008d3ca39f6c245c2469f",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Liverpool FC win on 2026-05-24?",
-    "market_slug": "epl-liv-bre-2026-05-24",
-    "amount": 5120.5715
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x3e3ece1ef8a0b351e1feba32ada76b066550617a1a0832757f468bba59bd915e",
     "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
     "trader": {
@@ -29089,6 +29045,111 @@
       "signal_quality": 36.3,
       "stance": "WATCH_ONLY",
       "edge_percent": 6.44,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
+    "market_slug": "lol-t1-dnf-2026",
+    "event_slug": "lol-t1-dnf-2026",
+    "wallet": "0xb13268eb47396af4f2e7ff91ed374f9026e16b5e",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,207)",
+        "Low activity (2 txns)"
+      ],
+      "amount": 1207.4599991536595,
+      "odds": 0.3699999999,
+      "raw_price": 0.3699999999,
+      "outcome": "T1",
+      "potential_pnl": 2055.9454048463404,
+      "pnl_multiplier": 1.7027027034331628,
+      "wallet_age_days": 0,
+      "total_activities": 2
+    },
+    "timestamp": "2026-08-17T03:53:15.504752",
+    "trade_hash": "0x9465bcbc5f4aeba96ae9f58259b163d3d868715da3ea17e58dcb6a91273eb7f5",
+    "trade_timestamp": 1786938235,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "T1",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.3699999999,
+      "effective_price": 0.3699999999,
+      "size": 3263.405404,
+      "amount": 1207.4599991536595,
+      "potential_pnl": 2055.9454048463404,
+      "pnl_multiplier": 1.7027027034331628,
+      "is_no": false,
+      "slug": "lol-t1-dnf-2026",
+      "eventSlug": "lol-t1-dnf-2026-08-17"
+    },
+    "irrationality": {
+      "irrationality_score": 18,
+      "flags": [
+        "Moderate mispricing edge (+6.4%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.30549999996,
+      "market_price": 0.3699999999,
+      "edge": 0.06449999994,
+      "edge_percent": 6.449999994,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "MODERATE",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 18,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.06449999994,
+      "edge_percent": 6.449999994
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 27.3,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 6.45,
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
