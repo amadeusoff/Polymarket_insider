@@ -28941,7 +28941,8 @@
       "signal_strength": 85.0,
       "insider_score": 85.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
+    },
+    "resolution_last_check": "2026-08-17T06:57:25.503750+00:00"
   },
   {
     "market": "Exact Score: RCD Espanyol de Barcelona 0 - 0 Levante UD?",
