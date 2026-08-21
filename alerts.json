@@ -1,108 +1,5 @@
 [
   {
-    "market": "Will France win the 2026 FIFA World Cup?",
-    "market_slug": "will-france-win-the-2026-fifa-world-cup-924",
-    "event_slug": "will-france-win-the-2026-fifa-world-cup-924",
-    "wallet": "0x0f84feb1c67e777fe106e4412abb46c21ace60fb",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,500)",
-        "Low activity (4 txns)"
-      ],
-      "amount": 1499.9999990000001,
-      "odds": 0.177999999905304,
-      "raw_price": 0.177999999905304,
-      "outcome": "Yes",
-      "potential_pnl": 6926.966292000001,
-      "pnl_multiplier": 4.617977531078652,
-      "wallet_age_days": 0,
-      "total_activities": 4
-    },
-    "timestamp": "2026-05-24T18:48:29.667714",
-    "trade_hash": "0x26d22d8d850f790a0a1c3fe5e73212f7facd470f3725db01be7541bf6f08b119",
-    "trade_timestamp": 1779648081,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "normalized_position": "YES",
-      "side": "BUY",
-      "price": 0.177999999905304,
-      "effective_price": 0.177999999905304,
-      "size": 8426.966291,
-      "amount": 1499.9999990000001,
-      "potential_pnl": 6926.966292000001,
-      "pnl_multiplier": 4.617977531078652,
-      "is_no": false,
-      "slug": "will-france-win-the-2026-fifa-world-cup-924",
-      "eventSlug": "2026-fifa-world-cup-winner-595"
-    },
-    "irrationality": {
-      "irrationality_score": 10,
-      "flags": [],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": false
-    },
-    "mispricing": {
-      "rational_estimate": 0.1386999999621216,
-      "market_price": 0.177999999905304,
-      "edge": 0.039299999943182395,
-      "edge_percent": 3.9299999943182398,
-      "min_edge_required": 0.05,
-      "is_mispriced": false,
-      "edge_quality": "WEAK",
-      "base_rate_class": "occasional",
-      "confidence": "low"
-    },
-    "factors": {
-      "base_rate_class": "occasional",
-      "structural_feasibility": {
-        "independent_conditions_required": 2,
-        "conditions": [
-          "Unknown"
-        ],
-        "weakest_link": "Unknown"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Unknown"
-      ],
-      "confidence_in_analysis": "low"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "YES",
-      "irrationality_score": 10,
-      "is_irrational": false,
-      "is_mispriced": false,
-      "edge": 0.039299999943182395,
-      "edge_percent": 3.9299999943182398
-    },
-    "financial_analyst": {
-      "signal_quality": 26.9,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 3.93,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-05-25T10:08:55.144521+00:00"
-  },
-  {
     "market": "Thunder vs. Spurs",
     "market_slug": "nba-okc-sas-2026",
     "event_slug": "nba-okc-sas-2026",
@@ -29276,6 +29173,111 @@
       "signal_quality": 48.0,
       "stance": "WATCH_ONLY",
       "edge_percent": 35.15,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Test Series England vs Pakistan: England vs Pakistan - Match goes to Day 4?",
+    "market_slug": "crint-gbr2-pak2-2026-08-19-match-to-day-4",
+    "event_slug": "crint-gbr2-pak2-2026-08-19-match-to-day-4",
+    "wallet": "0x5279976bb1e8c351914c747863e8851a496fd25e",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,600)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 1600.0,
+      "odds": 0.8,
+      "raw_price": 0.8,
+      "outcome": "Yes",
+      "potential_pnl": 400.0,
+      "pnl_multiplier": 0.25,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-08-21T14:46:29.628764",
+    "trade_hash": "0x1916f7e156bc081cdc70e21f8c873caf104b93c6a8bdfdde1776c71ad22fa2f3",
+    "trade_timestamp": 1787323114,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.8,
+      "effective_price": 0.8,
+      "size": 2000.0,
+      "amount": 1600.0,
+      "potential_pnl": 400.0,
+      "pnl_multiplier": 0.25,
+      "is_no": false,
+      "slug": "crint-gbr2-pak2-2026-08-19-match-to-day-4",
+      "eventSlug": "crint-gbr2-pak2-2026-08-19-more-markets"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+32.2%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.47750000000000004,
+      "market_price": 0.8,
+      "edge": 0.3225,
+      "edge_percent": 32.25,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.3225,
+      "edge_percent": 32.25
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 46.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 32.25,
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
