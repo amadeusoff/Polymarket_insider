@@ -1,108 +1,5 @@
 [
   {
-    "market": "Will Spain win the 2026 FIFA World Cup?",
-    "market_slug": "will-spain-win-the-2026-fifa-world-cup-963",
-    "event_slug": "will-spain-win-the-2026-fifa-world-cup-963",
-    "wallet": "0x0f84feb1c67e777fe106e4412abb46c21ace60fb",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,500)",
-        "Low activity (4 txns)"
-      ],
-      "amount": 1499.9999990000001,
-      "odds": 0.1749999999125,
-      "raw_price": 0.1749999999125,
-      "outcome": "Yes",
-      "potential_pnl": 7071.428571,
-      "pnl_multiplier": 4.714285717142857,
-      "wallet_age_days": 0,
-      "total_activities": 4
-    },
-    "timestamp": "2026-05-24T18:48:24.573652",
-    "trade_hash": "0x48b26ef0893320fa1c781f264dce46d2b97919e589a736b2a5dc93fcdc846f01",
-    "trade_timestamp": 1779648092,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "normalized_position": "YES",
-      "side": "BUY",
-      "price": 0.1749999999125,
-      "effective_price": 0.1749999999125,
-      "size": 8571.42857,
-      "amount": 1499.9999990000001,
-      "potential_pnl": 7071.428571,
-      "pnl_multiplier": 4.714285717142857,
-      "is_no": false,
-      "slug": "will-spain-win-the-2026-fifa-world-cup-963",
-      "eventSlug": "2026-fifa-world-cup-winner-595"
-    },
-    "irrationality": {
-      "irrationality_score": 10,
-      "flags": [],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": false
-    },
-    "mispricing": {
-      "rational_estimate": 0.137499999965,
-      "market_price": 0.1749999999125,
-      "edge": 0.0374999999475,
-      "edge_percent": 3.74999999475,
-      "min_edge_required": 0.05,
-      "is_mispriced": false,
-      "edge_quality": "WEAK",
-      "base_rate_class": "occasional",
-      "confidence": "low"
-    },
-    "factors": {
-      "base_rate_class": "occasional",
-      "structural_feasibility": {
-        "independent_conditions_required": 2,
-        "conditions": [
-          "Unknown"
-        ],
-        "weakest_link": "Unknown"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Unknown"
-      ],
-      "confidence_in_analysis": "low"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "YES",
-      "irrationality_score": 10,
-      "is_irrational": false,
-      "is_mispriced": false,
-      "edge": 0.0374999999475,
-      "edge_percent": 3.74999999475
-    },
-    "financial_analyst": {
-      "signal_quality": 26.6,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 3.75,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-05-25T10:08:54.571347+00:00"
-  },
-  {
     "market": "Will France win the 2026 FIFA World Cup?",
     "market_slug": "will-france-win-the-2026-fifa-world-cup-924",
     "event_slug": "will-france-win-the-2026-fifa-world-cup-924",
@@ -29273,6 +29170,112 @@
       "signal_quality": 45.1,
       "stance": "WATCH_ONLY",
       "edge_percent": 16.05,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "LoL: EDward Gaming vs ThunderTalk Gaming - Game 2 Winner",
+    "market_slug": "lol-edg-tt-2026-08-21-game2",
+    "event_slug": "lol-edg-tt-2026-08-21-game2",
+    "wallet": "0x32999becc2d80f0399180959111224efeb36461e",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,800)",
+        "Low activity (2 txns)"
+      ],
+      "amount": 1799.9999970225977,
+      "odds": 0.848361437,
+      "raw_price": 0.848361437,
+      "outcome": "EDward Gaming",
+      "potential_pnl": 321.73717597740233,
+      "pnl_multiplier": 0.1787428758386621,
+      "wallet_age_days": 0,
+      "total_activities": 2
+    },
+    "timestamp": "2026-08-21T08:39:29.601229",
+    "trade_hash": "0xc60a7233c5e2c9064567a7fdbf1efa7745627c5661c9a0fca36fc9bb77af9983",
+    "trade_timestamp": 1787301114,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "EDward Gaming",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.848361437,
+      "effective_price": 0.848361437,
+      "size": 2121.737173,
+      "amount": 1799.9999970225977,
+      "potential_pnl": 321.73717597740233,
+      "pnl_multiplier": 0.1787428758386621,
+      "is_no": false,
+      "slug": "lol-edg-tt-2026-08-21-game2",
+      "eventSlug": "lol-edg-tt-2026-08-21"
+    },
+    "irrationality": {
+      "irrationality_score": 45,
+      "flags": [
+        "Crisis keyword detected ('war')",
+        "Large mispricing edge (+35.2%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.4968445748,
+      "market_price": 0.848361437,
+      "edge": 0.3515168622,
+      "edge_percent": 35.15168622,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 45,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.3515168622,
+      "edge_percent": 35.15168622
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 48.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 35.15,
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
