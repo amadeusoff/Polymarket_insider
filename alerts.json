@@ -1,94 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x9f2c0dd7e0f41acdf564eb7a899171d102e1e752e33a008c97196261f3c56fd7",
-    "wallet": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
-    "trader": {
-      "rank": 16,
-      "address": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
-      "username": "GamblingIsAllYouNeed",
-      "profit": 4900340.192962979,
-      "volume": 432289992.35136396,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x528ff0b0cc2c8228721b30828ea574aba54e2101",
-      "side": "SELL",
-      "asset": "72947246940304588589750879992844431173384079834463596446189152764221969215728",
-      "conditionId": "0x78e794527d21a251948dba9042c49197dc783349d76742daba2d2f048b707c29",
-      "size": 2092.88,
-      "price": 0.8419226138144567,
-      "timestamp": 1779657409,
-      "title": "Will Gavin McKenna be drafted 1st overall in the 2026 NHL Draft?",
-      "slug": "will-gavin-mckenna-be-drafted-1st-overall-in-the-2026-nhl-draft",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/2026-nhl-draft-1st-overall-pick-Phf-7oQIE86F.png",
-      "eventSlug": "2026-nhl-draft-1st-overall-pick-349",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "PFL27",
-      "pseudonym": "Long-Biopsy",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x9f2c0dd7e0f41acdf564eb7a899171d102e1e752e33a008c97196261f3c56fd7",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Gavin McKenna be drafted 1st overall in the 2026 NHL Draft?",
-    "market_slug": "2026-nhl-draft-1st-overall-pick-349",
-    "amount": 1762.0430000000001
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x800c7d18b2c4ae6e24798a4d73c3ed9f3bd5275c5ac4e61dd2eebd62e1b8a05e",
-    "wallet": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
-    "trader": {
-      "rank": 15,
-      "address": "0xe90bec87d9ef430f27f9dcfe72c34b76967d5da2",
-      "username": "gmanas",
-      "profit": 4955880.748692174,
-      "volume": 529047708.50599086,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xef9b5d5e51eb4987240ed77422352d10604ed5ed",
-      "side": "BUY",
-      "asset": "52965156717339871692714186660785951310421831919562520539239006775699853846973",
-      "conditionId": "0x421bc1929df1429cf2cb94f80c1ce6a3ed0d1f0b7a2749b9890075f94eb549e9",
-      "size": 27242.6525,
-      "price": 0.9176786291276152,
-      "timestamp": 1779664939,
-      "title": "US x Iran permanent peace deal by May 26, 2026?",
-      "slug": "us-x-iran-permanent-peace-deal-by-may-26-2026",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-permanent-peace-deal-by-yYlzv70Hi7j9.jpg",
-      "eventSlug": "us-x-iran-permanent-peace-deal-by",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "Chelseaone",
-      "pseudonym": "Unnatural-Breakdown",
-      "bio": "up the Chels",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x800c7d18b2c4ae6e24798a4d73c3ed9f3bd5275c5ac4e61dd2eebd62e1b8a05e",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "US x Iran permanent peace deal by May 26, 2026?",
-    "market_slug": "us-x-iran-permanent-peace-deal-by",
-    "amount": 25000.0
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x6264d97597f6eddd68f7a5f6ae156bf0210d6ae6d662f05b1921115470d74f50",
     "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
     "trader": {
@@ -29278,6 +29190,218 @@
       "signal_quality": 46.0,
       "stance": "WATCH_ONLY",
       "edge_percent": 28.05,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs",
+    "market_slug": "cs2-furia-fut-2026",
+    "event_slug": "cs2-furia-fut-2026",
+    "wallet": "0x40da9e3733cae4ea09d9b84cfda2ffe4f4e1e947",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($10,283)",
+        "Low activity (3 txns)"
+      ],
+      "amount": 10282.72999925,
+      "odds": 0.61,
+      "raw_price": 0.61,
+      "outcome": "FURIA",
+      "potential_pnl": 6574.20442575,
+      "pnl_multiplier": 0.639344262295082,
+      "wallet_age_days": 0,
+      "total_activities": 3
+    },
+    "timestamp": "2026-08-22T13:46:47.203942",
+    "trade_hash": "0x4c65177b2e995acce27bc99e00c5b65f74c5d0e26d03655777b4fb8c56997fc5",
+    "trade_timestamp": 1787405965,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "FURIA",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.61,
+      "effective_price": 0.61,
+      "size": 16856.934425,
+      "amount": 10282.72999925,
+      "potential_pnl": 6574.20442575,
+      "pnl_multiplier": 0.639344262295082,
+      "is_no": false,
+      "slug": "cs2-furia-fut-2026",
+      "eventSlug": "cs2-furia-fut-2026-08-22"
+    },
+    "irrationality": {
+      "irrationality_score": 45,
+      "flags": [
+        "Crisis keyword detected ('strike')",
+        "Large mispricing edge (+20.9%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.40149999999999997,
+      "market_price": 0.61,
+      "edge": 0.20850000000000002,
+      "edge_percent": 20.85,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 45,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.20850000000000002,
+      "edge_percent": 20.85
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 48.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 20.85,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs",
+    "market_slug": "cs2-furia-fut-2026",
+    "event_slug": "cs2-furia-fut-2026",
+    "wallet": "0x94c4ba2a0e2e3ad4a7dbd7b100a8b3d3d7e7a16e",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,786)",
+        "Low activity (2 txns)"
+      ],
+      "amount": 1785.5599978872854,
+      "odds": 0.6099999999,
+      "raw_price": 0.6099999999,
+      "outcome": "FURIA",
+      "potential_pnl": 1141.5875401127148,
+      "pnl_multiplier": 0.6393442625638269,
+      "wallet_age_days": 0,
+      "total_activities": 2
+    },
+    "timestamp": "2026-08-22T13:46:59.767124",
+    "trade_hash": "0x4e38dd4ba11731ee1fa629d2e05b4fadb832e0e5609c1177363d85e127be97fa",
+    "trade_timestamp": 1787405877,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "FURIA",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.6099999999,
+      "effective_price": 0.6099999999,
+      "size": 2927.147538,
+      "amount": 1785.5599978872854,
+      "potential_pnl": 1141.5875401127148,
+      "pnl_multiplier": 0.6393442625638269,
+      "is_no": false,
+      "slug": "cs2-furia-fut-2026",
+      "eventSlug": "cs2-furia-fut-2026-08-22"
+    },
+    "irrationality": {
+      "irrationality_score": 45,
+      "flags": [
+        "Crisis keyword detected ('strike')",
+        "Large mispricing edge (+20.8%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.40149999995999996,
+      "market_price": 0.6099999999,
+      "edge": 0.20849999994,
+      "edge_percent": 20.849999994,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 45,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.20849999994,
+      "edge_percent": 20.849999994
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 48.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 20.85,
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
