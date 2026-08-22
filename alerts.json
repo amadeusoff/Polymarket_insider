@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x6264d97597f6eddd68f7a5f6ae156bf0210d6ae6d662f05b1921115470d74f50",
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "trader": {
-      "rank": 4,
-      "address": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-      "username": "RN1",
-      "profit": 8995443.42632928,
-      "volume": 586383602.5788589,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x39d3c773be30fcc73161fc6768f46d563a779ef0",
-      "side": "BUY",
-      "asset": "66001559742387030009045005319044880402579242919401838312873830105346449852385",
-      "conditionId": "0x7c3b5bb93934c27d1478b9109477e4d7bbd8b5040ced572bfdadd6488856c09d",
-      "size": 5876,
-      "price": 0.44,
-      "timestamp": 1779732466,
-      "title": "Spread: Knicks (-3.5)",
-      "slug": "nba-nyk-cle-2026-05-25-spread-away-3pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-nyk-cle-2026-05-25",
-      "outcome": "Knicks",
-      "outcomeIndex": 0,
-      "name": "matanovik",
-      "pseudonym": "Lost-Property",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x6264d97597f6eddd68f7a5f6ae156bf0210d6ae6d662f05b1921115470d74f50",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Spread: Knicks (-3.5)",
-    "market_slug": "nba-nyk-cle-2026-05-25",
-    "amount": 2585.44
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xf53b5a96379451b82d8b9dd2b1be31efbc7ed17b2bb7cf8f2a9ae62abf439c14",
     "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
     "trader": {
@@ -29402,6 +29358,112 @@
       "signal_quality": 48.0,
       "stance": "WATCH_ONLY",
       "edge_percent": 20.85,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs",
+    "market_slug": "cs2-furia-fut-2026",
+    "event_slug": "cs2-furia-fut-2026",
+    "wallet": "0x4002c80fd95f5b25f74ac34f1873ecfe9a42b012",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,948)",
+        "Low activity (3 txns)"
+      ],
+      "amount": 1947.9099988830358,
+      "odds": 0.656941103,
+      "raw_price": 0.656941103,
+      "outcome": "FURIA",
+      "potential_pnl": 1017.2112121169644,
+      "pnl_multiplier": 0.5222064739645313,
+      "wallet_age_days": 0,
+      "total_activities": 3
+    },
+    "timestamp": "2026-08-22T16:24:28.140113",
+    "trade_hash": "0x12d8968fd957cd3b71dab985de69dbbe692e82d6e970af29ad6d3649c8a55d4f",
+    "trade_timestamp": 1787415288,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "FURIA",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.656941103,
+      "effective_price": 0.656941103,
+      "size": 2965.121211,
+      "amount": 1947.9099988830358,
+      "potential_pnl": 1017.2112121169644,
+      "pnl_multiplier": 0.5222064739645313,
+      "is_no": false,
+      "slug": "cs2-furia-fut-2026",
+      "eventSlug": "cs2-furia-fut-2026-08-22"
+    },
+    "irrationality": {
+      "irrationality_score": 45,
+      "flags": [
+        "Crisis keyword detected ('strike')",
+        "Large mispricing edge (+23.7%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.42027644119999996,
+      "market_price": 0.656941103,
+      "edge": 0.2366646618,
+      "edge_percent": 23.66646618,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 45,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.2366646618,
+      "edge_percent": 23.66646618
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 48.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 23.67,
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
