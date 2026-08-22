@@ -1,110 +1,5 @@
 [
   {
-    "market": "Thunder vs. Spurs",
-    "market_slug": "nba-okc-sas-2026",
-    "event_slug": "nba-okc-sas-2026",
-    "wallet": "0x9f14ef79628c107428d1082321995a7c1243a4eb",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (1d old)",
-        "Large bet ($1,500)",
-        "Low activity (4 txns)"
-      ],
-      "amount": 1499.9999990000001,
-      "odds": 0.4299999998394667,
-      "raw_price": 0.4299999998394667,
-      "outcome": "Thunder",
-      "potential_pnl": 1988.372093,
-      "pnl_multiplier": 1.3255813962170542,
-      "wallet_age_days": 1,
-      "total_activities": 4
-    },
-    "timestamp": "2026-05-24T19:59:25.243051",
-    "trade_hash": "0x80a0b293a455a82407a17cda0e170bc6b06572152607a0c55cc4f625fce8fa47",
-    "trade_timestamp": 1779652386,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Thunder",
-      "outcomeIndex": 0,
-      "normalized_position": "YES",
-      "side": "BUY",
-      "price": 0.4299999998394667,
-      "effective_price": 0.4299999998394667,
-      "size": 3488.372092,
-      "amount": 1499.9999990000001,
-      "potential_pnl": 1988.372093,
-      "pnl_multiplier": 1.3255813962170542,
-      "is_no": false,
-      "slug": "nba-okc-sas-2026",
-      "eventSlug": "nba-okc-sas-2026-05-24"
-    },
-    "irrationality": {
-      "irrationality_score": 25,
-      "flags": [
-        "Significant mispricing edge (+10.0%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": false
-    },
-    "mispricing": {
-      "rational_estimate": 0.32949999993578666,
-      "market_price": 0.4299999998394667,
-      "edge": 0.10049999990368003,
-      "edge_percent": 10.049999990368002,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "low"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 2,
-        "conditions": [
-          "Unknown"
-        ],
-        "weakest_link": "Unknown"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Unknown"
-      ],
-      "confidence_in_analysis": "low"
-    },
-    "combined_signal": {
-      "signal_type": "CONFLICT",
-      "signal_emoji": "\u26a0\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider buying YES despite statistical overpricing",
-      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
-      "insider_score": 70,
-      "insider_position": "YES",
-      "irrationality_score": 25,
-      "is_irrational": false,
-      "is_mispriced": true,
-      "edge": 0.10049999990368003,
-      "edge_percent": 10.049999990368002
-    },
-    "log_only": true,
-    "financial_analyst": {
-      "signal_quality": 34.1,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 10.05,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0x9f2c0dd7e0f41acdf564eb7a899171d102e1e752e33a008c97196261f3c56fd7",
     "wallet": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
@@ -29278,6 +29173,111 @@
       "signal_quality": 46.0,
       "stance": "WATCH_ONLY",
       "edge_percent": 32.25,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs",
+    "market_slug": "dota2-vsn2-ty-2026",
+    "event_slug": "dota2-vsn2-ty-2026",
+    "wallet": "0xd091bbe501090fd955e155aa88bafe8c34fbefb5",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($2,947)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 2947.29999907,
+      "odds": 0.73,
+      "raw_price": 0.73,
+      "outcome": "TEAM VISION",
+      "potential_pnl": 1090.0972599300003,
+      "pnl_multiplier": 0.3698630136986302,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-08-22T08:55:51.016323",
+    "trade_hash": "0xa4d54829dd9d06ef090bf82c59d382d104ce5e63c338accd509532ff501d7444",
+    "trade_timestamp": 1787388147,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "TEAM VISION",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.73,
+      "effective_price": 0.73,
+      "size": 4037.397259,
+      "amount": 2947.29999907,
+      "potential_pnl": 1090.0972599299998,
+      "pnl_multiplier": 0.36986301369863006,
+      "is_no": false,
+      "slug": "dota2-vsn2-ty-2026",
+      "eventSlug": "dota2-vsn2-ty-2026-08-22"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+28.1%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.44949999999999996,
+      "market_price": 0.73,
+      "edge": 0.2805,
+      "edge_percent": 28.050000000000004,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.2805,
+      "edge_percent": 28.050000000000004
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 46.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 28.05,
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
