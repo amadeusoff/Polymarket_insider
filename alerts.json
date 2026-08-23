@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xf53b5a96379451b82d8b9dd2b1be31efbc7ed17b2bb7cf8f2a9ae62abf439c14",
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "trader": {
-      "rank": 5,
-      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-      "username": "swisstony",
-      "profit": 8772961.47656197,
-      "volume": 816705692.8646659,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x4478d7bd8a295691ac84f60a5ec2b47e122102a4",
-      "side": "BUY",
-      "asset": "95319765794182093287927679833194607351139501701926036955896570172084718641711",
-      "conditionId": "0x6a8cfe84d17693425f27831db5949d7511f3393d4624b182ac6956164cd32b10",
-      "size": 3000,
-      "price": 0.5361065,
-      "timestamp": 1779732769,
-      "title": "US announces new Iran agreement/ceasefire extension by May 31?",
-      "slug": "us-announces-new-iran-agreementceasefire-extension-by-may-31-665",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-announces-new-iran-agreementceasefire-extension-by-may-31-H9gDFAYNtb5_.jpg",
-      "eventSlug": "us-announces-new-iran-agreementceasefire-extension-by",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "Warren-Buffett",
-      "pseudonym": "Hateful-Generation",
-      "bio": "Freak the fuck out and sell everything right now. Its fucking over.",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3416479-d3d86a2e-e805-4958-9ddb-29768f8a9601.webp",
-      "profileImageOptimized": "",
-      "transactionHash": "0xf53b5a96379451b82d8b9dd2b1be31efbc7ed17b2bb7cf8f2a9ae62abf439c14",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "US announces new Iran agreement/ceasefire extension by May 31?",
-    "market_slug": "us-announces-new-iran-agreementceasefire-extension-by",
-    "amount": 1608.3195
-  },
-  {
     "market": "Will Portugal win the 2026 FIFA World Cup?",
     "market_slug": "will-portugal-win-the-2026-fifa-world-cup-912",
     "event_slug": "will-portugal-win-the-2026-fifa-world-cup-912",
@@ -29466,6 +29422,119 @@
       "edge_percent": 23.67,
       "signal_strength": 70.0,
       "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Russia strikes another vessel in the Black Sea by August 28, 2026?",
+    "market_slug": "russia-strikes-another-vessel-in-the-black-sea-by-august-28-2026",
+    "event_slug": "russia-strikes-another-vessel-in-the-black-sea-by-august-28-2026",
+    "wallet": "0x7672997054be321a401e06b9e548db12681f91c3",
+    "analysis": {
+      "score": 100,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($2,144)",
+        "Pre-event latency: 6609m"
+      ],
+      "amount": 2143.8984,
+      "odds": 0.84,
+      "raw_price": 0.84,
+      "outcome": "Yes",
+      "potential_pnl": 408.3616000000002,
+      "pnl_multiplier": 0.19047619047619055,
+      "wallet_age_days": 0,
+      "total_activities": 14
+    },
+    "timestamp": "2026-08-23T10:01:32.686707",
+    "trade_hash": "0x3dfb91602a169f4dac6314397385d355d0c68b770457cc1ac28ab68a126c3f0b",
+    "trade_timestamp": 1787478688,
+    "latency": {
+      "latency_seconds": 396512.0,
+      "latency_minutes": 6608.533333333334,
+      "is_pre_event": true,
+      "severity": "CRITICAL",
+      "trade_time": "2026-08-23T09:51:28+00:00",
+      "event_time": "2026-08-28T00:00:00+00:00"
+    },
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.84,
+      "effective_price": 0.84,
+      "size": 2552.26,
+      "amount": 2143.8984,
+      "potential_pnl": 408.3616000000002,
+      "pnl_multiplier": 0.19047619047619055,
+      "is_no": false,
+      "slug": "russia-strikes-another-vessel-in-the-black-sea-by-august-28-2026",
+      "eventSlug": "russia-strikes-another-vessel-in-black-sea-byptptpt"
+    },
+    "irrationality": {
+      "irrationality_score": 45,
+      "flags": [
+        "Crisis keyword detected ('strike')",
+        "Large mispricing edge (+34.6%)"
+      ],
+      "category": "politics_near",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.02,
+        "min_edge": 0.03
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.4935,
+      "market_price": 0.84,
+      "edge": 0.3465,
+      "edge_percent": 34.65,
+      "min_edge_required": 0.03,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 100,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 100,
+      "insider_position": "YES",
+      "irrationality_score": 45,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.3465,
+      "edge_percent": 34.65
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 54.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 34.65,
+      "signal_strength": 100.0,
+      "insider_score": 100.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
   }
