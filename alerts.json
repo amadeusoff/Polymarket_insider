@@ -1,110 +1,5 @@
 [
   {
-    "market": "Will Portugal win the 2026 FIFA World Cup?",
-    "market_slug": "will-portugal-win-the-2026-fifa-world-cup-912",
-    "event_slug": "will-portugal-win-the-2026-fifa-world-cup-912",
-    "wallet": "0x3e3d631134a0bb18194cee06f505f761a0ccc0cd",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($3,100)",
-        "Low activity (3 txns)"
-      ],
-      "amount": 3099.999999,
-      "odds": 0.10299299624996716,
-      "raw_price": 0.10299299624996716,
-      "outcome": "Yes",
-      "potential_pnl": 26999.134038000004,
-      "pnl_multiplier": 8.709398079583679,
-      "wallet_age_days": 0,
-      "total_activities": 3
-    },
-    "timestamp": "2026-05-25T20:00:42.101662",
-    "trade_hash": "0xd9f9959f5cef475b8b5b9754a55a5815df80394bd268d185e44b8f0d5b483bdd",
-    "trade_timestamp": 1779738959,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "normalized_position": "YES",
-      "side": "BUY",
-      "price": 0.10299299624996716,
-      "effective_price": 0.10299299624996716,
-      "size": 30099.134037,
-      "amount": 3099.999999,
-      "potential_pnl": 26999.134038,
-      "pnl_multiplier": 8.709398079583677,
-      "is_no": false,
-      "slug": "will-portugal-win-the-2026-fifa-world-cup-912",
-      "eventSlug": "2026-fifa-world-cup-winner-595"
-    },
-    "irrationality": {
-      "irrationality_score": 25,
-      "flags": [
-        "Longshot (10%) in medium bias category (sports)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": false
-    },
-    "mispricing": {
-      "rational_estimate": 0.06369719849998687,
-      "market_price": 0.10299299624996716,
-      "edge": 0.039295797749980294,
-      "edge_percent": 3.9295797749980292,
-      "min_edge_required": 0.05,
-      "is_mispriced": false,
-      "edge_quality": "WEAK",
-      "base_rate_class": "rare",
-      "confidence": "low"
-    },
-    "factors": {
-      "base_rate_class": "rare",
-      "structural_feasibility": {
-        "independent_conditions_required": 2,
-        "conditions": [
-          "Unknown"
-        ],
-        "weakest_link": "Unknown"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Unknown"
-      ],
-      "confidence_in_analysis": "low"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 70,
-      "insider_position": "YES",
-      "irrationality_score": 25,
-      "is_irrational": false,
-      "is_mispriced": false,
-      "edge": 0.039295797749980294,
-      "edge_percent": 3.9295797749980292
-    },
-    "financial_analyst": {
-      "signal_quality": 29.9,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 3.93,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-05-26T10:01:26.389335+00:00"
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0xfcda863b1609a38c43928c665012a847ce0af10503e5efdc0541dcf94c6037e3",
     "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
@@ -29535,6 +29430,111 @@
       "edge_percent": 34.65,
       "signal_strength": 100.0,
       "insider_score": 100.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Spread: Miami Marlins (-1.5)",
+    "market_slug": "mlb-wsh-mia-2026-08-23-spread-home-1pt5",
+    "event_slug": "mlb-wsh-mia-2026-08-23-spread-home-1pt5",
+    "wallet": "0xa28547aa5c1b8c657a8a75474f2aee787bf5f906",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($2,500)",
+        "Low activity (4 txns)"
+      ],
+      "amount": 2499.9999989999997,
+      "odds": 0.6,
+      "raw_price": 0.6,
+      "outcome": "Washington Nationals",
+      "potential_pnl": 1666.666666,
+      "pnl_multiplier": 0.6666666666666667,
+      "wallet_age_days": 0,
+      "total_activities": 4
+    },
+    "timestamp": "2026-08-23T17:31:28.032194",
+    "trade_hash": "0x66b150a0b1a21882425f3fe84a445b69aa5d0d53273a3b5f2dd05819e5649cd0",
+    "trade_timestamp": 1787505744,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Washington Nationals",
+      "outcomeIndex": 1,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.6,
+      "effective_price": 0.6,
+      "size": 4166.666665,
+      "amount": 2499.9999989999997,
+      "potential_pnl": 1666.666666,
+      "pnl_multiplier": 0.6666666666666667,
+      "is_no": false,
+      "slug": "mlb-wsh-mia-2026-08-23-spread-home-1pt5",
+      "eventSlug": "mlb-wsh-mia-2026-08-23"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+20.2%)"
+      ],
+      "category": "other",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.39749999999999996,
+      "market_price": 0.6,
+      "edge": 0.2025,
+      "edge_percent": 20.25,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "other",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.2025,
+      "edge_percent": 20.25
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 46.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 20.25,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
   }
