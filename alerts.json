@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xfcda863b1609a38c43928c665012a847ce0af10503e5efdc0541dcf94c6037e3",
-    "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
-    "trader": {
-      "rank": 8,
-      "address": "0x863134d00841b2e200492805a01e1e2f5defaa53",
-      "username": "RepTrump",
-      "profit": 7532409.671579,
-      "volume": 13983231.103425,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xc5df8855999cf80a995e6e48e024dc7032d2be66",
-      "side": "BUY",
-      "asset": "71846159079158880412881688806652125905814263661429871669049344735243873912554",
-      "conditionId": "0xda1b6a0fcfc617e6262ca1632c2552eef368f3431d1f9b65ac0f81d6c8adcd97",
-      "size": 1665.2,
-      "price": 0.92,
-      "timestamp": 1779799944,
-      "title": "Roland Garros ATP: Tallon Griekspoor vs Matteo Arnaldi",
-      "slug": "atp-grieksp-arnaldi-2026-05-24",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
-      "eventSlug": "atp-grieksp-arnaldi-2026-05-24",
-      "outcome": "Matteo Arnaldi",
-      "outcomeIndex": 1,
-      "name": "Hred3r",
-      "pseudonym": "Meek-Calibre-Comestible",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xfcda863b1609a38c43928c665012a847ce0af10503e5efdc0541dcf94c6037e3",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Roland Garros ATP: Tallon Griekspoor vs Matteo Arnaldi",
-    "market_slug": "atp-grieksp-arnaldi-2026-05-24",
-    "amount": 1531.9840000000002
-  },
-  {
     "market": "US x Iran permanent peace deal by May 31, 2026?",
     "market_slug": "us-x-iran-permanent-peace-deal-by-may-31-2026-333-871-241-192-799",
     "event_slug": "us-x-iran-permanent-peace-deal-by-may-31-2026-333-871-241-192-799",
@@ -29534,6 +29490,111 @@
       "signal_quality": 46.0,
       "stance": "WATCH_ONLY",
       "edge_percent": 20.25,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "LoL: Deer Gaming vs DMG Esports - Game 2 Winner AND Games Total: O/U 2.5",
+    "market_slug": "",
+    "event_slug": "",
+    "wallet": "0x07299eb034ddc03f6406c9b540ac48c05b71926f",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,457)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 1456.8498998811197,
+      "odds": 0.4762658459,
+      "raw_price": 0.4762658459,
+      "outcome": "",
+      "potential_pnl": 1602.0507381188804,
+      "pnl_multiplier": 1.0996676721806475,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-08-24T12:02:09.254708",
+    "trade_hash": "0xf577ff04be509938f843cb4e61765e8f882bef576ac1f10ea82a9e6b2c43d8b6",
+    "trade_timestamp": 1787572503,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.4762658459,
+      "effective_price": 0.4762658459,
+      "size": 3058.900638,
+      "amount": 1456.8498998811197,
+      "potential_pnl": 1602.0507381188804,
+      "pnl_multiplier": 1.0996676721806475,
+      "is_no": false,
+      "slug": "",
+      "eventSlug": ""
+    },
+    "irrationality": {
+      "irrationality_score": 25,
+      "flags": [
+        "Significant mispricing edge (+12.8%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.34800633835999994,
+      "market_price": 0.4762658459,
+      "edge": 0.12825950754000004,
+      "edge_percent": 12.825950754000004,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 25,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.12825950754000004,
+      "edge_percent": 12.825950754000004
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 38.2,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 12.83,
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
