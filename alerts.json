@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0xb661776c3ab4d560f6e4a93de60b8479dd97831528f732415253be3d89d13fb3",
-    "wallet": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
-    "trader": {
-      "rank": 10,
-      "address": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
-      "username": "walletmobile",
-      "profit": 5942685.45339684,
-      "volume": 32196692.075936034,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xf6d0642148933ea5a0c5c9ad33c1c1b517e69391",
-      "side": "BUY",
-      "asset": "45942712780956716290595528630059826510539112426790184133339143529925294470101",
-      "conditionId": "0xb8724de28f0dcdb71b55abc89f54a5788f7d7fc364160ec6a45b941d5c332988",
-      "size": 3056.31,
-      "price": 0.87,
-      "timestamp": 1779847741,
-      "title": "Spurs vs. Thunder",
-      "slug": "nba-sas-okc-2026-05-26",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-sas-okc-2026-05-26",
-      "outcome": "Thunder",
-      "outcomeIndex": 1,
-      "name": "defbank",
-      "pseudonym": "Welcome-Carotene",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xb661776c3ab4d560f6e4a93de60b8479dd97831528f732415253be3d89d13fb3",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Spurs vs. Thunder",
-    "market_slug": "nba-sas-okc-2026-05-26",
-    "amount": 2658.9897
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x76e783943c62cfaa02a5cf8fe6cec0e356ea4a32d6a3757004ef31cce889451d",
     "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
     "trader": {
@@ -29594,5 +29550,110 @@
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     },
     "resolution_last_check": "2026-08-26T06:50:51.874759+00:00"
+  },
+  {
+    "market": "2026 Balance of Power: D Senate, D House",
+    "market_slug": "2026-balance-of-power-d-senate-d-house-949",
+    "event_slug": "2026-balance-of-power-d-senate-d-house-949",
+    "wallet": "0xf44076b9299b390a1f4bd5979d926ce989aeb009",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,952)",
+        "Low activity (2 txns)"
+      ],
+      "amount": 1952.095,
+      "odds": 0.5,
+      "raw_price": 0.5,
+      "outcome": "Yes",
+      "potential_pnl": 1952.095,
+      "pnl_multiplier": 1.0,
+      "wallet_age_days": 0,
+      "total_activities": 2
+    },
+    "timestamp": "2026-08-30T21:49:28.858305",
+    "trade_hash": "0x9efc2511f8caba666a8e68689568bc90c312fb57d2c22b597c3350d99b5bdc93",
+    "trade_timestamp": 1788125413,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.5,
+      "effective_price": 0.5,
+      "size": 3904.19,
+      "amount": 1952.095,
+      "potential_pnl": 1952.095,
+      "pnl_multiplier": 1.0,
+      "is_no": false,
+      "slug": "2026-balance-of-power-d-senate-d-house-949",
+      "eventSlug": "balance-of-power-2026-midterms"
+    },
+    "irrationality": {
+      "irrationality_score": 25,
+      "flags": [
+        "Significant mispricing edge (+14.3%)"
+      ],
+      "category": "politics_near",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.02,
+        "min_edge": 0.03
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.3575,
+      "market_price": 0.5,
+      "edge": 0.14250000000000002,
+      "edge_percent": 14.250000000000002,
+      "min_edge_required": 0.03,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 25,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.14250000000000002,
+      "edge_percent": 14.250000000000002
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 40.4,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 14.25,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
