@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x76e783943c62cfaa02a5cf8fe6cec0e356ea4a32d6a3757004ef31cce889451d",
-    "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
-    "trader": {
-      "rank": 11,
-      "address": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
-      "username": "KeyTransporter",
-      "profit": 5711459.802519929,
-      "volume": 20086062.154324997,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
-      "side": "BUY",
-      "asset": "55492439440677421927522420650735236866647329767839105951851747584950260767788",
-      "conditionId": "0x460a7b654c9c2d4f8c36fe5e2b67bc122e9d49b2fc7e2941796a3a465311a2d7",
-      "size": 18124.72,
-      "price": 0.5,
-      "timestamp": 1779927508,
-      "title": "LoL: Supernova vs Winthrop University (BO5) - North American Challengers League Playoffs",
-      "slug": "lol-sn-wu-2026-05-27",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
-      "eventSlug": "lol-sn-wu-2026-05-27",
-      "outcome": "Supernova",
-      "outcomeIndex": 0,
-      "name": "iDARKenjoyer",
-      "pseudonym": "Corrupt-Poisoning",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-2123373-d9b1d775-51b8-4b01-98c0-97369efe2abe.webp",
-      "profileImageOptimized": "",
-      "transactionHash": "0x76e783943c62cfaa02a5cf8fe6cec0e356ea4a32d6a3757004ef31cce889451d",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "LoL: Supernova vs Winthrop University (BO5) - North American Challengers League Playoffs",
-    "market_slug": "lol-sn-wu-2026-05-27",
-    "amount": 9062.36
-  },
-  {
     "market": "US x Iran permanent peace deal by May 31, 2026?",
     "market_slug": "us-x-iran-permanent-peace-deal-by-may-31-2026-333-871-241-192-799",
     "event_slug": "us-x-iran-permanent-peace-deal-by-may-31-2026-333-871-241-192-799",
@@ -29656,5 +29612,110 @@
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     },
     "resolution_last_check": "2026-08-31T12:48:52.206673+00:00"
+  },
+  {
+    "market": "Will Grand Theft Auto VI Extended Look get between 20 and 22 million views on week 1?",
+    "market_slug": "will-grand-theft-auto-vi-extended-look-get-between-20-and-22-million-views-on-week-1",
+    "event_slug": "will-grand-theft-auto-vi-extended-look-get-between-20-and-22-million-views-on-week-1",
+    "wallet": "0xc3207d7a11ffd98b79379efe2ca6462b394de525",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,753)",
+        "Low activity (2 txns)"
+      ],
+      "amount": 1753.2082002450682,
+      "odds": 0.2283391052,
+      "raw_price": 0.2283391052,
+      "outcome": "Yes",
+      "potential_pnl": 5924.881799754932,
+      "pnl_multiplier": 3.3794513389378036,
+      "wallet_age_days": 0,
+      "total_activities": 2
+    },
+    "timestamp": "2026-09-02T09:06:53.977395",
+    "trade_hash": "0x0c95902af619cc2b6429047026501ac974aea390f054b32ea06b414d5442c223",
+    "trade_timestamp": 1788339165,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.2283391052,
+      "effective_price": 0.2283391052,
+      "size": 7678.09,
+      "amount": 1753.2082002450682,
+      "potential_pnl": 5924.881799754932,
+      "pnl_multiplier": 3.3794513389378036,
+      "is_no": false,
+      "slug": "will-grand-theft-auto-vi-extended-look-get-between-20-and-22-million-views-on-week-1",
+      "eventSlug": "of-views-of-grand-theft-auto-vi-extended-look-on-week-1"
+    },
+    "irrationality": {
+      "irrationality_score": 18,
+      "flags": [
+        "Moderate mispricing edge (+7.0%)"
+      ],
+      "category": "other",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.15883564208,
+      "market_price": 0.2283391052,
+      "edge": 0.06950346312,
+      "edge_percent": 6.950346312,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "MODERATE",
+      "base_rate_class": "occasional",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "occasional",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "other",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 18,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.06950346312,
+      "edge_percent": 6.950346312
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 28.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 6.95,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
