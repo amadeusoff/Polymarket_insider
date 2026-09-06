@@ -1,116 +1,5 @@
 [
   {
-    "market": "US x Iran permanent peace deal by May 31, 2026?",
-    "market_slug": "us-x-iran-permanent-peace-deal-by-may-31-2026-333-871-241-192-799",
-    "event_slug": "us-x-iran-permanent-peace-deal-by-may-31-2026-333-871-241-192-799",
-    "wallet": "0x0f0223dc4b5c68f345ac4f0444f2955740b85bfb",
-    "analysis": {
-      "score": 100,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($24,675)",
-        "Pre-event latency: 4042m"
-      ],
-      "amount": 24675.2803,
-      "odds": 0.10999999999999999,
-      "raw_price": 0.89,
-      "outcome": "No",
-      "potential_pnl": 199645.4497,
-      "pnl_multiplier": 8.090909090909092,
-      "wallet_age_days": 0,
-      "total_activities": 16
-    },
-    "timestamp": "2026-05-28T04:44:27.884507",
-    "trade_hash": "0x745b7ff5fa726658e9cb939e2380304414b2c779cde3b4d9dbd7ce7ef47ea83a",
-    "trade_timestamp": 1779943071,
-    "latency": {
-      "latency_seconds": 242529.0,
-      "latency_minutes": 4042.15,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-05-28T04:37:51+00:00",
-      "event_time": "2026-05-31T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "normalized_position": "NO",
-      "side": "BUY",
-      "price": 0.89,
-      "effective_price": 0.89,
-      "size": 224320.73,
-      "amount": 199645.44970000003,
-      "potential_pnl": 24675.280299999984,
-      "pnl_multiplier": 0.12359550561797743,
-      "is_no": true,
-      "slug": "us-x-iran-permanent-peace-deal-by-may-31-2026-333-871-241-192-799",
-      "eventSlug": "us-x-iran-permanent-peace-deal-by"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+39.0%)"
-      ],
-      "category": "politics_near",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.02,
-        "min_edge": 0.03
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.5,
-      "market_price": 0.89,
-      "edge": 0.39,
-      "edge_percent": 39.0,
-      "min_edge_required": 0.03,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "low"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 2,
-        "conditions": [
-          "Unknown"
-        ],
-        "weakest_link": "Unknown"
-      },
-      "category": "politics_near",
-      "narrative_drivers": [
-        "Unknown"
-      ],
-      "confidence_in_analysis": "low"
-    },
-    "combined_signal": {
-      "signal_type": "ALPHA",
-      "signal_emoji": "\ud83d\udd25",
-      "signal_strength": 135,
-      "interpretation": "Smart money (NO) confirms YES is overpriced",
-      "action_suggestion": "High conviction: insider + statistics aligned",
-      "insider_score": 100,
-      "insider_position": "NO",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.39,
-      "edge_percent": 39.0
-    },
-    "financial_analyst": {
-      "signal_quality": 87.0,
-      "stance": "HIGH_CONVICTION",
-      "edge_percent": 39.0,
-      "signal_strength": 135.0,
-      "insider_score": 100.0,
-      "risk_note": "High stake detected \u2014 copy with reduced sizing (25-40% of source risk)."
-    }
-  },
-  {
     "market": "US-Iran nuclear deal by May 31?",
     "market_slug": "us-iran-nuclear-deal-by-may",
     "event_slug": "us-iran-nuclear-deal-by-may",
@@ -29707,6 +29596,111 @@
       "signal_quality": 46.0,
       "stance": "WATCH_ONLY",
       "edge_percent": 19.65,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "US Open WTA: Iva Jovic vs Alexandra Eala AND US Open ATP: Jakub Mensik vs Learner Tien",
+    "market_slug": "",
+    "event_slug": "",
+    "wallet": "0x37e0e00415547ccd5e13a1e0b5cd9de26ea55b05",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($7,256)",
+        "Low activity (3 txns)"
+      ],
+      "amount": 7256.235973445852,
+      "odds": 0.4287747281,
+      "raw_price": 0.4287747281,
+      "outcome": "",
+      "potential_pnl": 9666.95351955415,
+      "pnl_multiplier": 1.332227005148441,
+      "wallet_age_days": 0,
+      "total_activities": 3
+    },
+    "timestamp": "2026-09-06T00:05:21.712077",
+    "trade_hash": "0xedafd7641d7d8d6d85f964412128795ac87d3085de115f571396ac90844a9ff8",
+    "trade_timestamp": 1788652533,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.4287747281,
+      "effective_price": 0.4287747281,
+      "size": 16923.189493,
+      "amount": 7256.235973445852,
+      "potential_pnl": 9666.95351955415,
+      "pnl_multiplier": 1.332227005148441,
+      "is_no": false,
+      "slug": "",
+      "eventSlug": ""
+    },
+    "irrationality": {
+      "irrationality_score": 18,
+      "flags": [
+        "Moderate mispricing edge (+10.0%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.32900989124,
+      "market_price": 0.4287747281,
+      "edge": 0.09976483685999998,
+      "edge_percent": 9.976483685999998,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "MODERATE",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 18,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.09976483685999998,
+      "edge_percent": 9.976483685999998
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 32.6,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 9.98,
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
