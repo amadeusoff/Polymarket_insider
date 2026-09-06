@@ -1,118 +1,5 @@
 [
   {
-    "market": "US-Iran nuclear deal by May 31?",
-    "market_slug": "us-iran-nuclear-deal-by-may",
-    "event_slug": "us-iran-nuclear-deal-by-may",
-    "wallet": "0x5ed1af44aed100017a3a6e886c9f931f55c1e54a",
-    "analysis": {
-      "score": 105,
-      "flags": [
-        "New wallet (1d old)",
-        "Against trend (8.3% effective odds)",
-        "Pre-event latency: 3813m"
-      ],
-      "amount": 672.2999999999997,
-      "odds": 0.08299999999999996,
-      "raw_price": 0.917,
-      "outcome": "No",
-      "potential_pnl": 7427.700000000001,
-      "pnl_multiplier": 11.048192771084343,
-      "wallet_age_days": 1,
-      "total_activities": 6
-    },
-    "timestamp": "2026-05-28T08:35:31.972790",
-    "trade_hash": "0x93f7bf34440e600003dcf3953c959876073110978ad5adfdbb4b2e839a6b97ea",
-    "trade_timestamp": 1779956836,
-    "latency": {
-      "latency_seconds": 228764.0,
-      "latency_minutes": 3812.733333333333,
-      "is_pre_event": true,
-      "severity": "CRITICAL",
-      "trade_time": "2026-05-28T08:27:16+00:00",
-      "event_time": "2026-05-31T00:00:00+00:00"
-    },
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "normalized_position": "NO",
-      "side": "BUY",
-      "price": 0.917,
-      "effective_price": 0.917,
-      "size": 8100.0,
-      "amount": 7427.700000000001,
-      "potential_pnl": 672.2999999999993,
-      "pnl_multiplier": 0.09051254089422017,
-      "is_no": true,
-      "slug": "us-iran-nuclear-deal-by-may",
-      "eventSlug": "us-iran-nuclear-deal-by-may-31-974"
-    },
-    "irrationality": {
-      "irrationality_score": 50,
-      "flags": [
-        "Category structurally prone to longshot bias",
-        "Crisis keyword detected ('nuclear')",
-        "Large mispricing edge (+41.7%)"
-      ],
-      "category": "geopolitics",
-      "category_info": {
-        "strength": "high",
-        "typical_overpricing": 0.05,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.5,
-      "market_price": 0.917,
-      "edge": 0.41700000000000004,
-      "edge_percent": 41.7,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "low"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 2,
-        "conditions": [
-          "Unknown"
-        ],
-        "weakest_link": "Unknown"
-      },
-      "category": "geopolitics",
-      "narrative_drivers": [
-        "Unknown"
-      ],
-      "confidence_in_analysis": "low"
-    },
-    "combined_signal": {
-      "signal_type": "ALPHA",
-      "signal_emoji": "\ud83d\udd25",
-      "signal_strength": 155,
-      "interpretation": "Smart money (NO) confirms YES is overpriced",
-      "action_suggestion": "High conviction: insider + statistics aligned",
-      "insider_score": 105,
-      "insider_position": "NO",
-      "irrationality_score": 50,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.41700000000000004,
-      "edge_percent": 41.7
-    },
-    "financial_analyst": {
-      "signal_quality": 90.0,
-      "stance": "HIGH_CONVICTION",
-      "edge_percent": 41.7,
-      "signal_strength": 155.0,
-      "insider_score": 105.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0x566eb2271e8cc2b73bf7976319961a162179564af6e99a7d4f3529406c5efa0d",
     "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
@@ -29701,6 +29588,111 @@
       "signal_quality": 32.6,
       "stance": "WATCH_ONLY",
       "edge_percent": 9.98,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "LoL: Invictus Gaming vs Team WE (BO5) - LPL Playoffs",
+    "market_slug": "lol-ig1-we-2026",
+    "event_slug": "lol-ig1-we-2026",
+    "wallet": "0x745e98fe54cfce98e7eb9c10ad38ef582b272f7e",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,171)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 1171.2,
+      "odds": 0.6,
+      "raw_price": 0.6,
+      "outcome": "Invictus Gaming",
+      "potential_pnl": 780.8000000000002,
+      "pnl_multiplier": 0.6666666666666667,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-09-06T04:33:56.216141",
+    "trade_hash": "0x4fe3ec2c6bb4e3b77cf569fd38a1f729ea5b55eebf6455d2d549d02f2778297c",
+    "trade_timestamp": 1788668949,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Invictus Gaming",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.6,
+      "effective_price": 0.6,
+      "size": 1952.0,
+      "amount": 1171.2,
+      "potential_pnl": 780.8,
+      "pnl_multiplier": 0.6666666666666666,
+      "is_no": false,
+      "slug": "lol-ig1-we-2026",
+      "eventSlug": "lol-ig1-we-2026-09-06"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+20.2%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.39749999999999996,
+      "market_price": 0.6,
+      "edge": 0.2025,
+      "edge_percent": 20.25,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.2025,
+      "edge_percent": 20.25
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 46.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 20.25,
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
