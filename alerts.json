@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x566eb2271e8cc2b73bf7976319961a162179564af6e99a7d4f3529406c5efa0d",
-    "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
-    "trader": {
-      "rank": 14,
-      "address": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
-      "username": "beachboy4",
-      "profit": 5103013.884809761,
-      "volume": 221493209.143091,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
-      "side": "BUY",
-      "asset": "89206935970489207321360719694280731678454546188325660408676485215059597410977",
-      "conditionId": "0x0d4913323a8df2db0f1bf1287e5a97a42eefa30d17eb84a5c22dad7932730dde",
-      "size": 5825.96,
-      "price": 0.75,
-      "timestamp": 1779970397,
-      "title": "Roland Garros ATP: Facundo Acosta vs Learner Tien",
-      "slug": "atp-acosta-tien-2026-05-28",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
-      "eventSlug": "atp-acosta-tien-2026-05-28",
-      "outcome": "Facundo Acosta",
-      "outcomeIndex": 0,
-      "name": "HomeRunHazard",
-      "pseudonym": "Powerless-Savannah",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x566eb2271e8cc2b73bf7976319961a162179564af6e99a7d4f3529406c5efa0d",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Roland Garros ATP: Facundo Acosta vs Learner Tien",
-    "market_slug": "atp-acosta-tien-2026-05-28",
-    "amount": 4369.47
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x356c0afab9a85c40747c935d2810f01435ff6d2f040637119d4d36528b4e8f12",
     "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
     "trader": {
@@ -29693,6 +29649,111 @@
       "signal_quality": 46.0,
       "stance": "WATCH_ONLY",
       "edge_percent": 20.25,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "US Open ATP: Daniil Medvedev vs Frances Tiafoe",
+    "market_slug": "atp-medvede-tiafoe-2026",
+    "event_slug": "atp-medvede-tiafoe-2026",
+    "wallet": "0xc288d52a29a543b85835ac4880b6ffeba6ea8957",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,920)",
+        "Low activity (3 txns)"
+      ],
+      "amount": 1920.0000001553785,
+      "odds": 0.2457669334,
+      "raw_price": 0.2457669334,
+      "outcome": "Daniil Medvedev",
+      "potential_pnl": 5892.279599844622,
+      "pnl_multiplier": 3.0688956246707195,
+      "wallet_age_days": 0,
+      "total_activities": 3
+    },
+    "timestamp": "2026-09-06T22:08:53.992897",
+    "trade_hash": "0x62ded8c58847f9f9de83a58bd9bd31bdda23b0a3c3e6ca81672b139e374d6af9",
+    "trade_timestamp": 1788731857,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Daniil Medvedev",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.2457669334,
+      "effective_price": 0.2457669334,
+      "size": 7812.2796,
+      "amount": 1920.0000001553785,
+      "potential_pnl": 5892.279599844622,
+      "pnl_multiplier": 3.0688956246707195,
+      "is_no": false,
+      "slug": "atp-medvede-tiafoe-2026",
+      "eventSlug": "atp-medvede-tiafoe-2026-09-06"
+    },
+    "irrationality": {
+      "irrationality_score": 18,
+      "flags": [
+        "Moderate mispricing edge (+8.0%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.16580677336,
+      "market_price": 0.2457669334,
+      "edge": 0.07996016004,
+      "edge_percent": 7.996016004,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "MODERATE",
+      "base_rate_class": "occasional",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "occasional",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 18,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.07996016004,
+      "edge_percent": 7.996016004
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 29.6,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 8.0,
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
