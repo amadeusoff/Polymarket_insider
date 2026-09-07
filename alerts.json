@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x356c0afab9a85c40747c935d2810f01435ff6d2f040637119d4d36528b4e8f12",
-    "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
-    "trader": {
-      "rank": 14,
-      "address": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
-      "username": "beachboy4",
-      "profit": 5103013.884809761,
-      "volume": 221493209.143091,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xc0f5345be7d24194892f10627123ffe91c633d04",
-      "side": "BUY",
-      "asset": "3691093980078454138642535463026058774195331486659313246607852230171366739388",
-      "conditionId": "0x1a8060f47bb84d829475ca18fd997ee81e28b2a99dc0b1451612409383a6f4ac",
-      "size": 3000,
-      "price": 0.62,
-      "timestamp": 1779970395,
-      "title": "Dota 2: LGD Gaming vs PARIVISION (BO1) - BLAST Slam Group Stage",
-      "slug": "dota2-lgd-pari-2026-05-28",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/dota2-7ffacddb21.jpg",
-      "eventSlug": "dota2-lgd-pari-2026-05-28",
-      "outcome": "LGD Gaming",
-      "outcomeIndex": 0,
-      "name": "hff.",
-      "pseudonym": "Cautious-Vine",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x356c0afab9a85c40747c935d2810f01435ff6d2f040637119d4d36528b4e8f12",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Dota 2: LGD Gaming vs PARIVISION (BO1) - BLAST Slam Group Stage",
-    "market_slug": "dota2-lgd-pari-2026-05-28",
-    "amount": 1860.0
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xd8015950c22d1bfb53b233d73149e533a81822198254062dee329c7c2fafc24e",
     "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
     "trader": {
@@ -29754,6 +29710,111 @@
       "signal_quality": 29.6,
       "stance": "WATCH_ONLY",
       "edge_percent": 8.0,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Spread: Ole Miss (-6.5)",
+    "market_slug": "cfb-lou-miss-2026-09-06-spread-home-6pt5",
+    "event_slug": "cfb-lou-miss-2026-09-06-spread-home-6pt5",
+    "wallet": "0xde9d9cff61559588c550b3367be3de7dc59df32b",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,924)",
+        "Low activity (4 txns)"
+      ],
+      "amount": 1924.4099988299213,
+      "odds": 0.5199999999,
+      "raw_price": 0.5199999999,
+      "outcome": "Ole Miss",
+      "potential_pnl": 1776.378461170079,
+      "pnl_multiplier": 0.9230769234467455,
+      "wallet_age_days": 0,
+      "total_activities": 4
+    },
+    "timestamp": "2026-09-06T23:55:45.055021",
+    "trade_hash": "0x95698a5381b717d4f446eb3f03ad193370b1960bd673c92df0715dd32b89ded2",
+    "trade_timestamp": 1788738106,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Ole Miss",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.5199999999,
+      "effective_price": 0.5199999999,
+      "size": 3700.78846,
+      "amount": 1924.4099988299213,
+      "potential_pnl": 1776.378461170079,
+      "pnl_multiplier": 0.9230769234467455,
+      "is_no": false,
+      "slug": "cfb-lou-miss-2026-09-06-spread-home-6pt5",
+      "eventSlug": "cfb-lou-miss-2026-09-06"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+15.4%)"
+      ],
+      "category": "other",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.36549999996,
+      "market_price": 0.5199999999,
+      "edge": 0.15449999994000002,
+      "edge_percent": 15.449999994000002,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "other",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.15449999994000002,
+      "edge_percent": 15.449999994000002
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 44.2,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 15.45,
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
