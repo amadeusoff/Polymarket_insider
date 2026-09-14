@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x779d841ce5b9c10455d053cebc5d7f26b3c6afc6ea187fbb0cf81fb8582f2258",
-    "wallet": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
-    "trader": {
-      "rank": 19,
-      "address": "0xdc876e6873772d38716fda7f2452a78d426d7ab6",
-      "username": "432614799197",
-      "profit": 4526176.046413317,
-      "volume": 185491941.63208288,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xdba81c610fdf70043035b576bd7921e7605a9acc",
-      "side": "BUY",
-      "asset": "58351404807281795581476004998460954870930196953400439077076671439671359394705",
-      "conditionId": "0x6869dd21e8ca7c8f61cfd1c24bb95bb9325b6b8147ad3b1bfc276e8184f11e65",
-      "size": 8251.07,
-      "price": 0.64,
-      "timestamp": 1779986670,
-      "title": "Roland Garros ATP: Matteo Arnaldi vs Stefanos Tsitsipas",
-      "slug": "atp-arnaldi-tsitsip-2026-05-28",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
-      "eventSlug": "atp-arnaldi-tsitsip-2026-05-28",
-      "outcome": "Stefanos Tsitsipas",
-      "outcomeIndex": 1,
-      "name": "tennis1488",
-      "pseudonym": "Equatorial-Cooking",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x779d841ce5b9c10455d053cebc5d7f26b3c6afc6ea187fbb0cf81fb8582f2258",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Roland Garros ATP: Matteo Arnaldi vs Stefanos Tsitsipas",
-    "market_slug": "atp-arnaldi-tsitsip-2026-05-28",
-    "amount": 5280.6848
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x72fff2f952a3830cfaeacaa5d2584bb9b91f30a81216843b801a9664dae5b27b",
     "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
     "trader": {
@@ -29880,5 +29836,116 @@
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     },
     "resolution_last_check": "2026-09-10T10:44:26.807944+00:00"
+  },
+  {
+    "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+    "market_slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+    "event_slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+    "wallet": "0x4b460c18c64bd810bbb43be50a9e016e8ac7ad8c",
+    "analysis": {
+      "score": 110,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,058)",
+        "Low activity (1 txns)",
+        "Pre-event latency: 7994m"
+      ],
+      "amount": 1058.1214,
+      "odds": 0.19,
+      "raw_price": 0.19,
+      "outcome": "Yes",
+      "potential_pnl": 4510.9385999999995,
+      "pnl_multiplier": 4.263157894736842,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-09-14T10:53:22.651087",
+    "trade_hash": "0x1f1112e33b65f6fbc5d40c63bf07a592d292b08323fe3ba98cf1e377d2ed2b1b",
+    "trade_timestamp": 1789382743,
+    "latency": {
+      "latency_seconds": 479657.0,
+      "latency_minutes": 7994.283333333334,
+      "is_pre_event": true,
+      "severity": "CRITICAL",
+      "trade_time": "2026-09-14T10:45:43+00:00",
+      "event_time": "2026-09-20T00:00:00+00:00"
+    },
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.19,
+      "effective_price": 0.19,
+      "size": 5569.06,
+      "amount": 1058.1214,
+      "potential_pnl": 4510.9386,
+      "pnl_multiplier": 4.2631578947368425,
+      "is_no": false,
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "eventSlug": "fed-decision-in-september-762"
+    },
+    "irrationality": {
+      "irrationality_score": 10,
+      "flags": [],
+      "category": "politics_near",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.02,
+        "min_edge": 0.03
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.14350000000000002,
+      "market_price": 0.19,
+      "edge": 0.046499999999999986,
+      "edge_percent": 4.649999999999999,
+      "min_edge_required": 0.03,
+      "is_mispriced": true,
+      "edge_quality": "MODERATE",
+      "base_rate_class": "occasional",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "occasional",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 110,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 110,
+      "insider_position": "YES",
+      "irrationality_score": 10,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.046499999999999986,
+      "edge_percent": 4.649999999999999
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 29.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 4.65,
+      "signal_strength": 110.0,
+      "insider_score": 110.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
