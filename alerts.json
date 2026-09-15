@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x72fff2f952a3830cfaeacaa5d2584bb9b91f30a81216843b801a9664dae5b27b",
-    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
-    "trader": {
-      "rank": 12,
-      "address": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
-      "username": "BetTom42",
-      "profit": 5642135.735356,
-      "volume": 11212839.523403002,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
-      "side": "BUY",
-      "asset": "60115970267703212992426605505291140146512904439386478204146216848307664185101",
-      "conditionId": "0xaeed2fb5cf4ee503ba41e872ca2db0d7f3e04225dfd63fa109b0581a0d387f6e",
-      "size": 3817.63,
-      "price": 0.5,
-      "timestamp": 1780014019,
-      "title": "Spread: Spurs (-3.5)",
-      "slug": "nba-okc-sas-2026-05-28-spread-home-3pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-      "eventSlug": "nba-okc-sas-2026-05-28",
-      "outcome": "Spurs",
-      "outcomeIndex": 0,
-      "name": "mooseborzoi",
-      "pseudonym": "Agitated-Bricklaying",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x72fff2f952a3830cfaeacaa5d2584bb9b91f30a81216843b801a9664dae5b27b",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Spread: Spurs (-3.5)",
-    "market_slug": "nba-okc-sas-2026-05-28",
-    "amount": 1908.815
-  },
-  {
     "market": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 31, 2026?",
     "market_slug": "will-donald-trump-announce-that-the-united-states-blockade-of-the-strait-of-hormuz-has-been-lifted-by-may-31-2026-313-388-459",
     "event_slug": "will-donald-trump-announce-that-the-united-states-blockade-of-the-strait-of-hormuz-has-been-lifted-by-may-31-2026-313-388-459",
@@ -29948,5 +29904,118 @@
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     },
     "resolution_last_check": "2026-09-14T11:55:27.314434+00:00"
+  },
+  {
+    "market": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+    "market_slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+    "event_slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+    "wallet": "0x84c8a56009b32fcf5ecac72317dab94dc265015b",
+    "analysis": {
+      "score": 110,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,158)",
+        "Low activity (1 txns)",
+        "Pre-event latency: 6448m"
+      ],
+      "amount": 1158.3,
+      "odds": 0.88,
+      "raw_price": 0.88,
+      "outcome": "Yes",
+      "potential_pnl": 157.95000000000005,
+      "pnl_multiplier": 0.1363636363636364,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-09-15T12:45:14.855455",
+    "trade_hash": "0xffbce850c0af81be6da045fd67b0bcf95252ea7d1dfe784fa1c318b89b986dc2",
+    "trade_timestamp": 1789475496,
+    "latency": {
+      "latency_seconds": 386904.0,
+      "latency_minutes": 6448.4,
+      "is_pre_event": true,
+      "severity": "CRITICAL",
+      "trade_time": "2026-09-15T12:31:36+00:00",
+      "event_time": "2026-09-20T00:00:00+00:00"
+    },
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.88,
+      "effective_price": 0.88,
+      "size": 1316.25,
+      "amount": 1158.3,
+      "potential_pnl": 157.95000000000005,
+      "pnl_multiplier": 0.1363636363636364,
+      "is_no": false,
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "eventSlug": "fed-decision-in-september-762"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+38.0%)"
+      ],
+      "category": "politics_near",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.02,
+        "min_edge": 0.03
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.5,
+      "market_price": 0.88,
+      "edge": 0.38,
+      "edge_percent": 38.0,
+      "min_edge_required": 0.03,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 110,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 110,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.38,
+      "edge_percent": 38.0
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 52.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 38.0,
+      "signal_strength": 110.0,
+      "insider_score": 110.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
