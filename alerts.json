@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x234a7d3c362a9d1c9995ec9b7738a4e46e9c1570538800ef8dacf7bfa361fb1c",
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "trader": {
-      "rank": 5,
-      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-      "username": "swisstony",
-      "profit": 9032426.635924105,
-      "volume": 827838113.4084551,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x69adf268789f93b2c4da978870af74ae945f31e6",
-      "side": "BUY",
-      "asset": "463279187382621806897421646033808118564827302421257202657897938951312627330",
-      "conditionId": "0x3d86f4e2a626306b0ce92a0b3f3546bf5786467bb8742acbeee171691b62ede9",
-      "size": 3526,
-      "price": 0.63,
-      "timestamp": 1780070637,
-      "title": "Indian Premier League: Gujarat Titans vs Rajasthan Royals",
-      "slug": "cricipl-guj-raj-2026-05-29",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
-      "eventSlug": "cricipl-guj-raj-2026-05-29",
-      "outcome": "Rajasthan Royals",
-      "outcomeIndex": 1,
-      "name": "ferenc89",
-      "pseudonym": "Zigzag-Logistics",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-6294534-c7fd83ce-7238-420c-89fb-f22e73fd423a.png",
-      "profileImageOptimized": "",
-      "transactionHash": "0x234a7d3c362a9d1c9995ec9b7738a4e46e9c1570538800ef8dacf7bfa361fb1c",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Indian Premier League: Gujarat Titans vs Rajasthan Royals",
-    "market_slug": "cricipl-guj-raj-2026-05-29",
-    "amount": 2221.38
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x8c618ef06f1cb52f53f5bd0985dad83d72e363d0624771cc17fcee905cf4b82c",
     "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
     "trader": {
@@ -30020,6 +29976,111 @@
       "edge_percent": 38.0,
       "signal_strength": 110.0,
       "insider_score": 110.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
+    "market_slug": "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election",
+    "event_slug": "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election",
+    "wallet": "0x5de82c97d93ba76643ce18e178afc4240ad896db",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($5,000)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 4999.999999782106,
+      "odds": 0.7599999999,
+      "raw_price": 0.7599999999,
+      "outcome": "Yes",
+      "potential_pnl": 1578.9473692178954,
+      "pnl_multiplier": 0.3157894738573408,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-09-17T19:07:58.075879",
+    "trade_hash": "0x16b7031eede6c68caa3693fa402d87a26af16b992d9706adde8d6ae04a0d5a3a",
+    "trade_timestamp": 1789671316,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.7599999999,
+      "effective_price": 0.7599999999,
+      "size": 6578.947369,
+      "amount": 4999.999999782106,
+      "potential_pnl": 1578.9473692178944,
+      "pnl_multiplier": 0.31578947385734063,
+      "is_no": false,
+      "slug": "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election",
+      "eventSlug": "which-party-will-gain-most-seats-in-russian-parliamentary-election"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+29.8%)"
+      ],
+      "category": "other",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.46149999996,
+      "market_price": 0.7599999999,
+      "edge": 0.29849999994,
+      "edge_percent": 29.849999993999997,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "other",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.29849999994,
+      "edge_percent": 29.849999993999997
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 46.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 29.85,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     }
   }
