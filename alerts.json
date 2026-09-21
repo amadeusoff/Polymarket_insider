@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x8c618ef06f1cb52f53f5bd0985dad83d72e363d0624771cc17fcee905cf4b82c",
-    "wallet": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
-    "trader": {
-      "rank": 11,
-      "address": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
-      "username": "KeyTransporter",
-      "profit": 5711459.802519929,
-      "volume": 20086062.154324993,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xcd65c3279408a33866a9129bed6943064cb6ee96",
-      "side": "BUY",
-      "asset": "27461892481079191806611035709822971313974256723742380025599910772208378255132",
-      "conditionId": "0xbc220fdc68b5aa23c11d51b2b63bdd56c9615e4166674e40b155dbd61265a19c",
-      "size": 4449.351332,
-      "price": 0.44950372532190946,
-      "timestamp": 1780070938,
-      "title": "Set Handicap: Ruud (-1.5) vs Paul (+1.5)",
-      "slug": "atp-ruud-paul-2026-05-29-set-handicap-home-1pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
-      "eventSlug": "atp-ruud-paul-2026-05-29",
-      "outcome": "Paul",
-      "outcomeIndex": 1,
-      "name": "NiNo999",
-      "pseudonym": "Frosty-Layer-Numismatist",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x8c618ef06f1cb52f53f5bd0985dad83d72e363d0624771cc17fcee905cf4b82c",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Set Handicap: Ruud (-1.5) vs Paul (+1.5)",
-    "market_slug": "atp-ruud-paul-2026-05-29",
-    "amount": 1999.9999990000001
-  },
-  {
     "market": "Los Angeles Angels vs. Tampa Bay Rays",
     "market_slug": "mlb-laa-tb-2026",
     "event_slug": "mlb-laa-tb-2026",
@@ -30084,5 +30040,110 @@
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     },
     "resolution_last_check": "2026-09-18T10:42:36.604142+00:00"
+  },
+  {
+    "market": "Dota 2: LGD Gaming vs Aurora (BO3) - PGL Wallachia Group Stage",
+    "market_slug": "dota2-lgd-aur1-2026",
+    "event_slug": "dota2-lgd-aur1-2026",
+    "wallet": "0x89183bf0236506d7a81530494218dae269a67725",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,181)",
+        "Low activity (2 txns)"
+      ],
+      "amount": 1181.4621,
+      "odds": 0.39,
+      "raw_price": 0.39,
+      "outcome": "LGD Gaming",
+      "potential_pnl": 1847.9279,
+      "pnl_multiplier": 1.564102564102564,
+      "wallet_age_days": 0,
+      "total_activities": 2
+    },
+    "timestamp": "2026-09-21T22:22:48.094576",
+    "trade_hash": "0xafd3fb2aefbfd359ade797a85a43c892cd7f46ea2c88fc19a91b33d2da6003da",
+    "trade_timestamp": 1790028993,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "LGD Gaming",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.39,
+      "effective_price": 0.39,
+      "size": 3029.39,
+      "amount": 1181.4621,
+      "potential_pnl": 1847.9279,
+      "pnl_multiplier": 1.564102564102564,
+      "is_no": false,
+      "slug": "dota2-lgd-aur1-2026",
+      "eventSlug": "dota2-lgd-aur1-2026-09-22"
+    },
+    "irrationality": {
+      "irrationality_score": 18,
+      "flags": [
+        "Moderate mispricing edge (+7.7%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.3135,
+      "market_price": 0.39,
+      "edge": 0.07650000000000001,
+      "edge_percent": 7.650000000000001,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "MODERATE",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 18,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.07650000000000001,
+      "edge_percent": 7.650000000000001
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 29.1,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 7.65,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
