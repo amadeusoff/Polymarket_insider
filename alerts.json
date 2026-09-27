@@ -1,109 +1,5 @@
 [
   {
-    "market": "Los Angeles Angels vs. Tampa Bay Rays",
-    "market_slug": "mlb-laa-tb-2026",
-    "event_slug": "mlb-laa-tb-2026",
-    "wallet": "0x677a4402f0c71955ba7b017ffb7cd43756af1d52",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($4,760)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 4759.609999,
-      "odds": 0.5899999999652913,
-      "raw_price": 0.5899999999652913,
-      "outcome": "Tampa Bay Rays",
-      "potential_pnl": 3307.5255930000003,
-      "pnl_multiplier": 0.6949152543369972,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-05-29T22:41:44.756288",
-    "trade_hash": "0xeb0384af10c9bba0e10785a1675b84b3b8f33dde7b1cbd2b3a33c8e72413f6e3",
-    "trade_timestamp": 1780094174,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Tampa Bay Rays",
-      "outcomeIndex": 1,
-      "normalized_position": "NO",
-      "side": "BUY",
-      "price": 0.5899999999652913,
-      "effective_price": 0.5899999999652913,
-      "size": 8067.135592,
-      "amount": 4759.609999,
-      "potential_pnl": 3307.5255929999994,
-      "pnl_multiplier": 0.6949152543369971,
-      "is_no": false,
-      "slug": "mlb-laa-tb-2026",
-      "eventSlug": "mlb-laa-tb-2026-05-29"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+19.6%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.3934999999861165,
-      "market_price": 0.5899999999652913,
-      "edge": 0.19649999997917478,
-      "edge_percent": 19.649999997917476,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "low"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 2,
-        "conditions": [
-          "Unknown"
-        ],
-        "weakest_link": "Unknown"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Unknown"
-      ],
-      "confidence_in_analysis": "low"
-    },
-    "combined_signal": {
-      "signal_type": "ALPHA",
-      "signal_emoji": "\ud83d\udd25",
-      "signal_strength": 105,
-      "interpretation": "Smart money (NO) confirms YES is overpriced",
-      "action_suggestion": "High conviction: insider + statistics aligned",
-      "insider_score": 70,
-      "insider_position": "NO",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.19649999997917478,
-      "edge_percent": 19.649999997917476
-    },
-    "financial_analyst": {
-      "signal_quality": 81.0,
-      "stance": "HIGH_CONVICTION",
-      "edge_percent": 19.65,
-      "signal_strength": 105.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0x7ce1264b40adfe89887caf5c22b95eb83b393f94ff6580daa1d1b8659fe8b849",
     "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
@@ -30141,6 +30037,111 @@
       "signal_quality": 29.1,
       "stance": "WATCH_ONLY",
       "edge_percent": 7.65,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Jack Lowden announced as next James Bond?",
+    "market_slug": "jack-lowdon-announced-as-next-james-bond-917",
+    "event_slug": "jack-lowdon-announced-as-next-james-bond-917",
+    "wallet": "0x23cd41e50c4ea02e13f9cbdcbd8631f9bc6f377a",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($2,799)",
+        "Low activity (2 txns)"
+      ],
+      "amount": 2798.9500002984955,
+      "odds": 0.4465888801,
+      "raw_price": 0.4465888801,
+      "outcome": "Yes",
+      "potential_pnl": 3468.4474317015042,
+      "pnl_multiplier": 1.2391959239470551,
+      "wallet_age_days": 0,
+      "total_activities": 2
+    },
+    "timestamp": "2026-09-27T15:17:08.059409",
+    "trade_hash": "0xc38a1625df45c56a79ca6553b48eb84cbdf89b459d6b195b083af52c452c2c99",
+    "trade_timestamp": 1790522013,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.4465888801,
+      "effective_price": 0.4465888801,
+      "size": 6267.397432,
+      "amount": 2798.9500002984955,
+      "potential_pnl": 3468.4474317015042,
+      "pnl_multiplier": 1.2391959239470551,
+      "is_no": false,
+      "slug": "jack-lowdon-announced-as-next-james-bond-917",
+      "eventSlug": "next-james-bond-actor-398"
+    },
+    "irrationality": {
+      "irrationality_score": 25,
+      "flags": [
+        "Significant mispricing edge (+11.0%)"
+      ],
+      "category": "other",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.33613555204,
+      "market_price": 0.4465888801,
+      "edge": 0.11045332805999997,
+      "edge_percent": 11.045332805999998,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "other",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 25,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.11045332805999997,
+      "edge_percent": 11.045332805999998
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 35.6,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 11.05,
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
