@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x7ce1264b40adfe89887caf5c22b95eb83b393f94ff6580daa1d1b8659fe8b849",
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "trader": {
-      "rank": 4,
-      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-      "username": "swisstony",
-      "profit": 9139777.246979974,
-      "volume": 832552653.2405623,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x86fbea68d619daf670185ecd38a69aa90f7703d4",
-      "side": "BUY",
-      "asset": "48266155784016844137166283546442505319002353733298913457784203021568892550163",
-      "conditionId": "0x5dc96d5b6d416507a833231f23a08c69cd04592031519e2d225e2d9860e978cf",
-      "size": 7575.757574,
-      "price": 0.32999999994456,
-      "timestamp": 1780155573,
-      "title": "Will Arsenal FC win on 2026-05-30?",
-      "slug": "ucl-psg-ars-2026-05-30-ars",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/champions-league-pic-QIUFsL8vaDdq.png",
-      "eventSlug": "ucl-psg-ars-2026-05-30",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "",
-      "pseudonym": "",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x7ce1264b40adfe89887caf5c22b95eb83b393f94ff6580daa1d1b8659fe8b849",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Arsenal FC win on 2026-05-30?",
-    "market_slug": "ucl-psg-ars-2026-05-30",
-    "amount": 2499.9999989999997
-  },
-  {
     "market": "Will Arsenal win the 2025\u201326 Champions League?",
     "market_slug": "will-arsenal-win-the-202526-champions-league",
     "event_slug": "will-arsenal-win-the-202526-champions-league",
@@ -30147,5 +30103,110 @@
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     },
     "resolution_last_check": "2026-09-28T13:02:27.378131+00:00"
+  },
+  {
+    "market": "Will Fl\u00e1vio Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election?",
+    "market_slug": "will-flvio-bolsonaro-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election",
+    "event_slug": "will-flvio-bolsonaro-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election",
+    "wallet": "0x9cd1f5d1f17a107273a3b4809a1ffede38e96abd",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($49,422)",
+        "Low activity (2 txns)"
+      ],
+      "amount": 49421.54999939836,
+      "odds": 0.7488720348,
+      "raw_price": 0.7488720348,
+      "outcome": "Yes",
+      "potential_pnl": 16573.102895601645,
+      "pnl_multiplier": 0.3353416251777494,
+      "wallet_age_days": 0,
+      "total_activities": 2
+    },
+    "timestamp": "2026-10-03T16:14:28.044142",
+    "trade_hash": "0xddad46f05809a5d573b887e83fc34fab88fc6216cc3fe12e47ce002fb042df9a",
+    "trade_timestamp": 1791043623,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.7488720348,
+      "effective_price": 0.7488720348,
+      "size": 65994.652895,
+      "amount": 49421.54999939836,
+      "potential_pnl": 16573.102895601645,
+      "pnl_multiplier": 0.3353416251777494,
+      "is_no": false,
+      "slug": "will-flvio-bolsonaro-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election",
+      "eventSlug": "brazil-presidential-election-first-round-2nd-place"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+29.2%)"
+      ],
+      "category": "politics_near",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.02,
+        "min_edge": 0.03
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.45704881391999996,
+      "market_price": 0.7488720348,
+      "edge": 0.29182322088,
+      "edge_percent": 29.182322088,
+      "min_edge_required": 0.03,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.29182322088,
+      "edge_percent": 29.182322088
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 46.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 29.18,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
