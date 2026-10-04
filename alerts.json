@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xc78216c8f67e2a464724576c0c39978fa2a261ea4108bc665c281d3dab1ee3d8",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
-      "side": "SELL",
-      "asset": "8767062374633747147173231375060007280840317087761011267521587097785091072843",
-      "conditionId": "0x361d8bb753f6363664f582f7eaaadf3fabdabff3ac07cf5b9eac84d0f355e9bf",
-      "size": 3081,
-      "price": 0.49,
-      "timestamp": 1780171855,
-      "title": "LoL: FlyQuest vs Sentinels - Game 1 Winner",
-      "slug": "lol-fly-sen-2026-05-30-game1",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
-      "eventSlug": "lol-fly-sen-2026-05-30",
-      "outcome": "FlyQuest",
-      "outcomeIndex": 0,
-      "name": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
-      "pseudonym": "Dearest-Urge",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xc78216c8f67e2a464724576c0c39978fa2a261ea4108bc665c281d3dab1ee3d8",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "LoL: FlyQuest vs Sentinels - Game 1 Winner",
-    "market_slug": "lol-fly-sen-2026-05-30",
-    "amount": 1509.69
-  },
-  {
     "market": "Philadelphia Phillies vs. Los Angeles Dodgers: O/U 8.5",
     "market_slug": "mlb-phi-lad-2026-05-30-total-8pt5",
     "event_slug": "mlb-phi-lad-2026-05-30-total-8pt5",
@@ -30267,6 +30223,111 @@
       "signal_quality": 46.0,
       "stance": "WATCH_ONLY",
       "edge_percent": 22.05,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Spread: Bills (-7.5)",
+    "market_slug": "nfl-ne-buf-2026-10-04-spread-home-7pt5",
+    "event_slug": "nfl-ne-buf-2026-10-04-spread-home-7pt5",
+    "wallet": "0xfbfb74e34e4ad51d0409ff98a2b291b9b9f30dce",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,350)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 1350.0,
+      "odds": 0.45,
+      "raw_price": 0.45,
+      "outcome": "Bills",
+      "potential_pnl": 1650.0,
+      "pnl_multiplier": 1.2222222222222223,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-10-04T17:11:48.558828",
+    "trade_hash": "0xe118e3d64f6b97d72dcef0a3765ea1828cb132b4be1c40fbd3b96be7777cf9d8",
+    "trade_timestamp": 1791133339,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Bills",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.45,
+      "effective_price": 0.45,
+      "size": 3000.0,
+      "amount": 1350.0,
+      "potential_pnl": 1650.0,
+      "pnl_multiplier": 1.2222222222222223,
+      "is_no": false,
+      "slug": "nfl-ne-buf-2026-10-04-spread-home-7pt5",
+      "eventSlug": "nfl-ne-buf-2026-10-04"
+    },
+    "irrationality": {
+      "irrationality_score": 25,
+      "flags": [
+        "Significant mispricing edge (+11.2%)"
+      ],
+      "category": "other",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.3375,
+      "market_price": 0.45,
+      "edge": 0.11249999999999999,
+      "edge_percent": 11.249999999999998,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "other",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 25,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.11249999999999999,
+      "edge_percent": 11.249999999999998
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 35.9,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 11.25,
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
