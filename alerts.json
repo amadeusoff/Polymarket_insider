@@ -1,110 +1,5 @@
 [
   {
-    "market": "Will Arsenal win the 2025\u201326 Champions League?",
-    "market_slug": "will-arsenal-win-the-202526-champions-league",
-    "event_slug": "will-arsenal-win-the-202526-champions-league",
-    "wallet": "0x9f63d72adf8286652a7613eb81ccaae7ff6eda1c",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,900)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 1899.9999990000001,
-      "odds": 0.5389073578207766,
-      "raw_price": 0.5389073578207766,
-      "outcome": "Yes",
-      "potential_pnl": 1625.6523629999997,
-      "pnl_multiplier": 0.8556065072924243,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-05-30T19:02:59.092859",
-    "trade_hash": "0x878c4c4aeca124df4506efc0ca1ac291d67ec2f6cea39e1792385b7cccb6ebe8",
-    "trade_timestamp": 1780167212,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "normalized_position": "YES",
-      "side": "BUY",
-      "price": 0.5389073578207766,
-      "effective_price": 0.5389073578207766,
-      "size": 3525.652362,
-      "amount": 1899.9999990000001,
-      "potential_pnl": 1625.6523629999997,
-      "pnl_multiplier": 0.8556065072924243,
-      "is_no": false,
-      "slug": "will-arsenal-win-the-202526-champions-league",
-      "eventSlug": "uefa-champions-league-winner"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+16.6%)"
-      ],
-      "category": "politics_near",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.02,
-        "min_edge": 0.03
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.3730629431283106,
-      "market_price": 0.5389073578207766,
-      "edge": 0.16584441469246597,
-      "edge_percent": 16.584441469246595,
-      "min_edge_required": 0.03,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "low"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 2,
-        "conditions": [
-          "Unknown"
-        ],
-        "weakest_link": "Unknown"
-      },
-      "category": "politics_near",
-      "narrative_drivers": [
-        "Unknown"
-      ],
-      "confidence_in_analysis": "low"
-    },
-    "combined_signal": {
-      "signal_type": "CONFLICT",
-      "signal_emoji": "\u26a0\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider buying YES despite statistical overpricing",
-      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
-      "insider_score": 70,
-      "insider_position": "YES",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.16584441469246597,
-      "edge_percent": 16.584441469246595
-    },
-    "log_only": true,
-    "financial_analyst": {
-      "signal_quality": 45.9,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 16.58,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0x28e0cb18af6e59a43e7025072fda03854609e8172bece55ab400f75f7e500eb5",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
@@ -30204,6 +30099,111 @@
       "signal_quality": 46.0,
       "stance": "WATCH_ONLY",
       "edge_percent": 29.18,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
+    "market_slug": "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election",
+    "event_slug": "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election",
+    "wallet": "0x58e737fc005a9635914dbd8b0b423de5a18f8b39",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($2,761)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 2761.00000015,
+      "odds": 0.35,
+      "raw_price": 0.35,
+      "outcome": "Yes",
+      "potential_pnl": 5127.57142885,
+      "pnl_multiplier": 1.8571428571428574,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-10-04T06:28:04.941641",
+    "trade_hash": "0x5cc3304ac8c90842a267eba5f03085391ed50b145cd5f847f08e82d7e5c1dc9d",
+    "trade_timestamp": 1791094519,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.35,
+      "effective_price": 0.35,
+      "size": 7888.571429,
+      "amount": 2761.00000015,
+      "potential_pnl": 5127.57142885,
+      "pnl_multiplier": 1.8571428571428574,
+      "is_no": false,
+      "slug": "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election",
+      "eventSlug": "brazil-presidential-election"
+    },
+    "irrationality": {
+      "irrationality_score": 18,
+      "flags": [
+        "Moderate mispricing edge (+5.2%)"
+      ],
+      "category": "politics_near",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.02,
+        "min_edge": 0.03
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.2975,
+      "market_price": 0.35,
+      "edge": 0.05249999999999999,
+      "edge_percent": 5.249999999999999,
+      "min_edge_required": 0.03,
+      "is_mispriced": true,
+      "edge_quality": "MODERATE",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 18,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.05249999999999999,
+      "edge_percent": 5.249999999999999
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 25.5,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 5.25,
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
