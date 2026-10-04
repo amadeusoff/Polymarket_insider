@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x28e0cb18af6e59a43e7025072fda03854609e8172bece55ab400f75f7e500eb5",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x33b2f697c5dd0e828776dbf37088df559cab38aa",
-      "side": "SELL",
-      "asset": "102227184035967850089766981958743064457339118173548431660886438726896222843254",
-      "conditionId": "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73",
-      "size": 9269.8,
-      "price": 0.2520746121814926,
-      "timestamp": 1780171857,
-      "title": "Will the San Antonio Spurs win the 2026 NBA Finals?",
-      "slug": "will-the-san-antonio-spurs-win-the-2026-nba-finals",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nba-finals-points-leader-7g2ZEZvMXxLb.jpg",
-      "eventSlug": "2026-nba-champion",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "Ausios771901",
-      "pseudonym": "Moist-Outlay",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x28e0cb18af6e59a43e7025072fda03854609e8172bece55ab400f75f7e500eb5",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will the San Antonio Spurs win the 2026 NBA Finals?",
-    "market_slug": "2026-nba-champion",
-    "amount": 2336.68124
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xc78216c8f67e2a464724576c0c39978fa2a261ea4108bc665c281d3dab1ee3d8",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
     "trader": {
@@ -30210,5 +30166,110 @@
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     },
     "resolution_last_check": "2026-10-04T11:55:00.671686+00:00"
+  },
+  {
+    "market": "Will Lula win the most votes in the first round of the 2026 Brazil presidential election?",
+    "market_slug": "will-lula-win-the-most-votes-in-the-first-round-of-the-2026-brazil-presidential-election",
+    "event_slug": "will-lula-win-the-most-votes-in-the-first-round-of-the-2026-brazil-presidential-election",
+    "wallet": "0x832c80ea510df871b9d4bd5e4c0ae576b933d5af",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,946)",
+        "Low activity (4 txns)"
+      ],
+      "amount": 1946.3999999910477,
+      "odds": 0.6299999999,
+      "raw_price": 0.6299999999,
+      "outcome": "Yes",
+      "potential_pnl": 1143.1238100089524,
+      "pnl_multiplier": 0.5873015875535399,
+      "wallet_age_days": 0,
+      "total_activities": 4
+    },
+    "timestamp": "2026-10-04T12:49:08.623224",
+    "trade_hash": "0xe166a789eb868886c3e263fc93e250eeb59755ad725b21e3c78a2cca2a282843",
+    "trade_timestamp": 1791117583,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.6299999999,
+      "effective_price": 0.6299999999,
+      "size": 3089.52381,
+      "amount": 1946.3999999910477,
+      "potential_pnl": 1143.1238100089524,
+      "pnl_multiplier": 0.5873015875535399,
+      "is_no": false,
+      "slug": "will-lula-win-the-most-votes-in-the-first-round-of-the-2026-brazil-presidential-election",
+      "eventSlug": "brazil-presidential-election-first-round-winner"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+22.0%)"
+      ],
+      "category": "politics_near",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.02,
+        "min_edge": 0.03
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.40949999995999997,
+      "market_price": 0.6299999999,
+      "edge": 0.22049999994000002,
+      "edge_percent": 22.049999994000004,
+      "min_edge_required": 0.03,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.22049999994000002,
+      "edge_percent": 22.049999994000004
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 46.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 22.05,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
