@@ -1,109 +1,5 @@
 [
   {
-    "market": "Philadelphia Phillies vs. Los Angeles Dodgers: O/U 8.5",
-    "market_slug": "mlb-phi-lad-2026-05-30-total-8pt5",
-    "event_slug": "mlb-phi-lad-2026-05-30-total-8pt5",
-    "wallet": "0xb7ef3a620c91eccdf523094f604c84f6fcac372c",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,468)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 1468.389999,
-      "odds": 0.5099999999062238,
-      "raw_price": 0.5099999999062238,
-      "outcome": "Under",
-      "potential_pnl": 1410.806078,
-      "pnl_multiplier": 0.9607843140860292,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-05-31T01:53:40.608588",
-    "trade_hash": "0x8d4972bfb7a57965b7c57af2eba7969383b6383cd346e61acb27cd32a8a237ea",
-    "trade_timestamp": 1780191761,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Under",
-      "outcomeIndex": 1,
-      "normalized_position": "NO",
-      "side": "BUY",
-      "price": 0.5099999999062238,
-      "effective_price": 0.5099999999062238,
-      "size": 2879.196077,
-      "amount": 1468.389999,
-      "potential_pnl": 1410.806078,
-      "pnl_multiplier": 0.9607843140860292,
-      "is_no": true,
-      "slug": "mlb-phi-lad-2026-05-30-total-8pt5",
-      "eventSlug": "mlb-phi-lad-2026-05-30"
-    },
-    "irrationality": {
-      "irrationality_score": 25,
-      "flags": [
-        "Significant mispricing edge (+14.8%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": false
-    },
-    "mispricing": {
-      "rational_estimate": 0.3614999999624895,
-      "market_price": 0.5099999999062238,
-      "edge": 0.1484999999437343,
-      "edge_percent": 14.84999999437343,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "low"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 2,
-        "conditions": [
-          "Unknown"
-        ],
-        "weakest_link": "Unknown"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Unknown"
-      ],
-      "confidence_in_analysis": "low"
-    },
-    "combined_signal": {
-      "signal_type": "ALPHA",
-      "signal_emoji": "\ud83d\udd25",
-      "signal_strength": 95,
-      "interpretation": "Smart money (NO) confirms YES is overpriced",
-      "action_suggestion": "High conviction: insider + statistics aligned",
-      "insider_score": 70,
-      "insider_position": "NO",
-      "irrationality_score": 25,
-      "is_irrational": false,
-      "is_mispriced": true,
-      "edge": 0.1484999999437343,
-      "edge_percent": 14.84999999437343
-    },
-    "financial_analyst": {
-      "signal_quality": 76.3,
-      "stance": "HIGH_CONVICTION",
-      "edge_percent": 14.85,
-      "signal_strength": 95.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "market": "Will Portugal win the 2026 FIFA World Cup?",
     "market_slug": "will-portugal-win-the-2026-fifa-world-cup-912",
     "event_slug": "will-portugal-win-the-2026-fifa-world-cup-912",
@@ -30328,6 +30224,111 @@
       "signal_quality": 35.9,
       "stance": "WATCH_ONLY",
       "edge_percent": 11.25,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Roanne: Hugo Gaston vs Pierre-Hugues Herbert",
+    "market_slug": "atp-gaston-herbert-2026",
+    "event_slug": "atp-gaston-herbert-2026",
+    "wallet": "0xbd78c1c8362b277a5cb38314f489ebf4a813112e",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($3,749)",
+        "Low activity (3 txns)"
+      ],
+      "amount": 3749.0895,
+      "odds": 0.65,
+      "raw_price": 0.65,
+      "outcome": "Hugo Gaston",
+      "potential_pnl": 2018.7404999999999,
+      "pnl_multiplier": 0.5384615384615384,
+      "wallet_age_days": 0,
+      "total_activities": 3
+    },
+    "timestamp": "2026-10-14T19:29:04.116970",
+    "trade_hash": "0x65db6ffc36e10085a0d4543f972b2c3e16aa9f45c92c9b0b5b65ca05c323295e",
+    "trade_timestamp": 1792005226,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Hugo Gaston",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.65,
+      "effective_price": 0.65,
+      "size": 5767.83,
+      "amount": 3749.0895,
+      "potential_pnl": 2018.7404999999999,
+      "pnl_multiplier": 0.5384615384615384,
+      "is_no": false,
+      "slug": "atp-gaston-herbert-2026",
+      "eventSlug": "atp-gaston-herbert-2026-10-14"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+23.3%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.4175,
+      "market_price": 0.65,
+      "edge": 0.23250000000000004,
+      "edge_percent": 23.250000000000004,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.23250000000000004,
+      "edge_percent": 23.250000000000004
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 46.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 23.25,
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
