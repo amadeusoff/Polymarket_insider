@@ -1,110 +1,5 @@
 [
   {
-    "market": "Will Portugal win the 2026 FIFA World Cup?",
-    "market_slug": "will-portugal-win-the-2026-fifa-world-cup-912",
-    "event_slug": "will-portugal-win-the-2026-fifa-world-cup-912",
-    "wallet": "0xdcb1c6631c5fe82afb0173ff05a0f2b914c0ee63",
-    "analysis": {
-      "score": 85,
-      "flags": [
-        "New wallet (0d old)",
-        "Against trend (9.3% effective odds)",
-        "Large bet ($2,505)"
-      ],
-      "amount": 2504.8545599999998,
-      "odds": 0.093,
-      "raw_price": 0.093,
-      "outcome": "Yes",
-      "potential_pnl": 24429.06544,
-      "pnl_multiplier": 9.752688172043012,
-      "wallet_age_days": 0,
-      "total_activities": 100
-    },
-    "timestamp": "2026-05-31T18:41:51.569105",
-    "trade_hash": "0x353858f9aade3a6e2ffb03649def46f0d50b4745b7f2e5da94bbee480caee5d4",
-    "trade_timestamp": 1780252341,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "normalized_position": "YES",
-      "side": "BUY",
-      "price": 0.093,
-      "effective_price": 0.093,
-      "size": 26933.92,
-      "amount": 2504.8545599999998,
-      "potential_pnl": 24429.06544,
-      "pnl_multiplier": 9.752688172043012,
-      "is_no": false,
-      "slug": "will-portugal-win-the-2026-fifa-world-cup-912",
-      "eventSlug": "world-cup-winner"
-    },
-    "irrationality": {
-      "irrationality_score": 25,
-      "flags": [
-        "Longshot (9%) in medium bias category (sports)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": false
-    },
-    "mispricing": {
-      "rational_estimate": 0.0597,
-      "market_price": 0.093,
-      "edge": 0.033299999999999996,
-      "edge_percent": 3.3299999999999996,
-      "min_edge_required": 0.05,
-      "is_mispriced": false,
-      "edge_quality": "WEAK",
-      "base_rate_class": "rare",
-      "confidence": "low"
-    },
-    "factors": {
-      "base_rate_class": "rare",
-      "structural_feasibility": {
-        "independent_conditions_required": 2,
-        "conditions": [
-          "Unknown"
-        ],
-        "weakest_link": "Unknown"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Unknown"
-      ],
-      "confidence_in_analysis": "low"
-    },
-    "combined_signal": {
-      "signal_type": "INSIDER_ONLY",
-      "signal_emoji": "\ud83d\udc41\ufe0f",
-      "signal_strength": 85,
-      "interpretation": "Insider activity detected, no clear mispricing",
-      "action_suggestion": "Monitor: insider signal only, no statistical edge",
-      "insider_score": 85,
-      "insider_position": "YES",
-      "irrationality_score": 25,
-      "is_irrational": false,
-      "is_mispriced": false,
-      "edge": 0.033299999999999996,
-      "edge_percent": 3.3299999999999996
-    },
-    "financial_analyst": {
-      "signal_quality": 32.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 3.33,
-      "signal_strength": 85.0,
-      "insider_score": 85.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-06-01T11:36:50.986202+00:00"
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0x9b55ca958e551195458f7981c4cb392568e60a2fd419b28e4d23956647e55f3c",
     "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
@@ -30329,6 +30224,111 @@
       "signal_quality": 46.0,
       "stance": "WATCH_ONLY",
       "edge_percent": 23.25,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Newcastle United FC vs. Aston Villa FC: O/U 3.5",
+    "market_slug": "epl-new-ast-2026-10-17-total-3pt5",
+    "event_slug": "epl-new-ast-2026-10-17-total-3pt5",
+    "wallet": "0xe33ed03b8c0422c3e1686a224e48a40f944a09bf",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,100)",
+        "Low activity (4 txns)"
+      ],
+      "amount": 1100.0000000505263,
+      "odds": 0.3799999999,
+      "raw_price": 0.3799999999,
+      "outcome": "Over",
+      "potential_pnl": 1794.7368429494738,
+      "pnl_multiplier": 1.631578948060942,
+      "wallet_age_days": 0,
+      "total_activities": 4
+    },
+    "timestamp": "2026-10-16T21:18:53.802075",
+    "trade_hash": "0x9b90f35b7d254ec9e411c0c54cb653f18b1b06874f3d4e95ca1ad3d827d56426",
+    "trade_timestamp": 1792184948,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Over",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.3799999999,
+      "effective_price": 0.3799999999,
+      "size": 2894.736843,
+      "amount": 1100.0000000505263,
+      "potential_pnl": 1794.7368429494738,
+      "pnl_multiplier": 1.631578948060942,
+      "is_no": false,
+      "slug": "epl-new-ast-2026-10-17-total-3pt5",
+      "eventSlug": "epl-new-ast-2026-10-17-more-markets"
+    },
+    "irrationality": {
+      "irrationality_score": 18,
+      "flags": [
+        "Moderate mispricing edge (+7.0%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.30949999996,
+      "market_price": 0.3799999999,
+      "edge": 0.07049999994,
+      "edge_percent": 7.049999994,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "MODERATE",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 18,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.07049999994,
+      "edge_percent": 7.049999994
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 28.2,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 7.05,
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
