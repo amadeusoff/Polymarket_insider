@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x17a17320f64a65e784f8bfcc64b8e2b88a2b4c26213a162129a892be61d027fa",
-    "wallet": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-    "trader": {
-      "rank": 1,
-      "address": "0x56687bf447db6ffa42ffe2204a05edaa20f55839",
-      "username": "Theo4",
-      "profit": 22053933.752321757,
-      "volume": 43013258.515682004,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xb91aeb5accc33a5f9a8615b8ed6b2d352e913987",
-      "side": "BUY",
-      "asset": "75562500483077469263457137050431291539829277064604108417948165751270019612132",
-      "conditionId": "0xec1bbf66ea29bb38901de03d34c232a7aa0e5803e989d4e04dc6133301b5770b",
-      "size": 72106.06,
-      "price": 0.5390016151208373,
-      "timestamp": 1780339418,
-      "title": "Kansas City Royals vs. Cincinnati Reds: O/U 8.5",
-      "slug": "mlb-kc-cin-2026-06-01-total-8pt5",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/MLB.jpg",
-      "eventSlug": "mlb-kc-cin-2026-06-01",
-      "outcome": "Over",
-      "outcomeIndex": 0,
-      "name": "afghj2421",
-      "pseudonym": "Humble-Deformation",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x17a17320f64a65e784f8bfcc64b8e2b88a2b4c26213a162129a892be61d027fa",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Kansas City Royals vs. Cincinnati Reds: O/U 8.5",
-    "market_slug": "mlb-kc-cin-2026-06-01",
-    "amount": 38865.2828
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x33b10b1bcf1790428e79b1b73d1a089011c4538b442fb4824f51c8020bb411d0",
     "wallet": "0xd0c042c08f755ff940249f62745e82d356345565",
     "trader": {
@@ -30396,5 +30352,110 @@
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     },
     "resolution_last_check": "2026-10-17T10:15:59.045276+00:00"
+  },
+  {
+    "market": "Spread: Celtics (-1.5)",
+    "market_slug": "nba-nyk-bos-2026-10-23-spread-home-1pt5",
+    "event_slug": "nba-nyk-bos-2026-10-23-spread-home-1pt5",
+    "wallet": "0xfc787f617d63f68b305a6f1b757d012c22f09017",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,584)",
+        "Low activity (3 txns)"
+      ],
+      "amount": 1584.0,
+      "odds": 0.44,
+      "raw_price": 0.44,
+      "outcome": "Knicks",
+      "potential_pnl": 2016.0,
+      "pnl_multiplier": 1.2727272727272727,
+      "wallet_age_days": 0,
+      "total_activities": 3
+    },
+    "timestamp": "2026-10-23T23:23:43.685748",
+    "trade_hash": "0x84555ec562782ecb094fe6b49e2d08ecbb4145cc028cbb1af392e002cdec0d3c",
+    "trade_timestamp": 1792796795,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Knicks",
+      "outcomeIndex": 1,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.44,
+      "effective_price": 0.44,
+      "size": 3600.0,
+      "amount": 1584.0,
+      "potential_pnl": 2016.0,
+      "pnl_multiplier": 1.2727272727272727,
+      "is_no": false,
+      "slug": "nba-nyk-bos-2026-10-23-spread-home-1pt5",
+      "eventSlug": "nba-nyk-bos-2026-10-23"
+    },
+    "irrationality": {
+      "irrationality_score": 25,
+      "flags": [
+        "Significant mispricing edge (+10.6%)"
+      ],
+      "category": "other",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.3335,
+      "market_price": 0.44,
+      "edge": 0.10649999999999998,
+      "edge_percent": 10.649999999999999,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "other",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 25,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.10649999999999998,
+      "edge_percent": 10.649999999999999
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 35.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 10.65,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
