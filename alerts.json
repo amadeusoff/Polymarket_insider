@@ -30426,7 +30426,8 @@
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
+    },
+    "resolution_last_check": "2026-10-25T10:50:42.277642+00:00"
   },
   {
     "market": "Will Aleksandar Vu\u010di\u0107 \u2013 United Serbia win the most seats in the 2026 Serbian parliamentary election?",
@@ -30531,7 +30532,8 @@
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
+    },
+    "resolution_last_check": "2026-10-25T10:50:42.818994+00:00"
   },
   {
     "market": "Will Gadi Eizenkot be the next Prime Minister of Israel?",
@@ -30637,6 +30639,7 @@
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
+    },
+    "resolution_last_check": "2026-10-25T10:50:42.819007+00:00"
   }
 ]
