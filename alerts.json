@@ -1,49 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xb4964d0dcdedfa8efc5f2fdd28edee8ea8b59a9f2dfd973c9e851e312697a83a",
-    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
-    "trader": {
-      "rank": 12,
-      "address": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
-      "username": "BetTom42",
-      "profit": 5642135.735356,
-      "volume": 11212839.523403,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xd84949634cf9aac74cab066cb978ac33ac676ac7",
-      "side": "BUY",
-      "asset": "75688209583286171056400034576676230176281287564453693089142022126787553034210",
-      "conditionId": "0x280f8e4b00877ddf567c6f95604ccefd5d08c171bffe80d71b0c0eb839e3b177",
-      "size": 2406.24,
-      "price": 0.65,
-      "timestamp": 1780573560,
-      "title": "Perugia: Andrea Pellegrino vs Roberto Carballes Baena",
-      "slug": "atp-pellegr-baena-2026-06-04",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
-      "eventSlug": "atp-pellegr-baena-2026-06-04",
-      "outcome": "Andrea Pellegrino",
-      "outcomeIndex": 0,
-      "name": "angelat0",
-      "pseudonym": "Accurate-Discretion",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xb4964d0dcdedfa8efc5f2fdd28edee8ea8b59a9f2dfd973c9e851e312697a83a",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Perugia: Andrea Pellegrino vs Roberto Carballes Baena",
-    "market_slug": "atp-pellegr-baena-2026-06-04",
-    "amount": 1564.0559999999998
-  },
-  {
     "market": "Will Keiko Fujimori win the 2026 Peruvian presidential election?",
     "market_slug": "will-keiko-fujimori-win-the-2026-peruvian-presidential-election",
     "event_slug": "will-keiko-fujimori-win-the-2026-peruvian-presidential-election",
@@ -30698,6 +30654,111 @@
       "signal_quality": 46.0,
       "stance": "WATCH_ONLY",
       "edge_percent": 19.54,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
+    "market_slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
+    "event_slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
+    "wallet": "0xaf1f5a29254ccaf8bf1f7fd1ce94143d12c6be41",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($2,000)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 2000.0000000213859,
+      "odds": 0.3751131311,
+      "raw_price": 0.3751131311,
+      "outcome": "Yes",
+      "potential_pnl": 3331.724842978614,
+      "pnl_multiplier": 1.665862421471494,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-10-25T22:33:26.957658",
+    "trade_hash": "0xab2dc5362e1b06ba3f2f5563b6ff8ba0f473ef8e2402fba6fb9118490241c2b5",
+    "trade_timestamp": 1792966745,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.3751131311,
+      "effective_price": 0.3751131311,
+      "size": 5331.724843,
+      "amount": 2000.0000000213859,
+      "potential_pnl": 3331.724842978614,
+      "pnl_multiplier": 1.665862421471494,
+      "is_no": false,
+      "slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
+      "eventSlug": "brazil-presidential-election"
+    },
+    "irrationality": {
+      "irrationality_score": 18,
+      "flags": [
+        "Moderate mispricing edge (+6.8%)"
+      ],
+      "category": "politics_near",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.02,
+        "min_edge": 0.03
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.30754525243999997,
+      "market_price": 0.3751131311,
+      "edge": 0.06756787866000002,
+      "edge_percent": 6.7567878660000025,
+      "min_edge_required": 0.03,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 18,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.06756787866000002,
+      "edge_percent": 6.7567878660000025
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 27.7,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 6.76,
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
