@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x8a2b8e0ea635f022049264865708aea2e86ed07a45ac7d6d8fb420aca1caa4d9",
-    "wallet": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
-    "trader": {
-      "rank": 10,
-      "address": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
-      "username": "walletmobile",
-      "profit": 5942685.45339684,
-      "volume": 32196692.075936034,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x3aadf692b80874212dc744726fd182fd76ee4e00",
-      "side": "BUY",
-      "asset": "102227184035967850089766981958743064457339118173548431660886438726896222843254",
-      "conditionId": "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73",
-      "size": 5000,
-      "price": 0.641,
-      "timestamp": 1780531087,
-      "title": "Will the San Antonio Spurs win the 2026 NBA Finals?",
-      "slug": "will-the-san-antonio-spurs-win-the-2026-nba-finals",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nba-finals-points-leader-7g2ZEZvMXxLb.jpg",
-      "eventSlug": "2026-nba-champion",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "wintersnow",
-      "pseudonym": "Terrible-Crayfish",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x8a2b8e0ea635f022049264865708aea2e86ed07a45ac7d6d8fb420aca1caa4d9",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will the San Antonio Spurs win the 2026 NBA Finals?",
-    "market_slug": "2026-nba-champion",
-    "amount": 3205.0
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0xb4964d0dcdedfa8efc5f2fdd28edee8ea8b59a9f2dfd973c9e851e312697a83a",
     "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
     "trader": {
@@ -30641,5 +30597,110 @@
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     },
     "resolution_last_check": "2026-10-25T10:50:42.819007+00:00"
+  },
+  {
+    "market": "Will Student List \u2013 Students Win win the most seats in the 2026 Serbian parliamentary election?",
+    "market_slug": "will-student-list-students-win-win-the-most-seats-in-the-2026-serbian-parliamentary-election",
+    "event_slug": "will-student-list-students-win-win-the-most-seats-in-the-2026-serbian-parliamentary-election",
+    "wallet": "0xd2bb421350ec05d3e03ef802a17968d0ecf7bfb8",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,999)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 1999.0000001224932,
+      "odds": 0.5881355207,
+      "raw_price": 0.5881355207,
+      "outcome": "Yes",
+      "potential_pnl": 1399.8764998775066,
+      "pnl_multiplier": 0.7002883940929094,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-10-25T14:16:51.126380",
+    "trade_hash": "0x813d03bf2b903fbd4a3a747a49e8096d10c3ee2579177d7f5e220489985b9257",
+    "trade_timestamp": 1792937225,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.5881355207,
+      "effective_price": 0.5881355207,
+      "size": 3398.8765,
+      "amount": 1999.0000001224932,
+      "potential_pnl": 1399.8764998775066,
+      "pnl_multiplier": 0.7002883940929094,
+      "is_no": false,
+      "slug": "will-student-list-students-win-win-the-most-seats-in-the-2026-serbian-parliamentary-election",
+      "eventSlug": "serbia-parliamentary-election-winner-2026"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+19.5%)"
+      ],
+      "category": "politics_near",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.02,
+        "min_edge": 0.03
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.39275420827999996,
+      "market_price": 0.5881355207,
+      "edge": 0.19538131242,
+      "edge_percent": 19.538131242000002,
+      "min_edge_required": 0.03,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.19538131242,
+      "edge_percent": 19.538131242000002
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 46.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 19.54,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
