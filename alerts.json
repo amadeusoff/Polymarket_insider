@@ -1,51 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x134e9d0e716b814c9f6c4849913d2fc72acca1fc517edc095b190aa05ddcd478",
-    "wallet": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
-    "trader": {
-      "rank": 16,
-      "address": "0x507e52ef684ca2dd91f90a9d26d149dd3288beae",
-      "username": "GamblingIsAllYouNeed",
-      "profit": 4770064.495767243,
-      "volume": 435770742.86255205,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x13659c6a1aacd0e3bcb022e06261fff367f6c82a",
-      "side": "BUY",
-      "asset": "83576869700848977736962962097654977218167661784342664106864546592340500960843",
-      "conditionId": "0x22fe7940e99aca1cfc057c96e2db3a681bf7099940dc629752bce196897223f9",
-      "size": 1954.79,
-      "price": 0.86,
-      "timestamp": 1780481645,
-      "title": "LoL: EDward Gaming vs Bilibili Gaming - Game 2 Winner",
-      "slug": "lol-edg-blg-2026-06-03-game2",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
-      "eventSlug": "lol-edg-blg-2026-06-03",
-      "outcome": "Bilibili Gaming",
-      "outcomeIndex": 1,
-      "name": "what-the-dog-doin",
-      "pseudonym": "Blue-Refuse",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x134e9d0e716b814c9f6c4849913d2fc72acca1fc517edc095b190aa05ddcd478",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "LoL: EDward Gaming vs Bilibili Gaming - Game 2 Winner",
-    "market_slug": "lol-edg-blg-2026-06-03",
-    "amount": 1681.1194,
-    "resolution_last_check": "2026-06-03T11:03:54.779530+00:00"
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x8a2b8e0ea635f022049264865708aea2e86ed07a45ac7d6d8fb420aca1caa4d9",
     "wallet": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
     "trader": {
@@ -30573,6 +30528,112 @@
       "signal_quality": 46.0,
       "stance": "WATCH_ONLY",
       "edge_percent": 28.05,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Will Gadi Eizenkot be the next Prime Minister of Israel?",
+    "market_slug": "will-gadi-eizenkot-be-the-next-prime-minister-of-israel",
+    "event_slug": "will-gadi-eizenkot-be-the-next-prime-minister-of-israel",
+    "wallet": "0x9dfd5f82c80bf5b0c93a8584212217a1cd3da0db",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($4,940)",
+        "Low activity (2 txns)"
+      ],
+      "amount": 4939.810000338192,
+      "odds": 0.533699958,
+      "raw_price": 0.533699958,
+      "outcome": "Yes",
+      "potential_pnl": 4315.971129661807,
+      "pnl_multiplier": 0.8737119705750472,
+      "wallet_age_days": 0,
+      "total_activities": 2
+    },
+    "timestamp": "2026-10-25T09:57:42.486513",
+    "trade_hash": "0x3868b8bad55c3eac6450cf1984887af7dc6878ebc555bdde49e970d0630d64db",
+    "trade_timestamp": 1792921470,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.533699958,
+      "effective_price": 0.533699958,
+      "size": 9255.78113,
+      "amount": 4939.810000338192,
+      "potential_pnl": 4315.971129661807,
+      "pnl_multiplier": 0.8737119705750472,
+      "is_no": false,
+      "slug": "will-gadi-eizenkot-be-the-next-prime-minister-of-israel",
+      "eventSlug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election"
+    },
+    "irrationality": {
+      "irrationality_score": 30,
+      "flags": [
+        "Category structurally prone to longshot bias",
+        "Significant mispricing edge (+13.1%)"
+      ],
+      "category": "geopolitics",
+      "category_info": {
+        "strength": "high",
+        "typical_overpricing": 0.05,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.4024799832,
+      "market_price": 0.533699958,
+      "edge": 0.13121997480000003,
+      "edge_percent": 13.121997480000003,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "geopolitics",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 30,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.13121997480000003,
+      "edge_percent": 13.121997480000003
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 39.7,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 13.12,
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
