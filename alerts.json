@@ -1,156 +1,5 @@
 [
   {
-    "market": "Will Keiko Fujimori win the 2026 Peruvian presidential election?",
-    "market_slug": "will-keiko-fujimori-win-the-2026-peruvian-presidential-election",
-    "event_slug": "will-keiko-fujimori-win-the-2026-peruvian-presidential-election",
-    "wallet": "0x2907d5f25a494b80ca0f5d4d736a2965fec2b27c",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($14,874)",
-        "Low activity (4 txns)"
-      ],
-      "amount": 14873.67,
-      "odds": 0.7873438158105007,
-      "raw_price": 0.7873438158105007,
-      "outcome": "Yes",
-      "potential_pnl": 4017.2766250000004,
-      "pnl_multiplier": 0.2700931663133578,
-      "wallet_age_days": 0,
-      "total_activities": 4
-    },
-    "timestamp": "2026-06-04T17:26:31.720201",
-    "trade_hash": "0xfa62639833e9d8ce3646e434dc37218807ea0ee785eaac8669c21a65a99d8acb",
-    "trade_timestamp": 1780593741,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "normalized_position": "YES",
-      "side": "BUY",
-      "price": 0.7873438158105007,
-      "effective_price": 0.7873438158105007,
-      "size": 18890.946625,
-      "amount": 14873.67,
-      "potential_pnl": 4017.2766250000004,
-      "pnl_multiplier": 0.2700931663133578,
-      "is_no": false,
-      "slug": "will-keiko-fujimori-win-the-2026-peruvian-presidential-election",
-      "eventSlug": "peru-presidential-election-winner"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+31.5%)"
-      ],
-      "category": "politics_near",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.02,
-        "min_edge": 0.03
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.4724375263242003,
-      "market_price": 0.7873438158105007,
-      "edge": 0.31490628948630045,
-      "edge_percent": 31.490628948630047,
-      "min_edge_required": 0.03,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "low"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 2,
-        "conditions": [
-          "Unknown"
-        ],
-        "weakest_link": "Unknown"
-      },
-      "category": "politics_near",
-      "narrative_drivers": [
-        "Unknown"
-      ],
-      "confidence_in_analysis": "low"
-    },
-    "combined_signal": {
-      "signal_type": "CONFLICT",
-      "signal_emoji": "\u26a0\ufe0f",
-      "signal_strength": 70,
-      "interpretation": "Insider buying YES despite statistical overpricing",
-      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
-      "insider_score": 70,
-      "insider_position": "YES",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.31490628948630045,
-      "edge_percent": 31.490628948630047
-    },
-    "log_only": true,
-    "financial_analyst": {
-      "signal_quality": 46.0,
-      "stance": "WATCH_ONLY",
-      "edge_percent": 31.49,
-      "signal_strength": 70.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    },
-    "resolution_last_check": "2026-06-05T09:50:37.291174+00:00"
-  },
-  {
-    "type": "TOP_TRADER",
-    "trade_hash": "0xbc58ebca2f586cd564200456425ba21948fa917500ef13709a95d114cc6fb224",
-    "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
-    "trader": {
-      "rank": 8,
-      "address": "0x863134d00841b2e200492805a01e1e2f5defaa53",
-      "username": "RepTrump",
-      "profit": 7532409.671579,
-      "volume": 13983231.103425002,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0x182bd8bf2f11a572c4ec686aae3a0d919adcf3d3",
-      "side": "SELL",
-      "asset": "77669758102929718590160851391714019116736856202333459817343190730743895177270",
-      "conditionId": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
-      "size": 35000,
-      "price": 0.83,
-      "timestamp": 1780613623,
-      "title": "Strait of Hormuz traffic returns to normal by end of June?",
-      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-june",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ships-transit-the-strait-of-hormuz-on-any-day-in-march-ERARnetK0FJm.jpg",
-      "eventSlug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-june",
-      "outcome": "No",
-      "outcomeIndex": 1,
-      "name": "peoplearestrange",
-      "pseudonym": "Weird-Calorie",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0xbc58ebca2f586cd564200456425ba21948fa917500ef13709a95d114cc6fb224",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Strait of Hormuz traffic returns to normal by end of June?",
-    "market_slug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-june",
-    "amount": 29050.0,
-    "resolution_last_check": "2026-06-05T09:50:37.291190+00:00"
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0x378bda105cca10008962a6424252d35e30149196cca3cfa2994d5dbda8171d67",
     "wallet": "0xbddf61af533ff524d27154e589d2d7a81510c684",
@@ -30759,6 +30608,216 @@
       "signal_quality": 27.7,
       "stance": "WATCH_ONLY",
       "edge_percent": 6.76,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Will Kylian Mbapp\u00e9 win the 2026 Ballon d'Or?",
+    "market_slug": "will-kylian-mbapp-win-the-2026-ballon-dor",
+    "event_slug": "will-kylian-mbapp-win-the-2026-ballon-dor",
+    "wallet": "0xc4bbd17a5868af03b5653bba8ddb590746a2827d",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($5,609)",
+        "Low activity (2 txns)"
+      ],
+      "amount": 5608.961000831763,
+      "odds": 0.2465997159,
+      "raw_price": 0.2465997159,
+      "outcome": "Yes",
+      "potential_pnl": 17136.24363316824,
+      "pnl_multiplier": 3.0551547123659937,
+      "wallet_age_days": 0,
+      "total_activities": 2
+    },
+    "timestamp": "2026-10-26T17:36:41.622764",
+    "trade_hash": "0x1a3d03e76511b4b135a5dc597aa8bd411eed2e84f93760a5d240d8fb77f54ea1",
+    "trade_timestamp": 1793035886,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.2465997159,
+      "effective_price": 0.2465997159,
+      "size": 22745.204634,
+      "amount": 5608.961000831763,
+      "potential_pnl": 17136.24363316824,
+      "pnl_multiplier": 3.0551547123659937,
+      "is_no": false,
+      "slug": "will-kylian-mbapp-win-the-2026-ballon-dor",
+      "eventSlug": "ballon-dor-winner-2026"
+    },
+    "irrationality": {
+      "irrationality_score": 18,
+      "flags": [
+        "Moderate mispricing edge (+8.0%)"
+      ],
+      "category": "politics_near",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.02,
+        "min_edge": 0.03
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.16613988636,
+      "market_price": 0.2465997159,
+      "edge": 0.08045982954,
+      "edge_percent": 8.045982954,
+      "min_edge_required": 0.03,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "occasional",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "occasional",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 18,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.08045982954,
+      "edge_percent": 8.045982954
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 29.7,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 8.05,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Will Kylian Mbapp\u00e9 win the 2026 Ballon d'Or?",
+    "market_slug": "will-kylian-mbapp-win-the-2026-ballon-dor",
+    "event_slug": "will-kylian-mbapp-win-the-2026-ballon-dor",
+    "wallet": "0xc4bbd17a5868af03b5653bba8ddb590746a2827d",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($4,106)",
+        "Low activity (2 txns)"
+      ],
+      "amount": 4106.098999263722,
+      "odds": 0.2274402291,
+      "raw_price": 0.2274402291,
+      "outcome": "Yes",
+      "potential_pnl": 13947.431000736276,
+      "pnl_multiplier": 3.396759552859596,
+      "wallet_age_days": 0,
+      "total_activities": 2
+    },
+    "timestamp": "2026-10-26T17:36:44.305378",
+    "trade_hash": "0x36a9f5832cc61c08b098caf643b5bc0bf34844909e5a925536e8a99b5b76ce3d",
+    "trade_timestamp": 1793035886,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.2274402291,
+      "effective_price": 0.2274402291,
+      "size": 18053.53,
+      "amount": 4106.098999263722,
+      "potential_pnl": 13947.431000736276,
+      "pnl_multiplier": 3.396759552859596,
+      "is_no": false,
+      "slug": "will-kylian-mbapp-win-the-2026-ballon-dor",
+      "eventSlug": "ballon-dor-winner-2026"
+    },
+    "irrationality": {
+      "irrationality_score": 18,
+      "flags": [
+        "Moderate mispricing edge (+6.9%)"
+      ],
+      "category": "politics_near",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.02,
+        "min_edge": 0.03
+      },
+      "is_irrational": false
+    },
+    "mispricing": {
+      "rational_estimate": 0.15847609163999998,
+      "market_price": 0.2274402291,
+      "edge": 0.06896413746000002,
+      "edge_percent": 6.896413746000002,
+      "min_edge_required": 0.03,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "occasional",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "occasional",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 18,
+      "is_irrational": false,
+      "is_mispriced": true,
+      "edge": 0.06896413746000002,
+      "edge_percent": 6.896413746000002
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 27.9,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 6.9,
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
