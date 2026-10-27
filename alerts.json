@@ -1,50 +1,5 @@
 [
   {
-    "type": "TOP_TRADER",
-    "trade_hash": "0x378bda105cca10008962a6424252d35e30149196cca3cfa2994d5dbda8171d67",
-    "wallet": "0xbddf61af533ff524d27154e589d2d7a81510c684",
-    "trader": {
-      "rank": 19,
-      "address": "0xbddf61af533ff524d27154e589d2d7a81510c684",
-      "username": "Countryside",
-      "profit": 4529890.867522519,
-      "volume": 371140379.09422,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
-      "side": "BUY",
-      "asset": "9298716986084654212089808795927470189869441874998360382670367288864614228903",
-      "conditionId": "0x27eea2fd9a296dce236f03c67543e1dde2ad1c3e6e01108ac612c60d307efdf6",
-      "size": 17256.309135,
-      "price": 0.5794981951104228,
-      "timestamp": 1780649151,
-      "title": "Dota 2: Team Falcons vs BetBoom Team - Game 1 Winner",
-      "slug": "dota2-flc-bb4-2026-06-05-game1",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/dota2-7ffacddb21.jpg",
-      "eventSlug": "dota2-flc-bb4-2026-06-05",
-      "outcome": "BetBoom Team",
-      "outcomeIndex": 1,
-      "name": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
-      "pseudonym": "Happy-Go-Lucky-Nestling",
-      "bio": "",
-      "profileImage": "",
-      "profileImageOptimized": "",
-      "transactionHash": "0x378bda105cca10008962a6424252d35e30149196cca3cfa2994d5dbda8171d67",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Dota 2: Team Falcons vs BetBoom Team - Game 1 Winner",
-    "market_slug": "dota2-flc-bb4-2026-06-05",
-    "amount": 9999.999998000001,
-    "resolution_last_check": "2026-06-05T09:50:37.831584+00:00"
-  },
-  {
     "market": "Knicks vs. Spurs",
     "market_slug": "nba-nyk-sas-2026",
     "event_slug": "nba-nyk-sas-2026",
@@ -30818,6 +30773,113 @@
       "signal_quality": 27.9,
       "stance": "WATCH_ONLY",
       "edge_percent": 6.9,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
+    "market_slug": "will-benjamin-netanyahu-be-the-next-prime-minister-of-israel",
+    "event_slug": "will-benjamin-netanyahu-be-the-next-prime-minister-of-israel",
+    "wallet": "0x414d9d9373eacc1b1752f8da9eca69135c25fb68",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($1,497)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 1496.9999998854405,
+      "odds": 0.2392054926,
+      "raw_price": 0.2392054926,
+      "outcome": "Yes",
+      "potential_pnl": 4761.217500114559,
+      "pnl_multiplier": 3.1805060123439652,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-10-27T18:12:13.608670",
+    "trade_hash": "0x0bf4cc8e8b9f8ad8d24ba506d6b6817fea451b85f4dc5353062a66bf94496aa7",
+    "trade_timestamp": 1793124282,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.2392054926,
+      "effective_price": 0.2392054926,
+      "size": 6258.2175,
+      "amount": 1496.9999998854405,
+      "potential_pnl": 4761.217500114559,
+      "pnl_multiplier": 3.1805060123439652,
+      "is_no": false,
+      "slug": "will-benjamin-netanyahu-be-the-next-prime-minister-of-israel",
+      "eventSlug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election"
+    },
+    "irrationality": {
+      "irrationality_score": 48,
+      "flags": [
+        "Longshot (24%) in high bias category (geopolitics)",
+        "Category structurally prone to longshot bias",
+        "Moderate mispricing edge (+6.3%)"
+      ],
+      "category": "geopolitics",
+      "category_info": {
+        "strength": "high",
+        "typical_overpricing": 0.05,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.17668219704,
+      "market_price": 0.2392054926,
+      "edge": 0.06252329556000003,
+      "edge_percent": 6.252329556000003,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "MODERATE",
+      "base_rate_class": "occasional",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "occasional",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "geopolitics",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 48,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.06252329556000003,
+      "edge_percent": 6.252329556000003
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 33.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 6.25,
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
