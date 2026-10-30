@@ -1,109 +1,5 @@
 [
   {
-    "market": "Knicks vs. Spurs",
-    "market_slug": "nba-nyk-sas-2026",
-    "event_slug": "nba-nyk-sas-2026",
-    "wallet": "0xf8371076fb3df0fcfcdb4d9f16bbe98bb241bd42",
-    "analysis": {
-      "score": 70,
-      "flags": [
-        "New wallet (0d old)",
-        "Large bet ($1,905)",
-        "Low activity (1 txns)"
-      ],
-      "amount": 1905.3899980000003,
-      "odds": 0.6799999999286236,
-      "raw_price": 0.6799999999286236,
-      "outcome": "Spurs",
-      "potential_pnl": 896.6541169999998,
-      "pnl_multiplier": 0.47058823544847833,
-      "wallet_age_days": 0,
-      "total_activities": 1
-    },
-    "timestamp": "2026-06-05T23:36:19.856977",
-    "trade_hash": "0xd597e9c481ef1521b9f726aae7b2af232e2f0d484d58e67af1f3d3eb298a1a84",
-    "trade_timestamp": 1780702282,
-    "latency": null,
-    "wallet_stats": null,
-    "top_trader": null,
-    "trade_data": {
-      "outcome": "Spurs",
-      "outcomeIndex": 1,
-      "normalized_position": "NO",
-      "side": "BUY",
-      "price": 0.6799999999286236,
-      "effective_price": 0.6799999999286236,
-      "size": 2802.044115,
-      "amount": 1905.3899980000003,
-      "potential_pnl": 896.6541169999998,
-      "pnl_multiplier": 0.47058823544847833,
-      "is_no": false,
-      "slug": "nba-nyk-sas-2026",
-      "eventSlug": "nba-nyk-sas-2026-06-05"
-    },
-    "irrationality": {
-      "irrationality_score": 35,
-      "flags": [
-        "Large mispricing edge (+25.0%)"
-      ],
-      "category": "sports",
-      "category_info": {
-        "strength": "medium",
-        "typical_overpricing": 0.03,
-        "min_edge": 0.05
-      },
-      "is_irrational": true
-    },
-    "mispricing": {
-      "rational_estimate": 0.42949999997144944,
-      "market_price": 0.6799999999286236,
-      "edge": 0.25049999995717415,
-      "edge_percent": 25.049999995717414,
-      "min_edge_required": 0.05,
-      "is_mispriced": true,
-      "edge_quality": "STRONG",
-      "base_rate_class": "common",
-      "confidence": "low"
-    },
-    "factors": {
-      "base_rate_class": "common",
-      "structural_feasibility": {
-        "independent_conditions_required": 2,
-        "conditions": [
-          "Unknown"
-        ],
-        "weakest_link": "Unknown"
-      },
-      "category": "sports",
-      "narrative_drivers": [
-        "Unknown"
-      ],
-      "confidence_in_analysis": "low"
-    },
-    "combined_signal": {
-      "signal_type": "ALPHA",
-      "signal_emoji": "\ud83d\udd25",
-      "signal_strength": 105,
-      "interpretation": "Smart money (NO) confirms YES is overpriced",
-      "action_suggestion": "High conviction: insider + statistics aligned",
-      "insider_score": 70,
-      "insider_position": "NO",
-      "irrationality_score": 35,
-      "is_irrational": true,
-      "is_mispriced": true,
-      "edge": 0.25049999995717415,
-      "edge_percent": 25.049999995717414
-    },
-    "financial_analyst": {
-      "signal_quality": 81.0,
-      "stance": "HIGH_CONVICTION",
-      "edge_percent": 25.05,
-      "signal_strength": 105.0,
-      "insider_score": 70.0,
-      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
-    }
-  },
-  {
     "type": "TOP_TRADER",
     "trade_hash": "0x33aa2a4b1b33e0be65b94baa0be5c82d018ad9ff054a63ccf3b16aeeb9945539",
     "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
@@ -30885,5 +30781,111 @@
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     },
     "resolution_last_check": "2026-10-28T12:13:46.024981+00:00"
+  },
+  {
+    "market": "Counter-Strike: MOUZ vs FURIA (BO3) - PGL Masters Bucharest Playoffs",
+    "market_slug": "cs2-mouz-furia-2026",
+    "event_slug": "cs2-mouz-furia-2026",
+    "wallet": "0x52778e3371b65fffcc7b96f32a93426ddfffad90",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($4,875)",
+        "Low activity (4 txns)"
+      ],
+      "amount": 4875.15,
+      "odds": 0.6,
+      "raw_price": 0.6,
+      "outcome": "MOUZ",
+      "potential_pnl": 3250.1000000000004,
+      "pnl_multiplier": 0.6666666666666667,
+      "wallet_age_days": 0,
+      "total_activities": 4
+    },
+    "timestamp": "2026-10-30T14:19:25.335280",
+    "trade_hash": "0x4ab90254aea06097980fd268ff7e0f55f05598daeaea1a8623eb7bf678323b45",
+    "trade_timestamp": 1793369475,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "MOUZ",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.6,
+      "effective_price": 0.6,
+      "size": 8125.25,
+      "amount": 4875.15,
+      "potential_pnl": 3250.1000000000004,
+      "pnl_multiplier": 0.6666666666666667,
+      "is_no": false,
+      "slug": "cs2-mouz-furia-2026",
+      "eventSlug": "cs2-mouz-furia-2026-10-30"
+    },
+    "irrationality": {
+      "irrationality_score": 45,
+      "flags": [
+        "Crisis keyword detected ('strike')",
+        "Large mispricing edge (+20.2%)"
+      ],
+      "category": "sports",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.03,
+        "min_edge": 0.05
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.39749999999999996,
+      "market_price": 0.6,
+      "edge": 0.2025,
+      "edge_percent": 20.25,
+      "min_edge_required": 0.05,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "sports",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 45,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.2025,
+      "edge_percent": 20.25
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 48.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 20.25,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
   }
 ]
