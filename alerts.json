@@ -1,50 +1,6 @@
 [
   {
     "type": "TOP_TRADER",
-    "trade_hash": "0x33aa2a4b1b33e0be65b94baa0be5c82d018ad9ff054a63ccf3b16aeeb9945539",
-    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-    "trader": {
-      "rank": 7,
-      "address": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
-      "username": "zxgngl",
-      "profit": 7807265.589240883,
-      "volume": 40551790.62184699,
-      "positions": 0,
-      "positions_won": 0,
-      "positions_lost": 0,
-      "win_rate": 0.6
-    },
-    "trade": {
-      "proxyWallet": "0xad89f899f1524533adfd1e6a07da692fcd92f6e1",
-      "side": "BUY",
-      "asset": "13020173070412670615774908798965378076656790704173643652212779423648275454798",
-      "conditionId": "0xccefe5550fe4d9e1fdf9888db50b800c1d8633d9d7404313b7b09e847f8e0692",
-      "size": 2330.38,
-      "price": 0.8148867566662947,
-      "timestamp": 1780702762,
-      "title": "Will Nithya Raman finish second in the first round of the 2026 Los Angeles mayoral election?",
-      "slug": "will-nithya-raman-finish-second-in-the-first-round-of-the-2026-los-angeles-mayoral-election",
-      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-nithya-raman-win-the-2026-los-angeles-mayoral-election-sVKhbp4tGVUy.jpg",
-      "eventSlug": "la-mayoral-election-first-round-second-place",
-      "outcome": "Yes",
-      "outcomeIndex": 0,
-      "name": "VivaMoldova",
-      "pseudonym": "Submissive-Clan",
-      "bio": "",
-      "profileImage": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-2856325-dde217ca-306a-441b-9aa0-1bef622a1f70.webp",
-      "profileImageOptimized": "",
-      "transactionHash": "0x33aa2a4b1b33e0be65b94baa0be5c82d018ad9ff054a63ccf3b16aeeb9945539",
-      "market": {
-        "question": "Unknown market",
-        "slug": ""
-      }
-    },
-    "market": "Will Nithya Raman finish second in the first round of the 2026 Los Angeles mayoral election?",
-    "market_slug": "la-mayoral-election-first-round-second-place",
-    "amount": 1898.9958
-  },
-  {
-    "type": "TOP_TRADER",
     "trade_hash": "0x72f6f3b9de573be45bac22a9f8178d852b6f1149bfe75902b0b3fe3caeaf87ed",
     "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
     "trader": {
@@ -30883,6 +30839,111 @@
       "signal_quality": 48.0,
       "stance": "WATCH_ONLY",
       "edge_percent": 20.25,
+      "signal_strength": 70.0,
+      "insider_score": 70.0,
+      "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
+    }
+  },
+  {
+    "market": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
+    "market_slug": "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections",
+    "event_slug": "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections",
+    "wallet": "0x0eaa1d1150791c735bd01cf78684a8d1be9c3722",
+    "analysis": {
+      "score": 70,
+      "flags": [
+        "New wallet (0d old)",
+        "Large bet ($4,032)",
+        "Low activity (1 txns)"
+      ],
+      "amount": 4032.0,
+      "odds": 0.72,
+      "raw_price": 0.72,
+      "outcome": "Yes",
+      "potential_pnl": 1568.0,
+      "pnl_multiplier": 0.3888888888888889,
+      "wallet_age_days": 0,
+      "total_activities": 1
+    },
+    "timestamp": "2026-10-31T22:26:33.263453",
+    "trade_hash": "0x0121156143e187aa24af4fa0faa5b67997bc64010770e9a3c9f50fa42f77ad6a",
+    "trade_timestamp": 1793485260,
+    "latency": null,
+    "wallet_stats": null,
+    "top_trader": null,
+    "trade_data": {
+      "outcome": "Yes",
+      "outcomeIndex": 0,
+      "normalized_position": "YES",
+      "side": "BUY",
+      "price": 0.72,
+      "effective_price": 0.72,
+      "size": 5600.0,
+      "amount": 4032.0,
+      "potential_pnl": 1568.0,
+      "pnl_multiplier": 0.3888888888888889,
+      "is_no": false,
+      "slug": "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections",
+      "eventSlug": "which-party-will-win-the-senate-in-2026"
+    },
+    "irrationality": {
+      "irrationality_score": 35,
+      "flags": [
+        "Large mispricing edge (+27.5%)"
+      ],
+      "category": "politics_near",
+      "category_info": {
+        "strength": "medium",
+        "typical_overpricing": 0.02,
+        "min_edge": 0.03
+      },
+      "is_irrational": true
+    },
+    "mispricing": {
+      "rational_estimate": 0.44549999999999995,
+      "market_price": 0.72,
+      "edge": 0.2745,
+      "edge_percent": 27.450000000000003,
+      "min_edge_required": 0.03,
+      "is_mispriced": true,
+      "edge_quality": "STRONG",
+      "base_rate_class": "common",
+      "confidence": "low"
+    },
+    "factors": {
+      "base_rate_class": "common",
+      "structural_feasibility": {
+        "independent_conditions_required": 2,
+        "conditions": [
+          "Unknown"
+        ],
+        "weakest_link": "Unknown"
+      },
+      "category": "politics_near",
+      "narrative_drivers": [
+        "Unknown"
+      ],
+      "confidence_in_analysis": "low"
+    },
+    "combined_signal": {
+      "signal_type": "CONFLICT",
+      "signal_emoji": "\u26a0\ufe0f",
+      "signal_strength": 70,
+      "interpretation": "Insider buying YES despite statistical overpricing",
+      "action_suggestion": "Requires manual analysis: insider may have real info OR is part of irrational crowd",
+      "insider_score": 70,
+      "insider_position": "YES",
+      "irrationality_score": 35,
+      "is_irrational": true,
+      "is_mispriced": true,
+      "edge": 0.2745,
+      "edge_percent": 27.450000000000003
+    },
+    "log_only": true,
+    "financial_analyst": {
+      "signal_quality": 46.0,
+      "stance": "WATCH_ONLY",
+      "edge_percent": 27.45,
       "signal_strength": 70.0,
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
