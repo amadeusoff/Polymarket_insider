@@ -24796,7 +24796,13 @@
       "insider_score": 70.0,
       "risk_note": "Use fixed fractional risk (1-2% bankroll) and avoid averaging down."
     },
-    "resolution_last_check": "2026-08-09T06:59:31.616858+00:00"
+    "resolution_last_check": "2026-08-09T06:59:31.616858+00:00",
+    "resolution": {
+      "outcome": "No",
+      "checked_at": "2026-11-20T15:00:11.075473+00:00",
+      "insider_win": false,
+      "model_correct": true
+    }
   },
   {
     "market": "National Bank Open: Aryna Sabalenka vs Ekaterina Alexandrova",
